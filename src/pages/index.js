@@ -11,6 +11,7 @@ export default function Home() {
     <Layout>
       <div>
         <h1 className="uppercase">Fluent Blogs</h1>
+        <a>https://chat.openai.com/</a>
       </div>
     </Layout>
   );
