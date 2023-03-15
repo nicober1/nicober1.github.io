@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfluentblogs=self.webpackChunkfluentblogs||[]).push([[487],{9888:l=>{l.exports=JSON.parse('{"label":"fluentblogs","permalink":"/blog/tags/fluentblogs","allTagsPath":"/blog/tags","count":1}')}}]);
