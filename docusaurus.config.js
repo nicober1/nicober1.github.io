@@ -3,14 +3,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const { ProvidePlugin } = require("webpack");
 
 const config = {
-  title: "Fluent Blogger",
-  tagline: "Blogging is Life",
+  title: "Fluent Blogs",
+  tagline: "",
   favicon: "img/favicon.ico",
 
   url: "https://nicober.org",
   baseUrl: "/",
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
@@ -90,7 +90,7 @@ const config = {
   themeConfig: {
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Fluent Blogs",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -100,54 +100,14 @@ const config = {
           type: "doc",
           docId: "intro",
           position: "left",
-          label: "Tutorial",
+          label: "Docs",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Blogs", position: "left" },
       ],
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
+      links: [],
     },
     prism: {
       theme: lightCodeTheme,
