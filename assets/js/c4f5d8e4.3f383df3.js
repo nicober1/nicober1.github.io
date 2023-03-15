@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfluentblogs=self.webpackChunkfluentblogs||[]).push([[195],{2841:(e,l,t)=>{t.r(l),t.d(l,{default:()=>a});var n=t(7294),u=(t(9960),t(2263)),s=t(7676);function a(){(0,u.Z)().siteConfig;return n.createElement(s.Z,null,n.createElement("div",null,n.createElement("h1",{className:"uppercase"},"Fluent Blogs")))}}}]);
