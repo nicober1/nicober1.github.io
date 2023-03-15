@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfluentblogs=self.webpackChunkfluentblogs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ChatGPT","permalink":"/blog/2023/03/16/ChatGPT"}]}')}}]);
