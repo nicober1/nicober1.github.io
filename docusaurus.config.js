@@ -78,6 +78,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          blogSidebarTitle: 'Blogs',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 'ALL',
           showReadingTime: true,
         },
         theme: {
