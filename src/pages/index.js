@@ -8,7 +8,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext()
   return (
     <Layout noFooter wrapperClassName="home-page">
-      <div>
+      <div className="relative mx-auto max-w-5xl pt-20 sm:pt-24 lg:pt-32">
         <h1 className="text-center text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white sm:text-5xl lg:text-6xl">
           Fluent Blogs
         </h1>
