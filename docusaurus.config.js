@@ -102,7 +102,7 @@ const config = {
       {
         name: 'keywords',
         content:
-          'blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net',
+          'blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin',
       },
     ],
     image: 'img/docusaurus-social-card.jpg',
