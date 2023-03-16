@@ -86,6 +86,15 @@ const config = {
       },
     ],
   ],
+   scripts: [
+    // String format.
+    //'https://docusaurus.io/script.js',
+    // Object format.
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6812671644017150',
+      async: true,
+    },
+  ],
 
   themeConfig: {
     metadata: [
