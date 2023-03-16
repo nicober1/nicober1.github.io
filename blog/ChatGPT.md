@@ -1,5 +1,4 @@
 ---
-authors: [nico]
 tags: [ChatGPT]
 ---
 
