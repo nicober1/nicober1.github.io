@@ -18,12 +18,12 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
+  plugins: [[
     '@docusaurus/plugin-google-gtag',
     {
       trackingID: 'G-E813HX79PL',
       anonymizeIP: true,
-    },
+    }],
     function tailwindPlugin(context, options) {
       return {
         name: 'tailwind-plugin',
