@@ -97,9 +97,6 @@ const config = {
     ],
   ],
   scripts: [
-    // String format.
-    //'https://docusaurus.io/script.js',
-    // Object format.
     {
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6812671644017150',
       async: true,
@@ -123,15 +120,7 @@ const config = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Docs',
-        },
-        { to: '/blog', label: 'Blogs', position: 'left' },
-      ],
+      items: [{ to: '/blog', label: 'Blogs', position: 'left' }],
     },
     footer: {
       style: 'dark',
