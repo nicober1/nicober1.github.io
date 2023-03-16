@@ -7,7 +7,7 @@ const config = {
   tagline: '',
   favicon: 'img/favicon.ico',
 
-  url: 'https://nicober.org',
+  url: 'https://fluentblogs.com',
   baseUrl: '/',
 
   onBrokenLinks: 'warn',
@@ -18,12 +18,14 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [[
-    '@docusaurus/plugin-google-gtag',
-    {
-      trackingID: 'G-E813HX79PL',
-      anonymizeIP: true,
-    }],
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-E813HX79PL',
+        anonymizeIP: true,
+      },
+    ],
     function tailwindPlugin(context, options) {
       return {
         name: 'tailwind-plugin',
