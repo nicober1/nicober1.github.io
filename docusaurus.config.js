@@ -101,6 +101,7 @@ const config = {
     {
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6812671644017150',
       async: true,
+      crossorigin: 'anonymous',
     },
   ],
   stylesheets: [],
