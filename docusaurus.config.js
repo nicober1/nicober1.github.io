@@ -86,7 +86,7 @@ const config = {
       },
     ],
   ],
-   scripts: [
+  scripts: [
     // String format.
     //'https://docusaurus.io/script.js',
     // Object format.
@@ -95,6 +95,7 @@ const config = {
       async: true,
     },
   ],
+  stylesheets: [],
 
   themeConfig: {
     metadata: [
