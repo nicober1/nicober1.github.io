@@ -75,6 +75,20 @@ const config = {
         },
       }
     },
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'azure',
+
+        routeBasePath: 'azure',
+
+        path: './blogs/azure',
+        blogSidebarTitle: 'Azure',
+        blogSidebarCount: 'ALL',
+        postsPerPage: 'ALL',
+        showReadingTime: true,
+      },
+    ],
   ],
 
   presets: [
@@ -85,6 +99,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          routeBasePath: '/',
           blogSidebarTitle: 'Blogs',
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
@@ -120,7 +135,7 @@ const config = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [{ to: '/blog', label: 'Blogs', position: 'left' }],
+      // items: [{ to: '/blog', label: 'Blogs', position: 'left' }],
     },
     footer: {
       style: 'dark',
