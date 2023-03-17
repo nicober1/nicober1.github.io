@@ -135,7 +135,10 @@ const config = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      // items: [{ to: '/blog', label: 'Blogs', position: 'left' }],
+      items: [
+        { to: '/livenews', label: 'Live News', position: 'left' },
+        { to: '/bookmarks', label: 'Bookmarks', position: 'left' },
+      ],
     },
     footer: {
       style: 'dark',
