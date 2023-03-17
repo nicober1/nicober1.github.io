@@ -8,12 +8,6 @@ export default function Home() {
         <a target='_blank' href='https://chat.openai.com/'>
           ChatGPT
         </a>
-        <a target='_blank' href='https://chat.openai.com/'>
-          ChatGPT
-        </a>
-        <a target='_blank' href='https://chat.openai.com/'>
-          ChatGPT
-        </a>
       </div>
     </Layout>
   )

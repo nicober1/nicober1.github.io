@@ -136,7 +136,7 @@ const config = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/livenews', label: 'Live News', position: 'left' },
+        { to: '/live', label: 'Live', position: 'left' },
         { to: '/bookmarks', label: 'Bookmarks', position: 'left' },
       ],
     },
