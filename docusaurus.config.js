@@ -80,7 +80,7 @@ const config = {
       {
         id: 'azure',
 
-        routeBasePath: 'azure',
+        routeBasePath: 'azure-blogs',
 
         path: './blogs/azure',
         blogSidebarTitle: 'Azure',
