@@ -4,12 +4,15 @@ import Layout from '@theme/Layout'
 export default function Home() {
   return (
     <Layout noFooter wrapperClassName='livenews-page'>
-      <div class='flex-row gap-2'>
+      <div class='flex-row space-x-5'>
         <iframe width='400' height='400' src='https://www.youtube.com/embed/JEg11Ps8w4M'>
           NBC
         </iframe>
         <iframe width='400' height='400' src='https://www.youtube.com/embed/5F1Eyf5QN3o'>
           WION
+        </iframe>
+        <iframe width='400' height='400' src='https://www.youtube.com/embed/9Auq9mYxFEE'>
+          SKY NEWS
         </iframe>
       </div>
     </Layout>
