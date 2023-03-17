@@ -8,19 +8,19 @@ const BookmarkPage = ({links}) => {
         {links.map((link, index) => (
           <a
             key={index}
-            href={link}
+            href={link.url}
             target='_blank'
             rel='noopener noreferrer'
-            className='rounded-lg bg-white p-4 shadow-md transition-shadow duration-300 hover:shadow-lg'>
+            className='rounded-lg bg-blue-200 p-4 shadow-md transition-shadow duration-300 hover:shadow-lg'>
             <div className='mb-2 flex items-center'>
               <img
-                src={`https://www.google.com/s2/favicons?domain=${link}`}
+                src={`https://www.google.com/s2/favicons?domain=${link.url}`}
                 alt={`${link.title} icon`}
-                className='mr-2 h-4 w-4'
+                className='mr-2 h-7 w-7'
               />
-              <h2 className='text-lg font-medium'>{link}</h2>
+              <h2 className='text-lg font-medium'>{link.title}</h2>
             </div>
-            <p className='text-gray-500'>{link}</p>
+            <p className='text-gray-500'>{link.description}</p>
           </a>
         ))}
       </div>
