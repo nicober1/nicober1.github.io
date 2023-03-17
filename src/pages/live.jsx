@@ -9,7 +9,9 @@ export default function Home() {
         <iframe width='400' height='400' src='https://www.youtube.com/embed/5F1Eyf5QN3o'></iframe>
         <iframe width='400' height='400' src='https://www.youtube.com/embed/9Auq9mYxFEE'></iframe>
         <iframe width='400' height='400' src='https://www.youtube.com/embed/0ThMultL4PY'></iframe>
-        <iframe width='400' height='400' src='https://www.youtube.com/embed/e9ZnU4HFz0s'></iframe>
+        <iframe width='400' height='400' src='https://www.youtube.com/embed/sYZtOFzM78M'></iframe>
+        <iframe width='400' height='400' src='https://www.youtube.com/embed/gCNeDWCI0vo'></iframe>
+        <iframe width='400' height='400' src='https://www.youtube.com/embed/9NyxcX3rhQs'></iframe>
       </div>
     </Layout>
   )
