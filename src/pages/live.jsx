@@ -16,7 +16,9 @@ const videoIds = [
 export default function Home() {
   return (
     <Layout noFooter wrapperClassName='live-page'>
-      <YouTubePlayer videoIds={videoIds} />
+      <div className='container mx-auto'>
+        <YouTubePlayer videoIds={videoIds} />
+      </div>
     </Layout>
   )
 }
