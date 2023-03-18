@@ -26,7 +26,7 @@ export default function () {
           {countries.map((country) => {
             return (
               <div key={country.cca3} className='overflow-hidden rounded-lg bg-white shadow-lg'>
-                <img src={country.flags.svg} alt={`${country.name.common} flag`} className='h-48 w-full border-4 border-solid object-cover' />
+                <img src={country.flags.svg} alt={`${country.name.common} flag`} className='h-48 w-full border-2 border-solid border-cyan-500 object-cover' />
                 <div className='p-4'>
                   <h3 className='text-lg font-semibold text-gray-800'>{country.name.common}</h3>
                   <div className='mt-2'>
