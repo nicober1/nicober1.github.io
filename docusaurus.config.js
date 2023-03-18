@@ -30,11 +30,7 @@ const config = {
       return {
         name: 'tailwind-plugin',
         configurePostCss(postcssOptions) {
-          postcssOptions.plugins = [
-            require('postcss-import'),
-            require('tailwindcss'),
-            require('autoprefixer'),
-          ]
+          postcssOptions.plugins = [require('postcss-import'), require('tailwindcss'), require('autoprefixer')]
           return postcssOptions
         },
       }
@@ -124,8 +120,7 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content:
-          'blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin',
+        content: 'blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin',
       },
     ],
     image: 'img/docusaurus-social-card.jpg',
@@ -136,8 +131,10 @@ const config = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/live', label: 'Live', position: 'left' },
-        { to: '/bookmarks', label: 'Bookmarks', position: 'left' },
+        {to: '/countries', label: 'Countries', position: 'left'},
+        {to: '/', label: 'Blogs', position: 'left'},
+        {to: '/live', label: 'Live', position: 'left'},
+        {to: '/bookmarks', label: 'Bookmarks', position: 'left'},
       ],
     },
     footer: {

@@ -21,7 +21,7 @@ export default function () {
   return (
     <Layout noFooter wrapperClassName='countries-page'>
       <div className='container mx-auto'>
-        <h1 className='mb-4 text-4xl font-bold '>Countries of the World</h1>
+        <h1 className='dark:text-shadow-lg mx-auto text-center text-4xl font-bold text-black dark:text-white'>Countries of the World</h1>
         <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
           {countries.map((country) => {
             return (
