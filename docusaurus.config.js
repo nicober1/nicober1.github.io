@@ -1,6 +1,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
-const { ProvidePlugin } = require('webpack')
+const {ProvidePlugin} = require('webpack')
 
 const config = {
   title: 'Fluent Blogs',
@@ -117,6 +117,9 @@ const config = {
   stylesheets: [],
 
   themeConfig: {
+    defaultMode: 'dark',
+    disableSwitch: false,
+    respectPrefersColorScheme: false,
     metadata: [
       {
         name: 'keywords',
