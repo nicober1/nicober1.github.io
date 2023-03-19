@@ -138,6 +138,17 @@ const config = {
         {to: '/', label: 'Blogs', position: 'left'},
         {to: '/live', label: 'Live', position: 'left'},
         {to: '/bookmarks', label: 'Bookmarks', position: 'left'},
+        {
+          type: 'dropdown',
+          label: 'Miscellaneous',
+          position: 'left',
+          items: [
+            {
+              to: '/gallery',
+              label: 'Gallery',
+            },
+          ],
+        },
       ],
     },
     footer: {
