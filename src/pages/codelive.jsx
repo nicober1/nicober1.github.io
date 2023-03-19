@@ -1,25 +1,41 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 import Layout from '@theme/Layout'
 import LiveCodeExample from '@site/src/components/LiveCodeExample'
 
-
 export default function Home() {
-  const code = `
-    const HelloWorld = () => {
-      return <h1 className="text-3xl font-bold">Hello, World!</h1>;
-    }
+  const jsxExample = `
+class Counter extends React.Component {
+  constructor() {
+    super()
+    this.state = { count: 0 }
+  }
+  componentDidMount() {
+    this.interval = setInterval(() => {
+      this.setState(state => ({ count: state.count + 1 }))
+    }, 1000)
+  }
+  componentWillUnmount() {
+    clearInterval(this.interval)
+  }
+  render() {
+    return (
+      <center>
+        <h3>
+          {this.state.count}
+        </h3>
+      </center>
+    )
+  }
+}
+`.trim()
 
-    ReactDOM.render(<HelloWorld />, document.getElementById("live-preview-container"))
-  `
   return (
     <Layout noFooter wrapperClassName='bookmarks-page'>
       <div className='container mx-auto py-8'>
-        <h1 className='mb-4 text-4xl font-bold'>React Live Editor</h1>
+        <h1 className='mb-4 text-center text-4xl font-bold'>React Live Editor</h1>
 
         <div>
-          <h1>My Page</h1>
-          <LiveCodeExample code={code} />
+          <LiveCodeExample code={jsxExample} />
         </div>
       </div>
     </Layout>

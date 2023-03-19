@@ -144,6 +144,10 @@ const config = {
           position: 'left',
           items: [
             {
+              to: '/codelive',
+              label: 'React Live Code Editor',
+            },
+            {
               to: '/gallery',
               label: 'Gallery',
             },
