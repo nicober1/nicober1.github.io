@@ -11,6 +11,11 @@ const videos = [
   {id: 'sYZtOFzM78M', title: 'India Today'},
   {id: 'gCNeDWCI0vo', title: 'Al Jazeera'},
   {id: '9NyxcX3rhQs', title: 'CNBC'},
+  {id: 'dZvHWVKY-AQ', title: 'Deutsche Welle (DW) News'},
+  {id: 'XWq5kBlakcQ', title: 'CNA'},
+  {id: 'qfrocHBy6RQ', title: 'Republic Bharat'},
+  {id: '4Tr2xGIUfZg', title: 'CNN-News18'},
+  {id: 'LCxT4y2217s', title: 'Republic World'},
 ]
 
 export default function Home() {
