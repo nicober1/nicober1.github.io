@@ -1,13 +1,14 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
+import useBaseUrl from '@docusaurus/useBaseUrl'
 
 function CryptoPrices() {
   const [data, setData] = useState([])
-
+ var url = useBaseUrl('/data/crypto.json')
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('https://api.coincap.io/v2/assets?limit=1000')
+        const response = await axios.get(url)
         setData(response.data.data)
       } catch (error) {
         console.log(error)

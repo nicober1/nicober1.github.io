@@ -2,12 +2,15 @@ import React, {useState, useEffect} from 'react'
 import Layout from '@theme/Layout'
 import axios from 'axios'
 import moment from 'moment-timezone'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
 
 export default function () {
   const [countries, setCountries] = useState([])
+  var url = useBaseUrl('/data/countries.json')
 
   useEffect(() => {
-    axios.get('https://restcountries.com/v3.1/all').then((response) => {
+    axios.get(url).then((response) => {
       const sortedCountries = response.data.sort((a, b) => a.name.common.localeCompare(b.name.common))
       setCountries(sortedCountries).catch((error) => console.log(error))
     })
@@ -38,9 +41,9 @@ export default function () {
                   <div className='mt-2'>
                     <span className='text-gray-600'>Population:</span> <span className='font-semibold text-gray-900'>{country.population.toLocaleString()}</span>
                   </div>
-                  <div className='mt-2'>
+                  {/* <div className='mt-2'>
                     <span className='text-gray-600'>Local Time:</span> <span className='font-semibold text-gray-900'>{getTimeByTimeZone(country.timezones[0])}</span>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             )
