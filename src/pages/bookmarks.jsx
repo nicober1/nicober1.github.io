@@ -7,6 +7,7 @@ const videoIds = [
   {url: 'https://www.youtube.com', title: 'YouTube', description: 'Video Platform'},
   {url: 'https://edition.cnn.com', title: 'CNN', description: 'News'},
   {url: 'https://analytics.google.com', title: 'Google Analytics', description: 'Analytics'},
+  {url: 'https://apod.nasa.gov/', title: 'NASA APOD', description: 'Astronomy Picture of the Day'},
   {
     url: 'https://restcountries.com',
     title: 'REST COUNTRIES',
