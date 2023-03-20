@@ -4,8 +4,8 @@ const {ProvidePlugin} = require('webpack')
 
 const config = {
   title: 'Fluent Blogs',
-  tagline: '',
-  favicon: 'img/favicon.ico',
+  tagline: 'Words that flow, ideas that grow',
+  favicon: 'img/logo.png',
 
   url: 'https://fluentblogs.com',
   baseUrl: '/',
@@ -131,7 +131,7 @@ const config = {
       title: 'Fluent Blogs',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {to: '/countries', label: 'Countries', position: 'left'},
