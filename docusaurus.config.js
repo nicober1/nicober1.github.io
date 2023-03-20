@@ -146,6 +146,10 @@ const config = {
           position: 'left',
           items: [
             {
+              to: '/apod',
+              label: 'NASA Astronomy Picture of the Day',
+            },
+            {
               to: '/codelive',
               label: 'React Live Code Editor',
             },
