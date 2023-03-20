@@ -21,10 +21,10 @@ function CryptoPrices() {
       <h1 className='mb-8 text-center text-4xl font-bold'>Crypto Prices</h1>
       <div className='grid grid-cols-6 gap-4 md:grid-cols-2 lg:grid-cols-6'>
         {data.map((coin) => (
-          <div key={coin.id} className='overflow-hidden rounded-lg dark:bg-blue-800 shadow-md'>
+          <div key={coin.id} className='overflow-hidden rounded-lg bg-gray-200 shadow-md dark:bg-gray-600'>
             <div className='p-4'>
               <h2 className='mb-4 text-2xl font-bold'>{coin.name}</h2>
-              <p className='mb-2 '>{coin.symbol}</p>
+              <p className='mb-2 font-bold text-cyan-600'>{coin.symbol}</p>
               <p className='mb-4 text-lg font-bold'>${parseFloat(coin.priceUsd).toFixed(2)}</p>
               <p className='mb-2 '>Market Cap</p>
               <p className='mb-4 font-bold'>${parseFloat(coin.marketCapUsd).toLocaleString()}</p>
