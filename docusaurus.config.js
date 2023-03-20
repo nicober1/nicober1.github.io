@@ -135,6 +135,7 @@ const config = {
       },
       items: [
         {to: '/countries', label: 'Countries', position: 'left'},
+        {to: '/cryptoprices', label: 'CryptoCurrency', position: 'left'},
         {to: '/', label: 'Blogs', position: 'left'},
         {to: '/live', label: 'Live', position: 'left'},
         {to: '/bookmarks', label: 'Bookmarks', position: 'left'},
