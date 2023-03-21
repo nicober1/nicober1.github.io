@@ -20,7 +20,7 @@ function CryptoPrices() {
   return (
     <div className='container mx-auto px-4 py-8'>
       <h1 className='mb-8 text-center text-4xl font-bold'>Crypto Prices</h1>
-      <div className='grid grid-cols-6 gap-4 md:grid-cols-2 lg:grid-cols-6'>
+      <div className='grid grid-cols-2 gap-4 md:grid-cols-2 lg:grid-cols-6'>
         {data.map((coin) => (
           <div key={coin.id} className='overflow-hidden rounded-lg bg-gray-200 shadow-md dark:bg-gray-600'>
             <div className='p-4'>
