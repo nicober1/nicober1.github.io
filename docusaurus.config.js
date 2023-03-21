@@ -168,8 +168,8 @@ const config = {
               label: 'React Live Code Editor',
             },
             {
-              to: '/gallery',
-              label: 'Gallery',
+              to: '/catdoggallery',
+              label: 'Cat and Dog Gallery',
             },
             {
               to: '/testpage',

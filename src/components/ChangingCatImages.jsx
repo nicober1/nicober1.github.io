@@ -6,7 +6,9 @@ const ChangingCatImages = () => {
   useEffect(() => {
     const fetchCatImages = async () => {
       try {
-        const response = await fetch('https://api.thecatapi.com/v1/images/search?limit=1')
+        const response = await fetch(
+          'https://api.thecatapi.com/v1/images/search?limit=1',
+        )
         const data = await response.json()
         setCatImageUrls(data.map((cat) => cat.url))
       } catch (error) {
@@ -24,16 +26,17 @@ const ChangingCatImages = () => {
   }, [])
 
   return (
-    <div className='container mx-auto'>
-      <h2 className='mb-6 text-3xl font-bold text-center'>Random Cat Gallery</h2>
-      <div className='grid grid-cols-3 gap-4'>
-        {catImageUrls.map((catImageUrl) => (
-          <div key={catImageUrl}>
-            <img src={catImageUrl} alt='Random Cat' className='rounded-lg shadow-md' />
-          </div>
-        ))}
-      </div>
-    </div>
+    <>
+      {catImageUrls.map((catImageUrl) => (
+        <div key={catImageUrl}>
+          <img
+            src={catImageUrl}
+            alt='Random Cat'
+            className='rounded-lg shadow-md '
+          />
+        </div>
+      ))}
+    </>
   )
 }
 
