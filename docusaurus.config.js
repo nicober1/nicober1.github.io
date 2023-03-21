@@ -156,12 +156,24 @@ const config = {
               label: 'NASA Astronomy Picture of the Day',
             },
             {
+              to: '/particlesseaanemone',
+              label: 'Sea Anemone Graphics',
+            },
+            {
+              to: '/particlesconfetti',
+              label: 'Confetti Graphics',
+            },
+            {
               to: '/codelive',
               label: 'React Live Code Editor',
             },
             {
               to: '/gallery',
               label: 'Gallery',
+            },
+            {
+              to: '/testpage',
+              label: 'Test Page Beta',
             },
           ],
         },
