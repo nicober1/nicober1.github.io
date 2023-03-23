@@ -183,6 +183,10 @@ const config = {
               to: '/tailwindcsscheatsheet',
               label: 'TailWindCSS CheatSheet',
             },
+            {
+              to: '/periodictable',
+              label: 'Periodic Table of Elements',
+            },
           ],
         },
       ],
