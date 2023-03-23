@@ -176,8 +176,8 @@ const config = {
               label: 'Test Page Beta',
             },
             {
-              to: '/solarsystem',
-              label: 'Solar System',
+              to: '/graphics',
+              label: 'Graphics',
             },
           ],
         },
