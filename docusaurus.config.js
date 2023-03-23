@@ -179,6 +179,10 @@ const config = {
               to: '/graphics',
               label: 'Graphics',
             },
+            {
+              to: '/tailwindcsscheatsheet',
+              label: 'TailWindCSS CheatSheet',
+            },
           ],
         },
       ],
