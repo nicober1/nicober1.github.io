@@ -8,7 +8,7 @@ export default function () {
     <Layout noFooter wrapperClassName='live-page'>
       <div className='mx-auto my-auto text-center '>
         <h1>Tailwind CSS Cheatsheet</h1>
-        <Table className='rounded-2xl shadow-2xl dark:shadow-slate-50 shadow-black px-4 py-2 text-left  text-sm text-black dark:text-white'>
+        <table className='rounded-lg text-left text-sm text-black  shadow-xl  shadow-black dark:text-white dark:shadow-slate-50'>
           <thead>
             <tr>
               <Th>Class</Th>
@@ -41,15 +41,11 @@ export default function () {
               <Td>Set the border size and color of an element.</Td>
             </tr>
           </tbody>
-        </Table>
+        </table>
       </div>
     </Layout>
   )
 }
-
-const Table = tw.table`
- 
-`
 
 const Th = tw.th`
  

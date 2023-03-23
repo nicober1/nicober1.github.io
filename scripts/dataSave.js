@@ -1,8 +1,7 @@
 const axios = require('axios')
 const fs = require('fs')
 
-
- function downloadFile(url, loc) {
+function downloadFile(url, loc) {
   axios
     .get(url)
     .then((response) => {
@@ -18,5 +17,15 @@ const fs = require('fs')
     })
 }
 
- downloadFile('https://api.coincap.io/v2/assets?limit=2000', './static/data/crypto.json')
- downloadFile('https://restcountries.com/v3.1/all', './static/data/countries.json')
+downloadFile(
+  'https://api.coincap.io/v2/assets?limit=2000',
+  './static/data/crypto.json',
+)
+downloadFile(
+  'https://restcountries.com/v3.1/all',
+  './static/data/countries.json',
+)
+downloadFile(
+  'https://neelpatel05.pythonanywhere.com',
+  './static/data/elements.json',
+)
