@@ -197,7 +197,7 @@ const config = {
           ],
         },
         {
-          label: 'Random',
+          label: '1',
           type: 'dropdown',
           className: 'misc-dropdown',
           items: [
