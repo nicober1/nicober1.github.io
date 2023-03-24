@@ -130,7 +130,7 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content: `${keywordslist} + ,  blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin`,
+        content: `${keywordslist}   blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin`,
       },
     ],
     image: 'img/fluentblogs.png',
