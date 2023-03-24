@@ -202,6 +202,10 @@ const config = {
               to: '/hexcolors',
               label: 'Random CSS Hex Colors',
             },
+            {
+              to: '/primenumbers',
+              label: 'Prime Numbers',
+            },
           ],
         },
         {
