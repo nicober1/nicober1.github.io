@@ -157,6 +157,10 @@ const config = {
               to: '/apod',
               label: 'NASA Astronomy Picture of the Day',
             },
+            {
+              to: '/nobel',
+              label: 'Nobel Prize Laureates',
+            },
             {to: '/bookmarks', label: 'Bookmarks'},
             {to: '/cryptoprices', label: 'Cryptocurrencies'},
 
