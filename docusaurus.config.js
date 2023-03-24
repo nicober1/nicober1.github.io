@@ -194,6 +194,10 @@ const config = {
               to: '/svggrid',
               label: 'SVGs',
             },
+            {
+              to: '/colors',
+              label: 'Random Colors',
+            },
           ],
         },
         {
