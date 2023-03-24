@@ -1,6 +1,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const {ProvidePlugin} = require('webpack')
+const fs = require('fs')
+const miscHTML = fs.readFileSync('./src/snippets/misc.html', 'utf-8')
 
 const config = {
   title: 'Fluent Blogs',
@@ -146,6 +148,7 @@ const config = {
         {to: '/', label: 'Blogs', position: 'left'},
         {to: '/live', label: 'Live', position: 'left'},
         {to: '/bookmarks', label: 'Bookmarks', position: 'left'},
+
         {
           type: 'dropdown',
           label: 'Miscellaneous',
@@ -186,6 +189,22 @@ const config = {
             {
               to: '/periodictable',
               label: 'Periodic Table of Elements',
+            },
+            {
+              to: '/svggrid',
+              label: 'SVGs',
+            },
+          ],
+        },
+        {
+          label: 'Random',
+          type: 'dropdown',
+          className: 'misc-dropdown',
+          items: [
+            {
+              type: 'html',
+              value: miscHTML,
+              className: 'misc-dropdown',
             },
           ],
         },

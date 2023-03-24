@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import Layout from '@theme/Layout'
 import axios from 'axios'
-import moment from 'moment-timezone'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
 export default function () {
