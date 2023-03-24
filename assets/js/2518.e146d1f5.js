@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfluentblogs=self.webpackChunkfluentblogs||[]).push([[2518],{42518:(e,t,l)=>{l.r(t),l.d(t,{default:()=>r});var n=l(67294);function r(){return n.createElement("svg",{viewBox:"0 0 100 100"},n.createElement("circle",{cx:"50",cy:"50",r:"0",fill:"#000"},n.createElement("animate",{attributeName:"r",values:"0;50",dur:"1s",repeatCount:"indefinite"})))}}}]);
