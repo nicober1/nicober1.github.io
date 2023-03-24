@@ -9,7 +9,7 @@ export default function () {
     const numColors = 200
 
     const listColors = Array.from({length: numColors}, () =>
-      faker.color.human(),
+      faker.internet.color(),
     )
 
     setColors(listColors)
@@ -19,7 +19,7 @@ export default function () {
     <Layout noFooter wrapperClassName='countries-page'>
       <div className='container mx-auto'>
         <h1 className='dark:text-shadow-lg mx-auto mt-10 text-center text-4xl font-bold text-black dark:text-white'>
-          Random Colors
+          Random CSS HE Colors
         </h1>
         <div className='mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
           {colors.map((color) => {
@@ -27,7 +27,7 @@ export default function () {
               <div
                 key={color}
                 className='overflow-hidden rounded-full text-center'
-                style={{backgroundColor: color, padding: '10px'}}>
+                style={{backgroundColor: color, padding: '15px'}}>
                 <div className='p-4'>
                   <h3 className='mx-auto my-auto text-sm font-semibold uppercase text-white'>
                     {color}

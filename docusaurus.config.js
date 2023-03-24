@@ -198,6 +198,10 @@ const config = {
               to: '/colors',
               label: 'Random Colors',
             },
+            {
+              to: '/hexcolors',
+              label: 'Random CSS Hex Colors',
+            },
           ],
         },
         {

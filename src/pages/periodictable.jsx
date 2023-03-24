@@ -24,15 +24,9 @@ export default function () {
           {elements.map((element) => (
             <div
               key={element.symbol}
-              className='flex flex-col items-center rounded-lg  p-4 shadow-md dark:bg-blue-900'
+              className='flex flex-col items-center rounded-lg  p-4 text-black shadow-md '
               style={{backgroundColor: `#${element.cpkHexColor}`}}>
-              <div
-                className='flex h-16 w-16 items-center justify-center rounded-full '
-                style={{backgroundColor: `#${element.cpkHexColor}`}}>
-                <span className='font-bold text-cyan-700 '>
-                  {element.symbol}
-                </span>
-              </div>
+              <h1 className='text-2xl'>{element.symbol}</h1>
               <h2 className='my-2 text-lg font-bold'>{element.name}</h2>
               <p>
                 Atomic Number:{' '}
