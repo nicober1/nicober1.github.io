@@ -19,13 +19,13 @@ function downloadFile(url, loc) {
 
 downloadFile(
   'https://api.coincap.io/v2/assets?limit=2000',
-  './static/data/crypto.json',
+  './static/data/temp/crypto.json',
 )
 downloadFile(
   'https://restcountries.com/v3.1/all',
-  './static/data/countries.json',
+  './static/data/temp/countries.json',
 )
 downloadFile(
   'https://neelpatel05.pythonanywhere.com',
-  './static/data/elements.json',
+  './static/data/temp/elements.json',
 )

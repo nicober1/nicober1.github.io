@@ -3,6 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const {ProvidePlugin} = require('webpack')
 const fs = require('fs')
 const miscHTML = fs.readFileSync('./src/snippets/misc.html', 'utf-8')
+const keywordslist = fs.readFileSync('./static/data/keywords.txt', 'utf-8')
 
 const config = {
   title: 'Fluent Blogs',
@@ -129,8 +130,7 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content:
-          'blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin',
+        content: `${keywordslist} + ,  blog, blogs, bookmark, science, .net, javascript, react, next.js, openai, chatgpt, azure, aws, google, asp.net, messi, python, react.js, gcp, tintin`,
       },
     ],
     image: 'img/fluentblogs.png',
