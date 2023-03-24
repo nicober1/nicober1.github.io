@@ -10,7 +10,7 @@ import Svg7 from '@site/src/svg/7'
 import Svg8 from '@site/src/svg/8'
 import Svg9 from '@site/src/svg/9'
 import Svg10 from '@site/src/svg/10'
-
+import Svg11 from '@site/src/svg/11'
 
 const svgs = [
   Svg1,
@@ -23,7 +23,7 @@ const svgs = [
   Svg8,
   Svg9,
   Svg10,
- 
+  Svg11,
 ]
 
 export default function Home() {

@@ -1,25 +1,16 @@
 import React from 'react'
 
-export default function Svg3() {
+export default function Svg11() {
   return (
-    <svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
-      <circle cx='50' cy='50' r='40' stroke='blue' stroke-width='2' fill='none'>
+    <svg width='200' height='200'>
+      <circle cx='20' cy='100' r='10' fill='blue'>
         <animate
-          attributeName='stroke-dasharray'
-          values='0 251.2;251.2 0'
-          dur='1s'
-          repeatCount='indefinite'
-        />
-        <animate
-          attributeName='stroke-dashoffset'
-          values='0;-251.2'
-          dur='1s'
+          attributeName='cx'
+          values='20; 180; 20'
+          dur='2s'
           repeatCount='indefinite'
         />
       </circle>
     </svg>
   )
 }
-
-
-
