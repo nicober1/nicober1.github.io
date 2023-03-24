@@ -29,11 +29,11 @@ const svgs = [
 export default function Home() {
   return (
     <Layout noFooter wrapperClassName='live-page'>
-      <div className='flex flex-wrap'>
+      <div className='flex flex-wrap items-center justify-center'>
         {svgs.map((Svg, index) => (
           <div
             key={index}
-            className='basis-1/6 border-solid  dark:border-white'>
+            className=' basis-1/6 items-center justify-center border-solid dark:border-white'>
             <Svg />
           </div>
         ))}
