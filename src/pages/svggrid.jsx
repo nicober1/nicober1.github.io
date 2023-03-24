@@ -1,39 +1,32 @@
-import React from 'react'
+import React, {useState, useEffect} from 'react'
 import Layout from '@theme/Layout'
-import Svg1 from '@site/src/svg/1'
-import Svg2 from '@site/src/svg/2'
-import Svg3 from '@site/src/svg/3'
-import Svg4 from '@site/src/svg/4'
-import Svg5 from '@site/src/svg/5'
-import Svg6 from '@site/src/svg/6'
-import Svg7 from '@site/src/svg/7'
-import Svg8 from '@site/src/svg/8'
-import Svg9 from '@site/src/svg/9'
-import Svg10 from '@site/src/svg/10'
-import Svg11 from '@site/src/svg/11'
 
-const svgs = [
-  Svg1,
-  Svg2,
-  Svg3,
-  Svg4,
-  Svg5,
-  Svg6,
-  Svg7,
-  Svg8,
-  Svg9,
-  Svg10,
-  Svg11,
-]
+const Home = () => {
+  const [svgs, setSvgs] = useState([])
 
-export default function Home() {
+  useEffect(() => {
+    const importSvgs = async () => {
+      try {
+        const svgModules = await Promise.all(
+          Array.from({length: 11}, (_, i) =>
+            import(`@site/src/svg/${i + 1}`).then((module) => module.default),
+          ),
+        )
+        setSvgs(svgModules)
+      } catch (error) {
+        console.error(error)
+      }
+    }
+    importSvgs()
+  }, [])
+
   return (
     <Layout noFooter wrapperClassName='live-page'>
-      <div className='flex flex-wrap items-center justify-center'>
+      <div className='flex flex-wrap container bg-white'>
         {svgs.map((Svg, index) => (
           <div
             key={index}
-            className=' basis-1/6 items-center justify-center border-solid dark:border-white'>
+            className='basis-1/6 items-center justify-center'>
             <Svg />
           </div>
         ))}
@@ -41,3 +34,5 @@ export default function Home() {
     </Layout>
   )
 }
+
+export default Home
