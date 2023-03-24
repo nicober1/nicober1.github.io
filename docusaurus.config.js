@@ -141,13 +141,12 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
+        {to: '/gallery', label: 'Picture Gallery', position: 'left'},
         {to: '/timezones', label: 'Timezones', position: 'left'},
         {to: '/countries', label: 'Countries', position: 'left'},
         // {to: '/stocklist', label: 'Stocks', position: 'left'},
-        {to: '/cryptoprices', label: 'Cryptocurrencies', position: 'left'},
         {to: '/', label: 'Blogs', position: 'left'},
         {to: '/live', label: 'Live', position: 'left'},
-        {to: '/bookmarks', label: 'Bookmarks', position: 'left'},
 
         {
           type: 'dropdown',
@@ -158,6 +157,9 @@ const config = {
               to: '/apod',
               label: 'NASA Astronomy Picture of the Day',
             },
+            {to: '/bookmarks', label: 'Bookmarks'},
+            {to: '/cryptoprices', label: 'Cryptocurrencies'},
+
             {
               to: '/particlesseaanemone',
               label: 'Sea Anemone Graphics',
