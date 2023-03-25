@@ -17,7 +17,7 @@ const RadioItem = ({radio}) => (
         <img
           src={`https://www.google.com/s2/favicons?sz=300&domain=${radio?.homepage}`}
           alt={radio?.name + ' favicon'}
-          // className='h-15 w-15'
+           className='h-15 w-15'
         />
       </a>
     </div>
