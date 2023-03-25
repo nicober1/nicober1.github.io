@@ -13,11 +13,11 @@ const RadioItem = ({radio}) => (
     <div className=''>{radio.tags}</div>
     <div className='mt-4 flex items-center justify-between'>
       <audio src={radio.url_resolved} controls></audio>
-      <a href={radio?.homepage} target='_blank'>
+      <a href={radio?.homepage} target='_blank' className='ml-10'>
         <img
           src={`https://www.google.com/s2/favicons?sz=64&domain=${radio?.homepage}`}
           alt={radio?.name + ' favicon'}
-         //  className='h-15 w-15'
+          //  className='h-15 w-15'
         />
       </a>
     </div>
