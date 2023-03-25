@@ -213,6 +213,10 @@ const config = {
               to: '/primenumbers',
               label: 'Prime Numbers',
             },
+            {
+              to: '/matrix',
+              label: 'Matrix Effect',
+            },
           ],
         },
         {
