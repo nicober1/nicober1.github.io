@@ -15,9 +15,9 @@ const RadioItem = ({radio}) => (
       <audio src={radio.url_resolved} controls></audio>
       <a href={radio?.homepage} target='_blank'>
         <img
-          src={`https://www.google.com/s2/favicons?sz=300&domain=${radio?.homepage}`}
+          src={`https://www.google.com/s2/favicons?sz=65&domain=${radio?.homepage}`}
           alt={radio?.name + ' favicon'}
-           className='h-15 w-15'
+         //  className='h-15 w-15'
         />
       </a>
     </div>
