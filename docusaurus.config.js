@@ -141,6 +141,7 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
+        {to: '/radio', label: 'Radio Streams', position: 'left'},
         {to: '/gallery', label: 'Picture Gallery', position: 'left'},
         {to: '/timezones', label: 'Timezones', position: 'left'},
         {to: '/countries', label: 'Countries', position: 'left'},

@@ -29,3 +29,7 @@ downloadFile(
   'https://neelpatel05.pythonanywhere.com',
   './static/data/temp/elements.json',
 )
+downloadFile(
+  'https://de1.api.radio-browser.info/json/stations/topclick/1000',
+  './static/data/temp/radio.json',
+)

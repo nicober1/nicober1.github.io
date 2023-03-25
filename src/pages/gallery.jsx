@@ -8,7 +8,7 @@ export default function GalleryPage() {
   }))
 
   return (
-    <Layout noFooter wrapperClassName='countries-page'>
+    <Layout noFooter wrapperClassName='fluent'>
       <div className='mx-auto px-4 py-8 text-center sm:px-6 lg:px-8'>
         <h1 className='mb-8 text-3xl font-bold'>Random Picture Gallery</h1>
         <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
