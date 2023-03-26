@@ -4,23 +4,18 @@ const {ProvidePlugin} = require('webpack')
 const fs = require('fs')
 const miscHTML = fs.readFileSync('./src/snippets/misc.html', 'utf-8')
 const keywordslist = fs.readFileSync('./static/data/keywords.txt', 'utf-8')
-
 const config = {
   title: 'Fluent Blogs',
   tagline: 'Words that flow, ideas that grow',
   favicon: 'img/logo.png',
-
   url: 'https://fluentblogs.com',
   baseUrl: '/',
-
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   plugins: [
     [
       '@docusaurus/plugin-google-gtag',
@@ -81,10 +76,8 @@ const config = {
     [
       '@docusaurus/plugin-content-blog',
       {
-        id: 'azure',
-
+        id: 'azureblogs',
         routeBasePath: 'azure-blogs',
-
         path: './blogs/azure',
         blogSidebarTitle: 'Azure',
         blogSidebarCount: 'ALL',
@@ -93,7 +86,6 @@ const config = {
       },
     ],
   ],
-
   presets: [
     [
       'classic',
@@ -102,7 +94,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          routeBasePath: '/',
+          routeBasePath: '/blog',
           blogSidebarTitle: 'Blogs',
           blogSidebarCount: 'ALL',
           postsPerPage: 'ALL',
@@ -122,7 +114,6 @@ const config = {
     },
   ],
   stylesheets: [],
-
   themeConfig: {
     defaultMode: 'dark',
     disableSwitch: false,
@@ -148,7 +139,6 @@ const config = {
         // {to: '/stocklist', label: 'Stocks', position: 'left'},
         {to: '/', label: 'Blogs', position: 'left'},
         {to: '/live', label: 'Live', position: 'left'},
-
         {
           type: 'dropdown',
           label: 'Miscellaneous',
@@ -164,7 +154,6 @@ const config = {
             },
             {to: '/bookmarks', label: 'Bookmarks'},
             {to: '/cryptoprices', label: 'Cryptocurrencies'},
-
             {
               to: '/particlesseaanemone',
               label: 'Sea Anemone Graphics',
@@ -243,5 +232,4 @@ const config = {
     },
   },
 }
-
 module.exports = config
