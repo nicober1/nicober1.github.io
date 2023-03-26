@@ -28,11 +28,7 @@ const config = {
       return {
         name: 'tailwind-plugin',
         configurePostCss(postcssOptions) {
-          postcssOptions.plugins = [
-            require('postcss-import'),
-            require('tailwindcss'),
-            require('autoprefixer'),
-          ]
+          postcssOptions.plugins = [require('postcss-import'), require('tailwindcss'), require('autoprefixer')]
           return postcssOptions
         },
       }
@@ -132,32 +128,18 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
-        {to: '/radio', label: 'Radio Streams', position: 'left'},
-        {to: '/gallery', label: 'Picture Gallery', position: 'left'},
-        {to: '/timezones', label: 'Timezones', position: 'left'},
-        {to: '/countries', label: 'Countries', position: 'left'},
-        // {to: '/stocklist', label: 'Stocks', position: 'left'},
-        {to: '/', label: 'Blogs', position: 'left'},
-        {to: '/live', label: 'Live', position: 'left'},
         {
           type: 'dropdown',
           label: 'Miscellaneous',
           position: 'left',
           items: [
             {
-              to: '/apod',
-              label: 'NASA Astronomy Picture of the Day',
-            },
-            {
               to: '/nobel',
               label: 'Nobel Prize Laureates',
             },
             {to: '/bookmarks', label: 'Bookmarks'},
             {to: '/cryptoprices', label: 'Cryptocurrencies'},
-            {
-              to: '/particlesseaanemone',
-              label: 'Sea Anemone Graphics',
-            },
+
             {
               to: '/particlesconfetti',
               label: 'Confetti Graphics',
@@ -201,22 +183,6 @@ const config = {
             {
               to: '/primenumbers',
               label: 'Prime Numbers',
-            },
-            {
-              to: '/matrix',
-              label: 'Matrix Effect',
-            },
-          ],
-        },
-        {
-          label: '1',
-          type: 'dropdown',
-          className: 'misc-dropdown',
-          items: [
-            {
-              type: 'html',
-              value: miscHTML,
-              className: 'misc-dropdown',
             },
           ],
         },
