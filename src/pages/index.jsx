@@ -5,7 +5,7 @@ import Layout from '@theme/Layout'
 
 function PageLink({to, title, description}) {
   return (
-    <div className='flex transform flex-col items-center justify-center rounded  bg-gray-800 p-4 shadow-lg transition duration-300 ease-in-out hover:scale-105'>
+    <div className='flex transform flex-col items-center justify-center rounded  p-4 shadow-lg transition duration-300 ease-in-out hover:scale-105 bg-opacity-40 bg-cyan-500'>
       <Link
         to={to}
         className={classNames('mb-2 bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text  font-bold text-transparent transition duration-300 ease-in-out hover:from-blue-400 hover:to-purple-500')}>
