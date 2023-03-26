@@ -80,23 +80,54 @@ const RadioItem = ({radio}) => {
     </div>
   )
 }
+
 export default function RadioDetails() {
   const url = useBaseUrl('/data/radio.json')
   const {radioData, loading, error} = useRadioData(url)
+  const [searchTerm, setSearchTerm] = useState('')
+  const [searchResults, setSearchResults] = useState([])
+
+  useEffect(() => {
+    if (radioData && radioData.length > 0) {
+      const filteredResults = radioData.filter((radio) => {
+        const searchRegex = new RegExp(searchTerm, 'i')
+        return searchRegex.test(radio.name) || searchRegex.test(radio.country)
+      })
+      setSearchResults(filteredResults)
+    }
+  }, [radioData, searchTerm])
+
+  const handleSearchChange = (event) => {
+    setSearchTerm(event.target.value)
+  }
 
   return (
     <Layout title='Radio Details'>
       <main className='container mx-auto p-4'>
         <h1 className='mb-8 text-center text-4xl font-bold'>Radio Details</h1>
+        <div className='mb-4'>
+          <label htmlFor='searchInput' className='sr-only'>
+            Search for radio stations
+          </label>
+          <input
+            type='text'
+            id='searchInput'
+            className='w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
+            placeholder='Search by name or country...'
+            value={searchTerm}
+            onChange={handleSearchChange}
+          />
+        </div>
         {loading && <div className='text-center text-xl font-semibold'>Loading...</div>}
         {error && <div className='text-center text-xl font-semibold text-red-500'>{error.message}</div>}
-        {radioData && (
+        {searchResults && searchResults.length > 0 && (
           <div className='grid grid-cols-3 gap-4'>
-            {radioData.slice(0, RADIO_COUNT).map((radio) => (
+            {searchResults.slice(0, RADIO_COUNT).map((radio) => (
               <RadioItem key={radio.stationuuid} radio={radio} />
             ))}
           </div>
         )}
+        {searchResults && searchResults.length === 0 && <div className='text-center text-xl font-semibold'>No radio stations found</div>}
       </main>
     </Layout>
   )
