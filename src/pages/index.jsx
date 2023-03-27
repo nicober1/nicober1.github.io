@@ -30,7 +30,7 @@ function useBackgroundImage() {
     const interval = setInterval(() => {
       const randomIndex = Math.floor(Math.random() * images.length)
       setBackgroundImage(images[randomIndex])
-    }, 5000)
+    }, 15000)
     return () => clearInterval(interval)
   }, [])
   return backgroundImage
