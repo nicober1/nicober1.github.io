@@ -99,7 +99,8 @@ export default function RadioDetails() {
           <input
             type='text'
             id='searchInput'
-            className='w-full rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
+            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full
+             sm:px-4 sm:text-base md:px-6 md:text-lg'
             placeholder='Search by Name or Country...'
             value={searchTerm}
             onChange={handleSearchChange}
