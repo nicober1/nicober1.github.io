@@ -48,9 +48,9 @@ const RadioItem = ({radio}) => {
       className={`rounded-lg border bg-gradient-to-br ${
         playing ? 'from-yellow-400 via-red-500 to-pink-600' : 'from-green-400 via-blue-500 to-purple-600'
       } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
-      <div className='max-w-xs truncate text-xl font-bold sm:max-w-none sm:truncate'>{name}</div>
-      <div className='text-lg'>{country}</div>
-      <div className='uppercase'>{language}</div>
+      <div className='max-w-xs truncate text-medium font-bold sm:max-w-none sm:truncate'>{name}</div>
+      <div className='text-sm'>{country}</div>
+      <div className='uppercase text-sm'>{language}</div>
       <div className='mt-4 flex items-center justify-between'>
         <audio id={stationuuid} src={url}></audio>
         <button onClick={togglePlay} className={`rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
@@ -61,7 +61,7 @@ const RadioItem = ({radio}) => {
         </a>
       </div>
       {playing && (
-        <div className='absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 text-3xl font-bold'>
+        <div className='absolute inset-0 flex items-center justify-center bg-black bg-opacity-25 text-base font-bold'>
           {name}
           <button onClick={closeOverlay} className='absolute top-2 right-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
             X
