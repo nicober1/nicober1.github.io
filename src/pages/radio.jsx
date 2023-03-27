@@ -95,7 +95,7 @@ export default function RadioDetails() {
   return (
     <Layout title='World Radio'>
       <main className='container mx-auto p-4'>
-        <h1 className='text-shadow-lg mb-8 bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-center text-transparent text-4xl font-bold'>World Radio</h1>
+        <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-400 via-blue-500 to-purple-600  p-4 text-center font-bold text-white'>World Radio</h1>
         <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
             Search for radio stations
@@ -103,8 +103,9 @@ export default function RadioDetails() {
           <input
             type='text'
             id='searchInput'
-            className='w-100p mt-4 max-w-lg rounded-lg border-gray-300 py-2 shadow-sm
-     focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
+            className='w-100p mt-4 max-w-lg rounded-lg border-gray-300 bg-gradient-to-br from-green-700
+     via-blue-700 to-purple-600 py-2 text-white placeholder-white shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200
+       focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
             placeholder='Find Radio Stations by Name or Country...'
             value={searchTerm}
             onChange={handleSearchChange}
