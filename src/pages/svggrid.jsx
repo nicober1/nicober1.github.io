@@ -8,7 +8,7 @@ const Home = () => {
     const importSvgs = async () => {
       try {
         const svgModules = await Promise.all(
-          Array.from({length: 11}, (_, i) =>
+          Array.from({length: 12}, (_, i) =>
             import(`@site/src/svg/${i + 1}`).then((module) => module.default),
           ),
         )
