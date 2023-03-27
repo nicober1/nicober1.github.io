@@ -46,7 +46,7 @@ const RadioItem = ({radio}) => {
     <div
       key={stationuuid}
       className={`rounded-lg border bg-gradient-to-br ${
-        playing ? 'from-yellow-400 via-red-500 to-pink-600' : 'from-green-400 via-blue-500 to-purple-600'
+        playing ? 'from-yellow-600 via-red-600 to-pink-600' : 'from-green-600 via-blue-600 to-purple-600'
       } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
       <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
       <div className='text-sm'>{country.substr(0, 36)}</div>
@@ -95,7 +95,7 @@ export default function RadioDetails() {
   return (
     <Layout title='World Radio'>
       <main className='container mx-auto p-4'>
-        <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-400 via-blue-500 to-purple-600  p-4 text-center font-bold text-white'>World Radio</h1>
+        <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>World Radio</h1>
         <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
             Search for radio stations
@@ -103,8 +103,8 @@ export default function RadioDetails() {
           <input
             type='text'
             id='searchInput'
-            className='w-100p mt-4 max-w-lg rounded-lg border-gray-300 bg-gradient-to-br from-green-700
-     via-blue-700 to-purple-600 py-2 text-white placeholder-white shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200
+            className='w-100p mt-4 max-w-lg rounded-lg border-gray-300 bg-gradient-to-bl from-green-600
+     via-blue-600 to-purple-600 py-2 text-white placeholder-white shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200
        focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
             placeholder='Find Radio Stations by Name or Country...'
             value={searchTerm}
@@ -113,7 +113,7 @@ export default function RadioDetails() {
         </div>
         {loading && (
           <div className='flex h-full w-full items-center justify-center'>
-            <svg className='h-12 w-12 animate-spin text-gray-400' viewBox='0 0 24 24'>
+            <svg className='h-12 w-12 animate-spin text-white-400' viewBox='0 0 24 24'>
               <circle className='opacity-25' cx='12' cy='12' r='10' stroke='currentColor' strokeWidth='4' fill='none' />
               <path className='opacity-75' fill='currentColor' d='M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm16 0a8 8 0 01-8 8v4a10 10 0 0010-10h-4zm-8 4a4 4 0 100-8 4 4 0 000 8z' />
             </svg>
