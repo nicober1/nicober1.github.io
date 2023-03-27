@@ -22,7 +22,7 @@ const useFetchRadioData = (url) => {
   }, [url])
   return {radioData, loading, error}
 }
-const RADIO_COUNT = 100
+const MAX_RADIO_COUNT = 100
 const RadioItem = ({radio}) => {
   const {stationuuid, name, country, language, url, homepage} = radio
   const [playing, setPlaying] = useState(false)
