@@ -19,17 +19,17 @@ function downloadFile(url, loc) {
 
 downloadFile(
   'https://api.coincap.io/v2/assets?limit=2000',
-  './static/data/temp/crypto.json',
+  './static/data/crypto.json',
 )
 downloadFile(
   'https://restcountries.com/v3.1/all',
-  './static/data/temp/countries.json',
+  './static/data/countries.json',
 )
 downloadFile(
   'https://neelpatel05.pythonanywhere.com',
-  './static/data/temp/elements.json',
+  './static/data/elements.json',
 )
 downloadFile(
-  'https://de1.api.radio-browser.info/json/stations/topclick/200',
-  './static/data/temp/radio.json',
+  'https://de1.api.radio-browser.info/json/stations/topclick/120',
+  './static/data/radio.json',
 )
