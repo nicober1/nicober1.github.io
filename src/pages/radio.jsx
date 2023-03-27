@@ -1,4 +1,4 @@
-import React, {useState, useEffect,useRef} from 'react'
+import React, {useState, useEffect, useRef} from 'react'
 import axios from 'axios'
 import Layout from '@theme/Layout'
 import useBaseUrl from '@docusaurus/useBaseUrl'
@@ -36,7 +36,7 @@ const RadioItem = ({radio}) => {
       audio.play()
     }
   }
-  
+
   const closeOverlay = () => {
     setPlaying(false)
     const audio = document.getElementById(stationuuid)
@@ -99,9 +99,8 @@ export default function RadioDetails() {
           <input
             type='text'
             id='searchInput'
-            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full
-             sm:px-4 sm:text-base md:px-6 md:text-lg'
-            placeholder='Search by Name or Country...'
+            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
+            placeholder='Find Radio Stations by Name or Country...'
             value={searchTerm}
             onChange={handleSearchChange}
           />
