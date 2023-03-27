@@ -24,7 +24,7 @@ const useFetchRadioData = (url) => {
 }
 const MAX_RADIO_COUNT = 100
 const RadioItem = ({radio}) => {
-  const {stationuuid, name, country, language, url, homepage} = radio
+  const {stationuuid, name, country, language, url, homepage, url_resolved} = radio
   const [playing, setPlaying] = useState(false)
   const audioRef = useRef(null)
   const togglePlay = () => {
@@ -52,7 +52,7 @@ const RadioItem = ({radio}) => {
       <div className='text-sm'>{country.substr(0, 36)}</div>
       <div className='text-sm uppercase'>{language.substr(0, 36)}</div>
       <div className='mt-4 flex items-center justify-between'>
-        <audio id={stationuuid} src={url}></audio>
+        <audio id={stationuuid} src={url_resolved}></audio>
         <button onClick={togglePlay} className={`rounded-full bg-white p-2 font-bold uppercase text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
           {playing ? 'Pause' : 'Play'}
         </button>
@@ -65,7 +65,7 @@ const RadioItem = ({radio}) => {
         </a>
       </div>
       {playing && (
-        <div className='absolute inset-0 flex items-center justify-center bg-black bg-opacity-25 text-base font-bold'>
+        <div className='absolute inset-0 flex items-center justify-center truncate bg-black bg-opacity-25 text-base font-bold'>
           {name}
           <button onClick={closeOverlay} className='absolute top-2 right-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
             X
