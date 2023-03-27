@@ -48,9 +48,9 @@ const RadioItem = ({radio}) => {
       className={`rounded-lg border bg-gradient-to-br ${
         playing ? 'from-yellow-400 via-red-500 to-pink-600' : 'from-green-400 via-blue-500 to-purple-600'
       } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
-      <div className='max-w-xs truncate text-medium font-bold sm:max-w-none sm:truncate'>{name}</div>
+      <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
       <div className='text-sm'>{country}</div>
-      <div className='uppercase text-sm'>{language}</div>
+      <div className='text-sm uppercase'>{language}</div>
       <div className='mt-4 flex items-center justify-between'>
         <audio id={stationuuid} src={url}></audio>
         <button onClick={togglePlay} className={`rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
@@ -99,7 +99,8 @@ export default function RadioDetails() {
           <input
             type='text'
             id='searchInput'
-            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
+            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300
+             focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
             placeholder='Find Radio Stations by Name or Country...'
             value={searchTerm}
             onChange={handleSearchChange}
