@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Svg3() {
   return (
-    <svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+    <svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'>
       <circle cx='50' cy='50' r='40' stroke='blue' stroke-width='2' fill='none'>
         <animate
           attributeName='stroke-dasharray'

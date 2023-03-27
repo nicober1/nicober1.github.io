@@ -7,7 +7,7 @@ export default function SvgGrid() {
   useEffect(() => {
     const importSvgs = async () => {
       try {
-        const svgModules = await Promise.all(Array.from({length: 13}, (_, i) => import(`@site/src/svg/${i + 1}`).then((module) => module.default)))
+        const svgModules = await Promise.all(Array.from({length: 14}, (_, i) => import(`@site/src/svg/${i + 1}`).then((module) => module.default)))
         setSvgs(svgModules)
       } catch (error) {
         console.error(error)
