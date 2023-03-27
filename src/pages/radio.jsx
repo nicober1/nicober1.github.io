@@ -49,15 +49,19 @@ const RadioItem = ({radio}) => {
         playing ? 'from-yellow-400 via-red-500 to-pink-600' : 'from-green-400 via-blue-500 to-purple-600'
       } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
       <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
-      <div className='text-sm'>{country}</div>
-      <div className='text-sm uppercase'>{language}</div>
+      <div className='text-sm'>{country.substr(0, 36)}</div>
+      <div className='text-sm uppercase'>{language.substr(0, 36)}</div>
       <div className='mt-4 flex items-center justify-between'>
         <audio id={stationuuid} src={url}></audio>
-        <button onClick={togglePlay} className={`rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
+        <button onClick={togglePlay} className={`rounded-full bg-white p-2 text-black font-bold uppercase shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
           {playing ? 'Pause' : 'Play'}
         </button>
         <a href={homepage} target='_blank' rel='noreferrer' className='ml-4 flex-shrink-0'>
-          <img src={`https://www.google.com/s2/favicons?sz=64&domain=${homepage}`} alt={`${name} favicon`} className='h-10 w-10 rounded-full border-2 border-white' />
+          <img
+            src={`https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=${homepage}`}
+            alt={`${name} favicon`}
+            className=' h-12 w-12  rounded-lg shadow-md hover:scale-150'
+          />
         </a>
       </div>
       {playing && (
@@ -92,15 +96,15 @@ export default function RadioDetails() {
     <Layout title='World Radio'>
       <main className='container mx-auto p-4'>
         <h1 className='mb-8 text-center text-4xl font-bold'>World Radio</h1>
-        <div className='mb-4'>
+        <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
             Search for radio stations
           </label>
           <input
             type='text'
             id='searchInput'
-            className='w-100p max-w-lg rounded-lg border-gray-300 shadow-sm focus:border-indigo-300
-             focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
+            className='w-100p mt-4 max-w-lg rounded-lg border-gray-300 py-2 shadow-sm
+     focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 sm:w-full sm:px-4 sm:text-base md:px-6 md:text-lg'
             placeholder='Find Radio Stations by Name or Country...'
             value={searchTerm}
             onChange={handleSearchChange}
