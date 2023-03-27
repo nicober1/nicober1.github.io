@@ -115,10 +115,12 @@ export default function RadioDetails() {
         )}
         {error && <div className='text-center text-xl font-semibold text-red-500'>{error.message}</div>}
         {searchResults && searchResults.length > 0 && (
-          <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3'>
-            {searchResults.slice(0, RADIO_COUNT).map((radio) => (
-              <RadioItem key={radio.stationuuid} radio={radio} />
-            ))}
+          <div className='container mx-auto'>
+            <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+              {searchResults.slice(0, MAX_RADIO_COUNT).map((radio) => (
+                <RadioItem key={radio.stationuuid} radio={radio} />
+              ))}
+            </div>
           </div>
         )}
         {searchResults && searchResults.length === 0 && <div className='text-center text-xl font-semibold'>Sorry, we couldn't find any radio stations matching your search term.</div>}
