@@ -25,7 +25,9 @@ const useRadioData = (url) => {
 const RADIO_COUNT = 100
 const RadioItem = ({radio}) => {
   const {stationuuid, name, country, language, url, homepage} = radio
+  // Use a state variable to track the playing status of the audio
   const [playing, setPlaying] = useState(false)
+  // Define a function to toggle the playing state and update the audio element
   const togglePlay = () => {
     setPlaying(!playing)
     const audio = document.getElementById(stationuuid)
@@ -35,6 +37,7 @@ const RadioItem = ({radio}) => {
       audio.play()
     }
   }
+  // Define a function to close the overlay and pause the audio
   const closeOverlay = () => {
     setPlaying(false)
     const audio = document.getElementById(stationuuid)
@@ -45,8 +48,8 @@ const RadioItem = ({radio}) => {
       key={stationuuid}
       className={`rounded-lg border bg-gradient-to-br ${
         playing ? 'from-yellow-400 via-red-500 to-pink-600' : 'from-green-400 via-blue-500 to-purple-600'
-      } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
-      <div className='max-w-xs truncate text-xl font-bold sm:max-w-none sm:truncate'>{name}</div>
+      } relative p-4 text-white shadow-lg transition-shadow hover:shadow-xl`}>
+      <div className='truncate text-xl font-bold'>{name}</div>
       <div className='text-lg'>{country}</div>
       <div className='uppercase'>{language}</div>
       <div className='mt-4 flex items-center justify-between'>
@@ -58,9 +61,11 @@ const RadioItem = ({radio}) => {
           <img src={`https://www.google.com/s2/favicons?sz=64&domain=${homepage}`} alt={`${name} favicon`} className='h-10 w-10 rounded-full border-2 border-white' />
         </a>
       </div>
+      {/* Add an overlay div to show the station name when playing */}
       {playing && (
         <div className='absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 text-3xl font-bold'>
           {name}
+          {/* Add a close button to hide the overlay */}
           <button onClick={closeOverlay} className='absolute top-2 right-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
             X
           </button>
@@ -106,7 +111,7 @@ export default function RadioDetails() {
         {loading && <div className='text-center text-xl font-semibold'>Loading...</div>}
         {error && <div className='text-center text-xl font-semibold text-red-500'>{error.message}</div>}
         {searchResults && searchResults.length > 0 && (
-          <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3'>
+          <div className='grid grid-cols-3 gap-4'>
             {searchResults.slice(0, RADIO_COUNT).map((radio) => (
               <RadioItem key={radio.stationuuid} radio={radio} />
             ))}
