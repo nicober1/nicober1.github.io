@@ -53,7 +53,7 @@ const RadioItem = ({radio}) => {
       <div className='text-sm uppercase'>{language.substr(0, 36)}</div>
       <div className='mt-4 flex items-center justify-between'>
         <audio id={stationuuid} src={url}></audio>
-        <button onClick={togglePlay} className={`rounded-full bg-white p-2 text-black font-bold uppercase shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
+        <button onClick={togglePlay} className={`rounded-full bg-white p-2 font-bold uppercase text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
           {playing ? 'Pause' : 'Play'}
         </button>
         <a href={homepage} target='_blank' rel='noreferrer' className='ml-4 flex-shrink-0'>
@@ -95,7 +95,7 @@ export default function RadioDetails() {
   return (
     <Layout title='World Radio'>
       <main className='container mx-auto p-4'>
-        <h1 className='mb-8 text-center text-4xl font-bold'>World Radio</h1>
+        <h1 className='text-shadow-lg mb-8 bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-center text-transparent text-4xl font-bold'>World Radio</h1>
         <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
             Search for radio stations
