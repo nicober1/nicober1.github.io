@@ -23,7 +23,6 @@ function useBackgroundImage() {
     'url(https://source.unsplash.com/random/1920x1080?girl)',
     'url(https://source.unsplash.com/random/1920x1080?animal)',
     'url(https://source.unsplash.com/random/1920x1080?space)',
-    'url(https://source.unsplash.com/random/1920x1080?festival)',
     'url(https://source.unsplash.com/random/1920x1080?india)',
   ]
   useEffect(() => {
