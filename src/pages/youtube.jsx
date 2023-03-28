@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react'
 
 import ReactPlayer from 'react-player'
 
-import videos from '/data/youtubemostwatched.json'
+import videos from '/data/yt/1.json'
 
 function YouTubeVideos() {
   const [data, setData] = useState([])
