@@ -19,11 +19,9 @@ function PageLink({to, title, description}) {
 function useBackgroundImage() {
   const [backgroundImage, setBackgroundImage] = useState('url(https://source.unsplash.com/random/1920x1080?water)')
   const images = [
-    'url(https://source.unsplash.com/random/1920x1080?nature)',
     'url(https://source.unsplash.com/random/1920x1080?girl)',
-    'url(https://source.unsplash.com/random/1920x1080?animal)',
     'url(https://source.unsplash.com/random/1920x1080?space)',
-    'url(https://source.unsplash.com/random/1920x1080?india)',
+    'url(https://source.unsplash.com/random/1920x1080?rocket)',
   ]
   useEffect(() => {
     const interval = setInterval(() => {
@@ -53,12 +51,13 @@ export default function HomePage() {
         <h2 className={classNames('mb-8 bg-clip-text text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl', colors[colorIndex])}>Welcome to Fluent Blogs</h2>
         <h2 className={classNames('mb-8 bg-clip-text text-sm font-bold text-transparent sm:text-base md:text-lg lg:text-xl xl:text-2xl', colors[colorIndex])}>Words that flow, Ideas that grow</h2>
         <div className='mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3'>
-          <PageLink to='/radio' title='Listen to Radio' description='Radio streams from around the world' />
+          <PageLink to='/radio' title='Listen to World Radio' description='Collection of top Radio Stations around the World' />
+          <PageLink to='/hero' title='Superheros and Superheroines' description='Details of Superheros and Superheroines' />
           <PageLink to='/gallery' title='Random Picture Gallery' description='Random Picture Gallery' />
-          <PageLink to='/timezones' title='Timezones' description='Timezones' />
-          <PageLink to='/countries' title='Countries' description='Countries' />
+          <PageLink to='/timezones' title='Timezones' description='Timezones of the World' />
+          <PageLink to='/countries' title='Countries' description='Countries of the World' />
           <PageLink to='/blog' title='Blogs' description='Blogs' />
-          <PageLink to='/live' title='Live News' description='Live News from YouTube' />
+          <PageLink to='/live' title='Live News Channels' description='Live News Channels' />
           <PageLink to='/apod' title='NASA Astronomy Picture of the Day' description='NASA Astronomy Picture of the Day' />
           <PageLink to='/matrix' title='Matrix Effect' description='Matrix Effect' />
           <PageLink to='/particlesseaanemone' title='Sea Anemone Graphics' description='Sea Anemone Graphics' />
