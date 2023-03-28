@@ -3,13 +3,47 @@ import data from '/data/hero.json'
 import Layout from '@theme/Layout'
 
 export default function App() {
+  const [searchTerm, setSearchTerm] = React.useState('')
+
+  React.useEffect(() => {
+    document.title = `Search for ${searchTerm}`
+  }, [searchTerm])
+
+  const handleChange = React.useCallback((event) => {
+    setSearchTerm(event.target.value)
+  }, [])
+
+  const filteredData = React.useMemo(() => {
+    return data.filter((hero) => hero.name.toLowerCase().includes(searchTerm.toLowerCase()))
+  }, [searchTerm])
+
   return (
     <Layout noFooter title='Superheros'>
       <main className='container mx-auto p-4'>
         <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>SuperHeros and SuperHeroines</h1>
-
+        <div className='my-4 flex items-center justify-center'>
+          <div className='relative w-full max-w-md'>
+            <input
+              className='h-10 w-full rounded-full border border-gray-300 bg-white pl-10 pr-4 shadow-sm focus:border-indigo-500 focus:outline-none placeholder-black text-black'
+              type='text'
+              placeholder='Search by Superhero(ine) Name...'
+              value={searchTerm}
+              onChange={handleChange}
+            />
+            <span className='absolute top-[50%] left-[0.5rem] -translate-y-[50%] transform text-gray-400'>
+              <svg className='h-5 w-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M21 21l-5.172-5.172m2.828-2.828a4.5 4.5 0 10-9.9-.001 4.5 4.5 0 009.9.001z' />
+              </svg>
+            </span>
+            <button className='absolute top-[50%] right-[0.5rem] -translate-y-[50%] transform rounded-full bg-indigo-500 text-white shadow-sm hover:bg-indigo-600' type='submit'>
+              <svg className='h-5 w-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M17 8l4 4m0 0l-4 4m4-4H3' />
+              </svg>
+            </button>
+          </div>
+        </div>
         <div className='grid min-h-screen grid-cols-3 gap-4 bg-gradient-to-r from-blue-900 via-purple-900 to-pink-900'>
-          {data.map((hero) => (
+          {filteredData.map((hero) => (
             <Hero key={hero.id} hero={hero} />
           ))}
         </div>
