@@ -61,6 +61,7 @@ export default function HomePage() {
           <PageLink to='/apod' title='NASA Astronomy Picture of the Day' description='NASA Astronomy Picture of the Day' />
           <PageLink to='/matrix' title='Matrix Effect' description='Matrix Effect' />
           <PageLink to='/particlesseaanemone' title='Sea Anemone Graphics' description='Sea Anemone Graphics' />
+          <PageLink to='/reactlive' title='React Live Editor' description='Live code editor for React' />
         </div>
       </div>
     </Layout>

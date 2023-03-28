@@ -5,6 +5,7 @@ const fs = require('fs')
 const miscHTML = fs.readFileSync('./src/snippets/misc.html', 'utf-8')
 const keywordslist = fs.readFileSync('./static/data/keywords.txt', 'utf-8')
 const config = {
+  themes: ['@docusaurus/theme-live-codeblock'],
   title: 'Fluent Blogs',
   tagline: 'Words that flow, ideas that grow',
   favicon: 'img/logo.png',
@@ -128,64 +129,8 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          type: 'dropdown',
-          label: 'Miscellaneous',
-          position: 'left',
-          items: [
-            {
-              to: '/nobel',
-              label: 'Nobel Prize Laureates',
-            },
-            {to: '/bookmarks', label: 'Bookmarks'},
-            {to: '/cryptoprices', label: 'Cryptocurrencies'},
-
-            {
-              to: '/particlesconfetti',
-              label: 'Confetti Graphics',
-            },
-            {
-              to: '/codelive',
-              label: 'React Live Code Editor',
-            },
-            {
-              to: '/catdoggallery',
-              label: 'Cat and Dog Gallery',
-            },
-            {
-              to: '/testpage',
-              label: 'Test Page Beta',
-            },
-            {
-              to: '/graphics',
-              label: 'Graphics',
-            },
-            {
-              to: '/tailwindcsscheatsheet',
-              label: 'TailWindCSS CheatSheet',
-            },
-            {
-              to: '/periodictable',
-              label: 'Periodic Table of Elements',
-            },
-            {
-              to: '/svggrid',
-              label: 'SVGs',
-            },
-            {
-              to: '/colors',
-              label: 'Random Colors',
-            },
-            {
-              to: '/hexcolors',
-              label: 'Random CSS Hex Colors',
-            },
-            {
-              to: '/primenumbers',
-              label: 'Prime Numbers',
-            },
-          ],
-        },
+        {to: '/blog', label: 'Blogs'},
+        {to: '/radio', label: 'Radio'},
       ],
     },
     footer: {
