@@ -93,7 +93,7 @@ export default function RadioDetails() {
     setSearchTerm(value)
   }
   return (
-    <Layout title='World Radio'>
+    <Layout noFooter title='World Radio'>
       <main className='container mx-auto p-4'>
         <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>World Radio</h1>
         <div className='mb-4 flex justify-center'>
