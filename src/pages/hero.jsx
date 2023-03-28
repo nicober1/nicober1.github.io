@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '/data/hero1.json'
+import data from '/data/hero.json'
 export default function App() {
   return (
     <div className='grid min-h-screen grid-cols-3 gap-4 bg-gradient-to-r from-blue-900 via-purple-900 to-pink-900'>
