@@ -1,28 +1,23 @@
 import React from 'react'
-import data from '/data/hero.json'
-
+import data from '/data/hero1.json'
 export default function App() {
   return (
-    // Use grid-cols-3 to create a 3-column grid
-    <div className='grid min-h-screen grid-cols-3 gap-4 bg-gray-100'>
+    <div className='grid min-h-screen grid-cols-3 gap-4 bg-gradient-to-r from-blue-900 via-purple-900 to-pink-900'>
       {data.map((hero) => (
-        // Use the Hero component and pass the hero object as a prop
         <Hero key={hero.id} hero={hero} />
       ))}
     </div>
   )
 }
-
-// Wrap the component with React.memo
 const Hero = React.memo(function Hero({hero}) {
   return (
-    // Move the JSX for each hero inside this component
-    <div className='overflow-hidden rounded-lg bg-white p-4 shadow-lg'>
-      <img src={hero.image.url} alt={hero.name} className='h-48 w-full object-cover' />
+    <div className='transform rounded-lg border-4 border-white bg-white/50 p-4 shadow-xl transition-transform duration-300 ease-in-out hover:scale-105'>
+      <img src={hero.image.url} alt={hero.name} className='w-full rounded object-cover' />
       <div className='p-4'>
-        <h2 className='mb-2 text-xl font-bold text-gray-900'>{hero.name}</h2>
+        // Use text-white text-shadow-lg font-bold to style the text
+        <h2 className='text-shadow-lg mb-2 text-xl font-bold text-white'>{hero.name}</h2>
         <div className='mb-4'>
-          <h3 className='mb-2 text-lg font-bold text-gray-600'>Powerstats:</h3>
+          <h3 className='text-shadow-lg mb-2 text-lg font-bold text-white'>Powerstats:</h3>
           <ul className='list-disc pl-5'>
             {Object.entries(hero.powerstats).map(([stat, value]) => (
               <li key={stat}>
@@ -33,7 +28,7 @@ const Hero = React.memo(function Hero({hero}) {
           </ul>
         </div>
         <div className='mb-4'>
-          <h3 className='mb-2 text-lg font-bold text-gray-600'>Biography:</h3>
+          <h3 className='text-shadow-lg mb-2 text-lg font-bold text-white'>Biography:</h3>
           <ul className='list-disc pl-5'>
             <li>
               <span className='font-bold'>Full Name: </span>
@@ -54,7 +49,6 @@ const Hero = React.memo(function Hero({hero}) {
           </ul>
         </div>
       </div>
-      // End of JSX for each hero
     </div>
   )
 })
