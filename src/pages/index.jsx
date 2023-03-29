@@ -50,7 +50,7 @@ export default function HomePage() {
       <div className={classNames('flex h-screen flex-col items-center justify-center', 'bg-cover bg-center bg-no-repeat', 'md:bg-cover md:bg-fixed md:bg-center')} style={{backgroundImage}}>
         <h2 className={classNames('mb-8 bg-clip-text text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl', colors[colorIndex])}>Welcome to Fluent Blogs</h2>
         <h2 className={classNames('mb-8 bg-clip-text text-sm font-bold text-transparent sm:text-base md:text-lg lg:text-xl xl:text-2xl', colors[colorIndex])}>Words that flow, Ideas that grow</h2>
-        <div className='mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3'>
+        <div className='mt-8 grid grid-cols-1 gap-4 sm:grid-cols-1 lg:grid-cols-3'>
           <PageLink to='/youtube/1' title='Most viewed videos in Youtube' description='Most viewed videos in Youtube' />
           <PageLink to='/radio' title='Listen to World Radio' description='Collection of top Radio Stations around the World' />
           <PageLink to='/hero' title='Superheros and Superheroines' description='Details of Superheros and Superheroines' />
