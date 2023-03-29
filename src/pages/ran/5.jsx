@@ -1,29 +1,44 @@
-import React, {useState, useEffect} from 'react'
+import React, {useEffect, useState} from 'react'
 
-// A function component that fetches and displays some information about Kolkata from Wikipedia
-export default function KolkataInfo() {
-  // Create a state variable to store the information
-  const [info, setInfo] = useState('')
+import data1 from '/data/emoji.json'
 
-  // Use an effect hook to fetch the information from Wikipedia API
+function Emoji(props) {
+  const {emojiId, image, searchTerms, shortcuts} = props.emoji
+
+  // A helper function that converts an array of strings into a comma-separated list
+  function formatList(array) {
+    return array.join(', ')
+  }
+
+  // Return the JSX element that displays the emoji and its fields
+  return (
+    <div className='emoji'>
+      <div className='emoji-id'>{emojiId}</div>
+      <img src={image.thumbnails[0].url} alt={emojiId} className='emoji-image' />
+      <div className='emoji-search-terms'>Search terms: {formatList(searchTerms)}</div>
+      <div className='emoji-shortcuts'>Shortcuts: {formatList(shortcuts)}</div>
+    </div>
+  )
+}
+
+// A component that renders an array of emoji objects
+export default function EmojiList() {
+  const [data, setData] = useState([])
+
+  // Use useEffect hook to load the data from the JSON file when the component mounts
   useEffect(() => {
-    // Define a function to fetch the information
-    const fetchInfo = async () => {
-      // Use the query parameter 'action=query&prop=extracts&exintro&explaintext&titles=Kolkata' to get a plain text summary of Kolkata
-      const response = await fetch('https://en.wikipedia.org/w/api.php?format=json&origin=*&action=query&prop=extracts&exintro&explaintext&titles=earth')
-      const data = await response.json()
+    // Update the state with the data from the JSON file
+    setData(data1)
+  }, [])
+  // Destructure the emoji array from the props
+  const {emojis} = data
 
-      // Get the first page object from the query result
-      const page = data.query.pages[Object.keys(data.query.pages)[0]]
-
-      // Set the state variable with the page extract
-      setInfo(page.extract)
-    }
-
-    // Call the function
-    fetchInfo()
-  }, []) // Run the effect only once
-
-  // Return a div element with the information
-  return <div>{info}</div>
+  // Return the JSX element that maps each emoji object to an Emoji component
+  return (
+    <div className='emoji-list'>
+      {emojis.slice(0, 10).map((emoji) => (
+        <Emoji key={emoji.emojiId} emoji={emoji} />
+      ))}
+    </div>
+  )
 }
