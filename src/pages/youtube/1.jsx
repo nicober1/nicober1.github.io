@@ -1,10 +1,7 @@
 import React, {useState, useEffect} from 'react'
-import axios from 'axios'
 import ReactPlayer from 'react-player'
 import Layout from '@theme/Layout'
 import data from '/data/youtube11.json'
-
-
 const formatNumber = (num) => {
   if (num < 1e9) return num
   return (num / 1e9).toFixed(1) + ' Billion'
