@@ -18,7 +18,7 @@ export default function App() {
             return (
               <div className='m-4 w-full rounded border p-4 shadow-lg md:w-1/2 lg:w-1/3' key={videoId}>
                 <ReactPlayer url={`https://www.youtube.com/watch?v=${videoId}`} controls width='100%' height='100%' />
-                <h3 className='text-lg font-semibold'>Views: {formatNumber(viewCount)}</h3>
+                <h3 className='text-lg font-bold'>Views: {formatNumber(viewCount)}</h3>
               </div>
             )
           })}
