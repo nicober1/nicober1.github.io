@@ -22,7 +22,7 @@ function YouTubeVideos() {
   return (
     <div className='container mx-auto p-4'>
       <h1 className='text-center text-4xl font-bold text-blue-600'>YouTube Videos</h1>
-      <div className='mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+      <div className='mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2'>
         {data && data.length > 0 ? ( // Check if data array exists and has some items
           data.map(
             (
@@ -31,8 +31,6 @@ function YouTubeVideos() {
               <div key={item.id} className='card overflow-hidden rounded-lg shadow-lg bg-black'>
                 <ReactPlayer url={`https://www.youtube.com/watch?v=${item.id}`} controls width='100%' height='100%' /> 
                 <div className='card-body bg-black p-4'>
-                  <h3 className='card-title truncate text-lg font-semibold text-white'> {item.snippet.title} </h3>
-                  <p className='card-text uppercase text-sm text-white'> {item.snippet.channelTitle} </p>
                 </div>
               </div>
             ),

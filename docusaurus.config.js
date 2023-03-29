@@ -2,7 +2,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const {ProvidePlugin} = require('webpack')
 const fs = require('fs')
-const miscHTML = fs.readFileSync('./src/snippets/misc.html', 'utf-8')
 const keywordslist = fs.readFileSync('./static/data/keywords.txt', 'utf-8')
 const config = {
   themes: ['@docusaurus/theme-live-codeblock'],
