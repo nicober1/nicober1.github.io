@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import axios from 'axios'
 import ReactPlayer from 'react-player'
 import Layout from '@theme/Layout'
-const videoIds = ['9bZkp7q19f0', 'RgKAFK5djSk', 'fRh_vgS2dFE']
+const videoIds = ['XqZsoesa55w', 'kJQP7kiw5Fk', 'F4tHL8reNCs']
 const formatNumber = (num) => {
   if (num < 1e9) return num
   return (num / 1e9).toFixed(1) + ' Billion'
