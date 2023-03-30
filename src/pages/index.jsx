@@ -40,10 +40,7 @@ function useBackgroundImage() {
 export default function HomePage() {
   const backgroundImage = useBackgroundImage()
   const [colorIndex, setColorIndex] = useState(0)
-  const colors = [
-    'bg-gradient-to-r from-red-600 via-yellow-400 to-green-600 ',
-    'bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 ',
-  ]
+  const colors = ['bg-gradient-to-r from-red-600 via-yellow-400 to-green-600 ']
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -54,29 +51,26 @@ export default function HomePage() {
 
   return (
     <Layout noFooter>
-      <div
-        className={classNames(
-          'flex h-screen flex-col items-center justify-center',
-          'bg-cover bg-center bg-no-repeat',
-          'md:bg-cover md:bg-fixed md:bg-center',
-        )}
-        style={{backgroundImage}}>
-        <main className='container mx-auto p-4'>
-          <h2
-            className={classNames(
-              'mb-8 bg-clip-text text-center text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
-              colors[colorIndex],
-            )}>
-            Welcome to Fluent Blogs
-          </h2>
-          <h2
-            className={classNames(
-              'mb-8 bg-clip-text text-center text-sm font-bold text-transparent sm:text-base md:text-lg lg:text-xl xl:text-2xl',
-              colors[colorIndex],
-            )}>
-            Words that flow, Ideas that grow
-          </h2>
-          <div className='mt-8 grid grid-cols-1 gap-4 sm:grid-cols-1 lg:grid-cols-3'>
+      <div className='mx-auto my-auto bg-cover bg-no-repeat' style={{backgroundImage}}>
+        <div className='container mx-auto my-auto'>
+          <div className='container mx-auto my-auto text-center font-bold text-transparent '>
+            <h2
+              className={classNames(
+                'mt-10 bg-clip-text  text-xl   sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
+                colors[colorIndex],
+              )}>
+              Welcome to Fluent Blogs
+            </h2>
+            <h2
+              className={classNames(
+                'mt-4 bg-clip-text text-sm  sm:text-base md:text-lg lg:text-xl xl:text-2xl',
+                colors[colorIndex],
+              )}>
+              Words that flow, Ideas that grow
+            </h2>
+          </div>
+
+          <div className='container mx-auto my-auto mb-6 mt-8 grid grid-cols-2 gap-4 sm:grid-cols-1 lg:grid-cols-3'>
             <PageLink
               to='/youtube/1'
               title='Most viewed videos in Youtube'
@@ -106,7 +100,7 @@ export default function HomePage() {
             <PageLink to='/particlesseaanemone' title='Sea Anemone Graphics' description='Sea Anemone Graphics' />
             <PageLink to='/reactlive' title='React Live Editor' description='Live code editor for React' />
           </div>
-        </main>
+        </div>
       </div>
     </Layout>
   )
