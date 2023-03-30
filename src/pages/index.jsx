@@ -83,6 +83,11 @@ export default function HomePage() {
               description='Collection of top Radio Stations around the World'
             />
             <PageLink
+              to='/solarmodel'
+              title='Solar System Scope 3D Model'
+              description='Invented and Developed by INOVE @ https://www.solarsystemscope.com'
+            />
+            <PageLink
               to='/hero'
               title='Superheros and Superheroines'
               description='Details of Superheros and Superheroines'
