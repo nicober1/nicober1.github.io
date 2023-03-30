@@ -2,6 +2,8 @@ import React, {useState, useEffect, useRef} from 'react'
 import axios from 'axios'
 import Layout from '@theme/Layout'
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import DonateButton from '@site/src/components/DonateButton'
+
 const useFetchRadioData = (url) => {
   const [radioData, setRadioData] = useState([])
   const [loading, setLoading] = useState(false)
@@ -94,8 +96,12 @@ export default function RadioDetails() {
   }
   return (
     <Layout noFooter title='World Radio'>
+      <DonateButton />
+
       <main className='container mx-auto p-4'>
-        <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>World Radio</h1>
+        <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>
+          World Radio
+        </h1>
         <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
             Search for radio stations
@@ -115,7 +121,11 @@ export default function RadioDetails() {
           <div className='flex h-full w-full items-center justify-center'>
             <svg className='h-12 w-12 animate-spin text-cyan-500' viewBox='0 0 24 24'>
               <circle className='opacity-25' cx='12' cy='12' r='10' stroke='currentColor' strokeWidth='4' fill='none' />
-              <path className='opacity-75' fill='currentColor' d='M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm16 0a8 8 0 01-8 8v4a10 10 0 0010-10h-4zm-8 4a4 4 0 100-8 4 4 0 000 8z' />
+              <path
+                className='opacity-75'
+                fill='currentColor'
+                d='M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm16 0a8 8 0 01-8 8v4a10 10 0 0010-10h-4zm-8 4a4 4 0 100-8 4 4 0 000 8z'
+              />
             </svg>
           </div>
         )}
@@ -129,7 +139,11 @@ export default function RadioDetails() {
             </div>
           </div>
         )}
-        {searchResults && searchResults.length === 0 && <div className='text-center text-xl font-semibold'>Sorry, we couldn't find any radio stations matching your search term.</div>}
+        {searchResults && searchResults.length === 0 && (
+          <div className='text-center text-xl font-semibold'>
+            Sorry, we couldn't find any radio stations matching your search term.
+          </div>
+        )}
       </main>
     </Layout>
   )
