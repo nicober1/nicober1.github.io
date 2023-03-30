@@ -83,9 +83,19 @@ export default function HomePage() {
               description='Collection of top Radio Stations around the World'
             />
             <PageLink
+              to='/nasaeyes'
+              title='Eyes on the Solar System'
+              description='Courtsey @ NASA @ https://eyes.nasa.gov/'
+            />
+            <PageLink
               to='/solarmodel'
               title='Solar System Scope 3D Model'
-              description='Invented and Developed by INOVE @ https://www.solarsystemscope.com'
+              description='Courtesy @ INOVE @ https://www.solarsystemscope.com'
+            />
+            <PageLink
+              to='/3dplanets'
+              title='3D Model of Planets and Moons'
+              description='Courtesy @ NASA'
             />
             <PageLink
               to='/hero'

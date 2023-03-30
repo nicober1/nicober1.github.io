@@ -67,4 +67,9 @@ const urls = [
     title: 'Solar System Scope',
     description: 'Solar System Scope',
   },
+  {
+    url: 'https://eyes.nasa.gov',
+    title: 'NASA Eyes',
+    description: 'Experience Earth and our solar system',
+  },
 ]
