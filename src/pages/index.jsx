@@ -5,16 +5,18 @@ import Layout from '@theme/Layout'
 
 function PageLink({to, title, description}) {
   return (
-    <div className='flex transform flex-col items-center justify-center rounded  bg-cyan-500 bg-opacity-40 p-4 shadow-lg transition duration-300 ease-in-out hover:scale-105'>
-      <Link
-        to={to}
-        className={classNames(
-          'mb-2 bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text  font-bold text-transparent transition duration-300 ease-in-out hover:from-blue-400 hover:to-purple-500',
-        )}>
-        {title}
-      </Link>
-      <p className='text-center  text-white'>{description}</p>
-    </div>
+    <Link to={to}>
+      <div className='flex transform flex-col items-center justify-center rounded  bg-cyan-500 bg-opacity-40 p-4 shadow-lg transition duration-300 ease-in-out hover:scale-105'>
+        <Link
+          to={to}
+          className={classNames(
+            'mb-2 bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text  font-bold text-transparent transition duration-300 ease-in-out hover:from-blue-400 hover:to-purple-500',
+          )}>
+          {title}
+        </Link>
+        <p className='text-center  text-white'>{description}</p>
+      </div>
+    </Link>
   )
 }
 
@@ -62,14 +64,14 @@ export default function HomePage() {
         <main className='container mx-auto p-4'>
           <h2
             className={classNames(
-              'mb-8 text-center bg-clip-text text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
+              'mb-8 bg-clip-text text-center text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
               colors[colorIndex],
             )}>
             Welcome to Fluent Blogs
           </h2>
           <h2
             className={classNames(
-              'text-center text-transparent mb-8 bg-clip-text text-sm font-bold sm:text-base md:text-lg lg:text-xl xl:text-2xl',
+              'mb-8 bg-clip-text text-center text-sm font-bold text-transparent sm:text-base md:text-lg lg:text-xl xl:text-2xl',
               colors[colorIndex],
             )}>
             Words that flow, Ideas that grow
