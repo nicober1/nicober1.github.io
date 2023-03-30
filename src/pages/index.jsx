@@ -99,6 +99,21 @@ export default function HomePage() {
             <PageLink to='/matrix' title='Matrix Effect' description='Matrix Effect' />
             <PageLink to='/particlesseaanemone' title='Sea Anemone Graphics' description='Sea Anemone Graphics' />
             <PageLink to='/reactlive' title='React Live Editor' description='Live code editor for React' />
+            <PageLink to='/bookmarks' title='Important Site Bookmarks' description='Important Bookmarks' />
+            <PageLink to='/colors' title='Colors' description='List of Colors' />
+            <PageLink to='/hexcolors' title='Colors with Hex Code' description='List of Colors with Hex Code' />
+            <PageLink to='/cryptoprices' title='CrytoCurrency List' description='List of CrytoCurrency' />
+            <PageLink to='/nobel' title='Nobel Laureates' description='List of Nobel Laureates' />
+            <PageLink to='/periodictable' title='Periodic Table of Elements' description='Periodic Table of Elements' />
+            <PageLink to='/primenumbers' title='Prime Numbers' description='Prime Numbers' />
+            <PageLink to='/word' title='Synonym/Antonym/Usage of Word' description='Synonym/Antonym/Usage of Word' />
+            <PageLink to='/tailwind' title='Tailwind CSS Cheatsheet' description='Tailwind CSS Cheatsheet' />
+            <PageLink to='/unsplash' title='Unsplash Photos' description='Unsplash Photos' />
+            <PageLink
+              to='/catdoggallery'
+              title='Gallery for Cat and Dog Pics'
+              description='Gallery for Cat and Dog Pics'
+            />
           </div>
         </div>
       </div>
