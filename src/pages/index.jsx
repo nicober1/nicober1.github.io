@@ -21,17 +21,20 @@ function PageLink({to, title, description}) {
 }
 
 function useBackgroundImage() {
-  const [backgroundImage, setBackgroundImage] = useState('url(https://source.unsplash.com/random/1920x1080?water)')
+  const [backgroundImage, setBackgroundImage] = useState('url(https://source.unsplash.com/random/1920x1080?galaxy)')
   const images = [
-    'url(https://source.unsplash.com/random/1920x1080?girl)',
-    'url(https://source.unsplash.com/random/1920x1080?space)',
-    'url(https://source.unsplash.com/random/1920x1080?rocket)',
+    'url(https://source.unsplash.com/random/1920x1080?moon)',
+    'url(https://source.unsplash.com/random/1920x1080?star)',
+    'url(https://source.unsplash.com/random/1920x1080?universe)',
+    'url(https://source.unsplash.com/random/1920x1080?mars)',
+    'url(https://source.unsplash.com/random/1920x1080?avengers)',
+    'url(https://source.unsplash.com/random/1920x1080?saturn)',
   ]
   useEffect(() => {
     const interval = setInterval(() => {
       const randomIndex = Math.floor(Math.random() * images.length)
       setBackgroundImage(images[randomIndex])
-    }, 15000)
+    }, 7000)
     return () => clearInterval(interval)
   }, [])
   return backgroundImage
@@ -40,7 +43,7 @@ function useBackgroundImage() {
 export default function HomePage() {
   const backgroundImage = useBackgroundImage()
   const [colorIndex, setColorIndex] = useState(0)
-  const colors = ['bg-gradient-to-r from-red-600 via-yellow-400 to-green-600 ']
+  const colors = ['bg-gradient-to-r from-red-600 via-yellow-400 to-green-600']
 
   useEffect(() => {
     const interval = setInterval(() => {
