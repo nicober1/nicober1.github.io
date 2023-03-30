@@ -83,19 +83,37 @@ export default function HomePage() {
               description='Collection of top Radio Stations around the World'
             />
             <PageLink
-              to='/nasaeyes'
+              to='/nasaeyesss'
               title='Eyes on the Solar System'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
             />
+            <PageLink
+              to='/nasaeyesearth'
+              title='Eyes on Earth'
+              description='Courtsey @ NASA @ https://eyes.nasa.gov/'
+            />
+            <PageLink
+              to='/nasaeyesinter'
+              title='Interactive Solar System'
+              description='Courtsey @ NASA @ https://eyes.nasa.gov/'
+            />
+
             <PageLink
               to='/solarmodel'
               title='Solar System Scope 3D Model'
               description='Courtesy @ INOVE @ https://www.solarsystemscope.com'
             />
+            <PageLink to='/3dplanets' title='3D Model of Planets and Moons' description='Courtesy @ NASA' />
+
             <PageLink
-              to='/3dplanets'
-              title='3D Model of Planets and Moons'
-              description='Courtesy @ NASA'
+              to='/nasaeyesasteroids'
+              title='Eyes on the Asteriods'
+              description='Courtsey @ NASA @ https://eyes.nasa.gov/'
+            />
+            <PageLink
+              to='/nasaeyesexo'
+              title='Eyes on the ExoPlanets'
+              description='Courtsey @ NASA @ https://eyes.nasa.gov/'
             />
             <PageLink
               to='/hero'
