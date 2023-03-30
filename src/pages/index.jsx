@@ -2,6 +2,8 @@ import React, {useState, useEffect} from 'react'
 import Link from '@docusaurus/Link'
 import classNames from 'classnames'
 import Layout from '@theme/Layout'
+import DonateButton from '@site/src/components/DonateButton'
+
 
 function PageLink({to, title, description}) {
   return (
@@ -52,6 +54,7 @@ export default function HomePage() {
   return (
     <Layout noFooter>
       <div className='mx-auto my-auto bg-cover bg-no-repeat' style={{backgroundImage}}>
+        <DonateButton />
         <div className='container mx-auto my-auto'>
           <div className='container mx-auto my-auto text-center font-bold text-transparent '>
             <h2
