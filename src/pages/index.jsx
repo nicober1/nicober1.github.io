@@ -62,14 +62,14 @@ export default function HomePage() {
         <main className='container mx-auto p-4'>
           <h2
             className={classNames(
-              'mb-8 bg-clip-text text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
+              'mb-8 text-center bg-clip-text text-xl font-bold text-transparent sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
               colors[colorIndex],
             )}>
             Welcome to Fluent Blogs
           </h2>
           <h2
             className={classNames(
-              'mb-8 bg-clip-text text-sm font-bold text-transparent sm:text-base md:text-lg lg:text-xl xl:text-2xl',
+              'text-center text-transparent mb-8 bg-clip-text text-sm font-bold sm:text-base md:text-lg lg:text-xl xl:text-2xl',
               colors[colorIndex],
             )}>
             Words that flow, Ideas that grow
