@@ -8,13 +8,12 @@ function PageLink({to, title, description}) {
   return (
     <Link to={to}>
       <div className='flex transform flex-col items-center justify-center rounded  bg-cyan-500 bg-opacity-40 p-4 shadow-lg transition duration-300 ease-in-out hover:scale-105'>
-        <Link
-          to={to}
+        <p
           className={classNames(
             'mb-2 bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text  font-bold text-transparent transition duration-300 ease-in-out hover:from-blue-400 hover:to-purple-500',
           )}>
           {title}
-        </Link>
+        </p>
         <p className='text-center  text-white'>{description}</p>
       </div>
     </Link>

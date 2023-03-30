@@ -51,6 +51,7 @@ const config = {
             plugins: [
               new ProvidePlugin({
                 process: require.resolve('process/browser'),
+                React: 'react',
               }),
             ],
             resolve: {
@@ -86,9 +87,6 @@ const config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-        },
         blog: {
           routeBasePath: '/blog',
           blogSidebarTitle: 'Blogs',
@@ -111,6 +109,7 @@ const config = {
   ],
   stylesheets: [],
   themeConfig: {
+    ssr: true,
     defaultMode: 'dark',
     disableSwitch: false,
     respectPrefersColorScheme: false,

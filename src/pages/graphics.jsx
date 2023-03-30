@@ -18,6 +18,7 @@ export default function Home() {
         <div class='basis-1/2 border-solid dark:border-white'>
           <ThreeScene />
         </div>
+        
       </div>
     </Layout>
   )
