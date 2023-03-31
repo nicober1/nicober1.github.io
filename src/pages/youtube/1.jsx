@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player'
 import Layout from '@theme/Layout'
 import data from '/data/youtube11.json'
 import DonateButton from '@site/src/components/DonateButton'
-import Loading from '@site/src/pages/1_5Seconds_Loading'
+import Loading from '@site/src/pages/1Loading'
 
 const formatNumber = (num) => {
   if (num < 1e9) return num
