@@ -5,7 +5,8 @@ import axios from 'axios'
 
 import Layout from '@theme/Layout'
 
-function CryptoPrices() {
+function CryptoPrices()
+ {
   const [data, setData] = useState([])
   var url = useBaseUrl('/data/crypto.json')
   useEffect(() => {
