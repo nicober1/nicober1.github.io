@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react'
-import Layout from '@theme/Layout'
 import {Timeline} from 'react-twitter-widgets'
 import {TwitterTimelineEmbed} from 'react-twitter-embed'
 import Loading from '@site/src/pages/1Loading'
@@ -9,7 +8,6 @@ const profiles = ['WhiteHouse', 'NASA', 'WHO','elonmusk','POTUS']
 
 export default () => {
   return (
-    <Layout noFooter>
       <Loading>
         <>
           <div className='container mx-auto mt-10 bg-gradient-to-r from-blue-400 to-red-600 text-center'>
@@ -31,6 +29,5 @@ export default () => {
           </div>
         </>
       </Loading>
-    </Layout>
   )
 }

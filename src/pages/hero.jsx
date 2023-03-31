@@ -1,6 +1,5 @@
 import React from 'react'
 import data from '/data/hero.json'
-import Layout from '@theme/Layout'
 import Loading from '@site/src/pages/1Loading'
 
 
@@ -20,7 +19,6 @@ export default function App() {
   }, [searchTerm])
 
   return (
-    <Layout noFooter title='Superheros'>
       <Loading>
         <main className='container mx-auto p-4'>
           <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>
@@ -71,7 +69,6 @@ export default function App() {
           </div>
         </main>
       </Loading>
-    </Layout>
   )
 }
 const Hero = React.memo(function Hero({hero}) {

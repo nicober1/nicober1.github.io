@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from 'react'
 import ReactPlayer from 'react-player'
-import Layout from '@theme/Layout'
 import data from '/data/youtube11.json'
 import DonateButton from '@site/src/components/DonateButton'
 import Loading from '@site/src/pages/1Loading'
@@ -11,7 +10,6 @@ const formatNumber = (num) => {
 }
 export default function App() {
   return (
-    <Layout noFooter>
       <Loading>
         <DonateButton />
 
@@ -39,6 +37,5 @@ export default function App() {
           </div>
         </div>
       </Loading>
-    </Layout>
   )
 }
