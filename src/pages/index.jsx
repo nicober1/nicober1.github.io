@@ -92,6 +92,11 @@ export default function HomePage() {
               description='Enjoy Best Youtube PlayList Collection'
             />
             <PageLink
+              to='/spotify'
+              title='Curated Spotify Playlists'
+              description='Enjoy Spotify PlayList Collection'
+            />
+            <PageLink
               to='/nasaeyesss'
               title='Eyes on the Solar System'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
