@@ -11,7 +11,6 @@ const formatNumber = (num) => {
 export default function App() {
   return (
       <Loading>
-        <DonateButton />
 
         <div className='container my-auto mx-auto mt-10'>
           <h1 className='mt-5 text-center text-4xl font-bold '>YouTube's Most Viewed Videos</h1>
