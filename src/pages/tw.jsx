@@ -4,7 +4,7 @@ import {Timeline} from 'react-twitter-widgets'
 import {TwitterTimelineEmbed} from 'react-twitter-embed'
 import Loading from './1_5Seconds_Loading'
 
-const profiles = ['WhiteHouse', 'NASA', 'WHO']
+const profiles = ['WhiteHouse', 'NASA', 'WHO','elonmusk','POTUS']
 
 export default () => {
   return (
@@ -22,7 +22,7 @@ export default () => {
                   <TwitterTimelineEmbed
                     sourceType='profile'
                     screenName={screenName}
-                    options={{height: 400, width: '100%'}}
+                    options={{height: 600, width: '100%'}}
                   />
                 </>
               ))}
