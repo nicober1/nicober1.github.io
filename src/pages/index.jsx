@@ -85,11 +85,7 @@ export default function HomePage() {
               title='Listen to World Radio'
               description='Collection of top Radio Stations around the World'
             />
-            <PageLink
-              to='/tw'
-              title='Twitter - Important Timelines'
-              description='Stay updated with Tweets'
-            />
+            <PageLink to='/tw' title='Twitter - Important Timelines' description='Stay updated with Tweets' />
             <PageLink
               to='/nasaeyesss'
               title='Eyes on the Solar System'
@@ -122,6 +118,11 @@ export default function HomePage() {
               to='/nasaeyesexo'
               title='Eyes on the ExoPlanets'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
+            />
+            <PageLink
+              to='/weather'
+              title='World Weather'
+              description='Checkout World Weather'
             />
             <PageLink
               to='/hero'
