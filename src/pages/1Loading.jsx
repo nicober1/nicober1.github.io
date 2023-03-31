@@ -4,7 +4,6 @@ import {BounceLoader} from 'react-spinners'
 import Layout from '@theme/Layout'
 import DonateButton from '@site/src/components/DonateButton'
 
-
 const Loading = ({children}) => {
   const [loading, setLoading] = useState(true)
 

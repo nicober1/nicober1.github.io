@@ -1,5 +1,6 @@
 import React from 'react'
-import Layout from '@theme/Layout'
+import Loading from '@site/src/pages/1Loading'
+
 
 
 // Define a custom component that renders a single iframe
@@ -65,8 +66,8 @@ function Planets() {
   ]
 
   return (
-    <Layout noFooter>
-      <div style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 10}}>
+    <Loading>
+      <div className='container mt-20 mx-auto' style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 10}}>
         <div className='mt-20 grid grid-cols-2 gap-4 p-7'>
           {/* Use the map method to iterate over the iframes array and render each iframe using the custom component */}
           {iframes.map((iframe, index) => (
@@ -81,7 +82,7 @@ function Planets() {
           ))}
         </div>
       </div>
-    </Layout>
+    </Loading>
   )
 }
 
