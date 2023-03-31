@@ -17,22 +17,25 @@ import {
 export default function SolarModel() {
   return (
     <Layout noFooter>
-      <Timeline
-        dataSource={{
-          sourceType: 'profile',
-          screenName: 'WhiteHouse',
-        }}
-        options={{
-          height: 400,
-          width: 400,
-        }}
-      />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
-      <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: 400}} />
+      <div className='container mx-auto px-4'>
+        <div className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
+          <Timeline
+            dataSource={{
+              sourceType: 'profile',
+              screenName: 'WhiteHouse',
+            }}
+            options={{
+              height: 400,
+              width: '100%',
+            }}
+          />
+          <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: '100%'}} />
+          <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: '100%'}} />
+          <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: '100%'}} />
+          <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: '100%'}} />
+          <TwitterTimelineEmbed sourceType='profile' screenName='WhiteHouse' options={{height: 400, width: '100%'}} />
+        </div>
+      </div>
     </Layout>
   )
 }
