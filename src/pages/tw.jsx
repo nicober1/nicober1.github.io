@@ -2,7 +2,8 @@ import React, {useState, useEffect} from 'react'
 import Layout from '@theme/Layout'
 import {Timeline} from 'react-twitter-widgets'
 import {TwitterTimelineEmbed} from 'react-twitter-embed'
-import Loading from './1_5Seconds_Loading'
+import Loading from '@site/src/pages/1_5Seconds_Loading'
+
 
 const profiles = ['WhiteHouse', 'NASA', 'WHO','elonmusk','POTUS']
 

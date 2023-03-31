@@ -18,9 +18,10 @@ const Loading = ({children}) => {
   return (
     <div>
       <div
-        className={`flex h-screen items-center justify-center bg-gradient-to-r from-blue-400 to-purple-600 ${
+        className={`flex h-screen flex-col items-center justify-center bg-gradient-to-r from-blue-400 to-purple-600 ${
           loading ? '' : 'hidden'
         }`}>
+        <p className='mt-4 text-4xl text-white'>Please wait while we load your content...</p>
         <BounceLoader color='#FFFFFF' size={150} />
         <svg viewBox='0 0 100 100' width='100' height='100'>
           <circle cx='50' cy='50' r='45' fill='none' stroke-width='10' stroke-dasharray='283' stroke-dashoffset='141.5'>
