@@ -106,6 +106,12 @@ const config = {
       async: true,
       crossorigin: 'anonymous',
     },
+    {
+      src: 'https://platform.twitter.com/widgets.js',
+      async: true,
+      crossorigin: 'anonymous',
+      charset:'utf-8'
+    },
   ],
   stylesheets: [],
   themeConfig: {
