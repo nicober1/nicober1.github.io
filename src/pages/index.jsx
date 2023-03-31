@@ -87,6 +87,11 @@ export default function HomePage() {
             />
             <PageLink to='/tw' title='Twitter - Important Timelines' description='Stay updated with Tweets' />
             <PageLink
+              to='/youtube/2'
+              title='Curated Best YouTube Playlists'
+              description='Enjoy Best Youtube PlayList Collection'
+            />
+            <PageLink
               to='/nasaeyesss'
               title='Eyes on the Solar System'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
@@ -119,11 +124,7 @@ export default function HomePage() {
               title='Eyes on the ExoPlanets'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
             />
-            <PageLink
-              to='/weather'
-              title='World Weather'
-              description='Checkout World Weather'
-            />
+            <PageLink to='/weather' title='World Weather' description='Checkout World Weather' />
             <PageLink
               to='/hero'
               title='Superheros and Superheroines'
