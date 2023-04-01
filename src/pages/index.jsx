@@ -91,11 +91,7 @@ export default function HomePage() {
               title='Curated Best YouTube Playlists'
               description='Enjoy Best Youtube PlayList Collection'
             />
-            <PageLink
-              to='/spotify'
-              title='Curated Spotify Playlists'
-              description='Enjoy Spotify PlayList Collection'
-            />
+            <PageLink to='/spotify' title='Curated Spotify Playlists' description='Enjoy Spotify PlayList Collection' />
             <PageLink
               to='/nasaeyesss'
               title='Eyes on the Solar System'
@@ -129,22 +125,29 @@ export default function HomePage() {
               title='Eyes on the ExoPlanets'
               description='Courtsey @ NASA @ https://eyes.nasa.gov/'
             />
+            <PageLink
+              to='/apod'
+              title='NASA Astronomy Picture of the Day'
+              description='NASA Astronomy Picture of the Day'
+            />
             <PageLink to='/weather' title='World Weather' description='Checkout World Weather' />
             <PageLink
               to='/hero'
               title='Superheros and Superheroines'
               description='Details of Superheros and Superheroines'
             />
+            <PageLink
+              to='/stock'
+              title='India Stocks - Buy/Sell Technical Analysis - TradingView'
+              description='India Stocks - Buy/Sell Technical Analysis - TradingView'
+            />
+
+            <PageLink to='/live' title='Live News Channels' description='Live News Channels' />
             <PageLink to='/gallery' title='Random Picture Gallery' description='Random Picture Gallery' />
             <PageLink to='/timezones' title='Timezones' description='Timezones of the World' />
             <PageLink to='/countries' title='Countries' description='Countries of the World' />
             <PageLink to='/blog' title='Blogs' description='Blogs' />
-            <PageLink to='/live' title='Live News Channels' description='Live News Channels' />
-            <PageLink
-              to='/apod'
-              title='NASA Astronomy Picture of the Day'
-              description='NASA Astronomy Picture of the Day'
-            />
+
             <PageLink to='/matrix' title='Matrix Effect' description='Matrix Effect' />
             <PageLink to='/particlesseaanemone' title='Sea Anemone Graphics' description='Sea Anemone Graphics' />
             <PageLink to='/reactlive' title='React Live Editor' description='Live code editor for React' />
