@@ -137,9 +137,9 @@ export default function HomePage() {
               description='Details of Superheros and Superheroines'
             />
             <PageLink
-              to='/stock'
-              title='India Stocks - Buy/Sell Technical Analysis - TradingView'
-              description='India Stocks - Buy/Sell Technical Analysis - TradingView'
+              to='/stock/indiaanalysis'
+              title='Buy/Sell Technical Analysis'
+              description='India Stocks powered by TradingView'
             />
 
             <PageLink to='/live' title='Live News Channels' description='Live News Channels' />
