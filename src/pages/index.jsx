@@ -76,22 +76,23 @@ export default function HomePage() {
 
           <div className='container mx-auto my-auto mb-6 mt-8 grid grid-cols-2 gap-4 sm:grid-cols-1 lg:grid-cols-3'>
             <PageLink
-              to='/youtube/1'
-              title='Most viewed videos in Youtube'
-              description='Most viewed videos in Youtube'
-            />
-            <PageLink
               to='/radio'
               title='Listen to World Radio'
               description='Collection of top Radio Stations around the World'
             />
+            <PageLink to='/stock/crypto' title='Cryptocurrency' description='Displays Crypto Assets' />
+            <PageLink
+              to='/youtube/1'
+              title='Most viewed videos in Youtube'
+              description='Most viewed videos in Youtube'
+            />
+
             <PageLink to='/tw' title='Twitter - Important Timelines' description='Stay updated with Tweets' />
             <PageLink
               to='/youtube/2'
               title='Curated Best YouTube Playlists'
               description='Enjoy Best Youtube PlayList Collection'
             />
-            <PageLink to='/spotify' title='Curated Spotify Playlists' description='Enjoy Spotify PlayList Collection' />
             <PageLink
               to='/nasaeyesss'
               title='Eyes on the Solar System'
@@ -166,6 +167,7 @@ export default function HomePage() {
               title='Gallery for Cat and Dog Pics'
               description='Gallery for Cat and Dog Pics'
             />
+            <PageLink to='/spotify' title='Curated Spotify Playlists' description='Enjoy Spotify PlayList Collection' />
           </div>
         </div>
       </div>
