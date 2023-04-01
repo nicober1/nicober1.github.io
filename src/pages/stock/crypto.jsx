@@ -7,8 +7,8 @@ const TradingViewWidget = ({vari}) => {
     script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-screener.js'
     script.async = true
     script.innerHTML = JSON.stringify({
-      width: 1100,
-      height: 500,
+      width: 1200,
+      height: 400,
       defaultColumn: vari,
       screener_type: 'crypto_mkt',
       displayCurrency: 'USD',
@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <Loading time={2000}>
-      <div className='grid grid-cols-1 gap-3 md:grid-cols-1 lg:grid-cols-1 justify-center'>
+      <div className='grid gap-5 grid-cols-1'>
         {varies.map((vari) => (
           <TradingViewWidget key={vari} vari={vari} />
         ))}
