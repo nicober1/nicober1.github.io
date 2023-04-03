@@ -88,6 +88,7 @@ function TradingViewWidget() {
           <AddSymbolInfoWidget symbol='AAPL' />
           <AddSymbolInfoWidget symbol='MSFT' />
           <AddSymbolInfoWidget symbol='GOOG' />
+          <AddSymbolInfoWidget symbol='AMZN' />
         </div>
       </div>
     </Loading>
