@@ -15,11 +15,11 @@ const AddSymbolInfoWidget = ({symbol}) => {
       colorTheme: 'light',
       isTransparent: false,
     })
-    const container = document.getElementById(`symbolid`)
+    const container = document.getElementById(`${symbol}`)
     container.appendChild(script)
   }, [symbol])
 
-  return <div id={`symbolid`}></div>
+  return <div className=' w-[30rem]' id={symbol}></div>
 }
 
 function TradingViewWidget() {
@@ -80,13 +80,14 @@ function TradingViewWidget() {
 
   return (
     <Loading time={0}>
-      <div className='flex flex-col justify-center items-center'>
+      <div className='container'>
         <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
-        <div className='h-[50rem] w-[80rem]' id='tv-container'></div>
-        <div className='h-[50rem] w-[80rem]' id='tv-container-1'></div>
-        <div className='container grid grid-cols-3 gap-4'>
+        <div className='h-[30rem] w-[80rem]' id='tv-container'></div>
+        <div className='h-[30rem] w-[80rem]' id='tv-container-1'></div>
+        <div className='container grid grid-cols-2 sm:grid-cols-1 '>
           <AddSymbolInfoWidget symbol='AAPL' />
           <AddSymbolInfoWidget symbol='MSFT' />
+          <AddSymbolInfoWidget symbol='GOOG' />
         </div>
       </div>
     </Loading>
