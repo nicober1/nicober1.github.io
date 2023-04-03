@@ -79,13 +79,13 @@ function TradingViewWidget() {
   }, [])
 
   return (
-    <Loading time={2000}>
+    <Loading time={0}>
       <div className='justify-center  items-center'>
         <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
-        <div className='h-[50rem] w-[50rem]' id='tv-container'></div>
-        <div className='h-[50rem] w-[50rem]' id='tv-container-1'></div>
-        <AddSymbolInfoWidget className='h-[50rem] w-[50rem]' symbol='AAPL' />
-        <AddSymbolInfoWidget className='h-[50rem] w-[50rem]'  symbol='MSFT' />
+        <div className='h-[50rem] w-[80rem]' id='tv-container'></div>
+        <div className='h-[50rem] w-[80rem]' id='tv-container-1'></div>
+        <AddSymbolInfoWidget className='h-[10rem] w-[10rem]' symbol='AAPL' />
+        <AddSymbolInfoWidget className='h-[50rem] w-[80rem]'  symbol='MSFT' />
       </div>
     </Loading>
   )
