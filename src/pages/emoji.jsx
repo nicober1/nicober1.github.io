@@ -6,21 +6,21 @@ import classNames from 'classnames'
 function Emoji({emojiId, image, searchTerms = [], shortcuts = []}) {
   return (
     <div
-      className={classNames('bg-white', 'text-gray-800', 'p-4', 'm-2', 'rounded-lg', 'shadow-lg', 'hover:bg-blue-100')}>
+      className={classNames('bg-cyan-200', 'text-gray-800', 'p-4', 'm-2', 'rounded-lg', 'shadow-lg', 'hover:bg-blue-700')}>
       <div className={classNames('flex', 'flex-col')}>
         <div className={classNames('items-center', 'justify-center')}>
           {image && <img className='w-full rounded-t-lg object-cover' src={image.thumbnails[0]?.url} />}
         </div>
         {searchTerms.length > 0 && (
           <>
-            <span className={classNames('text-sm', 'font-bold')}>Search terms:</span>
-            <span className={classNames('text-sm', 'font-medium')}>{searchTerms.join(', ')}</span>
+            <span className={classNames('text-xs', 'font-bold')}>Search terms:</span>
+            <span className={classNames('text-xs', 'font-medium')}>{searchTerms.join(', ')}</span>
           </>
         )}
         {shortcuts.length > 0 && (
           <>
-            <span className={classNames('text-sm', 'font-bold')}>Shortcuts: </span>
-            <span className={classNames('text-sm', 'font-medium')}>{shortcuts.join(', ')}</span>
+            <span className={classNames('text-xs', 'font-bold')}>Shortcuts: </span>
+            <span className={classNames('text-xs', 'font-medium')}>{shortcuts.join(', ')}</span>
           </>
         )}
       </div>
@@ -42,6 +42,14 @@ function App() {
 
   return (
     <div className='container grid grid-cols-5 gap-4'>
+      <div className='col-span-full flex justify-center'>
+        <button onClick={() => setPage((page) => page - 1)} disabled={page === 0}>
+          Previous
+        </button>
+        <button onClick={() => setPage((page) => page + 1)} disabled={emojis.length < 500}>
+          Next
+        </button>
+      </div>
       {emojis.map((emoji) => (
         <Emoji key={emoji.emojiId} {...emoji} />
       ))}
