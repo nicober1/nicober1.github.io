@@ -142,11 +142,7 @@ export default function HomePage() {
               title='Superheros and Superheroines'
               description='Details of Superheros and Superheroines'
             />
-            <PageLink
-              to='/stock/widget'
-              title='Stock Market Widgets'
-              description='Stock Market Widgets'
-            />
+            <PageLink to='/stock/widget' title='Stock Market Widgets' description='Stock Market Widgets' />
             <PageLink
               to='/stock/indiaanalysis'
               title='Buy/Sell Technical Analysis'
@@ -164,6 +160,7 @@ export default function HomePage() {
             <PageLink to='/reactlive' title='React Live Editor' description='Live code editor for React' />
             <PageLink to='/bookmarks' title='Important Site Bookmarks' description='Important Bookmarks' />
             <PageLink to='/colors' title='Colors' description='List of Colors' />
+            <PageLink to='/emoji' title='Emojis' description='Explore Emojis' />
             <PageLink to='/hexcolors' title='Colors with Hex Code' description='List of Colors with Hex Code' />
             <PageLink to='/cryptoprices' title='CrytoCurrency List' description='List of CrytoCurrency' />
             <PageLink to='/nobel' title='Nobel Laureates' description='List of Nobel Laureates' />
