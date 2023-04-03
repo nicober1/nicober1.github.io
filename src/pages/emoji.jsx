@@ -9,7 +9,7 @@ function Emoji({emojiId, image, searchTerms = [], shortcuts = []}) {
     <div
       className={classNames(
         'bg-cyan-200',
-        'text-gray-800',
+        'text-black',
         'p-4',
         'm-2',
         'rounded-lg',
@@ -51,8 +51,8 @@ function App() {
 
   return (
     <Loading time={2000}>
-      <div className='container grid grid-cols-5 gap-4'>
-        <div className='col-span-full flex justify-center'>
+      <div className='mt-10 container grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-5 gap-4'>
+        <div className='mt-10 col-span-full flex justify-center'>
           <button onClick={() => setPage((page) => page - 1)} disabled={page === 0}>
             Previous
           </button>
