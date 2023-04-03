@@ -36,16 +36,32 @@ const TickerTape = () => {
   const varies = useMemo(
     () => [
       {
-        proName: 'FOREXCOM:SPXUSD',
-        title: 'S&P 500',
+        proName: 'TSLA',
+        title: 'Tesla',
       },
       {
-        proName: 'FOREXCOM:NSXUSD',
-        title: 'US 100',
+        proName: 'AAPL',
+        title: 'Apple',
       },
       {
-        proName: 'FX_IDC:EURUSD',
-        title: 'EUR/USD',
+        proName: 'AMZN',
+        title: 'Amazon',
+      },
+      {
+        proName: 'MSFT',
+        title: 'Microsoft',
+      },
+      {
+        proName: 'META',
+        title: 'Meta',
+      },
+      {
+        proName: 'GOOGL',
+        title: 'Alphabet Inc',
+      },
+      {
+        proName: 'RELIANCE',
+        title: 'Reliance Industries',
       },
       {
         proName: 'BITSTAMP:BTCUSD',
@@ -56,7 +72,7 @@ const TickerTape = () => {
         title: 'Ethereum',
       },
     ],
-    [], // add an empty dependency array
+    [],
   )
 
   return <TradingViewWidget vari={varies} />
