@@ -1,44 +1,54 @@
-import React, {useEffect, useState} from 'react'
+import React, {useState, useEffect} from 'react'
 
 import data1 from '/data/emoji.json'
 
-function Emoji(props) {
-  const {emojiId, image, searchTerms, shortcuts} = props.emoji
-
-  // A helper function that converts an array of strings into a comma-separated list
-  function formatList(array) {
-    return array.join(', ')
-  }
-
-  // Return the JSX element that displays the emoji and its fields
+function Emoji({emojiId, image, searchTerms, shortcuts}) {
   return (
-    <div className='emoji'>
-      <div className='emoji-id'>{emojiId}</div>
-      <img src={image.thumbnails[0].url} alt={emojiId} className='emoji-image' />
-      <div className='emoji-search-terms'>Search terms: {formatList(searchTerms)}</div>
-      <div className='emoji-shortcuts'>Shortcuts: {formatList(shortcuts)}</div>
+    <div>
+      <span>Emoji ID: {emojiId}</span>
+      <img src={image.thumbnails[0].url} alt={searchTerms.join(', ')} />
+      <span>Search terms: {searchTerms.join(', ')}</span>
+      <span>Shortcuts: {shortcuts.join(', ')}</span>
     </div>
   )
 }
 
 // A component that renders an array of emoji objects
-export default function EmojiList() {
-  const [data, setData] = useState([])
+function App() {
+  // Use useState to create a state variable for the current page and a setter function
+  const [page, setPage] = useState(0)
 
-  // Use useEffect hook to load the data from the JSON file when the component mounts
+  // Use useState to create a state variable for the current emojis and a setter function
+  const [emojis, setEmojis] = useState([])
+
+  // Use useEffect to update the current emojis based on the current page and the data
   useEffect(() => {
-    // Update the state with the data from the JSON file
-    setData(data1)
-  }, [])
-  // Destructure the emoji array from the props
-  const {emojis} = data
+    // Use slice to take 100 emojis from the data array at the current page
+    const start = page * 100
+    const end = start + 100
+    const newEmojis = data1.slice(start, end)
+    setEmojis(newEmojis)
+  }, [page])
 
-  // Return the JSX element that maps each emoji object to an Emoji component
+  // Use the grid utility classes from Tailwind CSS to create a grid layout for the emojis
   return (
-    <div className='emoji-list'>
-      {/* {emojis.slice(0, 10).map((emoji) => (
-        <Emoji key={emoji.emojiId} emoji={emoji} />
-      ))} */}
+    <div className='container grid grid-cols-10 gap-4'>
+      {emojis.map((emoji) => (
+        <Emoji key={emoji.emojiId} {...emoji} />
+      ))}
+      {/* Use the flex and justify-center utility classes from Tailwind CSS to create a pagination bar */}
+      <div className='col-span-full flex justify-center'>
+        {/* Use buttons and event handlers to increment or decrement the current page and switch between different emojis */}
+        {/* Use conditional rendering to disable the buttons when there are no more emojis to show */}
+        <button onClick={() => setPage((page) => page - 1)} disabled={page === 0}>
+          Previous
+        </button>
+        <button onClick={() => setPage((page) => page + 1)} disabled={emojis.length < 100}>
+          Next
+        </button>
+      </div>
     </div>
   )
 }
+
+export default App
