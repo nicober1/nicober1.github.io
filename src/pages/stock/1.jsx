@@ -1,22 +1,24 @@
 import React, {useEffect} from 'react'
+import Loading from '@site/src/pages/1Loading'
+import HeaderTypeWriter from '@site/src/components/HeaderTypeWriter'
 
-const SymbolCollection = ({symbol}) => {
+const AddSymbolInfoWidget = ({symbol}) => {
   useEffect(() => {
     const script = document.createElement('script')
-    script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js'
+    script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js'
     script.async = true
     script.innerHTML = JSON.stringify({
       symbol: `${symbol}`,
-      width: '450',
+      width: 600,
       locale: 'en',
-      colorTheme: 'dark',
+      colorTheme: 'light',
       isTransparent: false,
     })
-    const container = document.getElementById(`symbol${symbol}`)
+    const container = document.getElementById(`symbolid`)
     container.appendChild(script)
   }, [symbol])
 
-  return <div id={`symbol${symbol}`}></div>
+  return <div id={`symbolid`}></div>
 }
 
 function TradingViewWidget() {
@@ -77,9 +79,11 @@ function TradingViewWidget() {
 
   return (
     <>
+      <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
       <div id='tv-container'></div>
       <div id='tv-container-1'></div>
-      <SymbolCollection symbol='AMZN'/>
+      <AddSymbolInfoWidget symbol='AAPL' />
+      <AddSymbolInfoWidget symbol='MSFT' />
     </>
   )
 }
