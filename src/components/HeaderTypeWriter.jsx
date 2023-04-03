@@ -14,7 +14,7 @@ export default function TypewriterHeader({children}) {
   }, [children, index])
 
   return (
-    <h1 className='text-4xl font-bold text-red-500'>
+    <h1 className='text-4xl font-bold text-red-500 text-center justify-center'>
       {text}
       <span className='animate-pulse'>|</span>
     </h1>

@@ -9,7 +9,8 @@ const AddSymbolInfoWidget = ({symbol}) => {
     script.async = true
     script.innerHTML = JSON.stringify({
       symbol: `${symbol}`,
-      width: 600,
+      width: '100%',
+      height: '100%',
       locale: 'en',
       colorTheme: 'light',
       isTransparent: false,
@@ -30,8 +31,8 @@ function TradingViewWidget() {
     script.innerHTML = JSON.stringify({
       symbols: [['Apple', 'AAPL|1D']],
       chartOnly: false,
-      width: 1000,
-      height: 500,
+      width: '100%',
+      height: '100%',
       locale: 'en',
       colorTheme: 'light',
       autosize: false,
@@ -64,8 +65,8 @@ function TradingViewWidget() {
     script1.innerHTML = JSON.stringify({
       colorTheme: 'dark',
       isTransparent: false,
-      width: '510',
-      height: '600',
+      width: '100%',
+      height: '100%',
       locale: 'en',
       importanceFilter: '0,1',
       currencyFilter: 'USD,EUR,ITL,NZD,CHF,AUD,FRF,JPY,ZAR,TRL,CAD,DEM,MXN,ESP,GBP',
@@ -78,13 +79,15 @@ function TradingViewWidget() {
   }, [])
 
   return (
-    <>
-      <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
-      <div id='tv-container'></div>
-      <div id='tv-container-1'></div>
-      <AddSymbolInfoWidget symbol='AAPL' />
-      <AddSymbolInfoWidget symbol='MSFT' />
-    </>
+    <Loading time={2000}>
+      <div className='justify-center  items-center'>
+        <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
+        <div className='h-[50rem] w-[50rem]' id='tv-container'></div>
+        <div className='h-[50rem] w-[50rem]' id='tv-container-1'></div>
+        <AddSymbolInfoWidget className='h-[50rem] w-[50rem]' symbol='AAPL' />
+        <AddSymbolInfoWidget className='h-[50rem] w-[50rem]'  symbol='MSFT' />
+      </div>
+    </Loading>
   )
 }
 
