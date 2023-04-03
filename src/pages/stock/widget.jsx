@@ -80,12 +80,14 @@ function TradingViewWidget() {
 
   return (
     <Loading time={0}>
-      <div className='justify-center  items-center'>
+      <div className='flex flex-col justify-center items-center'>
         <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
         <div className='h-[50rem] w-[80rem]' id='tv-container'></div>
         <div className='h-[50rem] w-[80rem]' id='tv-container-1'></div>
-        <AddSymbolInfoWidget className='h-[10rem] w-[10rem]' symbol='AAPL' />
-        <AddSymbolInfoWidget className='h-[50rem] w-[80rem]'  symbol='MSFT' />
+        <div className='container grid grid-cols-3 gap-4'>
+          <AddSymbolInfoWidget symbol='AAPL' />
+          <AddSymbolInfoWidget symbol='MSFT' />
+        </div>
       </div>
     </Loading>
   )

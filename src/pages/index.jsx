@@ -56,7 +56,7 @@ export default function HomePage() {
   return (
     <Layout noFooter>
       <div className='mx-auto my-auto  bg-cover bg-no-repeat' style={{backgroundImage}}>
-        <DonateButton  />
+        <DonateButton />
         <div className='mt-10'>
           <TickerTape />
         </div>
@@ -141,6 +141,11 @@ export default function HomePage() {
               to='/hero'
               title='Superheros and Superheroines'
               description='Details of Superheros and Superheroines'
+            />
+            <PageLink
+              to='/stock/widget'
+              title='Stock Market Widgets'
+              description='Stock Market Widgets'
             />
             <PageLink
               to='/stock/indiaanalysis'

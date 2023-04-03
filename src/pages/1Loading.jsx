@@ -28,7 +28,7 @@ const Loading = ({children, time = 8000}) => {
           <p className='mt-5 text-3xl text-white'>Enjoy view of Earth while we load your content...</p>
           <RotatingEarth  />
         </div>
-        <div className='mt-10 mx-auto my-auto container overflow-clip'>
+        <div className='mt-10 mx-auto my-auto container'>
           <div className={`${loading ? 'hidden' : ''}`}>{children}</div>
         </div>
       </div>

@@ -14,9 +14,11 @@ export default function TypewriterHeader({children}) {
   }, [children, index])
 
   return (
-    <h1 className='text-4xl font-bold text-red-500 text-center justify-center'>
-      {text}
-      <span className='animate-pulse'>|</span>
-    </h1>
+    <div className='flex justify-center'>
+      <h1 className='text-3xl w-[35rem] h-[5rem] text-center font-bold from-purple-600 via-pink-600 to-yellow-600 bg-gradient-to-r  text-transparent  bg-clip-text '>
+        {text}
+        <span className='text-cyan-500 animate-pulse'>__</span>
+      </h1>
+    </div>
   )
 }
