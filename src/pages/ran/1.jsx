@@ -1,65 +1,45 @@
-import React, {useState, useEffect} from 'react'
-import {parse} from 'node-html-parser'
+import React, {useRef} from 'react'
+import {Canvas, useFrame} from '@react-three/fiber'
+import {Sphere} from '@react-three/drei'
+import * as THREE from 'three'
 
-// A function component that fetches and displays some popular attractions of Kolkata from Bing Travel
-export default function KolkataAttractions() {
-  // Create a state variable to store the attractions
-  const [attractions, setAttractions] = useState([])
+// A function component that renders a 3D sphere with an earth texture
+function Earth() {
+  // Use the useRef hook to create a reference to the sphere mesh
+  const meshRef = useRef()
 
-  // Use an effect hook to fetch the attractions from Bing Travel API
-  useEffect(() => {
-    // Define a function to fetch the attractions
-    const fetchAttractions = async () => {
-      // Use a proxy URL to bypass the CORS issue
-      const proxyUrl = 'https://cors-anywhere.herokuapp.com/'
+  // Use the useFrame hook to animate the sphere rotation
+  useFrame(() => {
+    // Rotate the sphere by 0.01 radians on each frame
+    meshRef.current.rotation.y += 0.01
+  })
 
-      // Use the query parameter 'q=Kolkata' to get information about Kolkata
-      const response = await fetch(proxyUrl + 'https://www.bing.com/travel/place-information?q=Kolkata&SID=e5f8e89d-f3e0-3a9e-7b62-24348d526819&form=CGTDGB')
-      const data = await response.text()
+  // Load the earth texture using THREE.TextureLoader()
+  const texture = new THREE.TextureLoader().load(
+    '/img/earth/1.jpg',
+  )
 
-      // Parse the HTML response and convert it into a DOM tree
-      const root = parse(data)
-
-      // Find the element that contains the popular attractions list
-      const list = root.querySelector('.b_vlist2col.b_deep')
-
-      // Get the children elements of the list
-      const items = list.childNodes
-
-      // Map each item element to an object with attraction name and categories
-      const attractions = items.map((item) => {
-        // Get the name element of the item
-        const name = item.querySelector('.b_subModule').text
-
-        // Get the categories element of the item
-        const categories = item.querySelector('.b_secondaryText').text
-
-        // Return an object with name and categories properties
-        return {
-          name: name,
-          categories: categories,
-        }
-      })
-
-      // Set the state variable with the attractions array
-      setAttractions(attractions)
-    }
-
-    // Call the function
-    fetchAttractions()
-  }, []) // Run the effect only once
-
-  // Return a div element with a list of attractions
+  // Return the JSX element for the sphere
   return (
-    <div>
-      <h1>Some popular attractions of Kolkata</h1>
-      <ul>
-        {attractions.map((attraction) => (
-          <li key={attraction.name}>
-            {attraction.name} - {attraction.categories}
-          </li>
-        ))}
-      </ul>
-    </div>
+    <Sphere ref={meshRef} args={[4, 200, 100]}>
+      {/* Use a standard material with the loaded earth texture */}
+      <meshStandardMaterial map={texture} />
+    </Sphere>
   )
 }
+
+// A function component that renders a canvas with a spinning earth
+function App() {
+  // Return the JSX element for the canvas
+  return (
+    <Canvas>
+      {/* Add some ambient light and a point light */}
+      <ambientLight intensity={0.5} />
+      <pointLight position={[10, 10, 10]} />
+      {/* Add the Earth component */}
+      <Earth />
+    </Canvas>
+  )
+}
+
+export default App
