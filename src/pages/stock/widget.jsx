@@ -84,7 +84,7 @@ function TradingViewWidget() {
         <HeaderTypeWriter>Stock Market Widgets</HeaderTypeWriter>
         <div className='h-[30rem] w-[80rem]' id='tv-container'></div>
         <div className='h-[30rem] w-[80rem]' id='tv-container-1'></div>
-        <div className='container grid grid-cols-2 sm:grid-cols-1 '>
+        <div className='container grid md:grid-cols-2 sm:grid-cols-1 grid-cols-3'>
           <AddSymbolInfoWidget symbol='AAPL' />
           <AddSymbolInfoWidget symbol='MSFT' />
           <AddSymbolInfoWidget symbol='GOOG' />
