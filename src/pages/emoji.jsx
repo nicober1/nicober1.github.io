@@ -7,30 +7,22 @@ import classNames from 'classnames'
 function Emoji({emojiId, image, searchTerms = [], shortcuts = []}) {
   return (
     <div
-      className={classNames(
-        'bg-cyan-200',
-        'text-black',
-        'p-4',
-        'm-2',
-        'rounded-lg',
-        'shadow-lg',
-        'hover:bg-blue-700',
-      )}>
+      className={classNames('bg-cyan-200', 'text-black', 'p-4', 'm-2', 'rounded-lg', 'shadow-lg', 'hover:bg-blue-700')}>
       <div className={classNames('flex', 'flex-col')}>
         <div className={classNames('items-center', 'justify-center')}>
           {image && <img className='w-full rounded-t-lg object-cover' src={image.thumbnails[0]?.url} />}
         </div>
         {searchTerms.length > 0 && (
-          <>
-            <span className={classNames('text-xs', 'font-bold')}>Search terms:</span>
+          <div className='flex'>
+            <span className={classNames('text-xs', 'font-bold')}>Search terms:  </span>
             <span className={classNames('text-xs', 'font-medium')}>{searchTerms.join(', ')}</span>
-          </>
+          </div>
         )}
         {shortcuts.length > 0 && (
-          <>
-            <span className={classNames('text-xs', 'font-bold')}>Shortcuts: </span>
+          <div className='flex'>
+            <span className={classNames('text-xs', 'font-bold')}>Shortcuts:   </span>
             <span className={classNames('text-xs', 'font-medium')}>{shortcuts.join(', ')}</span>
-          </>
+          </div>
         )}
       </div>
     </div>
