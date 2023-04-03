@@ -1,5 +1,24 @@
 import React, {useEffect} from 'react'
 
+const SymbolCollection = ({symbol}) => {
+  useEffect(() => {
+    const script = document.createElement('script')
+    script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js'
+    script.async = true
+    script.innerHTML = JSON.stringify({
+      symbol: `${symbol}`,
+      width: '450',
+      locale: 'en',
+      colorTheme: 'dark',
+      isTransparent: false,
+    })
+    const container = document.getElementById(`symbol${symbol}`)
+    container.appendChild(script)
+  }, [symbol])
+
+  return <div id={`symbol${symbol}`}></div>
+}
+
 function TradingViewWidget() {
   useEffect(() => {
     const script = document.createElement('script')
@@ -60,6 +79,7 @@ function TradingViewWidget() {
     <>
       <div id='tv-container'></div>
       <div id='tv-container-1'></div>
+      <SymbolCollection symbol='AMZN'/>
     </>
   )
 }
