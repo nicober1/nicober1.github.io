@@ -175,6 +175,7 @@ export default function HomePage() {
               description='Gallery for Cat and Dog Pics'
             />
             <PageLink to='/spotify' title='Curated Spotify Playlists' description='Enjoy Spotify PlayList Collection' />
+            <PageLink to='/movies/1' title='Top Movies' description='Top 250 Movies (IMDB)' />
           </div>
         </div>
       </div>

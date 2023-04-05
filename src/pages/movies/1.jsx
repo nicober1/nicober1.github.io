@@ -1,10 +1,9 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
 
-// A function to fetch the top movies from imdb using their API
 const fetchTopMovies = async () => {
   try {
-    const response = await axios.get('https://imdb-api.com/en/API/Top250Movies/k_zp804522') // Replace k_12345678 with your own API key
+    const response = await axios.get('https://imdb-api.com/en/API/Top250Movies/k_zp804522')
     return response.data.items
   } catch (error) {
     console.error(error)
@@ -12,44 +11,41 @@ const fetchTopMovies = async () => {
   }
 }
 
-// A component to display a single movie
-const Movie = ({title, year, rank, rating, image}) => {
-  return (
-    <div className='movie'>
-      <img src={image} alt={title} />
-      <div className='movie-info'>
-        <h3>{title}</h3>
-        <p>{year}</p>
-        <p>Rank: {rank}</p>
-        <p>Rating: {rating}</p>
-      </div>
+const Movie = ({fullTitle, title, rank, imDbRating, image, crew}) => (
+  <div className='movie m-4 transform overflow-hidden rounded-lg bg-white p-2 shadow-lg transition duration-300 hover:scale-105 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-indigo-500'>
+    <img
+      src={image}
+      alt={title}
+      className='w-full items-center object-cover'
+      style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}
+    />
+    <div className='movie-info  text-center font-bold text-gray-800'>
+      <h3 className='text-lg font-semibold leading-snug text-purple-500 md:text-xl md:leading-normal'>{fullTitle}</h3>
+      <p className=' '>Crew: {crew}</p>
+      <p className=' '>Rank: {rank}</p>
+      <p className=''>Rating: {imDbRating}</p>
     </div>
-  )
-}
+  </div>
+)
 
-// A component to display a list of movies
-const MovieList = ({movies}) => {
-  return (
-    <div className='movie-list'>
-      {movies.map((movie) => (
-        <Movie key={movie.id} {...movie} />
-      ))}
-    </div>
-  )
-}
+const MovieList = ({movies}) => (
+  <div className='movie-list grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+    {movies.map((movie) => (
+      <Movie key={movie.id} {...movie} />
+    ))}
+  </div>
+)
 
-// A component to render the top movies from imdb
 const TopMovies = () => {
   const [movies, setMovies] = useState([])
 
   useEffect(() => {
-    // Fetch the top movies when the component mounts
-    fetchTopMovies().then((data) => setMovies(data))
+    fetchTopMovies().then(setMovies)
   }, [])
 
   return (
-    <div className='top-movies'>
-      <h1>Top Movies from IMDb</h1>
+    <div className='top-movies container mx-auto px-4 py-8'>
+      <h1 className='mb-8 text-center text-4xl font-bold'>Top 250 Movies from IMDb</h1>
       {movies.length > 0 ? <MovieList movies={movies} /> : <p>Loading...</p>}
     </div>
   )
