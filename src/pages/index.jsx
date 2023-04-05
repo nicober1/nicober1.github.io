@@ -4,6 +4,7 @@ import classNames from 'classnames'
 import Layout from '@theme/Layout'
 import DonateButton from '@site/src/components/DonateButton'
 import TickerTape from '@site/src/components/tickertape'
+import useBaseUrl from '@docusaurus/useBaseUrl'
 
 function PageLink({to, title, description}) {
   return (
@@ -21,24 +22,14 @@ function PageLink({to, title, description}) {
   )
 }
 
+function getRandomNumber(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min
+}
+
 function useBackgroundImage() {
-  const [backgroundImage, setBackgroundImage] = useState('url(https://source.unsplash.com/random/1920x1080?galaxy)')
-  const images = [
-    'url(https://source.unsplash.com/random/1920x1080?moon)',
-    'url(https://source.unsplash.com/random/1920x1080?star)',
-    'url(https://source.unsplash.com/random/1920x1080?universe)',
-    'url(https://source.unsplash.com/random/1920x1080?mars)',
-    'url(https://source.unsplash.com/random/1920x1080?avengers)',
-    'url(https://source.unsplash.com/random/1920x1080?saturn)',
-  ]
-  useEffect(() => {
-    const interval = setInterval(() => {
-      const randomIndex = Math.floor(Math.random() * images.length)
-      setBackgroundImage(images[randomIndex])
-    }, 7000)
-    return () => clearInterval(interval)
-  }, [])
-  return backgroundImage
+  const randomIndex = getRandomNumber(1, 1)
+
+  return `url(${useBaseUrl(`/img/earth/${randomIndex}.jpg`)})`
 }
 
 export default function HomePage() {
