@@ -18,9 +18,9 @@ const Resume = ({name, email, phone, summary, skills, projects, education}) => {
         <h2 className='text-2xl font-semibold'>Skills</h2>
         <ul className='flex flex-wrap gap-2'>
           {skills.map((skill) => (
-            <li key={skill} className='rounded bg-indigo-500 px-2 py-1 text-white'>
+            <div key={skill} className='rounded bg-indigo-500 px-2 py-1 text-white'>
               {skill}
-            </li>
+            </div>
           ))}
         </ul>
       </section>
