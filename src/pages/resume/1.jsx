@@ -3,15 +3,19 @@ import {FaPhone, FaEnvelope} from 'react-icons/fa'
 
 const Resume = ({name, email, phone, summary, skills, projects, education}) => {
   return (
-    <div className='resume container mx-auto my-auto mt-10 px-4 py-2 bg-cyan-600'>
+    <div className='resume container mx-auto my-auto mt-10 rounded-lg bg-cyan-600 px-4 py-2 shadow-lg'>
       <header className='header flex flex-wrap items-center justify-between rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-4 text-white shadow-lg'>
-        <h1 className='text-4xl font-bold w-auto text-left'>{name}</h1>
-        <div className='contact-info flex space-x-4'>
-          <a href={`mailto:${email}`} className='flex items-center transition-colors duration-300 hover:text-gray-200'>
+        <h1 className='w-auto text-left text-4xl font-bold mt-2'>{name}</h1>
+        <div className='contact-info flex space-x-4 mt-2'>
+          <a
+            href={`mailto:${email}`}
+            className='flex transform items-center transition-colors duration-300 hover:scale-110 hover:text-gray-200'>
             <FaEnvelope className='h-6 w-6' />
             <span className='ml-2'>{email}</span>
           </a>
-          <a href={`tel:${phone}`} className='flex items-center transition-colors duration-300 hover:text-gray-200'>
+          <a
+            href={`tel:${phone}`}
+            className='flex transform items-center transition-colors duration-300 hover:scale-110 hover:text-gray-200'>
             <FaPhone className='h-6 w-6' />
             <span className='ml-2'>{phone}</span>
           </a>
