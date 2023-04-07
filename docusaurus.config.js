@@ -1,6 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const {ProvidePlugin} = require('webpack')
+const path = require('path')
 const fs = require('fs')
 const keywordslist = fs.readFileSync('./static/data/keywords.txt', 'utf-8')
 const config = {
@@ -46,8 +47,14 @@ const config = {
                     fullySpecified: false,
                   },
                 },
+                // {
+                //   test: /\.json$/,
+                //   loader: 'json-loader',
+                //   include: path.resolve(__dirname, 'static/data'),
+                // },
               ],
             },
+
             plugins: [
               new ProvidePlugin({
                 process: require.resolve('process/browser'),
@@ -110,7 +117,7 @@ const config = {
       src: 'https://platform.twitter.com/widgets.js',
       async: true,
       crossorigin: 'anonymous',
-      charset:'utf-8'
+      charset: 'utf-8',
     },
   ],
   stylesheets: [],

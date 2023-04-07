@@ -15,7 +15,7 @@ const baseUrl = 'https://newsapi.org/v2/top-headlines'
 const fetchNews = async (topic) => {
   try {
     // Construct the full URL with the topic and API key as query parameters
-    const url = `${baseUrl}?category=${topic}&language=${language}&apiKey=${apiKey}`
+    const url = `${baseUrl}?category=${topic}&language=${language}&pageSize=100&apiKey=${apiKey}`
 
     // Make a GET request using axios and get the response data
     const response = await axios.get(url)

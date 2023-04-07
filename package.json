@@ -66,11 +66,14 @@
     "react-player": "^2.12.0",
     "react-remark": "^2.1.0",
     "react-responsive": "^9.0.2",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.29.0",
     "react-social-media-embed": "^2.3.5",
     "react-spinners": "^0.13.8",
     "react-tsparticles": "^2.9.3",
     "react-twitter-embed": "^4.0.4",
     "react-twitter-widgets": "^1.11.0",
+    "slick-carousel": "^1.8.1",
     "stream-browserify": "^3.0.0",
     "styled-components": "^5.3.9",
     "tailwind-styled-components": "^2.2.0",
@@ -82,6 +85,7 @@
     "url": "^0.11.0"
   },
   "devDependencies": {
+    "json-loader": "^0.5.7",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.6",
     "react-snap": "^1.23.0",
