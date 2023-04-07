@@ -77,4 +77,14 @@ const urls = [
     title: 'NASA SolarSystem',
     description: 'NASA SolarSystem',
   },
+  {
+    url: 'https://www.topstockresearch.com/StockDailyTrending/FNOStockDailyClosingLower.html',
+    title: 'Indian FO Stocks Closing Lower',
+    description: 'Indian FO Stocks Closing Lower',
+  },
+  {
+    url: 'https://www.topstockresearch.com/StockDailyTrending/FNOStockDailyClosingHigher.html',
+    title: 'Indian FO Stocks Closing Higher',
+    description: 'Indian FO Stocks Closing Higher',
+  },
 ]

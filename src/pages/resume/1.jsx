@@ -33,7 +33,7 @@ const Resume = ({name, email, phone, summary, skills, projects, education}) => {
           {skills.map((skill) => (
             <div
               key={skill}
-              className='rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-2  text-white shadow-lg'>
+              className='rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-2 font-bold text-white shadow-lg'>
               {skill}
             </div>
           ))}
