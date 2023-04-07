@@ -1,13 +1,20 @@
 import React from 'react'
+import {FaPhone, FaEnvelope} from 'react-icons/fa'
 
 const Resume = ({name, email, phone, summary, skills, projects, education}) => {
   return (
-    <div className='resume container mx-auto px-4 py-8'>
-      <header className='header flex items-center justify-between'>
-        <h1 className='text-4xl font-bold'>{name}</h1>
-        <div className='contact-info'>
-          <p>{email}</p>
-          <p>{phone}</p>
+    <div className='resume container mx-auto my-auto mt-10 px-4 py-2 bg-cyan-600'>
+      <header className='header flex flex-wrap items-center justify-between rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-4 text-white shadow-lg'>
+        <h1 className='text-4xl font-bold w-auto text-left'>{name}</h1>
+        <div className='contact-info flex space-x-4'>
+          <a href={`mailto:${email}`} className='flex items-center transition-colors duration-300 hover:text-gray-200'>
+            <FaEnvelope className='h-6 w-6' />
+            <span className='ml-2'>{email}</span>
+          </a>
+          <a href={`tel:${phone}`} className='flex items-center transition-colors duration-300 hover:text-gray-200'>
+            <FaPhone className='h-6 w-6' />
+            <span className='ml-2'>{phone}</span>
+          </a>
         </div>
       </header>
       <section className='summary mt-4'>
@@ -56,11 +63,14 @@ const Resume = ({name, email, phone, summary, skills, projects, education}) => {
 
 export default function () {
   const resumeData = {
-    name: 'John Doe',
-    email: 'john.doe@example.com',
-    phone: '+1 234 567 890',
+    name: 'Nicober Mani',
+    email: 'iamnicober@gmail.com',
+    phone: '+91 8001700700',
     summary:
-      'A passionate and experienced .NET developer with over 5 years of experience in building web applications using C#, ASP.NET MVC, Entity Framework, and SQL Server.',
+      'I am a senior .NET backend engineer with over 5 years of experience in developing scalable, secure and reliable web applications using Microsoft technologies and Azure ' +
+      'cloud services. I have a strong knowledge of C#, ASP.NET Core, Entity Framework Core, SQL Server, Azure DevOps, Azure Functions, Azure App Service, Azure SQL' +
+      'Database, Azure Storage and Azure Active Directory. I am proficient in using RESTful APIs, microservices architecture, design patterns, SOLID principles,' +
+      'unit testing and code quality tools. I am passionate about learning new technologies and best practices to deliver high-quality software solutions.',
     skills: ['.NET', 'C#', 'ASP.NET MVC', 'Entity Framework', 'SQL Server', 'HTML', 'CSS', 'JavaScript'],
     projects: [
       {
