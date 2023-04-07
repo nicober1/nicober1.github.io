@@ -3,33 +3,33 @@ import {FaPhone, FaEnvelope} from 'react-icons/fa'
 
 const Resume = ({name, email, phone, summary, skills, projects, education}) => {
   return (
-    <div className='resume container mx-auto my-auto mt-10 rounded-lg bg-cyan-600 px-4 py-2 shadow-lg'>
-      <header className='header flex flex-wrap items-center justify-between rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-4 text-white shadow-lg'>
-        <h1 className='w-auto text-left text-4xl font-bold mt-2'>{name}</h1>
-        <div className='contact-info flex space-x-4 mt-2'>
+    <div className='resume container mx-auto my-auto mt-10 rounded-lg bg-cyan-700 px-4 py-2 text-white shadow-lg'>
+      <header className='header flex flex-wrap items-center justify-between rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-4  shadow-lg'>
+        <h1 className=' my-auto  text-left text-4xl font-bold'>{name}</h1>
+        <div className='contact-info my-auto flex  space-x-4 '>
           <a
             href={`mailto:${email}`}
-            className='flex transform items-center transition-colors duration-300 hover:scale-110 hover:text-gray-200'>
+            className='text-whiteduration-300 flex transform items-center transition-colors  hover:scale-110 hover:text-white'>
             <FaEnvelope className='h-6 w-6' />
             <span className='ml-2'>{email}</span>
           </a>
           <a
             href={`tel:${phone}`}
-            className='flex transform items-center transition-colors duration-300 hover:scale-110 hover:text-gray-200'>
+            className='text-whiteduration-300 flex transform  items-center transition-colors  hover:scale-110 hover:text-white'>
             <FaPhone className='h-6 w-6' />
             <span className='ml-2'>{phone}</span>
           </a>
         </div>
       </header>
-      <section className='summary mt-4'>
-        <h2 className='text-2xl font-semibold'>Summary</h2>
-        <p>{summary}</p>
+      <section className='summary mt-4 text-white'>
+        <h2 className='text-2xl font-bold'>Summary</h2>
+        <p className='text-white'>{summary}</p>
       </section>
       <section className='skills mt-4'>
-        <h2 className='text-2xl font-semibold'>Skills</h2>
+        <h2 className='text-2xl font-bold'>Skills</h2>
         <ul className='flex flex-wrap gap-2'>
           {skills.map((skill) => (
-            <div key={skill} className='rounded bg-indigo-500 px-2 py-1 text-white'>
+            <div key={skill} className='rounded-lg from-black via-blue-700 to-black px-2 py-1 p-2 text-white'>
               {skill}
             </div>
           ))}
