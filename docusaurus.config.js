@@ -142,6 +142,7 @@ const config = {
       items: [
         {to: '/blog', label: 'Blogs'},
         {to: '/radio', label: 'Radio'},
+        {to: '/news/all', label: 'News'},
       ],
     },
     footer: {
