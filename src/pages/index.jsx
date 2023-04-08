@@ -46,7 +46,9 @@ export default function HomePage() {
 
   return (
     <Layout noFooter>
-      <div className='mx-auto my-auto  bg-cover bg-no-repeat' style={{backgroundImage}}>
+      <div
+        className='mx-auto my-auto bg-cover bg-center bg-no-repeat'
+        style={{backgroundImage}}>
         <DonateButton />
         <div className='mt-10'>
           <TickerTape />
