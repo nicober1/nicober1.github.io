@@ -27,7 +27,7 @@ function getRandomNumber(min, max) {
 }
 
 function useBackgroundImage() {
-  const randomIndex = getRandomNumber(2, 3)
+  const randomIndex = getRandomNumber(2, 5)
 
   return `url(${useBaseUrl(`/img/earth/${randomIndex}.jpg`)})`
 }
