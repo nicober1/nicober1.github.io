@@ -84,11 +84,11 @@ const News = () => {
                 <CardGradientsDark>
                   <div
                     key={index}
-                    className='card flex transform flex-col gap-3 rounded-lg  p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
+                    className='card flex transform flex-col  rounded-lg  p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
                     <img
                       src={article.urlToImage}
                       alt={article.title}
-                      className='transition-brightness h-48 w-full rounded-t-lg object-cover brightness-100 filter duration-300 hover:brightness-75'
+                      className='transition-brightness h-35 w-full rounded-lg object-cover brightness-100 filter duration-300 hover:brightness-75'
                     />
                     <div className='flex flex-grow flex-col'>
                       <h3 className='mt-2 text-xl font-semibold text-white'>

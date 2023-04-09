@@ -3,6 +3,7 @@ import axios from 'axios'
 import Layout from '@theme/Layout'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import DonateButton from '@site/src/components/DonateButton'
+import CardGradientsDark from '@site/src/components/CardGradientsDark'
 
 const useFetchRadioData = (url) => {
   const [radioData, setRadioData] = useState([])
@@ -47,15 +48,19 @@ const RadioItem = ({radio}) => {
   return (
     <div
       key={stationuuid}
-      className={`rounded-lg border bg-gradient-to-br ${
-        playing ? 'from-yellow-600 via-red-600 to-pink-600' : 'from-green-600 via-blue-600 to-purple-600'
-      } relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
+      className={`card rounded-lg border   
+      ${playing && 'bg-gradient-to-br from-yellow-600 via-red-600 to-pink-600' } 
+        relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
       <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
       <div className='text-sm'>{country.substr(0, 36)}</div>
       <div className='text-sm uppercase'>{language.substr(0, 36)}</div>
       <div className='mt-4 flex items-center justify-between'>
         <audio id={stationuuid} src={url_resolved}></audio>
-        <button onClick={togglePlay} className={`rounded-full bg-white p-2 font-bold uppercase text-black shadow-lg transition-shadow hover:shadow-xl ${playing ? 'animate-pulse' : ''}`}>
+        <button
+          onClick={togglePlay}
+          className={`rounded-full bg-white p-2 font-bold uppercase text-black shadow-lg transition-shadow hover:shadow-xl ${
+            playing ? 'animate-pulse' : ''
+          }`}>
           {playing ? 'Pause' : 'Play'}
         </button>
         <a href={homepage} target='_blank' rel='noreferrer' className='ml-4 flex-shrink-0'>
@@ -69,7 +74,9 @@ const RadioItem = ({radio}) => {
       {playing && (
         <div className='absolute inset-0 flex items-center justify-center truncate bg-black bg-opacity-25 text-base font-bold'>
           {name}
-          <button onClick={closeOverlay} className='absolute top-2 right-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
+          <button
+            onClick={closeOverlay}
+            className='absolute right-2 top-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
             X
           </button>
         </div>
@@ -134,7 +141,9 @@ export default function RadioDetails() {
           <div className='container mx-auto'>
             <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
               {searchResults.slice(0, MAX_RADIO_COUNT).map((radio) => (
-                <RadioItem key={radio.stationuuid} radio={radio} />
+                <CardGradientsDark>
+                  <RadioItem key={radio.stationuuid} radio={radio} />
+                </CardGradientsDark>
               ))}
             </div>
           </div>
