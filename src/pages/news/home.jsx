@@ -83,7 +83,11 @@ const News = () => {
                   className='transition-brightness h-48 w-full rounded-t-lg object-cover brightness-100 filter duration-300 hover:brightness-75'
                 />
                 <div className='flex flex-grow flex-col'>
-                  <h3 className='mt-2 text-2xl font-semibold text-white'>{article.title}</h3>
+                  <h3 className='mt-2 text-xl font-semibold text-white'>
+                      <span className='text-shadow-lg' style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)'}}>
+                        {article.title.split('-')[0]}
+                      </span>
+                  </h3>
                   <p className='mt-2 text-base text-white'>{article.description}</p>
                   <div className='mt-2 items-center font-semibold text-white'>
                     <p className='text-cyan-800'>
