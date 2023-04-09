@@ -40,7 +40,7 @@ const News = () => {
     infinite: true,
     centerPadding: '60px',
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 6000,
     speed: 400,
     slidesToShow: 3,
     slidesToScroll: 3,
@@ -74,12 +74,12 @@ const News = () => {
             {category.data.map((article, index) => (
               <div
                 key={index}
-                className='card flex gap-3 transform flex-col rounded-lg bg-gradient-to-bl from-green-400 to-blue-400 p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
+                className='card flex transform flex-col gap-3 rounded-lg bg-gradient-to-bl from-green-400 to-blue-400 p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
                 <img src={article.urlToImage} alt={article.title} className='h-48 w-full rounded-t-lg object-cover' />
                 <div className='flex flex-grow flex-col'>
-                  <h3 className='mt-2 text-xl font-semibold text-white'>{article.title}</h3>
-                  <p className='mt-2 text-sm text-white'>{article.description}</p>
-                  <div className='mt-2 items-center text-white'>
+                  <h3 className='mt-2 text-2xl font-semibold text-white'>{article.title}</h3>
+                  <p className='mt-2 text-base text-white'>{article.description}</p>
+                  <div className='mt-2 font-semibold items-center text-white'>
                     <p>{new Date(article.publishedAt).toLocaleString(locale, options)}</p>
                     {article.author && <p>by {article.author}</p>}
                   </div>
@@ -87,7 +87,7 @@ const News = () => {
                     href={article.url}
                     target='_blank'
                     rel='noreferrer'
-                    className='mt-4 transform self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors  duration-300   hover:bg-green-600 hover:text-white'>
+                    className='mt-4 transform self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors duration-300 hover:bg-green-600 hover:text-white'>
                     Read more
                   </a>
                 </div>
