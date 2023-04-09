@@ -65,7 +65,7 @@ const News = () => {
   return (
     <div className='news container mx-auto my-10'>
       <h1 className='animate-fade-in rounded-lg bg-gradient-to-l from-green-300 to-blue-400 p-4 text-center text-4xl font-bold text-white shadow-2xl'>
-        News App
+        News
       </h1>
       {categories.map((category, index) => (
         <div key={index} className='category'>
@@ -74,7 +74,7 @@ const News = () => {
             {category.data.map((article, index) => (
               <div
                 key={index}
-                className='card flex transform flex-col rounded-lg bg-gradient-to-bl from-green-400 to-blue-400 p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
+                className='card flex gap-3 transform flex-col rounded-lg bg-gradient-to-bl from-green-400 to-blue-400 p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
                 <img src={article.urlToImage} alt={article.title} className='h-48 w-full rounded-t-lg object-cover' />
                 <div className='flex flex-grow flex-col'>
                   <h3 className='mt-2 text-xl font-semibold text-white'>{article.title}</h3>
