@@ -1,5 +1,7 @@
 import axios from 'axios'
 import {FaUser, FaCalendar} from 'react-icons/fa'
+import Loading from '@site/src/pages/1Loading'
+
 
 import {useState, useEffect} from 'react'
 import businessd from '/data/news/business.json'
@@ -65,6 +67,8 @@ const News = () => {
   }
 
   return (
+      <Loading time='0'>
+
     <div className='news container mx-auto my-10'>
       <h1 className='animate-fade-in rounded-lg bg-gradient-to-l from-green-300 to-blue-400 p-4 text-center text-4xl font-bold text-white shadow-2xl'>
         News
@@ -84,9 +88,9 @@ const News = () => {
                 />
                 <div className='flex flex-grow flex-col'>
                   <h3 className='mt-2 text-xl font-semibold text-white'>
-                      <span className='text-shadow-lg' style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)'}}>
-                        {article.title.split('-')[0]}
-                      </span>
+                    <span className='text-shadow-lg' style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)'}}>
+                      {article.title.split('-')[0]}
+                    </span>
                   </h3>
                   <p className='mt-2 text-base text-white'>{article.description}</p>
                   <div className='mt-2 items-center font-semibold text-white'>
@@ -110,8 +114,13 @@ const News = () => {
                     href={article.url}
                     target='_blank'
                     rel='noreferrer'
-                    className='mt-4 transform self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors duration-300 hover:bg-green-600 hover:text-white'>
-                    Read more
+                    className='mt-4 flex transform items-center gap-2 self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors duration-300 hover:bg-green-600 hover:text-white'>
+                    Read more <i class='fas fa-arrow-right'></i>
+                    <img
+                      src={`https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=${article.url}`}
+                      alt='favicon'
+                      className='h-5 w-5'
+                    />
                   </a>
                 </div>
               </div>
@@ -120,6 +129,8 @@ const News = () => {
         </div>
       ))}
     </div>
+      </Loading>
+
   )
 }
 
