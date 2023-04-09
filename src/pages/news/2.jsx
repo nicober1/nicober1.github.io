@@ -8,13 +8,11 @@ import scienced from '/data/news/science.json'
 import sportsd from '/data/news/sports.json'
 import technologyd from '/data/news/technology.json'
 
-// Import react-slick and its CSS
 import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 
 const News = () => {
-  // Create an array of categories and their data
   const categories = [
     {name: 'Business', data: businessd.articles},
     {name: 'Entertainment', data: entertainmentd.articles},
@@ -25,7 +23,6 @@ const News = () => {
     {name: 'Technology', data: technologyd.articles},
   ]
 
-  // Define the locale and options for formatting
   const locale = 'en-US'
   const options = {
     weekday: 'long',
@@ -37,21 +34,22 @@ const News = () => {
     second: 'numeric',
   }
 
-  // Define the settings for the slider
   const settings = {
-    dots: true,
+    centerMode: true,
+    dots: false,
     infinite: true,
-    speed: 1,
-    slidesToShow: 5,
-    slidesToScroll: 5,
+    centerPadding: '60px',
+    autoplay: true,
+    autoplaySpeed: 2000,
+    speed: 400,
+    slidesToShow: 3,
+    slidesToScroll: 3,
     responsive: [
       {
         breakpoint: 1024,
         settings: {
-          slidesToShow: 5,
-          slidesToScroll: 5,
-          infinite: true,
-          dots: true,
+          slidesToShow: 3,
+          slidesToScroll: 3,
         },
       },
       {
@@ -69,12 +67,10 @@ const News = () => {
       <h1 className='animate-fade-in rounded-lg bg-gradient-to-l from-green-300 to-blue-400 p-4 text-center text-4xl font-bold text-white shadow-2xl'>
         News App
       </h1>
-      {/* Loop through each category and render a slider */}
       {categories.map((category, index) => (
         <div key={index} className='category'>
           <h2 className='text-2xl font-bold'>{category.name}</h2>
           <Slider {...settings}>
-            {/* Loop through each article and render a card */}
             {category.data.map((article, index) => (
               <div
                 key={index}
@@ -87,6 +83,13 @@ const News = () => {
                     <p>{new Date(article.publishedAt).toLocaleString(locale, options)}</p>
                     {article.author && <p>by {article.author}</p>}
                   </div>
+                  <a
+                    href={article.url}
+                    target='_blank'
+                    rel='noreferrer'
+                    className='mt-4 transform self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors  duration-300   hover:bg-green-600 hover:text-white'>
+                    Read more
+                  </a>
                 </div>
               </div>
             ))}
