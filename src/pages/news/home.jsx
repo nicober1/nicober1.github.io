@@ -1,4 +1,6 @@
 import axios from 'axios'
+import {FaUser, FaCalendar} from 'react-icons/fa'
+
 import {useState, useEffect} from 'react'
 import businessd from '/data/news/business.json'
 import entertainmentd from '/data/news/entertainment.json'
@@ -16,11 +18,11 @@ const News = () => {
   const categories = [
     {name: 'Business', data: businessd.articles},
     {name: 'Entertainment', data: entertainmentd.articles},
-    {name: 'General', data: generald.articles},
-    {name: 'Health', data: healthd.articles},
     {name: 'Science', data: scienced.articles},
     {name: 'Sports', data: sportsd.articles},
     {name: 'Technology', data: technologyd.articles},
+    {name: 'General', data: generald.articles},
+    {name: 'Health', data: healthd.articles},
   ]
 
   const locale = 'en-US'
@@ -75,13 +77,30 @@ const News = () => {
               <div
                 key={index}
                 className='card flex transform flex-col gap-3 rounded-lg bg-gradient-to-bl from-green-400 to-blue-400 p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
-                <img src={article.urlToImage} alt={article.title} className='h-48 w-full rounded-t-lg object-cover' />
+                <img
+                  src={article.urlToImage}
+                  alt={article.title}
+                  className='transition-brightness h-48 w-full rounded-t-lg object-cover brightness-100 filter duration-300 hover:brightness-75'
+                />
                 <div className='flex flex-grow flex-col'>
                   <h3 className='mt-2 text-2xl font-semibold text-white'>{article.title}</h3>
                   <p className='mt-2 text-base text-white'>{article.description}</p>
-                  <div className='mt-2 font-semibold items-center text-white'>
-                    <p>{new Date(article.publishedAt).toLocaleString(locale, options)}</p>
-                    {article.author && <p>by {article.author}</p>}
+                  <div className='mt-2 items-center font-semibold text-white'>
+                    <p className='text-cyan-800'>
+                      <span>
+                        <FaCalendar className='mr-2 h-4 w-4' />
+                        {new Date(article.publishedAt).toLocaleString(locale, options)}
+                      </span>
+                    </p>
+                    {article.author && (
+                      <p className='text-violet-800'>
+                        <span>
+                          <FaUser className='mr-2 h-4 w-4' />
+
+                          {article.author}
+                        </span>
+                      </p>
+                    )}
                   </div>
                   <a
                     href={article.url}
