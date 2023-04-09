@@ -26,29 +26,24 @@ function getRandomNumber(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min
 }
 
-function useBackgroundImage() {
-  const randomIndex = getRandomNumber(2, 5)
-
-  return `url(${useBaseUrl(`/img/earth/${randomIndex}.jpg`)})`
-}
-
 export default function HomePage() {
-  const backgroundImage = useBackgroundImage()
+  const baseUrl = useBaseUrl(`/img/earth/`)
+  const [backgroundImage, setBackgroundImage] = useState(`url(${baseUrl}${getRandomNumber(2, 5)}.jpg)`)
   const [colorIndex, setColorIndex] = useState(0)
   const colors = ['bg-gradient-to-r from-red-600 via-yellow-400 to-green-600']
 
   useEffect(() => {
     const interval = setInterval(() => {
       setColorIndex((prevIndex) => (prevIndex + 1) % colors.length)
+      const randomIndex = getRandomNumber(1, 17)
+      setBackgroundImage(`url(${baseUrl}${randomIndex}.jpg)`)
     }, 5000)
     return () => clearInterval(interval)
   }, [])
 
   return (
     <Layout noFooter>
-      <div
-        className='mx-auto my-auto bg-cover bg-center bg-no-repeat'
-        style={{backgroundImage}}>
+      <div className='mx-auto my-auto bg-cover bg-center bg-no-repeat' style={{backgroundImage}}>
         <DonateButton />
         <div className='mt-10'>
           <TickerTape />
