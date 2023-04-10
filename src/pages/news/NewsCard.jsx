@@ -16,27 +16,44 @@ function NewsCard({article}) {
   return (
     <CardGradientsDark>
       <div className='card flex flex-col items-start rounded-lg p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
-        <img
-          src={article.urlToImage}
-          alt={article.title}
-          className='transition-brightness h-48 w-full rounded-lg object-cover brightness-100 filter duration-300 hover:brightness-75'
-        />
-        <div className='flex flex-grow flex-col justify-between'>
-          <div>
-            <h3 className='mb-2 mt-4 text-2xl font-semibold text-white'>
-              <span className='text-shadow-lg' style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)'}}>
-                {article.title.split('-')[0]}
-              </span>
+        <div className='image-container h-48 w-full overflow-hidden rounded-lg'>
+          {article.urlToImage ? (
+            <img
+              src={article.urlToImage}
+              alt={article.title}
+              className='h-full w-full object-cover brightness-100 filter transition-all duration-300 hover:brightness-75'
+              onError={(e) => {
+                e.target.onerror = null
+                e.target.src = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=${article.url}`
+              }}
+            />
+          ) : (
+            <img
+              src={`https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=${article.url}`}
+              alt='favicon'
+              className='h-full w-full object-cover brightness-100 filter transition-all duration-300 hover:brightness-75'
+            />
+          )}
+        </div>
+
+        <div className='mt-4 flex w-full flex-col justify-between'>
+          <div className='flex w-full flex-col items-start justify-start'>
+            <h3 className='title-with-shadow mb-2 text-lg font-bold leading-tight text-white'>
+              {article.title.split('-')[0]}
             </h3>
-            <p className='mb-4 text-lg text-white'>{article.description}</p>
+            {article.description ? (
+              <p className='title-with-shadow  mb-4 text-sm leading-snug text-gray-100'>{article.description}</p>
+            ) : (
+              <p className='title-with-shadow  mb-4 text-sm leading-snug text-gray-100'>{article.title}</p>
+            )}
           </div>
-          <div className='mt-2 flex w-full justify-between'>
-            <div className='flex items-center text-cyan-200'>
+          <div className='mt-2 flex w-full items-center justify-between'>
+            <div className='title-with-shadow flex items-center text-xs text-fuchsia-200'>
               <FaCalendar className='mr-2 h-4 w-4' />
               <span>{new Date(article.publishedAt).toLocaleString(locale, options)}</span>
             </div>
             {article.author && (
-              <div className='flex items-center text-violet-200'>
+              <div className='title-with-shadow flex items-center text-xs text-cyan-200'>
                 <FaUser className='mr-2 h-4 w-4' />
                 <span>{article.author}</span>
               </div>
