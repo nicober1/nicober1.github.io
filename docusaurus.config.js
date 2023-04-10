@@ -140,9 +140,24 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
-        {to: '/blog', label: 'Blogs'},
+        {
+          type: 'dropdown',
+          label: 'News',
+          position: 'left',
+          items: [
+            {
+              to: '/news/home',
+              label: 'All',
+            },
+            {
+              to: '/news/business',
+              label: 'Business',
+            },
+          ],
+        },
         {to: '/radio', label: 'Radio'},
-        {to: '/news/home', label: 'News'},
+
+        {to: '/blog', label: 'Blogs'},
       ],
     },
     footer: {
