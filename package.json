@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "build": "docusaurus build",
+    "build": "npm run news && docusaurus build",
     "clear": "docusaurus clear",
     "datas": "node scripts/datasave",
     "news": "node scripts/news",
