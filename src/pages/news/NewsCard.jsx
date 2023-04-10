@@ -13,6 +13,10 @@ function NewsCard({article}) {
     second: 'numeric',
   }
 
+   if (!article || !article.urlToImage) {
+     return null
+   }
+
   return (
     <CardGradientsDark>
       <div className='card flex flex-col items-start rounded-lg p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
