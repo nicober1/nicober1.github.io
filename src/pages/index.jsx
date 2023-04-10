@@ -5,6 +5,8 @@ import Layout from '@theme/Layout'
 import DonateButton from '@site/src/components/DonateButton'
 import TickerTape from '@site/src/components/tickertape'
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import BusinessTicker from '@site/src/pages/news/BusinessTicker'
+
 
 function PageLink({to, title, description}) {
   return (
@@ -48,6 +50,12 @@ export default function HomePage() {
         <div className='mt-10'>
           <TickerTape />
         </div>
+
+        {/* <div className='mt-10'>
+          <BusinessTicker/>
+        </div> */}
+
+        
 
         <div className='container mx-auto my-auto'>
           <div className='container mx-auto my-auto text-center font-bold text-transparent '>
