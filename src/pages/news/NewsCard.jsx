@@ -15,8 +15,7 @@ function NewsCard({article}) {
 
   return (
     <CardGradientsDark>
-      <div
-        className='card flex transform flex-col  rounded-lg  p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
+      <div className='card flex transform flex-col  rounded-lg  p-4 shadow-lg transition-transform duration-300 hover:scale-105'>
         <img
           src={article.urlToImage}
           alt={article.title}
