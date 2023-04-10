@@ -146,12 +146,37 @@ const config = {
           position: 'left',
           items: [
             {
-              to: '/news/home',
-              label: 'All',
+              to: '/news/business',
+              label: 'Business News',
             },
             {
-              to: '/news/business',
-              label: 'Business',
+              to: '/news/science',
+              label: 'Science News',
+            },
+            {
+              to: '/news/technology',
+              label: 'Technology News',
+            },
+            {
+              to: '/news/sports',
+              label: 'Sports News',
+            },
+
+            {
+              to: '/news/entertainment',
+              label: 'Entertainment News',
+            },
+            {
+              to: '/news/general',
+              label: 'General News',
+            },
+            {
+              to: '/news/health',
+              label: 'Health News',
+            },
+            {
+              to: '/news/home',
+              label: 'AutoPlay News - Covers All Categories ',
             },
           ],
         },

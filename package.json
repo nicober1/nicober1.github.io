@@ -1,29 +1,4 @@
 {
-  "name": "fluentblogs",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "build": "npm run news && docusaurus build",
-    "clear": "docusaurus clear",
-    "datas": "node scripts/datasave",
-    "news": "node scripts/news",
-    "deploy": "docusaurus deploy",
-    "docusaurus": "docusaurus",
-    "hero": "node scripts/hero",
-    "keyw": "node scripts/faker",
-    "serve": "docusaurus serve",
-    "sortpj": "sort-json package.json",
-    "sortpj1": "sort-package-json package.json",
-    "sortpjall": "npm run sortpj && npm run sortpj1",
-    "start": "docusaurus start --no-minify",
-    "start1": "docusaurus start",
-    "sw": "docusaurus swizzle @docusaurus/theme-classic Navbar --wrap",
-    "swizzle": "docusaurus swizzle",
-    "write-heading-ids": "docusaurus write-heading-ids",
-    "write-translations": "docusaurus write-translations",
-    "ytid": "node scripts/ytIdlist",
-    "ins": "npm install --no-audit --prefer-offline"
-  },
   "dependencies": {
     "@docusaurus/core": "^2.4.0",
     "@docusaurus/plugin-google-gtag": "^2.4.0",
@@ -91,5 +66,31 @@
     "react-snap": "^1.23.0",
     "sort-json": "^2.0.1",
     "sort-package-json": "^2.4.1"
-  }
+  },
+  "name": "fluentblogs",
+  "private": true,
+  "scripts": {
+    "build": "docusaurus build",
+    "build1": "npm run news && docusaurus build",
+    "clear": "docusaurus clear",
+    "datas": "node scripts/datasave",
+    "deploy": "docusaurus deploy",
+    "docusaurus": "docusaurus",
+    "hero": "node scripts/hero",
+    "ins": "npm install --no-audit --prefer-offline",
+    "keyw": "node scripts/faker",
+    "news": "node scripts/news",
+    "serve": "docusaurus serve",
+    "sortpj": "sort-json package.json",
+    "sortpj1": "sort-package-json package.json",
+    "sortpjall": "npm run sortpj && npm run sortpj1",
+    "start": "npm run sortpjall && docusaurus start --no-minify",
+    "start1": "docusaurus start",
+    "sw": "docusaurus swizzle @docusaurus/theme-classic Navbar --wrap",
+    "swizzle": "docusaurus swizzle",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "write-translations": "docusaurus write-translations",
+    "ytid": "node scripts/ytIdlist"
+  },
+  "version": "0.0.1"
 }

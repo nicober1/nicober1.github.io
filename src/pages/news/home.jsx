@@ -43,7 +43,7 @@ const News = () => {
     infinite: true,
     centerPadding: '60px',
     autoplay: true,
-    autoplaySpeed: 6000,
+    autoplaySpeed: 4000,
     speed: 400,
     slidesToShow: 3,
     slidesToScroll: 3,
