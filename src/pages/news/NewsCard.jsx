@@ -43,7 +43,7 @@ function NewsCard({article}) {
         <div className='mt-4 flex w-full flex-col justify-between'>
           <div className='flex w-full flex-col items-start justify-start'>
             <h3 className='title-with-shadow mb-2 text-lg font-bold leading-tight text-white'>
-              {article.title.split('-')[0]}
+              {article.title.split(/\s-\s/)[0]}
             </h3>
             {article.description ? (
               <p className='title-with-shadow  mb-4 text-sm leading-snug text-gray-100'>{article.description}</p>
