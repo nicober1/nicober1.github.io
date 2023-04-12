@@ -1,29 +1,65 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState, useEffect, useRef} from 'react'
 import data from '/data/news/business.json'
 import NewsCard from '@site/src/pages/news/NewsCard'
+
+const useInterval = (callback, delay) => {
+  const savedCallback = useRef()
+
+  useEffect(() => {
+    savedCallback.current = callback
+  }, [callback])
+
+  useEffect(() => {
+    if (delay !== null) {
+      const id = setInterval(() => savedCallback.current(), delay)
+      return () => clearInterval(id)
+    } 
+  }, [delay])
+}
 
 const BusinessTicker = () => {
   const [position, setPosition] = useState(0)
 
-  useEffect(() => {
-    const intervalId = setInterval(() => {
-      setPosition((position) => position + 1)
-    }, 20)
-
-    return () => clearInterval(intervalId)
-  }, [])
+  useInterval(() => {
+    setPosition((position) => position + 1)
+  }, 20)
 
   return (
-    <div
-      className='h-[3rem] flex flex-shrink w-full items-center object-contain ' 
-      style={{transform: `translateX(-${position * 2}px)`}}>
-      {data.articles.map((article, index) => {
-        return (
-          <div key={index} className=''>
-            <NewsCard key={index} article={article} />
-          </div>
-        )
-      })}
+    <div className='relative h-[20rem] w-full overflow-auto'>
+      <div
+        className='absolute left-0 top-0 flex h-[20rem] w-auto'
+        style={{animation: `slide ${data.articles.length * 2}s linear infinite`}}>
+        {data.articles.map((article, index) => {
+          return (
+            <div key={index} className='h-[20rem] w-[15rem] overflow-auto'>
+              <NewsCard key={index} article={article} />
+            </div>
+          )
+        })}
+      </div>
+      <style jsx>{`
+        @keyframes slide {
+          from {
+            transform: translateX(0);
+          }
+          to {
+            transform: translateX(-${data.articles.length * 10}rem);
+          }
+        }
+        .NewsCard {
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+        }
+        .NewsCard-image {
+          flex: 1;
+          object-fit: cover;
+        }
+        .NewsCard-content {
+          flex: 1;
+          overflow: hidden;
+        }
+      `}</style>
     </div>
   )
 }

@@ -7,7 +7,6 @@ import TickerTape from '@site/src/components/tickertape'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import BusinessTicker from '@site/src/pages/news/BusinessTicker'
 
-
 function PageLink({to, title, description}) {
   return (
     <Link to={to}>
@@ -47,34 +46,32 @@ export default function HomePage() {
     <Layout noFooter>
       <div className='mx-auto my-auto bg-cover bg-center bg-no-repeat' style={{backgroundImage}}>
         <DonateButton />
+
+        <div className='container mx-auto my-auto text-center font-bold text-transparent '>
+          <h2
+            className={classNames(
+              'mt-10 bg-clip-text  text-xl   sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
+              colors[colorIndex],
+            )}>
+            Welcome to Fluent Blogs
+          </h2>
+          <h2
+            className={classNames(
+              'mt-4 bg-clip-text text-sm  sm:text-base md:text-lg lg:text-xl xl:text-2xl',
+              colors[colorIndex],
+            )}>
+            Words that flow, Ideas that grow
+          </h2>
+        </div>
         <div className='mt-10'>
           <TickerTape />
         </div>
 
-        {/* <div className='mt-10'>
-          <BusinessTicker/>
-        </div> */}
-
-        
+        <div className='mt-10'>
+          <BusinessTicker />
+        </div>
 
         <div className='container mx-auto my-auto'>
-          <div className='container mx-auto my-auto text-center font-bold text-transparent '>
-            <h2
-              className={classNames(
-                'mt-10 bg-clip-text  text-xl   sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
-                colors[colorIndex],
-              )}>
-              Welcome to Fluent Blogs
-            </h2>
-            <h2
-              className={classNames(
-                'mt-4 bg-clip-text text-sm  sm:text-base md:text-lg lg:text-xl xl:text-2xl',
-                colors[colorIndex],
-              )}>
-              Words that flow, Ideas that grow
-            </h2>
-          </div>
-
           <div className='container mx-auto my-auto mb-6 mt-8 grid grid-cols-2 gap-4 sm:grid-cols-1 lg:grid-cols-3'>
             <PageLink
               to='/radio'
