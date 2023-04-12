@@ -2,36 +2,18 @@ import React, {useState, useEffect, useRef} from 'react'
 import data from '/data/news/business.json'
 import NewsCard from '@site/src/pages/news/NewsCard'
 
-const useInterval = (callback, delay) => {
-  const savedCallback = useRef()
-
-  useEffect(() => {
-    savedCallback.current = callback
-  }, [callback])
-
-  useEffect(() => {
-    if (delay !== null) {
-      const id = setInterval(() => savedCallback.current(), delay)
-      return () => clearInterval(id)
-    } 
-  }, [delay])
-}
 
 const BusinessTicker = () => {
-  const [position, setPosition] = useState(0)
-
-  useInterval(() => {
-    setPosition((position) => position + 1)
-  }, 20)
+  
 
   return (
-    <div className='relative h-[20rem] w-full overflow-auto'>
+    <div className='relative h-[20rem] w-full overflow-x-auto overflow-y-hidden'>
       <div
         className='absolute left-0 top-0 flex h-[20rem] w-auto'
         style={{animation: `slide ${data.articles.length * 2}s linear infinite`}}>
         {data.articles.map((article, index) => {
           return (
-            <div key={index} className='h-[20rem] w-[15rem] overflow-auto'>
+            <div key={index} className='h-[20rem] w-[15rem] overflow-y-auto overflow-x-hidden'>
               <NewsCard key={index} article={article} />
             </div>
           )
