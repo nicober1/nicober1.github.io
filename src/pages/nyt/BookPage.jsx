@@ -6,14 +6,21 @@ const BookCard = ({book}) => {
   return (
     <CardGradientsDark>
       <a href={book.amazonLink} target='_blank' rel='noreferrer'>
-        <div className='card flex  overflow-hidden rounded-lg  shadow-lg'>
-          <img src={book.bookImage} alt={book.bookTitle} className=' object-cover' />
+        <div className='card flex flex-col overflow-hidden rounded-lg shadow-lg transition duration-300 ease-in-out hover:scale-105'>
+          <div className='relative h-64 w-full'>
+            <img src={book.bookImage} alt={book.bookTitle} className='absolute inset-0 h-full w-full object-cover' />
+            <div className='absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-70'></div>
+            <div className='absolute bottom-0 left-0 p-2 text-white'>
+              <h3 className='text-lg font-bold'>{book.bookTitle}</h3>
+              <p className='text-sm'>{book.bookAuthor}</p>
+            </div>
+          </div>
           <div className='p-4 text-white'>
-            <h3 className='text-lg font-bold '>{book.bookTitle}</h3>
-            <p className='text-xs '>{book.bookAuthor}</p>
-            <p className='text-xs '>{book.description}</p>
-            <p className='text-xs '>{book.bookPublisher}</p>
-            <p className='text-xs '>Weeks on NYT Best Seller List: {book.weeksOnList}</p>
+            <p className='truncate text-sm'>{book.description}</p>
+            <div className='mt-2 flex items-center justify-between'>
+              <p className='text-xs'>{book.bookPublisher}</p>
+              <p className='text-xs'>Weeks on NYT Best Seller List: {book.weeksOnList}</p>
+            </div>
           </div>
         </div>
       </a>
@@ -33,8 +40,15 @@ const BookGrid = ({books}) => {
 
 const PageHeader = ({header}) => {
   return (
-    <div className='bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-8 text-white bg-clip-text text-transparent text-center'>
-      <h1 className='text-4xl font-bold text-transparent text-center'>{header}</h1>
+    <div
+      className='  p-8 text-center  text-black'
+      style={{
+        backgroundImage:
+          'url(https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)', // add a background image for the header
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+      }}>
+      <h1 className='text-center text-4xl font-bold '>{header}</h1>
     </div>
   )
 }
