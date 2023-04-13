@@ -27,7 +27,7 @@ const useFetchRadioData = (url) => {
 }
 const MAX_RADIO_COUNT = 100
 const RadioItem = ({radio}) => {
-  const {stationuuid, name, country, language, url, homepage, url_resolved} = radio
+  const {stationuuid, name, country, language, url, homepage, url_resolved, codec, bitrate} = radio
   const [playing, setPlaying] = useState(false)
   const audioRef = useRef(null)
   const togglePlay = () => {
@@ -49,7 +49,7 @@ const RadioItem = ({radio}) => {
     <div
       key={stationuuid}
       className={`card rounded-lg border   
-      ${playing && 'bg-gradient-to-br from-yellow-600 via-red-600 to-pink-600' } 
+      ${playing && 'bg-gradient-to-br from-yellow-600 via-red-600 to-pink-600'} 
         relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
       <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
       <div className='text-sm'>{country.substr(0, 36)}</div>
@@ -63,6 +63,12 @@ const RadioItem = ({radio}) => {
           }`}>
           {playing ? 'Pause' : 'Play'}
         </button>
+        {bitrate !== 0 && (
+          <p className='text-xs font-bold'>
+            {codec} {bitrate}k
+          </p>
+        )}
+
         <a href={homepage} target='_blank' rel='noreferrer' className='ml-4 flex-shrink-0'>
           <img
             src={`https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=${homepage}`}
