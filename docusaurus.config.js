@@ -181,6 +181,7 @@ const config = {
           ],
         },
         {to: '/radio', label: 'Radio'},
+        {to: '/nyt/hcfiction', label: 'Books - BestSellers'},
 
         {to: '/blog', label: 'Blogs'},
       ],

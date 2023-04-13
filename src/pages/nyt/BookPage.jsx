@@ -1,5 +1,4 @@
 import React from 'react'
-import books from '/data/nyt/bestsellerbooks.json'
 import Loading from '@site/src/pages/1Loading'
 import CardGradientsDark from '@site/src/components/CardGradientsDark'
 
@@ -32,19 +31,19 @@ const BookGrid = ({books}) => {
   )
 }
 
-const PageHeader = () => {
+const PageHeader = ({header}) => {
   return (
-    <div className='bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-8 text-white'>
-      <h1 className='text-4xl font-bold'>NYT Bestseller List</h1>
+    <div className='bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-8 text-white bg-clip-text text-transparent text-center'>
+      <h1 className='text-4xl font-bold text-transparent text-center'>{header}</h1>
     </div>
   )
 }
 
-const BookPage = () => {
+const BookPage = ({books, header}) => {
   return (
     <Loading time={0}>
       <div className='min-h-screen'>
-        <PageHeader />
+        <PageHeader header={header} />
         <BookGrid books={books} />
       </div>
     </Loading>
