@@ -185,8 +185,12 @@ const config = {
           position: 'left',
           items: [
             {
-              to: '/nyt/hcfiction',
+              to: '/nyt/fiction',
               label: 'HardCover Fiction',
+            },
+            {
+              to: '/nyt/nonfiction',
+              label: 'HardCover Non-Fiction',
             },
           ],
         },
