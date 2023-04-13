@@ -17,9 +17,13 @@ const BookCard = ({book}) => {
           </div>
           <div className='p-4 text-white'>
             <p className='text-sm'>{book.description}</p>
-            <div className='mt-2 flex items-center justify-between'>
-              <p className='text-xs'>Publisher: {book.bookPublisher}</p>
-              <p className='text-xs'>{book.weeksOnList} Weeks on NYT Best Seller List</p>
+            <div className='mt-2 items-center justify-between'>
+              <p className='text-sm'>
+                <b className='text-cyan-400'>Publisher:</b> {book.bookPublisher}
+              </p>
+              <p className='text-sm'>
+                <b className='text-cyan-400'>{book.weeksOnList}</b> Week(s) on NYT Best Seller List
+              </p>
             </div>
           </div>
         </div>
@@ -41,7 +45,7 @@ const BookGrid = ({books}) => {
 const PageHeader = ({header}) => {
   return (
     <div
-      className='  p-8 text-center  text-black'
+      className=' p-8 text-center  text-black rounded-2xl'
       style={{
         backgroundImage:
           'url(https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)', // add a background image for the header

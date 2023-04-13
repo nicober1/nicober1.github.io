@@ -54,7 +54,6 @@ const config = {
                 // },
               ],
             },
-
             plugins: [
               new ProvidePlugin({
                 process: require.resolve('process/browser'),
@@ -161,7 +160,6 @@ const config = {
               to: '/news/sports',
               label: 'Sports News',
             },
-
             {
               to: '/news/entertainment',
               label: 'Entertainment News',
@@ -181,8 +179,17 @@ const config = {
           ],
         },
         {to: '/radio', label: 'Radio'},
-        {to: '/nyt/hcfiction', label: 'Books - BestSellers'},
-
+        {
+          type: 'dropdown',
+          label: 'Books - BestSeller',
+          position: 'left',
+          items: [
+            {
+              to: '/nyt/hcfiction',
+              label: 'HardCover Fiction',
+            },
+          ],
+        },
         {to: '/blog', label: 'Blogs'},
       ],
     },
