@@ -11,8 +11,8 @@ const BookCard = ({book}) => {
             <img src={book.bookImage} alt={book.bookTitle} className='absolute inset-0 h-full w-full ' />
             <div className='absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-70'></div>
             <div className='absolute bottom-0 left-0 p-2 text-white'>
-              <h3 className='text-lg font-bold'>{book.bookTitle}</h3>
-              <p className='text-sm'>{book.bookAuthor}</p>
+              <h3 className='text-lg font-extrabold'>{book.bookTitle}</h3>
+              <p className='text-base font-bold'>{book.bookAuthor}</p>
             </div>
           </div>
           <div className='p-4 text-white'>
