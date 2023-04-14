@@ -199,6 +199,15 @@ const config = {
               to: '/radio/gb',
               label: 'Top Radio Stations of UK',
             },
+
+            {
+              to: '/radio/mirchi',
+              label: 'Radio Mirchi - India',
+            },
+            {
+              to: '/radio/bbc',
+              label: 'BBC Radio Stations',
+            },
           ],
         },
         {

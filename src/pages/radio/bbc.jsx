@@ -91,7 +91,7 @@ const RadioItem = ({radio}) => {
   )
 }
 export default function RadioDetails() {
-  const url = useBaseUrl('/data/radio/cc/US.json')
+  const url = useBaseUrl('/data/radio/name/bbc.json')
   const {radioData, loading, error} = useFetchRadioData(url)
   const [searchTerm, setSearchTerm] = useState('')
   const [searchResults, setSearchResults] = useState([])
@@ -113,7 +113,7 @@ export default function RadioDetails() {
 
       <main className='container mx-auto p-4'>
         <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>
-         Top Radio Stations of United States of America
+        BBC Radio Stations
         </h1>
         <div className='mb-4 flex justify-center'>
           <label htmlFor='searchInput' className='sr-only'>
