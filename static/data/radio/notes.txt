@@ -1,5 +1,6 @@
 http://de1.api.radio-browser.info/json/stations/byname/mirchi?order=votes&reverse=true&hidebroken=true
 http://de1.api.radio-browser.info/json/stations/byname/bbc?order=votes&reverse=true&hidebroken=true
+
 http://de1.api.radio-browser.info/json/stations/bycodec/{searchterm}?order=votes&reverse=true&hidebroken=true
 http://de1.api.radio-browser.info/json/stations/bycountry/{searchterm}?order=votes&reverse=true&hidebroken=true
 http://de1.api.radio-browser.info/json/stations/bycountrycode/{searchterm}?order=votes&reverse=true&hidebroken=true
@@ -10,3 +11,6 @@ http://de1.api.radio-browser.info/json/stations/bytag/{searchterm}?order=votes&r
 http://de1.api.radio-browser.info/json/stations/bycountrycodeexact/US?order=votes&reverse=true&hidebroken=true
 http://de1.api.radio-browser.info/json/stations/bycountrycodeexact/GB?order=votes&reverse=true&hidebroken=true
 http://de1.api.radio-browser.info/json/stations/bycountrycodeexact/IN?order=votes&reverse=true&hidebroken=true
+
+
+http://de1.api.radio-browser.info/json/stations/bytag/news?order=votes&reverse=true&hidebroken=true
