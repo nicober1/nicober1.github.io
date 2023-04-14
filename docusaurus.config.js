@@ -139,6 +139,8 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
+        {to: '/', label: 'Home'},
+
         {
           type: 'dropdown',
           label: 'News',
@@ -237,6 +239,17 @@ const config = {
             {
               to: '/nyt/nonfiction',
               label: 'HardCover Non-Fiction',
+            },
+          ],
+        },
+        {
+          type: 'dropdown',
+          label: 'Gallery',
+          position: 'left',
+          items: [
+            {
+              to: '/gallery/art',
+              label: 'Art Gallery',
             },
           ],
         },
