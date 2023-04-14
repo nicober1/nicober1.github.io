@@ -251,6 +251,10 @@ const config = {
               to: '/gallery/art',
               label: 'Art Gallery',
             },
+            {
+              to: '/gallery/space',
+              label: 'Space & Astronomy Gallery',
+            },
           ],
         },
         {to: '/blog', label: 'Blogs'},
