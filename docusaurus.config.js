@@ -248,12 +248,16 @@ const config = {
           position: 'left',
           items: [
             {
-              to: '/gallery/art',
-              label: 'Art Gallery',
-            },
-            {
               to: '/gallery/space',
               label: 'Space & Astronomy Gallery',
+            },
+            {
+              to: '/gallery/leonardo',
+              label: 'Leonardo da Vinci Artworks and Drawings',
+            },
+            {
+              to: '/gallery/art',
+              label: 'Art Gallery',
             },
           ],
         },
