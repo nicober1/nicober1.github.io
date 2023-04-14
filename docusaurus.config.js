@@ -256,6 +256,10 @@ const config = {
               label: 'Leonardo da Vinci Artworks and Drawings',
             },
             {
+              to: '/gallery/gogh',
+              label: 'Vincent Van Gogh Artworks',
+            },
+            {
               to: '/gallery/art',
               label: 'Art Gallery',
             },

@@ -3,7 +3,7 @@ const sharp = require('sharp')
 const fs = require('fs')
 
 // Define the input and output folders
-const inputFolder = './static/img/gallery/leonardo'
+const inputFolder = './static/img/gallery/p'
 const outputFolder = './static/img/gallery/resized'
 
 // Create the output folder if it doesn't exist
