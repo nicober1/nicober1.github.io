@@ -142,7 +142,7 @@ export default function HomePage() {
               description='India Stocks powered by TradingView'
             />
 
-            <PageLink to='/live' title='Live News Channels' description='Live News Channels' />
+            <PageLink to='/live/news' title='Live News Channels' description='Live News Channels' />
             <PageLink to='/gallery' title='Random Picture Gallery' description='Random Picture Gallery' />
             <PageLink to='/timezones' title='Timezones' description='Timezones of the World' />
             <PageLink to='/countries' title='Countries' description='Countries of the World' />

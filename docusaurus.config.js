@@ -212,6 +212,21 @@ const config = {
         },
         {
           type: 'dropdown',
+          label: 'Live',
+          position: 'left',
+          items: [
+            {
+              to: '/live/news',
+              label: 'News Live',
+            },
+            {
+              to: '/live/nasa',
+              label: 'NASA Live',
+            },
+          ],
+        },
+        {
+          type: 'dropdown',
           label: 'Books - BestSeller',
           position: 'left',
           items: [
