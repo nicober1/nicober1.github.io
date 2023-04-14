@@ -91,7 +91,7 @@ const RadioItem = ({radio}) => {
   )
 }
 export default function RadioDetails() {
-  const url = useBaseUrl('/data/radio.json')
+  const url = useBaseUrl('/data/radio/topvotes.json')
   const {radioData, loading, error} = useFetchRadioData(url)
   const [searchTerm, setSearchTerm] = useState('')
   const [searchResults, setSearchResults] = useState([])

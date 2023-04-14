@@ -1,0 +1,9 @@
+http://de1.api.radio-browser.info/json/stations/byname/mirchi?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bycodec/{searchterm}?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bycountry/{searchterm}?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bycountrycode/{searchterm}?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bystate/{searchterm}?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bylanguage/{searchterm}?order=votes&reverse=true&hidebroken=true
+http://de1.api.radio-browser.info/json/stations/bytag/{searchterm}?order=votes&reverse=true&hidebroken=true
+
+http://de1.api.radio-browser.info/json/stations/bycountrycodeexact/US?order=votes&reverse=true&hidebroken=true
