@@ -23,10 +23,10 @@
     "zbook": "node scripts/booknytf && node scripts/booknytnf",
     "zdatas": "node scripts/datasave",
     "zhero": "node scripts/hero",
+    "zimgr": "node scripts/imagr",
     "zkeyw": "node scripts/faker",
     "znews": "node scripts/news",
-    "zytid": "node scripts/ytIdlist",
-    "zimgr": "node scripts/imagr"
+    "zytid": "node scripts/ytIdlist"
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.0",
