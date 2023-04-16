@@ -3,8 +3,9 @@ const sharp = require('sharp')
 const fs = require('fs')
 
 // Define the input and output folders
-const inputFolder = './static/img/gallery/p'
-const outputFolder = './static/img/gallery/resized'
+const inputFolder = './static/img/gallery/b'
+const outputFolder = './static/img/gallery/bing'
+let count = 1
 
 // Create the output folder if it doesn't exist
 createOutputFolder(outputFolder)
@@ -32,7 +33,8 @@ function readJpgFiles(folder) {
         // Get the input file path
         const inputFilePath = `${folder}/${file}`
         // Get the output file path
-        const outputFilePath = `${outputFolder}/${file}`
+        const outputFilePath = `${outputFolder}/${count}.jpg`
+        count = count + 1
         // Resize and optimize the image using sharp
         resizeAndOptimizeImage(inputFilePath, outputFilePath)
       })

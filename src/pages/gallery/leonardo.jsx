@@ -24,7 +24,6 @@ function Art() {
         />
       )
     } catch (error) {
-      //throw error
     }
   })
 

@@ -249,7 +249,7 @@ const config = {
           items: [
             {
               to: '/gallery/space',
-              label: 'Space & Astronomy Gallery',
+              label: 'Space & Astronomy',
             },
             {
               to: '/gallery/leonardo',
@@ -261,7 +261,11 @@ const config = {
             },
             {
               to: '/gallery/art',
-              label: 'Art Gallery',
+              label: 'Art',
+            },
+            {
+              to: '/gallery/pics',
+              label: 'Beautiful Pictures',
             },
           ],
         },
