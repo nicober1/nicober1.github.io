@@ -3,8 +3,8 @@ const sharp = require('sharp')
 const fs = require('fs')
 
 // Define the input and output folders
-const inputFolder = './static/img/gallery/b'
-const outputFolder = './static/img/gallery/bing'
+const inputFolder = './static/img/gallery/p'
+const outputFolder = './static/img/gallery/picasso'
 let count = 1
 
 // Create the output folder if it doesn't exist
@@ -27,7 +27,7 @@ function readJpgFiles(folder) {
       console.error(err)
     } else {
       // Filter only jpg files
-      const jpgFiles = files.filter((file) => file.endsWith('.jpg'))
+      const jpgFiles = files.filter((file) => file.endsWith('.JPG'))
       // Loop through each file
       jpgFiles.forEach((file) => {
         // Get the input file path

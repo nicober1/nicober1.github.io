@@ -260,6 +260,10 @@ const config = {
               label: 'Vincent Van Gogh Artworks',
             },
             {
+              to: '/gallery/picasso',
+              label: 'Pablo Picasso Artworks',
+            },
+            {
               to: '/gallery/art',
               label: 'Art',
             },
