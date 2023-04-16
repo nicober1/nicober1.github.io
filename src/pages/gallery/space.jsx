@@ -3,25 +3,29 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import ImageModal from 'react-modal-image'
 import Layout from '@theme/Layout'
 
-function Gallery() {
+function Art() {
   const images = []
   for (let i = 1; i <= 200; i++) {
     images.push(`${i}.jpg`)
+    images.push(`${i}.JPG`)
+    images.push(`${i}.PNG`)
   }
 
   const imageElements = images.map((image) => {
+    const loc = `/img/gallery/space/${image}`
     try {
+      require(`/img/gallery/space/${image}`)
       return (
         <ImageModal
           className='hover:scale-150'
-          src={useBaseUrl(`/img/earth/${image}`)}
-          //   alt={image}
-          small={useBaseUrl(`/img/earth/${image}`)}
-          large={useBaseUrl(`/img/earth/${image}`)}
+          small={useBaseUrl(`${loc}`)}
+          large={useBaseUrl(`${loc}`)}
           showRotate={true}
         />
       )
-    } catch (error) {}
+    } catch (error) {
+      //throw error
+    }
   })
 
   return (
@@ -31,4 +35,4 @@ function Gallery() {
   )
 }
 
-export default Gallery
+export default Art
