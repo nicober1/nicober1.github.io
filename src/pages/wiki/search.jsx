@@ -24,7 +24,7 @@ function WikiCard({result, onSelect}) {
 
 function WikiList({results, onSelect}) {
   return (
-    <div className='wiki-list grid grid-cols-2 gap-4 sm:grid-cols-2 mt-20'>
+    <div className='wiki-list grid grid-cols-2 gap-4 sm:grid-cols-2 mt-10'>
       {results.map((result) => (
         <WikiCard key={result.pageid} result={result} onSelect={onSelect} />
       ))}
