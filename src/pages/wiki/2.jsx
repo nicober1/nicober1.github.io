@@ -22,10 +22,23 @@ function WikiList({results, onSelect}) {
 }
 
 function WikiPage({page}) {
+  function handleClick(event) {
+    const targetLink = event.target.closest('a')
+    if (!targetLink) return
+    event.preventDefault()
+    // Get the text content of the link element
+    const searchText = targetLink.textContent
+    // Encode the text content to make it URL-safe
+    const encodedText = encodeURIComponent(searchText)
+    // Construct the Google search URL with the encoded text as the query parameter
+    const googleSearchURL = `https://www.google.com/search?q=${encodedText}`
+    // Open the Google search URL in a new tab
+    window.open(googleSearchURL, '_blank')
+  }
   return (
-    <div className='wiki-page  overflow-y-scroll'>
-      <h2 className='mb-4 text-2xl font-bold'>{page.title}</h2>
-      <div dangerouslySetInnerHTML={{__html: page.content}} />
+    <div className='wiki-page overflow-y-scroll' onClick={handleClick}>
+      <h2 className='page-title'>{page.title}</h2>
+      <div className='page-content' dangerouslySetInnerHTML={{__html: page.content}} />
     </div>
   )
 }
