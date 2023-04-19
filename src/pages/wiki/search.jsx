@@ -7,7 +7,17 @@ function WikiCard({result, onSelect}) {
       className='transform cursor-pointer rounded-md bg-white p-4 shadow-md transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-lg'
       onClick={() => onSelect(result)}>
       <h4 className='mb-2 text-lg font-medium text-black'>{result.title}</h4>
+      {result.thumbnail && (
+        <img
+          src={result.thumbnail.source}
+          alt={result.title}
+          width={result.thumbnail.width}
+          height={result.thumbnail.height}
+          className='mb-2'
+        />
+      )}
       <p className='text-black' dangerouslySetInnerHTML={{__html: result.snippet}} />
+      {result.description && <p className='text-gray-600'>{result.description}</p>}
     </div>
   )
 }
@@ -29,12 +39,14 @@ function WikiPage({page}) {
     event.preventDefault()
     const searchText = targetLink.textContent
     const encodedText = encodeURIComponent(searchText)
+    const wikiSearchURL = `https://en.wikipedia.org/wiki/${encodedText}`
     const googleSearchURL = `https://www.google.com/search?q=${encodedText}`
     const bingSearchURL = `https://www.bing.com/search?q=${encodedText}`
     const duckDuckGoSearchURL = `https://duckduckgo.com/?q=${encodedText}`
-    window.open(googleSearchURL, '_blank')
-    window.open(bingSearchURL, '_blank')
-    window.open(duckDuckGoSearchURL, '_blank')
+    window.open(wikiSearchURL, 'wikipedia')
+    window.open(googleSearchURL, 'google')
+    window.open(bingSearchURL, 'bing')
+    window.open(duckDuckGoSearchURL, 'duck')
   }
   return (
     <div className='wiki-page overflow-y-scroll' onClick={handleClick}>
@@ -48,21 +60,17 @@ export default function Encyclopedia() {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState([])
   const [page, setPage] = useState(null)
-  const [searchClass, setSearchClass] = useState('search-input')
-  const [mainContainerClass, setMainContainerClass] = useState('main-container-center')
 
   function handleChange(event) {
     const {value} = event.target
     setQuery(value)
-    setSearchClass(value ? '' : 'search-input')
-    setMainContainerClass(value ? 'main-container-top' : 'main-container-center')
     setPage(null)
   }
 
   async function fetchResults() {
     try {
       const response = await fetch(
-        `https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srsearch=${query}`,
+        `https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srprop=snippet|sectiontitle|description|thumbnail|wordcount&srlimit=10&srsearch=${query}`,
       )
       const data = await response.json()
       setResults(data.query.search)
@@ -103,7 +111,8 @@ export default function Encyclopedia() {
             type='text'
             value={query}
             onChange={handleChange}
-            className={`w-full rounded-md border border-gray-300 p-2`}
+            placeholder='Type here to search on Wikipedia'
+            className={`w-full rounded-md border border-white p-2 dark:placeholder-white placeholder-black`}
           />
           {results.length > 0 && <WikiList results={results} onSelect={setPage} />}
         </div>
