@@ -140,6 +140,21 @@ const config = {
       },
       items: [
         {to: '/', label: 'Home'},
+        {
+          type: 'dropdown',
+          label: 'Search',
+          position: 'left',
+          items: [
+            {
+              to: '/wiki/search',
+              label: 'Search @ Wikipedia',
+            },
+            {
+              to: 'https://en.wikipedia.org/wiki/List_of_search_engines',
+              label: 'List of Search Engine',
+            },
+          ],
+        },
 
         {
           type: 'dropdown',

@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react'
+import Layout from '@theme/Layout'
 
 function WikiCard({result, onSelect}) {
   return (
@@ -13,7 +14,7 @@ function WikiCard({result, onSelect}) {
 
 function WikiList({results, onSelect}) {
   return (
-    <div className='wiki-list grid grid-cols-2 gap-4 sm:grid-cols-1'>
+    <div className='wiki-list grid grid-cols-2 gap-4 sm:grid-cols-2'>
       {results.map((result) => (
         <WikiCard key={result.pageid} result={result} onSelect={onSelect} />
       ))}
@@ -26,14 +27,14 @@ function WikiPage({page}) {
     const targetLink = event.target.closest('a')
     if (!targetLink) return
     event.preventDefault()
-    // Get the text content of the link element
     const searchText = targetLink.textContent
-    // Encode the text content to make it URL-safe
     const encodedText = encodeURIComponent(searchText)
-    // Construct the Google search URL with the encoded text as the query parameter
     const googleSearchURL = `https://www.google.com/search?q=${encodedText}`
-    // Open the Google search URL in a new tab
+    const bingSearchURL = `https://www.bing.com/search?q=${encodedText}`
+    const duckDuckGoSearchURL = `https://duckduckgo.com/?q=${encodedText}`
     window.open(googleSearchURL, '_blank')
+    window.open(bingSearchURL, '_blank')
+    window.open(duckDuckGoSearchURL, '_blank')
   }
   return (
     <div className='wiki-page overflow-y-scroll' onClick={handleClick}>
@@ -95,18 +96,20 @@ export default function Encyclopedia() {
   }, [page])
 
   return (
-    <div className='grid grid-cols-2 px-4 py-8 '>
-      <div className='mx-auto w-full max-w-md'>
-        <input
-          type='text'
-          value={query}
-          onChange={handleChange}
-          className={`w-full rounded-md border border-gray-300 p-2`}
-        />
-        {results.length > 0 && <WikiList results={results} onSelect={setPage} />}
-      </div>
+    <Layout>
+      <div className='grid grid-cols-2 px-4 py-8 '>
+        <div className='mx-auto w-full max-w-md'>
+          <input
+            type='text'
+            value={query}
+            onChange={handleChange}
+            className={`w-full rounded-md border border-gray-300 p-2`}
+          />
+          {results.length > 0 && <WikiList results={results} onSelect={setPage} />}
+        </div>
 
-      <div className='mx-auto  w-full max-w-7xl'>{page && <WikiPage page={page} />}</div>
-    </div>
+        <div className='mx-auto  w-full max-w-7xl'>{page && <WikiPage page={page} />}</div>
+      </div>
+    </Layout>
   )
 }
