@@ -93,6 +93,9 @@ const config = {
     [
       'classic',
       {
+        docs: {
+          routeBasePath: '/docs',
+        },
         blog: {
           routeBasePath: '/blog',
           blogSidebarTitle: 'Blogs',
@@ -289,6 +292,7 @@ const config = {
           ],
         },
         {to: '/blog', label: 'Blogs'},
+        {to: '/docs', label: 'Docs'},
       ],
     },
     footer: {
@@ -298,6 +302,7 @@ const config = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+      additionalLanguages: ['git','csharp'],
     },
   },
 }
