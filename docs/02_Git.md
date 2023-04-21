@@ -1,5 +1,11 @@
 ---
 slug: /git
+id: git
+title: Git
+tags:
+  - git
+  - Git
+  - git merge conflict, resolve merge conflict in Git
 ---
 
 
