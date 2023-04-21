@@ -2,14 +2,16 @@
 slug: /git
 id: git
 title: Git
-tags:
-  - git
-  - Git
-  - git merge conflict, resolve merge conflict in Git
+description: Git commands
+keywords: [git, git merge conflict, resolve merge conflict in Git]
+tags: [git]
+image: String
+sidebar_label: Git
+sidebar_position: 2
 ---
 
+### Create feature branch locally
 
-### Create feature branch locally 
 #### Create feature branch locally and after making changes push feature branch to the remote repository
 
 ```git
@@ -21,7 +23,7 @@ git commit -m "your commit message"
 git push -u origin feature-branch
 ```
 
-### Resolve Merge Conflict 
+### Resolve Merge Conflict
 
 Open the file(s) that have conflicts in your text editor. You should see lines of code with "<<<<<<< HEAD", "=======", and ">>>>>>> branch-name" markers. These markers indicate the conflicting code from the two branches that are being merged.
 
@@ -39,5 +41,3 @@ git commit
 git commit -m "your commit message"
 git push -u origin feature-branch
 ```
-
-
