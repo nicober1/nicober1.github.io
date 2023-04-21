@@ -1,5 +1,13 @@
 ---
 slug: /
+id: Home
+title: Home
+description: Home
+keywords: [links, ChatGPT, Bing AI]
+tags: [ChatGPT]
+image: String
+sidebar_label: Home
+sidebar_position: 1
 ---
 
 
