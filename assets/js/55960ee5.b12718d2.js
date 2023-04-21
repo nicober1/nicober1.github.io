@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfluentblogs=self.webpackChunkfluentblogs||[]).push([[4121],{88070:t=>{t.exports=JSON.parse('[{"label":"git","permalink":"/docs/tags/git","count":1},{"label":"ChatGPT","permalink":"/docs/tags/chat-gpt","count":1}]')}}]);
