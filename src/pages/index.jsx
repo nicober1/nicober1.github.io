@@ -52,7 +52,7 @@ export default function HomePage() {
         <div className='container mx-auto my-auto text-center font-bold text-transparent '>
           <h2
             className={classNames(
-              'mt-10 bg-clip-text  text-xl   sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
+              'mt-10 bg-clip-text  text-xl  sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
               colors[colorIndex],
             )}>
             Welcome to Fluent Blogs
