@@ -26,7 +26,7 @@ ncu -g
 ncu -f mocha
 ncu react-*
 ```
-```jsx {2} showLineNumbers title="/.ncurc.js"
+```jsx {2} showLineNumbers title=".ncurc.js"
 module.exports = {
   reject: '/w*reactw*/',
 }
