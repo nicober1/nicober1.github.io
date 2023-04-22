@@ -10,10 +10,24 @@ sidebar_label: NodeJS
 ### npm commands
 
 ```bash
+npm uninstall <package>
+npm outdated
+npm update
+npm search <term>
+npm doctor
+npm cache
 npm ls --depth=0
 npm list react
+npm list -g
+npm list -g --depth=0
+npm -g uninstall <name> 
+npm outdated -g --depth=0
 npm update --not react*
 npm update lodash axios
+npm install -g npm@latest
+npm dedupe
+npm ddp
+npm install --prefer-offline --no-audit
 ```
 
 
