@@ -1,9 +1,11 @@
 {
   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "editor.rulers": [80],
   "files.autoSave": "onFocusChange",
   "prettier.singleQuote": true,
-  "prettier.jsxSingleQuote": true
+  "prettier.jsxSingleQuote": true,
+  "npm.enableScriptExplorer": true
 }
