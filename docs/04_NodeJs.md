@@ -25,6 +25,8 @@ npm outdated -g --depth=0
 npm update --not react*
 npm update lodash axios
 npm install -g npm@latest
+npm update -g
+npm outdated -g --depth=0
 npm dedupe
 npm ddp
 npm install --prefer-offline --no-audit
