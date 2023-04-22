@@ -7,5 +7,21 @@
   "files.autoSave": "onFocusChange",
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
-  "npm.enableScriptExplorer": true
+  "npm.enableScriptExplorer": true,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.inlineSuggest.enabled": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "git.enableSmartCommit": true,
+  "editor.formatOnPaste": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "window.zoomLevel": -2,
+  "editor.largeFileOptimizations": false,
+  "workbench.startupEditor": "none",
+  "npm.enableRunFromFolder": true,
+  "git.path": "C:\\Program Files\\Git\\bin\\git.exe"
 }
