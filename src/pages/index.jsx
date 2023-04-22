@@ -17,7 +17,7 @@ function PageLink({to, title, description}) {
           )}>
           {title}
         </p>
-        <p className='text-center  text-white'>{description}</p>
+        <p className='text-center text-black dark:text-white'>{description}</p>
       </div>
     </Link>
   )
@@ -44,7 +44,8 @@ export default function HomePage() {
 
   return (
     <Layout noFooter>
-      <div className='mx-auto my-auto bg-cover bg-center bg-no-repeat' style={{backgroundImage}}>
+      {/* <div className='mx-auto my-auto bg-cover bg-center bg-no-repeat' style={{backgroundImage}}> */}
+      <div className='mx-auto my-auto '>
         <DonateButton />
 
         <div className='container mx-auto my-auto text-center font-bold text-transparent '>
