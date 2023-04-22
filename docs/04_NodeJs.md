@@ -17,7 +17,7 @@ npm update lodash axios
 ```
 
 
-
+### npm-check-updates
 ```bash
 npm install -g npm-check-updates
 npx npm-check-updates
@@ -26,12 +26,8 @@ ncu -g
 ncu -f mocha
 ncu react-*
 ```
-
-```jsx {1,4-6,11} showLineNumbers title="/.ncurc.js"
-// highlight-start
-   // highlight-next-line
+```jsx {2} showLineNumbers title="/.ncurc.js"
 module.exports = {
   reject: '/w*reactw*/',
-  // highlight-end
 }
 ```
