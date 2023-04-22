@@ -6,6 +6,10 @@ description: Visual Studio Code
 keywords: [Visual Studio Code]
 sidebar_label: Visual Studio Code
 ---
+### VS Code Tips
+
+- **Remove Blank Lines** : Replace all **^$\n** with blank after selecting Regular Expression in search (Ctrl + H) to remove blank lines.
+
 
 ### VsCode settings.json
 
@@ -38,3 +42,4 @@ sidebar_label: Visual Studio Code
   "git.path": "C:\\Program Files\\Git\\bin\\git.exe"
 }
 ```
+
