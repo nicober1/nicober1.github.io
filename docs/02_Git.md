@@ -23,6 +23,17 @@ git commit -m "your commit message"
 git push -u origin feature-branch
 ```
 
+### Update feature branch with changes in main branch
+
+```git
+git fetch origin
+git checkout <local_branch_name>
+git merge origin/main
+esc/:wq 
+git push
+git push origin <local_branch_name>
+```
+
 ### Resolve Merge Conflict
 
 Open the file(s) that have conflicts in your text editor. You should see lines of code with "<<<<<<< HEAD", "=======", and ">>>>>>> branch-name" markers. These markers indicate the conflicting code from the two branches that are being merged.
