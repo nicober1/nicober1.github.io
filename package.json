@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "build": "docusaurus build",
-    "build1": "npm run news && docusaurus build",
+    "build1": "docusaurus build",
+    "build": "npm run znse && docusaurus build",
     "clear": "docusaurus clear",
     "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus",

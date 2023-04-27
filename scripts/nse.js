@@ -10,12 +10,17 @@ const fetchfo = async () => {
       },
     })
     const data = response.data
-    const json = JSON.stringify(data, null, 2)
-    const fileName = `./static/data/nse/fo.json`
-    fs.writeFileSync(fileName, json)
-    console.log('File written successfully')
+    if (response.status === 200 && data.data.length > 0) {
+      const json = JSON.stringify(data, null, 2)
+      const fileName = `./static/data/nse/fo.json`
+      fs.writeFileSync(fileName, json)
+      console.log('File written successfully')
+    } else {
+      console.log('Invalid response or empty data')
+    }
   } catch (error) {
     console.error(error)
   }
 }
+
 fetchfo()
