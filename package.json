@@ -27,6 +27,7 @@
     "zimgr": "node scripts/imagr",
     "zkeyw": "node scripts/faker",
     "znews": "node scripts/news",
+    "znse": "node scripts/nse",
     "zytid": "node scripts/ytIdlist"
   },
   "dependencies": {
@@ -49,6 +50,7 @@
     "cheerio": "^1.0.0-rc.12",
     "classnames": "^2.3.2",
     "clsx": "^1.2.1",
+    "js-cookie": "^3.0.5",
     "js-yaml": "^4.1.0",
     "moment-timezone": "^0.5.43",
     "node-html-parser": "^6.1.5",
