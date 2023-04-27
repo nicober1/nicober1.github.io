@@ -12,7 +12,7 @@ sidebar_position: 1
 ### Useful Links:
 [ChatGPT](https://chat.openai.com)
 
-[Bing AI](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)
+[Bing AI](https://www.bing.com/search?form=MY02AX&OCID=MY02AX&q=Bing+AI&showconv=1)
 
 [FluentBlogs.com](https://fluentblogs.com)
 
