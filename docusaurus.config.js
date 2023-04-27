@@ -293,6 +293,17 @@ const config = {
         },
         {to: '/blog', label: 'Blogs'},
         {to: '/docs', label: 'Docs'},
+        {
+          type: 'dropdown',
+          label: 'Others',
+          position: 'left',
+          items: [
+            {
+              to: '/nse/fo',
+              label: 'FnO Stocks - India',
+            },
+          ],
+        },
       ],
     },
     footer: {
@@ -302,7 +313,7 @@ const config = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
-      additionalLanguages: ['git','csharp','xml-doc'],
+      additionalLanguages: ['git', 'csharp', 'xml-doc'],
     },
   },
 }
