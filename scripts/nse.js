@@ -23,4 +23,27 @@ const fetchfo = async () => {
   }
 }
 
+const fetchnifty50 = async () => {
+  const url = `https://www.nseindia.com/api/equity-stockIndices?index=NIFTY%2050`
+  try {
+    const response = await axios.get(url, {
+      withCredentials: true,
+      headers: {
+        'User-Agent': 'My Node App',
+      },
+    })
+    const data = response.data
+    if (response.status === 200 && data.data.length > 0) {
+      const json = JSON.stringify(data, null, 2)
+      const fileName = `./static/data/nse/nifty50.json`
+      fs.writeFileSync(fileName, json)
+      console.log('File written successfully')
+    } else {
+      console.log('Invalid response or empty data')
+    }
+  } catch (error) {
+    console.error(error)
+  }
+}
 fetchfo()
+fetchnifty50()

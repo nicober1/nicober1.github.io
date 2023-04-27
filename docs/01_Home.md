@@ -22,3 +22,4 @@ sidebar_position: 1
 ### Indian Stock Market Links:
 
 [FnO Stocks](https://fluentblogs.com/nse/fo)
+[NSE Live Market Data](https://www.nseindia.com/market-data/live-equity-market)

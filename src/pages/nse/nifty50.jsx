@@ -5,7 +5,7 @@ import Layout from '@theme/Layout'
 import HeaderTypeWriter from '@site/src/components/HeaderTypeWriter'
 
 export default function App() {
-  var url = useBaseUrl('/data/nse/fo.json')
+  var url = useBaseUrl('/data/nse/nifty50.json')
 
   const [data, setData] = useState([])
   const [resp, setResp] = useState([])
@@ -71,8 +71,8 @@ export default function App() {
             className={`${item.change > 0 ? 'bg-green-800' : 'bg-red-800'} mb-5 rounded-md p-4 text-white`}>
             <h2 className='mb-2 text-base font-bold'>{item.symbol}</h2>
             <div className='text-xs'>
-              <p>{item.meta.companyName}</p>
-              {item.meta.industry ? <p>{item.meta.industry}</p> : null}
+              {item.meta ? <p>{item.meta.companyName}</p> : null}
+              {item.meta ? <p>{item.meta.industry}</p> : null}
             </div>
 
             <div className='mt-10 flex gap-12 text-xs'>

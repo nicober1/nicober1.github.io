@@ -302,6 +302,10 @@ const config = {
               to: '/nse/fo',
               label: 'FnO Stocks - India',
             },
+            {
+              to: '/nse/nifty50',
+              label: 'Nifty50 - India',
+            },
           ],
         },
       ],
