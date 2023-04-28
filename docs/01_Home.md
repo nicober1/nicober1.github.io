@@ -18,6 +18,8 @@ sidebar_position: 1
 
 [GitHub](https://github.com/nicober1/nicober1.github.io)
 
+[corsproxy](https://corsproxy.io/)
+
 
 ### Indian Stock Market Links:
 

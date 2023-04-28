@@ -156,6 +156,10 @@ const config = {
               to: 'https://en.wikipedia.org/wiki/List_of_search_engines',
               label: 'List of Search Engine',
             },
+            {
+              to: '/worldbank/docsearch',
+              label: 'Search Documents @ World Bank',
+            },
           ],
         },
 
