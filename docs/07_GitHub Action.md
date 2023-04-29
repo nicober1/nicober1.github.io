@@ -1,0 +1,42 @@
+---
+slug: /ghaction
+id: ghaction
+title: GitHub Action
+description: GitHub Action
+keywords: [GitHub Action]
+sidebar_label: GitHub Action
+---
+
+
+### Workflow to Deploy Website built using Docusaurus-React
+
+```yml showLineNumbers title="deploy.yml"
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/15 4-10 * * *'
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm i
+      - name: Build website
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+
+```
+
