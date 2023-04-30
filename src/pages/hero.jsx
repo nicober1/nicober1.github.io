@@ -2,7 +2,6 @@ import React from 'react'
 import data from '/data/hero.json'
 import Loading from '@site/src/pages/1Loading'
 
-
 export default function App() {
   const [searchTerm, setSearchTerm] = React.useState('')
 
@@ -20,7 +19,6 @@ export default function App() {
 
   return (
     <Loading>
-
       <main className='container mx-auto p-4'>
         <h1 className='text-shadow-lg text-6rem rounded-lg bg-gradient-to-br from-green-600 via-blue-600 to-purple-600  p-4 text-center font-bold text-white'>
           SuperHeros and SuperHeroines
@@ -34,13 +32,14 @@ export default function App() {
               value={searchTerm}
               onChange={handleChange}
             />
-            <span className='absolute top-[50%] left-[0.5rem] -translate-y-[50%] transform text-gray-400'>
+            <span className='absolute left-[0.5rem] top-[50%] -translate-y-[50%] transform text-gray-400'>
               <svg
                 className='h-5 w-5'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
-                xmlns='http://www.w3.org/2000/svg'>
+                xmlns='http://www.w3.org/2000/svg'
+              >
                 <path
                   strokeLinecap='round'
                   strokeLinejoin='round'
@@ -50,14 +49,16 @@ export default function App() {
               </svg>
             </span>
             <button
-              className='absolute top-[50%] right-[0.5rem] -translate-y-[50%] transform rounded-full bg-indigo-500 text-white shadow-sm hover:bg-indigo-600'
-              type='submit'>
+              className='absolute right-[0.5rem] top-[50%] -translate-y-[50%] transform rounded-full bg-indigo-500 text-white shadow-sm hover:bg-indigo-600'
+              type='submit'
+            >
               <svg
                 className='h-5 w-5'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
-                xmlns='http://www.w3.org/2000/svg'>
+                xmlns='http://www.w3.org/2000/svg'
+              >
                 <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M17 8l4 4m0 0l-4 4m4-4H3' />
               </svg>
             </button>

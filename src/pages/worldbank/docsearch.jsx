@@ -58,7 +58,8 @@ function WorldBankSearch() {
                 .map((document) => (
                   <div
                     key={document.id}
-                    className='card rounded-lg border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'>
+                    className='card rounded-lg border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'
+                  >
                     <h3 className='card-title text-lg font-bold'>{document.display_title}</h3>
                     <h6 className='card-title text-lg font-bold'>{new Date(document.docdt).toLocaleDateString()}</h6>
                     <a href={document.url} target='_blank' rel='noopener noreferrer' className='card-link'>

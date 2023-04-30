@@ -3,13 +3,12 @@ const axios = require('axios')
 const fs = require('fs')
 
 // Define the topics to fetch news from
-const topics = ['business', 'entertainment', 'health', 'science', 'sports', 'technology','general']
+const topics = ['business', 'entertainment', 'health', 'science', 'sports', 'technology', 'general']
 const language = 'en'
 
 // Define the API key and base URL for News API
 const apiKey = '361c9c578cf94c42b04b18cedb1c03f7'
 const baseUrl = 'https://newsapi.org/v2/top-headlines'
-
 
 // Define a function to fetch news for a given topic and save to a file
 const fetchNews = async (topic) => {

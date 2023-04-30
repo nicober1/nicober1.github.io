@@ -49,7 +49,8 @@ export default function Alphabet() {
           padding: '10px', // Set the padding to 10 pixels
           margin: '10px', // Set the margin to 5 pixels
           display: 'inline-block', // Set the display to inline-block
-        }}>
+        }}
+      >
         {letter}
       </div>
     )

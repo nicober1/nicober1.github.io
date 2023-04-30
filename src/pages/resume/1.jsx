@@ -9,13 +9,15 @@ const Resume = ({name, email, phone, summary, skills, projects, education}) => {
         <div className='contact-info my-auto flex  space-x-4 '>
           <a
             href={`mailto:${email}`}
-            className='text-whiteduration-300 flex transform items-center text-white transition-colors hover:scale-110 hover:text-white'>
+            className='text-whiteduration-300 flex transform items-center text-white transition-colors hover:scale-110 hover:text-white'
+          >
             <FaEnvelope className='h-6 w-6' />
             <span className='ml-2'>{email}</span>
           </a>
           <a
             href={`tel:${phone}`}
-            className='text-whiteduration-300 flex transform  items-center text-white transition-colors  hover:scale-110 hover:text-white'>
+            className='text-whiteduration-300 flex transform  items-center text-white transition-colors  hover:scale-110 hover:text-white'
+          >
             <FaPhone className='h-6 w-6' />
             <span className='ml-2'>{phone}</span>
           </a>
@@ -33,7 +35,8 @@ const Resume = ({name, email, phone, summary, skills, projects, education}) => {
           {skills.map((skill) => (
             <div
               key={skill}
-              className='rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-2 font-bold text-white shadow-lg'>
+              className='rounded-lg bg-gradient-to-br from-black via-blue-700 to-black p-2 font-bold text-white shadow-lg'
+            >
               {skill}
             </div>
           ))}

@@ -14,8 +14,9 @@ function PageLink({to, title, description}) {
       <div className='card flex transform flex-col items-center justify-center rounded p-4 shadow-lg transition duration-300 ease-in-out hover:scale-125'>
         <p
           className={classNames(
-            'mb-2 bg-gradient-to-r from-yellow-200 to-red-200 bg-clip-text  text-xl text-transparent transition duration-300 ease-in-out hover:from-blue-200 hover:to-purple-500 font-bold',
-          )}>
+            'mb-2 bg-gradient-to-r from-yellow-200 to-red-200 bg-clip-text  text-xl font-bold text-transparent transition duration-300 ease-in-out hover:from-blue-200 hover:to-purple-500',
+          )}
+        >
           {title}
         </p>
         <p className='text-center text-black dark:text-white'>{description}</p>
@@ -54,14 +55,16 @@ export default function HomePage() {
             className={classNames(
               'mt-10 bg-clip-text  text-xl  sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl',
               colors[colorIndex],
-            )}>
+            )}
+          >
             Welcome to Fluent Blogs
           </h2>
           <h2
             className={classNames(
               'mt-4 bg-clip-text text-sm  sm:text-base md:text-lg lg:text-xl xl:text-2xl',
               colors[colorIndex],
-            )}>
+            )}
+          >
             Words that flow, Ideas that grow
           </h2>
         </div>

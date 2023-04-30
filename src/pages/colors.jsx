@@ -8,9 +8,7 @@ export default function () {
   useEffect(() => {
     const numColors = 200
 
-    const listColors = Array.from({length: numColors}, () =>
-      faker.color.human(),
-    )
+    const listColors = Array.from({length: numColors}, () => faker.color.human())
 
     setColors(listColors)
   }, [])
@@ -27,11 +25,10 @@ export default function () {
               <div
                 key={color}
                 className='overflow-hidden rounded-full text-center'
-                style={{backgroundColor: color, padding: '10px'}}>
+                style={{backgroundColor: color, padding: '10px'}}
+              >
                 <div className='p-4'>
-                  <h3 className='mx-auto my-auto text-sm font-semibold uppercase text-white'>
-                    {color}
-                  </h3>
+                  <h3 className='mx-auto my-auto text-sm font-semibold uppercase text-white'>{color}</h3>
                 </div>
               </div>
             )

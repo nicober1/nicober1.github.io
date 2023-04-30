@@ -9,7 +9,9 @@ image: String
 sidebar_label: Home
 sidebar_position: 1
 ---
+
 ### Useful Links:
+
 [ChatGPT](https://chat.openai.com)
 
 [Bing AI](https://www.bing.com/search?form=MY02AX&OCID=MY02AX&q=Bing+AI&showconv=1)
@@ -21,7 +23,6 @@ sidebar_position: 1
 [https://corsproxy.io/](https://corsproxy.io/)
 
 [https://crontab.guru/](https://crontab.guru/)
-
 
 ### Indian Stock Market Links:
 

@@ -4,14 +4,11 @@ import {TwitterTimelineEmbed} from 'react-twitter-embed'
 import Loading from '@site/src/pages/1Loading'
 import HeaderTypeWriter from '@site/src/components/HeaderTypeWriter'
 
-
-
-
 export default () => {
   return (
     <Loading>
       <>
-        <div className='container mx-auto mt-10 dark:text-white  text-center'>
+        <div className='container mx-auto mt-10 text-center  dark:text-white'>
           <HeaderTypeWriter>Twitter Timelines</HeaderTypeWriter>
         </div>
         <div className='container mx-auto mt-10 px-4'>
@@ -33,4 +30,3 @@ export default () => {
 }
 
 const profiles = ['AlgoBoffin', 'vka27', 'CNBCTV18News', 'EconomicTimes', 'Bhagirathsutar', 'Am_Shai']
-

@@ -1,69 +1,63 @@
 <html>
+  <head>
+    <style>
+      body {
+        display: flex;
+        gap: 1rem;
+      }
 
-<head>
-  <style>
-    body {
-      display: flex;
-      gap: 1rem;
-    }
+      .episodes {
+        display: flex;
+        flex-direction: column;
+      }
 
-    .episodes {
-      display: flex;
-      flex-direction: column;
-    }
+      .episode {
+        min-width: max-content;
+        margin-bottom: 0.8rem;
+        padding: 0.8rem 1rem;
+        border-radius: 10px;
+        border: 0;
+        background: #191414;
+        color: #fff;
+        cursor: pointer;
+      }
 
-    .episode {
-      min-width: max-content;
-      margin-bottom: .8rem;
-      padding: .8rem 1rem;
-      border-radius: 10px;
-      border: 0;
-      background: #191414;
-      color: #fff;
-      cursor: pointer;
-    }
+      .episode:hover {
+        background: #1db954;
+      }
+    </style>
+  </head>
 
-    .episode:hover {
-      background: #1Db954;
-    }
+  <body>
+    <div class="episodes">
+      <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">
+        My Path to Spotify: Women in Engineering
+      </button>
+      <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">What is Backstage?</button>
+      <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">
+        Introducing Nerd Out@Spotify
+      </button>
+    </div>
 
-  </style>
-</head>
-
-<body>
-  <div class="episodes">
-    <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">
-      My Path to Spotify: Women in Engineering
-    </button>
-    <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">
-      What is Backstage?
-    </button>
-    <button class="episode" data-spotify-id="spotify:track:7qiZfU4dY1lWllzX7mPBI3">
-      Introducing Nerd Out@Spotify
-    </button>
-  </div>
-
-  <div id="embed-iframe"></div>
-  <script src="https://open.spotify.com/embed-podcast/iframe-api/v1" async>
-  </script>
-  <script type="text/javascript">
-    window.onSpotifyIframeApiReady = (IFrameAPI) => {
-      const element = document.getElementById('embed-iframe');
-      const options = {
-        width: '100%',
-        height: '200',
-        uri: 'spotify:track:7qiZfU4dY1lWllzX7mPBI3'
-      };
-      const callback = (EmbedController) => {
-        document.querySelectorAll('.episode').forEach(
-          episode => {
+    <div id="embed-iframe"></div>
+    <script src="https://open.spotify.com/embed-podcast/iframe-api/v1" async></script>
+    <script type="text/javascript">
+      window.onSpotifyIframeApiReady = (IFrameAPI) => {
+        const element = document.getElementById('embed-iframe')
+        const options = {
+          width: '100%',
+          height: '200',
+          uri: 'spotify:track:7qiZfU4dY1lWllzX7mPBI3',
+        }
+        const callback = (EmbedController) => {
+          document.querySelectorAll('.episode').forEach((episode) => {
             episode.addEventListener('click', () => {
               EmbedController.loadUri(episode.dataset.spotifyId)
-            });
+            })
           })
-      };
-      IFrameAPI.createController(element, options, callback);
-    };
-  </script>
-</body>
+        }
+        IFrameAPI.createController(element, options, callback)
+      }
+    </script>
+  </body>
 </html>

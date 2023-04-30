@@ -23,8 +23,7 @@ function Art() {
           showRotate={true}
         />
       )
-    } catch (error) {
-    }
+    } catch (error) {}
   })
 
   return (

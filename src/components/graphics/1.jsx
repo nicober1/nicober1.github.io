@@ -84,78 +84,56 @@ const SolarSystem1 = () => {
           size={planetSizes.mercury}
           color='white'
           style={{
-            top:
-              orbitSizes.mercury *
-              Math.sin((planetAngles.mercury * Math.PI) / 180),
-            left:
-              orbitSizes.mercury *
-              Math.cos((planetAngles.mercury * Math.PI) / 180),
+            top: orbitSizes.mercury * Math.sin((planetAngles.mercury * Math.PI) / 180),
+            left: orbitSizes.mercury * Math.cos((planetAngles.mercury * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.venus}
           color='orange'
           style={{
-            top:
-              orbitSizes.venus * Math.sin((planetAngles.venus * Math.PI) / 180),
-            left:
-              orbitSizes.venus * Math.cos((planetAngles.venus * Math.PI) / 180),
+            top: orbitSizes.venus * Math.sin((planetAngles.venus * Math.PI) / 180),
+            left: orbitSizes.venus * Math.cos((planetAngles.venus * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.earth}
           color='blue'
           style={{
-            top:
-              orbitSizes.earth * Math.sin((planetAngles.earth * Math.PI) / 180),
-            left:
-              orbitSizes.earth * Math.cos((planetAngles.earth * Math.PI) / 180),
+            top: orbitSizes.earth * Math.sin((planetAngles.earth * Math.PI) / 180),
+            left: orbitSizes.earth * Math.cos((planetAngles.earth * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.mars}
           color='red'
           style={{
-            top:
-              orbitSizes.mars * Math.sin((planetAngles.mars * Math.PI) / 180),
-            left:
-              orbitSizes.mars * Math.cos((planetAngles.mars * Math.PI) / 180),
+            top: orbitSizes.mars * Math.sin((planetAngles.mars * Math.PI) / 180),
+            left: orbitSizes.mars * Math.cos((planetAngles.mars * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.jupiter}
           color='yellow'
           style={{
-            top:
-              orbitSizes.jupiter *
-              Math.sin((planetAngles.jupiter * Math.PI) / 180),
-            left:
-              orbitSizes.jupiter *
-              Math.cos((planetAngles.jupiter * Math.PI) / 180),
+            top: orbitSizes.jupiter * Math.sin((planetAngles.jupiter * Math.PI) / 180),
+            left: orbitSizes.jupiter * Math.cos((planetAngles.jupiter * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.saturn}
           color='purple'
           style={{
-            top:
-              orbitSizes.saturn *
-              Math.sin((planetAngles.saturn * Math.PI) / 180),
-            left:
-              orbitSizes.saturn *
-              Math.cos((planetAngles.saturn * Math.PI) / 180),
+            top: orbitSizes.saturn * Math.sin((planetAngles.saturn * Math.PI) / 180),
+            left: orbitSizes.saturn * Math.cos((planetAngles.saturn * Math.PI) / 180),
           }}
         />
         <Planet
           size={planetSizes.uranus}
           color='violet'
           style={{
-            top:
-              orbitSizes.uranus *
-              Math.sin((planetAngles.uranus * Math.PI) / 180),
-            left:
-              orbitSizes.uranus *
-              Math.cos((planetAngles.uranus * Math.PI) / 180),
+            top: orbitSizes.uranus * Math.sin((planetAngles.uranus * Math.PI) / 180),
+            left: orbitSizes.uranus * Math.cos((planetAngles.uranus * Math.PI) / 180),
           }}
         />
 
@@ -163,12 +141,8 @@ const SolarSystem1 = () => {
           size={planetSizes.neptune}
           color='cyan'
           style={{
-            top:
-              orbitSizes.neptune *
-              Math.sin((planetAngles.neptune * Math.PI) / 180),
-            left:
-              orbitSizes.neptune *
-              Math.cos((planetAngles.neptune * Math.PI) / 180),
+            top: orbitSizes.neptune * Math.sin((planetAngles.neptune * Math.PI) / 180),
+            left: orbitSizes.neptune * Math.cos((planetAngles.neptune * Math.PI) / 180),
           }}
         />
       </Sun>

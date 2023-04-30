@@ -68,7 +68,8 @@ export default function App() {
         {sortData(data).map((item) => (
           <div
             key={item.symbol}
-            className={`${item.change > 0 ? 'bg-green-800' : 'bg-red-800'} mb-5 rounded-md p-4 text-white`}>
+            className={`${item.change > 0 ? 'bg-green-800' : 'bg-red-800'} mb-5 rounded-md p-4 text-white`}
+          >
             <h2 className='mb-2 text-base font-bold'>{item.symbol}</h2>
             <div className='text-xs'>
               <p>{item.meta.companyName}</p>

@@ -13,9 +13,9 @@ function NewsCard({article}) {
     second: 'numeric',
   }
 
-   if (!article || !article.urlToImage) {
-     return null
-   }
+  if (!article || !article.urlToImage) {
+    return null
+  }
 
   return (
     <CardGradientsDark>
@@ -68,7 +68,8 @@ function NewsCard({article}) {
           href={article.url}
           target='_blank'
           rel='noreferrer'
-          className='mt-4 flex items-center gap-2 self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors duration-300 hover:bg-green-600 hover:text-white'>
+          className='mt-4 flex items-center gap-2 self-end rounded-lg bg-white px-4 py-2 text-green-500 shadow-md transition-colors duration-300 hover:bg-green-600 hover:text-white'
+        >
           <span>Read more</span>
           <i className='fas fa-arrow-right'></i>
           <img

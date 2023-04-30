@@ -39,10 +39,12 @@ export default function TailwindCheatsheet() {
                     <code>flex-col</code>: sets the flex direction to column
                   </li>
                   <li>
-                    <code>justify-{`{start|center|end|between|around|evenly}`}</code>: sets the horizontal alignment of flex items
+                    <code>justify-{`{start|center|end|between|around|evenly}`}</code>: sets the horizontal alignment of
+                    flex items
                   </li>
                   <li>
-                    <code>items-{`{start|center|end|stretch|baseline}`}</code>: sets the vertical alignment of flex items
+                    <code>items-{`{start|center|end|stretch|baseline}`}</code>: sets the vertical alignment of flex
+                    items
                   </li>
                 </ul>
               </td>

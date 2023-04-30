@@ -12,10 +12,7 @@ sidebar_label: Regex
 ```bash
 \w*react\w*
 ```
+
 Here's a breakdown of the regular expression:
 
-\w* matches any number of word characters (letters, digits, and underscores) before the string "react".
-react matches the string "react" exactly.
-\w* matches any number of word characters after the string "react".
-
-
+\w* matches any number of word characters (letters, digits, and underscores) before the string "react". react matches the string "react" exactly. \w* matches any number of word characters after the string "react".

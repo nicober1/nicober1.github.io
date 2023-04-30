@@ -1,13 +1,11 @@
 ---
-slug: /ASP.NET_RepositoryPattern
-id: ASP.NET_RepositoryPattern
+slug: /ASP.NET.Core.Web.API.RepositoryPattern
+id: ASP.NET.Core.Web.API.RepositoryPattern
 title: ASP.NET Core Web API – Repository Pattern
 description: ASP.NET Core Web API – Repository Pattern
-keywords: [ASP.NET Core Web API – Repository Pattern,Repository Pattern]
-sidebar_label: ASP.NET Core Web API – Repository Pattern
+keywords: [ASP.NET Core Web API – Repository Pattern, Repository Pattern]
+sidebar_label: ASP.NET Core Web API:Repository Pattern
 ---
-
-
 
 ```csharp
 using Contracts;
@@ -66,7 +64,7 @@ namespace Repository
         {
         }
 
-        public IEnumerable<Client> GetAllClients(bool trackChanges) => 
+        public IEnumerable<Client> GetAllClients(bool trackChanges) =>
             FindAll(trackChanges)
             .ToList();
     }
@@ -218,6 +216,3 @@ namespace CompanyEmployees.Controllers
 builder.Services.ConfigureRepositoryManager();
 
 ```
-
-
-

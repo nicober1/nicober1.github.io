@@ -13,8 +13,6 @@ const News = () => {
     fetchNews()
   }, [])
 
-  
-
   return (
     <Loading time='0'>
       <div className='news container mx-auto my-10'>
@@ -23,7 +21,7 @@ const News = () => {
         </h1>
         <div className='mt-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
           {articles.map((article, index) => (
-            <NewsCard key={index} article={article}  />
+            <NewsCard key={index} article={article} />
           ))}
         </div>
       </div>

@@ -45,13 +45,14 @@ const BookGrid = ({books}) => {
 const PageHeader = ({header}) => {
   return (
     <div
-      className=' p-8 text-center  text-black rounded-2xl'
+      className=' rounded-2xl p-8  text-center text-black'
       style={{
         backgroundImage:
           'url(https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)', // add a background image for the header
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-      }}>
+      }}
+    >
       <h1 className='text-center text-4xl font-bold '>{header}</h1>
     </div>
   )

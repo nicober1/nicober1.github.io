@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from '@docusaurus/Link'
 
-
 const AmazonLayout = () => {
   const affiliateID = 'fluentblogs-21'
 
@@ -31,7 +30,8 @@ const AmazonLayout = () => {
           <a
             key={product.name}
             href={`${product.url}?tag=${affiliateID}`}
-            className='block rounded border p-4 hover:bg-gray-100'>
+            className='block rounded border p-4 hover:bg-gray-100'
+          >
             <img src={product.image} alt={product.name} className='h-auto w-full object-contain' />
             <h2 className='py-2 text-center text-xl font-medium'>{product.name}</h2>
           </a>

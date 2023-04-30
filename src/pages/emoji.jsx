@@ -7,20 +7,21 @@ import classNames from 'classnames'
 function Emoji({emojiId, image, searchTerms = [], shortcuts = []}) {
   return (
     <div
-      className={classNames('bg-cyan-200', 'text-black', 'p-4', 'm-2', 'rounded-lg', 'shadow-lg', 'hover:bg-blue-700')}>
+      className={classNames('bg-cyan-200', 'text-black', 'p-4', 'm-2', 'rounded-lg', 'shadow-lg', 'hover:bg-blue-700')}
+    >
       <div className={classNames('flex', 'flex-col')}>
         <div className={classNames('items-center', 'justify-center')}>
           {image && <img className='w-full rounded-t-lg object-cover' src={image.thumbnails[0]?.url} />}
         </div>
         {searchTerms.length > 0 && (
           <div className='flex'>
-            <span className={classNames('text-xs', 'font-bold')}>Search terms:  </span>
+            <span className={classNames('text-xs', 'font-bold')}>Search terms: </span>
             <span className={classNames('text-xs', 'font-medium')}>{searchTerms.join(', ')}</span>
           </div>
         )}
         {shortcuts.length > 0 && (
           <div className='flex'>
-            <span className={classNames('text-xs', 'font-bold')}>Shortcuts:   </span>
+            <span className={classNames('text-xs', 'font-bold')}>Shortcuts: </span>
             <span className={classNames('text-xs', 'font-medium')}>{shortcuts.join(', ')}</span>
           </div>
         )}
@@ -43,8 +44,8 @@ function App() {
 
   return (
     <Loading time={2000}>
-      <div className='mt-10 container grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-5 gap-4'>
-        <div className='mt-10 col-span-full flex justify-center'>
+      <div className='container mt-10 grid grid-cols-5 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+        <div className='col-span-full mt-10 flex justify-center'>
           <button onClick={() => setPage((page) => page - 1)} disabled={page === 0}>
             Previous
           </button>

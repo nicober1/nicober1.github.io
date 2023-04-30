@@ -20,6 +20,3 @@ export default function Svg3() {
     </svg>
   )
 }
-
-
-

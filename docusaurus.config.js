@@ -143,6 +143,8 @@ const config = {
       },
       items: [
         {to: '/', label: 'Home'},
+        {to: '/docs', label: 'Docs'},
+
         {
           type: 'dropdown',
           label: 'Search',
@@ -296,7 +298,6 @@ const config = {
           ],
         },
         {to: '/blog', label: 'Blogs'},
-        {to: '/docs', label: 'Docs'},
         {
           type: 'dropdown',
           label: 'Others',

@@ -11,6 +11,3 @@ Netflix's success has also led to increased competition in the streaming market,
 However, the company has also faced criticism over the years, particularly around issues of content censorship and its impact on the traditional media industry. Some have argued that Netflix's success has led to the consolidation of power within a few major streaming services, which could have long-term consequences for the media landscape.
 
 Overall, Netflix has transformed the way we consume and interact with media. Its personalized recommendations, affordable pricing, and innovative business model have made it a popular choice for millions of viewers around the world, and its influence on the industry is likely to continue for years to come.
-
-
-

@@ -41,16 +41,13 @@ export default function NobelPrizeWinners() {
         <ul>
           {winners.map((prize, index) => (
             <li key={index} className='mb-4 rounded-lg p-4 shadow-md'>
-              <h2 className='mb-2 text-2xl font-bold uppercase'>
-                {prize.category}
-              </h2>
+              <h2 className='mb-2 text-2xl font-bold uppercase'>{prize.category}</h2>
               <p className='mb-2 text-lg'>Year: {prize.year}</p>
               {prize.laureates && prize.laureates.length > 0 && (
                 <ul>
                   {prize.laureates.map((laureate, index) => (
                     <li key={`${index}-${laureate.id}`} className='mb-2'>
-                      {laureate.firstname} {laureate.surname} -{' '}
-                      {laureate.motivation}
+                      {laureate.firstname} {laureate.surname} - {laureate.motivation}
                     </li>
                   ))}
                 </ul>

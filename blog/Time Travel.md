@@ -13,6 +13,3 @@ One of the main reasons why time travel is thought to be impossible is the conce
 Another reason why time travel is thought to be impossible is the concept of entropy. Entropy is the idea that the universe is always moving towards a state of maximum disorder, or maximum entropy. If time travel were possible, it would be possible to go back in time and reverse the flow of entropy, which would violate the laws of thermodynamics.
 
 Despite these challenges, the concept of time travel continues to capture our imaginations, and scientists are continuing to explore the possibility of time travel through the study of theoretical physics and the laws of the universe. While we may never be able to physically travel through time, the idea of time travel will continue to inspire and captivate us for generations to come.
-
-
-

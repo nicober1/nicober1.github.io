@@ -7,7 +7,8 @@ const BusinessTicker = () => {
     <div className='relative h-[20rem] w-full overflow-x-auto overflow-y-hidden'>
       <div
         className='absolute left-0 top-0 flex h-[20rem] w-auto'
-        style={{animation: `slide ${data.articles.length * 2}s linear infinite`}}>
+        style={{animation: `slide ${data.articles.length * 2}s linear infinite`}}
+      >
         {data.articles
           .filter((article) => article.urlToImage !== null)
           .map((article, index) => {

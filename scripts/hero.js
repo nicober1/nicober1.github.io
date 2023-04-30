@@ -1,11 +1,9 @@
-
-
 // Require the axios and fs modules
-const axios = require('axios');
-const fs = require('fs');
+const axios = require('axios')
+const fs = require('fs')
 
 // Define an empty array to store the responses
-let jsonArray = [];
+let jsonArray = []
 
 // Define a function to make the API call for a given id
 function makeApiCall(id) {
@@ -13,14 +11,15 @@ function makeApiCall(id) {
   let url = 'https://superheroapi.com/api/5974926192594158/' + id
 
   // Make a GET request to the URL using axios
-  axios.get(url)
+  axios
+    .get(url)
     .then((res) => {
       // If the request is successful, push the response data to the array
-      jsonArray.push(res.data);
+      jsonArray.push(res.data)
 
       // If the id is less than 3000, make another API call with the next id
       if (id < 750) {
-        makeApiCall(id + 1);
+        makeApiCall(id + 1)
       } else {
         // Otherwise, write the JSON array to a file using fs
         fs.writeFile('./static/data/hero1.json', JSON.stringify(jsonArray), (err) => {
@@ -36,9 +35,9 @@ function makeApiCall(id) {
     })
     .catch((err) => {
       // If the request fails, log the error message
-      console.error(err.message);
-    });
+      console.error(err.message)
+    })
 }
 
 // Start the API call with id = 1
-makeApiCall(1);
+makeApiCall(1)

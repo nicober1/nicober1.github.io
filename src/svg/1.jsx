@@ -10,15 +10,26 @@ export default function Svg1() {
       <image x='350' y='250' width='100' height='100' href='https://source.unsplash.com/random/1920x1080?sun' />
       <use xlinkHref='#orbit' />
       <image x='-50' y='-50' width='100' height='100' href='https://source.unsplash.com/random/1920x1080?earth'>
-        <animateTransform attributeName='transform' type='rotate' from='-90 400 300' to='-450 400 300' dur='10s' repeatCount='indefinite' />
+        <animateTransform
+          attributeName='transform'
+          type='rotate'
+          from='-90 400 300'
+          to='-450 400 300'
+          dur='10s'
+          repeatCount='indefinite'
+        />
       </image>
       <use xlinkHref='#orbit' />
       <image x='-50' y='-50' width='100' height='100' href='https://source.unsplash.com/random/1920x1080?mars'>
-        <animateTransform attributeName='transform' type='rotate' from='-90 400 300' to='-450 400 300' dur='15s' repeatCount='indefinite' />
+        <animateTransform
+          attributeName='transform'
+          type='rotate'
+          from='-90 400 300'
+          to='-450 400 300'
+          dur='15s'
+          repeatCount='indefinite'
+        />
       </image>
     </svg>
   )
 }
-
-
-

@@ -13,18 +13,8 @@ export default function Svg2() {
           calcMode='spline'
           keySplines='0.4 0 0.2 1; 0.4 0 0.2 1'
         />
-        <animate
-          attributeName='opacity'
-          from='1'
-          to='0'
-          dur='1s'
-          repeatCount='indefinite'
-          begin='0s'
-        />
+        <animate attributeName='opacity' from='1' to='0' dur='1s' repeatCount='indefinite' begin='0s' />
       </circle>
     </svg>
   )
 }
-
-
-

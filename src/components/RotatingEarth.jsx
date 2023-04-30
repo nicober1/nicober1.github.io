@@ -21,11 +21,11 @@ function Earth() {
 
 function RotatingEarth() {
   return (
-      <Canvas>
-        <ambientLight intensity={0.9} />
-        <pointLight position={[10, 10, 10]} />
-        <Earth position={[0, 0, 0]} />
-      </Canvas>
+    <Canvas>
+      <ambientLight intensity={0.9} />
+      <pointLight position={[10, 10, 10]} />
+      <Earth position={[0, 0, 0]} />
+    </Canvas>
   )
 }
 

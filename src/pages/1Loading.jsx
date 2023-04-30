@@ -5,7 +5,6 @@ import Layout from '@theme/Layout'
 import DonateButton from '@site/src/components/DonateButton'
 import RotatingEarth from '@site/src/components/RotatingEarth'
 
-
 const Loading = ({children, time = 8000}) => {
   const [loading, setLoading] = useState(true)
 
@@ -26,9 +25,9 @@ const Loading = ({children, time = 8000}) => {
       <div>
         <div className={`flex h-screen flex-col items-center justify-center  bg-black ${loading ? '' : 'hidden'}`}>
           <p className='mt-5 text-3xl text-white'>Enjoy view of Earth while we load your content...</p>
-          <RotatingEarth  />
+          <RotatingEarth />
         </div>
-        <div className='mt-10 mx-auto my-auto container'>
+        <div className='container mx-auto my-auto mt-10'>
           <div className={`${loading ? 'hidden' : ''}`}>{children}</div>
         </div>
       </div>

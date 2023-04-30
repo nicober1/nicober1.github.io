@@ -27,6 +27,3 @@ Calculus is another important branch of mathematics that is used to study change
 Probability and statistics are also important areas of mathematics that are used to study randomness and uncertainty. Probability is used to calculate the likelihood of an event occurring, while statistics is used to analyze data and make predictions based on that data.
 
 In conclusion, mathematics is a fascinating subject that has played a crucial role in our understanding of the world around us. From geometry and calculus to probability and statistics, math is an essential tool for exploring and solving complex problems. Whether you are a student, a scientist, or just someone who is interested in the world around you, there is no doubt that mathematics has something to offer everyone.
-
-
-

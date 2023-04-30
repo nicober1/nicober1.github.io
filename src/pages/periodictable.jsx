@@ -25,24 +25,21 @@ export default function () {
             <div
               key={element.symbol}
               className='flex flex-col items-center rounded-lg  p-4 text-black shadow-md '
-              style={{backgroundColor: `#${element.cpkHexColor}`}}>
+              style={{backgroundColor: `#${element.cpkHexColor}`}}
+            >
               <h1 className='text-2xl'>{element.symbol}</h1>
               <h2 className='my-2 text-lg font-bold'>{element.name}</h2>
               <p>
-                Atomic Number:{' '}
-                <span className='font-bold'>{element.atomicNumber}</span>
+                Atomic Number: <span className='font-bold'>{element.atomicNumber}</span>
               </p>
               <p>
-                Atomic Mass:{' '}
-                <span className='font-bold'>{element.atomicMass}</span>
+                Atomic Mass: <span className='font-bold'>{element.atomicMass}</span>
               </p>
               <p>
-                Melting Point:{' '}
-                <span className='font-bold'>{element.meltingPoint}</span>
+                Melting Point: <span className='font-bold'>{element.meltingPoint}</span>
               </p>
               <p>
-                Boiling Point:{' '}
-                <span className='font-bold'>{element.boilingPoint}</span>
+                Boiling Point: <span className='font-bold'>{element.boilingPoint}</span>
               </p>
             </div>
           ))}

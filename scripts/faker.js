@@ -3,12 +3,7 @@ const fs = require('fs')
 
 const numKeywords = 100
 
-const keywords = Array.from(
-  {length: numKeywords},
-  () => faker.word.adjective() + ' ' + faker.word.noun(),
-)
-
-
+const keywords = Array.from({length: numKeywords}, () => faker.word.adjective() + ' ' + faker.word.noun())
 
 fs.writeFile('./static/data/temp/keywords.txt', keywords.join(','), (err) => {
   if (err) {

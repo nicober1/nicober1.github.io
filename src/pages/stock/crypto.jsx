@@ -22,11 +22,11 @@ const TradingViewWidget = ({vari}) => {
 }
 
 const App = () => {
-  const varies = ['overview','performance','oscillators','moving_averages']
+  const varies = ['overview', 'performance', 'oscillators', 'moving_averages']
 
   return (
     <Loading time={2000}>
-      <div className='grid gap-5 grid-cols-1'>
+      <div className='grid grid-cols-1 gap-5'>
         {varies.map((vari) => (
           <TradingViewWidget key={vari} vari={vari} />
         ))}

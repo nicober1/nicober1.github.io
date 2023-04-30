@@ -28,7 +28,8 @@
     "zkeyw": "node scripts/faker",
     "znews": "node scripts/news",
     "znse": "node scripts/nse",
-    "zytid": "node scripts/ytIdlist"
+    "zytid": "node scripts/ytIdlist",
+    "prettier": "prettier --write ."
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.0",

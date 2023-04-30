@@ -14,11 +14,7 @@ export default function GalleryPage() {
         <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
           {images.map(({thumbnailUrl}, index) => (
             <div key={index} className='thumbnail-wrapper'>
-              <img
-                src={thumbnailUrl}
-                className='h-full w-full rounded-lg object-cover shadow-md'
-                alt='Thumbnail'
-              />
+              <img src={thumbnailUrl} className='h-full w-full rounded-lg object-cover shadow-md' alt='Thumbnail' />
             </div>
           ))}
         </div>

@@ -1,7 +1,6 @@
 import React, {useEffect, useRef} from 'react'
 import Layout from '@theme/Layout'
 
-
 const Canvas = () => {
   const canvasRef = useRef(null)
 
@@ -72,14 +71,13 @@ const Canvas = () => {
     }
   }, [])
 
-//   return <canvas ref={canvasRef} />
+  //   return <canvas ref={canvasRef} />
 
-   return (
-     <Layout noFooter>
-       <canvas ref={canvasRef} />
-     </Layout>
-   )
-  
+  return (
+    <Layout noFooter>
+      <canvas ref={canvasRef} />
+    </Layout>
+  )
 }
 
 export default Canvas

@@ -80,14 +80,7 @@ const ParticleApp = () => {
                 },
               },
               shape: {
-                type: [
-                  'circle',
-                  'square',
-                  'triangle',
-                  'polygon',
-                  'character',
-                  'image',
-                ],
+                type: ['circle', 'square', 'triangle', 'polygon', 'character', 'image'],
                 options: {
                   polygon: [
                     {

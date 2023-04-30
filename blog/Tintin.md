@@ -11,6 +11,3 @@ Despite its popularity, Tintin has also been the subject of controversy over the
 Despite these criticisms, Tintin remains a beloved character and an important part of Belgian culture. His adventures continue to inspire readers around the world, and his message of morality and courage remains as relevant today as it was when he first appeared in the pages of Le Vingtième Siècle more than 90 years ago.
 
 In conclusion, Tintin is a cultural icon and a beloved comic book character who has captured the hearts and imaginations of readers around the world. His adventures are not only entertaining but also educational, providing readers with a window into the history and culture of the places he visits. While some have criticized the comics for promoting colonialism and racism, Tintin remains an important part of Belgian culture and a role model for young readers.
-
-
-

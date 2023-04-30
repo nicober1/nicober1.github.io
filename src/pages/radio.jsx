@@ -50,7 +50,8 @@ const RadioItem = ({radio}) => {
       key={stationuuid}
       className={`card rounded-lg border   
       ${playing && 'bg-gradient-to-br from-yellow-600 via-red-600 to-pink-600'} 
-        relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}>
+        relative px-4 py-2 text-white shadow-lg transition-shadow hover:shadow-xl sm:px-6 sm:py-4 md:p-4`}
+    >
       <div className='text-medium max-w-xs truncate font-bold sm:max-w-none sm:truncate'>{name}</div>
       <div className='text-sm'>{country.substr(0, 36)}</div>
       <div className='text-sm uppercase'>{language.substr(0, 36)}</div>
@@ -60,7 +61,8 @@ const RadioItem = ({radio}) => {
           onClick={togglePlay}
           className={`rounded-full bg-white p-2 font-bold uppercase text-black shadow-lg transition-shadow hover:shadow-xl ${
             playing ? 'animate-pulse' : ''
-          }`}>
+          }`}
+        >
           {playing ? 'Pause' : 'Play'}
         </button>
         {bitrate !== 0 && (
@@ -82,7 +84,8 @@ const RadioItem = ({radio}) => {
           {name}
           <button
             onClick={closeOverlay}
-            className='absolute right-2 top-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'>
+            className='absolute right-2 top-2 rounded-full bg-white p-2 text-black shadow-lg transition-shadow hover:shadow-xl'
+          >
             X
           </button>
         </div>

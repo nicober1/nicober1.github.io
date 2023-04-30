@@ -14,7 +14,7 @@ function Art() {
   const imageElements = images.map((image) => {
     const loc = `/img/gallery/art/${image}`
     try {
-       require(`/img/gallery/art/${image}`)
+      require(`/img/gallery/art/${image}`)
       return (
         <ImageModal
           className='hover:scale-150'
@@ -23,8 +23,7 @@ function Art() {
           showRotate={true}
         />
       )
-    } catch (error) {
-    }
+    } catch (error) {}
   })
 
   return (

@@ -38,7 +38,13 @@ export default function App() {
     <div className='container mx-auto p-4'>
       <h1 className='mb-8 text-4xl font-bold'>Synonym and Antonym Finder</h1>
       <form onSubmit={handleSubmit} className='mb-8 flex items-center'>
-        <input type='text' value={word} onChange={handleChange} placeholder='Enter a word' className='mr-4 rounded border p-2' />
+        <input
+          type='text'
+          value={word}
+          onChange={handleChange}
+          placeholder='Enter a word'
+          className='mr-4 rounded border p-2'
+        />
         <button type='submit' className='rounded bg-blue-500 p-2 text-white'>
           Search
         </button>
@@ -68,4 +74,3 @@ export default function App() {
     </div>
   )
 }
-

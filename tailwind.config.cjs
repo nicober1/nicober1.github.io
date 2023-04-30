@@ -1,4 +1,4 @@
-const { fontFamily } = require('tailwindcss/defaultTheme')
+const {fontFamily} = require('tailwindcss/defaultTheme')
 
 module.exports = {
   corePlugins: {
@@ -23,14 +23,12 @@ module.exports = {
       },
       colors: {
         primary: {
-          DEFAULT:
-            'rgb(var(--docs-color-primary-200, 33 96 253) / <alpha-value>)',
+          DEFAULT: 'rgb(var(--docs-color-primary-200, 33 96 253) / <alpha-value>)',
           100: 'rgb(var(--docs-color-primary-100, 26 144 255) / <alpha-value>)',
           200: 'rgb(var(--docs-color-primary-200, 33 96 253) / <alpha-value>)',
         },
         secondary: {
-          DEFAULT:
-            'rgb(var(--docs-color-secondary-1000, 0 0 0) / <alpha-value>)',
+          DEFAULT: 'rgb(var(--docs-color-secondary-1000, 0 0 0) / <alpha-value>)',
           1000: 'rgb(var(--docs-color-secondary-1000, 0 0 0) / <alpha-value>)',
           900: 'rgb(var(--docs-color-secondary-900, 25 25 25) / <alpha-value>)',
           800: 'rgb(var(--docs-color-secondary-800, 38 38 38) / <alpha-value>)',

@@ -39,8 +39,9 @@ export default function Home() {
           onChange={(e) => setLimit(parseInt(e.target.value))}
         />
         <button
-          className='rounded bg-blue-500 py-2 px-4 font-bold text-white hover:bg-blue-700'
-          onClick={generatePrimes}>
+          className='rounded bg-blue-500 px-4 py-2 font-bold text-white hover:bg-blue-700'
+          onClick={generatePrimes}
+        >
           Generate
         </button>
       </div>
@@ -50,10 +51,9 @@ export default function Home() {
             <div
               key={color}
               className='overflow-hidden rounded-full text-center'
-              style={{backgroundColor: 'purple', padding: '15px'}}>
-              <h3 className='mx-auto my-auto text-xl font-bold uppercase text-white'>
-                {color}
-              </h3>
+              style={{backgroundColor: 'purple', padding: '15px'}}
+            >
+              <h3 className='mx-auto my-auto text-xl font-bold uppercase text-white'>{color}</h3>
             </div>
           )
         })}

@@ -4,7 +4,6 @@ import SolarSystem1 from '@site/src/components/graphics/1'
 import SolarSystem2 from '@site/src/components/graphics/2'
 import ThreeScene from '@site/src/components/graphics/3'
 
-
 export default function Home() {
   return (
     <Layout noFooter wrapperClassName='live-page'>
@@ -18,7 +17,6 @@ export default function Home() {
         <div class='basis-1/2 border-solid dark:border-white'>
           <ThreeScene />
         </div>
-        
       </div>
     </Layout>
   )

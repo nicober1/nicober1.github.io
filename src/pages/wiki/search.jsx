@@ -5,7 +5,8 @@ function WikiCard({result, onSelect}) {
   return (
     <div
       className='transform cursor-pointer rounded-md bg-white p-4 shadow-md transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-lg'
-      onClick={() => onSelect(result)}>
+      onClick={() => onSelect(result)}
+    >
       <h4 className='mb-2 text-lg font-medium text-black'>{result.title}</h4>
       {result.thumbnail && (
         <img
@@ -24,7 +25,7 @@ function WikiCard({result, onSelect}) {
 
 function WikiList({results, onSelect}) {
   return (
-    <div className='wiki-list grid grid-cols-2 gap-4 sm:grid-cols-2 mt-10'>
+    <div className='wiki-list mt-10 grid grid-cols-2 gap-4 sm:grid-cols-2'>
       {results.map((result) => (
         <WikiCard key={result.pageid} result={result} onSelect={onSelect} />
       ))}
@@ -112,7 +113,7 @@ export default function Encyclopedia() {
             value={query}
             onChange={handleChange}
             placeholder='Type here to search on Wikipedia'
-            className={`w-full rounded-md border border-white p-2 dark:placeholder-white placeholder-black`}
+            className={`w-full rounded-md border border-white p-2 placeholder-black dark:placeholder-white`}
           />
           {results.length > 0 && <WikiList results={results} onSelect={setPage} />}
         </div>

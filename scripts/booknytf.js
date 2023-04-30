@@ -29,9 +29,7 @@ const getBestsellerBooks = async () => {
     const seenTitles = new Set() // use a Set to store seen titles
     for (let i = 0; i < l; i++) {
       let formattedWeek = currentDate.toISOString().slice(0, 10) // change variable name
-      const response = await api.get(
-        `/${formattedWeek}/${LIST_NAME}.json?api-key=${NYT_API_KEY}`,
-      )
+      const response = await api.get(`/${formattedWeek}/${LIST_NAME}.json?api-key=${NYT_API_KEY}`)
       const books = response.data.results.books
       // use array methods instead of for loop
       const filteredBooks = books
@@ -40,9 +38,9 @@ const getBestsellerBooks = async () => {
           const bookTitle = book.title ?? '' // use nullish coalescing operator
           const bookAuthor = book.author ?? '' // use nullish coalescing operator
           const bookImage = book.book_image ?? '' // use nullish coalescing operator
-          const bookPublisher = book.publisher ?? '' 
-          const weeksOnList = book.weeks_on_list ?? '' 
-          const description = book.description ?? '' 
+          const bookPublisher = book.publisher ?? ''
+          const weeksOnList = book.weeks_on_list ?? ''
+          const description = book.description ?? ''
           let amazonLink = book.amazon_product_url // use let instead of const
           if (amazonLink) {
             amazonLink = amazonLink.replace(/tag=[^&]+/, `tag=${AMAZON_ASSOCIATE_TAG}`)

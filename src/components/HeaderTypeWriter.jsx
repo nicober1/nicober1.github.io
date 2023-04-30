@@ -15,9 +15,9 @@ export default function TypewriterHeader({children}) {
 
   return (
     <div className='flex justify-center'>
-      <h1 className='text-3xl w-[35rem] h-[5rem] text-center font-bold from-purple-600 via-pink-600 to-yellow-600 bg-gradient-to-r  text-transparent  bg-clip-text '>
+      <h1 className='h-[5rem] w-[35rem] bg-gradient-to-r from-purple-600 via-pink-600 to-yellow-600 bg-clip-text text-center text-3xl  font-bold  text-transparent '>
         {text}
-        <span className='text-cyan-500 animate-pulse'>__</span>
+        <span className='animate-pulse text-cyan-500'>__</span>
       </h1>
     </div>
   )

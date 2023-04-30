@@ -2,8 +2,6 @@
 keywords: [HangFire]
 ---
 
-
-
 ```csharp
 Install-Package Hangfire.Core
 Install-Package Hangfire.AspNetCore
@@ -45,6 +43,3 @@ public void Configure(IApplicationBuilder app)
         }
     }
 ```
-
-
-

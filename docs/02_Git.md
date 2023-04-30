@@ -29,7 +29,7 @@ git push -u origin feature-branch
 git fetch origin
 git checkout <local_branch_name>
 git merge origin/main
-esc/:wq 
+esc/:wq
 git push
 git push origin <local_branch_name>
 ```

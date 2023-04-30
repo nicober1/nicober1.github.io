@@ -1,7 +1,6 @@
 import React from 'react'
 import Layout from '@theme/Layout'
 
-
 const videos = [
   {id: 'gCNeDWCI0vo', title: 'Al Jazeera'},
   {id: 'h3MuIUNCCzI', title: 'France 24'},
@@ -25,7 +24,8 @@ const YouTubePlayer = ({videos}) => {
             title={video.title}
             frameborder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
-            allowFullScreen></iframe>
+            allowFullScreen
+          ></iframe>
           <h2 className='text-center text-lg font-medium'>{video.title}</h2>
         </div>
       ))}

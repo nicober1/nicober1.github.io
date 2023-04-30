@@ -17,6 +17,3 @@ export default function Svg4() {
     </svg>
   )
 }
-
-
-

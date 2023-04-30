@@ -25,6 +25,3 @@ Like any major awards ceremony, the Oscars have not been without their controver
 There have also been controversies over individual winners and nominees, with some people questioning the validity of certain awards or nominations. Some winners have been accused of buying their way to victory, while others have been accused of receiving preferential treatment from the Academy.
 
 Despite these controversies, the Oscars remain one of the most prestigious and influential awards ceremonies in the entertainment industry. Winning an Oscar is still seen as the pinnacle of achievement for many actors, directors, and writers, and the ceremony itself remains a highlight of the awards season. Whether you love or hate the Oscars, there's no denying their impact on the world of film and popular culture.
-
-
-

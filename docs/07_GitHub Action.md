@@ -7,7 +7,6 @@ keywords: [GitHub Action]
 sidebar_label: GitHub Action
 ---
 
-
 ### Workflow to Deploy Website built using Docusaurus-React
 
 ```yml showLineNumbers title="deploy.yml"
@@ -57,7 +56,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-
-
 ```
-

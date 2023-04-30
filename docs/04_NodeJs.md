@@ -20,7 +20,7 @@ npm ls --depth=0
 npm list react
 npm list -g
 npm list -g --depth=0
-npm -g uninstall <name> 
+npm -g uninstall <name>
 npm outdated -g --depth=0
 npm update --not react*
 npm update lodash axios
@@ -32,8 +32,8 @@ npm ddp
 npm install --prefer-offline --no-audit
 ```
 
-
 ### npm-check-updates
+
 ```bash
 npm install -g npm-check-updates
 npx npm-check-updates
@@ -42,6 +42,7 @@ ncu -g
 ncu -f mocha
 ncu react-*
 ```
+
 ```jsx {2} showLineNumbers title=".ncurc.js"
 module.exports = {
   reject: '/w*reactw*/',
