@@ -215,4 +215,116 @@ namespace CompanyEmployees.Controllers
 
 builder.Services.ConfigureRepositoryManager();
 
+//
+
+using AutoMapper;
+using Contracts;
+using Entities.ConfigurationModels;
+using Entities.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
+using Service.Contracts;
+
+namespace Service;
+
+public sealed class ServiceManager : IServiceManager
+{
+	private readonly Lazy<ICompanyService> _companyService;
+	private readonly Lazy<IEmployeeService> _employeeService;
+	private readonly Lazy<IAuthenticationService> _authenticationService;
+
+	public ServiceManager(IRepositoryManager repositoryManager,
+		ILoggerManager logger,
+		IMapper mapper, IEmployeeLinks employeeLinks,
+		UserManager<User> userManager,
+		IOptions<JwtConfiguration> configuration)
+	{
+		_companyService = new Lazy<ICompanyService>(() =>
+			new CompanyService(repositoryManager, logger, mapper));
+		_employeeService = new Lazy<IEmployeeService>(() =>
+			new EmployeeService(repositoryManager, logger, mapper, employeeLinks));
+		_authenticationService = new Lazy<IAuthenticationService>(() =>
+			new AuthenticationService(logger, mapper, userManager, configuration));
+	}
+
+	public ICompanyService CompanyService => _companyService.Value;
+	public IEmployeeService EmployeeService => _employeeService.Value;
+	public IAuthenticationService AuthenticationService => _authenticationService.Value;
+}
+
+//
+
+public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+		services.AddScoped<IRepositoryManager, RepositoryManager>();
+
+	public static void ConfigureServiceManager(this IServiceCollection services) =>
+		services.AddScoped<IServiceManager, ServiceManager>();
+
+
+//
+
+
+using Contracts;
+
+namespace Repository;
+
+public sealed class RepositoryManager : IRepositoryManager
+{
+	private readonly RepositoryContext _repositoryContext;
+	private readonly Lazy<ICompanyRepository> _companyRepository;
+	private readonly Lazy<IEmployeeRepository> _employeeRepository;
+
+	public RepositoryManager(RepositoryContext repositoryContext)
+	{
+		_repositoryContext = repositoryContext;
+		_companyRepository = new Lazy<ICompanyRepository>(() => new CompanyRepository(repositoryContext));
+		_employeeRepository = new Lazy<IEmployeeRepository>(() => new EmployeeRepository(repositoryContext));
+	}
+
+	public ICompanyRepository Company => _companyRepository.Value;
+	public IEmployeeRepository Employee => _employeeRepository.Value;
+
+	public async Task SaveAsync() => await _repositoryContext.SaveChangesAsync();
+}
+
+
+//
+
+
+using Contracts;
+using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
+
+namespace Repository;
+
+public class RepositoryBase<T> : IRepositoryBase<T> where T : class
+{
+	protected RepositoryContext RepositoryContext;
+
+	public RepositoryBase(RepositoryContext repositoryContext)
+		=> RepositoryContext = repositoryContext;
+
+	public IQueryable<T> FindAll(bool trackChanges) =>
+		!trackChanges ?
+		  RepositoryContext.Set<T>()
+			.AsNoTracking() :
+		  RepositoryContext.Set<T>();
+
+	public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression,
+	bool trackChanges) =>
+		!trackChanges ?
+		  RepositoryContext.Set<T>()
+			.Where(expression)
+			.AsNoTracking() :
+		  RepositoryContext.Set<T>()
+			.Where(expression);
+
+	public void Create(T entity) => RepositoryContext.Set<T>().Add(entity);
+
+	public void Update(T entity) => RepositoryContext.Set<T>().Update(entity);
+
+	public void Delete(T entity) => RepositoryContext.Set<T>().Remove(entity);
+}
+
+
 ```

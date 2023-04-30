@@ -5,14 +5,17 @@ keywords: [ASP.NET.Core.Web.API.Startup]
 ```csharp
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddControllers()
+builder.Services.AddControllers();
 builder.Services.AddTransient<ProblemDetailsFactory, SampleProblemDetailsFactory>();
-.ConfigureApiBehaviorOptions(options =>
-    {
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+	options.SuppressModelStateInvalidFilter = true;
         options.SuppressMapClientErrors = true;
-        options.ClientErrorMapping[StatusCodes.Status404NotFound].Link =
+         options.ClientErrorMapping[StatusCodes.Status404NotFound].Link =
             "https://httpstatuses.com/404";
-    });
+
+});
+
 builder.Services.AddProblemDetails(options =>
         options.CustomizeProblemDetails = (context) =>
         {
@@ -111,10 +114,14 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 app.UseAuthorization();
+app.AddAuthentication();
 
 app.MapControllers();
 
-
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+	ForwardedHeaders = ForwardedHeaders.All
+});
 
 
 app.Run();
