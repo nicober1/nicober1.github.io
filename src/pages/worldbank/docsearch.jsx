@@ -2,21 +2,24 @@ import React, {useState} from 'react'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import Layout from '@theme/Layout'
 import HeaderTypeWriter from '@site/src/components/HeaderTypeWriter'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faSpinner} from '@fortawesome/free-solid-svg-icons'
 
 function WorldBankSearch() {
   const [searchTerm, setSearchTerm] = useState('')
   const [searchResults, setSearchResults] = useState(null)
+  const [isLoading, setIsLoading] = useState(false)
 
   const handleSearch = () => {
+    setIsLoading(true)
     const url =
       'https://corsproxy.io/?' +
-      encodeURIComponent(
-        `https://cors-anywhere.herokuapp.com/https://search.worldbank.org/api/v2/wds?format=json&qterm=${searchTerm}`,
-      )
+      encodeURIComponent(`https://search.worldbank.org/api/v2/wds?format=json&qterm=${searchTerm}`)
     fetch(url)
       .then((response) => response.json())
       .then((data) => {
         setSearchResults(data)
+        setIsLoading(false)
       })
   }
 
@@ -42,27 +45,33 @@ function WorldBankSearch() {
             Search
           </button>
         </div>
-        {searchResults && (
+        {isLoading ? (
+          <div className='mt-4 flex justify-center'>
+            <FontAwesomeIcon icon={faSpinner} spin size='3x' />
+          </div>
+        ) : searchResults ? (
           <div>
             <p className='mt-4'>Showing {searchResults.total} results:</p>
             <div className='mt-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
               {Object.values(searchResults.documents).map((document) => (
-                <div className='card rounded border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'>
+                <div
+                  key={document.id}
+                  className='card rounded border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'>
                   <h3 className='card-title text-lg font-bold'>{document.display_title}</h3>
-                  <a href={document.url} className='card-text text-sm '>
-                    DOC URL
+                  <a href={document.url} target='_blank' rel='noopener noreferrer' className='card-link'>
+                    View DOC
                   </a>
-                  <a href={document.pdfurl} className='card-text text-sm '>
-                    PDF URL
+                  <a href={document.pdfurl} target='_blank' rel='noopener noreferrer' className='card-link'>
+                    View PDF
                   </a>
-                  <a href={document.txturl} className='card-text text-sm '>
-                    TXT URL
+                  <a href={document.txturl} target='_blank' rel='noopener noreferrer' className='card-link'>
+                    View TXT
                   </a>
                 </div>
               ))}
             </div>
           </div>
-        )}
+        ) : null}
       </div>
     </Layout>
   )
