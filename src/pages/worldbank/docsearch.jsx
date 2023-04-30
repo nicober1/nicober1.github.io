@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import useBaseUrl from '@docusaurus/useBaseUrl'
 import Layout from '@theme/Layout'
 import HeaderTypeWriter from '@site/src/components/HeaderTypeWriter'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
@@ -14,7 +13,9 @@ function WorldBankSearch() {
     setIsLoading(true)
     const url =
       'https://corsproxy.io/?' +
-      encodeURIComponent(`https://search.worldbank.org/api/v2/wds?format=json&qterm=${searchTerm}`)
+      encodeURIComponent(
+        `https://search.worldbank.org/api/v2/wds?format=json&qterm=${searchTerm}&sort=docdt&order=desc&rows=100`,
+      )
     fetch(url)
       .then((response) => response.json())
       .then((data) => {
@@ -51,24 +52,26 @@ function WorldBankSearch() {
           </div>
         ) : searchResults ? (
           <div>
-            <p className='mt-4'>Showing {searchResults.total} results:</p>
             <div className='mt-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
-              {Object.values(searchResults.documents).map((document) => (
-                <div
-                  key={document.id}
-                  className='card rounded border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'>
-                  <h3 className='card-title text-lg font-bold'>{document.display_title}</h3>
-                  <a href={document.url} target='_blank' rel='noopener noreferrer' className='card-link'>
-                    View DOC
-                  </a>
-                  <a href={document.pdfurl} target='_blank' rel='noopener noreferrer' className='card-link'>
-                    View PDF
-                  </a>
-                  <a href={document.txturl} target='_blank' rel='noopener noreferrer' className='card-link'>
-                    View TXT
-                  </a>
-                </div>
-              ))}
+              {Object.values(searchResults.documents)
+                .sort((a, b) => new Date(b.docdt) - new Date(a.docdt))
+                .map((document) => (
+                  <div
+                    key={document.id}
+                    className='card rounded-lg border border-gray-300 p-4 shadow transition duration-300 hover:shadow-lg'>
+                    <h3 className='card-title text-lg font-bold'>{document.display_title}</h3>
+                    <h6 className='card-title text-lg font-bold'>{new Date(document.docdt).toLocaleDateString()}</h6>
+                    <a href={document.url} target='_blank' rel='noopener noreferrer' className='card-link'>
+                      View DOC
+                    </a>
+                    <a href={document.pdfurl} target='_blank' rel='noopener noreferrer' className='card-link'>
+                      View PDF
+                    </a>
+                    <a href={document.txturl} target='_blank' rel='noopener noreferrer' className='card-link'>
+                      View TXT
+                    </a>
+                  </div>
+                ))}
             </div>
           </div>
         ) : null}
