@@ -94,6 +94,9 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = string.Empty;
     //relative path in wwwroot
     c.InjectStylesheet("/swagger-ui/custom.css");
+    c.EnablePersistAuthorization();
+    c.EnableTryItOutByDefault();
+     c.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
 });
 
 app.UseHttpsRedirection();

@@ -9,7 +9,7 @@ sidebar_label: GitHub Action
 
 ### Workflow to Deploy Website built using Docusaurus-React
 
-```yml showLineNumbers title="deploy.yml"
+```yml
 name: Deploy FluentBlogs.com
 
 on:
@@ -56,4 +56,36 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+```
+
+### Workflow to Build and Push Nuget Package
+
+```yml
+name: Nuget Publish
+
+on:
+  push:
+    branches: ['master']
+  pull_request:
+    branches: ['master']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: 6.0.x
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Build
+        run: dotnet build
+      - name: Test
+        run: dotnet test --no-build --verbosity normal
+      - name: Push to NuGet
+        run: dotnet nuget push "/home/runner/work/Reusable.Methods.NET/Reusable.Methods.NET/Reusable.Methods.NET/bin/Debug/*.nupkg" ${{secrets.nuget_api_key}}
 ```
