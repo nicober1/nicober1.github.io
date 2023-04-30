@@ -35,4 +35,27 @@ var httpResponseMessage = await httpClient.SendAsync(httpRequestMessage);
 
   var httpClient = _httpClientFactory.CreateClient("GitHub");
 
+  //
+
+  [HttpPost]
+[ProducesResponseType(StatusCodes.Status201Created)]
+[ProducesResponseType(StatusCodes.Status400BadRequest)]
+[Produces("application/json")]
+public async Task<IActionResult> Create(TodoItem item)
+
+
+//
+
+
+public class TodoItem
+{
+    public long Id { get; set; }
+
+    [Required]
+    public string Name { get; set; } = null!;
+
+    [DefaultValue(false)]
+    public bool IsComplete { get; set; }
+}
+
 ```
