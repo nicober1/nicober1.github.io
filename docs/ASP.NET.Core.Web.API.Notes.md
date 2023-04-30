@@ -58,4 +58,24 @@ public class TodoItem
     public bool IsComplete { get; set; }
 }
 
+
+//
+
+
+    [HttpGet("{Numerator}/{Denominator}")]
+    public IActionResult Divide(double Numerator, double Denominator)
+    {
+        if (Denominator == 0)
+        {
+            var errorType = new MathErrorFeature
+            {
+                MathError = MathErrorType.DivisionByZeroError
+            };
+            HttpContext.Features.Set(errorType);
+            return BadRequest();
+        }
+
+        return Ok(Numerator / Denominator);
+    }
+
 ```
