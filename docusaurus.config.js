@@ -95,6 +95,8 @@ const config = {
       {
         docs: {
           routeBasePath: '/docs',
+          sidebarPath: require.resolve('./sidebar.js'),
+          breadcrumbs: true,
         },
         blog: {
           routeBasePath: '/blog',
@@ -124,7 +126,12 @@ const config = {
   ],
   stylesheets: [],
   themeConfig: {
-    ssr: true,
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     defaultMode: 'dark',
     disableSwitch: false,
     respectPrefersColorScheme: false,
@@ -326,4 +333,5 @@ const config = {
     },
   },
 }
+
 module.exports = config
