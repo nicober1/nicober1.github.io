@@ -10,6 +10,7 @@
     "docusaurus": "docusaurus",
     "ins": "npm install --no-audit --prefer-offline",
     "precommit": "sort-package-json",
+    "prettier": "prettier --write .",
     "serve": "docusaurus serve",
     "sortpj": "sort-json package.json",
     "sortpj1": "sort-package-json package.json",
@@ -28,8 +29,7 @@
     "zkeyw": "node scripts/faker",
     "znews": "node scripts/news",
     "znse": "node scripts/nse",
-    "zytid": "node scripts/ytIdlist",
-    "prettier": "prettier --write ."
+    "zytid": "node scripts/ytIdlist"
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.0",

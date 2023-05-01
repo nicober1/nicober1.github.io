@@ -1,10 +1,5 @@
 ---
-slug: /ASP.NET.Core.Web.API.RepositoryPattern
-id: ASP.NET.Core.Web.API.RepositoryPattern
-title: ASP.NET Core Web API – Repository Pattern
-description: ASP.NET Core Web API – Repository Pattern
 keywords: [ASP.NET Core Web API – Repository Pattern, Repository Pattern]
-sidebar_label: ASP.NET Core Web API:Repository Pattern
 ---
 
 ```csharp
