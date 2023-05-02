@@ -25,6 +25,7 @@ builder.Services.Configure<MailSettings>(Configuration.GetSection("MailSettings"
 builder.Services.AddAzureClients(client =>
         {
             client.AddBlobServiceClient(new Uri(Configuration["StorageAccountUri"]));
+            client.AddTableServiceClient(new Uri(configuration["StorageTableAccountUri"]));
             client.UseCredential(new ManagedIdentityCredential());
         });
 builder.Services.AddControllers();
@@ -148,7 +149,18 @@ services.AddHttpContextAccessor();
                         .AllowAnyMethod().AllowCredentials().SetPreflightMaxAge(TimeSpan.FromSeconds(90)).Build();
                 });
         });
-
+ services.AddPagination(o =>
+        {
+            o.CanChangeSizeFromQuery = true;
+            o.DefaultSize = 100;
+            o.MaxSize = 1000;
+            o.AfterQueryParameterName = "after";
+            o.BeforeQueryParameterName = "before";
+            o.FirstQueryParameterName = "first";
+            o.LastQueryParameterName = "last";
+            o.PageSizeQueryParameterName = "pagesize";
+            o.PageQueryParameterName = "page";
+        });
            services.AddAutoMapper(typeof(AutoMapperProfile));
 
         services.AddSwaggerGenNewtonsoftSupport();
@@ -253,6 +265,24 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+ builder.Services.Configure<ForwardedHeadersOptions>(options =>
+            {
+                options.ForwardedHeaders =
+                    ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+                options.KnownNetworks.Clear();
+                options.KnownProxies.Clear();
+            });
+
+            var app = builder.Build();
+
+            app.UseForwardedHeaders();
+
+            // Configure the HTTP request pipeline.
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Error");
+                app.UseHsts();
+            }
 
 var app = builder.Build();
 
@@ -264,6 +294,7 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = string.Empty;
     //relative path in wwwroot
     c.InjectStylesheet("/swagger-ui/custom.css");
+     c.InjectStylesheet("/swagger-ui/SwaggerDark.css");
     c.EnablePersistAuthorization();
     c.EnableTryItOutByDefault();
      c.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
@@ -310,6 +341,7 @@ app.UseEndpoints(endpoints =>
                 DashboardTitle = "Hangfire Dashboard",
             }).RequireAuthorization("AzureAdPolicy");
         });
-
+ var config = app.ApplicationServices.GetService(typeof(IConfiguration)) as IConfiguration;
+        var enableSwagger = bool.Parse(config.GetValue<string>("EnableSwagger") ?? "false");
 app.Run();
 ```

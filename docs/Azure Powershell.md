@@ -22,6 +22,48 @@ if (-not $RoleAssignment) {
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+$mId = (Get-AzWebApp -ResourceGroupName $env:ResourceGroupName  -Name $env:AppServiceName).Identity.PrincipalId
+Set-AzKeyVaultAccessPolicy -VaultName $env:KeyVaultName -ObjectId $mId -PermissionsToSecrets Get,List
+
+////////////////////////////////////////////////
+$mId = (Get-AzWebApp -ResourceGroupName $env:ResourceGroupNameCode  -Name $env:AppServiceName).Identity.PrincipalId
+$Id= (Get-AzStorageAccount -ResourceGroupName $env:ResourceGroupNameData -Name $env:StorageAccountName).Id
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Storage Blob Data Owner'})) {
+    New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Storage Blob Data Owner" -Scope $Id
+}
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Storage Blob Data Contributor'})) {
+    New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Storage Blob Data Contributor" -Scope $Id
+}
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Storage Queue Data Contributor'})) {
+    New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Storage Queue Data Contributor" -Scope $Id
+}
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Storage Table Data Contributor'})) {
+    New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Storage Table Data Contributor" -Scope $Id
+}
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Storage Account Contributor'})) {
+    New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Storage Account Contributor" -Scope $Id
+}
+
+#DataFactory
+$Id= (Get-AzDataFactoryV2 -ResourceGroupName $env:ResourceGroupNameData -Name $env:DataFactoryName).DataFactoryId
+if ($null -eq (Get-AzRoleAssignment -scope $Id  -ObjectId  $mId | Where-Object {$_.RoleDefinitionName -eq 'Data Factory Contributor'})) {
+     New-AzRoleAssignment -ObjectId $mId -RoleDefinitionName "Data Factory Contributor" -Scope $Id
+}
+
+
+////////////////////////
+
+$app = Get-AzADServicePrincipal -DisplayName $env:ServicePrincipalName
+$appId = $app.AppId
+$AadClientId = $app.AppId
+$scope = $app.Oauth2PermissionScope|Where-Object{$_.Value -match "user_impersonation"}
+$scopeId = $scope.Id
+
+Write-Host ("##vso[task.setvariable variable=AadClientId;]$AadClientId")
+
+
+/////////////
+
 Function CreateContainer{
             Param(
             [Parameter(Mandatory=$false)] [String]$ContainerName,
