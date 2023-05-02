@@ -78,4 +78,170 @@ public class TodoItem
         return Ok(Numerator / Denominator);
     }
 
+
+//
+
+
+public static class Migration
+{
+    public static IHost MigrateDatabase<TContext>(this IHost host) where TContext : DbContext
+    {
+        using var scope = host.Services.CreateScope();
+        var services = scope.ServiceProvider;
+        var logger = services.GetRequiredService<ILogger<TContext>>();
+        var context = services.GetService<TContext>();
+
+        try
+        {
+            logger.LogInformation("Migrating database associated with context {DbContextName}", typeof(TContext).Name);
+
+            var retry = Policy.Handle<SqlException>()
+                .WaitAndRetry(
+                    retryCount: 2,
+                    sleepDurationProvider: retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)),
+                    onRetry: (exception, retryCount, ctx) =>
+                    {
+                        logger.LogError($"Retry {retryCount} of {ctx.PolicyKey} at {ctx.OperationKey}, due to: {exception}.");
+                    });
+
+            retry.Execute(() => context?.Database.Migrate());
+
+            logger.LogInformation("Migrated database associated with context {DbContextName}", typeof(TContext).Name);
+        }
+        catch (SqlException ex)
+        {
+            logger.LogError(ex, "An error occurred while migrating the database used on context {DbContextName}", typeof(TContext).Name);
+        }
+
+        return host;
+    }
+}
+
+//
+
+public static class ExceptionMiddlewareExtensions
+{
+    public static void ConfigureExceptionHandler(this IApplicationBuilder app, ILogger logger)
+    {
+        app.UseExceptionHandler(appError =>
+        {
+            appError.Run(async context =>
+            {
+                context.Response.ContentType = "application/json";
+
+                var contextFeature = context.Features.Get<IExceptionHandlerFeature>();
+                if (contextFeature != null)
+                {
+                    context.Response.StatusCode = contextFeature.Error switch
+                    {
+                        _ => StatusCodes.Status500InternalServerError
+                    };
+
+                    logger.LogError($"Something went wrong: {contextFeature.Error}");
+
+                    await context.Response.WriteAsync(new ErrorDetails
+                    {
+                        StatusCode = context.Response.StatusCode,
+                        Message = contextFeature.Error.Message,
+                    }.ToString());
+                }
+            });
+        });
+    }
+}
+
+public class ErrorDetails
+{
+    public int StatusCode { get; set; }
+    public string? Message { get; set; }
+
+    public override string ToString() => JsonSerializer.Serialize(this);
+}
+
+//
+
+public class EnumSchemaFilter : ISchemaFilter
+{
+    public void Apply(OpenApiSchema schema, SchemaFilterContext context)
+    {
+        if (context.Type.IsEnum)
+        {
+            schema.Enum.Clear();
+            Enum.GetNames(context.Type)
+                .ToList()
+                .ForEach(name => schema.Enum.Add(new OpenApiString($"{Convert.ToInt64(Enum.Parse(context.Type, name))} = {name}")));
+        }
+    }
+}
+
+//
+
+public class ResponseFilterAttribute : ActionFilterAttribute
+{
+    public override void OnActionExecuted(ActionExecutedContext context)
+    {
+        if (context.Result is ObjectResult { Value: IResponse result })
+            context.Result = result.Status switch
+            {
+                ResponseStatus.Success => new OkObjectResult(result.GetData()),
+                ResponseStatus.Error => new BadRequestObjectResult(result.ErrorReason),
+                ResponseStatus.NotFound => new NotFoundObjectResult(result.ErrorReason),
+                ResponseStatus.Unprocessable => new UnprocessableEntityObjectResult(result.ErrorReason),
+                ResponseStatus.Forbidden => new StatusCodeResult(StatusCodes.Status403Forbidden),
+                _ => new StatusCodeResult(StatusCodes.Status500InternalServerError)
+            };
+        base.OnActionExecuted(context);
+    }
+}
+
+//
+
+public class ValidationFilterAttribute : ActionFilterAttribute
+{
+    public override void OnActionExecuting(ActionExecutingContext context)
+    {
+        var action = context.RouteData.Values["action"];
+        var controller = context.RouteData.Values["controller"];
+
+        var param = context.ActionArguments
+            .SingleOrDefault(x => x.Value.ToString().Contains("Dto")).Value;
+        if (param is null)
+        {
+            context.Result = new BadRequestObjectResult($"Object is null. Controller: {controller}, action: {action}");
+            return;
+        }
+
+        if (!context.ModelState.IsValid)
+            context.Result = new UnprocessableEntityObjectResult(context.ModelState);
+    }
+
+    public override void OnActionExecuted(ActionExecutedContext context)
+    { }
+}
+
+
+//
+
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:40344",
+      "sslPort": 44360
+    }
+  },
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "hangfire",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    }
+  }
+}
 ```

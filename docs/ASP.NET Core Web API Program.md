@@ -5,6 +5,28 @@ keywords: [ASP.NET.Core.Web.API.Startup]
 ```csharp
 
 var builder = WebApplication.CreateBuilder(args);
+var config = builder.Configuration;
+
+config.AddAzureKeyVault(new SecretClient(new Uri(config["KeyVaultUri"]), new ManagedIdentityCredential()),
+    new AzureKeyVaultConfigurationOptions { ReloadInterval = TimeSpan.FromSeconds(600) });
+
+var startup = new Startup(config);
+
+startup.ConfigureServices(builder.Services);
+var app = builder.Build();
+var logger = new LoggerFactory().CreateLogger<Startup>();
+
+startup.Configure(app, app.Environment, logger);
+
+app.MigrateDatabase<DatabaseDbContext>().Run();
+
+
+builder.Services.Configure<MailSettings>(Configuration.GetSection("MailSettings"));
+builder.Services.AddAzureClients(client =>
+        {
+            client.AddBlobServiceClient(new Uri(Configuration["StorageAccountUri"]));
+            client.UseCredential(new ManagedIdentityCredential());
+        });
 builder.Services.AddControllers();
 builder.Services.AddTransient<ProblemDetailsFactory, SampleProblemDetailsFactory>();
 builder.Services.Configure<ApiBehaviorOptions>(options =>
@@ -42,7 +64,94 @@ builder.Services.AddProblemDetails(options =>
 builder.Services.AddHttpClient();
 builder.Services.AddEndpointsApiExplorer();
 
-builder.Services.Configure<RouteOptions>(options => { options.LowercaseUrls = true; options.LowercaseQueryStrings = true; });
+builder.Services.Configure<RouteOptions>(options =>
+{ options.LowercaseUrls = true; options.LowercaseQueryStrings = true; });
+
+services.AddMemoryCache();
+
+ services.AddHangfire(c =>
+            {
+                c.SetDataCompatibilityLevel(CompatibilityLevel.Version_180);
+                c.UseSimpleAssemblyNameTypeSerializer();
+                c.UseRecommendedSerializerSettings();
+                c.UseColouredConsoleLogProvider();
+                c.UseMemoryStorage();
+            }
+        );
+        JobStorage.Current = new MemoryStorage();
+        services.AddSingleton<IBackgroundJobClient>(x => new BackgroundJobClient());
+        services.AddHangfireServer();
+        services.AddSingleton<IAzureSqlTokenProvider, AzureSqlTokenProvider>();
+
+        services.Decorate<IAzureSqlTokenProvider, CacheAzureSqlTokenProvider>();
+
+        services.AddSingleton<AzureSqlTokenDbConnectionInterceptor>();
+
+        services.AddDbContext<DatabaseDbContext>((provider, options) =>
+        {
+            options.UseSqlServer(Configuration.GetConnectionString("ConnectionStringDatabase"),
+                sqlServerOptions =>
+                {
+                    sqlServerOptions.MigrationsAssembly("Repository.Project");
+                    sqlServerOptions.UseQuerySplittingBehavior(QuerySplittingBehavior.SplitQuery);
+                });
+            options.AddInterceptors(provider.GetRequiredService<AzureSqlTokenDbConnectionInterceptor>());
+        });
+
+services.AddApplicationInsightsTelemetry();
+services.AddHttpContextAccessor();
+        services.AddLazyCache();
+
+                services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            .AddMicrosoftIdentityWebApi(Configuration.GetSection("AzureAd"))
+            .EnableTokenAcquisitionToCallDownstreamApi()
+            .AddInMemoryTokenCaches();
+
+        services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
+            .AddMicrosoftIdentityWebApp(Configuration.GetSection("AzureAd"))
+            .EnableTokenAcquisitionToCallDownstreamApi()
+            .AddInMemoryTokenCaches();
+
+        services.Configure<MicrosoftIdentityOptions>(options =>
+        {
+            options.ClientSecret = Configuration["Secret"];
+        });
+
+        services.AddAuthorization(options =>
+            options.AddPolicy("Admin",
+                policy => policy.RequireRole("admin-role"))
+        );
+
+
+
+        services.AddAuthorization(options =>
+        {
+            options.AddPolicy("AzureAdPolicy", policy =>
+            {
+                policy.AddAuthenticationSchemes(OpenIdConnectDefaults.AuthenticationScheme)
+                    .RequireAuthenticatedUser();
+            });
+        });
+
+        services.AddControllers().AddNewtonsoftJson((options) =>
+        {
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+        });
+
+        services.AddCors(options =>
+        {
+            options.AddDefaultPolicy(
+                policy =>
+                {
+                    policy.WithOrigins(Configuration["AllowedOrigins"].Split(","))
+                        .SetIsOriginAllowedToAllowWildcardSubdomains().AllowAnyHeader()
+                        .AllowAnyMethod().AllowCredentials().SetPreflightMaxAge(TimeSpan.FromSeconds(90)).Build();
+                });
+        });
+
+           services.AddAutoMapper(typeof(AutoMapperProfile));
+
+        services.AddSwaggerGenNewtonsoftSupport();
 
 builder.Services.AddSwaggerGen(c =>
 {
@@ -55,8 +164,63 @@ builder.Services.AddSwaggerGen(c =>
     c.IgnoreNonPublicMethods();
     c.IgnoreNonPublicProperties();
     c.IgnoreMapAttributeProperties();
+     c.EnableAnnotations();
     var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+     c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
+            {
+                Type = SecuritySchemeType.OAuth2,
+                Flows = new OpenApiOAuthFlows
+                {
+                    Implicit = new OpenApiOAuthFlow
+                    {
+                        AuthorizationUrl = new Uri($"{Configuration["AzureAd:Instance"]}/{Configuration["AzureAd:TenantId"]}/oauth2/v2.0/authorize"),
+                        TokenUrl = new Uri($"{Configuration["AzureAd:Instance"]}/{Configuration["AzureAd:TenantId"]}/oauth2/v2.0/token"),
+                        Scopes = { { $"api://{Configuration["AzureAd:ClientId"]}/.deafult", "API Access" } }
+                    }
+                }
+            });
+
+            c.AddSecurityRequirement(new OpenApiSecurityRequirement
+            {
+                {
+                    new OpenApiSecurityScheme
+                    {
+                        Reference = new OpenApiReference
+                        {
+                            Type = ReferenceType.SecurityScheme,
+                            Id = "oauth2"
+                        },
+                        Scheme ="oauth2",
+                        Name ="oauth2",
+                        In = ParameterLocation.Header
+                    }, new List<string>()
+                }
+            });
+            c.AddSecurityDefinition(name: "Bearer",
+                securityScheme: new OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    Description =
+                        "Enter the Bearer Authorization string as following: `Bearer Generated-JWT-Token`",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer"
+                });
+            c.AddSecurityRequirement(new OpenApiSecurityRequirement
+            {
+                {
+                    new OpenApiSecurityScheme
+                    {
+                        Name = "Bearer",
+                        In = ParameterLocation.Header,
+                        Reference = new OpenApiReference { Id = "Bearer", Type = ReferenceType.SecurityScheme }
+                    },
+                    new List<string>()
+                }
+            });
+
+            c.SchemaFilter<EnumSchemaFilter>();
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Description = "JWT Authorization header using the Bearer scheme",
@@ -103,20 +267,30 @@ app.UseSwaggerUI(c =>
     c.EnablePersistAuthorization();
     c.EnableTryItOutByDefault();
      c.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
+     c.OAuthUseBasicAuthenticationWithAccessCodeGrant();
+            c.DocExpansion(DocExpansion.List);
+            c.EnableTryItOutByDefault();
+            c.EnablePersistAuthorization();
 });
-
+app.UseDeveloperExceptionPage();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.MapControllers();
 
 app.UseExceptionHandler();
 app.UseStatusCodePages();
+app.UseRouting();
+
+        app.UseCors();
 
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
 app.UseAuthorization();
+app.UseAuthorization();
+        app.UseMiddleware<LoggingMiddleware>();
+        app.UseAuthentication();
 app.AddAuthentication();
 
 app.MapControllers();
@@ -126,6 +300,16 @@ app.UseForwardedHeaders(new ForwardedHeadersOptions
 	ForwardedHeaders = ForwardedHeaders.All
 });
 
+app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+            endpoints.MapHangfireDashboard("/hangfire", new DashboardOptions
+            {
+                Authorization = new List<IDashboardAuthorizationFilter>(),
+                AppPath = "/hangfire",
+                DashboardTitle = "Hangfire Dashboard",
+            }).RequireAuthorization("AzureAdPolicy");
+        });
 
 app.Run();
 ```
