@@ -51,4 +51,6 @@ git add <file>
 git commit
 git commit -m "your commit message"
 git push -u origin feature-branch
+docs/pull_request_template.md
+
 ```

@@ -244,4 +244,11 @@ public class ValidationFilterAttribute : ActionFilterAttribute
     }
   }
 }
+
+//
+
+dotnet ef --startup-project ../API migrations add Migration1
+
+//
+
 ```
