@@ -663,6 +663,373 @@ public class FilterService : IFilterService
     }
 }
 }
+
+
+///
+
+
+using Azure.Storage.Blobs;
+using Azure.Storage.Blobs.Models;
+using Azure.Storage.Sas;
+
+
+public class AzureStorageService : IAzureStorageService
+{
+    private readonly BlobServiceClient _blobServiceClient;
+
+    public AzureStorageService(BlobServiceClient blobServiceClient)
+    {
+        _blobServiceClient = blobServiceClient;
+    }
+
+    public string GetFileUrl(string filename, string? containerName)
+    {
+        var blobContainerClient = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blob = blobContainerClient.GetBlobClient(filename);
+        return blob.Uri.ToString();
+    }
+
+    public string GetFileUrlWithSasToken(string filename, string containerName, string? storedPolicyName = null)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blobClient = container.GetBlobClient(filename);
+        var userDelegationKey = _blobServiceClient.GetUserDelegationKey(DateTimeOffset.UtcNow.AddHours(-1),
+            DateTimeOffset.UtcNow.AddDays(7));
+        var sasBuilder = new BlobSasBuilder
+        {
+            BlobContainerName = container.Name,
+            BlobName = filename,
+            Resource = "b",
+        };
+        if (storedPolicyName == null)
+        {
+            sasBuilder.StartsOn = DateTimeOffset.UtcNow.AddHours(-1);
+            sasBuilder.ExpiresOn = DateTimeOffset.UtcNow.AddDays(36500);
+            sasBuilder.SetPermissions(BlobContainerSasPermissions.Read);
+        }
+        else
+        {
+            sasBuilder.Identifier = storedPolicyName;
+        }
+
+        var blobUriBuilder = new BlobUriBuilder(blobClient.Uri)
+        {
+            Sas = sasBuilder.ToSasQueryParameters(userDelegationKey, _blobServiceClient.AccountName)
+        };
+        return blobUriBuilder.ToUri().ToString();
+    }
+
+    public async Task CreateStoredAccessPolicyAsync(string containerName, string? policyName)
+    {
+        var containerClient = _blobServiceClient.GetBlobContainerClient(containerName);
+        var currentAccessPolicy = (await containerClient.GetAccessPolicyAsync()).Value;
+        if (currentAccessPolicy.SignedIdentifiers.Any(x => x.AccessPolicy.Permissions == "r"))
+        {
+            return;
+        }
+
+        var signedIdentifiers = new List<BlobSignedIdentifier>
+        {
+            new()
+            {
+                Id = policyName,
+                AccessPolicy = new BlobAccessPolicy
+                {
+                    StartsOn = DateTimeOffset.UtcNow.AddHours(-1),
+                    ExpiresOn = DateTimeOffset.UtcNow.AddYears(100),
+                    Permissions = "r"
+                }
+            }
+        };
+        await containerClient.SetAccessPolicyAsync(permissions: signedIdentifiers);
+    }
+
+    public async Task<(string blobSasUrl, DateTimeOffset CreatedOn, string ContentType)>
+        SaveFormFileAsBlobWithTagsAsync(IFormFile file,
+            string containerName, Dictionary<string, string?> tagDictionary, string? policy = null)
+    {
+        var uniqueId = tagDictionary["uniqueid"];
+        var fileName = uniqueId + file.FileName.Replace(" ", "_");
+        var contentType = file.ContentType;
+        using var fileStream = new MemoryStream();
+        await file.CopyToAsync(fileStream);
+        fileStream.Seek(0, SeekOrigin.Begin);
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        await container.CreateIfNotExistsAsync();
+        var blob = container.GetBlobClient(fileName);
+        var blobHttpHeader = new BlobHttpHeaders { ContentType = contentType };
+        var options = new BlobUploadOptions { Tags = tagDictionary, Metadata = tagDictionary, HttpHeaders = blobHttpHeader };
+        await blob.UploadAsync(fileStream, options);
+        var properties = await blob.GetPropertiesAsync();
+        //var blobSasUrl = GetFileUrlWithSasToken(fileName, containerName, policy);
+        return (blob.Uri.ToString(), properties.Value.CreatedOn, properties.Value.ContentType);
+    }
+
+    public async Task DeleteFile(string filename, string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blob = container.GetBlobClient(filename);
+        await blob.DeleteAsync();
+    }
+
+    public async Task<bool> FileExistsAsync(string filename, string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blob = container.GetBlobClient(filename);
+        return await blob.ExistsAsync();
+    }
+
+    public async Task SaveFileAsync(string filename, byte[] file, string? containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        await container.CreateIfNotExistsAsync();
+        var blob = container.GetBlobClient(filename);
+        await blob.UploadAsync(new MemoryStream(file), true);
+    }
+
+    public async Task<string> SaveFileAsync(string filename, Stream fileStream, string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        await container.CreateIfNotExistsAsync();
+        var blob = container.GetBlobClient(filename);
+        await blob.UploadAsync(fileStream, true);
+        return blob.Uri.ToString();
+    }
+
+    public async Task<Stream> GetFileAsStreamAsync(string fileName, string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blob = container.GetBlobClient(fileName);
+        var ms = new MemoryStream();
+        await blob.DownloadToAsync(ms);
+        return ms;
+    }
+
+    public async Task<Stream> ReadFileAsStream(string fileName, string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        var blob = container.GetBlobClient(fileName);
+        var blobStream = await blob.OpenReadAsync();
+        return blobStream;
+    }
+
+    public async Task<bool> CreateContainerAsync(string containerName)
+    {
+        var container = _blobServiceClient.GetBlobContainerClient(containerName);
+        await container.CreateIfNotExistsAsync();
+        return await container.ExistsAsync();
+    }
+
+    public async Task<List<TaggedBlobItem>> FindBlobsbyTagsAsync(string query)
+    {
+        //Sample Query
+        //var queryString = @"@container = 'animals' AND ""name"" = 'Rambo'";
+        // string query = @"""Date"" >= '2020-04-20' AND ""Date"" <= '2020-04-30'";
+
+        var blobs = new List<TaggedBlobItem>();
+        await foreach (var taggedBlobItem in _blobServiceClient.FindBlobsByTagsAsync(query))
+        {
+            blobs.Add(taggedBlobItem);
+        }
+
+        return blobs;
+    }
+}
+
+//
+
+
+public class AzureTokenService : IAzureTokenService
+{
+    public IAppCache? _cache;
+
+    public AzureTokenService(IAppCache? cache)
+    {
+        _cache = cache;
+    }
+
+    public async Task<string?> GetAccessTokenForAzureDatabaseDefaultScope()
+    {
+        try
+        {
+            return (await new ChainedTokenCredential(new ManagedIdentityCredential(), new VisualStudioCredential(),
+                new VisualStudioCodeCredential()).GetTokenAsync(
+                new TokenRequestContext(new[] { "https://database.windows.net/.default" }))).Token;
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<string?> GetCachedAccessTokenForAzureDatabaseDefaultScope()
+    {
+        async Task<string?> GetAccessTokenForAzureDatabaseDefaultScopeLocalFunction()
+        {
+            try
+            {
+                return (await new ChainedTokenCredential(new ManagedIdentityCredential(), new VisualStudioCredential(),
+                    new VisualStudioCodeCredential()).GetTokenAsync(
+                    new TokenRequestContext(new[] { "https://database.windows.net/.default" }))).Token;
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+        }
+
+        return await _cache?.GetOrAddAsync("AccessTokenForAzureDatabaseDefaultScope", async entry =>
+            {
+                var record = await GetAccessTokenForAzureDatabaseDefaultScopeLocalFunction();
+                entry.AbsoluteExpiration = record == null ? DateTimeOffset.UtcNow.AddMinutes(-1) : DateTimeOffset.UtcNow.AddMinutes(5);
+                return record;
+            }
+        )!;
+    }
+
+    public async Task<string?> GetAccessTokenForAzureResourceDefaultScopeUsingClientSecretCredential(string tenantId, string clientId, string secret, string resource)
+    {
+        try
+        {
+            var azureCredential =
+                new ClientSecretCredential(tenantId, clientId, secret);
+            var context = new TokenRequestContext(new[]
+                { $"{resource}/.default" });
+            var token = await azureCredential.GetTokenAsync(context, CancellationToken.None);
+            return "Bearer " + token.Token;
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<string?> GetCachedAccessTokenForAzureResourceDefaultScopeUsingClientSecretCredential(string? tenantId, string? clientId, string? secret, string? resource)
+    {
+        async Task<string?> GetTokenLocalFunction()
+        {
+            try
+            {
+                var azureCredential =
+                    new ClientSecretCredential(tenantId, clientId, secret);
+                var context = new TokenRequestContext(new[]
+                    { $"{resource}/.default" });
+                var token = await azureCredential.GetTokenAsync(context, CancellationToken.None);
+                return "Bearer " + token.Token;
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+        }
+
+        return await _cache?.GetOrAddAsync($"AccessToken{resource}", async entry =>
+            {
+                var record = await GetTokenLocalFunction();
+                entry.AbsoluteExpiration = record == null ? DateTimeOffset.UtcNow.AddMinutes(-1) : DateTimeOffset.UtcNow.AddMinutes(5);
+                return record;
+            }
+        )!;
+    }
+}
+
+//
+
+
+[TransientRegistration]
+public class MemoryCacheService : IMemoryCacheService
+{
+    private readonly IMemoryCache _cache;
+    private static readonly SemaphoreSlim semaphore = new(1, 1);
+
+    public MemoryCacheService(IMemoryCache cache)
+    {
+        _cache = cache;
+    }
+
+    public bool TryToFetchItemFromCache<TItem>(object key, out TItem? value)
+    {
+        if (_cache.TryGetValue(key, out var result))
+        {
+            switch (result)
+            {
+                case null:
+                    value = default;
+                    return true;
+
+                case TItem item:
+                    value = item;
+                    return true;
+            }
+        }
+
+        value = default;
+        return false;
+    }
+
+    public async Task<TItem> SetItemToCache<TItem>(object key, TItem value, MemoryCacheEntryOptions? options = null)
+    {
+        try
+        {
+            await semaphore.WaitAsync();
+            var cacheEntryOptions = new MemoryCacheEntryOptions().SetSlidingExpiration(TimeSpan.FromHours(1))
+                .SetAbsoluteExpiration(TimeSpan.FromHours(2)).SetPriority(CacheItemPriority.Normal).SetSize(1024);
+            using var entry = _cache.CreateEntry(key);
+            entry.SetOptions(options ?? cacheEntryOptions);
+            entry.Value = value;
+            return value;
+        }
+        finally
+        {
+            semaphore.Release();
+        }
+    }
+}
+
+//
+
+
+ public static async Task<string> ReadBody(this HttpRequest request)
+    {
+        request.EnableBuffering();
+        var body = new MemoryStream();
+        await request.Body.CopyToAsync(body);
+        request.Body.Seek(0, SeekOrigin.Begin);
+        body.Seek(0, SeekOrigin.Begin);
+        var buffer = new byte[Convert.ToInt32(request.ContentLength)];
+        var unused = await body.ReadAsync(buffer, 0, buffer.Length);
+        var content = Encoding.UTF8.GetString(buffer);
+        return content;
+    }
+
+
+    ///
+
+
+    public static class JsonExtensions
+{
+    public static string BeautifyJson(this string rawJson)
+    {
+        try
+        {
+            var purifiedJson = rawJson.Purify();
+            dynamic parsedJson = JsonConvert.DeserializeObject(purifiedJson)!;
+            var indentedJson = (string)JsonConvert.SerializeObject(parsedJson, Formatting.Indented);
+            var jsonWithoutSlash = indentedJson.Replace(@"\", "");
+            var editedJson = jsonWithoutSlash.Replace(@"""{", "{");
+            var finalJson = editedJson.Replace(@"}""", "}");
+            return finalJson;
+        }
+        catch (Exception)
+        {
+            return rawJson;
+        }
+    }
+
+    public static string Purify(this string json) =>
+        Regex.Replace(json,
+            "\\s+(?=((\\\\[\\\\\"]|[^\\\\\"])*\"(\\\\[\\\\\"]|[^\\\\\"])*\")*(\\\\[\\\\\"]|[^\\\\\"])*$)", "");
+}
 ```
 
 ```sql

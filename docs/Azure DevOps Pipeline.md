@@ -64,4 +64,117 @@ steps:
       ArtifactName: "drop"
       publishLocation: "Container"
 
+
+      ////////////////////////
+
+      name: 1.0.$(Rev:r)
+variables:
+
+  - name: BuildPlatform
+    value: any cpu
+
+  #used by prerelease:
+  - name: PrereleaseMajorVersion
+    value: 0
+  - name: PrereleaseMinorVersion
+    value: 1
+  - name: PrereleasePatchVersion
+    value: 1
+
+  #used by stable release when 'byEnvVar' set for variable VersioningScheme
+  - name: StablePackageVersion
+    value: 1.0.0
+
+  #used by stable release when 'byBuildNumber' is set for variable VersioningScheme
+  - name: BUILD.BUILDNUMBER
+    value: 1.0.$(Rev:r)
+
+  - name: BuildConfiguration
+    ${{ if eq( variables['Build.SourceBranchName'], 'master' ) }}:
+     value: Release
+    ${{ if ne( variables['Build.SourceBranchName'], 'master' ) }}:
+     value: Debug
+
+  - name: VersioningScheme
+    ${{ if eq( variables['Build.SourceBranchName'], 'master' ) }}:
+     value: byEnvVar
+    ${{ if ne( variables['Build.SourceBranchName'], 'master' ) }}:
+     value: byPrereleaseNumber
+
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - master
+    - main
+
+# disable PR builds entirely
+pr: none
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+
+- task: NuGetToolInstaller@1
+  displayName: 'Use Nuget 6.x'
+  inputs:
+    versionSpec: '6.x'
+    checkLatest: true
+
+- task: NuGetCommand@2
+  displayName: 'Nuget Restore'
+  inputs:
+    command: 'restore'
+    restoreSolution: '**/*.sln'
+    feedsToUse: 'select'
+    vstsFeed: ''
+
+- task: VSBuild@1
+  inputs:
+    solution: '**\*.sln'
+    platform: '$(BuildPlatform)'
+    configuration: '$(BuildConfiguration)'
+    clean: true
+
+
+
+- task: VSTest@2
+  displayName: 'Test .NET Assemblies'
+  inputs:
+    testSelector: 'testAssemblies'
+    testAssemblyVer2: |
+     **\*.Tests.dll
+     !**\obj\**
+     !**\bin\**\ref\**
+    searchFolder: '$(System.DefaultWorkingDirectory)'
+    platform: '$(BuildPlatform)'
+    configuration: '$(BuildConfiguration)'
+    publishRunAttachments: false
+
+
+- task: PublishSymbols@2
+  condition: and(succeeded(), eq(variables['BuildConfiguration'], 'Debug'))
+  displayName: 'PublishSymbols when BuildConfiguration is Debug [conditional]'
+  inputs:
+    SearchPattern: '**/bin/**/*.pdb'
+    SymbolServerType: 'TeamServices'
+
+- task: DotNetCoreCLI@2
+  displayName: 'dotnet pack'
+  inputs:
+    command: 'pack'
+    includesymbols: true
+    includesource: true
+    versioningScheme: 'byBuildNumber'
+
+
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+
 ```
