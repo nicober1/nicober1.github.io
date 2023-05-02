@@ -52,5 +52,16 @@ steps:
       azureSubscription: $(azureSubscription)
       appType: 'webAppLinux'
       appName: 'your-web-app-name'
-      package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
+      package: '$(Build.ArtifactStagingDirectory)/**/*.zip's
+
+
+//////////////////////////////////////////////////////////////
+
+
+- task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: "$(System.DefaultWorkingDirectory)"
+      ArtifactName: "drop"
+      publishLocation: "Container"
+
 ```
