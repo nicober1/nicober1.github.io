@@ -246,6 +246,423 @@ public class cqQueryRepository : RepositoryBase<cqContext, pgp>, IcqQueryReposit
             q => q.Select(x => new IdNameDto { Id = x.Id, Name = x.Name }));
     }
 }
+
+ public class HttpLoggingMiddleware : IMiddleware
+    {
+        private readonly IuserService _userService;
+
+        public HttpLoggingMiddleware(IuserService userService)
+        {
+            _userService = userService;
+        }
+
+        public async Task InvokeAsync(HttpContext context, RequestDelegate next)
+        {
+            if (!await ShouldSkipLogging(context))
+            {
+                await _userService.CreateuserEvent(JsonConvert.SerializeObject(new
+                {
+                    user = context.User.Identity?.Name,
+
+                }));
+            }
+
+[]            await next(context);
+
+            if (!await ShouldSkipLogging(context))
+            {
+                await _userService.CreateuserEvent(JsonConvert.SerializeObject(new
+                {
+                    user = context.User.Identity?.Name,
+
+                }));
+            }
+        }
+
+ private static Task<bool> ShouldSkipLogging(HttpContext context)
+        {
+            return Task.FromResult(context.GetEndpoint()?.Metadata.GetMetadata<IAllowAnonymous>() != null
+                                   || context.Request.Headers.ContainsKey("X-Bypass-Logging")
+                                   || context.Request.Headers.ContainsKey("x-bypass-logging")
+                                   || context.Request.Query.ContainsKey("skiplogging")
+                                   || context.Request.Query.ContainsKey("SkipLogging")
+                                   || context.Request.Path.StartsWithSegments("/swagger", StringComparison.OrdinalIgnoreCase)
+                                   || context.Request.Path.StartsWithSegments("/log", StringComparison.OrdinalIgnoreCase)
+                                   || context.Request.Path.StartsWithSegments("/signin-oidc", StringComparison.OrdinalIgnoreCase)
+                                   || context.Request.Path.StartsWithSegments("/api/backgroundjobs", StringComparison.OrdinalIgnoreCase)
+                                   || context.Request.Path.StartsWithSegments("/hangfire", StringComparison.OrdinalIgnoreCase)
+            );
+        }
+
+        /////////////////////////
+
+
+
+public class AzureSqlTokenDbConnectionInterceptor : DbConnectionInterceptor
+{
+    private readonly IAzureSqlTokenProvider _tokenProvider;
+
+    public AzureSqlTokenDbConnectionInterceptor(IAzureSqlTokenProvider tokenProvider)
+    {
+        _tokenProvider = tokenProvider;
+    }
+
+    public override InterceptionResult ConnectionOpening(DbConnection connection, ConnectionEventData eventData,
+        InterceptionResult result)
+    {
+        var sqlConnection = (SqlConnection)connection;
+        if (!ConnectionNeedsAccessToken(sqlConnection)) return base.ConnectionOpening(connection, eventData, result);
+        var (token, _) = _tokenProvider.GetAccessToken();
+        sqlConnection.AccessToken = token;
+        return base.ConnectionOpening(connection, eventData, result);
+    }
+
+    public override async ValueTask<InterceptionResult> ConnectionOpeningAsync(DbConnection connection,
+        ConnectionEventData eventData, InterceptionResult result, CancellationToken cancellationToken = default)
+    {
+        var sqlConnection = (SqlConnection)connection;
+        if (!ConnectionNeedsAccessToken(sqlConnection))
+            return await base.ConnectionOpeningAsync(connection, eventData, result, cancellationToken);
+        var (token, _) = await _tokenProvider.GetAccessTokenAsync(cancellationToken);
+        sqlConnection.AccessToken = token;
+        return await base.ConnectionOpeningAsync(connection, eventData, result, cancellationToken);
+    }
+
+    private static bool ConnectionNeedsAccessToken(IDbConnection connection)
+    {
+        var connectionStringBuilder = new SqlConnectionStringBuilder(connection.ConnectionString);
+        return
+            connectionStringBuilder.DataSource.Contains("database.windows.net", StringComparison.OrdinalIgnoreCase) &&
+            !connectionStringBuilder.DataSource.Contains("SqlExpress", StringComparison.OrdinalIgnoreCase) &&
+            string.IsNullOrEmpty(connectionStringBuilder.UserID);
+    }
+}
+
+// Simple interface that represents a token acquisition abstraction
+public interface IAzureSqlTokenProvider
+{
+    Task<(string AccessToken, DateTimeOffset ExpiresOn)> GetAccessTokenAsync(
+        CancellationToken cancellationToken = default);
+
+    (string AccessToken, DateTimeOffset ExpiresOn) GetAccessToken();
+}
+
+// Core implementation that performs token acquisition with Azure Identity
+public class AzureSqlTokenProvider : IAzureSqlTokenProvider
+{
+    private static readonly string[] _azureSqlScopes = new[] { "https://database.windows.net//.default" };
+
+    public async Task<(string AccessToken, DateTimeOffset ExpiresOn)> GetAccessTokenAsync(
+        CancellationToken cancellationToken = default)
+    {
+        var tokenRequestContext = new TokenRequestContext(_azureSqlScopes);
+        var token = await new ChainedTokenCredential(new ManagedIdentityCredential(), new VisualStudioCredential(),
+            new VisualStudioCodeCredential()).GetTokenAsync(tokenRequestContext, cancellationToken);
+        return (token.Token, token.ExpiresOn);
+    }
+
+    public (string AccessToken, DateTimeOffset ExpiresOn) GetAccessToken()
+    {
+        var tokenRequestContext = new TokenRequestContext(_azureSqlScopes);
+        var token = new ChainedTokenCredential(new ManagedIdentityCredential(), new VisualStudioCredential(),
+            new VisualStudioCodeCredential()).GetToken(tokenRequestContext);
+        return (token.Token, token.ExpiresOn);
+    }
+}
+
+// Decorator that caches tokens in the in-memory cache
+public class CacheAzureSqlTokenProvider : IAzureSqlTokenProvider
+{
+    private const string _cacheKey = nameof(CacheAzureSqlTokenProvider);
+    private readonly IAzureSqlTokenProvider _inner;
+    private readonly IMemoryCache _cache;
+
+    public CacheAzureSqlTokenProvider(IAzureSqlTokenProvider inner, IMemoryCache cache)
+    {
+        _inner = inner;
+        _cache = cache;
+    }
+
+    public async Task<(string AccessToken, DateTimeOffset ExpiresOn)> GetAccessTokenAsync(
+        CancellationToken cancellationToken = default)
+    {
+        return await _cache.GetOrCreateAsync(_cacheKey, async cacheEntry =>
+        {
+            var (token, expiresOn) = await _inner.GetAccessTokenAsync(cancellationToken);
+
+            // AAD access tokens have a default lifetime of 1 hour, so we take a small safety margin
+            cacheEntry.SetAbsoluteExpiration(expiresOn.AddMinutes(-10));
+            return (token, expiresOn);
+        });
+    }
+
+    public (string AccessToken, DateTimeOffset ExpiresOn) GetAccessToken()
+    {
+        return _cache.GetOrCreate(_cacheKey, cacheEntry =>
+        {
+            var (token, expiresOn) = _inner.GetAccessToken();
+
+            // AAD access tokens have a default lifetime of 1 hour, so we take a small safety margin
+            cacheEntry.SetAbsoluteExpiration(expiresOn.AddMinutes(-10));
+            return (token, expiresOn);
+        });
+    }
+
+    ///
+
+
+
+
+
+
+public class FilterService : IFilterService
+{
+    private readonly HttpClient _client;
+    private readonly IAzureTokenService _azureTokenService;
+    private readonly IHttpContextAccessor _httpContextAccessor;
+    private readonly IConfiguration _configuration;
+    private readonly IContextService _contextService;
+    private readonly ITokenAcquisition _tokenAcquisition;
+
+    public FilterService(HttpClient client, IAzureTokenService azureTokenService, IConfiguration configuration,
+        IHttpContextAccessor httpContextAccessor, IContextService contextService, ITokenAcquisition tokenAcquisition)
+    {
+        _client = client;
+        _azureTokenService = azureTokenService;
+        _configuration = configuration;
+        _httpContextAccessor = httpContextAccessor;
+        _contextService = contextService;
+        _tokenAcquisition = tokenAcquisition;
+    }
+
+    private async Task BuildClient()
+    {
+        _client.BaseAddress = new Uri(_configuration["FilterServiceBaseUri"] ??
+                                      throw new InvalidOperationException(
+                                          "FilterServiceBaseUri not set in configuration"));
+        if (_contextService.IsCientApp() || _contextService.IsQualifiedForAppAuthentication())
+        {
+            var accessToken =
+                await _azureTokenService.GetCachedAccessTokenForAzureResourceDefaultScopeUsingClientSecretCredential(
+                    _configuration["TenantId"], _configuration["ClientId"], _configuration["ISecret"],
+                    _configuration["FilterServiceAppIdUri"]);
+            _client.DefaultRequestHeaders.Add("Authorization", accessToken);
+        }
+        else
+        {
+            var userToken =
+                await _tokenAcquisition.GetAccessTokenForUserAsync(new[]
+                {
+                    $"{_configuration["FilterServiceAppIdUri"]}/.default"
+                });
+            _client.DefaultRequestHeaders.Add("Authorization", $"Bearer {userToken}");
+        }
+    }
+
+    public async Task<string> FetchAllFilterEvents()
+    {
+        if (!_client.DefaultRequestHeaders.Contains("Authorization"))
+            await BuildClient();
+        var response = await _client.GetAsync("/api/v1/event");
+        var responseJson = await response.Content.ReadAsStringAsync();
+        return responseJson;
+    }
+
+    public async Task<string> FetchFilterEvent(string? FilterEvent)
+    {
+        if (!_client.DefaultRequestHeaders.Contains("Authorization"))
+            await BuildClient();
+        var response = await _client.GetAsync($"/api/v1/event?event={FilterEvent}");
+        var responseJson = await response.Content.ReadAsStringAsync();
+        return responseJson;
+    }
+
+    public async Task<string> CreateFilterEvent(string? payload)
+    {
+        if (!_client.DefaultRequestHeaders.Contains("Authorization"))
+            await BuildClient();
+        var httpContent = new StringContent(payload!, Encoding.UTF8, "application/json");
+        var response = await _client.PostAsync("/api/v1/event/create", httpContent);
+        var responseJson = await response.Content.ReadAsStringAsync();
+        return responseJson;
+    }
+
+    public async Task<string> CreateFilterEvent(FilterEventCreationDto payload)
+    {
+        if (!_client.DefaultRequestHeaders.Contains("Authorization"))
+            await BuildClient();
+        var content = JsonConvert.SerializeObject(new
+        {
+            user = payload.User,
+            application = payload.Application,
+            eventName = payload.EventName,
+            description = payload.Description,
+        });
+        var httpContent = new StringContent(content, Encoding.UTF8, "application/json");
+        var response = await _client.PostAsync("/api/v1/event/create", httpContent);
+        var responseJson = await response.Content.ReadAsStringAsync();
+        return responseJson;
+    }
+
+    public async Task<string> CreateFilterEventForEntityUpdate(string appName, ChangeTracker changeTracker)
+    {
+        try
+        {
+            var entitiesToTrack = changeTracker.Entries().Where(e =>
+                e.State != EntityState.Detached && e.State != EntityState.Unchanged && e.State != EntityState.Added);
+            foreach (var entity in entitiesToTrack)
+            {
+                var tableName = entity.Metadata.GetTableName();
+                var userName = _httpContextAccessor?.HttpContext?.User?.Identity?.Name;
+                var endPoint =
+                    $"{_httpContextAccessor?.HttpContext?.Request.Method} {_httpContextAccessor?.HttpContext?.Request.Path.Value}";
+                var keys = entity.State != EntityState.Added
+                    ? entity.Properties.FirstOrDefault(p => p.Metadata.IsPrimaryKey())?.CurrentValue?.ToString()
+                    : null;
+                switch (entity.State)
+                {
+                    case EntityState.Modified:
+                        {
+                            var FilterData = JsonConvert.SerializeObject(new
+                            {
+                                newValue = JsonConvert.SerializeObject(
+                                    entity.Properties.ToDictionary(prop => prop.Metadata.Name,
+                                        prop => prop.CurrentValue)),
+                                oldValue = JsonConvert.SerializeObject(
+                                    entity.Properties.ToDictionary(prop => prop.Metadata.Name,
+                                        prop => prop.OriginalValue))
+                            });
+                            var content = JsonConvert.SerializeObject(new
+                            {
+                                user = userName,
+                                application = appName,
+                                endPoint,
+                                eventName = EventType.DATA_MODIFIED.ToString(),
+                                tableName,
+                                description = FilterData,
+                                keys
+                            });
+                            await CreateFilterEvent(content);
+                            foreach (var prop in entity.Properties)
+                            {
+                                if (prop.OriginalValue?.ToString() == prop.CurrentValue?.ToString()) continue;
+                                if (prop.Metadata.Name.ToLower() == "modifiedat" ||
+                                    prop.Metadata.Name.ToLower() == "modified" ||
+                                    prop.Metadata.Name.ToLower() == "createdat" ||
+                                    prop.Metadata.Name.ToLower() == "created") continue;
+                                var fieldName = prop.Metadata.Name;
+                                FilterData = JsonConvert.SerializeObject(new
+                                {
+                                    fieldName,
+                                    oldValue = prop.OriginalValue,
+                                    newValue = prop.CurrentValue,
+                                });
+                                content = JsonConvert.SerializeObject(new
+                                {
+                                    user = userName,
+                                    application = appName,
+                                    endPoint,
+                                    eventName = EventType.DATA_MODIFIED.ToString(),
+                                    tableName,
+                                    description = FilterData,
+                                    keys
+                                });
+                                await CreateFilterEvent(content);
+                            }
+
+                            break;
+                        }
+                    case EntityState.Deleted:
+                        {
+                            var FilterData = JsonConvert.SerializeObject(new
+                            {
+                                oldValue = JsonConvert.SerializeObject(
+                                    entity.Properties.ToDictionary(prop => prop.Metadata.Name,
+                                        prop => prop.OriginalValue))
+                            });
+                            var content = JsonConvert.SerializeObject(new
+                            {
+                                user = userName,
+                                application = appName,
+                                endPoint,
+                                eventName = EventType.DATA_DELETED.ToString(),
+                                tableName,
+                                description = FilterData,
+                                keys
+                            });
+                            await CreateFilterEvent(content);
+                            break;
+                        }
+                    case EntityState.Added:
+                        {
+                            var FilterData = JsonConvert.SerializeObject(new
+                            {
+                                newValue = JsonConvert.SerializeObject(
+                                    entity.Properties.ToDictionary(prop => prop.Metadata.Name,
+                                        prop => prop.CurrentValue)),
+                            });
+                            var content = JsonConvert.SerializeObject(new
+                            {
+                                user = userName,
+                                application = appName,
+                                endPoint,
+                                eventName = EventType.DATA_ADDED.ToString(),
+                                tableName,
+                                description = FilterData,
+                                keys
+                            });
+                            await CreateFilterEvent(content);
+                            break;
+                        }
+                }
+            }
+
+            return "Filter Data Logged Successfully";
+        }
+        catch (Exception)
+        {
+            return "Filter Data Logging Failed";
+        }
+    }
+
+    public async Task<string> CreateFilterEventForEntityAdded(string appName, IEnumerable<EntityEntry> entities)
+    {
+        try
+        {
+            foreach (var entity in entities.ToList())
+            {
+                var tableName = entity.Metadata.GetTableName();
+                var userName = _httpContextAccessor?.HttpContext?.User?.Identity?.Name;
+                var endPoint =
+                    $"{_httpContextAccessor?.HttpContext?.Request.Method} {_httpContextAccessor?.HttpContext?.Request.Path.Value}";
+                var keys = entity.Properties.FirstOrDefault(p => p.Metadata.IsPrimaryKey())?.CurrentValue?.ToString();
+                var FilterData = JsonConvert.SerializeObject(new
+                {
+                    newValue = JsonConvert.SerializeObject(
+                        entity.Properties.ToDictionary(prop => prop.Metadata.Name, prop => prop.CurrentValue)),
+                });
+                var content = JsonConvert.SerializeObject(new
+                {
+                    user = userName,
+                    application = appName,
+                    endPoint,
+                    eventName = EventType.DATA_ADDED.ToString(),
+                    tableName,
+                    description = FilterData,
+                    keys
+                });
+                await CreateFilterEvent(content);
+            }
+
+            return "Filter Data Logged Successfully";
+        }
+        catch (Exception)
+        {
+            return "Filter Data Logging Failed";
+        }
+    }
+}
+}
 ```
 
 ```sql
