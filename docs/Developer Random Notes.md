@@ -1030,6 +1030,634 @@ public class MemoryCacheService : IMemoryCacheService
         Regex.Replace(json,
             "\\s+(?=((\\\\[\\\\\"]|[^\\\\\"])*\"(\\\\[\\\\\"]|[^\\\\\"])*\")*(\\\\[\\\\\"]|[^\\\\\"])*$)", "");
 }
+
+//
+
+[assembly: WebJobsStartup(typeof(DbMigration), "DbMigration")]
+
+
+public class DbMigration : IWebJobsStartup
+{
+    public void Configure(IWebJobsBuilder builder)
+    {
+        builder.AddExtension<DbSeedConfigProvider>();
+    }
+
+    internal class DbSeedConfigProvider : IExtensionConfigProvider
+    {
+        private readonly IServiceScopeFactory _scopeFactory;
+
+        public DbSeedConfigProvider(IServiceScopeFactory scopeFactory)
+        {
+            _scopeFactory = scopeFactory;
+        }
+
+        public void Initialize(ExtensionConfigContext context)
+        {
+            using var scope = _scopeFactory.CreateScope();
+            var dbContext = scope.ServiceProvider.GetService<DBDbContext>();
+
+            var migrator = dbContext?.Database.GetService<IMigrator>();
+            migrator?.Migrate();
+        }
+    }
+}
+
+//
+
+
+public static class ErrorResponseMapper
+{
+    public class ErrorObjectResult : ObjectResult
+    {
+        public ErrorObjectResult(ProblemDetails value) : base(value)
+        {
+            StatusCode = value.Status;
+        }
+    }
+
+    private static ObjectResult CreateResponse(
+        HttpStatusCode statusCode,
+        string type,
+        string title = "",
+        string detail = "",
+        string instance = "")
+    {
+        var problem = new ProblemDetails
+        {
+            Status = (int)statusCode,
+            Type = type,
+            Title = title,
+            Instance = instance,
+            Detail = detail
+        };
+
+        return new ErrorObjectResult(problem);
+    }
+
+    public static ObjectResult BadRequest(
+        string type = "",
+        string title = "",
+        string detail = "",
+        string instance = "") =>
+        CreateResponse(HttpStatusCode.BadRequest, type, title, detail, instance);
+
+    public static ObjectResult InternalServerError(
+        string type = "",
+        string title = "Unexpected Error",
+        string detail = "",
+        string instance = "") =>
+        CreateResponse(HttpStatusCode.InternalServerError, type, title, detail, instance);
+
+    public static ObjectResult NotFound(
+        string type = "",
+        string title = "",
+        string detail = "",
+        string instance = "") =>
+        CreateResponse(HttpStatusCode.NotFound, type, title, detail, instance);
+
+    public static ObjectResult RequestTimeout(string detail = "") => CreateResponse(HttpStatusCode.RequestTimeout, "", "Timeout", detail);
+}
+
+//
+
+
+
+public class IgnorePropertiesResolver : DefaultContractResolver
+{
+    private readonly HashSet<string?> _propsToIgnore;
+
+    public IgnorePropertiesResolver(IEnumerable<string> propNamesToIgnore)
+    {
+        _propsToIgnore = new HashSet<string?>(propNamesToIgnore);
+    }
+
+    protected override JsonProperty CreateProperty(MemberInfo member, MemberSerialization memberSerialization)
+    {
+        var property = base.CreateProperty(member, memberSerialization);
+
+        if (_propsToIgnore.Contains(property.PropertyName))
+        {
+            property.ShouldSerialize = _ => false;
+        }
+
+        property.PropertyName = property.PropertyName.ToCamelCase();
+
+        return property;
+    }
+}
+
+public static class StringExtensions
+{
+    public static string? ToCamelCase(this string? input)
+    {
+        if (string.IsNullOrEmpty(input) || !char.IsUpper(input[0]))
+            return input;
+
+        var camelCase = char.ToLower(input[0]) + input[1..];
+        return camelCase;
+    }
+}
+
+
+
+public class OpenApiConfigurationOptions : DefaultOpenApiConfigurationOptions
+{
+    public override OpenApiVersionType OpenApiVersion { get; set; } = OpenApiVersionType.V3;
+
+    public override OpenApiInfo Info { get; set; } = new()
+    {
+        Version = "1.0.0",
+        Title = "",
+        Description =
+            ""
+    };
+
+    public override List<OpenApiServer> Servers { get; set; } = new();
+}
+
+public class ImplicitAuthFlow : OpenApiOAuthSecurityFlows
+{
+    private const string AuthorisationUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/authorize";
+    private const string RefreshUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+    private const string TokenUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+
+    public ImplicitAuthFlow()
+    {
+        var tenantId =
+            Environment.GetEnvironmentVariable(AZURE_TENANT_ID,
+                EnvironmentVariableTarget.Process);
+        Implicit = new OpenApiOAuthFlow
+        {
+            AuthorizationUrl = new Uri(string.Format(AuthorisationUrl, tenantId)),
+            TokenUrl = new Uri(string.Format(TokenUrl, tenantId)),
+            RefreshUrl = new Uri(string.Format(RefreshUrl, tenantId)),
+            Scopes = { { $"{Environment.GetEnvironmentVariable("AZURE_AUDIENCE")}/.default", " Scope" } }
+        };
+    }
+}
+
+public class AuthCodeAuthFlow : OpenApiOAuthSecurityFlows
+{
+    private const string AuthorisationUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/authorize";
+    private const string TokenUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+    private const string RefreshUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+
+    public AuthCodeAuthFlow()
+    {
+        var tenantId =
+            Environment.GetEnvironmentVariable(AZURE_TENANT_ID,
+                EnvironmentVariableTarget.Process);
+        AuthorizationCode = new OpenApiOAuthFlow
+        {
+            AuthorizationUrl = new Uri(string.Format(AuthorisationUrl, tenantId)),
+            TokenUrl = new Uri(string.Format(TokenUrl, tenantId)),
+            RefreshUrl = new Uri(string.Format(RefreshUrl, tenantId)),
+            Scopes = { { $"{Environment.GetEnvironmentVariable("AZURE_AUDIENCE")}/.default", " Scope" } }
+        };
+    }
+}
+
+public class ClientCredAuthFlow : OpenApiOAuthSecurityFlows
+{
+    private const string AuthorisationUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/authorize";
+    private const string RefreshUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+    private const string TokenUrl = "https://login.microsoftonline.com/{0}/oauth2/v2.0/token";
+    public const string SchemeName = "ClientCredAuthFlow";
+
+    public ClientCredAuthFlow()
+    {
+        var tenantId =
+            Environment.GetEnvironmentVariable(IdentityConfiguration.AZURE_TENANT_ID,
+                EnvironmentVariableTarget.Process);
+        ClientCredentials = new OpenApiOAuthFlow
+        {
+            AuthorizationUrl = new Uri(string.Format(AuthorisationUrl, tenantId)),
+            TokenUrl = new Uri(string.Format(TokenUrl, tenantId)),
+            RefreshUrl = new Uri(string.Format(RefreshUrl, tenantId)),
+            Scopes = { { $"{Environment.GetEnvironmentVariable("AZURE_AUDIENCE")}/.default", " Scope" } }
+        };
+    }
+}
+
+//
+
+
+public partial class MicrosoftGraphRepository
+{
+    public async Task<List<User>?> GetGraphGroupMembers(string? group)
+    {
+        var graphClient = await MsGraphClient();
+        if (Guid.TryParse(group, out _))
+        {
+            return await GetGraphGroupMembersUsingGroupId(group);
+        }
+
+        var iGraphServiceGroupsCollectionPage = await graphClient?.Groups
+            .Request(new Option[] { new QueryOption("$count", "true") })
+            .Header("ConsistencyLevel", "eventual")
+            .Filter($"displayName eq '{group}'")
+            .Select("id,displayName,members")
+            .GetAsync()!;
+
+        return await GetGraphGroupMembersUsingGroupId(iGraphServiceGroupsCollectionPage.FirstOrDefault()?.Id, group);
+    }
+
+    public async Task<List<User>?> GetGraphGroupMembersUsingGroupId(string? groupId, string? groupName = null)
+    {
+        var list = new List<User>();
+
+        if (groupId != null)
+        {
+            var graphClient = await MsGraphClient();
+
+            var members = await graphClient?.Groups[groupId].Members
+                .Request(new Option[] { new QueryOption("$count", "true") })
+                .Header("ConsistencyLevel", "eventual")
+                .GetAsync()!;
+
+            while (members.Count > 0)
+            {
+                list.AddRange(members.Select(x => x as User)!);
+                if (members.NextPageRequest != null)
+                    members = await members.NextPageRequest.GetAsync();
+                else
+                    break;
+            }
+        }
+        else
+        {
+            var members = await _Service.GetMembersForOnPremGroup("gh", groupName);
+            if (!members.Any())
+                return list;
+
+            list.AddRange(members.Select(mail => new User { Mail = mail?.ToLower() }));
+        }
+
+        return list;
+    }
+}
+
+//
+
+
+public partial class MicrosoftGraphRepository
+{
+    public async Task<GraphServiceClient?> MsGraphClient()
+    {
+        async Task<GraphServiceClient?> GraphClientFunc()
+        {
+            try
+            {
+                Environment.SetEnvironmentVariable(AZURE_CLIENT_SECRET,
+                    _config[CLIENTSECRET_IDENTIFIER]);
+                var credential = new ChainedTokenCredential(new EnvironmentCredential(), new ManagedIdentityCredential());
+                var token = await credential.GetTokenAsync(
+                    requestContext: new TokenRequestContext(new[] { "https://graph.microsoft.com/.default" }));
+
+                var graphServiceClient = new GraphServiceClient(new DelegateAuthenticationProvider(requestMessage =>
+                {
+                    requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token.Token);
+
+                    return Task.CompletedTask;
+                }));
+
+                return graphServiceClient;
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+        }
+
+        return await _cache.GetOrAddAsync("GraphClient", entry =>
+        {
+            var record = GraphClientFunc();
+            entry.AbsoluteExpiration = record.Result == null ? DateTimeOffset.UtcNow.AddMinutes(-1) : DateTimeOffset.UtcNow.AddMinutes(5);
+            return record;
+        });
+    }
+}
+
+using AppRoleAssignment = Microsoft.Graph.AppRoleAssignment;
+using Group = Microsoft.Graph.Group;
+
+
+public partial class MicrosoftGraphRepository
+{
+    public async Task<User?> GetGraphUser(string? email)
+    {
+        var graphClient = await MsGraphClient();
+
+        return await graphClient?.Users[email].Request().GetAsync()!;
+    }
+
+    public async Task<(User user, string? profilePictureBase64Encoded)> GetDetailedGraphUser(string? email)
+    {
+        var graphClient = await MsGraphClient();
+
+        var user = await graphClient?.Users[email].Request().GetAsync()!;
+        Stream? photoStream = null;
+        try
+        {
+            photoStream = await graphClient.Users[email].Photo.Content.Request().GetAsync()!;
+        }
+        catch (Exception)
+        {
+            // ignored
+        }
+
+        string? profilePictureBase64Encoded = null;
+        if (photoStream == null) return (user, profilePictureBase64Encoded);
+        using var ms = new MemoryStream();
+        await photoStream.CopyToAsync(ms);
+        profilePictureBase64Encoded = $"data:image/png;base64,{Convert.ToBase64String(ms.ToArray())}";
+
+        return (user, profilePictureBase64Encoded);
+    }
+
+    public async Task<bool> IsGraphUserPresent(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            return (await graphClient?.Users[email].Request().GetAsync()!).DisplayName != null;
+        }
+        catch (Exception)
+        {
+            return false;
+        }
+    }
+
+    public async Task<string?> GetGraphUserManager(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            var manager = await graphClient?.Users[email].Manager.Request().Select("displayName").GetAsync()! as User;
+            return manager?.DisplayName;
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<Stream?> GetGraphUserProfilePhoto(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            return await graphClient?.Users[email].Photo.Content.Request().GetAsync()!;
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<string?> GetGraphUserAppRoleAssignmentsList(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            var appRoleAssignmentsCollectionPage = await graphClient?.Users[email].AppRoleAssignments
+                .Request(new Option[] { new QueryOption("$count", "true") })
+                .Header("ConsistencyLevel", "eventual")
+                .Select(x => new { x.PrincipalDisplayName, x.CreatedDateTime, x.PrincipalType, x.ResourceDisplayName })
+                .GetAsync()!;
+            var list = new List<AppRoleAssignment>();
+            while (appRoleAssignmentsCollectionPage.Count > 0)
+            {
+                list.AddRange(appRoleAssignmentsCollectionPage.Select(role => role));
+                if (appRoleAssignmentsCollectionPage.NextPageRequest != null)
+                    appRoleAssignmentsCollectionPage =
+                        await appRoleAssignmentsCollectionPage.NextPageRequest.GetAsync();
+                else
+                    break;
+            }
+
+            return JsonConvert.SerializeObject(list,
+                new JsonSerializerSettings
+                {
+                    NullValueHandling = NullValueHandling.Ignore,
+                    Formatting = Formatting.Indented,
+                    ContractResolver = new IgnorePropertiesResolver(new[] { "ODataType" })
+                });
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<string?> GetGraphUserMemberOfGroupsList(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            var memberOfCollectionWithReferencesPage = await graphClient?.Users[email].MemberOf
+                .Request(new Option[] { new QueryOption("$count", "true") })
+                .Header("ConsistencyLevel", "eventual")
+                .Select("id,displayName")
+                .GetAsync()!;
+            var list = new List<Group?>();
+            while (memberOfCollectionWithReferencesPage.Count > 0)
+            {
+                list.AddRange(memberOfCollectionWithReferencesPage.Select(x => x as Group));
+                if (memberOfCollectionWithReferencesPage.NextPageRequest != null)
+                    memberOfCollectionWithReferencesPage =
+                        await memberOfCollectionWithReferencesPage.NextPageRequest.GetAsync();
+                else
+                    break;
+            }
+
+            var groupList = list.Where(g => g != null).SelectMany(g => new[] { g?.DisplayName });
+
+            return JsonConvert.SerializeObject(groupList,
+                new JsonSerializerSettings
+                {
+                    NullValueHandling = NullValueHandling.Ignore,
+                    Formatting = Formatting.Indented,
+                    ContractResolver = new IgnorePropertiesResolver(new[] { "ODataType" })
+                });
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+
+    public async Task<string?> GetGraphUserTransitiveMemberOfGroupsList(string? email)
+    {
+        var graphClient = await MsGraphClient();
+        try
+        {
+            var memberOfCollectionWithReferencesPage = await graphClient?.Users[email].TransitiveMemberOf
+                .Request(new Option[] { new QueryOption("$count", "true") })
+                .Header("ConsistencyLevel", "eventual")
+                .Select("id,displayName")
+                .GetAsync()!;
+            var list = new List<Group?>();
+            while (memberOfCollectionWithReferencesPage.Count > 0)
+            {
+                list.AddRange(memberOfCollectionWithReferencesPage.Select(x => x as Group));
+                if (memberOfCollectionWithReferencesPage.NextPageRequest != null)
+                    memberOfCollectionWithReferencesPage =
+                        await memberOfCollectionWithReferencesPage.NextPageRequest.GetAsync();
+                else
+                    break;
+            }
+
+            return JsonConvert.SerializeObject(list,
+                new JsonSerializerSettings
+                {
+                    NullValueHandling = NullValueHandling.Ignore,
+                    Formatting = Formatting.Indented,
+                    ContractResolver = new IgnorePropertiesResolver(new[] { "ODataType" })
+                });
+        }
+        catch (Exception)
+        {
+            return null;
+        }
+    }
+}
+
+
+public class StorageRepository : IStorageRepository
+{
+    private readonly TelemetryClient _telemetryClient;
+    private readonly BlobServiceClient _blobServiceClient;
+    public IConfiguration _config;
+
+    public StorageRepository(TelemetryClient telemetryClient, BlobServiceClient blobServiceClient, IConfiguration config)
+    {
+        _telemetryClient = telemetryClient;
+        _blobServiceClient = blobServiceClient;
+        _config = config;
+    }
+
+    public async Task<Response<BlobContentInfo>> UploadProfilePictureAsBlob(string? blobName, Stream? photoStream)
+    {
+        var blobContainerClient = _blobServiceClient.GetBlobContainerClient(_config[CONTAINER_PROFILE_PICTURE]);
+        var blobClient = blobContainerClient.GetBlobClient(blobName?.ToLower());
+        return await blobClient.UploadAsync(photoStream, true);
+    }
+
+    public async Task<MemoryStream?> GetProfilePictureMemoryStreamFromBlob(string? blobName)
+    {
+        var blobContainerClient = _blobServiceClient.GetBlobContainerClient(_config[CONTAINER_PROFILE_PICTURE]);
+        var blobClient = blobContainerClient.GetBlobClient(blobName?.ToLower());
+        if (!await blobClient.ExistsAsync()) return null;
+        var stream = await blobClient.OpenReadAsync();
+        var memoryStream = new MemoryStream();
+        await stream.CopyToAsync(memoryStream);
+        return memoryStream;
+    }
+
+
+
+public sealed class ddDbContext : DbContext, IddDbContext
+{
+    public IAppCache? _cache;
+    public IConfiguration? _config;
+
+    public ddDbContext(DbContextOptions<ddDbContext> options, IAppCache? cache, IConfiguration? config) : base(options)
+    {
+        _cache = cache;
+        _config = config;
+        if (!Database.IsRelational()) return;
+        var connection = (SqlConnection)Database.GetDbConnection();
+
+        string? GetAzureDatabaseAccessToken()
+        {
+            try
+            {
+                return new ManagedIdentityCredential().GetToken(
+                    new TokenRequestContext(new[] { "https://database.windows.net/.default" })).Token;
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+        }
+
+        if (_cache != null)
+
+            connection.AccessToken = _cache.GetOrAdd("AzureDatabaseAccessToken", entry =>
+            {
+                var record = GetAzureDatabaseAccessToken();
+                entry.AbsoluteExpiration = record == null ? DateTimeOffset.UtcNow.AddMinutes(-1) : DateTimeOffset.UtcNow.AddMinutes(5);
+                return record;
+            });
+    }
+
+    public DbSet<UserGraph>? UsersGraph { get; set; }
+    public DbSet<UserApp>? UsersApp { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<UserGraph>().Navigation(g => g.UserApp).AutoInclude();
+        modelBuilder.Entity<UserGraph>().HasAlternateKey(c => c.Mail);
+        modelBuilder.Entity<UserApp>().HasAlternateKey(c => c.Mail);
+        modelBuilder.Entity<UserGraph>()
+            .HasOne(g => g.UserApp).WithOne(u => u.UserGraph).HasForeignKey<UserApp>(u => u.Id);
+    }
+
+    public async Task<int> CustomSaveChangesAsync()
+    {
+        return await SaveChangesAsync(CancellationToken.None);
+    }
+
+    public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        var entries = ChangeTracker
+            .Entries()
+            .Where(e => e.Entity is BaseEntity && e.State is EntityState.Added or EntityState.Modified);
+
+        foreach (var entityEntry in entries)
+        {
+            ((BaseEntity)entityEntry.Entity).Updated = DateTime.Now;
+
+            if (entityEntry.State == EntityState.Added)
+            {
+                ((BaseEntity)entityEntry.Entity).Created = DateTime.Now;
+            }
+        }
+
+        return await base.SaveChangesAsync(cancellationToken);
+    }
+}
+}
+
+
+public class DbContextDesignHelper
+{
+    private class ddDbContextFactory : IDesignTimeDbContextFactory<ddDbContext>
+    {
+        public ddDbContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<ddDbContext>();
+            optionsBuilder.UseSqlServer(GetDBConnection());
+            return new ddDbContext(optionsBuilder.Options, null, null!);
+        }
+    }
+
+    private static SqlConnection GetDBConnection()
+    {
+        IConfiguration config = new ConfigurationBuilder().SetBasePath(Path.Combine(Directory.GetCurrentDirectory()))
+            .AddJsonFile("local.settings.json").Build();
+        var token = new ManagedIdentityCredential().GetToken(
+            new TokenRequestContext(new[] { "https://database.windows.net/.default" }));
+        var conn = new SqlConnection
+        {
+            ConnectionString = config.GetSection("Values").GetValue<string>("conn"),
+            AccessToken = token.Token
+        };
+        return conn;
+    }
+}
 ```
 
 ```sql
