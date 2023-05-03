@@ -16,7 +16,7 @@ Another advantage of bitcoin is that it is secure. Transactions are verified and
 
 Bitcoin is also a global currency, which means that it can be used to send money anywhere in the world. Transactions are processed in real-time, which means that there are no delays in sending and receiving money.
 
-Disadvantages of Bitcoin
+## Disadvantages of Bitcoin
 
 One of the disadvantages of bitcoin is that it is still not widely accepted as a form of payment. While more and more merchants are beginning to accept bitcoin, it is still not as widely accepted as traditional currencies.
 
