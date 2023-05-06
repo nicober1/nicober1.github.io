@@ -315,6 +315,10 @@ const config = {
           position: 'left',
           items: [
             {
+              to: '/twitter/stockmarket',
+              label: 'Stock Market News @ Twitter - India',
+            },
+            {
               to: '/nse/fo',
               label: 'FnO Stocks - India',
             },

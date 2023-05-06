@@ -29,4 +29,4 @@ export default () => {
   )
 }
 
-const profiles = ['AlgoBoffin', 'vka27', 'CNBCTV18News', 'EconomicTimes', 'Bhagirathsutar', 'Am_Shai']
+const profiles = ['CNBCTV18News', 'EconomicTimes','AlgoBoffin', 'vka27', 'Bhagirathsutar', 'Am_Shai']
