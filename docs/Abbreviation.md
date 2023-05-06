@@ -2,4 +2,6 @@
 keywords: [Abbreviation]
 ---
 
-[label](ASP.NET%20Core%20Web%20API%20HangFire.md)
+JavaScript Syntax eXtension (JSX)
+ASP stands for Active Server Pages
+JSON stands for JavaScript Object Notation
