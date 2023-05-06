@@ -1,12 +1,19 @@
 import React, { useState, useEffect } from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
+import CardGradientsDark from '@site/src/components/CardGradientsDark'
+import Layout from '@theme/Layout'
+
+
 
 function Card({ title }) {
   return (
+    <CardGradientsDark>
     <div className="max-w-sm rounded overflow-hidden shadow-lg p-4">
-      <div className="font-bold text-xl mb-2">{title}</div>
+      <div className="card font-bold text-xl mb-2">{title}</div>
     </div>
+    </CardGradientsDark>
+
   );
 }
 
@@ -32,6 +39,9 @@ function App() {
   }, []);
 
   return (
+    <Layout>
+
+
     <div className="container mx-auto p-4">
       <Tabs>
         <TabList>
@@ -65,6 +75,8 @@ function App() {
         </TabPanel>
       </Tabs>
     </div>
+        </Layout>
+
   );
 }
 
