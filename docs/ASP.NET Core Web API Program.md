@@ -108,6 +108,10 @@ services.AddHttpContextAccessor();
             .EnableTokenAcquisitionToCallDownstreamApi()
             .AddInMemoryTokenCaches();
 
+              services.AddMicrosoftIdentityWebApiAuthentication(Configuration);
+
+                 services.AddMicrosoftIdentityWebApiAuthentication(Configuration, "AzureAdB2C");
+
         services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
             .AddMicrosoftIdentityWebApp(Configuration.GetSection("AzureAd"))
             .EnableTokenAcquisitionToCallDownstreamApi()
@@ -163,7 +167,16 @@ services.Configure<ConfidentialClientApplicationOptions>(OpenIdConnectDefault.Au
      })
    .AddInMemoryTokenCaches();
 
-   
+   services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
+              .AddMicrosoftIdentityWebApp(Configuration.GetSection("AzureAd"))
+                  .EnableTokenAcquisitionToCallDownstreamApi(initialScopes)
+                      .AddMicrosoftGraph(Configuration.GetSection("DownstreamApi"))
+                      .AddInMemoryTokenCaches();
+
+  services.AddAuthentication()
+            .AddMicrosoftIdentityWebApi(Configuration.GetSection("AzureAd"),
+                                        JwtBearerDefaults.AuthenticationScheme)
+            .EnableTokenAcquisitionToCallDownstreamApi();
 
         services.AddAuthorization(options =>
             options.AddPolicy("Admin",
