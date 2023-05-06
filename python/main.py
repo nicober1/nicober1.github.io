@@ -7,13 +7,10 @@ def fetch_bbc_headlines():
     url = "https://www.bbc.com/news"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
-    headlines = soup.find("body").find_all("h3")
-    for x in headlines:
-        print(x.text.strip())
-    headliness = []
-    for element in headlines:
-        headliness.append(element.text.strip())
-    return headliness
+    print(soup)
+    headline_elements = soup.find_all("h3")
+    headlines = [element.text.strip() for element in headline_elements]
+    return headlines
 
 
 def write_to_json_file(data):
@@ -22,7 +19,7 @@ def write_to_json_file(data):
 
 
 # Fetch the headlines
-headliness = fetch_bbc_headlines()
+headlines = fetch_bbc_headlines()
 
 # Write the headlines to a JSON file
-write_to_json_file(headliness)
+write_to_json_file(headlines)
