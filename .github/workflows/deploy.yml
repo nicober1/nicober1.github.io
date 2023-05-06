@@ -14,7 +14,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r python/requirements.txt
+      - name: Run Python files in one step
+        run: |
+          python python/cnn.py
+          python python/bbc.py
+          python python/cnbc.py
       - name: Cache node modules
         id: cache-npm
         uses: actions/cache@v3

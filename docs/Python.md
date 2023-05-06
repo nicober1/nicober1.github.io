@@ -5,6 +5,10 @@ keywords: [Python]
 ```python
 python -m pip install --upgrade pip
 
+pip freeze
+
+pip install --upgrade -r requirements.txt
+
 
 
 import requests
