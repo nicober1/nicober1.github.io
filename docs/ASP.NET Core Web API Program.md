@@ -118,6 +118,53 @@ services.AddHttpContextAccessor();
             options.ClientSecret = Configuration["Secret"];
         });
 
+services.Configure<ConfidentialClientApplicationOptions>(OpenIdConnectDefault.AuthenticationScheme, options =>
+{
+ options.ClientSecret = Configuration["Secret"];
+});
+
+ services.Configure<ConfidentialClientApplicationOptions>(JwtBearerDefaults.AuthenticationScheme, options =>
+{
+ options.ClientSecret = Configuration["Secret"];
+});
+
+
+ services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
+    .AddMicrosoftIdentityWebApp(microsoftIdentityOptions=>
+    {
+      Configuration.Bind("AzureAd", microsoftIdentityOptions);
+      microsoftIdentityOptions.ClientCredentials = new CredentialDescription[] {
+        CertificateDescription.FromKeyVault("https://msidentitywebsamples.vault.azure.net",
+                                            "MicrosoftIdentitySamplesCert")};
+    })
+  .EnableTokenAcquisitionToCallDownstreamApi(confidentialClientApplicationOptions=>
+    {
+    Configuration.Bind("AzureAd", confidentialClientApplicationOptions); 
+    })
+  .AddInMemoryTokenCaches();
+ 
+
+  services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+   .AddMicrosoftIdentityWebApi(
+     configureJwtBearerOptions =>
+     {
+      Configuration.Bind("AzureAd", configureJwtBearerOptions);
+     }, microsoftIdentityOptions=>
+     {
+      Configuration.Bind("AzureAd", microsoftIdentityOptions);
+      microsoftIdentityOptions.TokenDecryptionCertificates = new CertificateDescription[] {
+         CertificateDescription.FromKeyVault("https://msidentitywebsamples.vault.azure.net",
+                                             "MicrosoftIdentitySamplesDecryptCert")};
+     })
+   .EnableTokenAcquisitionToCallDownstreamApi(
+     confidentialClientApplicationOptions=>
+     {
+      Configuration.Bind("AzureAd", confidentialClientApplicationOptions); 
+     })
+   .AddInMemoryTokenCaches();
+
+   
+
         services.AddAuthorization(options =>
             options.AddPolicy("Admin",
                 policy => policy.RequireRole("admin-role"))
