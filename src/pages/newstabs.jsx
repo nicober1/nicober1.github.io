@@ -59,7 +59,7 @@ function App() {
 
     <div className="container mx-auto p-4">
       <Tabs>
-        <TabList>
+        <TabList className="flex border-b-2">
           <Tab>CNN</Tab>
           <Tab>BBC</Tab>          
           <Tab>CNBC</Tab>          
