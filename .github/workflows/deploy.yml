@@ -27,7 +27,9 @@ jobs:
           python python/cnn.py
           python python/bbc.py
           python python/cnbc.py         
-          python python/mc.py
+          python python/mc.py          
+          python python/et.py
+
       - name: Cache node modules
         id: cache-npm
         uses: actions/cache@v3

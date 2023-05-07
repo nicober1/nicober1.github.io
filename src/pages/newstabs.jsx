@@ -47,6 +47,10 @@ function App() {
       .then((response) => response.json())
       .then((data) => setData4(data));
 
+       fetch("https://fluentblogs.com/scrap/et.json")
+      .then((response) => response.json())
+      .then((data) => setData5(data));
+
   }, []);
 
   return (
@@ -59,7 +63,9 @@ function App() {
           <Tab>CNN</Tab>
           <Tab>BBC</Tab>          
           <Tab>CNBC</Tab>          
-          <Tab>MoneyControl</Tab>
+          <Tab>MoneyControl</Tab>         
+           <Tab>Economic TImes</Tab>
+
       </TabList>
 
         <TabPanel>
@@ -88,6 +94,14 @@ function App() {
         <TabPanel>
           <div className="grid grid-cols-3 gap-4">
             {data4.map((item) => (
+              <Card title={item} key={item} />
+            ))}
+          </div>
+        </TabPanel>
+
+        <TabPanel>
+          <div className="grid grid-cols-3 gap-4">
+            {data5.map((item) => (
               <Card title={item} key={item} />
             ))}
           </div>
