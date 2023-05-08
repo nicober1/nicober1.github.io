@@ -30,5 +30,20 @@ scrape_website("https://moneycontrol.com/", "./static/scrap/moneycontrol.json")
 scrape_website("https://cnbc.com/", "./static/scrap/cnbc.json")
 scrape_website("https://www.reuters.com/", "./static/scrap/reuters.json")
 scrape_website("https://news.sky.com/", "./static/scrap/skynews.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+
+scrape_website("https://www.wsj.com/", "./static/scrap/wsj.json")
+scrape_website("https://www.nytimes.com/", "./static/scrap/nytimes.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
+
+
 
 

@@ -12,21 +12,45 @@ function Card({ title }) {
   );
 }
 
+function TabButton({ label, isActive, onClick }) {
+  return (
+    <button
+      className={`tab-btn ${isActive ? "active" : ""}`}
+      onClick={onClick}
+    >
+      {label}
+    </button>
+  );
+}
+
 function App() {
   const [activeTab, setActiveTab] = useState("cnn");
   const [data, setData] = useState({
     cnn: [],
     bbc: [],
+    cnbc: [],    
+    goal: [],
+
   });
 
   useEffect(() => {
-    // Replace with your actual API URLs
-    fetch("https://fluentblogs.com/scrap/cnn.json")
-      .then((response) => response.json())
-      .then((data) => setData((prevData) => ({ ...prevData, cnn: data })));
-    fetch("https://fluentblogs.com/scrap/bbc.json")
-      .then((response) => response.json())
-      .then((data) => setData((prevData) => ({ ...prevData, bbc: data })));
+    const fetchData = async (url, tab) => {
+      const response = await fetch(url);
+      const data = await response.json();
+      setData((prevData) => ({ ...prevData, [tab]: data }));
+    };
+
+    const fetchAllData = async () => {
+      await Promise.all([
+        fetchData("https://fluentblogs.com/scrap/cnn.json", "cnn"),
+        fetchData("https://fluentblogs.com/scrap/bbc.json", "bbc"),
+        fetchData("https://fluentblogs.com/scrap/cnbc.json", "cnbc"),
+        fetchData("https://fluentblogs.com/scrap/goal.json", "goal"),
+
+      ]);
+    };
+
+    fetchAllData();
   }, []);
 
   const handleTabClick = (tab) => {
@@ -48,37 +72,53 @@ function App() {
   return (
     <Layout>
       <div className="container mx-auto p-4">
-        <div className="flex justify-center space-x-4 mb-4">
-          <button
-            className={`tab-btn ${activeTab === "cnn" ? "active" : ""}`}
-            onClick={() => handleTabClick("cnn")}
-          >
-            CNN
-          </button>
-          <button
-            className={`tab-btn ${activeTab === "bbc" ? "active" : ""}`}
-            onClick={() => handleTabClick("bbc")}
-          >
-            BBC
-          </button>
+        <div className="flex justify-center mb-4">
+          <div className="tabs">
+            <TabButton
+              label="CNN"
+              isActive={activeTab === "cnn"}
+              onClick={() => handleTabClick("cnn")}
+            />
+            <TabButton
+              label="BBC"
+              isActive={activeTab === "bbc"}
+              onClick={() => handleTabClick("bbc")}
+            />
+            <TabButton
+              label="CNBC"
+              isActive={activeTab === "cnbc"}
+              onClick={() => handleTabClick("cnbc")}
+            />
+            <TabButton
+              label="GOAL"
+              isActive={activeTab === "goal"}
+              onClick={() => handleTabClick("goal")}
+            />
+          </div>
         </div>
 
         {renderTabContent()}
       </div>
+
       <style jsx>{`
+        .tabs {
+          display: flex;
+          justify-content: center;
+        }
+
         .tab-btn {
           padding: 0.5rem 1rem;
           font-size: 1rem;
           border: none;
-          background-color: transparent;
-          color: #333;
+          background-color: black;
+          color: white;
           transition: all 0.3s ease;
           cursor: pointer;
         }
 
         .tab-btn.active {
-          color: #fff;
-          background-color: #333;
+          color: black;
+          background-color: white;
         }
       `}</style>
     </Layout>
