@@ -60,11 +60,11 @@ function App() {
     <div className="container mx-auto p-4">
       <Tabs>
         <TabList className="flex border-b-2">
-          <Tab>CNN</Tab>
-          <Tab>BBC</Tab>          
-          <Tab>CNBC</Tab>          
-          <Tab>MoneyControl</Tab>         
-           <Tab>Economic TImes</Tab>
+          <Tab className="px-4 py-2">CNN</Tab>
+          <Tab className="px-4 py-2">BBC</Tab>          
+          <Tab className="px-4 py-2">CNBC</Tab>          
+          <Tab className="px-4 py-2">MoneyControl</Tab>         
+           <Tab className="px-4 py-2">Economic TImes</Tab>
 
       </TabList>
 
