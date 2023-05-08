@@ -43,11 +43,11 @@ function App() {
       .then((response) => response.json())
       .then((data) => setData3(data));
 
-    fetch("https://fluentblogs.com/scrap/mc.json")
+    fetch("https://fluentblogs.com/scrap/moneycontrol.json")
       .then((response) => response.json())
       .then((data) => setData4(data));
 
-       fetch("https://fluentblogs.com/scrap/et.json")
+    fetch("https://fluentblogs.com/scrap/economictimes.json")
       .then((response) => response.json())
       .then((data) => setData5(data));
 

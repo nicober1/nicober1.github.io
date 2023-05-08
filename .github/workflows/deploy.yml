@@ -24,11 +24,7 @@ jobs:
           pip install -r python/requirements.txt
       - name: Run Python files in one step
         run: |
-          python python/cnn.py
-          python python/bbc.py
-          python python/cnbc.py         
-          python python/mc.py          
-          python python/et.py
+          python python/scrapnews.py
 
       - name: Cache node modules
         id: cache-npm
