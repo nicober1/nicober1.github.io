@@ -10,8 +10,9 @@ def scrape_website(url, filename):
     
     for h in hs:
         ht = h.get_text().strip()
-        if ht and len(ht) > 25 and len(ht) < 99 and "    " not in ht:
+        if ht and len(ht) > 25 and len(ht) < 99 and "    " not in ht and ht not in fh:
             fh.append(ht)
+    
     
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(fh, f, indent=4, ensure_ascii=False)
