@@ -185,7 +185,8 @@ function App() {
       <style jsx>{`
         .tabs {
           display: flex;
-          justify-content: center;
+        flex-wrap: wrap;
+        justify-content: center;
         }
 
         .tab-btn {
