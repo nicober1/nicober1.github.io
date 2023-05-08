@@ -12,7 +12,7 @@ filtered_headlines = []
 
 for headline in headlines:
     headline_text = headline.get_text().strip()
-    if headline_text and len(headline_text) > 25 and "BBC" not in headline_text and "bbc" not in headline_text:
+    if headline_text and len(headline_text) > 25 and "BBC" not in headline_text and "bbc" not in headline_text and "    " not in headline_text:
         filtered_headlines.append(headline_text)
         print(headline_text)
 
