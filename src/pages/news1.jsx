@@ -65,6 +65,22 @@ function App() {
 
         {renderTabContent()}
       </div>
+      <style jsx>{`
+        .tab-btn {
+          padding: 0.5rem 1rem;
+          font-size: 1rem;
+          border: none;
+          background-color: transparent;
+          color: #333;
+          transition: all 0.3s ease;
+          cursor: pointer;
+        }
+
+        .tab-btn.active {
+          color: #fff;
+          background-color: #333;
+        }
+      `}</style>
     </Layout>
   );
 }
