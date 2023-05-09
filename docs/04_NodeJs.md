@@ -30,6 +30,9 @@ npm outdated -g --depth=0
 npm dedupe
 npm ddp
 npm install --prefer-offline --no-audit
+npm install -g npm@9.6.6
+npm install --global prettier
+
 ```
 
 ### npm-check-updates

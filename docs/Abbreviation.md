@@ -10,6 +10,6 @@ JSON stands for JavaScript Object Notation
 
 Command-Query Responsibility Segregation (CQRS)
 
-Infrastructure-as-Code (IaC) 
+Infrastructure-as-Code (IaC)
 
-Configuration-as-Code (CaC) 
+Configuration-as-Code (CaC)

@@ -143,10 +143,10 @@ services.Configure<ConfidentialClientApplicationOptions>(OpenIdConnectDefault.Au
     })
   .EnableTokenAcquisitionToCallDownstreamApi(confidentialClientApplicationOptions=>
     {
-    Configuration.Bind("AzureAd", confidentialClientApplicationOptions); 
+    Configuration.Bind("AzureAd", confidentialClientApplicationOptions);
     })
   .AddInMemoryTokenCaches();
- 
+
 
   services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
    .AddMicrosoftIdentityWebApi(
@@ -163,7 +163,7 @@ services.Configure<ConfidentialClientApplicationOptions>(OpenIdConnectDefault.Au
    .EnableTokenAcquisitionToCallDownstreamApi(
      confidentialClientApplicationOptions=>
      {
-      Configuration.Bind("AzureAd", confidentialClientApplicationOptions); 
+      Configuration.Bind("AzureAd", confidentialClientApplicationOptions);
      })
    .AddInMemoryTokenCaches();
 

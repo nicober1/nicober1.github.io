@@ -81,7 +81,8 @@ export default function App() {
               />
               <button
                 onClick={() => downloadImage(url)}
-                className='absolute bottom-4 right-4 rounded bg-gray-800 px-4 py-2 text-white'>
+                className='absolute bottom-4 right-4 rounded bg-gray-800 px-4 py-2 text-white'
+              >
                 Download
               </button>
             </div>

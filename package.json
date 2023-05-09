@@ -10,7 +10,7 @@
     "docusaurus": "docusaurus",
     "ins": "npm install --no-audit --prefer-offline",
     "precommit": "sort-package-json",
-    "prettier": "prettier --write .",
+    "format": "prettier --write .",
     "serve": "docusaurus serve",
     "sortpj": "sort-json package.json",
     "sortpj1": "sort-package-json package.json",

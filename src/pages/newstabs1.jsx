@@ -1,116 +1,104 @@
-import React, { useState, useEffect } from "react";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import "react-tabs/style/react-tabs.css";
+import React, {useState, useEffect} from 'react'
+import {Tab, Tabs, TabList, TabPanel} from 'react-tabs'
+import 'react-tabs/style/react-tabs.css'
 import CardGradientsDark from '@site/src/components/CardGradientsDark'
 import Layout from '@theme/Layout'
 
-
-
-function Card({ title }) {
+function Card({title}) {
   return (
     <CardGradientsDark>
-      <div className="card font-bold text-xl mb-2 max-w-sm rounded overflow-hidden shadow-lg p-4">{title}</div>
+      <div className='card mb-2 max-w-sm overflow-hidden rounded p-4 text-xl font-bold shadow-lg'>{title}</div>
     </CardGradientsDark>
-
-  );
+  )
 }
 
 function App() {
-  const [data1, setData1] = useState([]);
-  const [data2, setData2] = useState([]);  
-  const [data3, setData3] = useState([]);  
-  const [data4, setData4] = useState([]);  
-  const [data5, setData5] = useState([]);  
-  const [data6, setData6] = useState([]);
-  const [data7, setData7] = useState([]);
-  const [data8, setData8] = useState([]);
-  const [data9, setData9] = useState([]);
-  const [data10, setData10] = useState([]);
-  
-
-
-
+  const [data1, setData1] = useState([])
+  const [data2, setData2] = useState([])
+  const [data3, setData3] = useState([])
+  const [data4, setData4] = useState([])
+  const [data5, setData5] = useState([])
+  const [data6, setData6] = useState([])
+  const [data7, setData7] = useState([])
+  const [data8, setData8] = useState([])
+  const [data9, setData9] = useState([])
+  const [data10, setData10] = useState([])
 
   useEffect(() => {
     // Replace with your actual API URLs
-    fetch("https://fluentblogs.com/scrap/cnn.json")
+    fetch('https://fluentblogs.com/scrap/cnn.json')
       .then((response) => response.json())
-      .then((data) => setData1(data));
-    fetch("https://fluentblogs.com/scrap/bbc.json")
+      .then((data) => setData1(data))
+    fetch('https://fluentblogs.com/scrap/bbc.json')
       .then((response) => response.json())
-      .then((data) => setData2(data));
-    fetch("https://fluentblogs.com/scrap/cnbc.json")
+      .then((data) => setData2(data))
+    fetch('https://fluentblogs.com/scrap/cnbc.json')
       .then((response) => response.json())
-      .then((data) => setData3(data));
+      .then((data) => setData3(data))
 
-    fetch("https://fluentblogs.com/scrap/moneycontrol.json")
+    fetch('https://fluentblogs.com/scrap/moneycontrol.json')
       .then((response) => response.json())
-      .then((data) => setData4(data));
+      .then((data) => setData4(data))
 
-    fetch("https://fluentblogs.com/scrap/economictimes.json")
+    fetch('https://fluentblogs.com/scrap/economictimes.json')
       .then((response) => response.json())
-      .then((data) => setData5(data));
-
-  }, []);
+      .then((data) => setData5(data))
+  }, [])
 
   return (
     <Layout>
+      <div className='container mx-auto p-4'>
+        <Tabs>
+          <TabList className='flex border-b-2'>
+            <Tab className='px-4 py-2'>CNN</Tab>
+            <Tab className='px-4 py-2'>BBC</Tab>
+            <Tab className='px-4 py-2'>CNBC</Tab>
+            <Tab className='px-4 py-2'>MoneyControl</Tab>
+            <Tab className='px-4 py-2'>Economic TImes</Tab>
+          </TabList>
 
+          <TabPanel>
+            <div className='grid grid-cols-3 gap-4'>
+              {data1.map((item) => (
+                <Card title={item} key={item} />
+              ))}
+            </div>
+          </TabPanel>
+          <TabPanel>
+            <div className='grid grid-cols-3 gap-4'>
+              {data2.map((item) => (
+                <Card title={item} key={item} />
+              ))}
+            </div>
+          </TabPanel>
 
-    <div className="container mx-auto p-4">
-      <Tabs>
-        <TabList className="flex border-b-2">
-          <Tab className="px-4 py-2">CNN</Tab>
-          <Tab className="px-4 py-2">BBC</Tab>          
-          <Tab className="px-4 py-2">CNBC</Tab>          
-          <Tab className="px-4 py-2">MoneyControl</Tab>         
-           <Tab className="px-4 py-2">Economic TImes</Tab>
+          <TabPanel>
+            <div className='grid grid-cols-3 gap-4'>
+              {data3.map((item) => (
+                <Card title={item} key={item} />
+              ))}
+            </div>
+          </TabPanel>
 
-      </TabList>
+          <TabPanel>
+            <div className='grid grid-cols-3 gap-4'>
+              {data4.map((item) => (
+                <Card title={item} key={item} />
+              ))}
+            </div>
+          </TabPanel>
 
-        <TabPanel>
-          <div className="grid grid-cols-3 gap-4">
-            {data1.map((item) => (
-              <Card title={item} key={item} />
-            ))}
-          </div>
-        </TabPanel>
-        <TabPanel>
-          <div className="grid grid-cols-3 gap-4">
-            {data2.map((item) => (
-              <Card title={item} key={item} />
-            ))}
-          </div>
-        </TabPanel>
-
-         <TabPanel>
-          <div className="grid grid-cols-3 gap-4">
-            {data3.map((item) => (
-              <Card title={item} key={item} />
-            ))}
-          </div>
-        </TabPanel>
-
-        <TabPanel>
-          <div className="grid grid-cols-3 gap-4">
-            {data4.map((item) => (
-              <Card title={item} key={item} />
-            ))}
-          </div>
-        </TabPanel>
-
-        <TabPanel>
-          <div className="grid grid-cols-3 gap-4">
-            {data5.map((item) => (
-              <Card title={item} key={item} />
-            ))}
-          </div>
-        </TabPanel>
-      </Tabs>
-    </div>
-        </Layout>
-
-  );
+          <TabPanel>
+            <div className='grid grid-cols-3 gap-4'>
+              {data5.map((item) => (
+                <Card title={item} key={item} />
+              ))}
+            </div>
+          </TabPanel>
+        </Tabs>
+      </div>
+    </Layout>
+  )
 }
 
-export default App;
+export default App

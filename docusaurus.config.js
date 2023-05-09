@@ -177,7 +177,7 @@ const config = {
           label: 'News',
           position: 'left',
           items: [
-             {
+            {
               to: '/newstabs',
               label: 'News @ CNN, BBC , CNBC etc.',
             },
@@ -330,7 +330,7 @@ const config = {
               to: '/nse/nifty50',
               label: 'Nifty50 - India',
             },
-             {
+            {
               to: '/newstabs',
               label: 'News @ CNN, BBC , CNBC etc.',
             },
