@@ -7,7 +7,7 @@ python -m pip install --upgrade pip
 
 pip freeze
 
-pip install --upgrade -r requirements.txt
+pip install --upgrade -r python/requirements.txt
 
 
 

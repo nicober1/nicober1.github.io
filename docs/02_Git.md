@@ -23,6 +23,16 @@ git commit -m "your commit message"
 git push -u origin feature-branch
 ```
 
+#### Revert previous commit in remote branch
+
+```git
+git branch
+git reset HEAD~2
+git reset --hard HEAD~2
+git push --force origin <branch-name>
+
+```
+
 ### Update feature branch with changes in main branch
 
 ```git
