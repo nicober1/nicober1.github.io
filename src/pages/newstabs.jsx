@@ -34,6 +34,7 @@ const tabData = {
   skynews: 'https://fluentblogs.com/scrap/skynews.json',
   timesofindia: 'https://fluentblogs.com/scrap/timesofindia.json',
   wsj: 'https://fluentblogs.com/scrap/wsj.json',
+  wikinews: 'https://fluentblogs.com/scrap/wikinews.json',
 }
 
 export default function App() {
