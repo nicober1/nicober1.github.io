@@ -34,6 +34,7 @@ scrape_website("https://www.goal.com/", "./static/scrap/goal.json")
 scrape_website("https://www.wsj.com/", "./static/scrap/wsj.json")
 scrape_website("https://www.nytimes.com/", "./static/scrap/nytimes.json")
 scrape_website("https://en.wikinews.org/wiki/Main_Page", "./static/scrap/wikinews.json")
+scrape_website("https://www.bbc.com/sport", "./static/scrap/sportsbbc.json")
 
 
 
