@@ -37,6 +37,7 @@ const tabData = {
   wikinews: 'https://fluentblogs.com/scrap/wikinews.json',
   bbcsports: 'https://fluentblogs.com/scrap/sportsbbc.json',
   livemint: 'https://fluentblogs.com/scrap/livemint.json',
+  inshorts: 'https://fluentblogs.com/scrap/inshorts.json',
 }
 
 export default function App() {
