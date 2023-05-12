@@ -35,10 +35,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r python/requirements.txt
+          playwright install
       - name: Run Python files in one step
         run: |
           python python/scrapnews.py
           python python/nse.py
+          python python/scraptwitter.py
 
       - name: Cache node modules
         id: cache-npm

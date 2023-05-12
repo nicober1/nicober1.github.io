@@ -35,7 +35,7 @@ const tabData = {
   timesofindia: 'https://fluentblogs.com/scrap/timesofindia.json',
   wsj: 'https://fluentblogs.com/scrap/wsj.json',
   wikinews: 'https://fluentblogs.com/scrap/wikinews.json',
-  bbc_sports: 'https://fluentblogs.com/scrap/sportsbbc.json',
+  bbcsports: 'https://fluentblogs.com/scrap/sportsbbc.json',
   livemint: 'https://fluentblogs.com/scrap/livemint.json',
 }
 
