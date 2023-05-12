@@ -44,3 +44,6 @@ scrape_website("https://en.wikinews.org/wiki/Main_Page", "./static/scrap/wikinew
 scrape_website("https://www.bbc.com/sport", "./static/scrap/sportsbbc.json")
 scrape_website("https://www.livemint.com/", "./static/scrap/livemint.json")
 scrape_website("https://www.inshorts.com/en/read", "./static/scrap/inshorts.json")
+scrape_website("https://www.news18.com/", "./static/scrap/news18.json")
+scrape_website("https://zeenews.india.com/", "./static/scrap/zeenews.json")
+

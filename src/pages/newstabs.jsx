@@ -38,6 +38,9 @@ const tabData = {
   bbcsports: 'https://fluentblogs.com/scrap/sportsbbc.json',
   livemint: 'https://fluentblogs.com/scrap/livemint.json',
   inshorts: 'https://fluentblogs.com/scrap/inshorts.json',
+  news18: 'https://fluentblogs.com/scrap/news18.json',
+  zeenews: 'https://fluentblogs.com/scrap/zeenews.json',
+  
 }
 
 export default function App() {
