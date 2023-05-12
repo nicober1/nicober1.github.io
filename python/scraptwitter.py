@@ -9,7 +9,7 @@ def get_tweets(username, num_tweets=50):
     # Use sync_playwright context manager to launch a browser
     with sync_playwright() as p:
         # Launch a Chromium browser in headed mode
-        browser = p.chromium.launch()
+        browser = p.chromium.launch(headless=True)
 
         # Create a new browser context
         context = browser.new_context()
@@ -34,10 +34,13 @@ def get_tweets(username, num_tweets=50):
             # Loop through each tweet element
             for tweet_element in tweet_elements:
                 # Get the tweet content element
-                content_element = tweet_element.query_selector("div[lang]")
+                try:
+                       content_element = tweet_element.query_selector("div[lang]")
 
-                # Get the tweet content text
-                content_text = content_element.inner_text()
+                       content_text = content_element.inner_text()
+                except Exception as e:
+                       print(f"Error: {e}")
+                       continue
 
                 # Append the tweet content text to the tweets list if it is not already in it
                 if content_text not in tweets:
@@ -69,4 +72,4 @@ def get_tweets(username, num_tweets=50):
     return tweets
 
 # Get the first 50 tweets from Elon Musk
-get_tweets("elonmusk", 2)
+get_tweets("elonmusk", 30)
