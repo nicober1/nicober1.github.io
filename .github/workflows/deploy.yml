@@ -26,9 +26,10 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('python/requirements.txt') }}
+          key: python-deps-${{ runner.os }}-pip-${{ hashFiles('python/requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            python-deps-${{ runner.os }}-pip-
+            python-deps-${{ runner.os }}-
             ${{ runner.os }}-
       - name: Install Python dependencies
         run: |
