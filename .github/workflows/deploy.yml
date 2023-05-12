@@ -38,6 +38,7 @@ jobs:
       - name: Run Python files in one step
         run: |
           python python/scrapnews.py
+          python python/nse.py
 
       - name: Cache node modules
         id: cache-npm
