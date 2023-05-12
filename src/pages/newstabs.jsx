@@ -40,6 +40,10 @@ const tabData = {
   inshorts: 'https://fluentblogs.com/scrap/inshorts.json',
   news18: 'https://fluentblogs.com/scrap/news18.json',
   zeenews: 'https://fluentblogs.com/scrap/zeenews.json',
+  techmeme: 'https://fluentblogs.com/scrap/techmeme.json',
+  engadget: 'https://fluentblogs.com/scrap/engadget.json',
+  
+
   
 }
 

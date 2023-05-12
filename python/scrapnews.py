@@ -46,4 +46,8 @@ scrape_website("https://www.livemint.com/", "./static/scrap/livemint.json")
 scrape_website("https://www.inshorts.com/en/read", "./static/scrap/inshorts.json")
 scrape_website("https://www.news18.com/", "./static/scrap/news18.json")
 scrape_website("https://zeenews.india.com/", "./static/scrap/zeenews.json")
+scrape_website("https://www.techmeme.com/", "./static/scrap/techmeme.json")
+scrape_website("https://www.engadget.com/", "./static/scrap/engadget.json")
+
+
 
