@@ -334,6 +334,10 @@ const config = {
               to: '/newstabs',
               label: 'News @ CNN, BBC , CNBC etc.',
             },
+            {
+              to:'/twittertabs',
+              label:'Tweets @ Twitter'
+            }
           ],
         },
       ],
