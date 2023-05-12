@@ -1,7 +1,10 @@
+# pylint: disable-all
+# pylint: disable=missing-module-docstring
+# pylint: disable=W
+# pylint: skip-file
 from bs4 import BeautifulSoup
 import json
 import requests
-
 
 def scrape_website(url, filename):
     response = requests.get(url, timeout=(5, 15))
@@ -19,7 +22,7 @@ def scrape_website(url, filename):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(fh, f, indent=4, ensure_ascii=False)
 
-    print(f"Successfully written {filename}")
+    print(f"Successfully written {filename}") 
 
 
 scrape_website("https://timesofindia.indiatimes.com/", "./static/scrap/timesofindia.json")

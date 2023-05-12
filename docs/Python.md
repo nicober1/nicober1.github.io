@@ -14,15 +14,27 @@ pipreqs python --force
 
 pip list --outdated
 
+pip install autopep8
+autopep8 --in-place --aggressive --aggressive *.py
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+##.pylintrc file
+[MESSAGES CONTROL]
+disable=missing-module-docstring,invalid-name,C0321
+disable=all
 
-import requests
+#################################################333
+
+# pylint: disable-all
+# pylint: disable=missing-module-docstring
+# pylint: disable=W
+# pylint: skip-file
 from bs4 import BeautifulSoup
 import json
+import requests
 
 def scrape_website(url, filename):
-    response = requests.get(url)
+    response = requests.get(url, timeout=(5, 15))
+    print(f"Request to {url} returned status code {response.status_code}")
     hs = BeautifulSoup(response.text, "html.parser").find_all("a")
     
     fh = []
@@ -35,6 +47,8 @@ def scrape_website(url, filename):
     
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(fh, f, indent=4, ensure_ascii=False)
+
+    print(f"Successfully written {filename}") 
 
 
 scrape_website("https://timesofindia.indiatimes.com/", "./static/scrap/timesofindia.json")
@@ -54,10 +68,4 @@ scrape_website("https://www.wsj.com/", "./static/scrap/wsj.json")
 scrape_website("https://www.nytimes.com/", "./static/scrap/nytimes.json")
 scrape_website("https://en.wikinews.org/wiki/Main_Page", "./static/scrap/wikinews.json")
 scrape_website("https://www.bbc.com/sport", "./static/scrap/sportsbbc.json")
-
-
-
-
-
-
 ```
