@@ -48,6 +48,8 @@ scrape_website("https://www.news18.com/", "./static/scrap/news18.json")
 scrape_website("https://zeenews.india.com/", "./static/scrap/zeenews.json")
 scrape_website("https://www.techmeme.com/", "./static/scrap/techmeme.json")
 scrape_website("https://www.engadget.com/", "./static/scrap/engadget.json")
+scrape_website("https://techcrunch.com/", "./static/scrap/techcrunch.json")
+
 
 
 

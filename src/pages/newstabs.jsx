@@ -42,6 +42,8 @@ const tabData = {
   zeenews: 'https://fluentblogs.com/scrap/zeenews.json',
   techmeme: 'https://fluentblogs.com/scrap/techmeme.json',
   engadget: 'https://fluentblogs.com/scrap/engadget.json',
+  techcrunch: 'https://fluentblogs.com/scrap/techcrunch.json',
+  
   
 
   
