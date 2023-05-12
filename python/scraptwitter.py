@@ -69,4 +69,4 @@ def get_tweets(username, num_tweets=50):
     return tweets
 
 # Get the first 50 tweets from Elon Musk
-get_tweets("elonmusk", 10)
+get_tweets("elonmusk", 2)
