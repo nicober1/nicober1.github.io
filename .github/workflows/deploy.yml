@@ -63,9 +63,21 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
+     
       - name: Build website
-        run: npm run build
+        run: |
+          CURRENT_HOUR=$(date -u +"%H")
+          CURRENT_MINUTE=$(date -u +"%M")
+          if [ $CURRENT_HOUR -eq 9 ] && [ $CURRENT_MINUTE -ge 28 ] && [ $CURRENT_MINUTE -le 45 ]; then
+            echo "Running news build"
+            npm run build1
+          elif [ $CURRENT_HOUR -eq 21 ] && [ $CURRENT_MINUTE -ge 28 ] && [ $CURRENT_MINUTE -le 45 ]; then
+            echo "Running news build"
+            npm run build1
+          else
+            echo "Running normal build as it is not between 9:30 AM - 9:35 AM or 9:30 PM - 9:35 PM."
+            npm run build
+          fi
 
       - name: Deploy FluentBlogs.com
         uses: peaceiris/actions-gh-pages@v3
