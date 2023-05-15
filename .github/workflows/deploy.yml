@@ -16,6 +16,14 @@ jobs:
     name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
+      - name: Display Current India Time
+        run: |
+          CURRENT_TIME=$(TZ=Asia/Kolkata date +"%T")
+          echo "Current India time: $CURRENT_TIME"
+      - name: Display Current Time
+        run: |
+          CURRENT_TIME=$(date -u +"%T")
+          echo "Current time: $CURRENT_TIME"
       - uses: actions/checkout@v3
       - name: Setup Python
         uses: actions/setup-python@v4
