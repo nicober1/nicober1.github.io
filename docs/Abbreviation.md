@@ -13,3 +13,5 @@ Command-Query Responsibility Segregation (CQRS)
 Infrastructure-as-Code (IaC)
 
 Configuration-as-Code (CaC)
+
+ Most Valuable Professionals (MVPs)
