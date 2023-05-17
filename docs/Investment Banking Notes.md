@@ -45,3 +45,25 @@ By analyzing ESG data, investors can better understand the risks and opportuniti
 ESG analytics can also be used to identify emerging trends and risks in the market. For example, if analytics data shows that more companies are adopting sustainable practices, this might be a sign that sustainable investing is becoming more important and that investors should adjust their strategies accordingly.
 
 Overall, ESG analytics data is a valuable tool for investors who are looking to make more informed and sustainable investment decisions. It allows investors to evaluate investments based on more than just financial metrics, and to consider the broader impact of their investments on society and the environment.
+
+
+In investment banking, the terms "public" and "private" refer to different types of assets or securities. 
+
+1. Public Assets: Public assets are securities that are traded on public stock exchanges and are available for purchase by the general public. These assets are issued by public companies, which have undergone an initial public offering (IPO) to list their shares on the stock market. Examples of public assets include stocks, bonds, exchange-traded funds (ETFs), and mutual funds that are traded on stock exchanges.
+
+Investment banks play a crucial role in the underwriting and distribution of public offerings. They assist companies in raising capital by facilitating the issuance and sale of securities to the public. Investment bankers help determine the offering price, coordinate with regulatory authorities, market the securities to potential investors, and manage the overall process of bringing the securities to market.
+
+2. Private Assets: Private assets, on the other hand, are securities that are not traded on public stock exchanges. These assets are typically offered to a select group of private investors, such as high-net-worth individuals, institutional investors, or private equity firms. Examples of private assets include private equity investments, venture capital investments, hedge funds, and certain debt instruments.
+
+Private asset investments often involve direct investments in private companies, real estate projects, or other non-publicly traded ventures. Investment banks may provide advisory services to facilitate private placements, mergers and acquisitions, and other transactions involving private assets. They work with clients to identify potential investment opportunities, conduct due diligence, structure the deals, and assist in raising capital from private investors.
+
+It's important to note that the distinction between public and private assets lies in their availability for trading on public exchanges and the regulatory requirements associated with each type. Public assets provide greater liquidity and transparency as they can be bought and sold on public markets, while private assets typically offer more exclusivity and potentially higher returns but are generally less liquid and involve higher risks.
+
+
+In the context of asset management, "Intex" refers to Intex Solutions, a software platform and data provider used in the analysis and valuation of structured finance securities. Intex Solutions offers a suite of products that enable investors, analysts, and portfolio managers to evaluate mortgage-backed securities (MBS), collateralized mortgage obligations (CMOs), asset-backed securities (ABS), and other structured products.
+
+The Intex platform provides users with access to extensive databases containing loan-level data, cash flow models, prepayment and default assumptions, and other relevant information necessary for analyzing structured finance securities. It allows users to perform complex cash flow modeling, scenario analysis, and risk assessment for these securities.
+
+By using Intex, asset managers can assess the performance and valuation of their structured finance portfolios, analyze prepayment and default risks, and make informed investment decisions. The platform offers tools for analyzing cash flows, conducting stress tests, and generating reports that aid in portfolio management and risk mitigation.
+
+Intex is widely utilized in the asset management industry, particularly by firms that specialize in fixed income and structured finance investments. It helps investors gain insights into the underlying assets, assess the credit quality and performance of these securities, and make more informed investment choices in the complex world of structured finance.
