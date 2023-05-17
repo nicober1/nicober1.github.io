@@ -25,6 +25,10 @@ jobs:
           CURRENT_TIME=$(date -u +"%T")
           echo "Current time: $CURRENT_TIME"
       - uses: actions/checkout@v3
+      - name: Configure Git
+        run: |
+          git config user.name "Nicober Mani
+          git config user.email "iamnicober@email.com"
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -87,6 +91,13 @@ jobs:
             npm run build
           fi
 
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Automated commit"
+          git push
+          
       - name: Deploy FluentBlogs.com
         uses: peaceiris/actions-gh-pages@v3
         with:
