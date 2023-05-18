@@ -15,11 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set display name to timestamp
-        run: |
-          TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
-          DISPLAY_NAME="Run $TIMESTAMP ($GITHUB_RUN_NUMBER) - $GITHUB_SHA"
-          echo "::set-output name=displayName::$DISPLAY_NAME"
-        run: echo "Current Timestamp: ${{ steps.display_name.outputs.display_name }}"
+        run: echo "DISPLAY_NAME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+        
+      - name: Display Name Example
+        run: echo $DISPLAY_NAME
       
       - name: Display Current India Time
         run: |
