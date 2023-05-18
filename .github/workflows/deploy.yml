@@ -14,11 +14,11 @@ jobs:
     name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
-      - name: Set display name to timestamp
-        run: echo "DISPLAY_NAME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+      - name: Set workflow name with timestamp
+        run: echo "WORKFLOW_NAME=$(date +'%Y-%m-%d') - Your Workflow Name" >> $GITHUB_ENV
         
-      - name: Display Name Example
-        run: echo $DISPLAY_NAME
+      - name: Display Workflow Name
+        run: echo $WORKFLOW_NAME
       
       - name: Display Current India Time
         run: |
