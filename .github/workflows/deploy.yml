@@ -1,5 +1,3 @@
-name: Deploy FluentBlogs.com
-
 on:
   push:
     branches:
@@ -13,18 +11,10 @@ concurrency:
 
 jobs:
   deploy:
-    name: Deploy FluentBlogs.com
+    name: Build and Deploy - ${{ github.run_number }} - ${{ env.DATE | formatDate('%Y-%m-%d %H:%M:%S') }}
     runs-on: ubuntu-latest
     steps:
-      - name: Set Display Name to Timestamp
-        uses: actions/github-script@v5
-        with:
-          script: |
-            const timestamp = new Date().toISOString();
-            github.workflowRun.update({
-              run_id: context.runId,
-              name: timestamp
-            });
+      
       - name: Display Current India Time
         run: |
           CURRENT_TIME=$(TZ=Asia/Kolkata date +"%T")
