@@ -15,10 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set Display Name
-        run: echo "::set-env name=DISPLAY_NAME::$(date +%Y-%m-%d_%H-%M-%S)"
+        id: display_name
+        run: echo "::set-output name=display_name::$(date +'%Y-%m-%d %H:%M:%S')"
       
-      - name: Display Current Time
-        run: echo $DISPLAY_NAME
+      - name: Display Current Timestamp
+        run: echo "Current Timestamp: ${{ steps.display_name.outputs.display_name }}"
       
       - name: Display Current India Time
         run: |
