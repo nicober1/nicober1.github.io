@@ -16,6 +16,15 @@ jobs:
     name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
+      - name: Set Display Name to Timestamp
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const timestamp = new Date().toISOString();
+            github.workflowRun.update({
+              run_id: context.runId,
+              name: timestamp
+            });
       - name: Display Current India Time
         run: |
           CURRENT_TIME=$(TZ=Asia/Kolkata date +"%T")
