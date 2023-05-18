@@ -1,3 +1,4 @@
+name: Build and Deploy
 on:
   push:
     branches:
@@ -11,11 +12,10 @@ concurrency:
 
 jobs:
   deploy:
-    name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
-      - name: Set workflow name with timestamp
-        run: echo "WORKFLOW_NAME=$(date +'%Y-%m-%d') - Your Workflow Name" >> $GITHUB_ENV
+      - name: Set workflow name with start time
+        run: echo "WORKFLOW_NAME=$(date +'%Y-%m-%d %H:%M:%S') - Your Workflow Name" >> $GITHUB_ENV
         
       - name: Display Workflow Name
         run: echo $WORKFLOW_NAME
