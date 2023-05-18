@@ -11,9 +11,14 @@ concurrency:
 
 jobs:
   deploy:
-    name: Build and Deploy - ${{ github.run_number }} - ${{ env.DATE | formatDate('%Y-%m-%d %H:%M:%S') }}
+    name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
+      - name: Set Display Name
+        run: echo "::set-env name=DISPLAY_NAME::$(date +%Y-%m-%d_%H-%M-%S)"
+      
+      - name: Display Current Time
+        run: echo $DISPLAY_NAME
       
       - name: Display Current India Time
         run: |
