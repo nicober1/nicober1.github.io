@@ -14,11 +14,11 @@ jobs:
     name: Deploy FluentBlogs.com
     runs-on: ubuntu-latest
     steps:
-      - name: Set Display Name
-        id: display_name
-        run: echo "::set-output name=display_name::$(date +'%Y-%m-%d %H:%M:%S')"
-      
-      - name: Display Current Timestamp
+      - name: Set display name to timestamp
+        run: |
+          TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
+          DISPLAY_NAME="Run $TIMESTAMP ($GITHUB_RUN_NUMBER) - $GITHUB_SHA"
+          echo "::set-output name=displayName::$DISPLAY_NAME"
         run: echo "Current Timestamp: ${{ steps.display_name.outputs.display_name }}"
       
       - name: Display Current India Time
