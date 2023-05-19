@@ -1,3 +1,4 @@
+name: FluentBlogs.com
 on:
   push:
     branches:
@@ -8,9 +9,6 @@ on:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.repository }}-${{ github.ref }}
-
-name: FluentBlogs.com - ${{ github.run_number }} -  ${{ github.run_id }}
-
 
 jobs:
   deploy:
