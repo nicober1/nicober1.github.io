@@ -12,16 +12,26 @@ concurrency:
 
 jobs:
   deploy:
-    name: Build Job - ${{ github.run_number }} - ${{ steps.timestamp.outputs.timestamp }}
+    name: Build Job - ${{ github.run_number }} -  ${{ github.run_id }}
     runs-on: ubuntu-latest
     steps:
-     
 
-      - name: Set workflow name with start time
-        run: echo "WORKFLOW_NAME=$(date +'%Y-%m-%d %H:%M:%S') - Your Workflow Name" >> $GITHUB_ENV
-        
-      - name: Display Workflow Name
-        run: echo $WORKFLOW_NAME
+      - name: Dump GitHub context
+        id: github_context_step
+        run: echo '${{ toJSON(github) }}'
+      - name: Dump job context
+        run: echo '${{ toJSON(job) }}'
+      - name: Dump steps context
+        run: echo '${{ toJSON(steps) }}'
+      - name: Dump runner context
+        run: echo '${{ toJSON(runner) }}'
+      - name: Dump strategy context
+        run: echo '${{ toJSON(strategy) }}'
+      - name: Dump matrix context
+        run: echo '${{ toJSON(matrix) }}'
+    # ////////////////////////////////////////////////////////////////////////////////////////////////////////
+      
+      
       
       - name: Display Current India Time
         run: |
