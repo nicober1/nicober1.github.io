@@ -3,19 +3,14 @@ import json
 from playwright.sync_api import sync_playwright
 
 def get_tweets(username, num_tweets=50):
-    # Create a list to store the tweets
     tweets = []
 
-    # Use sync_playwright context manager to launch a browser
     with sync_playwright() as p:
-        # Launch a Chromium browser in headed mode
-        browser = p.chromium.launch(headless=True)
+        # browser = p.chromium.launch(headless=False, slow_mo=50)
+        browser = p.chromium.launch()
 
-        # Create a new browser context
-        context = browser.new_context()
 
-        # Create a new page
-        page = context.new_page()
+        page = browser.new_page()
 
         # Go to the user's profile page
         page.goto(f"https://twitter.com/{username}")
@@ -73,3 +68,4 @@ def get_tweets(username, num_tweets=50):
 
 # Get the first 50 tweets from Elon Musk
 get_tweets("elonmusk", 30)
+get_tweets("nasa", 30)

@@ -20,7 +20,7 @@ function TabButton({label, isActive, onClick}) {
 
 const tabData = {
   ElonMusk: 'https://fluentblogs.com/scrap/twitter_elonmusk.json',
- 
+  NASA: 'https://fluentblogs.com/scrap/nasa_elonmusk.json',
 }
 
 export default function App() {
