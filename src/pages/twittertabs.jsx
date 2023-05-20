@@ -19,12 +19,12 @@ function TabButton({label, isActive, onClick}) {
 }
 
 const tabData = {
-  ElonMusk: 'https://fluentblogs.com/scrap/twitter_elonmusk.json',
-  NASA: 'https://fluentblogs.com/scrap/twitter_nasa.json',
+  elonmusk: 'https://fluentblogs.com/scrap/twitter_elonmusk.json',
+  nasa: 'https://fluentblogs.com/scrap/twitter_nasa.json',
 }
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('cnn')
+  const [activeTab, setActiveTab] = useState('elonmusk')
   const [data, setData] = useState({})
 
   useEffect(() => {
