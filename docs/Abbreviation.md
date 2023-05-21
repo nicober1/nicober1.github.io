@@ -2,6 +2,12 @@
 keywords: [Abbreviation]
 ---
 
+Generative Pre-trained Transformer Version 3 (GPT-3)
+
+Artificial Intelligence (AI)
+
+Natural Language Processing (NLP).
+
 JavaScript Syntax eXtension (JSX)
 
 ASP stands for Active Server Pages
@@ -14,4 +20,4 @@ Infrastructure-as-Code (IaC)
 
 Configuration-as-Code (CaC)
 
- Most Valuable Professionals (MVPs)
+Most Valuable Professionals (MVPs)
