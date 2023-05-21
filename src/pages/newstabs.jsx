@@ -5,7 +5,7 @@ import Layout from '@theme/Layout'
 function Card({title}) {
   return (
     <CardGradientsDark>
-      <div className='card mb-2 max-w-sm overflow-hidden rounded p-4 text-xl font-bold shadow-lg'>{title}</div>
+      <div className='card mb-2 max-w-sm overflow-hidden rounded p-4 text-xl font-bold shadow-lg  text-white'>{title}</div>
     </CardGradientsDark>
   )
 }
