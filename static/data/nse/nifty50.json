@@ -69,12 +69,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE423A01024"
@@ -115,12 +115,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE742F01042"
@@ -161,12 +161,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE361B01024"
@@ -207,12 +207,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE437A01024"
@@ -253,12 +253,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE669C01036"
@@ -299,12 +299,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE075A01022"
@@ -345,12 +345,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE860A01027"
@@ -391,12 +391,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE467B01029"
@@ -437,12 +437,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE009A01021"
@@ -482,12 +482,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE795G01014"
@@ -528,14 +528,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "P1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "P1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE044A04014"
@@ -576,12 +576,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE018A01030"
@@ -604,9 +604,9 @@
       "lastUpdateTime": "22-May-2023 15:58:38",
       "yearHigh": 4989,
       "ffmc": 541892454435.16,
-      "yearLow": 3829.05,
+      "yearLow": 3997,
       "nearWKH": 10.803768290238525,
-      "nearWKL": -16.21681618155939,
+      "nearWKL": -11.33350012509382,
       "perChange365d": 4.91,
       "date365dAgo": "20-May-2022",
       "chart365dPath": "https://static.nseindia.com/sparklines/365d/DRREDDY-EQ.jpg",
@@ -622,14 +622,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "N1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE089A08051"
@@ -670,15 +670,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "P1",
+          "P2"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "P1",
-          "P2"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE019A04024"
@@ -719,12 +719,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE154A01025"
@@ -765,12 +765,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE059A01026"
@@ -811,12 +811,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE917I01010"
@@ -857,16 +857,16 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "E1",
           "E2",
           "P1"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE038A04016"
@@ -921,11 +921,6 @@
           "NC",
           "ND"
         ],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": true,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "U1",
           "U2",
@@ -934,6 +929,11 @@
           "U5",
           "U6"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE733E07JJ9"
@@ -974,12 +974,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE002A01018"
@@ -1020,12 +1020,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE029A01011"
@@ -1066,15 +1066,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL",
+          "N1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL",
-          "N1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE280A07025"
@@ -1097,9 +1097,9 @@
       "lastUpdateTime": "22-May-2023 15:58:51",
       "yearHigh": 9769,
       "ffmc": 1217058207815.56,
-      "yearLow": 7385.05,
+      "yearLow": 7555,
       "nearWKH": 6.336370150475996,
-      "nearWKL": -23.89895803007427,
+      "nearWKL": -21.111846459298476,
       "perChange365d": 20.7,
       "date365dAgo": "20-May-2022",
       "chart365dPath": "https://static.nseindia.com/sparklines/365d/MARUTI-EQ.jpg",
@@ -1115,14 +1115,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE585B01010"
@@ -1143,10 +1143,10 @@
       "totalTradedVolume": 2116815,
       "totalTradedValue": 1410370330.05,
       "lastUpdateTime": "22-May-2023 15:59:27",
-      "yearHigh": 828,
+      "yearHigh": 815.35,
       "ffmc": 347213080143.22,
       "yearLow": 607.5,
-      "nearWKH": 18.937198067632846,
+      "nearWKH": 17.679524130741395,
       "nearWKL": -10.485596707818937,
       "perChange365d": -17.06,
       "date365dAgo": "20-May-2022",
@@ -1163,16 +1163,16 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "IL",
           "Q1",
           "Q2"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE628A03016"
@@ -1213,17 +1213,17 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "B1",
           "E1",
           "IL",
           "Q1"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE081A03018"
@@ -1246,9 +1246,9 @@
       "lastUpdateTime": "22-May-2023 15:58:38",
       "yearHigh": 1397,
       "ffmc": 1133098496691.88,
-      "yearLow": 880.15,
+      "yearLow": 910.25,
       "nearWKH": 9.448818897637794,
-      "nearWKL": -43.72550133499972,
+      "nearWKL": -38.972809667673715,
       "perChange365d": 40.03,
       "date365dAgo": "20-May-2022",
       "chart365dPath": "https://static.nseindia.com/sparklines/365d/M&M-EQ.jpg",
@@ -1264,12 +1264,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE101A01026"
@@ -1310,11 +1310,6 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "IL",
           "N1",
@@ -1324,6 +1319,11 @@
           "N5",
           "N6"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE062A08066"
@@ -1363,12 +1363,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE192A01025"
@@ -1409,14 +1409,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE752E01010"
@@ -1457,15 +1457,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "N1",
+          "W1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1",
-          "W1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE296A13011"
@@ -1506,14 +1506,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE047A01021"
@@ -1554,12 +1554,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE021A01026"
@@ -1600,12 +1600,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE213A01029"
@@ -1646,12 +1646,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE481G01011"
@@ -1694,15 +1694,15 @@
         "debtSeries": [
           "N3"
         ],
+        "tempSuspendedSeries": [
+          "N1",
+          "N2"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": true,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1",
-          "N2"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE216A08027"
@@ -1725,9 +1725,9 @@
       "lastUpdateTime": "22-May-2023 15:58:37",
       "yearHigh": 1340.35,
       "ffmc": 518315089671.54,
-      "yearLow": 1047,
+      "yearLow": 1051.55,
       "nearWKH": 13.962770918043784,
-      "nearWKL": -10.143266475644703,
+      "nearWKL": -9.666682516285492,
       "perChange365d": 7.42,
       "date365dAgo": "20-May-2022",
       "chart365dPath": "https://static.nseindia.com/sparklines/365d/SBILIFE-EQ.jpg",
@@ -1742,12 +1742,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE123W01016"
@@ -1788,12 +1788,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE918I01026"
@@ -1834,12 +1834,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE030A01027"
@@ -1880,14 +1880,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE237A01028"
@@ -1928,14 +1928,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE095A01012"
@@ -1977,15 +1977,15 @@
           "W3"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "W1",
+          "W2"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "W1",
-          "W2"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE001A13049"
@@ -2026,14 +2026,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE040A01034"
@@ -2074,12 +2074,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE522F01014"
@@ -2120,12 +2120,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE155A01022"
@@ -2166,15 +2166,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "E2",
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "E2",
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE090A01021"
@@ -2215,14 +2215,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE397D01024"
@@ -2263,12 +2263,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE066A01021"
@@ -2291,9 +2291,9 @@
       "lastUpdateTime": "22-May-2023 15:59:46",
       "yearHigh": 22300,
       "ffmc": 766801516942.42,
-      "yearLow": 16000,
+      "yearLow": 16435,
       "nearWKH": 3.430044843049334,
-      "nearWKL": -34.59437499999999,
+      "nearWKL": -31.031944021904465,
       "perChange365d": 27.47,
       "date365dAgo": "20-May-2022",
       "chart365dPath": "https://static.nseindia.com/sparklines/365d/NESTLEIND-EQ.jpg",
@@ -2309,12 +2309,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE239A01016"
@@ -2355,14 +2355,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE238A01034"
@@ -2403,12 +2403,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE158A01026"
@@ -2433,13 +2433,13 @@
   },
   "marketStatus": {
     "market": "Capital Market",
-    "marketStatus": "Closed",
+    "marketStatus": "Open",
     "tradeDate": "22-May-2023",
     "index": "NIFTY 50",
     "last": 18314.4,
     "variation": 111,
     "percentChange": 0.61,
-    "marketStatusMessage": "Normal Market has Closed"
+    "marketStatusMessage": "Market in Pre-Open session"
   },
   "date30dAgo": "21-Apr-2023",
   "date365dAgo": "20-May-2022"
