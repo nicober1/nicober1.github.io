@@ -65,19 +65,19 @@ docs/pull_request_template.md
 
 ```
 
-
 ```git
   git config pull.rebase false  # merge
   git config pull.rebase true   # rebase
   git config pull.ff only       # fast-forward only
 
-  git config 
-  git config --global 
+  git config
+  git config --global
   git config --rebase
   git config --no-rebase
   git config --ff-only
 
+  git branch -d branch_name
 
- 
+
 
 ```

@@ -15,6 +15,8 @@ def get_tweets(username, num_tweets=50):
         # Go to the user's profile page
         page.goto(f"https://twitter.com/{username}")
 
+        page.wait_for_load_state('networkidle')
+
         # Wait for the tweets to load
         page.wait_for_selector("article")
 
