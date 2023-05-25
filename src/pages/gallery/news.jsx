@@ -6,6 +6,8 @@ import Layout from '@theme/Layout'
 function Art() {
   const images = []
   images.push(`cnn.png`)
+  images.push(`bbc.png`)
+  images.push(`cnbc.png`)
 
   const imageElements = images.map((image) => {
     const loc = `/scr/${image}`
