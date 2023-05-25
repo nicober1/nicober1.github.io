@@ -4,7 +4,8 @@ import time
 
 def launch_browser():
     with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(headless=False,slow_mo=1000)
+        # browser = playwright.chromium.launch(headless=False,slow_mo=1000)
+        browser = playwright.chromium.launch()
         context = browser.new_context(ignore_https_errors=True)
         page = context.new_page()
         page.goto('https://edition.cnn.com/',wait_until='commit',timeout=100000)
