@@ -1,5 +1,6 @@
 ---
 keywords: [Investment Banking Notes]
+title: Investment Banking Notes
 ---
 
 # BlackRock's Aladdin
