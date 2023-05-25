@@ -319,6 +319,10 @@ const config = {
           position: 'left',
           items: [
             {
+              to: '/gallery/news',
+              label: 'News Gallery',
+            },
+            {
               to: '/twitter/stockmarket',
               label: 'Stock Market News @ Twitter - India',
             },
@@ -335,9 +339,9 @@ const config = {
               label: 'News @ CNN, BBC , CNBC etc.',
             },
             {
-              to:'/twittertabs',
-              label:'Tweets @ Twitter'
-            }
+              to: '/twittertabs',
+              label: 'Tweets @ Twitter',
+            },
           ],
         },
       ],
