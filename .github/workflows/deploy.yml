@@ -15,7 +15,6 @@ jobs:
     name: Build Job - ${{ github.run_number }} -  ${{ github.run_id }}
     runs-on: ubuntu-latest
     steps:
-
       - name: Dump GitHub context
         id: github_context_step
         run: echo '${{ toJSON(github) }}'
@@ -29,10 +28,8 @@ jobs:
         run: echo '${{ toJSON(strategy) }}'
       - name: Dump matrix context
         run: echo '${{ toJSON(matrix) }}'
-    # ////////////////////////////////////////////////////////////////////////////////////////////////////////
-      
-      
-      
+      # ////////////////////////////////////////////////////////////////////////////////////////////////////////
+
       - name: Display Current India Time
         run: |
           CURRENT_TIME=$(TZ=Asia/Kolkata date +"%T")
@@ -71,6 +68,7 @@ jobs:
           python python/scrapnews.py
           python python/nse.py
           python python/scraptwitter.py
+          python python/scrapwebpageasimage.py
 
       - name: Cache node modules
         id: cache-npm
@@ -92,7 +90,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-     
+
       - name: Build website
         run: |
           CURRENT_HOUR=$(date -u +"%H")
@@ -107,7 +105,6 @@ jobs:
             echo "Running normal build as it is not between 9:30 AM - 9:35 AM or 9:30 PM - 9:35 PM."
             npm run build
           fi
-
 
       - name: Commit changes
         run: |
