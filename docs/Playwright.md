@@ -144,6 +144,43 @@ with sync_playwright() as playwright:
     run(playwright)
 
 
+from playwright.sync_api import Playwright, sync_playwright
+
+def print_request_sent(request):
+  print("Request sent: " + request.url)
+
+def print_request_finished(request):
+  print("Request finished: " + request.url)
+
+def on_web_socket(ws):
+    print(f"WebSocket opened: {ws.url}")
+    ws.on("framesent", lambda payload: print(payload))
+    ws.on("framereceived", lambda payload: print(payload))
+    ws.on("close", lambda payload: print("WebSocket closed"))
+
+
+
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=False)
+    context = browser.new_context(storage_state="state.json",ignore_https_errors=True,viewport={"width": 1600, "height": 1200})
+    # storage = context.storage_state(path="state.json")
+    page = context.new_page()
+    #
+    # page.on("request", print_request_sent)
+    # page.on("requestfinished", print_request_finished)
+    # page.on("response", lambda response: print("<<", response.status, response.url))
+    # page.on("websocket", on_web_socket)
+
+    with page.expect_response("**/api/fetch_data") as response_info:
+
+     page.goto('what')
+     page.wait_for_load_state('networkidle')
+     page.wait_for_timeout(5000)
+     response = response_info.value
+
+
+
 ```
 
 ```csharp
