@@ -15,7 +15,7 @@ function Art() {
       require(`/scr/${image}`)
       return (
         <ImageModal
-          className='hover:scale-150'
+          className='hover:scale-105'
           small={useBaseUrl(`${loc}`)}
           large={useBaseUrl(`${loc}`)}
           showRotate={true}
