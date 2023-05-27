@@ -117,6 +117,7 @@ context.add_init_script("""(storage => {
 
 from playwright.sync_api import sync_playwright
 
+
 path_to_extension = "./my-extension"
 user_data_dir = "/tmp/test-user-data-dir"
 
