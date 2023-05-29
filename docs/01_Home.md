@@ -26,6 +26,10 @@ sidebar_position: 1
 
 [https://crontab.guru/](https://crontab.guru/)
 
+[https://pypi.org/](https://pypi.org/)
+
+[https://adaptivecards.io/designer/](https://adaptivecards.io/designer/)
+
 ### Indian Stock Market Links:
 
 [FnO Stocks](https://fluentblogs.com/nse/fo)
