@@ -465,6 +465,7 @@ def on_web_socket(ws):
 
 
 with sync_playwright() as p:
+
     browser = p.chromium.launch(headless=False)
     context = browser.new_context(storage_state="state.json",ignore_https_errors=True,viewport={"width": 1600, "height": 1200})
     # storage = context.storage_state(path="state.json")
