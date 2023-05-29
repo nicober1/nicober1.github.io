@@ -40,7 +40,7 @@ def run(playwright: Playwright) -> None:
     page.goto("chrome-error://chromewebdata/")
     page.locator("div").filter(has_text="Your connection is not private Attackers might be trying to steal your informati").first.click()
     page.get_by_role("button", name="Advanced").click()
-    page.get_by_role("link", name="Proceed to centrali.mandg.com (unsafe)").click()
+    page.get_by_role("link", name="Proceed to ").click()
     page.get_by_placeholder("user@domain.com").click()
     page.get_by_placeholder("user@domain.com").fill("username")
     page.get_by_role("button", name="Next").click()
@@ -204,7 +204,7 @@ using var playwright = await Playwright.CreateAsync();
 await page.GotoAsync("https://google.com");
 await page.GetByPlaceholder("user@domain.com").ClickAsync();
 await page.GetByRole(AriaRole.Button, new() { Name = "Next" }).ClickAsync();
-await page.GetByRole(AriaRole.Link, new() { Name = "Proceed to centrali.mandg.com (unsafe)" }).ClickAsync();
+await page.GetByRole(AriaRole.Link, new() { Name = "Proceedom (unsafe)" }).ClickAsync();
 
 await page.GetByPlaceholder("user@domain.com").FillAsync("username");
 await page.Locator("#i0118").FillAsync("password");
@@ -311,5 +311,285 @@ def launch_browser(url, path):
 launch_browser('https://edition.cnn.com/', './static/scr/cnn.png')
 launch_browser('https://www.bbc.com/', './static/scr/bbc.png')
 launch_browser('https://www.cnbc.com/', './static/scr/cnbc.png')
+
+```
+
+```python
+
+
+import requests
+import json
+import base64
+from playwright.sync_api import Playwright, sync_playwright
+import urllib3
+# import httplib2
+
+webhook_url = 'hhh'
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=False)
+    context = browser.new_context(storage_state="state.json",ignore_https_errors=True,viewport={"width": 1600, "height": 1200})
+    page = context.new_page()
+    data = []
+    def handle_response(response):
+        if "/api/" in response.url:
+            data.append({"url": response.url, "status": response.status})
+    page.on("response", handle_response)
+    page.goto('gg')
+    page.wait_for_load_state('networkidle')
+    page.screenshot(path='temp/home.jpeg',type='jpeg',quality=5,full_page=True)
+    print(data)
+
+# Load the screenshot file and encode it as base64
+with open("temp/home.jpeg", "rb") as f:
+    image = base64.b64encode(f.read())
+
+# Create the adaptive card JSON payload
+card = {
+  "type": "message",
+  "attachments": [
+    {
+      "contentType": "application/vnd.microsoft.card.adaptive",
+      "content": {
+        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+        "type": "AdaptiveCard",
+        "version": "1.2",
+        "body": [
+          {
+            "type": "TextBlock",
+            "text": f"{data}",
+            "size": "Large",
+            "weight": "Bolder"
+          },
+          {
+            "type": "ColumnSet",
+            "columns": [
+              {
+                "type": "Column",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": "API",
+                    "weight": "Bolder"
+                  }
+                ],
+                "width": "auto"
+              },
+              {
+                "type": "Column",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": "Status",
+                    "weight": "Bolder"
+                  }
+                ],
+                "width": "auto"
+              }
+            ]
+          },
+          {
+            "$data": f"{data}",
+            "type": "ColumnSet",
+            "columns": [
+              {
+                "type": "Column",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": f"{data}"
+                  }
+                ],
+                "width": "auto"
+              },
+              {
+                "type": "Column",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": f"{data}"
+                  }
+                ],
+                "width": "auto"
+              }
+            ]
+          },
+          {
+            "type": "Image",
+            "url": f"data:image/jpeg;base64,{image.decode()}",
+            "size": "Large",
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+# response = requests.post(url=webhook_url, json=card)
+
+# if response.status_code == 200:
+#   print("Card sent successfully")
+# else:
+#   print("Error sending card: ", response.status_code)
+
+http = urllib3.PoolManager(cert_reqs='CERT_NONE')
+response = http.request('POST', webhook_url, json=card)
+print(response.status, response.data)
+
+
+# import httplib2
+# # Create an http object that disables SSL verification
+# http = httplib2.Http(disable_ssl_certificate_validation=True)
+# # Make a post request
+# response, content = http.request('https://example.com/api', 'POST', body='bar=baz')
+# # Print the status code and content
+# print(response.status, content)
+
+
+from playwright.sync_api import Playwright, sync_playwright
+
+def print_request_sent(request):
+  print("Request sent: " + request.url)
+
+def print_request_finished(request):
+  print("Request finished: " + request.url)
+
+def on_web_socket(ws):
+    print(f"WebSocket opened: {ws.url}")
+    ws.on("framesent", lambda payload: print(payload))
+    ws.on("framereceived", lambda payload: print(payload))
+    ws.on("close", lambda payload: print("WebSocket closed"))
+
+
+
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=False)
+    context = browser.new_context(storage_state="state.json",ignore_https_errors=True,viewport={"width": 1600, "height": 1200})
+    # storage = context.storage_state(path="state.json")
+    page = context.new_page()
+    #
+    # page.on("request", print_request_sent)
+    # page.on("requestfinished", print_request_finished)
+    # page.on("response", lambda response: print("<<", response.status, response.url))
+    # page.on("websocket", on_web_socket)
+    data = []
+    # with page.expect_response("**/api/fetch_data") as response_info:
+    def handle_request(response):
+     # Check if the request url contains the word api
+     if "/api/" in response.url:
+      # Append the request url and status code to the data list
+      data.append([response.url, response.status])
+
+
+    page.on("response", handle_request)
+    page.goto('gg')
+    page.wait_for_load_state('networkidle')
+    print(data)
+
+    page.wait_for_timeout(5000)
+    #  response = response_info.value
+
+import requests
+import json
+import base64
+from playwright.sync_api import Playwright, sync_playwright
+import urllib3
+# import httplib2
+
+webhook_url = 'gg'
+
+base_url = ''
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=False)
+    context = browser.new_context(storage_state="state.json",ignore_https_errors=True,viewport={"width": 1600, "height": 1200})
+    page = context.new_page()
+    data = []
+    data1 = ' '
+    def handle_response(response):
+        global data
+        global data1
+        if "/api/" in response.url:
+            modified_url = response.url.replace(base_url, '')
+            data.append({"title": modified_url, "value": response.status})
+            # data.append(f"{response.url} {response.status}")
+            data1 += f"\n\n\n\n{response.url} {response.status}\n\n\n"
+    page.on("response", handle_response)
+    page.goto('hh')
+    page.wait_for_load_state('networkidle')
+    page.screenshot(path='temp/home.jpeg',type='jpeg',quality=5,full_page=True)
+    print(data)
+
+# Load the screenshot file and encode it as base64
+with open("temp/home.jpeg", "rb") as f:
+    image = base64.b64encode(f.read())
+
+# Create the adaptive card JSON payload
+card = {
+  "type": "message",
+  "attachments": [
+    {
+      "contentType": "application/vnd.microsoft.card.adaptive",
+      "content": {
+        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+        "type": "AdaptiveCard",
+        "version": "1.5",
+        "body": [
+
+
+
+
+                 {
+            "type": "TextBlock",
+            "text": data1,
+            "spacing": "Padding",
+            "horizontalAlignment": "Left",
+            "maxLines": 1000,
+            "wrap": True,
+            "fontType": "Monospace",
+            "size": "Small",
+            "weight": "Bolder",
+            "color": "Dark",
+            "isSubtle": False,
+            "separator": True
+        },
+
+				{
+					"type": "FactSet",
+					"facts": data,
+            "spacing": "Medium",
+            "separator": True,
+            "height": "stretch"
+				}
+
+	]}}
+
+
+        ]
+      }
+
+
+
+# response = requests.post(url=webhook_url, json=card)
+
+# if response.status_code == 200:
+#   print("Card sent successfully")
+# else:
+#   print("Error sending card: ", response.status_code)
+
+http = urllib3.PoolManager(cert_reqs='CERT_NONE')
+response = http.request('POST', webhook_url, json=card)
+print(response.status, response.data)
+
+
+# import httplib2
+# # Create an http object that disables SSL verification
+# http = httplib2.Http(disable_ssl_certificate_validation=True)
+# # Make a post request
+# response, content = http.request('https://example.com/api', 'POST', body='bar=baz')
+# # Print the status code and content
+# print(response.status, content)
 
 ```
