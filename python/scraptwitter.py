@@ -2,6 +2,7 @@
 import json
 from playwright.sync_api import sync_playwright
 
+
 def get_tweets(username, num_tweets=50):
     tweets = []
 
@@ -9,13 +10,12 @@ def get_tweets(username, num_tweets=50):
         # browser = p.chromium.launch(headless=False, slow_mo=50)
         browser = p.chromium.launch()
 
-
         page = browser.new_page()
 
         # Go to the user's profile page
         page.goto(f"https://twitter.com/{username}")
 
-        page.wait_for_load_state('commit')
+        page.wait_for_load_state("commit")
 
         # Wait for the tweets to load
         page.wait_for_selector("article")
@@ -32,12 +32,12 @@ def get_tweets(username, num_tweets=50):
             for tweet_element in tweet_elements:
                 # Get the tweet content element
                 try:
-                       content_element = tweet_element.query_selector("div[lang]")
+                    content_element = tweet_element.query_selector("div[lang]")
 
-                       content_text = content_element.inner_text()
+                    content_text = content_element.inner_text()
                 except Exception as e:
-                       print(f"Error: {e}")
-                       continue
+                    print(f"Error: {e}")
+                    continue
 
                 # Append the tweet content text to the tweets list if it is not already in it
                 if content_text not in tweets:
@@ -57,16 +57,19 @@ def get_tweets(username, num_tweets=50):
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
 
             # Wait for a selector that indicates that more tweets have been loaded or that there are no more tweets to show
-            page.wait_for_selector("div[role='progressbar'], div[role='alert']", state="detached")
+            page.wait_for_selector(
+                "div[role='progressbar'], div[role='alert']", state="detached"
+            )
 
         # Close the browser
         browser.close()
-        
+
     with open(f"./static/scrap/twitter_{username}.json", "w", encoding="utf-8") as f:
-     json.dump(tweets, f, indent=4, ensure_ascii=False)
+        json.dump(tweets, f, indent=4, ensure_ascii=False)
 
     # Return the tweets list
     return tweets
+
 
 # Get the first 50 tweets from Elon Musk
 get_tweets("elonmusk", 30)
