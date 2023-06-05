@@ -116,3 +116,37 @@ Key components and concepts associated with FDC3 include:
 By adopting FDC3 standards, financial applications can become interoperable, allowing users to seamlessly switch between different applications while maintaining their workflow context. For example, a user could initiate a trade from a market data application, which then launches a trading application with the relevant instrument and pre-filled order details.
 
 Overall, FDC3 aims to improve the user experience, increase efficiency, and foster innovation in the financial industry by promoting standardization and interoperability among desktop applications.
+
+# Issuer
+
+In asset management, an issuer refers to an entity that creates and offers financial securities or assets to investors. These issuers can be corporations, governments, municipalities, or other organizations that issue securities to raise capital or fund specific projects.
+
+In the context of asset management, issuers play a crucial role as they issue and manage the assets in which investors can invest. Asset managers evaluate and select securities issued by various issuers based on factors such as investment objectives, risk tolerance, and return expectations.
+
+Here are some common types of issuers in asset management:
+
+1. Corporations: Publicly traded companies issue stocks (equity) and bonds (debt) to raise capital for their business operations, expansion, or acquisitions.
+
+2. Governments: National governments, state or provincial governments, and local municipalities issue bonds, often referred to as government bonds or sovereign debt, to finance public infrastructure projects, public services, or budget deficits.
+
+3. Supranational Organizations: These are international organizations such as the World Bank, International Monetary Fund (IMF), or regional development banks that issue bonds to fund projects aimed at promoting economic development and stability.
+
+4. Asset-backed Securities Issuers: These issuers create securities backed by specific assets such as mortgages, auto loans, credit card receivables, or other types of loans. These assets are pooled together and then securitized, with the resulting securities sold to investors.
+
+5. Exchange-Traded Funds (ETF) Providers: ETF issuers create and offer ETFs, which are investment funds traded on stock exchanges. ETFs represent a basket of assets such as stocks, bonds, or commodities and provide investors with exposure to a diversified portfolio.
+
+6. Real Estate Investment Trusts (REITs): REITs are companies that own, operate, or finance income-generating real estate properties. REITs issue shares to investors, who then become shareholders and participate in the income and value appreciation of the real estate portfolio.
+
+It's important for asset managers to conduct thorough due diligence on issuers to assess their financial stability, creditworthiness, governance practices, and other relevant factors before investing client funds in their securities. This helps ensure effective risk management and alignment with investors' objectives.
+
+# Data
+
+Market Data: This could include real-time or historical pricing data, trading volumes, bid/ask spreads, and other market-related information.
+
+Economic Data: This refers to economic indicators, such as GDP growth, inflation rates, employment figures, interest rates, and other macroeconomic data.
+
+Company Data: This includes financial statements, company profiles, earnings reports, corporate actions, and other information about individual companies.
+
+Research Data: Research reports, analyst ratings, industry trends, and expert insights from various sources can be part of the data package.
+
+Alternative Data: Non-traditional or unconventional data sources, such as satellite imagery, social media sentiment, credit card transactions, or web scraping data, which can provide unique insights for investment analysis.
