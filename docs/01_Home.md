@@ -30,6 +30,8 @@ sidebar_position: 1
 
 [https://adaptivecards.io/designer/](https://adaptivecards.io/designer/)
 
+[https://what3words.com/](https://what3words.com/)
+
 ### Indian Stock Market Links:
 
 [FnO Stocks](https://fluentblogs.com/nse/fo)

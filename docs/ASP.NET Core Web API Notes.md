@@ -4,6 +4,10 @@ keywords: [ASP.NET.Core.Web.API.Notes]
 
 ```csharp
 
+
+[ApiExplorerSettings(IgnoreApi = true)]
+
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddHttpClient();
 
