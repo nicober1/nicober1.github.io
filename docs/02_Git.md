@@ -78,6 +78,16 @@ docs/pull_request_template.md
 
   git branch -d branch_name
 
+  git branch -r  //List remote branches
+  git branch
+
+  //Cherry Pick Commit
+  git cherry-pick <commit_hash>
+  git add .
+  git cherry-pick --continue
+  git push origin <destination_branch>
+
+
 
 
 ```
