@@ -69,12 +69,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE423A01024"
@@ -115,12 +115,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE742F01042"
@@ -161,15 +161,15 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": false,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "P1",
           "P2"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE019A04024"
@@ -210,12 +210,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": false,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE917I01010"
@@ -256,14 +256,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "P1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "P1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE044A04014"
@@ -304,12 +304,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE155A01022"
@@ -350,15 +350,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL",
+          "N1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL",
-          "N1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE280A07025"
@@ -399,14 +399,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "N1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE089A08051"
@@ -447,14 +447,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE095A01012"
@@ -495,12 +495,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE029A01011"
@@ -541,12 +541,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE018A01030"
@@ -601,11 +601,6 @@
           "NC",
           "ND"
         ],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": true,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "U1",
           "U2",
@@ -614,6 +609,11 @@
           "U5",
           "U6"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE733E07JJ9"
@@ -654,12 +654,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE002A01018"
@@ -700,12 +700,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE009A01021"
@@ -746,15 +746,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "N1",
+          "W1"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": false,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1",
-          "W1"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE296A13011"
@@ -795,12 +795,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE481G01011"
@@ -841,16 +841,16 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "IL",
           "Q1",
           "Q2"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE628A03016"
@@ -893,15 +893,15 @@
         "debtSeries": [
           "N3"
         ],
+        "tempSuspendedSeries": [
+          "N1",
+          "N2"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": true,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "N1",
-          "N2"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE216A08027"
@@ -942,12 +942,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE522F01014"
@@ -987,12 +987,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE123W01016"
@@ -1033,14 +1033,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE752E01010"
@@ -1081,14 +1081,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE585B01010"
@@ -1129,12 +1129,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE154A01025"
@@ -1175,14 +1175,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE040A01034"
@@ -1223,11 +1223,6 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "IL",
           "N1",
@@ -1237,6 +1232,11 @@
           "N5",
           "N6"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE062A08066"
@@ -1277,14 +1277,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE397D01024"
@@ -1325,17 +1325,17 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": false,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "B1",
           "E1",
           "IL",
           "Q1"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE081A03018"
@@ -1376,14 +1376,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE238A01034"
@@ -1424,12 +1424,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE467B01029"
@@ -1470,12 +1470,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE021A01026"
@@ -1516,12 +1516,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE030A01027"
@@ -1562,12 +1562,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE361B01024"
@@ -1608,16 +1608,16 @@
           "EQ"
         ],
         "debtSeries": [],
-        "isFNOSec": true,
-        "isCASec": false,
-        "isSLBSec": true,
-        "isDebtSec": false,
-        "isSuspended": false,
         "tempSuspendedSeries": [
           "E1",
           "E2",
           "P1"
         ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE038A04016"
@@ -1659,15 +1659,15 @@
           "W3"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "W1",
+          "W2"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "W1",
-          "W2"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE001A13049"
@@ -1708,14 +1708,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE047A01021"
@@ -1756,12 +1756,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE239A01016"
@@ -1802,15 +1802,15 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "E2",
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "E2",
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE090A01021"
@@ -1851,12 +1851,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE066A01021"
@@ -1897,12 +1897,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE059A01026"
@@ -1942,12 +1942,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE192A01025"
@@ -1988,12 +1988,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE213A01029"
@@ -2034,12 +2034,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE860A01027"
@@ -2080,14 +2080,14 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [
+          "IL"
+        ],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [
-          "IL"
-        ],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE237A01028"
@@ -2128,12 +2128,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE075A01022"
@@ -2174,12 +2174,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": false,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE918I01026"
@@ -2220,12 +2220,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE158A01026"
@@ -2266,12 +2266,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE437A01024"
@@ -2312,12 +2312,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE101A01026"
@@ -2358,12 +2358,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
-        "isSLBSec": false,
+        "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE669C01036"
@@ -2403,12 +2403,12 @@
           "EQ"
         ],
         "debtSeries": [],
+        "tempSuspendedSeries": [],
         "isFNOSec": true,
         "isCASec": false,
         "isSLBSec": true,
         "isDebtSec": false,
         "isSuspended": false,
-        "tempSuspendedSeries": [],
         "isETFSec": false,
         "isDelisted": false,
         "isin": "INE795G01014"
