@@ -66,8 +66,8 @@ jobs:
       - name: Run Python files in one step
         run: |
           python python/scrapnews.py
-          python python/nse.py
-          python python/scraptwitter.py
+          # python python/nse.py
+          # python python/scraptwitter.py
           python python/scrapwebpageasimage.py
 
       - name: Cache node modules
