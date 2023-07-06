@@ -204,3 +204,34 @@ Here are some translations of "Hello" in various languages:
 198. Cook Islands Maori: Kia orana
 199. Niuean: Fakaalofa atu
 200. Pitcairn Creole: Hello
+201. Esperanto: Saluton
+202. Latin: Salve
+203. Yiddish: העלא (Hallo)
+204. Hawaiian Pidgin: Howzit
+205. Jamaican Patois: Wah gwan
+206. Scottish Gaelic: Hàlo
+207. Welsh: Helo
+208. Cornish: Dydh da
+209. Basque: Kaixo
+210. Catalan: Hola
+211. Galician: Ola
+212. Corsican: Bonghjornu
+213. Sardinian: Ciao
+214. Maltese: Bongu
+215. Luxembourgish: Moien
+216. Frisian: Hoi
+217. Faroese: Hallo
+218. Greenlandic: Aluu
+219. Inuktitut: ᐊᐃᒡᓗ (Ai-ga-lu)
+220. Cherokee: ᎣᏏᏲ (Osiyo)
+221. Navajo: Yá'át'ééh
+222. Hawaiian Sign Language: Hello
+223. Bolivian Sign Language: Hello
+224. Japanese Sign Language: Hello
+225. Thai Sign Language: Hello
+226. British Sign Language: Hello
+227. American Sign Language: Hello
+228. International Sign Language: Hello
+229. Braille: ⠓⠁⠇⠇⠕ (H-e-l-l-o)
+230. Morse Code: .... . .-.. .-.. ---
+231. Semaphore: •••• • -•-• ••---
