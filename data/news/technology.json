@@ -1,45 +1,916 @@
 {
   "status": "ok",
-  "totalResults": 330,
+  "totalResults": 353,
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Zelda and Mario boost Nintendo to record profit - The Verge",
+      "description": "Nintendo just had a very profitable first quarter thanks to the release of The Legend of Zelda: Tears of the Kingdom, as well as The Super Mario Bros. Movie.",
+      "url": "https://www.theverge.com/2023/8/3/23818357/nintendo-earnings-q1-2024-zelda-totk-mario-movie-profits",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vpVcVjgOLKUBbv6b55mGzUsQiRU=/0x0:2160x1440/1200x628/filters:focal(1080x720:1081x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24428734/Screen_Shot_2023_02_13_at_8.38.37_AM.jpg",
+      "publishedAt": "2023-08-03T08:14:41Z",
+      "content": "Zelda and Mario boost Nintendo to record profit\r\nZelda and Mario boost Nintendo to record profit\r\n / Tears of the Kingdom has sold 18.51 million units, and the Super Mario Bros. Movie has grossed ove… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Abhik Sengupta",
+      "title": "HP Dragonfly G4 with 13th-Gen Intel CPU and advanced security features launched, price starts at Rs 2.2 lakh - India Today",
+      "description": "At over Rs 2 lakh, the HP Dragonfly G4 is one of the priciest 13-inch laptops aimed at professionals. For perspective, Apple's latest 13-inch MacBook Air with in-house M2 SoC and 256GB SSD costs 1.14 lakh.",
+      "url": "https://www.indiatoday.in/technology/news/story/hp-dragonfly-g4-laptop-13th-gen-intel-cpu-advanced-security-price-rs-22-lakh-2415681-2023-08-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/hp-dragonfly-g4-030129-16x9.jpg?VersionId=me4bXeM4_kJ21BI69tsnXkonce8MPwVI",
+      "publishedAt": "2023-08-03T08:04:59Z",
+      "content": "By Abhik Sengupta: HP India has refreshed its ultra-premium Dragonfly laptop series with the new HP Dragonfly G4 notebook, primarily designed for C-suite customers. The new laptop boasts a super slee… [+2315 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Dyson V12s Detect Slim Submarine wet-and-dry cordless vacuum cleaner launched, priced at Rs 62,900 - Times of India",
+      "description": "Dyson has launched its first all-in-one wet-and-dry cordless vacuum cleaner, the V12s Detect Slim Submarine. The device, which costs INR62,900 ($848),",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/dyson-v12s-detect-slim-submarine-wet-and-dry-cordless-vacuum-cleaner-launched-priced-at-rs-62900/articleshow/102382809.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102382781,width-1070,height-580,imgsize-16094,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-03T07:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Ashish Singh",
+      "title": "Google's AI-Powered Search Will Show Related Videos And Images; Full Details - Jagran English",
+      "description": "Google enhances its AI-powered Search Generative Experience SGE with related videos in overviews Users can quickly explore new topics and find helpful tips or products The update also reduces AI overview generation time by half Google is also developing a sup…",
+      "url": "https://english.jagran.com/technology/googles-aipowered-search-will-show-related-videos-and-images-full-details-10091455",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/aug/Google (5)1691046806686.jpg",
+      "publishedAt": "2023-08-03T07:27:00Z",
+      "content": "Google, which has been making a slew of changes to its generative AI search, has now announced AI-powered Search Generative Experience (SGE) with an aim to offer a more engaging search experience. Ac… [+1880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Divya Bhati",
+      "title": "AI becomes astrologer, here is how Kundali GPT chatbot uses artificial intelligence to predict horoscope - India Today",
+      "description": "An NIT alumnus has launched a new AI-powered chatbot named Kundali GPT, which offers personalized astrological readings and insights into horoscopes.",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-becomes-astrologer-here-is-how-kundali-gpt-chatbot-uses-artificial-intelligence-to-predict-horoscope-2415642-2023-08-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/kundali-gpt-030532-16x9.jpg?VersionId=BBIuKhZTRWQY0lCJfSAF6slUKJz9b..R",
+      "publishedAt": "2023-08-03T07:05:49Z",
+      "content": "By Divya Bhati: Artificial Intelligence is revolutionising our lives, impacting every field imaginable. It's helping software engineers in coding, assisting students in assignments, and even aiding c… [+3076 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Feed",
+      "title": "Quordle #556: Clues, answers to today's wordy puzzle for August 3 - The Economic Times",
+      "description": "Today's Quordle #556 is out for August 3. Read on for the hints and answers to keep up with your winning streak.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quordle-556-clues-answers-to-todays-wordy-puzzle-for-august-3/articleshow/102380767.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102381420,width-1070,height-580,imgsize-19050,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-03T07:04:01Z",
+      "content": "Welcome back to the Quordle feed, gamers! We are thrilled to help you maintain your winning streak and level up your Quordle game score with a bunch of clues and solutions for the new word puzzle.His… [+1799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Vikas Yadav",
+      "title": "Infinix GT 10 Pro Launched In India With LED Lights, Cyber Mecha Design | Check Price, Offers, Discounts, Sp - Jagran English",
+      "description": "Infinix GT 10 Pro Pre-orders The phone has a starting price of Rs 19999 on Flipkart for the 8GB  256GB variant It is available in two colour options Cyber Black and Mirage Silver The smartphone comes with a Cyber Mecha Design with a transparent back and LED l…",
+      "url": "https://english.jagran.com/technology/infinix-gt-10-pro-preorders-now-live-on-flipkart-check-price-specifications-and-offers-discounts-in-india-10091449",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/aug/infinix-gt-10-pro1691045964732.jpg",
+      "publishedAt": "2023-08-03T06:43:16Z",
+      "content": "Infinix, a Chinese smartphone manufacturer, has launched the Infinix GT 10 Pro smartphone in India. The smartphone carries a transparent back with LEDs that may remind you of the newly-launched Nothi… [+2417 chars]"
+    },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "IGN",
-      "title": "Palia Is Like the Bizarre Lovechild of World of Warcraft and Animal Crossing - IGN",
+      "author": "CNBC",
+      "title": "Super Mario movie and Zelda game breathe fresh life into Switch as Nintendo posts a 52% profit surge - CNBC",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvcGFsaWEtaXMtbGlrZS10aGUtYml6YXJyZS1sb3ZlY2hpbGQtb2Ytd29ybGQtb2Ytd2FyY3JhZnQtYW5kLWFuaW1hbC1jcm9zc2luZ9IBAA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDgvMDMvbmludGVuZG8tbnRkb3ktZWFybmluZ3MtcmVwb3J0LXExLTIwMjQuaHRtbNIBT2h0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzA4LzAzL25pbnRlbmRvLW50ZG95LWVhcm5pbmdzLXJlcG9ydC1xMS0yMDI0Lmh0bWw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2023-08-02T17:00:25Z",
+      "publishedAt": "2023-08-03T06:38:40Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Takashi Mochizuki, Yuki Furukawa",
+      "title": "Nintendo Powers to Record Profit on Zelda Debut, Mario Movie - Bloomberg",
+      "description": "Nintendo Co. hit a new high for first-quarter profit after the successful launch of its latest Legend of Zelda game propped up sales of its Switch console.",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-03/nintendo-powers-to-record-profit-after-blockbuster-zelda-debut",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0OpUuDpbfQc/v1/1200x800.jpg",
+      "publishedAt": "2023-08-03T06:33:40Z",
+      "content": "Nintendo Co. hit a new high for first-quarter profit after the successful launch of its latest Legend of Zelda game propped up sales of its Switch console.\r\nThe Kyoto-based company reported operating… [+201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "Apple AirTag 2 likely to enter mass production in Q4 2024 - GSMArena.com",
+      "description": "It might have better integration with the Vision Pro as a part of Apple's spatial computing ecosystem. Apple unveiled the AirTag in April 2021 for $29,...",
+      "url": "https://www.gsmarena.com/apple_airtag_2_mass_production_q4_2024_tipped-news-59413.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/apple-airtag-2-q4-2024-mass-production-tipped/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2023-08-03T05:45:01Z",
+      "content": "Apple unveiled the AirTag in April 2021 for $29, which will likely get a successor in late 2024 or early 2025 if analyst Ming-Chi Kuo's prediction turns correct.\r\nKuo predicts the AirTag 2 (tentative… [+469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jagran.com"
+      },
+      "author": "Vikas Yadav",
+      "title": "Chrome Updates: Google Introduces Four New Features To Enhance Your Search Experience On Android And iOS | D - Jagran English",
+      "description": "Google Chrome Update Google Chrome among the most popular internet browsers in the world is getting four meaningful upgrades on mobile With these additions the search giant aims to offer more search suggestions that will help a user find information faster",
+      "url": "https://english.jagran.com/technology/chrome-new-update-google-introduces-four-features-to-enhance-your-search-suggestions-on-android-ios-smartphones-latest-news-10091434",
+      "urlToImage": "https://imgeng.jagran.com/images/2023/aug/google-chrome-new-features1691040796121.jpg",
+      "publishedAt": "2023-08-03T05:40:47Z",
+      "content": "Google Chrome, among the most popular internet browsers in the world, is getting meaningful upgrades on mobile. The tech giant regularly rolls out upgrades to polish user experience across diverse as… [+1787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "IE Online",
+      "title": "OnePlus’s latest mid-range smartphone, the OnePlus Nord CE 3 5G, to go on sale on August 4 with various offers and benefits - The Indian Express",
+      "description": "OnePlus has put up a plethora of lucrative offers for customers to avail of during the sale of the Nord CE 3 5G.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/oneplus-nord-ce-3-5g-sale-aug-4-8874254/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/oneplus-nord-ce-3-5g-lead.jpg",
+      "publishedAt": "2023-08-03T05:29:55Z",
+      "content": "Global mobile phone company OnePlus is all set to bring its new mid-range smartphone, the OnePlus Nord CE 3 5G, to the market. The OnePlus Nord CE 3 5G, which was unveiled earlier this month, along w… [+3154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Datadriveninvestor.com"
+      },
+      "author": "Peter Xing",
+      "title": "LK-99 : Everything We Know So Far | by Peter Xing | Aug, 2023 - DataDrivenInvestor",
+      "description": "LK99 — Everything We Know So Far. If you’re not following LK-99, you’re missing out on the most fun thing happening on the internet right now. Feels like the old internet..",
+      "url": "https://medium.datadriveninvestor.com/lk99-everything-we-know-so-far-84d97a0047b6",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*Ej7OMcLBw_4OYUL9NB-1Rg.jpeg",
+      "publishedAt": "2023-08-03T05:23:39Z",
+      "content": "freelance journalist @datadriveninvestor, cofounder @transhumanismau, @transhumancoin, faculty @singularityu, emerging tech director alumni @kpmg @deloitte"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": null,
+      "title": "Microsoft Teams unleashes spatial audio, but bluetooth users are left behind - Zee Business",
+      "description": "Microsoft has rolled out spatial audio for its Teams desktop app, providing a more immersive call experience. However, Bluetooth earbud users may feel left out, as the feature is currently limited to wired headsets and stereo-capable laptops. Discover the ben…",
+      "url": "https://www.zeebiz.com/technology/video-gallery-microsoft-teams-unleashes-spatial-audio-but-bluetooth-users-are-left-behind-247319",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/08/03/254483",
+      "publishedAt": "2023-08-03T05:18:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Govind Choudhary",
+      "title": "Amazon Great Freedom Festival Sale starts today for Prime Members. Check out best deals and offers on premium phones | Mint - Mint",
+      "description": "Amazon Great Freedom Festival Sale begins today at 12 PM IST for Prime members. Non-Prime members can shop from August 4 onwards. Extra 10% discount for SBI Credit Card transactions or EMI. Sale runs until August 8 with discounts on smartphones, laptops, TVs,…",
+      "url": "https://www.livemint.com/technology/gadgets/amazon-great-freedom-festival-sale-starts-for-prime-members-check-out-best-deals-and-offers-11691037765571.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/03/600x338/iphone_14_pro_max_1691039383219_1691039389911.jpg",
+      "publishedAt": "2023-08-03T05:13:54Z",
+      "content": "The Amazon Great Freedom Festival Sale is commencing today at 12 PM IST, exclusively for Prime members. For non-Prime members, the sale will begin from August 4 onwards. Interestingly, during this sa… [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister, Wes Davis",
+      "title": "Alienware's new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build - The Verge",
+      "description": "The Alienware Aurora R16 largely ditches its trademark out-of-this-world look, achieved via lots of plastic, for better airflow.",
+      "url": "https://www.theverge.com/22440712/alienware-aurora-r16-desktop-announcement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kxSdUarPoV6upx7ATEa4GMj654Q=/0x0:1755x1125/1200x628/filters:focal(795x598:796x599)/cdn.vox-cdn.com/uploads/chorus_asset/file/24827380/Main.png",
+      "publishedAt": "2023-08-03T04:32:00Z",
+      "content": "Alienwares new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build\r\nAlienwares new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build\r\n / More box, less alien… [+3764 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "Alienware announces a new-look Aurora R16 desktop | Engadget - Engadget",
+      "description": "It uses the company's Legend 3 design first introduced on its laptops..",
+      "url": "https://www.engadget.com/alienware-announces-a-new-look-aurora-r16-desktop-070153737.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/FzHtgcXivgjl3xLS204xpw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/fe5c31f0-3125-11ee-a7ff-c5643d4bc14a.cf.jpg",
+      "publishedAt": "2023-08-03T04:03:37Z",
+      "content": "Now might be your chance if you've been in the market for a new gaming computer but haven't found the right one. Alienware has announced the launch of its Aurora R16 desktop, an updated version of it… [+1118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Debayan Saha",
+      "title": "iPhone 15 OLED display rumor hints at slimmer bezels, focus on Pro models, and more - Sportskeeda",
+      "description": "With the highly anticipated launch of Apple's iPhone 15 just around the corner, fresh rumors are starting to emerge from trusted insiders.",
+      "url": "https://www.sportskeeda.com/gaming-tech/rumor-iphone-15-oled-display-rumor-hints-slimmer-bezels-focus-pro-models",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/f2849-16910301970172-1920.jpg",
+      "publishedAt": "2023-08-03T03:01:00Z",
+      "content": "With the highly anticipated launch of Apple's iPhone 15 just around the corner, fresh rumors are starting to emerge from trusted insiders. One intriguing piece of information indicates that the upcom… [+2811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "BGMI redeem codes for Aug 3, 2023: Unlock exciting rewards and free gifts! | Mint - Mint",
+      "description": "BGMI redeem codes allow players to obtain in-game items for free, providing an alternative to purchasing in-game currency.",
+      "url": "https://www.livemint.com/technology/tech-news/bgmi-redeem-codes-for-aug-3-2023-unlock-exciting-rewards-and-free-gifts-11691031097944.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/03/600x338/BGMI_1685081078491_1691031314985.jpg",
+      "publishedAt": "2023-08-03T02:55:26Z",
+      "content": "BGMI (Battlegrounds Mobile India) quickly rose to prominence in India after the ban on PUBG Mobile. Despite facing its own ban, the Indian government decided to allow BGMI back into the country with … [+1969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DAWN.com"
+      },
+      "author": "The Newspaper's Staff Reporter",
+      "title": "Premium YouTube for Pakistan - Business - DAWN.COM - DAWN.com",
+      "description": "YouTube Premium will be available for Rs479.",
+      "url": "https://www.dawn.com",
+      "urlToImage": "https://i.dawn.com/large/2023/08/03085541ff6edc3.jpg?r=085600",
+      "publishedAt": "2023-08-03T02:01:27Z",
+      "content": "KARACHI: YouTube introduced its premium and music services to users in Pakistan on Wednesday, allowing them to watch videos uninterrupted by ads, while using other apps or when the screen is locked; … [+1355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Samsung Galaxy S23 FE confirmed to land in India - GSMArena.com",
+      "description": "A new certification reveals it's on its way. Samsung's Galaxy S23 FE has been in the rumor mill for what feels like decades now. Last week a Samsung exec...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s23_fe_confirmed_to_land_in_india-news-59412.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/samsung-galaxy-s23-fe-bis-certified/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-03T01:46:01Z",
+      "content": "Samsung's Galaxy S23 FE has been in the rumor mill for what feels like decades now. Last week a Samsung exec said it would arrive imminently, and today we have confirmation that it will be offered in… [+888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "Garena Free Fire redeem codes for August 3, 2023: Great chance to win Burning Haunt bundle - HT Tech",
+      "description": "From latest redeem codes to rewards and freebies, here is what Garena Free Fire players can claim today.",
+      "url": "https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-august-3-2023-great-chance-to-win-burning-haunt-bundle-71691025404804.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/03/1600x900/4b38309054a4ce4c71d2e947b2424d1ajpg_1650242981056_1691025453525.jpg",
+      "publishedAt": "2023-08-03T01:23:20Z",
+      "content": "Garena Free Fire redeem codes for August 3, 2023: What do you do to make your gameplay more exciting? Other than the updates, you can participate in the events and challenges and even grab rewards an… [+1721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Archer",
+      "title": "LG M3 Wireless OLED TV Update: Three Sizes Confirmed - And Priced - Forbes",
+      "description": "And actually, aside from the 97-inch model, those prices aren’t as scary as feared. But will they tempt AV fans to step up from the G3 series?",
+      "url": "https://www.forbes.com/sites/johnarcher/2023/08/02/lg-m3-wireless-oled-tv-update-three-sizes-confirmedand-priced/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64cad0c77fd5a77e13960ea8/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-03T01:00:00Z",
+      "content": "Much as everyone loved LGs show-stealing 97-inch wireless M3 OLED TV when it was unveiled at Januarys CES in Las Vegas, speculation immediately began about when or even if LG would ever actually rele… [+3813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "NASA Plus trailer launched, offering live streams and new series - KCRA 3",
+      "description": "NASA is getting ready to take the streaming wars to the moon with its own service. NASA Plus will offer live streams and original series and is set to launch...",
+      "url": "https://www.youtube.com/watch?v=AxRuujI3gN4",
+      "urlToImage": "https://i.ytimg.com/vi/AxRuujI3gN4/maxresdefault.jpg",
+      "publishedAt": "2023-08-03T00:11:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Google Pixel Fold Review - MobileTechReview",
+      "description": "Google’s first folding phone impresses with a very useable 5.8” (non-skinny) outer OLED display, landscape orientation 7.6” OLED folding inner display and a ...",
+      "url": "https://www.youtube.com/watch?v=dD8m8P9csdk",
+      "urlToImage": "https://i.ytimg.com/vi/dD8m8P9csdk/maxresdefault.jpg",
+      "publishedAt": "2023-08-03T00:06:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "iOS 17 lets users create Shortcuts actions with Camera Modes - 9to5Mac",
+      "description": "Apple’s Shortcuts app has evolved a lot since the company acquired Workflow in 2017. For those unfamiliar, it lets users...",
+      "url": "https://9to5mac.com/2023/08/02/ios-17-shortcuts-actions-camera/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Camera-app-Shortcuts-iOS-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-08-02T23:47:00Z",
+      "content": "Apple’s Shortcuts app has evolved a lot since the company acquired Workflow in 2017. For those unfamiliar, it lets users create a series of automated processes on iPhone, iPad, Mac, and even Apple Wa… [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "iPhone 15 demand expected to be lower than for iPhone 14 - GSMArena.com",
+      "description": "Analysts predict dire times for Apple. The iPhone 15 family is expected to arrive this fall with a price hike and slimmer bezels. Interestingly, demand for...",
+      "url": "https://www.gsmarena.com/iphone_15_demand_expected_to_be_lower_than_for_iphone_14-news-59411.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/iphone-15-demand-lower-than-iphone-14/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-02T22:59:02Z",
+      "content": "The iPhone 15 family is expected to arrive this fall with a price hike and slimmer bezels. Interestingly, demand for the upcoming series is right now judged to be lower than it was for the iPhone 14 … [+872 chars]"
     },
     {
       "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Travis Northup",
-      "title": "Palia Kicks Off Closed Beta with a Cozy-as-Heck Cinematic Trailer - IGN",
-      "description": "Palia, the upcoming cozy MMO, keeps the hype train moving with a cinematic trailer that's brimming with personality.",
-      "url": "https://www.ign.com/articles/palia-kicks-off-closed-beta-with-a-cozy-as-heck-cinematic-trailer",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/08/01/m71f-9b8-1690856982859.png?width=1280",
-      "publishedAt": "2023-08-02T17:00:25Z",
-      "content": "Palia, the upcoming free-to-play cozy MMO, is available to a limited number of players starting today via a closed beta, and developer Singularity Six aims to kick the hype train into overdrive with … [+1976 chars]"
+      "author": "Kat Bailey",
+      "title": "Diablo 4 Patch 1.1.1 Leaves Fans Much Happier After Sorceress Buffs and Other Key Fixes - IGN",
+      "description": "Blizzard has released Diablo IV Patch 1.1.1's full patch notes, and the community already seems much happier thanks to some key buffs to the Sorceress and Barbarian classes.",
+      "url": "https://www.ign.com/articles/diablo-4-patch-111-key-fixes",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/10/diablo4ps5vsxboxseriesxsvspcperformancereview-36190303-diablo4-performancereview-blogroll-1686406111041.jpg?width=1280",
+      "publishedAt": "2023-08-02T22:18:35Z",
+      "content": "Diablo IV Patch 1.1.1's full notes are finally here, and it seems as if fans are actually kind of... happy?\r\nPatch notes for the new Diablo IV update dropped earlier today, bringing with it some cruc… [+2423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "New Xbox Special-Edition Controller Preorders Available At Amazon - GameSpot",
+      "description": "Say hello to the Stormcloud Vapor special edition Xbox controller.",
+      "url": "https://www.gamespot.com/articles/new-xbox-special-edition-controller-announced-and-it-looks-great/1100-6516439/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4172236-screenshot2023-08-01at10.09.07am.png",
+      "publishedAt": "2023-08-02T22:11:43Z",
+      "content": "Microsoft has announced a new Xbox controller design, and it looks pretty slick. The newest controller is the Stormcloud Vapor special edition, and it features a \"dark navy swirl\" design. You can pre… [+1154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Glasses Transcribe Spoken Words Into Subtitles in Real Time - NowThis News",
+      "description": "What if you could have subtitles on live conversations in real time? The two college students behind @transcribeglass8597 have invented just that — and it co...",
+      "url": "https://www.youtube.com/watch?v=OrNYHwDVGBY",
+      "urlToImage": "https://i.ytimg.com/vi/OrNYHwDVGBY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCJi74bU6IkWhKCyntcT1V5UbNz2A",
+      "publishedAt": "2023-08-02T21:59:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Peter Johnson",
+      "title": "Watch a Rimac Nevera take on a Buggati Chiron SuperSport and Tesla Plaid in a wild drag race - Electrek",
+      "description": "Have you ever wondered what it would be like to see the fastest production cars face off head-to-head? Watch the...",
+      "url": "https://electrek.co/2023/08/02/fastest-drag-race-rimac-nevera-vs-buggati-chiron-ss-tesla-plaid/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/08/fastest-drag-race-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-08-02T21:41:00Z",
+      "content": "Have you ever wondered what it would be like to see the fastest production cars face off head-to-head? Watch the 1,914 hp Rimac Nevera take on the legendary Buggati Chiron SuperSport and the blisteri… [+2864 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "Microsoft's AI-infused sidebar rolls out to Windows 11 beta testers | Engadget - Engadget",
+      "description": "Microsoft is rolling out Windows Copilot in preview today.",
+      "url": "https://www.engadget.com/microsofts-ai-infused-sidebar-rolls-out-to-windows-11-beta-testers-211546573.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Bj9Kb_rPKgmqTnFlbq5IYA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/2355c380-3172-11ee-b6fd-39d89e28a467.cf.jpg",
+      "publishedAt": "2023-08-02T21:18:16Z",
+      "content": "Microsoft is rolling out Windows Copilot in preview today. Windows 11 Insiders in the Beta Channel can install a preview build that offers the first semi-public availability for the AI-infused sideba… [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Cody Lee",
+      "title": "Save big on your new Samsung Galaxy Watch 6 with enhanced trade-in values - Android Police",
+      "description": "Get at least $50 for your old smartwatch, plus a $50 instant accessory credit",
+      "url": "https://www.androidpolice.com/samsung-galaxy-watch-6-trade-in-deal/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/07/samsung-galaxy-watch-6-hands-on-01.jpg",
+      "publishedAt": "2023-08-02T21:18:00Z",
+      "content": "Samsung's Galaxy Watch 6 has been unveiled, is available for pre-order, and retailers are already out with interesting incentives to bring in buyers. Best Buy, for example, is giving out free gift ca… [+3806 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "DJI’s new GoPro competitor launches at $399 - TechCrunch",
+      "description": "DJI's $399 Osmo Action 4 goes head to head with GoPro's Hero 11 Black, bringing improved low light quality to the table.",
+      "url": "https://techcrunch.com/2023/08/02/djis-new-gopro-competitor-launches-at-399/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/unnamed-26.jpg?w=1120",
+      "publishedAt": "2023-08-02T21:07:19Z",
+      "content": "The DJI/GoPro relationship has been an uneasy one ever since planned drone collaboration fell back down to earth some eight or so years back. After the deal fell through, GoPro launched its Karma dro… [+1700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jorge Aguilar",
+      "title": "This new AR attachment puts Android TV on your face - Android Police",
+      "description": "Rokid's AR glasses have an interesting new way to watch movies and TV",
+      "url": "https://www.androidpolice.com/rokid-max-station-android-tv-ar-glasses/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/rokid-station-android-tv-ar-glasses-lifestyle.jpg",
+      "publishedAt": "2023-08-02T21:05:00Z",
+      "content": "AR glasses tend to be thought of as a luxury item only available to the wealthy or well-off, as seen with the pricier Google Glass ($999) and Microsoft HoloLens ($3,500). The market is fairly open to… [+2734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "An Excellent Minimalist Strategy Game Just Hit Steam - Kotaku",
+      "description": "The devs behind hit city-builder Islanders offer their take on tower defense",
+      "url": "https://kotaku.com/thronefall-islanders-tower-defense-strategy-steam-pc-1850701534",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/85b45cdd8304fad73700c61a028d440d.jpg",
+      "publishedAt": "2023-08-02T21:02:56Z",
+      "content": "I love the blocky, saturated aesthetic and minimalist presentation of Thronefall. Fortunately, its also really cleverly designed and fun to play, distilling the tower defense strategy formula down in… [+4342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CharlieINTEL.com"
+      },
+      "author": "Max Candelarezi",
+      "title": "Sniper Rifle meta remains in Warzone 2 as devs avoid nerf in Season 5 - CharlieINTEL.com",
+      "description": "Despite weapon changes in Warzone 2's Season 5, developers have chosen not to nerf the current meta Sniper Rifle and provided an explanation.",
+      "url": "https://www.charlieintel.com/call-of-duty-warzone/sniper-rifle-meta-remains-in-warzone-2-as-devs-avoid-nerf-in-season-5-264383/",
+      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2023/08/02/Warzone-devs-explain-why-they-didnt-nerf-Sniper-Rifle-meta-in-Season-5.jpg",
+      "publishedAt": "2023-08-02T20:58:16Z",
+      "content": "Despite Season 5s several weapon changes in Warzone 2, developers decided not to nerf the current meta Sniper Rifle after several requests from players, and shared an explanation on why.\r\nWarzone 2 S… [+2345 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Jon Brodkin",
-      "title": "Embarrassed about paying Musk for Twitter Blue? You can hide the checkmark now - Ars Technica",
-      "description": "From verification symbol to source of shame: Paying users can hide blue checks.",
-      "url": "https://arstechnica.com/tech-policy/2023/08/embarrassed-about-paying-musk-for-twitter-blue-you-can-hide-the-checkmark-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-musk-x-760x380.jpg",
-      "publishedAt": "2023-08-02T16:32:51Z",
-      "content": "148 with \r\nTwitter's subscription service has a new feature for users who don't want the world to know they're giving $8 a month to Elon Musk: hiding the checkmark.\r\n\"As a subscriber, you can choose … [+3052 chars]"
+      "author": "Benj Edwards",
+      "title": "Meta releases open source AI audio tools, AudioCraft - Ars Technica",
+      "description": "Meta's suite of three AI models can create sound effects and music from descriptions.",
+      "url": "https://arstechnica.com/information-technology/2023/08/open-source-audiocraft-can-make-dogs-bark-and-symphonies-soar-from-text-using-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/364044687_188110547422666_6558067645303623389_n-760x380.jpg",
+      "publishedAt": "2023-08-02T20:56:02Z",
+      "content": "22 with \r\nOn Wednesday, Meta announced it is open-sourcing AudioCraft, a suite of generative AI tools for creating music and audio from text prompts. With the tools, content creators can input simple… [+4150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Soap Opera Digest"
+      },
+      "author": "SOD",
+      "title": "Thumbs Up/Down - Soap Opera Digest",
+      "description": "Digest Decides: Best Of Show Or Worse For Wear?",
+      "url": "https://www.soapoperadigest.com/photos/thumbs-up-down-1727863/",
+      "urlToImage": "https://i0.wp.com/www.soapoperadigest.com/wp-content/uploads/2023/08/YR-scaled.jpg?resize=1200%2C630&ssl=1",
+      "publishedAt": "2023-08-02T20:47:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ron Amadeo",
+      "title": "ChromeOS is splitting the browser from the OS, getting more Linux-y - Ars Technica",
+      "description": "There's nothing official yet, but it might launch sometime this month.",
+      "url": "https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/chromebook13_7-640x215.jpg",
+      "publishedAt": "2023-08-02T20:40:26Z",
+      "content": "29 with \r\nIt looks like Google's long-running project to split up ChromeOS and its Chrome browser will be shipping out to the masses soon. Kevin Tofel's About Chromebooks has spotted flags that turn … [+2260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inverse"
+      },
+      "author": "Raymond Wong",
+      "title": "Keychron Lemokey L3 Mechanical Keyboard Goes After Gamers - Inverse",
+      "description": "After conquering the customizable mechanical keyboard world, Keychron is now going after gamers with the L3 under its new gaming sub-brand Lemokey. Its first gaming keyboard, the L3, looks modeled after the Q3 Pro.",
+      "url": "https://www.inverse.com/tech/keychron-lemokey-l3-customizable-mechanical-gaming-keyboard-wireless",
+      "urlToImage": "https://imgix.bustle.com/uploads/image/2023/8/2/4af4f406-2d91-451b-bceb-f8c43776f58d-lemokey-l3-05.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2023-08-02T20:30:25Z",
+      "content": "Having essentially brute-forced its way into becoming one of the most popular custom mechanical keyboard makers, Keychron is now setting its sights on gaming. \r\nThe company today announced a Kickstar… [+2715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Nokia Unveils Nokia 150 and 130 to Keep '90s Dreams Alive - Gizmodo",
+      "description": "The Nokia 130 and 150 are throwback feature phones devoid of anything that could be distracting—except Snake.",
+      "url": "https://gizmodo.com/nokia-150-nokia-130-unveiled-1850700997",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6a7c97a4607a4af09a07b03e9e75121.png",
+      "publishedAt": "2023-08-02T20:15:43Z",
+      "content": "Does your smartphone feel like its too smart for you? Try Nokia. The company unveiled two new phones Wednesday, and they arent less worthy for their lack of apps. The fact that theyre so light on dis… [+2142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "HW News - New RX 7900 GRE, CableMod 12VHPWR Swap, OpenPleb Gets Results, Sound Chamber Detail - Gamers Nexus",
+      "description": "Sponsor: Montech Metal DT24 Base on Amazon - https://geni.us/IXXakThis hardware news update answers some questions about our sound chamber, talks about the f...",
+      "url": "https://www.youtube.com/watch?v=ghSVNLX8dWU",
+      "urlToImage": "https://i.ytimg.com/vi/ghSVNLX8dWU/maxresdefault.jpg",
+      "publishedAt": "2023-08-02T20:15:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "The Expanse Star Cara Gee Explores Telltale's Expanse Game - Gizmodo",
+      "description": "Oye! Gee's fan-favorite character from the Prime Video show, Belter badass Camina Drummer, stars in The Expanse: A Telltale Series.",
+      "url": "https://gizmodo.com/the-expanse-telltale-game-cara-gee-drummer-playthrough-1850700562",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d5f46e37d6c066ac97f002256dd7212c.png",
+      "publishedAt": "2023-08-02T20:15:00Z",
+      "content": "The Expanseboth the beloved Prime Video series, and the beloved book series by James S.A. Corey (authors Daniel Abraham and Ty Franck)may be over, but the story lives on in new video game The Expanse… [+2148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Land"
+      },
+      "author": "Nicola Agius",
+      "title": "8 new Google Analytics 4 features to enhance app measurement and performance - Search Engine Land",
+      "description": "The new AI-powered features were launched to help marketers better understand their audience and optimize campaigns more effectively.",
+      "url": "https://searchengineland.com/google-analytics-4-new-features-app-measurement-performance-430201",
+      "urlToImage": "https://searchengineland.com/wp-content/seloads/2023/06/From-UA-to-GA4-Managing-your-reporting-expectations-800x450.png",
+      "publishedAt": "2023-08-02T20:08:00Z",
+      "content": "Google Analytics 4 has unveiled eight new features to improve app campaign measurement and performance.\r\nThe additional AI-powered insights have been set up to give marketers a better understanding o… [+3597 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "DJI’s Osmo Action 4 launches at $399 - The Verge",
+      "description": "The DJI Osmo Action 4 camera has a bigger image sensor compared to the older Osmo Action 3 and a higher price, starting at $399 for the standard combo.",
+      "url": "https://www.theverge.com/2023/8/2/23817334/dji-osmo-action-4-video-camera-399",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zgDjNwENlIeR5IR7CwH4jIqcDXQ=/0x0:2724x1816/1200x628/filters:focal(1362x908:1363x909)/cdn.vox-cdn.com/uploads/chorus_asset/file/24826119/ff163f4d33ffe820edc6376aa7e4bf8a.jpg",
+      "publishedAt": "2023-08-02T20:04:23Z",
+      "content": "DJIs new Osmo Action 4 camera delivers brighter footage for more money\r\nDJIs new Osmo Action 4 camera delivers brighter footage for more money\r\n / The DJI Osmo Action 4 camera has a slightly larger i… [+2970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HODINKEE"
+      },
+      "author": "James Stacey",
+      "title": "Introducing For Owners Only – Porsche Design Chronograph 1 – 911 S/T - HODINKEE",
+      "description": "Get the car, get the watch.",
+      "url": "https://www.hodinkee.com/articles/for-owners-only-porsche-design-chronograph-1-911-st",
+      "urlToImage": "https://hodinkee.imgix.net/uploads/images/02c017bf-d710-4703-8288-43c34f47b0d0/porsche-design-911-st-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "publishedAt": "2023-08-02T20:04:00Z",
+      "content": "Aside from the full-bare titanium, the PD 911 S/T model's distinctive appeal comes from the dial design, which is inspired by the green gauges of vintage Porsche racing models and has a red \"60\" for … [+620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Final Fantasy 7 Ever Crisis Preview - IGN",
+      "description": "Final Fantasy VII Ever Crisis is a high quality gacha service title for those who are fans of the series. It has shortcomings that can easily be fixed with u...",
+      "url": "https://www.youtube.com/watch?v=bJApestyLQA",
+      "urlToImage": "https://i.ytimg.com/vi/bJApestyLQA/maxresdefault.jpg",
+      "publishedAt": "2023-08-02T20:00:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "June Wan",
+      "title": "How to use StandBy Mode on iOS 17 (and which iPhones support it) - ZDNet",
+      "description": "The upcoming iOS 17 feature turns your iPhone into an ambient smart display. Here's what you'll need to get started.",
+      "url": "https://www.zdnet.com/article/how-to-use-standby-mode-on-ios-17-and-which-iphones-support-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b111867a967ef3a9b90c2452c281e1fd5e0fb873/2023/07/13/0c9bf846-7bbf-4e5e-aef2-461d0d3eaa79/iphone-ios-17-standby-mode.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-08-02T19:51:49Z",
+      "content": "June Wan/ZDNET\r\nIf you're the type of person who leaves your phone on your bedside or docked on the office desk, iOS 17's StandBy mode has your name on it.\r\nWith the upcoming version of iOS, setting … [+1475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifewire.com"
+      },
+      "author": "https://www.facebook.com/lifewire/",
+      "title": "Nintendo Switch 2: News and Expected Price, Release Date, Specs; and More Rumors - Lifewire",
+      "description": "The Nintendo Switch 2 is in development, and we're pretty sure we know when it will come out. Here are all the other details and rumors we've found for Nintendo's next console.",
+      "url": "https://www.lifewire.com/nintendo-switch-2-7564295",
+      "urlToImage": "https://www.lifewire.com/thmb/2GorjmLYn6Gc6OAqQVtQV1Gc5Kg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nintendo-Switch-2-render-e63286a63a8a438f94eb6e0747036738.jpg",
+      "publishedAt": "2023-08-02T19:45:20Z",
+      "content": "Nintendo's Switch console launched in 2017, and while sales have been consistent, it may be showing its age. We expect the company to announce a successor soon, as does the rest of the tech world; he… [+5583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMORPG.com"
+      },
+      "author": "MMORPG.com",
+      "title": "Palia Closed Beta Begins, With a Gettting Started Guide from the Devs - MMORPG.com",
+      "description": null,
+      "url": "https://www.mmorpg.com/news/palia-closed-beta-begins-with-a-gettting-started-guide-from-the-devs-2000128608",
+      "urlToImage": null,
+      "publishedAt": "2023-08-02T19:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Nearby Share can send full Android folders to other devices - 9to5Google",
+      "description": "Google's Nearby Share service can send not just files, but entire folders between Android and Windows devices.",
+      "url": "https://9to5google.com/2023/08/02/nearby-share-android-windows-folders/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Nearby-Share-Material-You.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-08-02T19:05:00Z",
+      "content": "Google’s Nearby Share makes it quick and easy to move files between Android and other devices, especially now that Windows support is available, but there are still uses that go under the radar, like… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": "Science",
+      "title": "'We're changing the clouds.' An unforeseen test of geoengineering is fueling record ocean warmth - Science",
+      "description": null,
+      "url": "https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth",
+      "urlToImage": null,
+      "publishedAt": "2023-08-02T19:01:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Darryn Bonthuys",
+      "title": "2 Fire Emblem Switch Games Are Steeply Discounted At Amazon - GameSpot",
+      "description": "Fire Emblem's Musou-influenced adventure is available for its lowest price ever.",
+      "url": "https://www.gamespot.com/articles/2-fire-emblem-switch-games-are-steeply-discounted-at-amazon/1100-6516479/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4172688-three-hopes.jpg",
+      "publishedAt": "2023-08-02T19:00:47Z",
+      "content": "For Fire Emblem fans looking to flex some swords and sorcery outside of the usual tactical turn-based formula of the franchise, now is a great time to grab Fire Emblem Warriors: Three Hopes, which is… [+1868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hot Hardware"
+      },
+      "author": "Zak Killian",
+      "title": "Baldur's Gate 3 Launch: Cross-Saves, DLSS, Steam Deck Support And All You Need To Know - Hot Hardware",
+      "description": "Larian's sequel to the classic CRPG duology launches tomorrow, but check with us here to make sure you're ready for action.",
+      "url": "https://hothardware.com/news/baldurs-gate-3-launch",
+      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/62211/content/small_baldursgate3-priestess.jpg",
+      "publishedAt": "2023-08-02T18:55:00Z",
+      "content": "Skip to content\r\nIf you read that headline and thought, \"didn't Baldur's Gate 3come out like three years ago?\", you're thinking of the Early Access version of the title. Like most games in Early Acce… [+3996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Mansab Sayyad",
+      "title": "Minecraft 1.20.2 snapshot 23w31a: Villager trade nerf, diamond ore generation changes, and more - Sportskeeda",
+      "description": "Minecraft is a game that is constantly evolving and getting new features added to it. The latest snapshot for this title's Java Edition version 1.20.2 is no exception.",
+      "url": "https://www.sportskeeda.com/minecraft/news-minecraft-1-20-2-snapshot-23w31a-villager-trade-nerf-diamond-ore-generation-changes",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/534e0-16909976841942-1920.jpg",
+      "publishedAt": "2023-08-02T18:55:00Z",
+      "content": "Minecraft is a game that is constantly evolving and getting new features added to it. The latest snapshot for this title's Java Edition version 1.20.2 is no exception. Released on August 2, 2023, 23w… [+7461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Alexander Cope",
+      "title": "Remnant 2 receives a hotfix patch on Xbox. - Windows Central",
+      "description": "Remnant 2's latest hotfix patch includes performance improvements, bug fixes, and other features requested by players.",
+      "url": "https://www.windowscentral.com/gaming/xbox/remnant-2-devs-release-hotfix-patch-on-xbox-series-xors",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CfhdTNSS3k4qYVGodYweHf-1200-80.jpg",
+      "publishedAt": "2023-08-02T18:52:13Z",
+      "content": "What you need to know\r\n<ul><li>Gunfire Games, the developers of Remnant 2, have just uploaded a hotfix patch to the game.</li><li>This hotfix patch features performance improvements, the option to tu… [+2641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Timi Cantisano",
+      "title": "Galaxy S22 Ultra deal slashes 42% off the price, dropping it to a new low - XDA Developers",
+      "description": "A fantastic deal on a powerful and sleek top-tier smartphone.",
+      "url": "https://www.xda-developers.com/galaxy-s22-ultra-42-off-deal/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Ultra-XDA-Hands-On-001101.jpg",
+      "publishedAt": "2023-08-02T18:38:00Z",
+      "content": "The Samsung Galaxy S22 Ultra was one of the most complete Android smartphones on the market in 2022, offering the best screen, the most versatile camera system, the best SoC in Android, and a stylus.… [+1757 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "The Sonos Move 2 will reportedly offer stereo audio and 24-hour battery life | Engadget - Engadget",
+      "description": "Sonos is reportedly prepping a Move 2 portable speaker that boasts stereo sound and a huge 24-hour battery..",
+      "url": "https://www.engadget.com/the-sonos-move-2-will-reportedly-offer-stereo-audio-and-24-hour-battery-life-181950125.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ufKTOHHqbEuq1y3QHHkSHw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/4c6ed8c0-3158-11ee-bafa-70007abd4c43.cf.jpg",
+      "publishedAt": "2023-08-02T18:21:07Z",
+      "content": "The original Sonos Move stood out as one of the few fully connected portable speakers when it debuted in 2019, but technology has moved on since then and so, apparently, has Sonos. The Vergeclaims to… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Collin Woodard",
+      "title": "The Porsche Design Chronograph 1 — 911 S/T Wants To Make Sure Everyone Knows You Drive Stick - Jalopnik",
+      "description": "But you'll only be allowed to buy one of these watches if you buy the car first.",
+      "url": "https://jalopnik.com/porsche-watch-shows-off-you-can-drive-stick-1850700587",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/166665e4c420810a47112484064e7948.jpg",
+      "publishedAt": "2023-08-02T18:18:40Z",
+      "content": "Yesterday, we got our first look at the 2024 Porsche 911 S/T. Weighing in at only 3,056 lbs, the new 911 S/T is meant to be the ultimate road-going 911 and pairs the 911 GT3 RSs 518-hp flat-six with … [+1936 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "George Yang",
+      "title": "Fantasian Steam Listing Raises Hopes that RPG by Final Fantasy Creator Is Finally Coming to PC and Console - IGN",
+      "description": "The turn-based RPG Fantasian, previously exclusive to Apple Arcade, might be coming to other platforms such as PC and Nintendo Switch if a Steam listing is to be believed.",
+      "url": "https://www.ign.com/articles/fantasian-steam-console-rpg",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/08/09/cutscene05-1628513350152.jpg?width=1280",
+      "publishedAt": "2023-08-02T17:56:25Z",
+      "content": "A listing for Fantasian the turn-based RPG by Final Fantasy creator Hironobu Sakaguchi has been found in SteamDB, raising hopes that it will be released on major platforms such as PC and Nintendo Swi… [+1910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "Diablo 4’s Final 1.1.1 Patch Notes Are Here, Plus Its Release Date - Forbes",
+      "description": "There are the final Diablo 4 1.1.1 patch notes with loads of buffs, plus its released date which is quite soon.",
+      "url": "https://www.forbes.com/sites/paultassi/2023/08/02/diablo-4s-final-111-patch-notes-are-here-plus-its-release-date/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ca94b444101fafa2c6f9a3/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-02T17:43:53Z",
+      "content": "Diablo 4\r\nBlizzard\r\nDiablo 4s big were fixing it, were fixing it patch is on the way after a nerf-heavy, much-hated patch that kicked off Season of the Malignant. The patch will be released on Tuesda… [+12029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Rich Woods",
+      "title": "Microsoft thwarts its own A/B testing by leaking its Windows 11 feature-enabling tool - XDA Developers",
+      "description": "While the world already has ViVeTool, Microsoft accidentally leaked its own internal tool for turning on Windows 11 features",
+      "url": "https://www.xda-developers.com/microsoft-tool-for-enabling-windows-11-features/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/surface-laptop-go-2.webp",
+      "publishedAt": "2023-08-02T17:38:00Z",
+      "content": "Key Takeaways\r\n<ul><li> Windows Insiders have often been frustrated by Microsoft's A/B testing, where promised features are only delivered to a select few. </li><li> Microsoft has leaked its own tool… [+2077 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": null,
+      "title": "Dog of Duty makes a triumphant return in 'Modern Warfare II' | Engadget - Engadget",
+      "description": "Activision is bringing dogs (and one Dogg) back to Call of Duty.",
+      "url": "https://www.engadget.com/dog-of-duty-makes-a-triumphant-return-in-modern-warfare-ii-173538176.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/t3OHAIL_hJ7p08lLDM220w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/605ead30-3156-11ee-bdbf-dd5761e5e16c.cf.jpg",
+      "publishedAt": "2023-08-02T17:37:05Z",
+      "content": "Activision is bringing dogs (and one Dogg) back to Call of Duty. A decade after the debut of Riley, the faithful canine companion in Call of Duty: Ghosts, you can now take Merlin, the good boy pictur… [+1400 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Anthony Wood",
+      "title": "NASA To Launch Its Own Streaming Service Later This Summer - IGN",
+      "description": "NASA is set to launch its very own NASA+ streaming platform later this summer, granting users access to original content, live coverage, and brand new series.",
+      "url": "https://www.ign.com/articles/nasa-to-launch-its-own-streaming-service-later-this-summer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/11/29/artemis-distance-record-thumbnail-1669747023343.jpg?width=1280",
+      "publishedAt": "2023-08-02T17:14:25Z",
+      "content": "NASA is launching its own streaming service, NASA+ later this summer, which will grant viewers access to original video series and live coverage of missions as the agency works to unravel the secrets… [+2601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Zac Hall",
+      "title": "Apple is changing the charging port with iPhone 15, but it won't be like the last time - 9to5Mac",
+      "description": "When Apple unveils the iPhone 15 line in early next month, it will also announce the first charging port change...",
+      "url": "https://9to5mac.com/2023/08/02/iphone-15-charging-port-change/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/15-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-08-02T17:00:00Z",
+      "content": "When Apple unveils the iPhone 15 line in early next month, it will also announce the first charging port change since the iPhone 5. For a lot of iPhone users, however, nothing will change with how th… [+3492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": "ZeeBiz WebTeam",
+      "title": "Oppo Enco Air3 Pro Review: For audiophiles how dont want to spend over 5k - Zee Business",
+      "description": "Oppo Enco Air3 Pro Review: ​The microphone performance is decent, providing clear voices in quiet environments, while noise cancellation helps manage background noise in noisier settings, though voices may become slightly muffled.",
+      "url": "https://www.zeebiz.com/technology/reviews/news-oppo-enco-air3-pro-review-for-audiophiles-how-dont-want-to-spend-over-5k-247271",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/08/02/254430-encoair3review.jpg",
+      "publishedAt": "2023-08-02T16:54:58Z",
+      "content": "Oppo's latest addition to its wireless earphones lineup is the Enco Air3 Pro. Priced at Rs 4,999, these earbuds come with features like adaptive active noise cancellation, spatial sound and multipoin… [+2832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Google's AI-Powered Search Will Show Video to Answer Your Questions - CNET",
+      "description": "The Search Generative Experience will soon incorporate relevant videos in response to user queries.",
+      "url": "https://www.cnet.com/tech/services-and-software/googles-ai-powered-search-will-now-show-images-and-video-to-answer-your-questions/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2891424fa1eda916a0d24c2db78ec36e07ded9e4/hub/2023/05/11/65526df6-f863-45fa-95a0-4d05465a799e/google-io-2023-051023-66.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-08-02T16:44:00Z",
+      "content": "Google's Search Generative Experience, an experimental AI-powered version of Search, is getting some updates over the next week, including results with integrated videos, Google said in a blog post W… [+1629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Galaxy Z Flip 5 vs. Moto Razr+: FLIP or FLOP?! - Android Authority",
+      "description": "There are two flippy bois at the top of the totem and we're here to knock one off.Visit our website: https://www.androidauthority.comCheck out our favorite s...",
+      "url": "https://www.youtube.com/watch?v=wBOqwNGNVzo",
+      "urlToImage": "https://i.ytimg.com/vi/wBOqwNGNVzo/maxresdefault.jpg",
+      "publishedAt": "2023-08-02T16:30:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life - The Verge",
+      "description": "Sonos plans to release its latest portable speaker, the Move 2, in late September. The new model will have upgraded sound, USB-C line in, and much longer battery life than its predecessor.",
+      "url": "https://www.theverge.com/2023/8/2/23817225/sonos-move-2-speaker-features-specs-price",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gtySZSBp5pvfQXFxFX4G8nSyPJg=/0x0:2040x1518/1200x628/filters:focal(1020x759:1021x760)/cdn.vox-cdn.com/uploads/chorus_asset/file/24825743/SonosOlive.jpg",
+      "publishedAt": "2023-08-02T16:30:13Z",
+      "content": "Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life\r\nExclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life\r\n / Sonos … [+4354 chars]"
     },
     {
       "source": {
@@ -57,6 +928,71 @@
     {
       "source": {
         "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jay Bonggolto",
+      "title": "Google's AI-powered search is learning to give credit where it's due - Android Police",
+      "description": "Google SGE has been spotted showing prominent in-line source links",
+      "url": "https://www.androidpolice.com/google-sge-showing-prominent-in-line-source-links/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-search-labs-generative-experience-hero.jpg",
+      "publishedAt": "2023-08-02T16:27:00Z",
+      "content": "Despite the ease with which generative AI serves up content that would otherwise take humans hours to complete, a major concern remains: plagiarized text. This is particularly true with Google's Chat… [+1888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Shubham Arora",
+      "title": "Samsung Galaxy S23 FE Tipped to Feature 10MP Selfie Camera, 8MP Telephoto Lens - Times Now",
+      "description": "Samsung Galaxy S23 FE is tipped to sport a 10MP front camera and an 8MP telephoto lens. While the front camera undergoes a megapixel reduction, it ensures top-notch picture quality. Coupled with an impressive rear camera setup and powerful performance, the Ga…",
+      "url": "https://www.timesnownews.com/technology-science/samsung-galaxy-s23-fe-tipped-to-feature-10mp-selfie-camera-8mp-telephoto-lens-article-102361212",
+      "urlToImage": "https://static.tnn.in/thumb/msid-102361212,updatedat-1690993547350,width-1280,height-720,resizemode-75/102361212.jpg",
+      "publishedAt": "2023-08-02T16:25:47Z",
+      "content": "MASSIVE! Foreign currency, cash, gold, diamond jewellery worth close to Rs 25 cr seized in Enforcement Directorate's searches related to HeroMotoCorp Chairman Pawan Munjal"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Michail",
+      "title": "Poco M6 Pro emerges in official-looking renders - GSMArena.com",
+      "description": "The device is set to launch this Saturday in India. The Poco M6 Pro is launching this Saturday (August 5) in India and we now have some official-looking...",
+      "url": "https://www.gsmarena.com/poco_m6_pro_emerges_in_officiallooking_renders-news-59410.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/poco-m6-pro-renders/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-02T16:23:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Manish Das",
+      "title": "Modern Warfare 2 Season 5 patch notes: New maps and modes, Ranked Play changes, operators, and more - Sportskeeda",
+      "description": "The Season 5 of Modern Warfare 2 is currently live on all platforms, and the developers have released the corresponding patch notes, which list all the changes.",
+      "url": "https://www.sportskeeda.com/call-of-duty-game/news-modern-warfare-2-season-5-patch-notes-new-maps-modes-ranked-play-changes-operators",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/74d80-16909924326159-1920.jpg",
+      "publishedAt": "2023-08-02T16:14:10Z",
+      "content": "The Season 5 of Modern Warfare 2 is currently live on all platforms, and the developers have released the corresponding patch notes, which list all the changes. The latest seasonal update brings tons… [+20063 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Frederic Lardinois",
+      "title": "Google brings contextual search suggestions, trending searches and more to Chrome on mobile - TechCrunch",
+      "description": "This new feature is coming to Chrome and iOS and Android and rolling out now.",
+      "url": "https://techcrunch.com/2023/08/02/google-brings-contextual-search-suggestions-trending-searches-and-more-to-chrome-on-mobile/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211180803.jpg?resize=1200,800",
+      "publishedAt": "2023-08-02T16:10:10Z",
+      "content": "Google wants you to search more, and to do that, it’s launching a number of updates to Chrome on mobile today that will, among other things, highlight potential search queries related to a page you a… [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Search Engine Land"
       },
       "author": "Nicola Agius",
@@ -70,41 +1006,93 @@
     {
       "source": {
         "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Matt Growcoot",
+      "title": "Deepfake Detection Software Analyzes a Person's Blood Flow - PetaPixel",
+      "description": "As your heart pumps, your veins change color.",
+      "url": "https://petapixel.com/2023/08/02/deepfake-detection-software-analyzes-a-persons-blood-flow/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2023/08/Deepfake.jpg",
+      "publishedAt": "2023-08-02T16:05:17Z",
+      "content": "Intel has shown off a new program that detects deepfakes by analyzing the person’s blood flow. Called FakeCatcher, a BBC journalist went along to Intel to find out how it works and if it is accurate.… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "Chrono Trigger (Zero Punctuation) - The Escapist",
-      "description": "Join our Patreon for a week of Early Access to all of our Premium video series including Zero Punctuation, Cold Take, Extra Punctuation, Adventure is Nigh an...",
-      "url": "https://www.youtube.com/watch?v=r5h5gP8xq4g",
-      "urlToImage": "https://i.ytimg.com/vi/r5h5gP8xq4g/maxresdefault.jpg",
-      "publishedAt": "2023-08-02T16:00:43Z",
+      "title": "Stephen Curry Answers The Web's Most Searched Questions | WIRED - WIRED",
+      "description": "Basketball superstar Stephen Curry joins WIRED to answer his most searched questions from the internet. What NBA records has he broken? Where did his 'night ...",
+      "url": "https://www.youtube.com/watch?v=qU3GuO-2rk0",
+      "urlToImage": "https://i.ytimg.com/vi/qU3GuO-2rk0/maxresdefault.jpg",
+      "publishedAt": "2023-08-02T16:01:10Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Video Games Chronicle"
       },
-      "author": "Jess Weatherbed",
-      "title": "Chrome update improves downloads and Google search experiences - The Verge",
-      "description": "New features for Google’s Chrome web browser should make it easier to quickly find the information you need when downloading files and browsing the web on mobile devices.",
-      "url": "https://www.theverge.com/2023/8/2/23816933/google-chrome-update-trending-search-downloads-feature",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ndG5tyBXtGgnvl8ACTSNVdB-XyA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg",
-      "publishedAt": "2023-08-02T16:00:00Z",
-      "content": "Latest Chrome updates make Google Search more comprehensive and downloads tidier\r\nLatest Chrome updates make Google Search more comprehensive and downloads tidier\r\n / One change brings trending Googl… [+1918 chars]"
+      "author": "Chris Scullion",
+      "title": "Final Fantasy creator's Fantasian is seemingly coming to Steam - Video Games Chronicle",
+      "description": "An apparent Steam database entry has been spotted for the Apple Arcade exclusive…",
+      "url": "https://www.videogameschronicle.com/news/final-fantasy-creators-fantasian-is-seemingly-coming-to-steam/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2021/03/Fantasian-a-scaled.jpg",
+      "publishedAt": "2023-08-02T16:01:02Z",
+      "content": "Fantasian, the Apple Arcade game written and produced by Final Fantasy creator Hironobu Sakaguchi, appears to be coming to Steam.\r\nAs spotted by Twitter user Knoebel, an apparent listing for the game… [+1359 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Jay Peters",
-      "title": "Nintendo is bringing the Wii U versions of Mario Kart 8 and Splatoon back online - The Verge",
-      "description": "Nintendo is bringing back online multiplayer for Mario Kart 8 and Splatoon on the Wii U on August 3rd after fixing an issue. The games have been offline since March.",
-      "url": "https://www.theverge.com/2023/8/2/23817238/nintendo-mario-kart-8-splatoon-wii-u-online-multiplayer",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FOdpLq5r2GzDePVxyS2TwENSxwg=/0x0:1280x720/1200x628/filters:focal(444x348:445x349)/cdn.vox-cdn.com/uploads/chorus_asset/file/24825649/WiiU_MK8_screenshots_11_bmp_jpgcopy.jpg",
-      "publishedAt": "2023-08-02T15:30:11Z",
-      "content": "Nintendo is bringing the Wii U versions of Mario Kart 8 and Splatoon back online\r\nNintendo is bringing the Wii U versions of Mario Kart 8 and Splatoon back online\r\n / Nintendo took them offline due t… [+226 chars]"
+      "author": "Kaan Serin",
+      "title": "Baldur's Gate 3's narrator posts hilarious outtakes that tease just how thirsty the game might be - Rock Paper Shotgun",
+      "description": "The voice actor behind Baldur's Gate 3's narrator has posted several outtakes, and the hilarious lines tease how NSFW and whacky the RPG could be.",
+      "url": "https://www.rockpapershotgun.com/baldurs-gate-3s-narrator-posts-hilarious-outtakes-that-tease-just-how-thirsty-the-game-might-be",
+      "urlToImage": "https://assetsio.reedpopcdn.com/ASTARION-bg3-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2023-08-02T15:54:01Z",
+      "content": "Baldur’s Gate 3 is right around the corner - comes out tomorrow, August 3rd - and everything we’ve learned about the mammoth RPG makes it sounds like an awfully horny romp. Of course, there’s the rec… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Rikka Altland",
+      "title": "Save $450 on 14-inch M1 Pro MacBook in today's best deals, Satechi TB4 docks from $160, Aqara HomeKit gear, more - 9to5Mac",
+      "description": "All of today’s best deals are now live for Wednesday, courtesy of 9to5Toys. On tap today, a $450 discount is...",
+      "url": "https://9to5mac.com/2023/08/02/14-inch-m1-pro-macbook-satechi-tb4-docks/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/2023-MacBooks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-08-02T15:46:00Z",
+      "content": "All of today’s best deals are now live for Wednesday, courtesy of 9to5Toys. On tap today, a $450 discount is offering the best price of the year on Apples 14-inch M1 Pro MacBook Pro to go alongside a… [+6186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Ratatan confirmed for PS5, Xbox Series, PS4, Xbox One, and Switch - Gematsu",
+      "description": "The Kickstarter campaign for Patapon spiritual successor Ratatan has surpassed its 75 million yen stretch goal for console versions, and developers Ratata Arts and TVT have confirmed that the game …",
+      "url": "https://www.gematsu.com/2023/08/ratatan-confirmed-for-ps5-xbox-series-ps4-xbox-one-and-switch",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/08/Ratatan-Consoles_08-02-23.jpg",
+      "publishedAt": "2023-08-02T15:45:45Z",
+      "content": "The Kickstarter campaign for Patapon spiritual successor Ratatan has surpassed its 75 million yen stretch goal for console versions, and developers Ratata Arts and TVT have confirmed that the game wi… [+433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CharlieINTEL.com"
+      },
+      "author": "Nathan Warby",
+      "title": "All movement changes in Warzone 2 & Modern Warfare 2 Season 5 - CharlieINTEL.com",
+      "description": "Warzone 2 and Modern Warfare 2 Season 5 brings some major movement changes to both games, so here's each one included in the update.",
+      "url": "https://www.charlieintel.com/call-of-duty-warzone/all-movement-changes-in-warzone-2-modern-warfare-2-season-5-264301/",
+      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2023/08/02/All-movement-changes-in-Warzone-2-MW2-Season-5.jpg",
+      "publishedAt": "2023-08-02T15:41:02Z",
+      "content": "Modern Warfare 2 and Warzone 2 Season 5 has landed, bringing a host of gameplay tweaks to make the game feel faster and more fluid. Heres a look at all the movement changes in Warzone 2 and Modern Wa… [+2751 chars]"
     },
     {
       "source": {
@@ -122,28 +1110,54 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Gamingbible.com"
       },
-      "author": "Jim Norman",
-      "title": "Ratatan, A Rhythm Side-Scroller From The Team Behind Patapon, Is Officially Heading For Switch - Nintendo Life",
-      "description": "After passing its latest Kickstarter stretch goal",
-      "url": "https://www.nintendolife.com/news/2023/08/ratatan-a-rhythm-side-scroller-from-the-team-behind-patapon-is-officially-heading-for-switch",
-      "urlToImage": "https://images.nintendolife.com/8d09afa8ff18a/1280x720.jpg",
-      "publishedAt": "2023-08-02T15:15:00Z",
-      "content": "Subscribe to Nintendo Life on YouTube\r\nThe Switch is home to a good selection of rhythm games, but one series that has never made it over to Nintendo systems is the Sony-published Patapon which began… [+2726 chars]"
+      "author": "Ewan Moore",
+      "title": "Red Dead Redemption remake set to launch without one of its best features - GAMINGbible",
+      "description": "Good news and bad news for the Red Dead Redemption remake",
+      "url": "https://www.gamingbible.com/news/red-dead-redemption-remake-launching-no-multiplayer-742297-20230802",
+      "urlToImage": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltbc1876152fcd9f07/bltdb0719f246442c06/64ca74b6d2eee6efbb8571f1/red_dead_redemption_2_john_marston.png",
+      "publishedAt": "2023-08-02T15:22:39Z",
+      "content": "The rumoured Red Dead Redemption remake looks set to launch without one of the original game's best features, which is a damn shame. \r\nAs I'm sure you've heard by now, a Red Dead Redemption remake or… [+1624 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Nature.com"
       },
-      "author": "Michail",
-      "title": "OnePlus Nord 3 lands in the UK for £499 - GSMArena.com",
-      "description": "OnePlus' UK branch has been dealing with logistical challenges around customs for the past months. The OnePlus Nord 3 was announced last month as the...",
-      "url": "https://www.gsmarena.com/oneplus_nord_3_lands_in_the_uk_for_499-news-59406.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/oneplus-nord-3-uk/-952x498w6/gsmarena_100.jpg",
-      "publishedAt": "2023-08-02T15:01:02Z",
-      "content": "The OnePlus Nord 3 was announced last month as the brands latest upper midrange offering. The device never made it to the UK market thus far and OnePlus issued an official statement back in June sayi… [+857 chars]"
+      "author": null,
+      "title": "Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator - Nature.com",
+      "description": "The magnetic phases of the&nbsp;geometrically frustrated triangular lattice Hubbard model are directly investigated using ultracold fermionic atoms, indicating a possible transition to ferromagnetism at a filling of 1.2.",
+      "url": "https://www.nature.com/articles/s41586-023-06280-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06280-5/MediaObjects/41586_2023_6280_Fig1_HTML.png",
+      "publishedAt": "2023-08-02T15:21:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Kuo: New AirTag Likely to Enter Mass Production in Late 2024 - MacRumors",
+      "description": "Apple suppliers will likely begin mass production of a second-generation AirTag in the fourth quarter of 2024, according to new information shared by...",
+      "url": "https://www.macrumors.com/2023/08/02/kuo-new-airtag-production-late-2024/",
+      "urlToImage": "https://images.macrumors.com/t/SSgJJjNKOVcYEjgL030GTM2XJA0=/1600x/article-new/2021/04/AirTag-and-Lavender-iPhone.jpg",
+      "publishedAt": "2023-08-02T15:11:01Z",
+      "content": "Apple suppliers will likely begin mass production of a second-generation AirTag in the fourth quarter of 2024, according to new information shared by Apple analyst Ming-Chi Kuo. The current AirTag la… [+803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Nishant Thakkar",
+      "title": "PUBG Mobile Lite latest 0.25.0 update: APK download link and file size (August 2023) - Sportskeeda",
+      "description": "PUBG Mobile Lite is a separate mobile title launched following the regular version’s success, and it caters specifically to the Android platform.",
+      "url": "https://www.sportskeeda.com/esports/pubg-mobile-lite-latest-0-25-0-update-apk-download-link-file-size-august-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/61ae6-16909878879975-1920.jpg",
+      "publishedAt": "2023-08-02T15:05:00Z",
+      "content": "PUBG Mobile Lite is a separate mobile title launched following the regular versions success, and it caters specifically to the Android platform. Every once in a while, the developers release a new up… [+2660 chars]"
     },
     {
       "source": {
@@ -161,93 +1175,67 @@
     {
       "source": {
         "id": null,
-        "name": "CharlieINTEL.com"
+        "name": "India Today"
       },
-      "author": "Nathan Warby",
-      "title": "Every weapon buff & nerf in Warzone 2 & Modern Warfare Season 5 - CharlieINTEL.com",
-      "description": "Warzone 2 and Modern Warfare 2 Season 5 brings a ton of weapon buffs and nerfs, so here's every balancing change in the update.",
-      "url": "https://www.charlieintel.com/call-of-duty-warzone/every-weapon-buff-nerf-in-warzone-2-modern-warfare-season-5-264261/",
-      "urlToImage": "https://editors.charlieintel.com/wp-content/uploads/2023/08/02/Warzone-2-MW2-Season-5-buffs-and-nerfs.jpg",
-      "publishedAt": "2023-08-02T14:44:39Z",
-      "content": "The Warzone 2 and Modern Warfare 2 Season 5 update brought plenty of content to both games, but it also overhauled the meta with some major weapon balancing changes. Heres a complete breakdown of all… [+4729 chars]"
+      "author": "Aman Rashid",
+      "title": "Best smartphones to buy in India under Rs 25,000 in August 2023: Lava Agni 2 5G and 3 more - India Today",
+      "description": "Here are the best smartphones you can buy in India this August for under Rs 25,000. The list includes the Lava Agni 2 5G and 3 more.",
+      "url": "https://www.indiatoday.in/technology/buying-guide/story/best-smartphones-to-buy-in-india-under-rs-25000-in-august-2023-lava-agni-2-5g-and-3-more-2415403-2023-08-02",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/lava-agni-2-5g-023727-16x9.png?VersionId=4D8Mg9iOQkW_aKfRUkxgpbQaqxf6yqcz",
+      "publishedAt": "2023-08-02T14:43:31Z",
+      "content": "By Aman Rashid: If you're searching for a good smartphone that doesn't cost too much, it can be tough to decide among the many choices available in India. But don't worry! If your budget is around Rs… [+4059 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Drive"
+        "name": "RoadandTrack.com"
       },
-      "author": null,
-      "title": "Subaru WRX Factory Rally Car Will Make You Want a New STI Even More - The Drive",
-      "description": "Subaru may not be going beyond the performance on of WRX sedan on the street, but it's a completely different story on the rally stage.",
-      "url": "https://www.thedrive.com/news/subaru-wrx-factory-rally-car-will-make-you-want-a-new-sti-even-more#article",
-      "urlToImage": "https://www.thedrive.com/uploads/2023/08/02/subaru-rally-lead.jpg?auto=webp",
-      "publishedAt": "2023-08-02T14:42:13Z",
-      "content": "Subaru's rich rallying history goes back to the early 1990s, informing every performance car it has ever made, really. And although a hardcore STI version of its venerable WRX sedan has yet to be rev… [+2036 chars]"
+      "author": "Brian Silvestro",
+      "title": "Subaru Shows Off New WRX Rally Car for U.S. Competition - Road & Track",
+      "description": "Drivers Travis Pastrana and Brandon Semenuk will return to compete for the 2024 ARA championship.",
+      "url": "https://www.roadandtrack.com/news/a44712600/2024-subaru-wrx-rally-car/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/mspr5806-64ca640ac8a8b.jpg?crop=0.515xw:0.410xh;0.184xw,0.435xh&resize=1200:*",
+      "publishedAt": "2023-08-02T14:36:14Z",
+      "content": "Subaru on Wednesday revealed the factory rally car based on \r\nthe new WRX that will likely dominate stage rally competition in America for the foreseeable future.Built by factory Subaru partner Vermo… [+1595 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sportskeeda"
+        "name": "Wccftech"
       },
-      "author": "Debangshu Nath",
-      "title": "\"Roku city finally has some competition\": Fans share hilarious memes as NASA launches NASA Plus - Sportskeeda",
-      "description": "On Thursday, July 27, 2023, NASA announced that they were going to launch a new streaming service called NASA Plus. It will not only live stream space missions but also feature original video series.",
-      "url": "https://www.sportskeeda.com/pop-culture/news-roku-city-finally-competition-fans-share-hilarious-memes-nasa-launches-nasa-plus",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/fe8c6-16909642998453-1920.jpg",
-      "publishedAt": "2023-08-02T14:29:00Z",
-      "content": "On Thursday, July 27, 2023, NASA announced that they were going to launch a new streaming service called NASA Plus. It will not only live stream space missions but also feature original video series.… [+2816 chars]"
+      "author": "Francesco De Meo",
+      "title": "Xbox Series S Development Has to Take Into Account Its Technical Limitations From the Beginning - Wccftech",
+      "description": "Developing for the Xbox Series S sounds to be rather frustrating, judging from a recent comment from Remedy's Communications Director",
+      "url": "https://wccftech.com/xbox-series-s-technical-limitations/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2020/09/Xbox-Series-S-Backward-compatibility.jpg",
+      "publishedAt": "2023-08-02T14:28:00Z",
+      "content": "Developing games for the Xbox Series S was always known to be troublesome due to the console's technical limitations and Microsoft requiring feature parity with the Xbox Series X, but it seems like t… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft starts testing its Xbox Live Gold replacement - The Verge",
+      "description": "Microsoft is now testing Xbox Game Pass Core, its Xbox Live Gold replacement. Testers will be able to get access to some games ahead of the September launch.",
+      "url": "https://www.theverge.com/2023/8/2/23817142/microsoft-xbox-game-pass-core-testing-live-gold-replacement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rV9CTtIN9t9fmyzfsDUD4rgTc7w=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24825527/1920_Green_70cf9ce5f7e67ba1d0d1.jpg",
+      "publishedAt": "2023-08-02T14:23:40Z",
+      "content": "Microsoft starts testing its Xbox Live Gold replacement\r\nMicrosoft starts testing its Xbox Live Gold replacement\r\n / Xbox Game Pass Core is now being tested by Xbox Insiders ahead of its debut next m… [+1645 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Zoom"
       },
-      "author": "Levi Winslow",
-      "title": "2023's Worst Game Just Got A Pretty Big Patch - Kotaku",
-      "description": "Daedalic Entertainment came through with an update for the widely panned The Lord of the Rings: Gollum",
-      "url": "https://kotaku.com/lord-of-the-rings-gollum-update-2-2-patch-notes-lotr-1850699438",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3c6f66643582bbe016ebe7f056536cc4.jpg",
-      "publishedAt": "2023-08-02T14:25:00Z",
-      "content": "The Lord of the Rings: Gollum, one of this years worst games, received a massive update on July 27 that addressed multiple issues across all platforms.\r\nDeveloper Daedalic Entertainment shared the up… [+8918 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Singh Rahul Sunilkumar",
-      "title": "Elon Musk's X (Twitter) allows users to now hide Blue tick | 4 Steps - Hindustan Times",
-      "description": "Elon Musk's X (formerly Twitter) now allows users to hide their Blue checkmark obtained through a paid subscription.",
-      "url": "https://www.hindustantimes.com/technology/elon-musks-x-twitter-allows-users-to-now-hide-blue-tick-how-to-do-101690979986955.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/02/1600x900/x_1690982176224_1690982176545.jpg",
-      "publishedAt": "2023-08-02T14:06:01Z",
-      "content": "Elon Musk's X, the rebranded name of the social media platform formerly known as Twitter, has introduced a feature to hide the Blue tick mark obtained through a paid subscription on users' social med… [+2133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Fort Solis - Official Dark Side of the Red Planet Trailer - IGN",
-      "description": "Watch as Jack Leary finds evidence that something is amiss in this tense new trailer for Fort Solis, an upcoming thriller game coming to PlayStation 5 and St...",
-      "url": "https://www.youtube.com/watch?v=BSulDu5jafE",
-      "urlToImage": "https://i.ytimg.com/vi/BSulDu5jafE/maxresdefault.jpg",
-      "publishedAt": "2023-08-02T14:00:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Microsoft Reveals What to Expect From Xbox at Gamescom 2023 - IGN",
-      "description": "Microsoft has confirmed its Xbox plans for gamescom 2023, and that Starfield is not playable for the public.",
-      "url": "https://www.ign.com/articles/microsoft-reveals-what-to-expect-from-xbox-at-gamescom-2023",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/08/02/gamescom-keyart-16x9-xbox-final-b8ae83ba005cc7de9909-1690983034697.jpg?width=1280",
-      "publishedAt": "2023-08-02T14:00:22Z",
-      "content": "Microsoft has said attendees at gamescom 2023 can expect to see the largest booth Xbox has ever had as well as the return of Xbox FanFest.\r\nOver 30 games across 150 gaming stations are set for the bo… [+1890 chars]"
+      "author": "Times Drive Desk",
+      "title": "Porsche 911 S/T Unveiled, Marque’s Lightest Grand Tourer With Appropriate Track Credentials - Times Now",
+      "description": "Emphasizing weight savings and performance, the 911 S/T pays homage to the racing version of the 1969 911 S. Porsche's India launch plans for this special edition are yet to be confirmed, but its presence on the website adds excitement for potential enthusias…",
+      "url": "https://www.timesnownews.com/auto/car-news/porsche-911-s/t-unveiled-marques-lightest-grand-tourer-with-appropriate-track-credentials-article-102358262",
+      "urlToImage": "https://static.tnn.in/thumb/msid-102358262,updatedat-1690985010386,width-1280,height-720,resizemode-75/102358262.jpg",
+      "publishedAt": "2023-08-02T14:03:30Z",
+      "content": "SSC Stenographer 2023 Notification Released For 1207 Grade C, D Posts, Check PDF"
     },
     {
       "source": {
@@ -264,68 +1252,16 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "VentureBeat"
       },
-      "author": "Joshua Rivera",
-      "title": "Think twice if you want to play Baldur’s Gate 2 before Baldur’s Gate 3 - Polygon",
-      "description": "Baldur’s Gate 2 is one of the most acclaimed RPGs of all time. Here’s why you shouldn’t bother playing it in 2023.",
-      "url": "https://www.polygon.com/23814574/dont-play-baldurs-gate-2-2023-i-warned-you",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PQ9SJZOcBqYB4Ef0vJmJgbcdy7I=/0x140:1920x1145/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24821778/baldur_s_gate_2_beholder.jpg",
+      "author": "Dean Takahashi",
+      "title": "Inworld AI raises $50M round at $500M valuation for AI game characters - VentureBeat",
+      "description": "Inworld AI has raised funding from Lightspeed, bringing the valuation of the AI game startup to over $500 million.",
+      "url": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/08/inworld.jpg?w=1200&strip=all",
       "publishedAt": "2023-08-02T14:00:00Z",
-      "content": "Baldurs Gate 3 is almost upon us, and naturally, this might make you wonder about Baldurs Gate 2 and, to a lesser extent, the first Baldurs Gate. After reading about these games on the internet (a mi… [+6443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Ben Kerry",
-      "title": "Two Baldur's Gate RPGs Seemingly On The Way To Xbox Game Pass - Pure Xbox",
-      "description": "App notifications spill the beans",
-      "url": "https://www.purexbox.com/news/2023/08/two-baldurs-gate-rpgs-seemingly-on-the-way-to-xbox-game-pass",
-      "urlToImage": "https://images.purexbox.com/1d54eede16e03/1280x720.jpg",
-      "publishedAt": "2023-08-02T14:00:00Z",
-      "content": "In a week featuring even more Baldur's Gate 3 Xbox drama, it looks like we're about to get some good news to do with the RPG series after all. The Xbox Game Pass app has starting sending out notifica… [+990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "INDIATODAY",
-      "title": "Best phones to buy under Rs 20,000 - India Today",
-      "description": "Lets take a look at the list of best phones to buy under Rs 20,000 in India.",
-      "url": "https://www.indiatoday.in/visualstories/technology/best-phones-to-buy-under-rs-20000-53425-02-08-2023",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/08/cropped-4_9.jpg",
-      "publishedAt": "2023-08-02T13:49:10Z",
-      "content": "It comes with features like a 90Hz AMOLED display, stereo speakers, fast charging support, a 5,000mAh battery, and more."
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emilia David",
-      "title": "Meta’s new AI model can create sounds that are technically music - The Verge",
-      "description": "AI-generated songs are here.",
-      "url": "https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/V_d3RRDwct_8srDjIdtJ3HWNUSc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
-      "publishedAt": "2023-08-02T13:33:09Z",
-      "content": "Metas AI music generator could be the new synthesizer or just muzak\r\nMetas AI music generator could be the new synthesizer or just muzak\r\n / The new open-source AI models can make sounds entirely bas… [+3795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Poco M6 Pro 5G phone to launch in India on August 5: What to expect | Mint - Mint",
-      "description": "Poco is set to launch the Poco M6 Pro 5G smartphone in India on August 5, which will be available on Flipkart. The phone is expected to have a 6.79-inch FHD+ 90Hz LCD screen and a 5000mAh battery.",
-      "url": "https://www.livemint.com/technology/gadgets/poco-m6-pro-5g-phone-to-launch-in-india-on-august-5-what-to-expect-11690982010440.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/02/600x338/poco_m6_pro_5g_1690982024312_1690982034833.jpg",
-      "publishedAt": "2023-08-02T13:17:41Z",
-      "content": "Smartphone brand Poco has announced to launch its latest M series phone in India on August 5. The company will unveil the Poco M6 Pro 5G phone at 12pm on August 5. The smartphone will be available in… [+1679 chars]"
+      "content": "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here.\r\nInworld AI has raised $50 million funding from Lightspeed Venture Partners, bring… [+18898 chars]"
     },
     {
       "source": {
@@ -333,103 +1269,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "A visit to Samsung's Digital City in Seoul, South Korea - KTLA 5",
-      "description": "Rich DeMuro visits Samsung's HQ in South Korea to check out their new foldable phones.",
-      "url": "https://www.youtube.com/watch?v=c1i52PACCWQ",
-      "urlToImage": "https://i.ytimg.com/vi/c1i52PACCWQ/maxresdefault.jpg",
-      "publishedAt": "2023-08-02T13:15:29Z",
+      "title": "Tips & Tricks For Gen-Z's To Become Rich Millennials | The ET Money Show - ET NOW",
+      "description": "The recipe to be a rich millennial actually begins from the time one is a gen z- and looking at how aware and pro investment gen z these days are, it looks h...",
+      "url": "https://www.youtube.com/watch?v=VJFTRC_nZcw",
+      "urlToImage": "https://i.ytimg.com/vi/VJFTRC_nZcw/maxresdefault.jpg",
+      "publishedAt": "2023-08-02T13:52:17Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kevin Wong",
-      "title": "15 Character Revelations We Learned In Street Fighter 6 - Kotaku",
-      "description": "Ryu's income sitch, Marisa's love life, Guile's music tastes, Zangief's reading habits, and other newfound trivia",
-      "url": "https://kotaku.com/street-fighter-6-sf6-chun-li-cammy-ryu-ken-tournament-1850698103",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6e5fe50e23cd6335b077aab20c7c1855.jpg",
-      "publishedAt": "2023-08-02T13:15:00Z",
-      "content": "Ryus entire modus operandi is that he lives for the fight and nothing elsethat he spends the majority of time traversing the world in search of worthy foes. But how, exactly, can he afford to do that… [+741 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "DJI's Osmo Action 4 camera comes with a larger sensor and a higher price | Engadget - Engadget",
-      "description": "Less than a year after launching the Action 3, DJI has unveiled the Osmo Action 4 with the key change being a larger sensor..",
-      "url": "https://www.engadget.com/djis-osmo-action-4-camera-comes-with-a-larger-sensor-and-a-higher-price-130027897.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5_0Fzq3mykIXWPzDb5lcJg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/76e9dab0-310c-11ee-afd6-c31457ff5674.cf.jpg",
-      "publishedAt": "2023-08-02T13:02:21Z",
-      "content": "Less than a year after launching the Action 3, DJI has unveiled the Osmo Action 4 with an improved camera that makes it better in low light. It now packs a larger 1/1.3-inch sensor (the same one on t… [+5774 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jason Marlin & Lee Hutchinson",
-      "title": "Hosting Ars, part three: CI/CD, or how I learned to stop worrying and love DevOps - Ars Technica",
-      "description": "This time we discuss how we manage, update, and deploy the code that makes Ars work.",
-      "url": "https://arstechnica.com/information-technology/2023/08/ars-on-aws-03/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1367728715c-760x380.jpg",
-      "publishedAt": "2023-08-02T13:00:51Z",
-      "content": "Enlarge/ DevOps, DevOps, DevOps! \r\n54 with \r\nView more stories\r\nOne of the most important things to happen in the evolution of development over the past many years is the widespread adoption of conti… [+4032 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "The Galaxy Z Flip 5's cover screen software beats Motorola's in every way but one - The Verge",
-      "description": "The Samsung Galaxy Z Flip 5 doesn’t run full apps on its cover screen as easily as the Motorola Razr Plus, but it does come with better customization, an always-on display, and more useful widgets.",
-      "url": "https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/F585fXHKY06k4f28lGTgziMSRH8=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24824231/DSC05123_processed_1.JPG",
-      "publishedAt": "2023-08-02T13:00:00Z",
-      "content": "The Galaxy Z Flip 5s cover screen software beats Motorolas in every way but one\r\nThe Galaxy Z Flip 5s cover screen software beats Motorolas in every way but one\r\n / Motorola does cover screen apps be… [+4301 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jon Porter",
-      "title": "Keychron's Lemokey L3 is a premium keyboard aimed squarely at gamers - The Verge",
-      "description": "Keychron is launching a new Lemokey L3 gaming keyboard that’s notable for being its first to offer a 1,000Hz polling rate when used wirelessly with a 2.4GHz dongle.",
-      "url": "https://www.theverge.com/2023/8/2/23815485/keychron-lemokey-l3-wireless-mechanical-gaming-keyboard-price",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JAv3Vs5-ET3Z8HTTP3d9U2L8C_0=/0x0:3240x2160/1200x628/filters:focal(1620x1080:1621x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24823001/Lemokey_L3___13.jpg",
-      "publishedAt": "2023-08-02T13:00:00Z",
-      "content": "Keychrons Lemokey L3 is a premium keyboard aimed squarely at gamers\r\nKeychrons Lemokey L3 is a premium keyboard aimed squarely at gamers\r\n / The first keyboard under its new gaming-focused brand come… [+3828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "DJI Debuts Osmo Action 4 Camera - MacRumors",
-      "description": "DJI today announced the launch of the Osmo Action 4, a new action camera that DJI describes as the ultimate companion for adventure enthusiasts and...",
-      "url": "https://www.macrumors.com/2023/08/02/dji-osmo-action-4/",
-      "urlToImage": "https://images.macrumors.com/t/ROuZg_qq6wlqMXDZ5bvFUoCJh9I=/2000x/article-new/2023/08/osmo-action-4.jpg",
-      "publishedAt": "2023-08-02T13:00:00Z",
-      "content": "DJI today announced the launch of the Osmo Action 4, a new action camera that DJI describes as the ultimate companion for adventure enthusiasts and thrill seekers.\r\nDesigned for capturing action shot… [+1268 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Potentially Ban-Worthy Diablo 4 Exploit Lets You Transfer Eternal Characters to Seasonal Realm - IGN",
-      "description": "A newly-surfaced Diablo 4 glitch lets players transfer their Eternal Realm characters into the Seasonal Realm, sparking concern about the potential of a Blizzard ban.",
-      "url": "https://www.ign.com/articles/potentially-ban-worthy-diablo-4-exploit-lets-you-transfer-eternal-characters-to-seasonal-realm",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/08/diablo4accoladestrailer-ign-blogroll-1686245456597.jpg?width=1280",
-      "publishedAt": "2023-08-02T12:56:20Z",
-      "content": "A newly-surfaced Diablo 4 glitch lets players transfer their Eternal Realm characters into the Seasonal Realm, sparking concern about the potential of a Blizzard ban.\r\nYouTuber Glitch Unlimited poste… [+2443 chars]"
     },
     {
       "source": {
@@ -437,870 +1282,25 @@
         "name": "Gadgets360.com"
       },
       "author": "Nithya P Nair, Siddharth Suvarna",
-      "title": "Redmi Confirms August 3 Launch Event, Redmi K60 Ultra With Dimensity 9000+ SoC Surfaces on Geekbench - Gadgets 360",
-      "description": "Redmi is holding a launch event in China on August 3 alongside MediaTek and Pixelworks. The Chinese smartphone brand is likely to take the wraps off its Redmi K60 Ultra smartphone at the event. Ahead of any official announcement, the latest Redmi K series sma…",
-      "url": "https://www.gadgets360.com/mobiles/news/redmi-k60-ultra-launch-august-3-mediatek-dimensity-9000-plus-soc-geekbench-specifications-4262684",
-      "urlToImage": "https://i.gadgets360cdn.com/large/redmi_k5-_ultra_mi_1678191129878.jpg",
-      "publishedAt": "2023-08-02T12:56:02Z",
-      "content": "Redmi is holding a launch event in China on August 3 alongside MediaTek and Pixelworks, the Xiaomi sub-brand confirmed on Wednesday. The Chinese smartphone brand is likely to take the wraps off its R… [+2089 chars]"
+      "title": "iQoo Z7 Pro 5G AnTuTu Benchmark Score Leaked Online, Hints at MediaTek Dimensity 7200 SoC - Gadgets 360",
+      "description": "iQoo Z7 Pro 5G's alleged AnTuTu benchmarking score has been leaked online. It is tipped to come with a 4nm MediaTek Dimensity 7200 SoC. The iQoo Z7 Pro 5G is expected to come as an upgrade over the iQoo Z7. It could be backed by a 4,600mAh battery with suppor…",
+      "url": "https://www.gadgets360.com/mobiles/news/iqoo-z7-pro-5g-india-launch-teaser-antutu-benchmark-score-mediatek-dimensity-7200-soc-leak-4262958",
+      "urlToImage": "https://i.gadgets360cdn.com/large/iqoo_z7_pro_5g_twitter_1690260813636.jpg",
+      "publishedAt": "2023-08-02T13:51:06Z",
+      "content": "iQoo Z7 Pro 5G is confirmed to launch in India soon and Amazon is currently teasing the arrival of the handset through a dedicated landing page on its website. Ahead of the official release, the iQoo… [+2189 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "author": "Paul Tassi",
-      "title": "‘Destiny 2’ Reveals More Massive Story Twists 98% Of Players Will Never Hear - Forbes",
-      "description": "I can only scream into the void so many times that Destiny 2 players desperately need to be listening to the game’s weekly Veil Containment messages, and that Bungie needs to do something, anything, to make them more accessible",
-      "url": "https://www.forbes.com/sites/paultassi/2023/08/02/destiny-2-reveals-more-massive-story-twists-98-of-players-will-never-hear/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ca502657cf68536b69db87/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-02T12:52:42Z",
-      "content": "Lakshmi-2\r\nBungie\r\nI can only scream into the void so many times that Destiny 2 players desperately need to be listening to the games weekly Veil Containment messages, and that Bungie needs to do som… [+3369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Suyash Sahay",
-      "title": "Why GTA 5 is not coming to an end anytime soon - Sportskeeda",
-      "description": "Rockstar Games released Grand Theft Auto (GTA) 5 in 2013 for PlayStation 3 and Xbox 360.",
-      "url": "https://www.sportskeeda.com/gta/why-gta-5-coming-end-anytime-soon",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/08/51d10-16909795988454-1920.jpg",
-      "publishedAt": "2023-08-02T12:52:00Z",
-      "content": "Rockstar Games released Grand Theft Auto (GTA) 5 in 2013 for PlayStation 3 and Xbox 360. Since then, it has gone on to become one of the best-performing games of all time, both critically and financi… [+2844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Xiaomi launches Redmi 12 5G, Watch 3 Active, TV X series and more: Here's a look - The Economic Times",
-      "description": "From the cheapest 5G smartphone yet to a 65-inch 4K smart TV, Xiaomi launched a series of products on August 1, 2023. Rahul Saha of ET Online takes at the ga...",
-      "url": "https://www.youtube.com/watch?v=f7s4nUguGFY",
-      "urlToImage": "https://i.ytimg.com/vi/f7s4nUguGFY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFkgXChlMA8=&rs=AOn4CLBB1I0pD2ON9FiL4iD11sGpoZdqQQ",
-      "publishedAt": "2023-08-02T12:48:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "Kuo: 'No Sign' of Apple Generative AI Technology Coming in 2024 - MacRumors",
-      "description": "The progress of Apple's generative AI technology is significantly behind its competitors and there is no sign that the company plans to launch AI...",
-      "url": "https://www.macrumors.com/2023/08/02/no-sign-of-apple-generative-ai-coming-2024/",
-      "urlToImage": "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg",
-      "publishedAt": "2023-08-02T12:42:35Z",
-      "content": "The progress of Apple's generative AI technology is significantly behind its competitors and there is no sign that the company plans to launch AI services next year, according to analyst Ming-Chi Kuo… [+1172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "India Today Education Desk",
-      "title": "AI-powered tool GPT-3 masters reasoning like human undergraduates: Study - India Today",
-      "description": "A groundbreaking study revealed that GPT-3, an AI-powered tool, exhibits reasoning skills on par with college undergraduates, raising questions about the future of artificial intelligence.",
-      "url": "https://www.indiatoday.in/education-today/news/story/ai-powered-tool-gpt-3-masters-reasoning-like-human-undergraduates-study-2415323-2023-08-02",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/ai-powered-tool-gpt-3-masters-reasoning-like-human-undergraduates-study-023541-16x9.jpg?VersionId=Mpx4HTwYWhqHC9UiDg.polB80p0NZJhf",
-      "publishedAt": "2023-08-02T12:36:26Z",
-      "content": "By India Today Education Desk: Scientists at the University of California - Los Angeles (UCLA) have discovered that GPT-3, the popular AI-powered tool, reasons as effectively as college undergraduate… [+2011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "HP announces BIG discounts on latest laptops for students; HP Victus 16, HP Omen 16, more - HT Tech",
-      "description": "HP has announced big discounts on its latest laptops for students. The list includes HP Victus 16, HP Omen 16, HP Envy x360, more. Check details.",
-      "url": "https://tech.hindustantimes.com/photos/hp-announces-big-discounts-on-latest-laptops-for-students-hp-victus-16-hp-omen-16-more-71690978274855.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/02/1600x900/2916850f-6c61-4d96-b31d-baac3dbd37d5_1690978971188_1690979645496.jpg",
-      "publishedAt": "2023-08-02T12:34:18Z",
-      "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ro",
-      "title": "Samsung already producing OLEDs for the iPhone 15 family, BOE is behind schedule - GSMArena.com",
-      "description": "Production issues over at BOE may boost Samsung's orders. The Elec reports that Apple gave the green light to Samsung to start manufacture the OLED panels...",
-      "url": "https://www.gsmarena.com/samsung_starts_producing_oleds_for_the_iphone_15_family_boe_is_behind_schedule-news-59404.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/03/glomo-awards-mwc-iphone-14-pro-best-smartphone/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-02T12:33:01Z",
-      "content": "The Elec reports that Apple gave the green light to Samsung to start manufacture the OLED panels for all four upcoming iPhone 15 models. However, the Production Validation Testing (PVT) stage hasn't … [+537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Gordon Kelly",
-      "title": "Apple Confirms More Problems For iPad, iPhone Users - Forbes",
-      "description": "Apple has confirmed a potentially serious problem for all iPhones and iPads...",
-      "url": "https://www.forbes.com/sites/gordonkelly/2023/08/02/apple-ios-16-ipados-16-iphone-ipad-bug-screentime-bug-new-iphone-problem/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ca47dc57cf68536b69db73/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-02T12:27:19Z",
-      "content": "Apple iPhone 14 Pro Max\r\nApple\r\niOS 16 and iPadOS 16 had a rocky start to life, with iPhone 14 and 14 Pro users particularly hard hit. Subsequent updates have done much to correct this, but now Apple… [+1969 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ashutosh Kumar, ET Telecom",
-      "title": "Can Reliance become a formidable player in affordable laptop segment with JioBook? - ETTelecom",
-      "description": "As per the listing on Amazon and Reliance Retail, the JioBook has a maximum retail price (MRP) of Rs 25,000. PC vendors like HP, Lenovo, Asus, and Acer also have a presence at this price point with their Chromebooks and entry-level laptops. Lenovo, Motorola, …",
-      "url": "https://telecom.economictimes.indiatimes.com/news/devices/can-reliance-become-a-formidable-player-in-affordable-laptop-segment-with-jiobook/102354212",
-      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-102354212,imgsize-39904,width-1200,height=765,overlay-ettelecom/devices/can-reliance-become-a-formidable-player-in-affordable-laptop-segment-with-jiobook.jpg",
-      "publishedAt": "2023-08-02T12:10:26Z",
-      "content": "As per the listing on Amazon and Reliance Retail, the JioBook has a maximum retail price (MRP) of Rs 25,000. PC vendors like HP, Lenovo, Asus, and Acer also have a presence at this price point with t… [+5199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jagran.com"
-      },
-      "author": "Ashish Singh",
-      "title": "YouTube Testing AI-Generated Summaries To Help Users Decide Which Video They Want To Watch; Details - Jagran English",
-      "description": "YouTube is exploring AI-generated auto summaries to help people decide whether or not to watch videos  Furthermore the firm has stated that it would not replace the video description written by the creators",
-      "url": "https://english.jagran.com/technology/youtube-testing-aigenerated-summaries-to-help-users-decide-which-video-they-want-to-watch-details-10091337",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/aug/Youtube  (1)1690977514051.jpg",
-      "publishedAt": "2023-08-02T12:07:37Z",
-      "content": "YouTube has stated that it is testing AI-generated summaries on the platform, which will provide users with a concise overview of the video and allow them to decide whether or not to watch it. The Go… [+1776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ben Lovejoy",
-      "title": "Spatial Audio for video calls now works in Microsoft Teams as well as FaceTime - 9to5Mac",
-      "description": "Apple introduced Spatial Audio for video calls to FaceTime with macOS Monterey back in 2021 – and the same feature...",
-      "url": "https://9to5mac.com/2023/08/02/spatial-audio-for-video-calls/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Spatial-Audio-for-video-calls-Microsoft-Teams.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-08-02T12:03:00Z",
-      "content": "Apple introduced Spatial Audio for video calls to FaceTime with macOS Monterey back in 2021 and the same feature is now available on both Macs and PCs in Microsoft Teams. The full rollout follows ear… [+2065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "How Using Google's Pixel Fold Sold Me on Foldable Phones - CNET",
-      "description": "Commentary: Maps, games and videos all look better on the big screen.",
-      "url": "https://www.cnet.com/tech/mobile/how-using-googles-pixel-fold-sold-me-on-foldable-phones/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/254af86216b1f3f9428d3c1e6a985dd06f7f815d/hub/2023/08/01/3cfd2137-631b-41b4-8e49-bae20fb54a85/20230727-google-pixel-fold-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-08-02T12:00:00Z",
-      "content": "Year after year, I see phone-makers trying tricks designed to carve away part of Apple's enormous iPhone business. Some of them succeed, like Samsung's \"phablet\" push a decade ago toward larger smart… [+6776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Tom Phillips",
-      "title": "Call of Duty is adding a dog again - Eurogamer.net",
-      "description": "A decade after Call of Duty: Ghosts first introduced Colin, AKA Riley the dog as a squad member, Activision is bringing…",
-      "url": "https://www.eurogamer.net/call-of-duty-is-adding-a-dog-again",
-      "urlToImage": "https://assetsio.reedpopcdn.com/MWII-S05-BATTLEPASS-003.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-08-02T11:56:06Z",
-      "content": "A decade after Call of Duty: Ghosts first introduced Colin, AKA Riley the dog as a squad member, Activision is bringing attack canines back to its first-person shooter franchise.\r\nStep up, Merlin the… [+1418 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "Zee Media Bureau",
-      "title": "Samsung To Launch Galaxy F34 5G On August 7 In India: Check Price, Processor, Specifications, And More - Zee News",
-      "description": "South Korean tech giant Samsung is all set to launch its new Galaxy F34 5G, a new, reasonably priced F-series smartphone in India the following week. As per the latest reports, on August 7, the company will introduce the Samsung Galaxy F34 5G handset in the n…",
-      "url": "https://zeenews.india.com/technology/samsung-to-launch-galaxy-f34-5g-coming-soon-on-august-7-in-india-check-price-processor-specifications-and-more-2643773.html",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/08/02/1254536-untitled-design-2023-08-02t171758.792.jpg",
-      "publishedAt": "2023-08-02T11:48:40Z",
-      "content": "New Delhi: South Korean tech giant Samsung is all set to launch its new Galaxy F34 5G, a new, reasonably priced F-series smartphone in India the following week. As per the latest reports, on August 7… [+1986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Himani Jha, Siddharth Suvarna",
-      "title": "Samsung 110-Inch Micro LED Smart 4K TV Worth Rs. 1 Crore Launched in India: Check Specifications - Gadgets 360",
-      "description": "Samsung Micro LED 4K Smart TV has been launched in India. Priced similar to a high-end luxury sedan, the new Micro LED comes with a screen size of 110-inches and supports 4K resolution. The TV is equipped with a Micro AI Processor and offers HDR10+ support. I…",
-      "url": "https://www.gadgets360.com/tv/news/samsung-micro-led-tv-ms1a-110-inch-price-in-india-rs-11499000-launch-specifications-features-4262506",
-      "urlToImage": "https://i.gadgets360cdn.com/large/Samsung_MS1_Micro_LED_TV_main_1690975974086.jpg",
-      "publishedAt": "2023-08-02T11:34:12Z",
-      "content": "Samsung Micro LED TV has been launched at a price similar to a luxury sedan in India. The new Micro LED TV from the South Korean brand is equipped with 24.8 million micrometer-sized LEDs made from sa… [+2463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Yordan",
-      "title": "OnePlus Ace 2 Pro shines on AnTuTu with 24 GB RAM, 1 TB storage - GSMArena.com",
-      "description": "The phone easily surpasses 1.7 million on the benchmarking platform. OnePlus is launching Ace 2 Pro soon, and the phone will come with a Snapdragon 8 Gen 2...",
-      "url": "https://www.gsmarena.com/oneplus_ace_2_pro_shines_on_antutu_with_24_gb_ram_1_tb_storage-news-59402.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/oneplus-ace-2-pro-antutu/-952x498w6/gsmarena_001.jpg",
-      "publishedAt": "2023-08-02T11:31:01Z",
-      "content": "OnePlus is launching Ace 2 Pro soon, and the phone will come with a Snapdragon 8 Gen 2 chipset. The device was recently benchmarked on AnTuTu and the listing reveals more spicy details - it will have… [+774 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "The Morning After: Microsoft starts selling replacement parts for Xbox gamepads | Engadget - Engadget",
-      "description": "The biggest news stories this morning:  Microsoft starts selling replacement parts for Xbox gamepads, Google wants to 'supercharge' its voice assistant with AI, TweetDeck's new name is XPro..",
-      "url": "https://www.engadget.com/the-morning-after-microsoft-starts-selling-replacement-parts-for-xbox-gamepads-111554759.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/j2IZvjNyvjRfKH3gL3PiAA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/526b9860-bbf8-11ed-bffd-9675a8b1fe9e.cf.jpg",
-      "publishedAt": "2023-08-02T11:17:44Z",
-      "content": "Microsoft is dipping into the world of self-repair by offering replacement parts for Xbox gamepads, along with downloadable instructions and tutorial videos. The service will cover both the standard … [+2174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ben Lovejoy",
-      "title": "Hidden VNC tool gives attackers access to Macs; $100K guarantee - 9to5Mac",
-      "description": "Cybersecurity firm Guardz has found Russian hackers offering for sale a Hidden VNC tool specifically designed to give attackers full...",
-      "url": "https://9to5mac.com/2023/08/02/hidden-vnc-tool/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Hidden-VNC.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2023-08-02T11:11:00Z",
-      "content": "Cybersecurity firm Guardz has found Russian hackers offering for sale a Hidden VNC tool specifically designed to give attackers full access to Macs. It follows a similar tool for accessing Windows PC… [+3287 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Chris Stokel-Walker",
-      "title": "One of Gaming's Biggest YouTubers Wants to Replace Himself With AI - WIRED",
-      "description": "Jordi Van Den Bussche, aka Kwebbelkop, opens up about his new video that uses an AI model to reproduce his physical presence. But will fans still watch an AI clone?",
-      "url": "https://www.wired.com/story/kwebbelkop-youtube-ai-clone/",
-      "urlToImage": "https://media.wired.com/photos/64c9966eda92561daff93d4a/191:100/w_1280,c_limit/games_culture_youtube_GettyImages-1471757065.jpg",
-      "publishedAt": "2023-08-02T11:00:00Z",
-      "content": "In this industry, it's like you're starting this company, but the company solely relies on this one individual to be able to perform, he says. And that is absolutely a horrible business model. Its wa… [+2935 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Baldur's Gate 3 Dev Recommends Deleting Early Access, Save Files, and Mods Before Full Launch - IGN",
-      "description": "The developer of Baldur’s Gate 3 has told fans to delete the Early Access version, any save files and mods, and do a fresh install when the hotly-anticipated role-playing game launches proper on August 3.",
-      "url": "https://www.ign.com/articles/baldurs-gate-3-dev-recommends-deleting-early-access-save-files-and-mods-before-full-launch",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/06/29/half-orc-1688037568999.png?width=1280",
-      "publishedAt": "2023-08-02T10:40:54Z",
-      "content": "The developer of Baldurs Gate 3 has told fans to delete the Early Access version, any save files and mods, and do a fresh install when the hotly-anticipated role-playing game launches proper on Augus… [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingonlinux.com"
-      },
-      "author": "Liam Dawe",
-      "title": "Steam desktop and Steam Deck get a fresh stable update - GamingOnLinux",
-      "description": "Valve has released another big stable update to the Steam client for desktop and Steam Deck. So here's a run over what's new and changed.",
-      "url": "https://www.gamingonlinux.com/2023/08/steam-desktop-and-steam-deck-get-a-fresh-stable-update/.",
-      "urlToImage": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1040975556id23040gol.jpg",
-      "publishedAt": "2023-08-02T10:25:06Z",
-      "content": "Valve has released another big stable update to the Steam client for desktop and Steam Deck. So here's a run over what's new and changed.\r\nAs usual, the changes between them are basically the same, a… [+5592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Tom Henderson",
-      "title": "Star Wars Jedi: Survivor is Getting a PS4/Xbox One Release, Says EA - Insider Gaming",
-      "description": "During the recent EA Earnings Call, CEO Andrew Wilson revealed that EA will be releasing a PS4 / Xbox One version of Star Wars Jedi: Survivor.",
-      "url": "https://insider-gaming.com/star-wars-jedi-survivor-ps5-xbox-one/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/04/star-wars-jedi-survivor-top.jpg",
-      "publishedAt": "2023-08-02T10:18:23Z",
-      "content": "During the recent EA Earnings Call, CEO Andrew Wilson revealed that EA will be releasing a PS4 / Xbox One version of Star Wars Jedi: Survivor.\r\nIn the opening statements from CEO Andrew Wilson during… [+1907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Bharat Upadhyay",
-      "title": "Kundli GPT AI: How To Get Horoscope Predictions From AI Chatbot - News18",
-      "description": "The company also claims that Kundli GPT is an experimental tool and is not intended to be used for any commercial purpose.",
-      "url": "https://www.news18.com/tech/kundli-gpt-ai-how-to-get-horoscope-predictions-from-ai-chatbot-8486173.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/untitled-design-2023-08-02t150907.412-169096947516x9.jpg",
-      "publishedAt": "2023-08-02T10:04:33Z",
-      "content": "With the rise of advanced technology and artificial intelligence, the astrology field has the potential to take astrological readings and astronomy to a whole new level with the help of Kundli GPT AI… [+1755 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Axios",
-      "title": "Apple moves cautiously on AI as other tech giants race ahead - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2023/08/02/apples-slow-embrace-generative-ai-chatgpt",
-      "urlToImage": null,
-      "publishedAt": "2023-08-02T10:02:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "Canon's new security-focused 'SPAD' camera can capture color video in complete darkness | Engadget - Engadget",
-      "description": "Canon has just unveiled the MS-500, an unusual model that's one of the most sensitive non-infrared cameras ever developed..",
-      "url": "https://www.engadget.com/canons-new-security-focused-spad-camera-can-capture-color-video-in-complete-darkness-095516159.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ScCkhZ2uad8QsWyilGtbdg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/1e0b49e0-3113-11ee-bf6e-aacb14b0a178.cf.jpg",
-      "publishedAt": "2023-08-02T09:59:10Z",
-      "content": "Canon has just unveiled the MS-500, an unusual model that's one of the most sensitive non-infrared cameras ever developed. It uses the highest-resolution 1-inch SPAD (Single-photon avalanche diode) s… [+1474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Sam Cawley",
-      "title": "PlayStation Plus free game: new RPG is an 'absolute blast', subscribers enthuse - GAMINGbible",
-      "description": "PlayStation Plus subscribers are urging PlayStation players to give this action-shooter RPG another chance.",
-      "url": "https://www.gamingbible.com/news/platform/playstation/new-playstation-plus-game-is-an-absolute-blast-subscribers-enthuse-801987-20230802",
-      "urlToImage": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltbc1876152fcd9f07/blt890a64e57a9339a6/64ca26b08454d75028b85eb5/TheAscent.jpg",
-      "publishedAt": "2023-08-02T09:54:44Z",
-      "content": "PlayStation Plus is a great way to experience titles you might have not bought outside of the service, like one cyberpunk RPG that subscribers want to give another chance.\r\nNo, its not Cyberpunk 2077… [+2485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Manuel Vonau",
-      "title": "Google is still committed to adding Nest Protect to Home app - Android Police",
-      "description": "A community manager confirms that it’s still on the roadmap",
-      "url": "https://www.androidpolice.com/google-committed-adding-nest-protect-to-home-app/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/google-nest-protect.jpg",
-      "publishedAt": "2023-08-02T09:51:00Z",
-      "content": "Nest products could be some of the best smart home devices out there, if it wasn't for some software woes. Google has been in the process of transitioning legacy Nest devices to its Home app for year… [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Samsung Galaxy S23 FE to debut soon with upgraded selfie camera: Report | Mint - Mint",
-      "description": "Samsung Galaxy S23 FE in development, expected to have improved front-facing camera and similar specifications to Galaxy S21 FE.",
-      "url": "https://www.livemint.com/technology/gadgets/samsung-galaxy-s23-fe-to-debut-soon-with-upgraded-selfie-camera-report-11690966182054.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/02/600x338/Samsung_Galaxy_S22_1686302927253_1690969820061.jpg",
-      "publishedAt": "2023-08-02T09:50:41Z",
-      "content": "The Samsung Galaxy S23 FE is said to be in development and may be released soon. A company executive hinted at its upcoming launch during the Galaxy Unpacked event in Seoul, reported NDTV. Although t… [+1933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Tom Henderson",
-      "title": "EA Says The Next Battlefield is a \"Reimagination\" of Battlefield - Insider Gaming",
-      "description": "Speaking on the latest EA earnings call, EA CEO Andrew Wilson has said that the next Battlefield game will be a \"reimagination of Battlefield\"",
-      "url": "https://insider-gaming.com/battlefield-reimagination/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/08/battlefield-reimagination.jpg",
-      "publishedAt": "2023-08-02T09:42:21Z",
-      "content": "Speaking on the latest EA earnings call, EA CEO Andrew Wilson has said that the next Battlefield game will be a “reimagination of Battlefield” (transcript via Key to Gaming).\r\nWilson’s comments have … [+2029 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": null,
-      "title": "Nintendo pulls 'The Last of Us' clone from its eShop following copyright claim | Engadget - Engadget",
-      "description": "'The Last Hope' had garnered very bad reviews during its short time on the market..",
-      "url": "https://www.engadget.com/nintendo-pulls-the-last-of-us-clone-from-its-eshop-following-copyright-claim-092558958.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9TB60lTF.Hq_n7Y1wzApJw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/0e5c0910-aa36-11ea-9fbe-68e71b4bf352.cf.jpg",
-      "publishedAt": "2023-08-02T09:26:57Z",
-      "content": "Any gaming company looking to copy a competitor's hit might want to think twice. Nintendo's The Last Hope: Dead Zone Survival has officially been removed from the Switch e-shop due to its overt simil… [+1053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Michail",
-      "title": "Lava Yuva 2 announced with 90Hz LCD and 5000 mAh battery - GSMArena.com",
-      "description": "The latest smartphone from Lava Mobiles is already on open sale in India. Lava Mobiles introduced its latest Yuva phone today with the Yuva 2. The device...",
-      "url": "https://www.gsmarena.com/lava_yuva_2_announced_with_90hz_lcd_and_5000_mah_battery-news-59401.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/lava-yuva-2-ofic/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-02T09:13:01Z",
-      "content": "Lava Mobiles introduced its latest Yuva phone today with the Yuva 2. The device comes with entry-level specs and an INR 6,999 ($85) introductory price and is available from Lavas retail network start… [+624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Himani Jha, Manas Mitul",
-      "title": "Vivo V29 5G Confirmed to Launch in Europe First; Specifications, Design Revealed - Gadgets 360",
-      "description": "Vivo V29 5G has gone official in Europe, revealing the design, colour options and the specifications of the phone. The smartphone will be launched soon in European markets. The phone’s launch and other details have been confirmed by the company itself via its…",
-      "url": "https://www.gadgets360.com/mobiles/news/vivo-v29-5g-unveiled-in-europe-specifications-design-revealed-4261872",
-      "urlToImage": "https://i.gadgets360cdn.com/large/Vivo_V29_5G_main_1690966550890.jpg",
-      "publishedAt": "2023-08-02T08:57:25Z",
-      "content": "Vivo V29 5G has gone official in Europe, revealing the design, colour options and specifications of the phone. The smartphone will be launched soon in European markets. The phone's launch and other d… [+2105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Shaurya Tomer",
-      "title": "Samsung Galaxy Z Flip 5 first impressions: Shines brightly in a sea of Flip phones - HT Tech",
-      "description": "Samsung’s latest flip phone, the Galaxy Z Flip 5 gets a bigger cover display, a snappier chipset, and a new hinge. But is it enough to beat the competition? Check out our first impressions of the Galaxy Z Flip 5.",
-      "url": "https://tech.hindustantimes.com/mobile/news/samsung-galaxy-z-flip-5-first-impressions-shines-brightly-in-a-sea-of-flip-phones-but-cannot-swim-past-the-flaws-71690965247075.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/02/1600x900/flip_1_1690966045630_1690966053788.jpg",
-      "publishedAt": "2023-08-02T08:54:57Z",
-      "content": "After weeks of anticipation, Samsung finally unveiled its next-generation foldable smartphones on July 26 at Galaxy Unpacked 2023 which was held at its home turf in Seoul, South Korea. While the Gala… [+3851 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "David Delima, Siddharth Suvarna",
-      "title": "Tecno Pova 5 Pro With Arc Interface, 50-Megapixel Primary Camera Launched: Price, Specifications - Gadgets 360",
-      "description": "Tecno Pova 5 Pro has been launched in global markets, starting with Indonesia. The handset is set to debut in India soon and is powered by a MediaTek Dimensity 6080 chipset. It features the company's Arc Interface with RGB LED lights, inspired by the Nothing …",
-      "url": "https://www.gadgets360.com/mobiles/news/tecno-pova-5-pro-price-idr-2949000-launch-sale-specifications-features-4261798",
-      "urlToImage": "https://i.gadgets360cdn.com/large/tecno_pova_5_pro_1690964450253.jpg",
-      "publishedAt": "2023-08-02T08:39:19Z",
-      "content": "Tecno Pova 5 Pro was launched in Indonesia on Tuesday, days ahead of the handset's debut in India. The newly launched handset is equipped with the company's Arc Interface, an LED-based notification s… [+2206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/intern15-seo/",
-      "title": "Amazon Great Freedom Festival Sale 2023: Get 45% Off on Split ACs From LG, Voltas, Panasonic, Samsung And Lly - India.com",
-      "description": "Amazon Great Freedom Festival 2023 :  Buying an Ac for your home can be a hectic task . To make things easy for you we have listed some of the best known brands.",
-      "url": "https://www.india.com/technology/amazon-great-freedom-festival-sale-2023-get-45-off-on-split-acs-from-lg-voltas-panasonic-samsung-and-llyod-6201453/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/08/Split-AC.jpg",
-      "publishedAt": "2023-08-02T08:22:44Z",
-      "content": "Amazon Great Freedom Festival 2023 : Buying an Ac for your home can be a hectic task . To make things easy for you we have listed some of the best known brands. \r\nThese top AC brands offer massive di… [+6331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Michail",
-      "title": "Redmi is holding a launch event tomorrow alongside MediaTek and Pixelworks - GSMArena.com",
-      "description": "We'll likely get the official launch date for the Redmi K60 Ultra. Redmi is holding a launch event tomorrow at 2PM Beijing time (6AM UTC) where we’ll...",
-      "url": "https://www.gsmarena.com/redmi_is_holding_a_launch_event_tomorrow_alongside_mediatek_and_pixelworks-news-59399.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/redmi-event-aug-3/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-08-02T08:11:01Z",
-      "content": "Redmi is holding a launch event tomorrow at 2PM Beijing time (6AM UTC) where well likely get more information on the upcoming Redmi K60 Ultra including its launch date. MediaTek and Pixelworks are al… [+567 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India TV News"
-      },
-      "author": "Written by Saumya Nigam",
-      "title": "Oppo A78 launched in India at Rs 17,499, with 4G support: Details - India TV News",
-      "description": "Oppo has silently launched the new A78 4 G-enabled smartphone in India. The new smartphone has arrived nearly after eight months of the Oppo A78 5G variant launch. The new 4G handset is powered by a Snapdragon 680 processor and features the same dual rear cam…",
-      "url": "https://www.indiatvnews.com/technology/news/oppo-a78-4g-quietly-launched-in-india-at-rs-17-499-all-you-need-to-know-2023-08-02-884411",
-      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/08/oppo-a78-1690963444.jpg",
-      "publishedAt": "2023-08-02T08:10:10Z",
-      "content": "Oppo has quietly launched the 4G version of its Oppo A78 smartphone in India, around eight months after the release of the Oppo A78 5G. The new variant shares a similar design with its sibling but wi… [+2193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Nithya P Nair, Siddharth Suvarna",
-      "title": "Samsung Galaxy S24, Galaxy S24+ Tipped to Get LTPO Displays, Same as Seen on Ultra Models - Gadgets 360",
-      "description": "Samsung is expected to pack an LTPO (low-temperature polycrystalline oxide) display to the base Galaxy S24 and Galaxy S24+ models. This year, the company fitted LTPO display on the premium Galaxy S23 Ultra, while the Galaxy S23 and Galaxy S23+ debuted with no…",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-s24-plus-ltpo-display-screen-upgrade-narrow-bezels-galaxy-leak-4261497",
-      "urlToImage": "https://i.gadgets360cdn.com/large/galaxy_s23_ultra_green_1685683384322.jpg",
-      "publishedAt": "2023-08-02T07:46:56Z",
-      "content": "Samsung Galaxy S24 series is expected to be launched in February next year. The South Korean tech giant has not shared any details about the Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra smartphones … [+2546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Divya Bhati",
-      "title": "Meta CEO Mark Zuckerberg uses this smartphone... and it is not an iPhone - India Today",
-      "description": "Facebook CEO Mark Zuckerberg was recently spotted using an Android device while checking emails before a concert.",
-      "url": "https://www.indiatoday.in/technology/news/story/meta-ceo-mark-zuckerberg-uses-this-smartphone-and-it-is-not-an-iphone-2415162-2023-08-02",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/mark-zuckerberg-021839-16x9.jpg?VersionId=g8WAQuhUwhHVnB1Vo.naRP9WAKXasN1S",
-      "publishedAt": "2023-08-02T07:40:21Z",
-      "content": "By Divya Bhati: Amid all the debate about what is better between Android phones and iPhones, the question that intrigues everyone's mind is: \"What phone do top tech CEOs use?\" For Apple CEO Tim Cook,… [+2636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deccan Herald"
-      },
-      "author": "DH Web Desk",
-      "title": "OnePlus Open foldable phone launch may get delayed - Deccan Herald",
-      "description": "Last week, OnePlus in a witty message-- \"We OPEN when others FOLD'-- to Samsung's newly launched Fold5 series, partly revealed the company's first-ever foldable phone will be called 'Open'. It was widely reported that OnePlus Open may launch by the end of Aug…",
-      "url": "https://www.deccanherald.com/business/technology/oneplus-open-foldable-phone-launch-may-get-delayed-1243099.html",
-      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2023/08/02/op11r-cov-sho-sel-6-1243099-1690960913.jpg",
-      "publishedAt": "2023-08-02T07:21:53Z",
-      "content": "Last week, OnePlus in a witty message-- \"We OPEN when others FOLD'-- to Samsung's newly launched Fold5 series, partly revealed the company's first-ever foldable phone will be called 'Open'.\r\nIt was w… [+1418 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Cosmin Vasile",
-      "title": "Nokia refreshes its lineup of feature phones with an inexpensive duo - PhoneArena",
-      "description": "The new Nokia 130 and 150 are two feature phones that are meant to refresh the company’s lineup of inexpensive handsets but don't expect anything exciting specs-wise.",
-      "url": "https://www.phonearena.com/news/nokia-130-nokia-150-official-specs_id149394",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/149394-wide-two_1200/Nokia-refreshes-its-lineup-of-feature-phones-with-an-inexpensive-duo.jpg",
-      "publishedAt": "2023-08-02T07:16:05Z",
-      "content": "Nokia is still a well-known brand in the telecom business, but the company no longer competes in the premium sector. Although Nokia phones continue to sell very well, the large majority of the brands… [+2184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pubg.com"
-      },
-      "author": "KRAFTON Inc.",
-      "title": "25.1 Patch Notes - NEWS - PUBG: BATTLEGROUNDS",
-      "description": "Introducing Update 25.1: Discover all the latest features and improvements!",
-      "url": "https://pubg.com/en/news/6548",
-      "urlToImage": "https://wstatic-prod-boc.krafton.com/common/content/news/20230731/5ta31J2O.jpg",
-      "publishedAt": "2023-08-02T06:26:42Z",
-      "content": "25.1 Highlights\r\nLive Maintenance Schedule\r\n The times shown below are subject to change.\r\n<ul><li>PC: August 9, 12 AM - 8:30 AM (UTC)</li><li>Console: August 17, 1 AM - 9 AM (UTC)</li></ul>\r\nMap Ser… [+33457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": "DNA Web Team",
-      "title": "Apple iPhone 14 available at Rs 26,399 ahead of Flipkart Big Saving Days sale, up to Rs 43,600 off - DNA India",
-      "description": "Apple iPhone 14 is currently listed at Rs 68,999 with Rs 10,901 off from the official store price. In addition to this, buyers can get Rs 4000 off on HDFC Bank credit card and debit card EMI transactions.",
-      "url": "https://www.dnaindia.com/technology/report-apple-iphone-14-available-at-rs-26399-ahead-of-flipkart-big-saving-days-sale-up-to-rs-43600-off-3054286",
-      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2023/08/02/2601791-apple-iphone-12.jpg",
-      "publishedAt": "2023-08-02T06:26:00Z",
-      "content": "Apple iPhone 14 is currently listed at Rs 68,999 with Rs 10,901 off from the official store price. In addition to this, buyers can get Rs 4000 off on HDFC Bank credit card and debit card EMI transact… [+1648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Team-BHP"
-      },
-      "author": "Utkarsh Chaudhary",
-      "title": "7 thoughts about VW Virtus GT after a month of ownership - Team-BHP",
-      "description": "BHPian CarManMotorcycl recently shared this with other enthusiasts. Hi all, after a long time of deciding on what car to buy from thinking of going for the Suzuki Brezza to a Toyota Hyryder because my dad wanted a 'hatchback on stilts', my sister and me final…",
-      "url": "https://www.team-bhp.com/news/7-thoughts-about-vw-virtus-gt-after-month-ownership",
-      "urlToImage": "https://www.team-bhp.com/sites/default/files/styles/large/public/20230715_171443.jpg",
-      "publishedAt": "2023-08-02T05:05:00Z",
-      "content": "BHPian CarManMotorcycl recently shared this with other enthusiasts.\r\nHi all, after a long time of deciding on what car to buy from thinking of going for the Suzuki Brezza to a Toyota Hyryder because … [+2077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Tech Desk",
-      "title": "Adobe, Apple, Autodesk, Nvidia, and Pixar come together to promote and develop OpenUSD 3D standard - The Indian Express",
-      "description": "USD is an open-source software platform used for creating 3D scenes and is built to meet the needs of large scale projects.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/adobe-apple-autodesk-nvidia-and-pixar-come-together-to-promote-and-develop-openusd-3d-standard-8872485/",
-      "urlToImage": "https://images.indianexpress.com/2023/08/aousd.jpg",
-      "publishedAt": "2023-08-02T04:37:34Z",
-      "content": "Adobe, Apple, Autodesk, Nvidia, and Pixar have joined forces to promote OpenUSD 3D format under the Joint Development Foundation (JDF), an affiliate of the Linux Foundation. Alliance for Open Univers… [+1758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Sucharita Ganguly, Siddharth Suvarna",
-      "title": "Lenovo LOQ Gaming Laptops With Up to 13th Gen Intel Core i7 CPU, Nvidia GeForce RTX 4060 GPU Debut in Ind... - Gadgets 360",
-      "description": "Lenovo LOQ gaming laptop series were launched in India on Tuesday. The laptops sport a 15.6-inch WQHD IPS display and comes with dual 8GB DDR5 RAM and 512GB of SSD storage. They are powered with up to a 13th Intel Core i7 or AMD Ryzen 7000 series CPUs, paired…",
-      "url": "https://www.gadgets360.com/laptops/news/lenovo-loq-15-16-price-in-india-rs-78990-launch-sale-date-august-2-specifications-features-4259118",
-      "urlToImage": "https://i.gadgets360cdn.com/large/lenovo_loq_15irh8_lenovo_1690888961264.jpg",
-      "publishedAt": "2023-08-02T03:50:59Z",
-      "content": "Lenovo LOQ gaming laptop series was launched in India on Tuesday. The laptops come with up to 16GB of DDR5 RAM and 512GB of SSD storage. The LOQ lineup is powered by up to 13th Gen Intel Core or AMD … [+3103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "BGMI redeem codes for August 2: How to unlock exclusive in-game items for free | Mint - Mint",
-      "description": "BGMI (Battlegrounds Mobile India) redeem codes provide players with free in-game items without spending money. Players can follow steps on the official website to redeem codes and collect prizes.",
-      "url": "https://www.livemint.com/technology/tech-news/bgmi-redeem-codes-for-august-2-how-to-unlock-exclusive-in-game-items-for-free-11690945966228.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/02/600x338/bgmi_1686885810032_1690946516662.webp",
-      "publishedAt": "2023-08-02T03:22:13Z",
-      "content": "BGMI (Battlegrounds Mobile India) quickly rose to prominence in India after the ban on PUBG Mobile. Despite facing its own ban, the Indian government decided to allow BGMI back into the country with … [+1979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Garena Free Fire Max redeem codes for Aug 02, 2023: Get weapons, diamonds, more | Mint - Mint",
-      "description": "Garena Free Fire Max redeem codes offer in-game items like weapons, diamonds, and skins. Codes are updated daily and have limited availability.",
-      "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-aug-02-2023-get-weapons-diamonds-more-11690945511651.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/02/600x338/Garena_Free_Fire_Max_1686545079791_1690945725675.webp",
-      "publishedAt": "2023-08-02T03:09:01Z",
-      "content": "Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more. These 12 digit alphanumeric codes consist of capital letters and numbers. For those unaware,… [+1824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Daniel R Deakin",
-      "title": "Nintendo Switch 2: LCD screen shocker for launch, new 2024 release date, PixArt provides clarification - Notebookcheck.net",
-      "description": "A new report about the Nintendo Switch 2 has been published suggesting the next-generation hybrid console could be launched sporting an LCD screen. In addition, another Switch 2 release date timeframe has been offered and PixArt Imaging has provided clarifica…",
-      "url": "https://www.notebookcheck.net/Nintendo-Switch-2-LCD-screen-shocker-for-launch-new-2024-release-date-PixArt-provides-clarification.737916.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Nintendo-Switch-2-rumors-2024-drdNBC.jpg",
-      "publishedAt": "2023-08-02T01:45:20Z",
-      "content": "Public Information Observatory Major Information Announcement\r\n(3227) PixArt - Clarification Media and Website Reports\r\n1. Date of occurrence: 112/08/012. Company name: PixArt Technology Co., Ltd. 3.… [+2532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Khayl Adam",
-      "title": "Diablo 4's Dev Is Hiring a Season Lead Designer After a Disastrous First Effort - Push Square",
-      "description": "Better late than never",
-      "url": "https://www.pushsquare.com/news/2023/08/diablo-4s-dev-is-hiring-a-season-lead-designer-after-a-disastrous-first-effort",
-      "urlToImage": "https://images.pushsquare.com/106b06dea8144/1280x720.jpg",
-      "publishedAt": "2023-08-02T01:00:00Z",
-      "content": "It's already Wednesday, and we haven't had any Diablo 4 drama this week (in fact, we got some good Treasure Goblin-related news). Not that this exactly counts, but Blizzard is hiring (or has already … [+990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameshub.com"
-      },
-      "author": null,
-      "title": "New Xbox Game Pass Titles for August 2023 include several excellent indies - GamesHub",
-      "description": "The new arrivals on the Xbox Game Pass subscription service include the excellent Celeste, Limbo, A Short Hike, and Broforce Forever",
-      "url": "https://www.gameshub.com/news/news/new-xbox-game-pass-games-august-2023-2625458/",
-      "urlToImage": "https://www.gameshub.com/wp-content/uploads/sites/5/2023/08/celeste.jpg",
-      "publishedAt": "2023-08-02T00:11:35Z",
-      "content": "Microsoft has announced the first wave of games arriving (and leaving) its Xbox Game Passsubscription service in August 2023. Among them are several exceptional independent games worthy of being call… [+5241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Matt Wales",
-      "title": "Remnant 2 has a secret class its developer deliberately hid for dataminers to find - Eurogamer.net",
-      "description": "Remnant 2 is doing alright for itself; not only has the Souls-esque procedural shooter secured some extremely positive …",
-      "url": "https://www.eurogamer.net/remnant-2-has-a-secret-class-its-developer-deliberately-hid-for-data-miners-to-find",
-      "urlToImage": "https://assetsio.reedpopcdn.com/scka8b.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-08-01T23:49:19Z",
-      "content": "Remnant 2 is doing alright for itself; not only has the Souls-esque procedural shooter secured some extremely positive reviews, it's also selling well too; and amid all the general positivity around … [+3107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Larian Studios Hints at When Baldur's Gate 3 Will Come to Xbox - IGN Daily Fix - IGN",
-      "description": "On today's Daily Fix:It may be a while before we see Baldur's Gate 3 on Xbox. Five games are coming to Xbox Game Pass. Finally, if you have a broken Xbox Wir...",
-      "url": "https://www.youtube.com/watch?v=plVK4GcBDi8",
-      "urlToImage": "https://i.ytimg.com/vi/plVK4GcBDi8/maxresdefault.jpg",
-      "publishedAt": "2023-08-01T23:35:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Katyanna Quach",
-      "title": "Google wants to 'supercharge Assistant' with AI as Meta gives bots a personality - The Register",
-      "description": "Does that include Zuck or?",
-      "url": "https://www.theregister.com/2023/08/01/google_meta_ai_chatbots/",
-      "urlToImage": "https://regmedia.co.uk/2023/08/01/assistant_shutterstock.jpg",
-      "publishedAt": "2023-08-01T23:05:00Z",
-      "content": "The chatbot craze isn't slowing any time soon. Google is understood to be injecting generative AI features into its digital assistant. Meanwhile Meta is said to be planning to launch virtual agents w… [+2509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SC Magazine"
-      },
-      "author": "SC Staff",
-      "title": "Fraudulent Android chat app leveraged in new Bahamut attack - SC Media",
-      "description": "Fraudulent Android chat app leveraged in new Bahamut attack New social engineering attacks by Indian advanced persistent threat group Bahamut have involved the fraudulent Android chat app SafeChat to facilitate a version of the CoverIm spyware aimed at exfilt…",
-      "url": "https://www.scmagazine.com/brief/fraudulent-android-chat-app-leveraged-in-new-bahamut-attack",
-      "urlToImage": "https://www.scmagazine.com/images/fallback-image.png",
-      "publishedAt": "2023-08-01T22:18:03Z",
-      "content": "Apple released several new security updates Monday for vulnerabilities affecting its iOS, iPadOS, macOS, tvOS and watchOS, including one CVE that may have been actively exploited in devices running a… [+29 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Porsche.com"
-      },
-      "author": null,
-      "title": "The new Porsche 911 S/T: purist special-edition model marks 60th anniversary of the 911 - Porsche Newsroom",
-      "description": "Porsche is celebrating the 60th anniversary of the 911 with a special edition built for maximum driving enjoyment: in a limited run of 1,963 examples, the Porsche 911 S/T offers lightweight design and a purist driving experience.",
-      "url": "https://newsroom.porsche.com/en/2023/products/porsche-911-s-t-world-premiere-60-years-911-33363.html",
-      "urlToImage": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/pnr/2023/Products/911-S-T/Titel.jpg/jcr:content/Titel.jpg",
-      "publishedAt": "2023-08-01T22:11:27Z",
-      "content": "To mark the special anniversary of the iconic 911 sports car, the engineers in Weissach have designed a highly purist sports car dedicated to sheer driving enjoyment: the 911 S/T. The exclusive anniv… [+6336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AL.com"
-      },
-      "author": "Josie Howell | jhowell@al.com",
-      "title": "Walmart is offering markdowns on AirPods Pro, AirPods Max this week - AL.com",
-      "description": "Walmart is offering special discounts on its Apple AirPods this week.",
-      "url": "https://www.al.com/shopping/2023/08/walmart-is-offering-markdowns-on-airpods-pro-airpods-max-this-week.html",
-      "urlToImage": "https://www.al.com/resizer/dgdVzelwvEfiLEjmWbd17EdGn7g=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BJISJAIQ3BBG3GE4K4KMXFX7XY.jpg",
-      "publishedAt": "2023-08-01T21:57:00Z",
-      "content": "Those who are on the hunt for a new pair of Apple AirPods Pro (2nd Generation) or over-the-ear Apple AirPods Max headphones can get them on sale at Walmart.com this week.\r\nThe Apple AirPods Pro (2nd … [+1264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Strange Liquid Cooler from AliExpress | Alseye Infinite i360 Dual-Pump AIO - Gamers Nexus",
-      "description": "Sponsor: Phanteks G300A Mesh Mid-Tower Case on Amazon https://geni.us/2i3nqpEThe Alseye Infinite (or Infinity, depending on which page you visit) i360 liquid...",
-      "url": "https://www.youtube.com/watch?v=IpTV6-d2tnQ",
-      "urlToImage": "https://i.ytimg.com/vi/IpTV6-d2tnQ/maxresdefault.jpg",
-      "publishedAt": "2023-08-01T21:51:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Will Judd",
-      "title": "Ludicrously, Ebay USA's Back To School sale includes 20% off this $999 LG OLED 240Hz gaming monitor - Rock Paper Shotgun",
-      "description": "Somehow, LG's 240Hz OLED gaming monitor, MSRP $999, is part of Ebay's Back To School sale, bringing it to an all-time low price of $718.",
-      "url": "https://www.rockpapershotgun.com/ludicrously-ebay-usas-back-to-school-sale-includes-20-off-this-999-lg-oled-240hz-gaming-monitor",
-      "urlToImage": "https://assetsio.reedpopcdn.com/27GR95QE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2023-08-01T21:47:21Z",
-      "content": "When I was a kid growing up in rural New Mexico, I dreaded the first day of school. I had to give up whole days of biking in the desert with my brother and playing video games, sure, but the real pro… [+3076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chandraveer Mathur",
-      "title": "YouTube Shorts is getting collabs, interactive stickers, and powerful new tools for creators - Android Police",
-      "description": "Borrowing pages from Instagram and TikTok playbooks",
-      "url": "https://www.androidpolice.com/youtube-shorts-new-creator-tools/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/youtube-ap-hero-2-1.jpg",
-      "publishedAt": "2023-08-01T21:21:00Z",
-      "content": "Content comes in all formats today, and YouTube was among the first few social media platforms to join the short-form video fad with Shorts, alongside the likes of Instagram Reels and TikTok. However… [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Tim",
-      "title": "AI Coming to Google Assistant - Droid Life",
-      "description": "An internal email sent by Google VP Peeyush Ranjan and director of product Duke Dukellis lays out work the company is beginning to combine artificial intelligence (AI) and Google Assistant. The work is said to have already started for Assistant on mobile, and…",
-      "url": "https://www.droid-life.com/2023/08/01/google-moves-internally-to-incorporate-ai-into-google-assistant/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2021/03/Pixel-5-Google-Assistant-2-600x315-cropped.jpg",
-      "publishedAt": "2023-08-01T21:18:49Z",
-      "content": "An internal email sent by Google VP Peeyush Ranjan and director of product Duke Dukellis lays out work the company is beginning to combine artificial intelligence (AI) and Google Assistant. The work … [+1246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Florence Ion",
-      "title": "OnePlus Open Foldable Phone Delayed for Samsung Display Upgrade - Gizmodo",
-      "description": "The OnePlus Open might use similar display technology as the Galaxy Z Fold, Google Pixel Fold, and Motorola Razr+.",
-      "url": "https://gizmodo.com/oneplus-open-foldable-phone-delay-samsung-display-1850697185",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5d7a9dd728daf5500d8378cc79b89704.jpg",
-      "publishedAt": "2023-08-01T20:48:58Z",
-      "content": "The summer of foldables may be over before we even see a release from Androids third-best brand, OnePlus. The company is reportedly delaying its folding smartphone debut due to dissatisfaction with i… [+1911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Alan Friedman",
-      "title": "Galaxy S24 and S24+ tipped to finally get an \"Ultra\" feature that can save battery life - PhoneArena",
-      "description": "Tipster Ice Universe says to expect thinner bezels and an LTPO display on the Galaxy S24 and S24+ screens next year.",
-      "url": "https://www.phonearena.com/news/s24-ltpo-display_id149396",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/149396-wide-two_1200/Galaxy-S24-and-S24-tipped-to-finally-get-an-Ultra-feature-that-can-save-battery-life.jpg",
-      "publishedAt": "2023-08-01T20:40:30Z",
-      "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Heather and Mary chat about the potential dangers of sharing your kids' photos online - CBS Pittsburgh",
-      "description": "An ad campaign by a German telecommunications company wants parents to know the potential dangers of sharing photos of your kids online. Heather and Mary tal...",
-      "url": "https://www.youtube.com/watch?v=Tv8VhjSMbBE",
-      "urlToImage": "https://i.ytimg.com/vi/Tv8VhjSMbBE/maxresdefault.jpg",
-      "publishedAt": "2023-08-01T20:31:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Polygon",
-      "title": "When will Baldur’s Gate 3 come out on Xbox Series X and S? - Polygon",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnBvbHlnb24uY29tLzIzODE1OTA2L2JhbGR1cnMtZ2F0ZS0zLXhib3gtcmVsZWFzZS1kYXRlLXNlcmllcy1zLXjSAVlodHRwczovL3d3dy5wb2x5Z29uLmNvbS9wbGF0Zm9ybS9hbXAvMjM4MTU5MDYvYmFsZHVycy1nYXRlLTMteGJveC1yZWxlYXNlLWRhdGUtc2VyaWVzLXMteA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-08-01T20:03:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decrypt"
-      },
-      "author": "Jason Nelson",
-      "title": "Hackers Keep Finding New and Sophisticated Ways to Use AI for Crime - Decrypt",
-      "description": "Cybersecurity firm SlashNext sounds the alarm as exploits get much more sophisticated.",
-      "url": "https://decrypt.co/150899/wormgpt-fraudgpt-ai-hackers-phishing-malware",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/hackers-shutterstock-gID_7.png",
-      "publishedAt": "2023-08-01T20:02:53Z",
-      "content": "AI-generated cybercrime is rapidly expanding, accelerated by the launch of several new tools on the darkweb beyond the discovery of WormGPT last month, according to a new report released on Tuesday b… [+3541 chars]"
+      "author": "Mark Sparrow",
+      "title": "Keychron Offers First Keyboard From New Lemokey Gaming Division On Kickstarter - Forbes",
+      "description": "The gaming keyboard market is booming right now. The latest sub-brand from this corner of the peripherals market comes from Keychron and its Lomokey division.",
+      "url": "https://www.forbes.com/sites/marksparrow/2023/08/02/keychron-offers-first-keyboard-from-new-lemokey-gaming-division-on-kickstarter/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ca06b2821236b6e642dcd1/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-02T13:00:23Z",
+      "content": "The new Lemokey L3 is designed with gamers in mind and is packed with features aimed at giving users ... [+] the edge in competitive games.\r\nKeychron\r\nLeading computer keyboard manufacturer, Keychron… [+6180 chars]"
     }
   ]
 }
