@@ -1,123 +1,825 @@
 {
   "status": "ok",
-  "totalResults": 121,
+  "totalResults": 94,
   "articles": [
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Washington Post",
-      "title": "Winning lottery numbers: $1.58 billion Mega Millions jackpot ticket sold - The Washington Post - The Washington Post",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMy8wOC8wOS9tZWdhLW1pbGxpb25zLWphY2twb3Qtd2lubmVyLWJpbGxpb24v0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-08-09T06:30:06Z",
-      "content": null
-    },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
       "author": "https://www.facebook.com/bbcnews",
-      "title": "US Supreme Court restores Biden 'ghost gun' rules - for now - BBC",
-      "description": "The top court has allowed the rules - meant to rein in ghost guns - to remain during an appeal process.",
-      "url": "https://www.bbc.com/news/world-us-canada-66365642",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/140E0/production/_130644128_ghostgunkit.jpg",
-      "publishedAt": "2023-08-09T06:26:57Z",
-      "content": "Restrictions on untraceable \"ghost guns\" in the US will remain in place, while the White House appeals against a court ruling which prevented them being classified as a firearm.\r\nIn July, a Texas cou… [+2752 chars]"
+      "title": "Issue 1: Ohio vote delivers win for abortion rights supporters - BBC",
+      "description": "A vote to raise the bar to amend Ohio's constitution became a battle over abortion rights in the state.",
+      "url": "https://www.bbc.com/news/world-us-canada-66442370",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7197/production/_130697092_ohio_976reu.jpg",
+      "publishedAt": "2023-08-09T20:13:09Z",
+      "content": "Ohio has rejected a Republican-crafted constitutional amendment, widely seen as an attempt to derail a coming referendum to protect abortion rights.\r\nTuesday's vote was over a measure called Issue 1,… [+4062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Alex Harring, Sarah Min",
+      "title": "Stock market today: Live updates - CNBC",
+      "description": "Investors are coming off a down session for the major averages Tuesday.",
+      "url": "https://www.cnbc.com/2023/08/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107284160-1691612067767-aa7_img_100_99_112_1957665_1000-1691611982352.jpg?v=1691612201&w=1920&h=1080",
+      "publishedAt": "2023-08-09T20:04:00Z",
+      "content": "Those moves precede a much-anticipated U.S. inflation report, with July's reading of the consumer price index slated for release Thursday.\r\nInvestors have kept an eye on the index in recent months fo… [+1507 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "FABIANO MAISONNAVE, DAVID BILLER",
+      "title": "Brazil's Amazon Summit ends with a plan to protect the world's rainforests, but no measurable goals - The Associated Press",
+      "description": "Brazil’s Amazon Summit has come to a close with a roadmap to protect tropical rainforests that has been welcomed as an important step in countering climate change. But it did not include any of the concrete commitments to end deforestation sought by some envi…",
+      "url": "https://apnews.com/article/amazon-deforestation-brazil-climate-change-summit-314d7127864fbb6e709c1ffa0fab0b3e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6525c15/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2F16%2F343329dc409ebfc67001bc8229a8%2F01956d934e2443a6b91b0147e5e64a3f",
+      "publishedAt": "2023-08-09T20:01:00Z",
+      "content": "BELEM, Brazil (AP) Brazils Amazon Summit closed Wednesday with a roadmap to protect tropical rainforests that was welcomed as an important step in countering climate change, but without the concrete … [+6378 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Cara Tabachnick, Pat Milton",
+      "title": "Man killed during FBI raid in Utah posted threats online against Biden, sources say - CBS News",
+      "description": "FBI agents were attempting to serve an arrest and search warrant in Provo, Utah, officials said.",
+      "url": "https://www.cbsnews.com/news/fbi-shooting-death-provo-utah/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/03/21da2444-0f64-4d8d-a70d-15c6f25bd25a/thumbnail/1200x630/fcd88539e5be7e1415e430b8ffb7e2c6/gettyimages-1242409189.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
+      "publishedAt": "2023-08-09T19:43:00Z",
+      "content": "A man was shot and killed during an FBI raid early Wednesday morning in Utah, the FBI confirmed to CBS News.  Special agents attempted to serve arrest and search warrants at a residence in Provo at 6… [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Chris Morris",
+      "title": "Robbie Robertson, Leader of The Band, Dies at 80 - Variety",
+      "description": "Guitarist-songwriter-singer Robbie Robertson, who led the Canadian-American group the Band to rock prominence in the 1970s and worked extensively with Bob Dylan and Martin Scorsese, has died. He wa…",
+      "url": "https://variety.com/2023/music/news/robbie-robertson-dead-the-band-1235692172/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1268665989-e1691605179935.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-08-09T19:37:00Z",
+      "content": "Guitarist-songwriter-singer Robbie Robertson, who led the Canadian-American group the Band to rock prominence in the 1970s and worked extensively with Bob Dylan and Martin Scorsese, has died. He was … [+18040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Keren Landman",
+      "title": "Weight loss drug Wegovy reduces risk of serious heart disease, new trial finds - Vox.com",
+      "description": "A clinical trial suggests the popular diabetes and weight loss drug semaglutide (branded as Wegovy and Ozempic) reduced the risk of serious heart problems by 20 percent.",
+      "url": "https://www.vox.com/health/23826023/wegovy-ozempic-heart-disease-attack-stroke-death-lower-risk-diabetes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9Qx4bjG5WTDe9A8WOKmQDKxxVLg=/0x253:3524x2098/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24840267/1581640187.jpg",
+      "publishedAt": "2023-08-09T19:20:00Z",
+      "content": "Diseases involving the heart and blood vessels are the leading cause of death globally and in the US. So anything that helps reduce deaths due to cardiovascular disease is a cause for celebration, wh… [+9541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Russian cosmonauts conduct spacewalk aboard ISS - Associated Press",
+      "description": "(9 Aug 2023) Russian cosmonauts venture outside the International Space Station to attach debris shields to the Rassvet module. Subscribe for more Breaking N...",
+      "url": "https://www.youtube.com/watch?v=uQKuP7nGkfE",
+      "urlToImage": "https://i.ytimg.com/vi/uQKuP7nGkfE/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T19:06:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Atlas Fallen | Review in 3 Minutes - The Escapist",
+      "description": "Join our Patreon for a week of Early Access to all of our Premium video series including Zero Punctuation, Cold Take, Extra Punctuation, Adventure is Nigh an...",
+      "url": "https://www.youtube.com/watch?v=eheaNohYNp4",
+      "urlToImage": "https://i.ytimg.com/vi/eheaNohYNp4/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T18:49:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Pierre Bairin, Joshua Berlinger",
+      "title": "11 killed in fire at French vacation home hosting people with disabilities - CNN",
+      "description": "Eleven people were killed when a fire tore through a pair of attached vacation homes hosting people with disabilities in an eastern French town early Wednesday morning.",
+      "url": "https://www.cnn.com/2023/08/09/europe/france-fire-holiday-home-disabled-people-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809050029-01-france-fire-intl.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-09T18:42:00Z",
+      "content": "Eleven people were killed when a fire tore through a pair of attached vacation homes hosting people with disabilities in an eastern French town early Wednesday morning.\r\nThe tragedy rattled French so… [+3130 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Sen. Dianne Feinstein, 90, falls at home and goes to hospital, but scans are clear, her office says - The Associated Press",
+      "description": "Senate Majority Leader Chuck Schumer says he spoke with Sen. Dianne Feinstein after she fell in her home and went to the hospital for a short time. Schumer says the 90-year-old Democratic California senator told him she suffered no injuries and went to the ho…",
+      "url": "https://apnews.com/article/dianne-feinstein-fall-hospital-31a1358e1c25839b45bb699d83c75d58",
+      "urlToImage": "https://dims.apnews.com/dims4/default/74e26e7/2147483647/strip/true/crop/4424x2489+0+230/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F58%2F64ca8cbf3006eb693b7f2f60cc68%2F6e246767ef7540e4bc245547779a3ac7",
+      "publishedAt": "2023-08-09T18:33:00Z",
+      "content": "WASHINGTON (AP) U.S. Sen. Dianne Feinstein, the oldest member of Congress, fell in her home and went to a hospital for a short time, her office said on Wednesday.\r\nThe 90-year-old California Democrat… [+3485 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Jenna Laine",
+      "title": "Bucs' Mike Evans says Johnny Manziel 'noble' to detail struggles - ESPN - ESPN",
+      "description": "Bucs receiver Mike Evans said he was aware of Johnny Manziel addressing his mental health but didn't know the former QB had attempted suicide.",
+      "url": "https://www.espn.com/nfl/story/_/id/38162716/bucs-mike-evans-says-johnny-manziel-noble-detail-struggles",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0827%2Fnfl_g_evans%2Dmanziel01jr__r4545_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-08-09T18:14:00Z",
+      "content": "TAMPA, Fla. -- Tampa Bay Buccaneers wide receiver Mike Evans said Wednesday that although he knew Johnny Manziel had been addressing his mental health, he hadn't been aware of the degree of his forme… [+2826 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Hannah Demissie",
+      "title": "Gov. Ron DeSantis suspends second state prosecutor, Monique Worrell - ABC News",
+      "description": "Last year, Gov. DeSantis suspended state prosecutor, Andrew Warren.",
+      "url": "https://abcnews.go.com/Politics/gov-ron-desantis-suspends-state-prosecutor-monique-worrell/story?id=102130647",
+      "urlToImage": "https://s.abcnews.com/images/Politics/ron-desantis-2-gty-bb-230809_1691587964535_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-08-09T17:59:16Z",
+      "content": "Florida Gov. Ron DeSantis announced Wednesday morning that he is suspending the state attorney for Orlando, Monique Worrell, effective immediately. This marks the second time in a year that DeSantis … [+4430 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Sports Desk",
+      "title": "Asian Champions Trophy Hockey: India knock out Pakistan with 4-0 win, finish as table toppers in group stage - India Today",
+      "description": "India defeated Pakistan 4-0 in their Asian Champions Trophy clash on Wednesday (August 9) to finish as table toppers at the Mayor Radhakrishnan Hockey Stadium in Chennai.",
+      "url": "https://www.indiatoday.in/sports/hockey/story/asian-champions-trophy-hockey-india-knock-out-pakistan-with-4-0-win-finish-as-table-toppers-in-group-stage-2418738-2023-08-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/act-2023-india-beat-pakistan-4-0-to-finish-as-table-toppers-in-group-stage-pti-photo-094307-16x9.jpg?VersionId=q5txNbZf3RNVZB_LsoTbEe_XeHN3o9xp",
+      "publishedAt": "2023-08-09T17:59:10Z",
+      "content": "Skipper Harmanpreet Singh scored twice as India defeated arch-rivals Pakistan 4-0 in their final round-robin league match here on Wednesday to advance to the semifinals unbeaten. India now leads the … [+2395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGME"
+      },
+      "author": "Meteorologist Emily Santom, WGME",
+      "title": "Mark your calendars: Annual Perseid meteor shower to light up Maine's sky this weekend - WGME",
+      "description": "Mainers should watch the sky on Saturday night and into early Sunday morning for the yearly Perseid meteor shower.",
+      "url": "https://wgme.com/news/local/mark-your-calendars-annual-perseid-meteor-shower-light-up-maines-sky-this-weekend-august",
+      "urlToImage": "https://wgme.com/resources/media/e92f01dd-3206-4d4a-9f6f-18916b417af4-large16x9_perseidmeteorshowerin2018.jpg?1660230760328",
+      "publishedAt": "2023-08-09T17:47:39Z",
+      "content": "by Meteorologist Emily Santom, WGME\r\nWed, August 9th 2023, 5:47 PM UTC"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "The Continental is at capacity in new trailer for Peacock's John Wick prequel series - The Verge",
+      "description": "Peacock’s John Wick spinoff series The Continental — out September 22nd — introduces a newer yet older generation of hotel-bound assassins.",
+      "url": "https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/irEenoHFGmPlcm5JK-EVKp1nbRc=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24840011/NUP_201626_00008.jpeg",
+      "publishedAt": "2023-08-09T17:30:38Z",
+      "content": "The Continental is at capacity in new trailer for Peacocks John Wick prequel series\r\nThe Continental is at capacity in new trailer for Peacocks John Wick prequel series\r\n / The latest trailer for Pea… [+2199 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Julianne McShane, Char Adams, Mary Godie",
+      "title": "Two suspects in Montgomery riverfront brawl haven't turned themselves in, police say - NBC News",
+      "description": "Two of the three suspects facing misdemeanor assault charges related to the Montgomery riverfront brawl have yet to turn themselves in to police, a police spokesperson told NBC News.",
+      "url": "https://www.nbcnews.com/news/crime-courts/montgomery-riverfront-brawl-suspects-have-not-turned-themselves-in-rcna99036",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230808-wsfa-boat-brawl-ew-246p-f3377a.jpg",
+      "publishedAt": "2023-08-09T17:27:53Z",
+      "content": "Two of the three suspects facing misdemeanor assault charges after a group of white men attacked a Black dockworker in a brawl on the Montgomery riverfront have yet to turn themselves in to police as… [+2500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Ethan Shanfeld",
+      "title": "Lil Tay, Teen Internet Rapper, Has Died - Variety",
+      "description": "Claire Hope, the Canadian pre-teen internet rapper known as Lil Tay, has died, her management confirmed in a statement to Variety. “It is with a heavy heart that we share the devastating news…",
+      "url": "https://variety.com/2023/music/news/lil-tay-dead-instagram-rapper-1235692008/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/08/Lil-Tay-Obit-Dead.jpg?w=1000&h=518&crop=1",
+      "publishedAt": "2023-08-09T17:13:00Z",
+      "content": "Claire Hope, the Canadian pre-teen internet rapper known as Lil Tay, has died, her management confirmed in a statement to Variety.\r\n“It is with a heavy heart that we share the devastating news of our… [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Chandrayaan 3 Inches Closer To Moon | India's Space Mission Full Throttle | NewsX - NewsX",
+      "description": "Chandrayaan 3 is getting closer to the moon with only about a thousand km left to travel. The spacecraft was placed in the next lunar bound orbit manoeuvre b...",
+      "url": "https://www.youtube.com/watch?v=_zPAFVPukng",
+      "urlToImage": "https://i.ytimg.com/vi/_zPAFVPukng/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T17:06:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WABC-TV"
+      },
+      "author": null,
+      "title": "EG5 now dominant COVID variant in US. Here's what to know - WABC-TV",
+      "description": "CDC data shows EG.5 makes up an estimated 17.3% of cases.",
+      "url": "https://abc7ny.com/new-covid-variant-eg5-omicron-cdc/13619914/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12680339_010923-cc-ap-covid-test-img.jpeg?w=1600",
+      "publishedAt": "2023-08-09T17:05:16Z",
+      "content": "A new variant now makes up a plurality of COVID-19 cases in the United States, federal data shows.\r\nEG.5, an offshoot of the omicron variant and descendant of the XBB strain, has been circulating in … [+3320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Brody Miller",
+      "title": "Jay Monahan says medical leave was related to anxiety, remains confident in PGA Tour, PIF deal - The Athletic",
+      "description": "Monahan returned to his duties on July 17 and spoke to reporters Wednesday for the first time since June 6.",
+      "url": "https://theathletic.com/4762448/2023/08/09/jay-monahan-anxiety-pga-tour-pif-deal/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/21134239/Monahan-scaled.jpg",
+      "publishedAt": "2023-08-09T16:57:45Z",
+      "content": "PGA Tour commissioner Jay Monahan said his decision to temporarily step away from his role on June 14 was related to anxiety, which created physical and mental health issues and challenges for him. M… [+3230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Deep-learning technology could help scientists to develop personalized immunotherapies and vaccines - News-Medical.Net",
+      "description": "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response.",
+      "url": "https://www.news-medical.net/news/20230809/Deep-learning-technology-could-help-scientists-to-develop-personalized-immunotherapies-and-vaccines.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+      "publishedAt": "2023-08-09T16:56:00Z",
+      "content": "Deep-learning technology developed by a team of Johns Hopkins engineers and cancer researchers can accurately predict cancer-related protein fragments that may trigger an immune system response. If v… [+6460 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Hindustan Times"
       },
-      "author": "Singh Rahul Sunilkumar",
-      "title": "Meet Chandrayaan-3's Russian competitor. Could reach Moon sooner - Hindustan Times",
-      "description": "Russian space agency Roscosmos set to launch Luna 25 moon mission to the lunar south pole, following India's Chandrayaan-3 mission.",
-      "url": "https://www.hindustantimes.com/technology/meet-chandrayaan-3s-russian-competitor-luna-25-could-reach-moon-sooner-101691478510539.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/08/1600x900/luna_25_1691483136907_1691483152083.png",
-      "publishedAt": "2023-08-09T06:15:00Z",
-      "content": "The Russian space agency, Roscosmos, is all set to launch its moon mission Luna 25 for the lunar south pole in the early hours of Friday, reviving Soviet Union-era lunar exploration.\r\nISRO's Chandray… [+3650 chars]"
+      "author": "HT Entertainment Desk",
+      "title": "Made In Heaven season 2 drops early. Here's where to watch it - Hindustan Times",
+      "description": "Made In Heaven season 2 brings back Sobhita Dhulipala and Arjun Mathur as Tara and Karan. It's out on Prime Video India. | Web Series",
+      "url": "https://www.hindustantimes.com/entertainment/web-series/made-in-heaven-season-2-zoya-akhtar-sobhita-dhulipala-arjun-mathur-101691597598979.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/_55958508-5231-11e9-a540-e59d8ae6a1ea_1691599037654.jpg",
+      "publishedAt": "2023-08-09T16:39:51Z",
+      "content": "The much-awaited series of the month, Made In Heaven Season 2 premiered early as it is now streaming on Prime Video India. Directed by Reema Kagti, Alankrita Shrivastava, Nitya Mehra and Neeraj Ghayw… [+2511 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julia Musto",
+      "title": "Omicron subvariant EG.5 now dominant strain in US, CDC data shows - Fox News",
+      "description": "Recent data from the Centers for Disease Control and Prevention shows the omicron subvariant EG.5 is now the dominant COVID-19 strain in the U.S., replacing XBB.1.16.",
+      "url": "https://www.foxnews.com/health/omicron-subvariant-eg-5-now-dominant-strain-us-cdc-data-shows",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/CDC.jpg",
+      "publishedAt": "2023-08-09T16:28:00Z",
+      "content": "The EG.5 omicron subvariant is now the dominant COVID-19 strain in the U.S., according to data from the Centers for Disease Control and Prevention. \r\nIn projected estimates of variant proportions for… [+2420 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
+        "name": "FOX5 Las Vegas"
       },
-      "author": "Rakesh Patil",
-      "title": "Stock Market LIVE Updates: Sensex down 310 pts, Nifty around 19,500; Varun Beverages, Gland Pharma most active - Moneycontrol",
-      "description": "Sensex Today | Stock Market LIVE Updates: Divis Labs, Hero MotoCorp, Apollo Hospitals, ICICI Bank and HDFC Bank are among the major losers on the Nifty.",
-      "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-09-08-2023-11128481.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Market_down-770x433.jpeg",
-      "publishedAt": "2023-08-09T06:08:30Z",
-      "content": "Gensol Engineering has in the months of July, received a LOI from OREDA for providing 300 electric cehicles with fleet management service on an operatinglease for 5 years.\r\nGensol Engineering Limited… [+287 chars]"
+      "author": null,
+      "title": "Ex-Raiders player Henry Ruggs sentenced in fatal 2021 Las Vegas DUI crash - Fox 5 Las Vegas",
+      "description": "In an August 9 hearing at the Regional Justice Center in downtown Las Vegas, former Raiders wide receiver Henry Ruggs III was sentenced to a minimum of three years and a maximum of ten years in prison after he agreed to plead guilty to a pair of charges follo…",
+      "url": "https://www.fox5vegas.com/2023/08/09/former-raiders-player-ruggs-sentenced-3-10-years-prison-deadly-2021-dui-crash/",
+      "urlToImage": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/XMJO37d4GPtxYiXmQkYMR02RfHg=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2JVFXUMXSFFWZBSW5P65VSQH7E.jpeg",
+      "publishedAt": "2023-08-09T16:19:00Z",
+      "content": "LAS VEGAS, Nev. (FOX5) - In an August 9 hearing at the Regional Justice Center in downtown Las Vegas, former Raiders wide receiver Henry Ruggs III was sentenced to a minimum of three years and a maxi… [+2393 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "123telugu.com"
       },
-      "author": "etimes.in",
-      "title": "It's official: Ranveer Singh is the new 'Don', Farhan Akhtar drops first look of 'Don 3' - WATCH - IndiaTimes",
-      "description": "Shah Rukh Khan isn't a part of Don 3. It was reported that the actor is very careful about his choices and wasn't happy with the script. Moreover, Ran",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-official-ranveer-singh-is-the-new-don-farhan-akhtar-drops-first-look-of-don-3-watch/articleshow/102561937.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-102562011,width-1070,height-580,imgsize-17750,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-08-09T05:55:00Z",
+      "author": null,
+      "title": "Kushi trailer launch-Vijay Deverakonda opens up about his wedding - 123telugu",
+      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+      "url": "https://www.123telugu.com/mnews/kushi-trailer-launch-vijay-deverakonda-opens-up-about-his-wedding.html",
+      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+      "publishedAt": "2023-08-09T16:12:00Z",
+      "content": "Kushi is one of the most awaited films in the career of Vijay Deverakonda as he needs a desperate hit under his belt. The film is all set to release on the 1st of September in a grand manner, the tra… [+770 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan Dinsdale",
+      "title": "PlayStation Plus Games Catalogue Additions for August 2023 Revealed - IGN",
+      "description": "Sony has revealed the PlayStation Plus Games Catalogue line-up for August 2023 includes Destiny 2: The Witch Queen, Sea of Stars, Lost Judgement, and more.",
+      "url": "https://www.ign.com/articles/playstation-plus-games-catalogue-additions-for-august-2023-revealed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/02/25/ss-a1f2969a7770fec1cf83a95d60f578d0b15fb6dd-1645830241581.jpg?width=1280",
+      "publishedAt": "2023-08-09T16:00:47Z",
+      "content": "Sony has revealed the PlayStation Plus Games Catalogue line-up for August 2023, which includes Destiny 2: The Witch Queen, Sea of Stars, Lost Judgement, and more.\r\nAnnounced on the PlayStation Blog, … [+2521 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JENNIFER SINCO KELLEHER",
+      "title": "People in Hawaii flee into ocean to escape wildfires that are burning a popular Maui tourist town - The Associated Press",
+      "description": "Wind-whipped wildfires are racing through parts of Hawaii, burning structures in a historic town on the island of Maui, forcing evacuations and leading some to flee to the relative safety of the ocean, where they were rescued by the Coast Guard. The County of…",
+      "url": "https://apnews.com/article/hawaii-wildfire-maui-dora-winds-ec23c16abfbeb6ba689f1a98263720db",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8b35666/2147483647/strip/true/crop/1339x753+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F4a%2Feeb20f8921d5ad64067f3b32a0b3%2F535d80b24ddc49089034444a114e6795",
+      "publishedAt": "2023-08-09T15:53:00Z",
+      "content": "HONOLULU (AP) Wind-whipped wildfires raced through parts of Hawaii on Wednesday, burning down businesses in a historic town on the island of Maui, forcing evacuations and leading some to flee to the … [+6104 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Matthew Griffin",
+      "title": "Covid-19 Hospitalizations Rose 43% From Late June, First Time This Year - Bloomberg",
+      "description": "Covid-19 hospitalizations are creeping up in the US for the first time this year as extreme heat keeps people indoors and protection against infection fades.",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-09/covid-19-hospitalizations-are-rising-fueled-by-heat-and-waning-protection",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir2GeP5VxsLs/v1/1200x841.jpg",
+      "publishedAt": "2023-08-09T15:50:36Z",
+      "content": "Covid-19 hospitalizations are creeping up in the US for the first time this year as extreme heat keeps people indoors and protection against infection fades. \r\nCovid hospital admissions rose 43% in t… [+276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "EA Sports FC 24 - Official Ultimate Team Deep Dive Trailer - IGN",
+      "description": "EA Sports FC 24 is unveiling new additions and changes to the Ultimate Team system. This deep dive trailer shows off the new ways can compete with more playe...",
+      "url": "https://www.youtube.com/watch?v=z7bxKePZYcY",
+      "urlToImage": "https://i.ytimg.com/vi/z7bxKePZYcY/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T15:41:37Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "NDTV News"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": null,
-      "title": "\"Crossed All Limits Of Humanity\": Sachin Pilot On Bhilwara Rape-Murder - NDTV",
-      "description": "Congress leader Sachin Pilot on Tuesday visited Rajasthan's Bhilwara and said the cruelty with the minor girl who was raped and killed cannot be accepted in any civilised society.",
-      "url": "https://www.ndtv.com/india-news/crossed-all-limits-of-humanity-sachin-pilot-on-bhilwara-rape-murder-4282051",
-      "urlToImage": "https://c.ndtvimg.com/2023-07/lcapkrbg_sachin-pilot_625x300_08_July_23.jpg",
-      "publishedAt": "2023-08-09T05:52:55Z",
-      "content": "The Congress leader met the victim's relatives spoke to police on the probe\r\nBhilwara (Rajasthan): Congress leader Sachin Pilot on Tuesday visited Rajasthan's Bhilwara and said the cruelty with the m… [+1541 chars]"
+      "author": "Khaled Wassef",
+      "title": "Iraq bans the word \"homosexual\" on all media platforms and offers an alternative - CBS News",
+      "description": "The decision was made to safeguard societal values and public order, the country's communications commission said.",
+      "url": "https://www.cbsnews.com/news/iraq-ban-word-homosexual-on-all-media-platforms-offers-alternative/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/345ad25d-59de-4bf0-9ac9-2ab83b6aeb44/thumbnail/1200x630/69b0d3ead7ef436d1af011541a7f701d/iraq-lgbtq-1275731139.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
+      "publishedAt": "2023-08-09T15:39:54Z",
+      "content": "Iraq's Media and Communications Commission has issued a directive instructing all media and social media platforms in the country to refrain from using the terms \"homosexual\" or \"homosexuality\" and i… [+2491 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "GSMArena.com"
       },
-      "author": null,
-      "title": "Australian Mystery Fossil Identified After 30 Years Of Research - NDTV",
-      "description": "A mystery fossil accidentally unearthed by an Australian chicken farmer in the 1990s has finally been identified as a stout amphibian with tusks and \"gnarly teeth\", scientists said Wednesday.",
-      "url": "https://www.ndtv.com/world-news/australian-mystery-fossil-identified-after-30-years-of-research-4282036",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/0jhc51og_research-generic_625x300_03_September_22.jpg",
-      "publishedAt": "2023-08-09T05:47:01Z",
-      "content": "The fossil was found in the mid 1990s near the seaside town of Umina Beach\r\nSydney: A mystery fossil accidentally unearthed by an Australian chicken farmer in the 1990s has finally been identified as… [+2171 chars]"
+      "author": "Peter",
+      "title": "Galaxy Z Flip5 trounces Razr 40 Ultra in fold test, surpasses Samsung's official claims - GSMArena.com news - GSMArena.com",
+      "description": "Samsung says that the Z Flip5 has been tested to 200,000 folds, but the phone phone doubled that in a multi-day test against its Motorola-made competitor.",
+      "url": "https://www.gsmarena.com/galaxy_z_flip5_trounces_razr_40_ultra_in_fold_test_surpasses_samsungs_official_claims-news-59493.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/galaxy-z-flip-5-vs-razr-40-ultra-fold-test/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2023-08-09T15:31:01Z",
+      "content": "Several days later and after over 400,000 folds, the Great Folding Test Vol. II is finally over. YouTube channel Mrkeybrd showed a multi-day livestream during which the Samsung Galaxy Z Flip5 went he… [+1395 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Natureasia.com"
       },
-      "author": "Nikhil Agarwal",
-      "title": "Adani Wilmar shares drop 5% as Adani mulls stake sale - The Economic Times",
-      "description": "A possible stake sale of its 44% holding in Adani Wilmar will help Adani Group free up capital for its core businesses, Bloomberg reported last night saying that Wilmar, the Singapore-headquartered food conglomerate co-founded by billionaire Kuok Khoon Hong i…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-wilmar-shares-drop-5-as-adani-mulls-stake-sale/articleshow/102560506.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102560514,width-1070,height-580,imgsize-9970,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-08-09T05:12:00Z",
-      "content": "Following a report that embattled billionaire Gautam Adani is considering selling a stake in Adani Wilmar, which sells Fortune brand of edible oils, shares of the FMCG company fell up to 4.8% on Wedn… [+1881 chars]"
+      "author": null,
+      "title": "環境：温暖化の状況下でサンゴ礁を支える陸と海での総合的な保全活動 | Nature | Nature Portfolio - natureasia.com",
+      "description": "Nature Publishing Group will be familiar to scientists and those interested in science in the Asia-Pacific region as a publisher of high impact scientific and medical information in print and online. NPG publishes journals, online databases, and services acro…",
+      "url": "http://www.natureasia.com/ja-jp/research/highlight/14606",
+      "urlToImage": null,
+      "publishedAt": "2023-08-09T15:24:01Z",
+      "content": "© 2023 Springer Nature Japan K.K. All rights reserved."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Dev Chatterjee",
+      "title": "Tata Sons Chairman Chandrasekaran earns Rs 113 cr as FY23 remuneration - Business Standard",
+      "description": "With this, Chandra has emerged as one of the highest-paid chief executive officers (CEO) in Corporate India for FY23",
+      "url": "https://www.business-standard.com/companies/people/tata-sons-chairman-chandrasekaran-earns-rs-113-cr-as-fy23-remuneration-123080900301_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/07/full/1649332862-9014.jpg",
+      "publishedAt": "2023-08-09T15:23:31Z",
+      "content": "Tata Sons said it is registered as a Core Investment Company with the Reserve Bank of India and has transferred Rs 4,426.50 crore in FY23 to a special reserve created as per law."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Blayne Alexander, Charlie Gile, Michael Mitsanas, Dareh Gregorian, Jacob Taylor",
+      "title": "Georgia prosecutor expected to present Trump election case to grand jury next week - NBC News",
+      "description": "Fulton County DA Fani Willis, who is investigating Donald Trump‘s alleged 2020 election efforts in Georgia, is expected to present her case to a grand jury next week.",
+      "url": "https://www.nbcnews.com/politics/donald-trump/georgia-da-expected-present-trump-election-case-grand-jury-week-rcna98972",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230809-donald-trump-mjf-1010-159038.jpg",
+      "publishedAt": "2023-08-09T15:19:29Z",
+      "content": "ATLANTA Fulton County District Attorney Fani Willis, who is investigating former President Donald Trump's alleged efforts to overturn his election loss in Georgia, is expected to present her case to … [+3318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "LIVE: Russian cosmonauts step out of the ISS for a spacewalk - Reuters",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=JOJOLdAirNA",
+      "urlToImage": null,
+      "publishedAt": "2023-08-09T15:08:36Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "PINKVILLA"
       },
-      "author": "Anushka Solanki",
-      "title": "Tory Lanez to serve 10 years in prison for shooting Megan Thee Stallion - PINKVILLA",
-      "description": "The Court Has Finally Called The Verdict On The Tory Lanez-Megan Thee Stallion Case. Lanez Will Have To Serve Ten Years Of Jailtime For Shooting Megan. Read On To Know The Details On He Final Verdict",
-      "url": "https://www.pinkvilla.com/entertainment/hollywood/tory-lanez-to-serve-10-years-in-prison-for-shooting-megan-thee-stallion-1234762",
-      "urlToImage": "https://www.pinkvilla.com/images/2023-08/1585469736_tory-lanez.jpg",
-      "publishedAt": "2023-08-09T04:58:37Z",
-      "content": "After being proven guilty of shooting singer Megan Thee Stallion, three years ago, the court has finally pronounced its verdict on the entire matter. The court was to announce the sentence yesterday.… [+2012 chars]"
+      "author": "Anoushka Mathew",
+      "title": "Love Me Again: BTS’ V expresses heartbreaking feelings in eclectic MV for pre-release track from Layover - PINKVILLA",
+      "description": "BIGHIT MUSIC Released The Interesting Music Video For BTS’ V’s Solo Pre-release Track Love Me Again And We Love His Musical Style! Read Ahead To Know More.",
+      "url": "https://www.pinkvilla.com/entertainment/love-me-again-bts-v-expresses-heartbreaking-feelings-in-eclectic-mv-for-pre-release-track-from-layover-1234931",
+      "urlToImage": "https://www.pinkvilla.com/images/2023-08/53581244_bts-v.jpg",
+      "publishedAt": "2023-08-09T15:05:17Z",
+      "content": "On August 9, BIGHIT MUSIC released the MV for Love Me Again and we love his new look! The simple R&amp;B style added with his unique style, created a brilliant song that talks about how he wishes to … [+2397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Sustained wet–dry cycling on early Mars - Nature.com",
+      "description": "Observations by the Curiosity rover at Gale Crater on Mars indicate that high-frequency wet–dry cycling occurred on the early Martian surface, indicating a possible seasonal climate conducive to prebiotic evolution&nbsp;on early Mars.",
+      "url": "https://www.nature.com/articles/s41586-023-06220-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06220-3/MediaObjects/41586_2023_6220_Fig1_HTML.png",
+      "publishedAt": "2023-08-09T15:02:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Microsoft debuts AI for frontline workers - Yahoo Finance",
+      "description": "Microsoft is rolling out a new AI platform for frontline workers as the AI wars rage.",
+      "url": "https://finance.yahoo.com/news/microsoft-debuts-ai-for-frontline-workers-150118325.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zft6A4IOzQBXL8obMSLfAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/a8263370-3630-11ee-aefa-35d66cec2ded",
+      "publishedAt": "2023-08-09T15:01:18Z",
+      "content": "Microsoft (MSFT) continued its AI push on Wednesday with the debut of an AI-powered version of its Dynamics 365 Field Service platform. The software, which is meant to be used by frontline managers a… [+3027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Rume Otuguor",
+      "title": "World's oldest moss could go extinct as a result of climate crisis - The Guardian",
+      "description": "Scientists say Takakia, a 390m-year-old moss found in Himalayas, is at risk despite its ability to adapt to extreme weather",
+      "url": "https://www.theguardian.com/environment/2023/aug/09/worlds-oldest-moss-could-go-extinct-as-a-result-of-climate-crisis",
+      "urlToImage": "https://i.guim.co.uk/img/media/1013222c1f09a237930d75bc6ff81f6416b81cef/0_186_1027_616/master/1027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fdf1577cc6b4a4d376a035b824592f4f",
+      "publishedAt": "2023-08-09T15:00:00Z",
+      "content": "The worlds oldest moss, found in the Himalayas, may not be able to survive climate breakdown, scientists have said.\r\nTakakia, which has been growing for 390m years, is one of the fastest-evolving spe… [+7427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "1 ticket sold in Florida hits Mega Millions record-setting $1.58 billion lottery jackpot - KABC-TV",
+      "description": "Tickets matching five of the six winning numbers and worth more than $1 million were sold in California, Texas, Pennsylvania and West Virginia.",
+      "url": "https://abc7.com/mega-millions-winning-numbers-drawing-megamillions/13616929/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13602961_mega-millions-2.png?w=1600",
+      "publishedAt": "2023-08-09T15:00:00Z",
+      "content": "NEPTUNE BEACH, Fla. -- A single ticket sold in Florida is good for a $1.58 billion Mega Millions jackpot, ending a stretch of lottery futility that had stretched for nearly four months.\r\nA Publix gro… [+1391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Call of Duty: Modern Warfare 3 - Official Makarov Reveal Trailer - IGN",
+      "description": "The ultimate threat returns. Check out the Call of Duty: Modern Warfare III Makarov reveal trailer, including the announcement that a worldwide reveal will h...",
+      "url": "https://www.youtube.com/watch?v=paNdkV9RcSs",
+      "urlToImage": "https://i.ytimg.com/vi/paNdkV9RcSs/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T14:21:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today News Desk",
+      "title": "Take me out of this jail full of flies and insects: Imran Khan to lawyers - India Today",
+      "description": "Imran Khan asked his legal team to take him out of the Attock jail which is full of insects and flies. The former Pakistan prime minister told his lawyer that he does not want to remain behind the bars.",
+      "url": "https://www.indiatoday.in/world/story/imran-khan-jail-appeal-islamabad-high-court-toshakhana-corruption-case-2418651-2023-08-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/imran-khan-indicted-jpg-303721-16x9.jpg?VersionId=JDwWo_yEAM72AGhrXrdaFPyITz0ECwA7",
+      "publishedAt": "2023-08-09T14:11:34Z",
+      "content": "Former Pakistan Prime Minister Imran Khan, who is in jail after being convicted in the Toshakhana corruption case, told his lawyers to take him out of Attock prison. Khan's lawyers said that the 70-y… [+1809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "First Call of Duty: Modern Warfare 3 Trailer Revealed - Push Square",
+      "description": "Full reveal on 17th August",
+      "url": "https://www.pushsquare.com/news/2023/08/first-call-of-duty-modern-warfare-3-trailer-revealed",
+      "urlToImage": "https://images.pushsquare.com/3677cc992a39d/1280x720.jpg",
+      "publishedAt": "2023-08-09T14:10:15Z",
+      "content": "Subscribe to Push Square on YouTube\r\nFollowing the game's official announcement, Sledgehammer Games has shared the first Call of Duty: Modern Warfare 3 trailer. Featuring what looks like cutscene and… [+373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ThePrint"
+      },
+      "author": "Snehesh Alex Philip",
+      "title": "Manipur Police FIR against Assam Rifles stumps Army - ThePrint",
+      "description": "Deployed for 'aid to civil authority' in maintenance of public order, Army & Assam Rifles have done more than that despite lacking legal cover of AFSPA, says defence establishment.",
+      "url": "https://theprint.in/india/army-stumped-by-manipur-polices-fir-against-assam-rifles-mistake-likely-to-be-cancelled/1707592/",
+      "urlToImage": "https://static.theprint.in/wp-content/uploads/2023/08/Untitled-design-66.png",
+      "publishedAt": "2023-08-09T14:07:49Z",
+      "content": "The defence sources cited that there are a number of challenges confronting the Army and the Assam Rifles to quell violence in a complex, volatile and charged atmosphere, especially the lack of legal… [+4269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Samantha Ibrahim",
+      "title": "Sandra Bullock’s partner Bryan Randall's death sparks 500% spike in ALS donations - New York Post ",
+      "description": "Model and photographer Bryan Randall died on Aug. 5 at the age of 57.",
+      "url": "https://nypost.com/2023/08/09/sandra-bullocks-partner-bryan-randalls-death-sparks-500-spike-in-als-donations/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-ljwe8p2hn-1691589681666.jpg?quality=75&strip=all&1691575505&w=1024",
+      "publishedAt": "2023-08-09T14:07:00Z",
+      "content": "Sandra Bullock has been mourning the loss of her longtime boyfriend Bryan Randall, who died on Aug. 5 after a private fight with ALS.\r\nHowever, the photographer’s untimely death at the age of 57 from… [+2360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "IE Online",
+      "title": "2023 ODI World Cup: ICC World Cup 2023 revised fixtures, venues and timings (IST) - The Indian Express",
+      "description": "The 2023 ODI World Cup will start from October 5 and will go on till November 19.",
+      "url": "https://indianexpress.com/article/sports/cricket/2023-odi-world-cup-icc-world-cup-2023-revised-fixtures-venues-and-timings-ist-8884455/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/ODI-World-Cup-1.jpg",
+      "publishedAt": "2023-08-09T13:54:38Z",
+      "content": "The International Cricket Council on Wednesday rescheduled the India vs Pakistan ODI World Cup match from October 15 to October 14 which led to some rejigs in the dates of some other matches as well.… [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kevin Liptak",
+      "title": "Biden administration to announce new bans on investments in China meant to protect national security - CNN",
+      "description": "President Joe Biden’s administration plans to detail new rules Wednesday limiting US investments in advanced technology industries in China, according to people familiar with the plans, in an effort to protect national security at a moment of heightened tensi…",
+      "url": "https://www.cnn.com/2023/08/09/politics/china-investments-white-house-joe-biden/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808165831-04-joe-biden-arizona-080823.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-09T13:36:00Z",
+      "content": "President Joe Bidens administration plans to detail new rules Wednesday limiting US investments in advanced technology industries in China, according to people familiar with the plans, in an effort t… [+2766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Arab News"
+      },
+      "author": "Associated Press",
+      "title": "Poland to double troops number at border with Belarus, accuses it of organizing illegal migration - Arab News",
+      "description": "WARSAW: The Polish government announced Wednesday that it is planning to deploy an additional 2,000 troops to its border with Belarus, twice the number the Border Guard agency had requested, as fears of illegal migration rise. In an interview with state news …",
+      "url": "https://www.arabnews.com/node/2352321",
+      "urlToImage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2023/08/09/3945526-1829714930.jpg?itok=aeg8cHOT",
+      "publishedAt": "2023-08-09T13:28:55Z",
+      "content": "KABUL: Afghanistans Taliban administration has rejected allegations made by Pakistani officials on the string of attacks in the neighboring country, and said Islamabad is responsible for finding a so… [+2529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China’s Economy Slides into Deflation as Domestic Demand Falls - Firstpost",
+      "description": "China’s Economy Slides into Deflation as Domestic Demand FallsChina’s economy has fallen into deflation for the first time two years as domestic demand falls...",
+      "url": "https://www.youtube.com/watch?v=aElXaN3zC1U",
+      "urlToImage": "https://i.ytimg.com/vi/aElXaN3zC1U/maxresdefault.jpg",
+      "publishedAt": "2023-08-09T13:27:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Chloe Taylor",
+      "title": "Cash-strapped Americans are being forced to dip into their 401(k) retirement plan to make ends meet - Fortune",
+      "description": "Bank of America said more people had been taking hardship distributions from their retirement plans in recent months.",
+      "url": "https://fortune.com/2023/08/09/401k-hardship-distribution-borrow-loan-americans-dipping-into-retirement-fund-credit-card-debt/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1389164135-e1691583522497.jpg?resize=1200,600",
+      "publishedAt": "2023-08-09T13:24:00Z",
+      "content": "The U.S. economy has remained surprisingly resilient over the past year in spite of rising living costs and the Federal Reserves aggressive tightening of monetary policy. Household debt has been stea… [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "SEBI changes IPO rules, listing time halved to 3 days; check details | Mint - Mint",
+      "description": "The new listing timeframe will be voluntary for all public issues opening on or after September 1 and mandatory for all the issues which come after December 1, said SEBI in a circular.",
+      "url": "https://www.livemint.com/market/ipo/sebi-changes-ipo-rules-listing-time-halved-to-3-days-starting-from-december-2023-check-details-11691587070823.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/09/600x338/LiveMint_1691600620801_1691600620969.jpg",
+      "publishedAt": "2023-08-09T13:23:10Z",
+      "content": "Capital markets regulator Securities and Exchange Board of India (SEBI) on August 9 halved the timeline for listing of shares on stock exchanges after the closure of Initial Public Offerings (IPOs) t… [+2454 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": ", USA TODAY",
+      "title": "Will AI deepen distrust in news? Gannett, other media organizations want more regulations. - USA TODAY",
+      "description": "USA TODAY parent company Gannett and other media organizations called on policymakers to regulate generative artificial intelligence models.",
+      "url": "https://www.usatoday.com/story/tech/news/2023/08/09/ai-regulations-media-gannett/70551555007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/03/USAT/70523116007-ap-china-world-artifiical-intelligence-conference.jpg?auto=webp&crop=5992,3382,x0,y172&format=pjpg&width=1200",
+      "publishedAt": "2023-08-09T13:18:16Z",
+      "content": "USA TODAY parent company Gannett, The Associated Press and eight other media organizations on Wednesday called on policymakers to regulate artificial intelligence models, arguing that failure to act … [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": null,
+      "title": "A Lunar Showdown: Will Russias Luna 25 beat Indias Chandrayaan-3 to the Moon? - Zee Business",
+      "description": "Russia is set to launch its Luna 25 mission to the lunar south pole on August 11. The mission will study the composition of the lunar polar regolith and the plasma and dust components of the lunar polar exosphere. Luna 25 might beat Chandrayaan-3 to the moon,…",
+      "url": "https://www.zeebiz.com/world/video-gallery-a-lunar-showdown-will-russias-luna-25-beat-indias-chandrayaan-3-to-the-moon-248242",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/08/09/255489",
+      "publishedAt": "2023-08-09T12:57:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Science Desk",
+      "title": "Perseid meteor shower to peak this week: How to spot it in the sky or on live stream - The Indian Express",
+      "description": "Perseid meteor shower 2023: Here is how you can watch Perseids in the night sky or even through a live stream.",
+      "url": "https://indianexpress.com/article/technology/science/perseid-meteor-shower-2023-how-to-watch-8884431/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/Perseid-meteor-shower-20230809.jpg",
+      "publishedAt": "2023-08-09T12:47:44Z",
+      "content": "The Perseid meteor shower, also known as the Perseids, is one of the brightest meteor showers that happen every year. This year, they should peak on the nights of August 13 and August 14, when you mi… [+990 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "YouTuber subjects the Galaxy Z Flip 5 to a week of continuous folding to see when it breaks - The Verge",
+      "description": "Samsung’s latest foldable flip phone, the Galaxy Z Flip 5, survived being folded and unfolded 401,146 times in a livestream run by YouTuber Mrkeybrd.",
+      "url": "https://www.theverge.com/23825641/samsung-galaxy-z-flip-5-mrkeybrd-durability-test-fold-motorola-razr",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0iIlGowa2qHXX52bfSxMP6Q0FmU=/0x0:717x478/1200x628/filters:focal(359x239:360x240)/cdn.vox-cdn.com/uploads/chorus_asset/file/24839536/Screen_Shot_2023_08_09_at_12.21.50_PM.jpg",
+      "publishedAt": "2023-08-09T12:44:02Z",
+      "content": "YouTuber subjects the Galaxy Z Flip 5 to a week of continuous folding to see when it breaks\r\nYouTuber subjects the Galaxy Z Flip 5 to a week of continuous folding to see when it breaks\r\n / After days… [+3501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Sanskriti Falor",
+      "title": "Personal Data Protection Bill passed in Rajya Sabha - Hindustan Times",
+      "description": "The Digital Personal Data Protection Bill (DPDPB), 2023, was presented in the Lok Sabha on Thursday and was passed by the Lower House on Monday. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/rajya-sabha-personal-data-protection-bill-101691584631659.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/ANI-20230809231-0_1691584669820_1691584679940.jpg",
+      "publishedAt": "2023-08-09T12:38:11Z",
+      "content": "Digital Personal Data Protection Bill: The Rajya Sabha on Wednesday passed the Personal Data Protection Bill with a voice vote after the Opposition walked out of the House over the Manipur issue.\r\nMo… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Smriti Irani vs Rahul Gandhi In Row Over \"Flying Kiss\" In Parliament - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/news",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-08-09T12:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nibedita Roy",
+      "title": "What are Triglycerides? How Triglyceride lowering foods help in improving heart health - IndiaTimes",
+      "description": "Increased levels of Triglycerides in the blood can have a negative impact on heart health and may also lead to insulin imbalance. Here's a list of foods that can help in lowering Triglyceride levels naturally.",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/what-are-triglycerides-how-triglyceride-lowering-foods-help-in-improving-heart-health/photostory/102573127.cms",
+      "urlToImage": "https://static.toiimg.com/photo/102573223.cms",
+      "publishedAt": "2023-08-09T12:30:00Z",
+      "content": "Inclusion of leafy greens like spinach, kale, broccoli can naturally help in reducing triglycerides levels. This is because of the rich concentration of vitamins, minerals, and fiber that support hea… [+136 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "'It was horrible!': Sunny Leone reveals she lost 3 nice cars to Mumbai rains - Times of India",
+      "description": "Sharing her experience with the Mumbai rains, Sunny Leone recently revealed that she loves the rains but only when she doesn't have to step out. In an interaction with Hindustan Times, Sunny said “I had no idea that much rain could fall from the skie",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/it-was-horrible-sunny-leone-reveals-she-lost-3-nice-cars-to-mumbai-rains/videoshow/102576210.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-102576210,imgsize-78578.cms",
+      "publishedAt": "2023-08-09T12:20:45Z",
+      "content": "Aug 09, 2023, 05:50PM ISTSource: etimes.inSharing her experience with the Mumbai rains, Sunny Leone recently revealed that she loves the rains but only when she doesn't have to step out. In an intera… [+1448 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Alvise Armellini, Angelo Amante",
+      "title": "Forty-one feared dead in migrant shipwreck in central Mediterranean - Reuters",
+      "description": "Italian authorities on Wednesday said forty-one migrants are thought to have died in a shipwreck last week in the central Mediterranean, according to accounts by survivors who have been taken to the island of Lampedusa.",
+      "url": "https://www.reuters.com/world/europe/forty-one-dead-migrant-shipwreck-off-italys-lampedusa-island-ansa-2023-08-09/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=151",
+      "publishedAt": "2023-08-09T12:16:00Z",
+      "content": "ROME, Aug 9 (Reuters) - Italian authorities on Wednesday said forty-one migrants are thought to have died in a shipwreck last week in the central Mediterranean, according to accounts by survivors who… [+2255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insightsonindia.com"
+      },
+      "author": "Insights Editor",
+      "title": "Air pollution linked to rise in antibiotic resistance - INSIGHTSIAS - Insights IAS",
+      "description": "Source: The Guardian   Context: A global study suggests that air pollution is contributing to a rise in antibiotic resistance, posing a significant threat to human health worldwide. The analysis shows a consistent link between increased air pollution and risi…",
+      "url": "https://www.insightsonindia.com/2023/08/09/air-pollution-linked-to-rise-in-antibiotic-resistance/",
+      "urlToImage": "https://www.insightsonindia.com/wp-content/uploads/2023/08/polution.jpg",
+      "publishedAt": "2023-08-09T11:56:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thedebrief.org"
+      },
+      "author": "Micah Hanks, Micah Hanks",
+      "title": "Breakdown of Standard Gravity Reported in New Study Defies Newton’s Law of Gravitation and General Relativity - The Debrief",
+      "description": "The breakdown of standard gravity is reported in a groundbreaking new study that challenges the theories proposed by Newton and Einstein.",
+      "url": "https://thedebrief.org/breakdown-of-standard-gravity-reported-in-new-study-defies-newtons-law-of-gravitation-and-general-relativity/",
+      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2023/08/wide-binary.jpg",
+      "publishedAt": "2023-08-09T11:56:14Z",
+      "content": "Evidence for the observed breakdown of standard gravity in the low acceleration limit has been reported in a new study that could fundamentally reshape our understanding of the universe.\r\nThe study, … [+5833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "'Unable to comment': Adani Wilmar on reports of Adani group planning to exit FMCG joint venture - Moneycontrol",
+      "description": "Reports said that Adani Enterprises has been considering a potential sale of its 44 percent stake in Adani Wilmar for a few months.",
+      "url": "https://www.moneycontrol.com/news/business/unable-to-comment-adani-wilmar-on-reports-of-adani-group-planning-to-exit-fmcg-joint-venture-11135331.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/Adani-Wilmar-770x431.jpg",
+      "publishedAt": "2023-08-09T11:45:08Z",
+      "content": "Adani Wilmar on August 9 informed the stock exchanges that it cannot comment on the media reports which are claiming that the Adani group is planning to sell its stake in the FMCG joint venture.\r\n\"We… [+2118 chars]"
     },
     {
       "source": {
@@ -125,12 +827,233 @@
         "name": "Hindustan Times"
       },
       "author": "HT Tech",
-      "title": "58-foot asteroid, as big as Chelyabinsk space rock, hurtling towards Earth for close approach - HT Tech",
-      "description": "An asteroid with a size similar to the Chelyabinsk space rock could make a very close approach to Earth in the coming days. NASA has revealed crucial information about its approach such as speed, size, and distance.",
-      "url": "https://tech.hindustantimes.com/tech/news/58foot-asteroid-as-big-as-chelyabinsk-space-rock-hurtling-towards-earth-for-close-approach-71691554850341.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/09/1600x900/orbit-viewer-snapshot_1691554926521_1691554934100.jpg",
-      "publishedAt": "2023-08-09T04:50:21Z",
-      "content": "Asteroids fly by Earth at close distances at regular intervals, but not all of them impact the surface. However, there is no guarantee that none of them ever will. In 2013, an asteroid, the size of a… [+1893 chars]"
+      "title": "Samsung announces ‘Freedom Fest'! Check out the offers on TVs; get Samsung Galaxy S23 Ultra as freebie - HT Tech",
+      "description": "Samsung Freedom Fest has been announced and premium TVs are now available with huge discounts.",
+      "url": "https://tech.hindustantimes.com/photos/samsung-announces-freedom-fest-check-out-the-offers-on-tvs-get-samsung-galaxy-s23-ultra-as-freebie-71691580553697.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/09/1600x900/Freedom_Fest_2023_-_Samsung_1691580778981_1691581257481.jpg",
+      "publishedAt": "2023-08-09T11:41:03Z",
+      "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Insider India"
+      },
+      "author": "Kim Schewitz",
+      "title": "A 101-year-old neurologist who still works full time shares what he eats in a day - Business Insider India",
+      "description": "Dr. Howard Tucker is 101 years old and still works full-time as a neurologist.He shared what he eats in a day on an episode of the mindbodygreen podcast. Dr.",
+      "url": "https://www.businessinsider.in/science/health/news/a-101-year-old-neurologist-who-still-works-full-time-shares-what-he-eats-in-a-day/articleshow/102576961.cms",
+      "urlToImage": "https://www.businessinsider.in/photo/102576961/a-101-year-old-neurologist-who-still-works-full-time-shares-what-he-eats-in-a-day.jpg?imgsize=195316",
+      "publishedAt": "2023-08-09T11:41:00Z",
+      "content": "Dr. Howard Tucker turned 101 last month.\r\nThe neurologist, who was born on July 10, 1922, in Cleveland, Ohio, still works full-time and lives with his wife of 66 years.\r\nTucker told the mindbodygreen… [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Watch: Suryakumar Yadav had notes under his wristband, reveals Tilak Varma - IndiaTimes",
+      "description": "Cricket News: Star Indian batter Surykumar Yadav was back to his best, scoring 44-ball 83 and young Tilak Varma continued his good run with an unbeaten 49 in his th",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-in-west-indies/watch-suryakumar-yadav-had-notes-under-his-wristband-reveals-tilak-varma/articleshow/102574312.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102574209,width-1070,height-580,imgsize-49628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-09T11:23:00Z",
+      "content": "Asian Champions Trophy: India take on Pakistan"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Statesman"
+      },
+      "author": "IANS",
+      "title": "CEPI partners with Gennova to develop mRNA vax tech against 'Disease X' - The Statesman",
+      "description": "The Coalition for Epidemic Preparedness Innovations (CEPI) on Tuesday announced a new funding agreement with Pune-based Gennova Biopharmaceuticals to advance… <a href=\"https://www.thestatesman.com/technology/cepi-partners-with-gennova-to-develop-mrna-vax-tech…",
+      "url": "https://www.thestatesman.com/technology/cepi-partners-with-gennova-to-develop-mrna-vax-tech-against-disease-x-1503209788.html",
+      "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2022/12/Coronavirus.jpg",
+      "publishedAt": "2023-08-09T11:00:00Z",
+      "content": "The Coalition for Epidemic Preparedness Innovations (CEPI) on Tuesday announced a new funding agreement with Pune-based Gennova Biopharmaceuticals to advance the development of their self-amplifying … [+2377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Attempt-To-Murder Charge On Chandrababu Naidu After Violence During Yatra - NDTV",
+      "description": "Former Andhra Pradesh Chief Minister N Chandrababu Naidu has been named in two FIRs related to attempt to murder and criminal conspiracy in connection with the violence that took place during his tour of the state last week.",
+      "url": "https://www.ndtv.com/india-news/attempt-to-murder-charge-on-chandrababu-naidu-after-violence-during-yatra-4283042",
+      "urlToImage": "https://c.ndtvimg.com/2019-10/ciq3ma1_chandrababu-naidu-twitter_625x300_12_October_19.jpg",
+      "publishedAt": "2023-08-09T10:45:23Z",
+      "content": "The violence had taken place in the Annamayya and Chittoor districts. (File)\r\nHyderabad: Former Andhra Pradesh Chief Minister N Chandrababu Naidu has been named in two FIRs related to attempt to murd… [+1677 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET HealthWorld",
+      "title": "Nutrition support shown to prevent TB, related deaths in India: Lancet study - ETHealthWorld",
+      "description": "All patients received a monthly 10 kilograms food basket (rice, pulses, milk powder, oil) and multivitamins for 6 months. In family members, the intervention group received 5 kg rice and 1.5 kg pulses per head per month. After screening all household contacts…",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/nutrition-support-shown-to-prevent-tb-related-deaths-in-india-lancet-study/102572542",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-102572542,imgsize-25724,width-1200,height=765,overlay-ethealth/industry/nutrition-support-shown-to-prevent-tb-related-deaths-in-india-lancet-study.jpg",
+      "publishedAt": "2023-08-09T10:34:46Z",
+      "content": "New Delhi: A monthly food basket with adequate protein and multivitamins has been found to reduce new tuberculosis cases by nearly half among family members of TB patients in India, according to a st… [+4531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "3000-foot wide asteroid, 4 other space rocks hurtling towards Earth - HT Tech",
+      "description": "NASA has revealed details about 5 asteroids that are hurtling towards Earth and are expected to make close approaches in the next few days. One of them is a mammoth 3000-foot wide asteroid that will pass by at an extremely close distance!",
+      "url": "https://tech.hindustantimes.com/photos/3000foot-wide-asteroid-4-other-space-rocks-hurtling-towards-earth-71691576654031.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/09/1600x900/background-3259429_1280_1689767379793_1691576717707.jpg",
+      "publishedAt": "2023-08-09T10:29:01Z",
+      "content": "Top SectionsExplore Tech Copyright © HT Media Limited All rights reserved."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": ", USA TODAY",
+      "title": "Big Ten, Big 12 triggered latest college realignment. What comes next? - USA TODAY",
+      "description": "The latest college athletics realignment has grown leagues, put others on alert and left some schools with uncertain futures. The key questions ahead.",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2023/08/09/big-ten-big-12-college-realignment-what-comes-next/70549092007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/08/09/USAT/75939c02-9260-4575-9933-a2c23938bb23-USATSI_19467719.jpg?auto=webp&crop=6408,3604,x782,y228&format=pjpg&width=1200",
+      "publishedAt": "2023-08-09T10:23:27Z",
+      "content": "Decades of tradition were tossed aside in a matter of days. Two conferences, the Big Ten and Big 12, expanded. Another, the Pac-12, stands on the verge of collapse.\r\nThere is a sense of unease in col… [+7690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "No quick fix to reverse Antarctic sea ice loss as warming intensifies - scientists By Reuters - Investing.com",
+      "description": "No quick fix to reverse Antarctic sea ice loss as warming intensifies - scientists",
+      "url": "https://www.investing.com/news/world-news/no-quick-fix-to-reverse-antarctic-sea-ice-loss-as-warming-intensifies--scientists-3149468",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "publishedAt": "2023-08-09T10:23:00Z",
+      "content": "(This Aug 8 story has been corrected to clarify that the quote was from Anna Hogg, not Caroline Holmes, in paragraphs 3 and 4)\r\nBy David Stanway\r\nSINGAPORE (Reuters) - Sea ice in the Antarctic region… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tory Lanez: Rapper jailed for 10 years for shooting Megan Thee Stallion - BBC",
+      "description": "A judge in LA sentences the rapper to 10 years for injuring Megan Thee Stallion in a 2020 shooting.",
+      "url": "https://www.bbc.com/news/entertainment-arts-66445776",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/119D5/production/_130694127_thumbnail_image002.jpg",
+      "publishedAt": "2023-08-09T10:09:13Z",
+      "content": "Canadian rapper Tory Lanez has been sentenced to 10 years for shooting fellow musician Megan Thee Stallion.\r\nLanez shot Grammy winner Megan Thee Stallion in the feet during an argument between the pa… [+4561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Sam Wolfson",
+      "title": "A decade after a disastrous launch, is Apple Maps finally good? - The Guardian",
+      "description": "Engineers’ work on cycling and public transit have transformed the app – but rural directions remain a sticking point",
+      "url": "https://www.theguardian.com/travel/2023/aug/09/apple-maps-cycling-transport-google",
+      "urlToImage": "https://i.guim.co.uk/img/media/5155b1776c459e4aa3d955ae6577305c2384b0c1/0_132_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=901d281140a91d71fe405f48675f5e4e",
+      "publishedAt": "2023-08-09T10:00:00Z",
+      "content": "In October 2022, New York City officials unveiled a new bike lane on Schermerhorn street, one of the most dangerous and heavily trafficked streets in downtown Brooklyn and somewhere I had always avoi… [+11349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Shibimol KG",
+      "title": "'Keralam' from Kerala: On renaming state, unanimous resolution in assembly - India Today",
+      "description": "The Kerala Assembly has unanimously adopted a resolution urging the Centre to change the name of the state to 'Keralam'.",
+      "url": "https://www.indiatoday.in/india/story/resolution-in-kerala-assembly-to-rename-state-as-keralam-2418478-2023-08-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/kerala-chief-minister-pinarayi-vijayan-091549-16x9.jpg?VersionId=W8yFH08iuRIVpHl4b.0tsroalqLOBXER",
+      "publishedAt": "2023-08-09T09:45:25Z",
+      "content": "The Kerala Assembly unanimously adopted a resolution urging the Centre to rename the state as 'Keralam' in the Eighth Schedule of the Indian Constitution and all official records.\r\nKerala Chief Minis… [+845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Marcia Dunn",
+      "title": "Astronauts get first look at the spacecraft that will fly them around the moon - Phys.org",
+      "description": "The four astronauts assigned to fly around the moon in another year got their first look at their spacecraft, as NASA warned Tuesday there could be more delays.",
+      "url": "https://phys.org/news/2023-08-astronauts-spacecraft-fly-moon.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/astronauts-get-first-l.jpg",
+      "publishedAt": "2023-08-09T08:11:39Z",
+      "content": "The four astronauts assigned to fly around the moon in another year got their first look at their spacecraft, as NASA warned Tuesday there could be more delays.\r\nThey peeked into their unfinished Ori… [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Science Desk",
+      "title": "Chandrayaan-3 will land even if ‘everything fails, all sensors fail, nothing works’: ISRO chief - The Indian Express",
+      "description": "ISRO chairman S Somanath said that the Chandrayaan-3 mission will make a soft-landing even if two engines and all the sensors of the Vikram lander stop working, while speaking during an event on Tuesday.",
+      "url": "https://indianexpress.com/article/technology/science/isro-chairman-s-somanath-chandrayaan-3-8883695/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/Chandrayaan-3-mission-view-20230808.jpg",
+      "publishedAt": "2023-08-09T07:31:59Z",
+      "content": "ISRO chairman S Somanath on Tuesday said that the Chandrayaan-3 spacecraft is set to make a soft landing on the Moon on August 23.\r\nSomanath made the comments while speaking during a talk on Chandray… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Scientists Find A Whole New Ecosystem Hiding Beneath Earth's Seafloor - ScienceAlert",
+      "description": "Scientists keep peeling back new layers of life on our planet like a seemingly endless onion.",
+      "url": "https://www.sciencealert.com/scientists-find-a-whole-new-ecosystem-hiding-beneath-earths-seafloor",
+      "urlToImage": "https://www.sciencealert.com/images/2023/08/Vulvanoctopus.jpg",
+      "publishedAt": "2023-08-09T07:27:13Z",
+      "content": "Scientists keep peeling back new layers of life on our planet like a seemingly endless onion.\r\nMost recently, aquanauts on board a vessel from the Schmidt Ocean Institute used an underwater robot to … [+3433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Khelnow.com"
+      },
+      "author": "Author Name",
+      "title": "Delhi FC vs Tribhuvan Army Live | Durand Cup 2023 - Khel Now",
+      "description": "Delhi FC vs Tribhuvan Army, Durand Cup 2023: Follow the live action and match updates minute by minute here on Khel Now.",
+      "url": "https://khelnow.com/football/2023-08-indian-football-durand-cup-delhi-fc-vs-tribhuvan-army-live-updates",
+      "urlToImage": "https://assets-webp.khelnow.com/news/uploads/2023/08/khelnow-live-comm-template-lead-pic-1.jpg.webp",
+      "publishedAt": "2023-08-09T06:58:48Z",
+      "content": "2:00 PM: Hello everyone and welcome to Khel Nows LIVE COVERAGE of the Delhi FC vs Tribhuvan Army match in the Durand Cup 2023. The kick-off is just 30 minutes away! I am your host Aishwarya Chakrabor… [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "Samsung Galaxy S24 Ultra to feature a 50MP 3x telephoto camera - GSMArena.com news - GSMArena.com",
+      "description": "It's said to use the same 200MP sensor from the S23 Ultra, though. The Samsung Galaxy S23 Ultra came with a 10MP 3x telephoto camera, which was rumored to...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s24_ultra_50mp_3x_telephoto_camera-news-59482.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/08/samsung-galaxy-s24-ultra-50mp-3x-telephoto-camera/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2023-08-09T06:00:01Z",
+      "content": "The Samsung Galaxy S23 Ultra came with a 10MP 3x telephoto camera, which was rumored to be replaced with a 5x unit on next year's Galaxy S24 Ultra. However, reliable tipster Ice Universe says the Sam… [+658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Ambrish Mithal",
+      "title": "Can insulin pumps control blood sugar better minus the pricks? - The Indian Express",
+      "description": "While costs and stigma are hurdles, these devices reduce the number of pricks, can adjust insulin for different time periods of day and night, exercise, sickness, menstruation, exams and different day to day situations. Use of insulin pumps reduces episodes o…",
+      "url": "https://indianexpress.com/article/health-wellness/insulin-pumps-managing-diabetes-artificial-intelligence-pancreas-8883468/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/insulin.jpg",
+      "publishedAt": "2023-08-09T05:20:49Z",
+      "content": "In all my years of practice as an endocrinologist, I have not come across any patient who is enthusiastic about taking insulin. The fear of insulin pervades all ages and cuts across continents. A hug… [+5856 chars]"
     },
     {
       "source": {
@@ -148,275 +1071,15 @@
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Appointments, Assets, Leaves: House Panel's Big Remarks On Senior Judges - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com/news",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2023-08-09T04:41:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bar & Bench - Indian Legal News"
-      },
-      "author": "Bar & Bench",
-      "title": "Abrogation of Article 370: LIVE UPDATES from Supreme Court [Day 4] - Bar & Bench - Indian Legal News",
-      "description": "Subramanium: Article 367 was amended to bring it in accord with the J&amp;K Constitution.Subramanium gives history of instrument of accession. Subramanium: It w",
-      "url": "https://www.barandbench.com/news/litigation/abrogation-of-article-370-live-updates-from-supreme-court-day-4",
-      "urlToImage": "https://gumlet.assettype.com/barandbench%2F2023-08%2F63025e3b-e0d1-4d44-988e-0fafcc4738f9%2F05.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
-      "publishedAt": "2023-08-09T04:41:14Z",
-      "content": "A Constitution bench of the Supreme Court of India is hearing a batch of petitions challenging the abrogation of Article 370 of the Constitution which conferred special status on the erstwhile State … [+1656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Poulomi Ghosh",
-      "title": "'NewsClick expose tip of iceberg; Jairam Ramesh, Rahul Gandhi...': Jethmalani - Hindustan Times",
-      "description": "Mahesh Jethmalani asked whether Rahul Gandhi and Jairam Ramesh never met Neville Roy Singham when Singham was the CTO of Huawei. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/newsclick-expose-tip-of-iceberg-jairam-ramesh-rahul-gandhi-jethmalani-101691554745964.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/23BM-MH-HC-SOHRGND3G6U9K3jpgjpg_1691166901315_1691560633266.jfif",
-      "publishedAt": "2023-08-09T04:32:30Z",
-      "content": "BJP Rajya Sabha MP and senior advocate Mahesh Jethmalani said the New York Times' expose on Newsclick receiving Chinese funds is only the tip of the iceberg. Linking American businessman Neville Roy … [+2976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Athletic"
-      },
-      "author": "The Athletic Staff",
-      "title": "‘Free Kevin Brown’ chants break out at Camden Yards after Orioles remove broadcaster from air - The Athletic",
-      "description": "Brown was removed from Orioles' broadcasts over a comment he made on July 23 during the team's series against the Rays.",
-      "url": "https://theathletic.com/4760632/2023/08/08/free-kevin-brown-chants-orioles/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/08121622/GettyImages-1583886079-scaled-e1691511400285.jpg",
-      "publishedAt": "2023-08-09T04:30:11Z",
-      "content": "Baseball fans broke into Free Kevin Brown chants as the Baltimore Orioles led the Houston Astros 6-2 in the seventh inning of Tuesdays game at Camden Yards. Heres what you need to know:\r\n<ul><li>Brow… [+2688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Kashmir Monitor"
-      },
-      "author": "https://www.facebook.com/kashmirmonitor",
-      "title": "Cannibal CME can strike Earth today, trigger solar storm - The Kashmir Monitor - The Kashmir Monitor",
-      "description": "The National Oceanic and Atmospheric Administration (NOAA) has issued an alert regarding an approaching \"cannibal\" coronal mass ejection (CME) set to reach",
-      "url": "https://www.thekashmirmonitor.net/cannibal-cme-can-strike-earth-today-trigger-solar-storm/",
-      "urlToImage": "https://media.thekashmirmonitor.net/wp-content/uploads/2023/08/cannibal1.jpg",
-      "publishedAt": "2023-08-09T04:30:00Z",
-      "content": "The National Oceanic and Atmospheric Administration (NOAA) has issued an alert regarding an approaching “cannibal” coronal mass ejection (CME) set to reach Earth. The NOAA cautions that this CME coul… [+1744 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "NDTV Sports Desk",
-      "title": "Watch: Hardik Pandya Labelled 'Selfish' For Act That Denied Tilak Varma Half-century - NDTV Sports",
-      "description": "Hardik Pandya was subjected to extreme criticism on social media after his last-ball six denied Tilak Varma a half-century in the 3rd T20I against West Indies.",
-      "url": "https://sports.ndtv.com/west-indies-vs-india-2023/hardik-pandyas-selfish-act-denies-tilak-varma-fifty-skipper-faces-heat-on-twitter-watch-4281710",
-      "urlToImage": "https://c.ndtvimg.com/2023-08/lftnu468_tilak-varma-hardik-pandya_650x300_09_August_23.jpg",
-      "publishedAt": "2023-08-09T04:21:00Z",
-      "content": "India skipper for the T20I series against West Indies, Hardik Pandya has been subjected to plenty of criticism over the last few days, pertaining to the team's poor performances in the first two matc… [+2485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "WION Video Team",
-      "title": "Amid Chandrayaan 3 launch, watch how China, Russia, and USA are vying for control of the Moon - WION",
-      "description": "As India launches Chandrayaan 3, all eyes are on the Moon. But India is not alone in trying to conquer Earth's natural satellite. Watch the video to know more.",
-      "url": "https://www.wionews.com/videos/amid-chandrayaan-3-launch-watch-how-china-russia-and-usa-are-vying-for-control-of-the-moon-623703",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/08/09/0908_moonrace_dna830-1691554207-00000003.jpg",
-      "publishedAt": "2023-08-09T04:10:01Z",
-      "content": "© 2023. Indiadotcom Digital Private Limited. All Rights Reserved."
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Stella Qiu",
-      "title": "Asian shares hesitant on China deflation risk, bank jitters - Reuters",
-      "description": "Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although it could help dampen on inflationary forces globally.",
-      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/cxpRVXQCZVKvUa1zFhvsYw_eAOU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BF2FX67VVPCZA42YGNBLZBN7U.jpg",
-      "publishedAt": "2023-08-09T03:59:54Z",
-      "content": "SYDNEY, Aug 9 (Reuters) - Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although i… [+4008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "author": "Mike Florio",
-      "title": "Report: Penn National will pay ESPN $1.5 billion over 10 years for \"ESPN BET\" - NBC Sports",
-      "description": "On the heels of mass layoffs, ESPN gets a huge annual cash infusion.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-penn-national-will-pay-espn-1-5-billion-over-10-years-for-espn-bet",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/e572faa/2147483647/strip/true/crop/585x329+0+45/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fd2%2F96%2F7cf73dc45a3fee0a76782ec7f2b3%2Fespn-logo-getty-e1492683735636.jpg",
-      "publishedAt": "2023-08-09T03:55:03Z",
-      "content": "The unexpected divorce between Penn National and Barstool created most of the buzz on Tuesday afternoon. But its Penn Nationals next move that will raise plenty of eyebrows in and around Bristol.\r\nVi… [+2096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ryan Young",
-      "title": "'Hard Knocks': Aaron Rodgers seemed starstruck when meeting ‘voice of God’ Liev Schreiber at Jets training camp - Yahoo Sports",
-      "description": "“It’s the voice of God! You guys didn’t say hi?”",
-      "url": "https://sports.yahoo.com/hard-knocks-aaron-rodgers-seemed-starstruck-when-meeting-voice-of-god-liev-schreiber-at-jets-training-camp-032750277.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ThwxNcI8cibFrLI8P9d1VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/7fd6f480-3663-11ee-bbdb-7f2d0a5cbadc",
-      "publishedAt": "2023-08-09T03:27:00Z",
-      "content": "Though they eventually came around to the idea, Aaron Rodgers and the New York Jets initially didnt seem interested in doing HBOs Hard Knocks this fall.\r\nThe one thing that Rodgers was excited about … [+2640 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "JULIE CARR SMYTH, SAMANTHA HENDRICKSON",
-      "title": "Ohio election: Voters reject Issue 1 proposal - The Associated Press",
-      "description": "Ohio voters have resoundingly rejected a Republican-backed measure that would have made it more difficult to pass abortion protections. The vote sets up a fall campaign that will become the nation’s latest referendum on the issue since the U.S. Supreme Court …",
-      "url": "https://apnews.com/article/ohio-abortion-rights-constitutional-amendment-special-election-227cde039f8d51723612878525164f1a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b0ba370/2147483647/strip/true/crop/5041x2836+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F6e%2F82454dc4b7501bd84d9cc1f7041e%2Fcd2175f94640448f94ff275d1c553e80",
-      "publishedAt": "2023-08-09T03:19:00Z",
-      "content": "COLUMBUS, Ohio (AP) Ohio voters on Tuesday resoundingly rejected a Republican-backed measure that would have made it more difficult to change the states constitution, setting up a fall campaign that … [+6915 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Joe Sutton, Brad Parks",
-      "title": "9-year-old girl fatally shot by neighbor in front of her father after buying ice cream and riding her scooter, legal document says - CNN",
-      "description": "A 9-year-old girl was fatally shot in front of her Chicago home by her neighbor, who allegedly fired the gun at her before her father ran toward the shooter and tackled him to the ground, according to a legal document CNN obtained Tuesday.",
-      "url": "https://www.cnn.com/2023/08/08/us/chicago-girl-shot-dead-gun-violence/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808215048-chicago-girl-shot-dead-080823.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-08-09T03:12:00Z",
-      "content": "A 9-year-old girl was fatally shot in front of her Chicago home by her neighbor, who allegedly fired the gun at her before her father ran toward the shooter and tackled him to the ground, according t… [+2055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Garena Free Fire Max redeem codes for Aug 09, 2023: Get revolt weapon loot crate, diamonds voucher, more | Mint - Mint",
-      "description": "Garena Free Fire Max redeem codes offer in-game items like weapons, diamonds, and skins. Limited time and quantity.",
-      "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-aug-09-2023-get-revolt-weapon-loot-crate-diamonds-voucher-more-11691550161361.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/09/600x338/Garena_Free_Fire_Max_1_1691550252021_1691550252146.jpg",
-      "publishedAt": "2023-08-09T03:06:07Z",
-      "content": "Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more. These 12 digit alphanumeric codes consist of capital letters and numbers. For those unaware,… [+1804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Manipur To Inflation: BJP, Opposition Go All-Out In No-Trust Motion Debate - NDTV",
-      "description": "Home Minister Amit Shah are likely to speak in parliament today as the debate on the No-Confidence Motion - moved by the Congress against the BJP-led Central government - entered Day 2.",
-      "url": "https://www.ndtv.com/india-news/no-trust-motion-lok-sabha-bjp-congress-india-narendra-modi-rahul-gandhi-manipur-violence-no-confidence-debate-to-resume-in-parliament-today-10-points-4281677",
-      "urlToImage": "https://c.ndtvimg.com/2023-08/uik542t8_notrust-debate_625x300_09_August_23.jpg",
-      "publishedAt": "2023-08-09T03:06:00Z",
-      "content": "<li>The Opposition, which has brought the No-Confidence Motion despite lacking in numbers, admitted that it was a method to compel Prime Minister Narendra Modi to speak on Manipur, which has dominate… [+3108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "Strong solar flare disrupts radio communications in North America - HT Tech",
-      "description": "An intense X-level solar flare causes radio blackout in North America.",
-      "url": "https://tech.hindustantimes.com/tech/news/strong-solar-flare-disrupts-radio-communications-in-north-america-71691549201896.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/08/09/1600x900/VeYVkBHWAu9a2Zi4rYxXt7_1648896790718_1691549245170.jpg",
-      "publishedAt": "2023-08-09T02:50:16Z",
-      "content": "Sun's activity has increased over these past few weeks and it has generated numerous strong solar storms. Currently, Sun is in its 11-year solar cycle and it will reach its maximum next year, which w… [+2054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Sporting News"
       },
       "author": null,
-      "title": "神戸退団のイニエスタ、UAE1部のエミレーツ・クラブと契約 - Goal.com",
+      "title": "【テレビ放送】なでしこジャパンvsスウェーデンの地上波中継/配信予定｜女子W杯準々決勝 - Goal.com",
       "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
       "url": "https://www.sportingnews.com/ca/soccer",
-      "urlToImage": "https://static.sportingnews.com/1.35.0.14/themes/custom/tsn/logo.jpg",
-      "publishedAt": "2023-08-09T02:43:26Z",
+      "urlToImage": "https://static.sportingnews.com/1.35.1.3/themes/custom/tsn/logo.jpg",
+      "publishedAt": "2023-08-09T02:34:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Shreyanka Mazumdar",
-      "title": "Sunny Deol’s Gadar 2 Beats SRK’s Pathaan In Advance Booking At Single Screens, Sells 1 Lakh Tickets - News18",
-      "description": "Ahead of its release, Sunny Deol's Gadar 2 has left behind SRK's Pathaan in single screen advance bookings, selling 100,000 tickets already.",
-      "url": "https://www.news18.com/movies/sunny-deols-gadar-2-beats-srks-pathaan-in-advance-booking-at-single-screens-sells-1-lakh-tickets-8529043.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/ameeshaaa-169089235516x9.jpg",
-      "publishedAt": "2023-08-09T02:37:09Z",
-      "content": "The advance bookings for Sunny Deol and Ameesha Patels Gadar 2 kicked off earlier in the week, and the response has been great, according to trade analysts. As per Taran Adarsh, a total of 1,05,300 t… [+1704 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Russia-Ukraine war: List of key events, day 532 - Al Jazeera English",
-      "description": "Here is the situation on Wednesday, August 9, 2023.",
-      "url": "https://www.aljazeera.com/news/2023/8/9/russia-ukraine-war-list-of-key-events-day-532",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23220470873420-1691546822.jpg?resize=1200%2C675",
-      "publishedAt": "2023-08-09T02:21:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Grace Cyril",
-      "title": "Malayalam director Siddique dies: Mammootty, Mohanlal and celebs pay condolences - India Today",
-      "description": "Renowned Malayalam filmmaker Siddique died in Kochi after suffering a heart attack. Celebs have now condoled his death on social media.",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/malayalam-director-siddique-dies-mammootty-mohanlal-and-celebs-pay-condolences-2418278-2023-08-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/mammootty-and-mohanlal-paid-condolences-to-director-siddique-095605-16x9.jpg?VersionId=dbXrLZbSsSS7446DsfAuKyHL_q3Ih.3i",
-      "publishedAt": "2023-08-09T02:18:36Z",
-      "content": "Popular Malayalam filmmaker Siddique died on Tuesday, August 8, at the age of 69. Siddique was rushed to the hospital in critical condition after suffering a heart attack on August 7, 2023, around 3 … [+2395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Artemis II astronauts get 1st look at capsule taking them to the moon - CBC News: The National",
-      "description": "Canadian astronaut Jeremy Hansen and his fellow Artemis II mission colleagues get their first real-life look at the Orion spacecraft that will take them to l...",
-      "url": "https://www.youtube.com/watch?v=tXJKW2UXUqE",
-      "urlToImage": "https://i.ytimg.com/vi/tXJKW2UXUqE/maxresdefault.jpg",
-      "publishedAt": "2023-08-09T02:08:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Sharon Udasin",
-      "title": "International Space Station may be more polluted than most American homes - The Hill",
-      "description": "Concentrations of toxic contaminants found in dust on the International Space Station (ISS) surpass those found in floor dust in many U.S. households, a new study has found. Levels of organic pollutants in dust samples from ISS air filters were higher than th…",
-      "url": "https://thehill.com/policy/energy-environment/4144788-international-space-station-may-be-more-polluted-than-most-american-homes/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/internationalspacestation_ISS_033022_Roscosmos-Space-Agency-Press-Service-via-AP.jpg?w=1280",
-      "publishedAt": "2023-08-09T01:55:00Z",
-      "content": "Skip to content\r\nConcentrations of toxic contaminants found in dust on the International Space Station (ISS) surpass those found in floor dust in many U.S. households, a new study has found.\r\nLevels … [+3559 chars]"
     },
     {
       "source": {
@@ -429,722 +1092,46 @@
       "url": "https://www.ndtv.com/world-news/pakistan-parliament-to-dissolve-for-an-election-without-ex-pm-imran-khan-4281670",
       "urlToImage": "https://c.ndtvimg.com/2023-07/hkla3vog_imran-khanpakistan_625x300_19_July_23.jpg",
       "publishedAt": "2023-08-09T01:53:29Z",
-      "content": "Imran Khan has been hit with more than 200 legal cases in recent months.\r\nIslamabad, Pakistan: Pakistan's parliament was due to be dissolved Wednesday, ushering in a technocrat-led interim government… [+4334 chars]"
+      "content": "Imran Khan has been hit with more than 200 legal cases in recent months.\r\nIslamabad, Pakistan: Pakistan's parliament was due to be dissolved Wednesday, ushering in a technocrat-led interim government… [+4333 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "ICICI Lombard falls on Rs 273-cr GST liability, show-cause notice from DGGI - Moneycontrol",
-      "description": "The notice alleges a tax demand of Rs 273.44 crore under Section 74(1) of the Central Goods and Services Tax Act along with interest under Section 50(1) of the Act and penalty under Section 74(1) read with Section 122(2)(b) of the Act.",
-      "url": "https://www.moneycontrol.com/news/business/stocks/icici-lombard-receives-show-cause-notice-from-dg-of-gst-intelligence-alleging-tax-demand-of-rs-273-44-crore-11128521.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/05/GST-770x433.jpg",
-      "publishedAt": "2023-08-09T01:45:28Z",
-      "content": "ICICI Lombard General Insurance share price fell over a percent on August 9, a day after the company received a Show Cause Notice (SCN) from the Directorate General of GST Intelligence.\r\nThe notice d… [+1762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
+        "name": "Posco.com"
       },
       "author": null,
-      "title": "Space Agency Chief's Big Statement On Chandrayaan-3 Landing - NDTV",
-      "description": "Vikram, the lander of India's third lunar mission Chandrayaan-3, will be able to make a soft-landing on the Moon's surface on August 23 even if all the sensors and two of its engines do not work, ISRO chairman S Somanath said on Tuesday.",
-      "url": "https://www.ndtv.com/india-news/isro-plans-proper-touchdown-of-vikram-lander-even-if-its-sensors-and-engines-fail-isro-chief-s-somanath-4281013",
-      "urlToImage": "https://c.ndtvimg.com/2023-07/rotit2lc_chandrayaan-3-launch_625x300_14_July_23.jpg",
-      "publishedAt": "2023-08-09T01:45:00Z",
-      "content": "Chandrayaan-3 blasted into Space on July 14 and it entered into lunar orbit on August 5.\r\nBengaluru: Vikram, the lander of India's third lunar mission Chandrayaan-3, will be able to make a soft-landi… [+3791 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": null,
-      "title": "Trump, Christie feast on insults in New Hampshire - POLITICO",
-      "description": "The Republican rivals made it clear that now was not the season to be nice.",
-      "url": "https://www.politico.com/news/2023/08/08/trump-christie-new-hampshire-00110413",
-      "urlToImage": "https://static.politico.com/53/e0/dc4efbb7442982d877a27dcb09e9/election-2024-christie-43343.jpg",
-      "publishedAt": "2023-08-09T01:38:02Z",
-      "content": "It was campaigning at its most guttural form hardly an amuse bouche for those Granite State voters with a more elevated palate. But, as befitting the situation for the longtime friends turned recent … [+5541 chars]"
+      "title": "포스코그룹 신규 브랜드 슬로건 '세상에 가치를 더합니다 Green Tomorrow, with POSCO' - POSCO Newsroom",
+      "description": "Posco Newsroom",
+      "url": "https://newsroom.posco.com/kr/%ed%8f%ac%ec%8a%a4%ec%bd%94%ea%b7%b8%eb%a3%b9-%ec%8b%a0%ea%b7%9c-%eb%b8%8c%eb%9e%9c%eb%93%9c-%ec%8a%ac%eb%a1%9c%ea%b1%b4-%ec%84%b8%ec%83%81%ec%97%90-%ea%b0%80%ec%b9%98%eb%a5%bc-%eb%8d%94%ed%95%a9/",
+      "urlToImage": "https://d2qgx4jylglh9c.cloudfront.net/kr/wp-content/uploads/2023/08/20230809_news_a_thumb.jpg",
+      "publishedAt": "2023-08-09T01:02:13Z",
+      "content": "I ???????? ? ??? ?? ?? 100?  ? ? ??I ?? ?? ?????? ?? ????? ?? ?? ? ??I ?????????? ‘?? ??#8217; ??? ???#8230;YouTube, ?? ????… [+1310 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CBS News 8"
+        "name": "Decrypt"
       },
-      "author": "Rocio De La Fe",
-      "title": "COVID-19 cases, hospitalizations are low but steadily rising across San Diego County - CBS News 8",
-      "description": "The latest spike is part of a similar trend happening across the state and country.",
-      "url": "https://www.cbs8.com/article/news/local/covid-cases-hospitalizations-low-steadily-rising-across-county/509-0deb40c2-4832-4f51-936e-6aa1ed1d8de4",
-      "urlToImage": "https://media.cbs8.com/assets/KFMB/images/e79b2ba0-afbd-4d83-ab62-92f20b63da5d/e79b2ba0-afbd-4d83-ab62-92f20b63da5d_1140x641.jpg",
-      "publishedAt": "2023-08-09T01:29:00Z",
-      "content": "SAN DIEGO COVID-19 cases are on the rise this summer and San Diego County is no exception. While hospitalizations are still considered low, they are steadily rising. New data from the Centers for Dis… [+2043 chars]"
+      "author": "Jose Antonio Lanz",
+      "title": "Nvidia Teases New Hardware, Software, and Services for AI - Decrypt",
+      "description": "From million-dollar superchips to high-powered gaming GPUs, Nvidia announced a variety of new offerings well suited for artificial intelligence.",
+      "url": "https://decrypt.co/151782/nvidia-grace-hopper-gh200-rtx-6000-5000",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/NVIDIA-GPU-scaled-gID_7.jpg",
+      "publishedAt": "2023-08-08T23:28:33Z",
+      "content": "Nvidia flexed its AI muscles this week, unveiling a slew of next-generation products to usher in the new era of artificial intelligence. From what it described as a breakthrough AI-focused superchip … [+4511 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Social Media Today"
+        "name": "Daily Mail"
       },
-      "author": "Andrew Hutchinson",
-      "title": "WhatsApp Adds Screensharing for Video Calls in the App - Social Media Today",
-      "description": "A handy new addition for your WhatsApp video chats.",
-      "url": "https://www.socialmediatoday.com/news/whatsapp-adds-screensharing-for-video-calls-in-the-app/690332/",
-      "urlToImage": "https://www.socialmediatoday.com/imgproxy/HDB24TnnCYvNg0dJGGow3GGg3geYYenit6sLcyDp40E/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3doYXRzYXBwX3NjcmVlbnNoYXJlLnBuZw.jpg",
-      "publishedAt": "2023-08-09T01:20:30Z",
-      "content": "WhatsApp has added another element to its video calling option, with screensharing now available in the app.\r\nAs you can see in this example (posted by Meta chief Mark Zuckerberg), you can now share … [+1050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Carly Thomas",
-      "title": "Billy Porter Slams Bob Iger, Says “I Have to Sell My House” Due to Ongoing Strikes - Hollywood Reporter",
-      "description": "\"The life of an artist, until you make f***-you money — which I haven’t made yet — is still check-to-check,\" the actor explained in a recent interview.",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/billy-porter-financial-impact-strikes-slams-bob-iger-1235559470/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Billy-Porter-getty-H-2023.jpg?w=1024",
-      "publishedAt": "2023-08-09T01:15:47Z",
-      "content": "Amid the ongoing strikes that have brought Hollywood to a halt, Billy Porter is opening up about the financial toll of the work stoppages.\r\nDuring a recent interview with the Evening Standard, the Po… [+2556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Armando Tinoco",
-      "title": "Riley Keough On The Last Time She Saw Mom Lisa Marie Presley & Legal Drama With Grandmother Priscilla - Deadline",
-      "description": "Riley Keough is opening up about her mother Lisa Marie Presley in a new interview and remembering the last time she saw her. Keough recalled the moment she had with her mother back in January when …",
-      "url": "https://deadline.com/2023/08/riley-keough-last-time-she-saw-mom-lisa-marie-presley-legal-drama-grandmother-priscilla-1235458098/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/riley-keough.jpg?w=1024",
-      "publishedAt": "2023-08-09T01:11:00Z",
-      "content": "Riley Keough is opening up about her mother Lisa Marie Presley in a new interview and remembering the last time she saw her.\r\nKeough recalled the moment she had with her mother back in January when t… [+1474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "10 Minutes of Street Fighter 6: Teenage Mutant Ninja Turtles Gameplay - IGN",
-      "description": "The Teenage Mutant Ninja Turtles have arrived in Street Fighter 6, as revealed at EVO! Watch Leonardo of the TMNT crew bring the mutant mayhem and clean up M...",
-      "url": "https://www.youtube.com/watch?v=0zfxKHk5Yb0",
-      "urlToImage": "https://i.ytimg.com/vi/0zfxKHk5Yb0/maxresdefault.jpg",
-      "publishedAt": "2023-08-09T01:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "ANDREW DALTON",
-      "title": "Tory Lanez gets 10 years in prison for shooting Megan Thee Stallion - The Associated Press",
-      "description": "A judge has sentenced rapper Tory Lanez to 10 years in prison Monday for shooting and wounding hip-hop superstar Megan Thee Stallion. Los Angeles Superior Court Judge David Herriford handed down the sentence Tuesday to the 31-year-old Lanez, who was convicted…",
-      "url": "https://apnews.com/article/tory-lanez-megan-thee-stallion-sentence-shooting-58a042216c01eae44bc2ed22bf45aba2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/65dc9f0/2147483647/strip/true/crop/3000x1688+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2Fad%2F4309608d842cce3d142fb09e98c0%2F83e397c19d3d4cec8e518de8881bd474",
-      "publishedAt": "2023-08-09T00:53:00Z",
-      "content": "LOS ANGELES (AP) A judge sentenced rapper Tory Lanez to 10 years in prison Tuesday for shooting and wounding hip-hop superstar Megan Thee Stallion in the feet, bringing a conclusion to a three-year l… [+6181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lim Hui Jie",
-      "title": "Asia markets mixed as threat of China deflation grows - CNBC",
-      "description": "China's July inflation rate fell 0.3% in July, while its producer price index slumped 4.4%.",
-      "url": "https://www.cnbc.com/2023/08/09/asia-stock-market-today-live-updates-china-cpi-ppi-moodys-bank-downgrade.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107253857-1686267019350-gettyimages-1253746671-CHINA_GUANGZHOU.jpeg?v=1691538335&w=1920&h=1080",
-      "publishedAt": "2023-08-09T00:37:00Z",
-      "content": "Stocks in China and Hong Kong fell Wednesday as China's consumer prices slipped into negative territory in July, for the first time in 28 months.\r\nThe CSI300, which tracks stocks of the largest liste… [+986 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Associated Press",
-      "title": "Pink Barbie coffins: Funeral home in El Salvador takes Barbie mania to an extreme with new linings - USA TODAY",
-      "description": "Alpha and Omega Funeral Home in Ahuachapán, near the border with Guatemala has recently begun to sell pink coffins inspired by the Barbie movie.",
-      "url": "https://www.usatoday.com/story/news/world/2023/08/08/funeral-home-el-salvador-selling-pink-coffins-with-barbie-linings/70555251007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/08/USAT/0819df9c-24f4-4750-ac95-88f700271d72-AP23216818976330_1.jpg?crop=5857,3295,x0,y297&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2023-08-09T00:25:51Z",
-      "content": "San Salvador, El Salvador A funeral home in El Salvador has taken Barbie mania to an extreme, offering pink coffins with Barbie linings.\r\nIt's all designed so you can be a Barbie fan till the day you… [+2335 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "NASA’s Artemis II crew meets their Moonship - Ars Technica",
-      "description": "NASA's Orion spacecraft is taking a bit longer to prepare for its first crew flight.",
-      "url": "https://arstechnica.com/space/2023/08/nasas-artemis-ii-crew-meets-their-moonship/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Orion-Media-Day-Aug-8-2023-6-0436-copy-760x380.jpg",
-      "publishedAt": "2023-08-09T00:25:09Z",
-      "content": "Enlarge/ Artemis II commander Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen pose with their Orion spacecraft at NASA's Kennedy Space Center in Florida.\r\n… [+10719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Detroit Free Press"
-      },
-      "author": "Jasmin Barmore",
-      "title": "Detroit's Gmac Cash writes song about Montgomery riverfront brawl - Detroit Free Press",
-      "description": "A brawl in Alabama's capital that led to one arrest and two wanted suspects went viral over the weekend, leading Gmac Cash to rap about it.",
-      "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/08/montgomery-riverfront-brawl-rap-song-gmac-cash/70553486007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2023/08/08/PDTF/70554893007-image.jpeg?crop=1289,728,x0,y480&width=1289&height=728&format=pjpg&auto=webp",
-      "publishedAt": "2023-08-08T23:34:18Z",
-      "content": "A video of a wild brawl that erupted Saturday in Montgomery, Alabama, when a cruise ship worker was attempting to dock is going viral and Gmac Cash took notice.\r\nThe Detroit rapper, well known for th… [+4719 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Graeme Massie",
-      "title": "Trump says 'young racist' Georgia DA had an affair with a gang member - The Independent",
-      "description": "Fulton County DA Fani Willis expected to charge former president in coming weeks",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-willis-affair-gang-georgia-b2389866.html",
-      "urlToImage": "https://static.independent.co.uk/2023/08/08/23/AP23211753378424.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-08-08T23:33:08Z",
-      "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nDonald Trump branded a Georgia prosecutor a young racist… [+3605 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Kinsey Crowley, Natalie Neysa Alund",
-      "title": "Cars found in Doral lake being recovered by Miami police divers - USA TODAY",
-      "description": "After volunteer divers investigating a missing persons case found 32 vehicles submerged in a Doral, Florida lake, police started removing the cars.",
-      "url": "https://www.usatoday.com/story/news/nation/2023/08/08/cars-found-in-lake-in-doral-what-we-know/70551269007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/08/USAT/6120f3ca-8bbb-44d8-90de-956e7eb76073-IMG_2405.jpeg?crop=1174,661,x0,y16&width=1174&height=661&format=pjpg&auto=webp",
-      "publishedAt": "2023-08-08T23:26:38Z",
-      "content": "The Miami-Dade Police Department is recovering multiple cars found submerged in a lake in Doral, Florida.\r\nDivers working for a private company to investigate a missing person cold case said they fou… [+2682 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Marc Raimondi",
-      "title": "Israel Adesanya to defend title vs. Sean Strickland at UFC 293 - ESPN",
-      "description": "Israel Adesanya will defend his middleweight title against Sean Strickland at UFC 293, it was announced Tuesday. Sources told ESPN that Dricus Du Plessis, Adesanya's preferred opponent, is unavailable due to a foot injury.",
-      "url": "https://www.espn.com/mma/story/_/id/38158858/israel-adesanya-defend-title-vs-sean-strickland-ufc-293",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0409%2Fr1156409_1296x729_16%2D9.jpg",
-      "publishedAt": "2023-08-08T23:11:30Z",
-      "content": "Israel Adesanya has his next challenger and the UFC has its Australia headliner.\r\nAdesanya will defend his UFC middleweight title against Sean Strickland in the main event of UFC 293 on Sept. 9 in Sy… [+2198 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Brandon Gillespie",
-      "title": "Trump mockery of Christie's weight takes a turn after audience member chimes in: 'Don't call him a fat pig' - Fox News",
-      "description": "Former President Donald Trump mocked rival Chris Christie over his weight, saying he was \"eating right now\" and joking that an audience member shouldn't call him a \"fat pig.\"",
-      "url": "https://www.foxnews.com/politics/trump-mockery-chris-christie-weight-audience-member-fat-pig",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Collage-Maker-06-Jun-2023-02-20-PM-6753.jpg",
-      "publishedAt": "2023-08-08T23:05:00Z",
-      "content": "Former President Donald Trump mocked fellow Republican presidential hopeful and former New Jersey Gov. Chris Christie over his weight during a campaign stump speech in New Hampshire on Tuesday.\r\nThe … [+3014 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "CHRIS MEGERIAN, TERRY TANG",
-      "title": "Biden creates new national monument near Grand Canyon, citing tribal heritage, climate concerns - The Associated Press",
-      "description": "President Joe Biden has signed a national monument designation for the greater Grand Canyon, declaring it good “not only for Arizona but for the planet.” Tuesday's move turns the decades-long visions of Native American tribes and environmentalists into realit…",
-      "url": "https://apnews.com/article/grand-canyon-national-monument-biden-9382960f18408dce7aec52f103404e11",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bf22ace/2147483647/strip/true/crop/8157x4588+0+425/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F61%2F29d7eb7444c91776bcfd452f9a89%2F69b605dea05440bc9782668a367bda51",
-      "publishedAt": "2023-08-08T22:46:00Z",
-      "content": "GRAND CANYON NATIONAL PARK, Ariz. (AP) Declaring it good not only for Arizona but for the planet, President Joe Biden on Tuesday signed a national monument designation for the greater Grand Canyon, t… [+7035 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Leana S. Wen",
-      "title": "Opinion | A pill for postpartum depression is a game changer for women's health - The Washington Post",
-      "description": "The availability of zuranolone will prompt more mothers to be screened for postpartum depression and seek treatment options.",
-      "url": "https://www.washingtonpost.com/opinions/2023/08/08/postpartum-depression-pill-fda-approval/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQ26C7MYAWAA32UNAQ62XNSVR4.jpg&w=1440",
-      "publishedAt": "2023-08-08T22:46:00Z",
-      "content": "Comment on this story\r\nComment\r\nUp to 1 in 7 new mothers suffer from postpartum depression, a serious mental health condition following childbirth. Yet despite the illnesss prevalence, there has been… [+4518 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Mary Ann Azevedo",
-      "title": "WeWork goes from a $47B valuation to ‘substantial doubts’ about its ‘ability to continue as a going concern’ - TechCrunch",
-      "description": "In announcing its earnings today, the flexible space provider said that “substantial doubt exists about the company’s ability to continue as a going concern.”",
-      "url": "https://techcrunch.com/2023/08/08/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1156680513.jpg?resize=1200,818",
-      "publishedAt": "2023-08-08T22:26:16Z",
-      "content": "WeWork is struggling to survive in a post-pandemic world.\r\nIn announcing its earnings today, the flexible space provider said that substantial doubt exists about the companys ability to continue as a… [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "https://www.facebook.com/kslcom/",
-      "title": "Utah leaders condemn Biden's announcement of new Grand Canyon national monument - KSL.com",
-      "description": "President Joe Biden's announcement Tuesday is the fifth establishment of such a monument under the Biden administration and encompasses nearly 1 million acres of public land surrounding Grand Canyon National Park.",
-      "url": "https://www.ksl.com/article/50705248/utah-leaders-condemn-bidens-announcement-of-new-grand-canyon-national-monument",
-      "urlToImage": "https://img.ksl.com/slc/2942/294226/29422672.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2023-08-08T22:02:15Z",
-      "content": "Estimated read time: 6-7\r\n minutes\r\nSALT LAKE CITY It didn't take long for Utah leaders to express their displeasure over President Joe Biden's announcement of a new national monument within the Gran… [+7745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Google Messages Now Uses End-to-End Encryption By Default - CNET",
-      "description": "Messages between Android users will be encrypted by default, just like iMessages between iPhone users.",
-      "url": "https://www.cnet.com/tech/services-and-software/google-messages-now-uses-end-to-end-encryption-by-default/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/0adb6c58d234c684584d3cec23e45e67b36ab7b6/hub/2023/08/08/53196178-e878-4734-8c7d-544fcd6509e2/blogpost-header-2096x1182-opt4-v-width-1200-format-webp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-08-08T22:00:00Z",
-      "content": "Google Messages will now be encrypted by default when messaging between Android devices, the company said in a blog post Tuesday. \r\nPreviously, it was an option to encrypt your Google Messages, but n… [+1971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Everything Announced at Pokemon Presents August 2023 - IGN Daily Fix - IGN",
-      "description": "On today's Daily Fix:The Pokémon Presents event for August 2023 has concluded and it featured 35 minutes of brand new Pokémon announcements. IGN has you cove...",
-      "url": "https://www.youtube.com/watch?v=WTOTcbyWsjM",
-      "urlToImage": "https://i.ytimg.com/vi/WTOTcbyWsjM/maxresdefault.jpg",
-      "publishedAt": "2023-08-08T21:49:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ryan Glasspiegel",
-      "title": "Bill Simmons torches Alex Morgan after World Cup flop: 'Not a superstar' - New York Post ",
-      "description": "Bill Simmons believes the USWNT was too beholden to its past, and not enough to the future.",
-      "url": "https://nypost.com/2023/08/08/bill-simmons-torches-uswnt-alex-morgan-after-world-cup-flop/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-x5dxuzwos-1691531352849.jpg?quality=75&strip=all&1691517220&w=1024",
-      "publishedAt": "2023-08-08T21:45:00Z",
-      "content": "Bill Simmons believes the USWNT was too beholden to its past, and not enough to the future.\r\nAfter the USWNT was eliminated by Sweden in the round of 16 in the 2023 Women’s World Cup, Simmons diagnos… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Feds can again regulate ghost guns as Supreme Court freezes lower court ruling on 5-4 vote - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzA4LzA4L2dvdmVybm1lbnQtY2FuLWFnYWluLXJlZ3VsYXRlLWdob3N0LWd1bnMtYXMtc3VwcmVtZS1jb3VydC1mcmVlemVzLWxvd2VyLWNvdXJ0LXJ1bGluZy_SAXdodHRwczovL255cG9zdC5jb20vMjAyMy8wOC8wOC9nb3Zlcm5tZW50LWNhbi1hZ2Fpbi1yZWd1bGF0ZS1naG9zdC1ndW5zLWFzLXN1cHJlbWUtY291cnQtZnJlZXplcy1sb3dlci1jb3VydC1ydWxpbmcvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-08-08T21:29:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Study: Screenings May Overdiagnose Cancer in Older Women - Gizmodo",
-      "description": "New research estimates that many cancer cases caught through screening in women over 70 may ultimately be harmless.",
-      "url": "https://gizmodo.com/screenings-overdiagnose-cancer-older-women-1850718931",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cc7f43b70f48b80d29b82369289434c5.jpg",
-      "publishedAt": "2023-08-08T20:55:00Z",
-      "content": "Preventive mammograms for breast cancer might be less worthwhile for older women, according to research released this week. The studys authors estimate that a substantial percentage of cancer cases c… [+3645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Bryson Masse",
-      "title": "OpenAI launches web crawling GPTBot, sparking blocking effort by website owners and creators - VentureBeat",
-      "description": "When OpenAI added the GPTBot support page, it also introduced a way to block the service from scraping your website through robots.txt files.",
-      "url": "https://venturebeat.com/ai/openai-launches-web-crawling-gptbot-sparking-blocking-effort-by-website-owners-and-creators/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/08/cfr0z3n_a_crowd_with_a_broom_scowls_and_pokes_at_a_large_mechan_c54a0479-8199-4eec-acae-0e01c79b7467.png?w=1200&strip=all",
-      "publishedAt": "2023-08-08T20:31:43Z",
-      "content": "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here\r\nWithout fanfare or an official announcement, ChatGPT maker OpenAI launched a new website crawling bot this w… [+1628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Thousands pay tribute as Sinead O'Connor's funeral cortege passes through hometown #shorts - The Sun",
-      "description": "Fans of singer Sinead O'Connor line the streets for a \"last goodbye\" to the Irish singer as her funeral cortege passes through her former hometown of Bray, C...",
-      "url": "https://www.youtube.com/watch?v=HZfDJPwXHZI",
-      "urlToImage": "https://i.ytimg.com/vi/HZfDJPwXHZI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBYKFkwDw==&rs=AOn4CLDLGFY7hTTh8qiwPedd8H1b7jgL2A",
-      "publishedAt": "2023-08-08T20:15:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Ella Cao, Liz Lee, Karen Lema",
-      "title": "China, Philippines' dispute over grounded warship heats up - Reuters",
-      "description": "China again asked the Philippines to tow away a grounded warship - a World War Two-era vessel now used as a military outpost - from a disputed shoal on Tuesday, after Manila rejected Beijing's earlier demand.",
-      "url": "https://www.reuters.com/world/asia-pacific/china-repeats-call-philippines-remove-grounded-warship-2023-08-08/",
-      "urlToImage": "https://www.reuters.com/resizer/C-A1ZuQZi7baAYuMRjvTxrGKiHw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSXKRNXC2FPO7PVN6WKZSQTKOU.jpg",
-      "publishedAt": "2023-08-08T19:34:38Z",
-      "content": "BEIJING/MANILA, Aug 8 (Reuters) - China again asked the Philippines to tow away a grounded warship - a World War Two-era vessel now used as a military outpost - from a disputed shoal on Tuesday, afte… [+3392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Andrew Jones",
-      "title": "See stunning new photos and videos of the moon as India's Chandrayaan-3 rover enters lunar orbit - Livescience.com",
-      "description": "The spacecraft will attempt a historic lunar landing on Aug. 23.",
-      "url": "https://www.space.com/india-chandrayaan-3-moon-orbit-photos",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3HuCZRFotZCgGZtRudG9y8-1200-80.jpeg",
-      "publishedAt": "2023-08-08T19:09:34Z",
-      "content": "India's Chandrayaan-3 lunar lander has returned its first images from the moon after entering orbit around our nearest neighbor.\r\nThe Indian Space Research Organisation\r\n (ISRO) released the images o… [+1798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": "Hayley Santaflorentina",
-      "title": "Inside Sandra Bullock & Bryan Randall's Private 8-Year Romance - E! NEWS",
-      "description": "Sandra Bullock got candid about her relationship with longtime partner Bryan Randall over a year before his death after a three-year battle with ALS.",
-      "url": "https://www.eonline.com/news/1382533/sandra-bullock-shared-rare-insight-into-her-relationship-with-bryan-randall-over-a-year-before-his-death",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202377/cr_1200x1200-230807151804-SandraBryan2.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2023-08-08T19:09:00Z",
-      "content": "Bryan's family confirmed his passing at age 57 in an Aug. 7 statement. \r\n\"It is with great sadness that we share that on Aug. 5, Bryan Randall passed away peacefully after a three-year battle with AL… [+1165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Boeing abandons plans for crewed Starliner flight in 2023 - The Register",
-      "description": "The calamity capsule won't be ready to fly until March 2024, and even then a launch date hasn't been ironed out",
-      "url": "https://www.theregister.com/2023/08/08/boeing_abandons_plans_for_crewed/",
-      "urlToImage": "https://regmedia.co.uk/2023/08/08/starliner-orbit.jpg",
-      "publishedAt": "2023-08-08T18:46:00Z",
-      "content": "Boeing has thrown in the towel on trying to launch Starliner to the International Space Station this year, and is now targeting the first half of 2024 for the calamity capsule's first crewed flight.\r… [+3129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Prince William and Princess Kate cheer for the Lionesses ahead of World Cup Quarter Finals - The Royal Family Channel",
-      "description": "Kate Middleton and Prince William cheered on the Lionesses after they got through to the Women’s World Cup Quarter Final.Sharing their support on the couple’...",
-      "url": "https://www.youtube.com/watch?v=MVZgZUpNNEY",
-      "urlToImage": "https://i.ytimg.com/vi/MVZgZUpNNEY/maxresdefault.jpg",
-      "publishedAt": "2023-08-08T18:36:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Imran Khan barred from Pakistan politics for 5 years after conviction in Toshakhana corruption case | Mint - Mint",
-      "description": "Former Prime Minister Imran Khan was barred from politics for five years on Tuesday by Pakistan's election commission after his conviction in Toshakhana case, the local media reported.",
-      "url": "https://www.livemint.com/news/world/imran-khan-barred-from-pakistan-politics-for-5-years-after-conviction-in-toshakhana-corruption-case-11691517801709.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/08/600x338/Imran_Khan_1691518063074_1691518063286.JPG",
-      "publishedAt": "2023-08-08T18:12:13Z",
-      "content": "Former Prime Minister Imran Khan was barred from politics for five years on Tuesday by Pakistan's election commission after his conviction in Toshakhana corruption case, the local media reported. Und… [+2170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Air Pollution Linked to Rise in Antibiotic Resistance | Vantage with Palki Sharma - Firstpost",
-      "description": "Air Pollution Linked to Rise in Antibiotic Resistance | Vantage with Palki Sharma A global study says that air pollution is causing antibiotic resistance to ...",
-      "url": "https://www.youtube.com/watch?v=Zrm84rIZNiU",
-      "urlToImage": "https://i.ytimg.com/vi/Zrm84rIZNiU/maxresdefault.jpg",
-      "publishedAt": "2023-08-08T18:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Niger coup: Wagner taking advantage of instability - Antony Blinken - BBC",
-      "description": "There are concerns the Russian mercenary group may be gaining influence in the country.",
-      "url": "https://www.bbc.com/news/world-africa-66436797",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/41BD/production/_130692861_gettyimages-1583261943.jpg",
-      "publishedAt": "2023-08-08T17:57:49Z",
-      "content": "Russia's Wagner mercenary group is \"taking advantage\" of instability in Niger, US Secretary of State Antony Blinken has told the BBC.\r\nThe country has been ruled by a junta following the ousting of P… [+4486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Brian Bushard",
-      "title": "Weight-Loss Drug Frenzy Drives Eli Lilly And Novo Nordisk Stock To Record Highs - Forbes",
-      "description": "Shares of Eli Lilly and Novo Nordisk both soared to record highs on Tuesday, as sales increased of Eli Lilly’s Mounjaro and as Novo Nordisk reports a promising clinical trial of its drug Wegovy.",
-      "url": "https://www.forbes.com/sites/brianbushard/2023/08/08/weight-loss-drug-frenzy-drives-eli-lilly-and-novo-nordisk-stock-to-record-highs/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63c0736cccb6126750c92cf2/0x0.jpg?format=jpg&crop=3397,1910,x0,y113,safe&width=1200",
-      "publishedAt": "2023-08-08T17:51:21Z",
-      "content": "Shares of pharmaceutical giant Eli Lilly skyrocketed to a record high on Tuesday, after the company reported a surge in sales of its diabetes and weight loss drug Mounjaro, while shares of rival Novo… [+3222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Tereza Pultarova",
-      "title": "Powerful sun storm knocks out radio transmissions across North America - Space.com",
-      "description": "The sun unleashed its second X-flare in less than three days — and we should brace for more such activity.",
-      "url": "https://www.space.com/x-class-solar-flare-radio-blackout-august-2023",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dv52M9KDR3ERfsWZ5DysF7-1200-80.jpg",
-      "publishedAt": "2023-08-08T17:33:01Z",
-      "content": "A powerful solar flare disrupted radio and navigation signals across North America. on Monday (Aug. 7) and prompted space weather forecasters to issue warnings because of energetic particles hitting … [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Erik Kain",
-      "title": "‘Baldur’s Gate 3’ Hotfix Patch Notes Include Some Very Colorful Changes - Forbes",
-      "description": "Everything you need to know about today's Baldur's Gate 3 update.",
-      "url": "https://www.forbes.com/sites/erikkain/2023/08/08/baldurs-gate-3-hotfix-patch-notes-include-some-very-colorful-changes/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d274072f3048ef94034c63/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-08T17:04:42Z",
-      "content": "Baldur's Gate 3\r\nCredit: Larian\r\nBaldurs Gate 3 is an undeniable hit, and rightfully so. Larian Studios has produced an RPG that harkens back to the good old days, reminding us all how much we miss t… [+7835 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Developer logs reveal more details about next-gen Apple M3 and M3 Max chips - Ars Technica",
-      "description": "Compared to M2 Max, M3 Max could come with four more high-performance cores.",
-      "url": "https://arstechnica.com/gadgets/2023/08/developer-logs-reveal-more-details-about-next-gen-apple-m3-and-m3-max-chips/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IMG_1183-760x380.jpeg",
-      "publishedAt": "2023-08-08T16:48:29Z",
-      "content": "Enlarge/ The Mac Studio, a likely recipient of a new M3 Max chip.\r\n102 with \r\nApple's M3 processor generation is continuing to take shape thanks to what seem to be unreleased internal test devices th… [+3446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Manjiri Chitre",
-      "title": "Govt to investigate ‘Havana syndrome’ in India. Know all about mystery illness - Hindustan Times",
-      "description": "The mysterious illness ‘Havana’ came to the public attention in 2016 after several diplomats at the US embassy in Havana began complaining of being sick. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/govt-to-investigate-havana-syndrome-in-india-know-all-about-the-mystery-illness-101691507737838.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/08/1600x900/havana_1691509624617_1691509624733.jpg",
-      "publishedAt": "2023-08-08T16:18:34Z",
-      "content": "The central government will be soon investigating the possibility of Havana Syndrome in India, the government told Karnataka high court last week. According to reports, the Centre made the submission… [+1332 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "WION",
-      "title": "5 Famous People Diagnosed with ALS - WION",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dlYi1zdG9yaWVzL3RyZW5kaW5nLzUtZmFtb3VzLXBlb3BsZS1kaWFnbm9zZWQtd2l0aC1hbHMtMTY5MTUxMDAzMTIzN9IBXWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dlYi1zdG9yaWVzL3RyZW5kaW5nLzUtZmFtb3VzLXBlb3BsZS1kaWFnbm9zZWQtd2l0aC1hbHMtMTY5MTUxMDAzMTIzNw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-08-08T16:08:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Monckton",
-      "title": "Google Details New iPhone-Beating ‘Holy Grail’ Technology For Pixel Smartphones - Forbes",
-      "description": "Google has detailed a new smartphone technology that could put the company’s Google Pixel smartphones one step ahead of iPhones and Samsung Galaxy handsets.",
-      "url": "https://www.forbes.com/sites/paulmonckton/2023/08/08/google-details-new-iphone-beating-holy-grail-technology-for-pixel-smartphones/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/634b2543dc7842675f8e9c72/0x0.jpg?format=jpg&crop=1620,1080,x148,y0,safe&width=1200",
-      "publishedAt": "2023-08-08T15:51:52Z",
-      "content": "Google has revealed a radical new camera technology that could put future Pixel smartphones ahead of ... [+] iPhone and Samsung Galaxy.\r\nGOOGLE\r\nGoogle has detailed a new smartphone technology that c… [+3072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "\"Once We Cease To Be Judges...\": Chief Justice On Ranjan Gogoi's Remark - NDTV",
-      "description": "\"Once we cease to be judges, whatever we say is just opinion and they are not binding,\" Chief Justice of India DY Chandrachud said on Tuesday when remarks of former CJI Ranjan Gogoi on basic structure doctrine made in Parliament were referred.",
-      "url": "https://www.ndtv.com/india-news/once-we-cease-to-be-judges-chief-justice-on-ranjan-gogois-remark-4280831",
-      "urlToImage": "https://c.ndtvimg.com/2023-03/17tmiujk_dy-chandrachud-ani_625x300_18_March_23.jpg",
-      "publishedAt": "2023-08-08T15:14:03Z",
-      "content": "CJI Chandrachud made the remark in response to Mr Sibal's referral. (File)\r\nNew Delhi: Chief Justice of India DY Chandrachud on Tuesday remarked that once judges demit office whatever they say is jus… [+4988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/lifestylestaff/",
-      "title": "All You Need to Know About Zurzuvae, World’s First Postpartum Depression Pill Approved in US - India.com",
-      "description": "The FDA has approved world's first postpartum depression pill in USA in the name of Zurzuvae. There are certain guidelines and side effects to this oral medication that people should know about before taking the prescription.",
-      "url": "https://www.india.com/health/all-you-need-to-know-about-zurzuvae-worlds-first-postpartum-depression-pill-approved-in-us-6214050/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/08/Postpartum.jpg",
-      "publishedAt": "2023-08-08T15:10:50Z",
-      "content": "The FDA has approved world's first postpartum depression pill in USA in the name of Zurzuvae. There are certain guidelines and side effects to this oral medication that people should know about befor… [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Traxion.gg"
-      },
-      "author": "Thomas Harrison-Lord",
-      "title": "Cars from the Gran Turismo Movie not currently in Gran Turismo 7 - Traxion",
-      "description": "With the film of the competition that used the game, ahem, now in cinemas, we spotted several vehicles in the movie not yet within the associated title.",
-      "url": "https://traxion.gg/cars-in-the-gran-turismo-movie-not-currently-in-gran-turismo-7/",
-      "urlToImage": "http://traxion.gg/wp-content/uploads/2023/08/Cars-in-the-Gran-Turismo-Movie-not-currently-in-Gran-Turismo-7.jpg",
-      "publishedAt": "2023-08-08T15:07:54Z",
-      "content": "Gran Turismo: Based On A True Story is the film biopic of Jann Mardenborough, who in 2011 won the GT Academy competition to go from PlayStation 3 player to Nissan Motorsports driver.\r\nThe movie relea… [+5564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khelnow.com"
-      },
-      "author": "Author Name",
-      "title": "Durand Cup: Mumbai City put up five-star show against Jamshedpur FC - Khel Now",
-      "description": "Mumbai City FC registered a resounding victory over Jamshedpur FC in the Durand Cup 2023.",
-      "url": "https://khelnow.com/football/2023-08-indian-football-durand-cup-mumbai-city-vs-jamshedpur-fc-report",
-      "urlToImage": "https://assets-webp.khelnow.com/news/uploads/2023/08/DSC_6929-1280x853.jpg.webp",
-      "publishedAt": "2023-08-08T15:03:52Z",
-      "content": "Mumbai City FC cruised to their second consecutive victory as they comfortably beat Jamshedpur FC 5-0 in a Group B fixture of the 132nd IndianOil Durand Cup being played here at the Vivekananda Yuba … [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Kishalaya Kundu",
-      "title": "Apple's M3 Max chip for the 2024 MacBook Pro could have 16 CPU cores & 40 GPU cores - XDA Developers",
-      "description": "Apple's M3-series chips are tipped to come in three iterations, led by the super powerful M3 Max.",
-      "url": "https://www.xda-developers.com/apple-m3-max-2024-macbook-pro/",
-      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/macbook-pro-m2-max-xda-review-202300204.jpg",
-      "publishedAt": "2023-08-08T15:02:00Z",
-      "content": "Key Takeaways\r\n<ul><li> Apple is reportedly working on the successor to the 16-inch MacBook Pro, with the next-gen model expected to be powered by the super powerful M3 Max chip. </li><li> The M3 Max… [+2247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Varuni Khosla",
-      "title": "GST impact: Mobile Premier League to slash 350 jobs | Mint - Mint",
-      "description": "Highly placed sources in the company confirmed that layoffs will be effective at every level",
-      "url": "https://www.livemint.com/companies/news/gst-impact-mobile-premier-league-to-slash-350-jobs-11691502483007.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/08/600x338/TA_76_1691503286697_1691503286910.png",
-      "publishedAt": "2023-08-08T14:05:04Z",
-      "content": "New Delhi: As one of the fallouts of the meek outlook following the decision of the GST Council to increase the GST burden on gamers and gaming companies to 28%, one of the largest players in the fan… [+3121 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "JINTAMAS SAKSORNCHAI",
-      "title": "The second son of Thailand's king returns to the country unexpectedly after decades of estrangement - The Associated Press",
-      "description": "The estranged son of Thailand’s King Maha Vajiralongkorn visited a daycare center for underprivileged children in Bangkok following a surprise return to the country after 27 years of living abroad. Vacharaesorn Vivacharawongse’s return was first revealed in a…",
-      "url": "https://apnews.com/article/thailand-vajiralongkorn-king-son-returns-24599d730e7b3ebe2a054baee1a0dc6b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6eccf42/2147483647/strip/true/crop/4744x2669+0+247/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F36%2F180ef908c3991df4e3186ac0cc19%2F05c1114fbdc0441dad341ddd18fb05de",
-      "publishedAt": "2023-08-08T11:49:00Z",
-      "content": "BANGKOK (AP) The estranged son of Thailands King Maha Vajiralongkorn visited a daycare center for underprivileged children in Bangkok on Tuesday following a surprise return to the country after 27 ye… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "Apple iPhone 15 Pro: New Leaks Suggest Surprise Big Upgrade Coming - Forbes",
-      "description": "The latest leaks suggest that the design of the next iPhone Pro models could have a big, crowd-pleasing upgrade.",
-      "url": "https://www.forbes.com/sites/davidphelan/2023/08/08/apple-iphone-15-pro-new-leaks-suggest-surprise-big-upgrade-coming-iphone-15-pro-max/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d1f808b5b9a1175865f247/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-08T10:00:16Z",
-      "content": "Apple iPhone 14 Pro in Peel thin case. Will the next iPhones double their storage levels?\r\nDavid Phelan\r\nIts not long now until Apple releases its next iPhone series, that is, iPhone 15, iPhone 15 Pl… [+3618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NME"
-      },
-      "author": "Imogen Donovan",
-      "title": "'Call Of Duty: Modern Warfare 3' release date confirmed in new trailer - NME",
-      "description": "\"Never bury your enemies alive\"",
-      "url": "https://www.nme.com/news/gaming-news/call-of-duty-modern-warfare-3-release-date-confirmed-in-new-trailer-3479749",
-      "urlToImage": "https://www.nme.com/wp-content/uploads/2023/08/modern-warfare-3-confirmed-for-november.jpg",
-      "publishedAt": "2023-08-08T08:59:25Z",
-      "content": "Revealed in a new teaser trailer, the nextCall Of Duty is titledModern Warfare 3 and it’ll be released later this year.\r\nThe Modern Warfare 3 trailer, which arrived yesterday (August 7,) does not giv… [+1823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/intern15-seo/",
-      "title": "Last Day Deals on Amazon Freedom Festival Sale: Get Discount Offers On Smartphones, Laptops, TVs, Home Applia - India.com",
-      "description": "Amazon Great Freedom Festival Sale is concluding on August 8. Now is the best time to buy smartphones, laptops, home appliance and beauty products on massive discounts during the Amazon's Great Freedom Festival Sale.",
-      "url": "https://www.india.com/technology/last-day-deals-on-amazon-freedom-festival-sale-get-discount-offers-on-smartphones-laptops-tvs-home-appliances-6213577/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/08/Amazon-Great-Freedom-Festival-Sale-Ends-Today.png",
-      "publishedAt": "2023-08-08T08:56:51Z",
-      "content": "Amazon Great Freedom Festival Sale is concluding on August 8. Now is the best time to buy smartphones, laptops, home appliance and beauty products on massive discounts during the Amazon's Great Freed… [+2607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Machine learning for genetics-based classification and treatment response prediction in cancer of unknown primary - Nature.com",
-      "description": "A machine-learning classifier predicts the origin of cancer of unknown primary based on electronic health records and next-generation sequencing data, showing that patients treated accordingly to model predictions had significantly better outcomes.",
-      "url": "https://www.nature.com/articles/s41591-023-02482-6",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-023-02482-6/MediaObjects/41591_2023_2482_Fig1_HTML.png",
-      "publishedAt": "2023-08-07T15:47:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Gestational Diabetes: 9 Tips To Lower Risk During Pregnancy - NDTV",
-      "description": "Below we discuss what could lead to gestational diabetes and how can you prevent it.",
-      "url": "https://www.ndtv.com/health/gestational-diabetes-9-tips-to-lower-risk-during-pregnancy-4277168",
-      "urlToImage": "https://c.ndtvimg.com/2023-06/tfoouob_-pregnant-woman_625x300_14_June_23.jpg",
-      "publishedAt": "2023-08-07T13:27:10Z",
-      "content": "Women who are overweight before pregnancy have a higher risk of gestational diabetes\r\nGestational diabetes is a type of diabetes that develops during pregnancy. It affects pregnant women who previous… [+3573 chars]"
+      "author": "Stacy Liberatore",
+      "title": "Boulder storm 'as deadly as Hiroshima' accidentally unleashed by NASA during test to change the... - Daily Mail",
+      "description": "A new study reveals consequences of NASA's planetary defense test to change the trajectory of an asteroid. The spacecraft released 37 large boulders that are now traveling 13,000mph in space.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-12385379/Boulder-storm-deadly-Hiroshima-accidentally-unleashed-NASA-test-change-trajectory-asteroid.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/08/08/19/74093923-0-image-a-18_1691518042354.jpg",
+      "publishedAt": "2023-08-08T18:28:57Z",
+      "content": "A boulder swarm 'as deadly as Hiroshima' was accidentally unleashed by NASA during its first planetary defense mission last year.\r\nScientists at the University of California, Los Angeles, identified … [+3767 chars]"
     }
   ]
 }
