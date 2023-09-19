@@ -1,32 +1,825 @@
 {
   "status": "ok",
-  "totalResults": 155,
+  "totalResults": 139,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Livemint"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Livemint",
-      "title": "Yatra Online IPO: Issue booked 20% so far on day 2; check subscription status, GMP, other key details | Mint - Mint",
-      "description": "Yatra Online IPO comprises a fresh issuance of  ₹602 crore worth of shares and an offer for sale (OFS) of up to 1.22 crore shares by a promoter and existing investor.",
-      "url": "https://www.livemint.com/market/ipo/yatra-online-ipo-issue-booked-20-so-far-on-day-2-check-subscription-status-gmp-other-key-details-11695017448923.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/flight_1695017988177_1695017988371.jpg",
-      "publishedAt": "2023-09-18T07:45:45Z",
-      "content": "Yatra Online IPO: The initial public offering (IPO) of Yatra Online which opened for subscription on September 15 has so far received lacklustre response from investors. The 775.00 crore worth Yatra … [+3551 chars]"
+      "author": "USA TODAY",
+      "title": "Powerball jackpot soars over $600 million: When is the next drawing? - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/money/2023/09/18/powerball-next-drawing/70889713007/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T18:34:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Equitymaster.com"
+      },
+      "author": null,
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "description": "Indian share markets are trading on a negative note with the Sensex down by 100 points, while the Nifty is trading 15 points lower.",
+      "url": "https://www.equitymaster.com/indian-share-markets/09/18/2023/Sensex-Today-Trades-Lower--GNFC-Tanks-5--Hindalco-and-Infosys-Among-Top-Losers",
+      "urlToImage": "https://www.eqimg.com/tm/images/2022/08292022-tm-image2-thumb-equitymaster.jpg",
+      "publishedAt": "2023-09-18T18:30:10Z",
+      "content": "Asian equities fell in the wake of big tech declines on Wall Street as traders geared up for a raft of policy decisions this week from the US, UK and Japan.\r\nTech shares across the region retreated, … [+7908 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Hannah Miao, Josh Mitchell, Patricia Kowsmann, David Marino-Nachison, Eric Wallerstein, Bob Henderson, Karen Langley, Dave Michaels, Anna Hirtenstein, Will Feuer, Nick Timiraos, Jack Pitcher, Katy Barnato, Jason Zweig, Elaine Yu, Joe Wallace, Dave Sebastian, Heard Editors",
+      "title": "Stock Market News Today: Dow, S&P 500 Edge Up Ahead of Fed Meeting; Tesla, Arm Stocks in Focus - The Wall Street Journal",
+      "description": "Live coverage of what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023",
+      "urlToImage": "https://images.wsj.net/im-785590/social",
+      "publishedAt": "2023-09-18T18:09:00Z",
+      "content": "U.S. stocks kicked off the week posting modest gains after a bumpy start to trading.\r\nTreasury yields retreated after flirting with their highest closing level since 2007. The Federal Reserve is expe… [+1552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "Stellantis could close 18 facilities under UAW deal — here are the full details of its latest offer - CNBC",
+      "description": "The company made the latest offer Thursday, before the start of targeted strikes by the United Auto Workers Union against Stellantis, Ford and GM.",
+      "url": "https://www.cnbc.com/2023/09/18/uaw-strike-stellantis-could-close-18-facilities-under-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107301949-1694908758398-gettyimages-1668659646-DET1253.jpeg?v=1695060955&w=1920&h=1080",
+      "publishedAt": "2023-09-18T18:05:40Z",
+      "content": "United Auto Workers members attend a solidarity rally as the UAW strikes the Big Three automakers on September 15, 2023 in Detroit, Michigan.\r\nDETROIT The most recent contract proposal by automaker S… [+7409 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Stephen Kalin, Julie Steinberg, Summer Said",
+      "title": "Tesla, Saudi Arabia in Early Talks for EV Factory - WSJ - The Wall Street Journal",
+      "description": "Kingdom is trying to boost foreign investment but has contentious history with Elon Musk",
+      "url": "https://www.wsj.com/business/autos/tesla-saudi-arabia-in-early-talks-for-ev-factory-240cd075",
+      "urlToImage": "https://images.wsj.net/im-853448/social",
+      "publishedAt": "2023-09-18T17:57:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Striking unions impacting the economy at a level not seen in decades - CNBC",
+      "description": "So far, the UAW stoppage has impacted just a small portion of the workforce with limited implications for the broader economy.",
+      "url": "https://www.cnbc.com/2023/09/18/striking-unions-impacting-the-economy-at-a-level-not-seen-in-decades.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107290172-1692719586692-gettyimages-1631628364-jni_sag_strike_8_22_23-09926.jpeg?v=1695062163&w=1920&h=1080",
+      "publishedAt": "2023-09-18T17:44:45Z",
+      "content": "The auto workers' strike is the latest in a series of labor-management conflicts that economists say could start having significant growth impacts if they persist.\r\nSo far, the United Auto Workers st… [+4877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "Clorox warns of product shortages after cyberattack - Fox Business",
+      "description": "Clorox is the latest company to disclose the details of a cyber attack it faced last month that hindered its operations and will impact its quarterly earnings.",
+      "url": "https://www.foxbusiness.com/lifestyle/clorox-warns-product-shortages-after-cyberattack",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/Clorox.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-18T17:25:39Z",
+      "content": "Clorox warned Monday that the \"widescale\" cyberattack it endured last month is causing product availability issues and will have a material impact on its first-quarter earnings. \r\nThe California-base… [+3407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Eric J. Savitz",
+      "title": "Klaviyo Raises Its Expected IPO Price Range. The Stock Starts Trading Wednesday. - Barron's",
+      "description": "This will be the third in a series of IPOs, following ARM last week and the initial offering for Instacart's parent company, expected on Tuesday.",
+      "url": "https://www.barrons.com/articles/klaviyo-ipo-pricing-1b5427b7",
+      "urlToImage": "https://images.barrons.com/im-84093423/social",
+      "publishedAt": "2023-09-18T17:15:00Z",
+      "content": "Klaviyo, a venture-backed marketing software company scheduled to come public this week, raised the expected price range for its initial offering on Monday.In an updated IPO filing with the SEC, Klav… [+2807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Tae Kim",
+      "title": "Arm Stock Gets First Sell Rating After IPO. Bernstein Expects It to Plunge. - Barron's",
+      "description": "The company makes money from licensing its chip architecture and other chip designs to semiconductor companies and hardware makers.",
+      "url": "https://www.barrons.com/articles/arm-ipo-stock-first-sell-rating-ccde8afd",
+      "urlToImage": "https://images.barrons.com/im-96726591/social",
+      "publishedAt": "2023-09-18T17:05:00Z",
+      "content": "Arm Holdings\r\nstock may be overvalued, given rising competition, a mature phone market, and China-related risk, Bernstein says.On Monday, analyst Sara Russo initiated coverage for \r\nArm\r\nstock (ticke… [+1987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Vivien Lou Chen",
+      "title": "Why coming decades may bring more frequent recessions and be good for investors - MarketWatch",
+      "description": "The 40-year period from 1980 to 2020 characterized by mostly economic expansion will likely be replaced by more frequent recessions, Deutsche Bank said.",
+      "url": "https://www.marketwatch.com/story/why-coming-decades-may-bring-more-frequent-recessions-and-be-good-for-investors-2097f0b5",
+      "urlToImage": "https://images.mktw.net/im-853659/social",
+      "publishedAt": "2023-09-18T16:44:00Z",
+      "content": "The unique 40-year period from 1980 to 2020 characterized by mostly economic expansion in the U.S. will likely be replaced by a more regular pattern of boom-bust cycles and frequent recessions, accor… [+4432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Fred Lambert",
+      "title": "Elon Musk: Turkey is among the most important candidates for next Tesla factory - Electrek",
+      "description": "Elon Musk reportedly says that Turkey is “among the most important candidates for the next Tesla factory,” after meeting with...",
+      "url": "https://electrek.co/2023/09/18/elon-musk-turkey-next-tesla-factory/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/12/tesla-turkey.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-09-18T16:40:00Z",
+      "content": "Elon Musk reportedly says that Turkey is “among the most important candidates for the next Tesla factory,” after meeting with President Erdogan.\r\nTurkish President Tayyip Erdogan and Musk met in New … [+1855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Karishma Vanjani",
+      "title": "When Does Instacart Go Public? Closely Watched IPO Starts Trading This Week. - Barron's",
+      "description": "Confidence in the gig economy combined with the success of advertising will help decide the grocery-delivery company's future as it goes public.",
+      "url": "https://www.barrons.com/articles/when-does-instacart-ipo-go-public-4b2bab03",
+      "urlToImage": "https://images.barrons.com/im-170681/social",
+      "publishedAt": "2023-09-18T16:39:00Z",
+      "content": "The online grocery- delivery company \r\nInstacart\r\nwill soon get a spot in retail brokerage accounts. Its a test of investors appetite for so-called gig-economy companies.San Franciscos Instacart, inc… [+3886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cat Clifford",
+      "title": "California Governor Newsom says he'll sign bill requiring large companies to report emissions - CNBC",
+      "description": "The law will make California the first location in the U.S. to require corporate carbon accounting, and comes as the SEC is considering a similar move.",
+      "url": "https://www.cnbc.com/2023/09/18/california-governor-newsom-will-sign-emissions-reporting-bill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210065-1678985019704-gavin.jpg?v=1695055078&w=1920&h=1080",
+      "publishedAt": "2023-09-18T16:37:58Z",
+      "content": "California Governor Gavin Newsom says he will sign a bill that will require large businesses to account for their carbon emissions, including their scope 3 or supply chain emissions.\r\nState lawmakers… [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Tanaya Macheel",
+      "title": "Bitcoin breaks above $27,000 for the first time in September - CNBC",
+      "description": "Cryptocurrency prices rose broadly on Monday, with bitcoin climbing above $27,000 for the first time this month.",
+      "url": "https://www.cnbc.com/2023/09/18/bitcoin-breaks-above-27000-for-the-first-time-in-september.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107078012-1655709503739-gettyimages-1234311678-sindeyev-notitle210729_npFPY.jpeg?v=1695054341&w=1920&h=1080",
+      "publishedAt": "2023-09-18T16:25:41Z",
+      "content": "Cryptocurrency prices rose broadly on Monday, with bitcoin climbing above $27,000 for the first time this month.\r\nBitcoin was last higher by 3% at $27,307, according to Coin Metrics. Earlier it rose … [+1810 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Diane Bartz",
+      "title": "Verizon executive testifies Google search always pre-installed on mobile phones - Reuters",
+      "description": "The U.S. Justice Department on Monday objected to removing the public from the court during some discussions of how Google prices online advertising, one of the issues at the heart of the antitrust trial under way in Washington.",
+      "url": "https://www.reuters.com/technology/verizon-executive-testifies-google-search-always-pre-installed-mobile-phones-2023-09-18/",
+      "urlToImage": "https://www.reuters.com/resizer/S3d6w4PFQb8ZABkbvszKzlxwrqY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/THFRJDWFVRPMFDYBRVI2TFBH7U.jpg",
+      "publishedAt": "2023-09-18T16:17:00Z",
+      "content": "WASHINGTON, Sept 18 (Reuters) - The U.S. Justice Department on Monday objected to removing the public from the court during some discussions of how Google prices online advertising, one of the issues… [+3575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DailyFX"
+      },
+      "author": "Richard Snow",
+      "title": "Gold Price Latest: XAU/USD Levels to Consider Ahead of FOMC - DailyFX",
+      "description": "Gold has risen gingerly ahead of the FOMC decision with rates expected to remain unchanged. Gold hovers around the 200 DMA as price action struggles for momentum",
+      "url": "https://www.dailyfx.com/news/gold-price-latest-xau-usd-levels-to-consider-ahead-of-fomc-20230918.html",
+      "urlToImage": "https://a.c-dn.net/b/3757h3/gold2.jpg",
+      "publishedAt": "2023-09-18T16:10:22Z",
+      "content": "Gold (XAU/UAS) Analysis\r\n<ul><li>Gold rises cautiously around key technical level (200 SMA)</li><li>US yields remain elevated, capping gold gains thus far</li><li>Silver attempts to test significant … [+3566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Emily Dattilo",
+      "title": "Nikola Stock Soars 25% After Announcing New COO - Barron's",
+      "description": "The electric truck start-up appointed Mary Chan to the position. She previously held roles at GM and Dell.",
+      "url": "https://www.barrons.com/articles/nikola-stock-prices-coo-mary-chan-news-55d7db47",
+      "urlToImage": "https://images.barrons.com/im-795063/social",
+      "publishedAt": "2023-09-18T15:53:00Z",
+      "content": "Nikola\r\nstock was rising double-digits Monday after the electric truck start-up announced a new addition to its leadership team. \r\nNikola (ticker: NKLA) appointed Mary Chan as chief operating officer… [+793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Lawrence Richard",
+      "title": "Skechers' Food Spot has customers lining up around the block: 'beautiful concept' - Fox Business",
+      "description": "Skechers, the warehouse shoe company, now offers California customers an option to eat while shopping with the addition of an outdoor eatery in Gardena.",
+      "url": "https://www.foxbusiness.com/lifestyle/skechers-food-spot-customers-lining-around-block-beautiful-concept",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/o-4.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-18T15:48:35Z",
+      "content": "Skechers could soon be known for more than just its shoes as a store in California opened up its own Costco-like concession stand — and people love it.\r\nThe warehouse shoe company’s \"Food Spot,\" loca… [+4285 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Travel+Leisure"
+      },
+      "author": "https://www.facebook.com/travelandleisure/",
+      "title": "Fontainebleau Las Vegas Exclusive Preview - Travel + Leisure",
+      "description": "Here’s everything you can expect from Fontainebleau Las Vegas when it opens this winter.",
+      "url": "https://www.travelandleisure.com/fontainebleau-las-vegas-exclusive-inside-look-7970784",
+      "urlToImage": "https://www.travelandleisure.com/thmb/qHgEjEPmWRWk38rwz63amHDlNEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-fontainebleau-las-vegas-pool-FNTNBLVN0923-2009ef2902144a17b641ef3259d84d8f.jpg",
+      "publishedAt": "2023-09-18T15:35:41Z",
+      "content": "After many delays, Fontainebleau Las Vegas is set to welcome guests this winter. The $3.7 billion project is only the second newly built resort to open on the Las Vegas Strip in the past decade and c… [+6643 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ishaan Gera",
+      "title": "S&P Global revises India’s FY24 growth forecast upwards to 6.6%; turns pessimistic on inflation - The Economic Times",
+      "description": "S&P Global Market Intelligence has revised India's growth forecast for FY24 to 6.6% due to strong growth in the April-June quarter, up from the 5.9% projected in August. However, the analytics firm predicts a sharp rise in inflation to 6% in 2023, compared to…",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/sp-global-revises-indias-fy24-growth-forecast-upwards-to-6-6-turns-pessimistic-on-inflation/articleshow/103764131.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103764147,width-1070,height-580,imgsize-32310,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-18T15:28:00Z",
+      "content": "Indias growth forecast was revised upwards to 6.6% for FY24 on the back of solid growth in the April-June quarter, S&amp;P Global Market Intelligence said on Monday, marking a sharp revision from the… [+3405 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Leo Schwartz",
+      "title": "New York crypto regulator removes Ripple and Dogecoin from token ‘greenlist’ in latest update - Fortune",
+      "description": "The Department of Financial Services stripped nearly 20 cryptocurrencies from the list in its new guidance.",
+      "url": "https://fortune.com/crypto/2023/09/18/new-york-department-financial-services-dogecoin-ripple-greenlist/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1491313812-e1695049876439.jpg?resize=1200,600",
+      "publishedAt": "2023-09-18T15:13:00Z",
+      "content": "On Monday, the New York Department of Financial Services announced an update to its virtual currency oversight regime, including new criteria for how digital firms licensed by the agency can list dif… [+3415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Megan Henney",
+      "title": "Homebuilder sentiment plunges again amid spike in mortgage rates - Fox Business",
+      "description": "Sentiment among U.S. homebuilders unexpectedly fell into negative territory in September as high mortgage rates weighed on consumer demand for new homes.",
+      "url": "https://www.foxbusiness.com/economy/homebuilder-sentiment-plunges-again-spike-mortgage-rates",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/homes-neighborhood.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-18T14:38:21Z",
+      "content": "Confidence among builders in the U.S. housing market\r\n unexpectedly plunged in September for the second straight month as a spike in mortgage rates continued to weigh on consumer demand for new homes… [+2286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Angela Palumbo",
+      "title": "Micron Stock Upgraded to Buy Ahead of Earnings. Demand Is Improving. - Barron's",
+      "description": "Deutsche analyst Sidney Ho upgrades shares of Micron to Buy from Hold.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-upgrade-demand-eeab7ccc",
+      "urlToImage": "https://images.barrons.com/im-204011/social",
+      "publishedAt": "2023-09-18T14:32:00Z",
+      "content": "Micron Technology\r\nstock was rising Monday after a Deutsche Bank analyst upgraded the stock on recent improvement in demand.Deutsche Bank analyst Sidney Ho upgraded shares of \r\nMicron\r\n(ticker: MU) t… [+1622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Cameron Kiszla, Annie Rose Ramos",
+      "title": "Gas prices surge to almost $6 per gallon in Los Angeles area - KTLA Los Angeles",
+      "description": "Southern California drivers are feeling the squeeze of high gas prices yet again. On Monday morning, the price of a regular gallon of gas averaged about $5.92 in the Los Angeles area, according to AAA. That’s a 5-cent increase from the day before and nearly 4…",
+      "url": "https://ktla.com/news/local-news/gas-prices-surge-to-almost-6-per-gallon-in-los-angeles-area/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/11/0ed8fe2efd7b45f3b19a029501cf1457.jpg?w=1280",
+      "publishedAt": "2023-09-18T14:09:42Z",
+      "content": "Southern California drivers are feeling the squeeze of high gas prices yet again.\r\nOn Monday morning, the price of a regular gallon of gas averaged about $5.92 in the Los Angeles area, according to A… [+982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Atlanta Black Star"
+      },
+      "author": "Nicole Duncan-Smith",
+      "title": "‘It Was Totally Unprovoked’: Woman Drags 13-Year-Old to the Floor In Vicious Random Attack In Los Angeles McDonald’s While Onlookers Just Stand By and Film - Yahoo News",
+      "description": "A 13-year-old California girl’s school year is not starting out as she planned. After leaving school, she and her friends stopped by a local McDonald’s […]",
+      "url": "https://atlantablackstar.com/2023/09/18/woman-attacks-13-year-old-at-random-in-an-l-a-mcdonalds/",
+      "urlToImage": "https://media.zenfs.com/en/atlanta_black_star_articles_803/6f3af430eebdbc837190d0f7d143c45b",
+      "publishedAt": "2023-09-18T14:02:46Z",
+      "content": "A 13-year-old California girls school year is not starting out as she planned. After leaving school, she and her friends stopped by a local McDonalds in L.A.s Harbor City, where she was assaulted by … [+2673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Son",
+      "title": "Morgan Stanley kicks off generative AI era on Wall Street with assistant for financial advisors - CNBC",
+      "description": "Morgan Stanley says it is the first major Wall Street firm to put a bespoke solution based on GPT-4 in employees' hands.",
+      "url": "https://www.cnbc.com/2023/09/18/morgan-stanley-chatgpt-financial-advisors.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107121163-16636733462022-09-20t110046z_916998079_rc2ykw94dd2c_rtrmadp_0_usa-sec-morganstanley.jpeg?v=1695046780&w=1920&h=1080",
+      "publishedAt": "2023-09-18T14:00:01Z",
+      "content": "Morgan Stanley has officially kicked off the generative AI era on Wall Street.\r\nThe bank plans to announce Monday that the assistant it created with OpenAI's latest generative AI software is \"fully l… [+3212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Portable generators recalled due to burn risk - FOX 26 Houston",
+      "description": "A safety recall has been issued for approximately 64,000 portable generac generators, as they pose a burn risk. According to the Product Safety Commission, t...",
+      "url": "https://www.youtube.com/watch?v=q06LetNrFZI",
+      "urlToImage": "https://i.ytimg.com/vi/q06LetNrFZI/maxresdefault.jpg",
+      "publishedAt": "2023-09-18T13:53:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Angela Palumbo",
+      "title": "Disney and Warner Stocks Get a New Bull - Barron's",
+      "description": "Raymond James analyst Ric Prentiss initiated coverage of Disney and Warner Bros. with Outperform ratings, and Paramount with a Market Perform rating.",
+      "url": "https://www.barrons.com/articles/disney-stock-warner-buy-8b478f69",
+      "urlToImage": "https://images.barrons.com/im-720955/social",
+      "publishedAt": "2023-09-18T13:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Palmer",
+      "title": "Tim Cook says Apple is 'constantly' evaluating its decision to advertise on Elon Musk's X - CNBC",
+      "description": "Musk has been accused by civil rights groups of amplifying antisemitic content on X, the social media platform formerly known as Twitter.",
+      "url": "https://www.cnbc.com/2023/09/18/tim-cook-says-apple-constantly-weighing-advertising-on-elon-musks-x.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261810-1687541036032-gettyimages-1500912206-_m010020_t04xy9ed.jpeg?v=1695045088&w=1920&h=1080",
+      "publishedAt": "2023-09-18T13:51:28Z",
+      "content": "Apple CEO Tim Cook said the company continues to weigh whether it should keep advertising on the platform X, after its owner Elon Musk has been accused of antisemitism.\r\n\"It's something we constantly… [+1392 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Livemint"
       },
-      "author": "Dhanya Nagasundaram",
-      "title": "Zaggle Prepaid IPO: Zaggle IPO fully subscribed on day 3, retail portion sees huge demand | Mint - Mint",
-      "description": "Zaggle Prepaid IPO subscribed 1.18 times on day 3, with retail portion oversubscribed and QIB portion at 9%.",
-      "url": "https://www.livemint.com/market/ipo/zaggle-prepaid-ipo-zaggle-ipo-fully-subscribed-on-day-3-retail-portion-sees-huge-demand-11695019998296.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/feature-onboardlogo_1694684581730_1695020750267.png",
-      "publishedAt": "2023-09-18T07:16:16Z",
-      "content": "Zaggle Prepaid Ocean Services IPO subscription status: Zaggle Prepaid IPO has been subscribed 1.18 times on day 3, so far. Zaggle Prepaid IPO has opened for subscription on Thursday, September 14, an… [+3042 chars]"
+      "author": "Livemint",
+      "title": "Biocon ropes in Peter Bains as group CEO | Mint - Mint",
+      "description": "Biocon appoints Peter Bains as group CEO, effective immediately. Bains has over 30 years of global experience in leadership roles.",
+      "url": "https://www.livemint.com/companies/people/biocon-ropes-in-peter-bains-as-group-ceo-kiran-mazumdar-shaw-11695044341523.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/Peter_Bains_1695044493290_1695044501780.jpg",
+      "publishedAt": "2023-09-18T13:45:53Z",
+      "content": "Biotechnology major Biocon Ldt, on Monday, appointed its Board of Director member, Peter Bains, as its new group Chief Executive Officer. To takeover the position, Peter Bains, stepped down from his … [+1467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX5 Las Vegas"
+      },
+      "author": "Associated Press, RIO YAMAT and WAYNE PARRY",
+      "title": "2 Las Vegas casinos fell victim to cyberattacks, shattering the image of impenetrable casino security - Fox 5 Las Vegas",
+      "description": "MGM Resorts said the incident began last Sunday, affecting reservations and casino floors in Las Vegas and other states.",
+      "url": "https://www.fox5vegas.com/2023/09/18/2-las-vegas-casinos-fell-victim-cyberattacks-shattering-image-impenetrable-casino-security/",
+      "urlToImage": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/_MrPiY83QGVDcBNMw5iah3tYDa4=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/KPRBBJ7GFJEVRFCCML4E6B2BXU.png",
+      "publishedAt": "2023-09-18T13:43:00Z",
+      "content": "LAS VEGAS (AP) A persistent error message greeted Dulce Martinez on Monday as she tried to access her casino rewards account to book accommodations for an upcoming business trip.\r\nThats odd, she thou… [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Natalie Neysa Alund",
+      "title": "Possible E. coli contamination forces recall of 58,000 pounds of beef - USA TODAY",
+      "description": "Green Bay Dressed Beef is recalling 58,281 pounds of raw, ground beef because of E.coli contamination. The product was shipped to three states.",
+      "url": "https://www.usatoday.com/story/news/nation/2023/09/18/ground-beef-recalled-ecoli/70889190007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/18/USAT/70889403007-recalled-beef.png?crop=718,405,x0,y0&width=718&height=405&format=pjpg&auto=webp",
+      "publishedAt": "2023-09-18T13:39:25Z",
+      "content": "More than 58,000 pounds of raw ground beef have been recalled because of possible E. coli contamination, the U.S. Department of Agriculture is reporting.\r\nAmerican Foods Group, doing business as Gree… [+1938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9News.com KUSA"
+      },
+      "author": "KUSA Staff",
+      "title": "8 deals for National Cheeseburger Day in Colorado - 9News.com KUSA",
+      "description": "Say cheese! National Cheeseburger Day arrives Monday, Sept. 18. Here's some tasty places to celebrate with deals and discounts.",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/national-cheeseburger-deals/73-aecb0d15-36a6-4a40-aaea-846d884c097e",
+      "urlToImage": "https://media.9news.com/assets/KUSA/images/db7278e5-8fc5-4f57-994e-42a3ed496ea6/db7278e5-8fc5-4f57-994e-42a3ed496ea6_1140x641.jpeg",
+      "publishedAt": "2023-09-18T13:32:48Z",
+      "content": "DENVER This article was first published by MileHighontheCheap.com.\r\nNational Cheeseburger Day arrives Monday, Sept.  18.\r\nWhile there are many stories regarding the birth of the cheeseburger, many be… [+4552 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "Hundreds of air taxis to be manufactured in Ohio: governor - The Hill",
+      "description": null,
+      "url": "https://thehill.com/homenews/state-watch/4209668-ohio-air-taxies-manufactured-joby-aviation-dayton/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T13:32:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Tesla, Saudi Arabia in early talks for EV factory in the gulf kingdom to diversify economy | Mint - Mint",
+      "description": "Saudi Arabia is in early talks with US electric automaker Tesla to set up a manufacturing facility in the kingdom to help diversify its economy away from oil",
+      "url": "https://www.livemint.com/companies/news/tesla-saudi-arabia-in-early-talks-for-ev-factory-in-the-gulf-kingdom-to-diversify-economy-11695043329955.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/Tesla_1695043553802_1695043554007.jpg",
+      "publishedAt": "2023-09-18T13:30:31Z",
+      "content": "Saudi Arabia is in early talks with US electric automaker Tesla to set up a manufacturing facility in the kingdom to help diversify its economy away from oil, the Wall Street Journal reported Monday … [+3993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "Tata Motors to raise commercial vehicle prices by up to 3% - Moneycontrol",
+      "description": "The price increase is to offset the residual impact of the past input costs, and will be applicable across the entire range of commercial vehicles.",
+      "url": "https://www.moneycontrol.com/news/business/markets/tata-motors-to-raise-commercial-vehicle-prices-by-up-to-3-11388871.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2017/05/Tatamotors-770x433.jpg",
+      "publishedAt": "2023-09-18T13:24:18Z",
+      "content": "Tata Motors has operations in India, the UK, South Korea, Thailand, South Africa and Indonesia, Tata Motors markets its vehicles in Africa, the Middle\r\nEast, Latin America, SoutheastAsia, and the SAA… [+1442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WYFF4 Greenville"
+      },
+      "author": "Stephanie Moore",
+      "title": "The Mustard Seed in Mount Pleasant announces its closing - WYFF4 Greenville",
+      "description": "A popular restaurant in Mount Pleasant, South Carolina, has announced its closing.",
+      "url": "https://www.wyff4.com/article/the-mustard-seed-mount-pleasant-closing/45188557",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/closed-1617732332.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "publishedAt": "2023-09-18T13:21:00Z",
+      "content": "MOUNT PLEASANT, S.C. —A popular restaurant in Mount Pleasant, South Carolina, has announced its closing. \r\nThe Mustard Seed has been in business for more than 28 years. \r\n(Video above: Morning headli… [+2250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": null,
+      "title": "Central Bank Of India share price Today Live Updates : Central Bank Of - MintGenie",
+      "description": "Central Bank Of India stock price went up today, 18 Sep 2023, by 9.93 %. The stock closed at 47.03 per share. The stock is currently trading at 51.7 per share. Investors should monitor Central Bank Of India stock price closely in the coming days and weeks to …",
+      "url": "https://mintgenie.livemint.com/news/markets/central-bank-of-india-share-price-today-live-updates-central-bank-of-india-closed-today-at-span-class-webrupee-span-517-up-993-from-yesterday-s-span-class-webrupee-span-4703-151695008764522",
+      "urlToImage": "https://images.livemint.com/img/2023/07/03/600x338/2-0-115682715-MUMBAI-STOCK-4C--0_1681874462118_1688355437679_1688355449602.jpg",
+      "publishedAt": "2023-09-18T13:13:32Z",
+      "content": "Central Bank of India opened at 46.99 and closed at 47.03 on the last day of trading. The stock reached a high of 46.99 and a low of 45.21. The market capitalization of the bank is 39,411.47 crore. T… [+206 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Grace Kay, Grace Dean",
+      "title": "Musk worried dad 'uncomfortably attentive' to stepdaughter: book - Business Insider",
+      "description": "Errol Musk, who eventually had two children with his former stepdaughter Jana Bezuidenhout, told Insider that his son Elon's claims were \"balderdash.\"",
+      "url": "https://www.businessinsider.com/elon-musk-comments-father-errol-stepdaughter-jana-bezuidenhout-biography-2023-9",
+      "urlToImage": "https://i.insider.com/6501b81c1afe8f0019e97616?width=1200&format=jpeg",
+      "publishedAt": "2023-09-18T12:57:00Z",
+      "content": "Elon Musk worried about how much attention his father Errol Musk was paying to a stepdaughter when she was a minor, Walter Isaacson said in his biography on the Tesla CEO. Over a decade later, Errol … [+4545 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Amazon's fall Prime Day sale is happening October 10th and 11th - The Verge",
+      "description": "Amazon Prime Big Deal Days is set to kick off the holiday shopping season well ahead of Black Friday, with exclusive deals on earbuds, robot vacuums, smart home tech, and more.",
+      "url": "https://www.theverge.com/2023/9/18/23878420/amazon-october-prime-day-big-deal-days-fall-dates",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg",
+      "publishedAt": "2023-09-18T12:49:38Z",
+      "content": "Amazons fall Prime Day sale is happening October 10th and 11th\r\nAmazons fall Prime Day sale is happening October 10th and 11th\r\n / Amazon is once again running a second two-day sales event in one yea… [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "cleveland.com"
+      },
+      "author": "Joey Morona, cleveland.com",
+      "title": "Fox 8 Cleveland returns to DirecTV, DirecTV Stream, U-verse, for now - cleveland.com",
+      "description": "The temporary deal ends a 76-day blackout.",
+      "url": "https://www.cleveland.com/entertainment/2023/09/fox-8-cleveland-returns-to-directv-directv-u-verse-for-now.html",
+      "urlToImage": "https://www.cleveland.com/resizer/uO6a7xgWAxUZzkKlXTZA1gSuniY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7M4EVGLNP5FEBKADLV6LNQ255E.jpg",
+      "publishedAt": "2023-09-18T12:35:00Z",
+      "content": "CLEVELAND, Ohio -- DirecTV, DirecTV Stream and U-verse subscribers in Northeast Ohio can watch Fox 8 News, the NFL on Fox and The Masked Singer once again. WJW Channel 8 returned to the satellite, st… [+1239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Anu Sharma",
+      "title": "Mumbai airport August air traffic at 108% of pre-pandemic level | Mint - Mint",
+      "description": "The airport witnessed a total of 20,711 domestic flights and 6,960 international air traffic movements last month",
+      "url": "https://www.livemint.com/industry/mumbai-airport-august-air-traffic-at-108-of-pre-pandemic-level-11695039331623.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/2-0-140579715-Mumbai-Airport-4C-0_1681193309127_1695040331259.jpg",
+      "publishedAt": "2023-09-18T12:33:29Z",
+      "content": "New Delhi: Domestic air traffic at the Mumbai International Airport last month stood at 108% of pre-pandemic level of August 2019. The airport recorded passenger traffic of over 4.32 million, an incr… [+1615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "PYPL Stock: PayPal Downgraded On Growing Apple, Square Competition - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/pypl-stock-downgraded-new-ceo-apple-square-competition/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T12:31:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stocks making the biggest moves premarket: DoorDash, Arm, PayPal and more - CNBC",
+      "description": "These are the stocks making headlines in premarket trading Monday.",
+      "url": "https://www.cnbc.com/2023/09/18/stocks-making-the-biggest-moves-premarket-dash-arm-pypl.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106516157-1588351785968gettyimages-1209050413.jpeg?v=1695040122&w=1920&h=1080",
+      "publishedAt": "2023-09-18T12:28:42Z",
+      "content": "Check out the companies making headlines in premarket trading.\r\nPayPal Shares of the payments giant fell more than 1% premarket after MoffettNathanson downgraded the stock to market perform from outp… [+1300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Strong Listing | Jupiter Life Line Hospitals closes with 46% gains on debut - Moneycontrol",
+      "description": "Jupiter Life Line Hospitals share price closed at Rs 1,075.75, with volume of 1.28 crore equity shares on the NSE.",
+      "url": "https://www.moneycontrol.com/news/business/ipo/strong-listing-jupiter-life-line-hospitals-closes-with-46-gains-on-debut-11388401.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/Jupiter_Hospital2-1-770x433.jpg",
+      "publishedAt": "2023-09-18T12:27:24Z",
+      "content": "Jupiter Life Line Hospitals shares delivered returns in line with expectations on the listing day, September 18, despite consolidation and profit booking in the equity markets.\r\nThe stock opened at R… [+2592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "PTI",
+      "title": "Financial fraud top cyber crime in India; UPI, e-banking most targeted: Study - Hindustan Times",
+      "description": "Financial frauds accounted for 75% of cyber crimes in India from Jan 2020 to Jun 2023, according to a study by an IIT Kanpur-incubated start-up.",
+      "url": "https://www.hindustantimes.com/business/financial-fraud-top-cyber-crime-in-india-upi-e-banking-most-targeted-study-101695036325725.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/18/1600x900/Darkweb--darknet-and-hacking-concept--Hacker-with-_1690898999499_1695036729169.jpg",
+      "publishedAt": "2023-09-18T12:13:29Z",
+      "content": "Financial frauds accounted for over 75 per cent of cyber crimes in the country from January 2020 till June 2023, with nearly 50 per cent cases related to UPI and internet banking, according to a new … [+2880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VCCircle"
+      },
+      "author": null,
+      "title": "Two Orios managing partners quit to start new venture - VCCircle",
+      "description": "Early-stage venture capital firm Orios Venture Partnersâ managing partners Anup Jain and Rajeev Suri on Monday said they have resigned from the company to start ......",
+      "url": "https://www.vccircle.com/twoorios-managing-partners-quit-to-start-new-venture",
+      "urlToImage": "https://assets.vccircle.com/uploads/2023/09/images-.jpg",
+      "publishedAt": "2023-09-18T12:04:43Z",
+      "content": "Early-stage venture capital firm Orios Venture Partners’ managing partners Anup Jain and Rajeev Suri on Monday said they have resigned from the company to start a new venture of their own. \r\nHowever,… [+1809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zee Business"
+      },
+      "author": "Raghwendra Shukla",
+      "title": "HCL Tech Dividend 2023: Check record date for 3rd interim dividend; Q2 Results on October 12 - Zee Business",
+      "description": "HCL Tech Dividend 2023, HCL Tech Dividend 2023 Record Date: The proposal to pay the interim dividend will be discussed during a meeting of the Board of Directors of the company, which is scheduled to be held on October 12, 2023.",
+      "url": "https://www.zeebiz.com/markets/stocks/news-hcl-tech-dividend-new-2023-record-date-ex-date-share-price-nse-bse-q2-results-date-254662",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/09/18/261158-hcltechfile.jpg",
+      "publishedAt": "2023-09-18T11:56:59Z",
+      "content": "HCL Tech Dividend 2023, HCL Tech Dividend 2023 Record Date: HCL Technologies, or HCL Tech, has announced the record date for the payment of the third interim dividend for the financial year 2023-24.\r… [+8525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Canopy Growth Announces Private Placement of up to US$50 Million - PR Newswire",
+      "description": "/PRNewswire/ - Canopy Growth Corporation (\"Canopy Growth\" or the \"Company\") (TSX: WEED) (Nasdaq: CGC), today announced that it has entered into subscription...",
+      "url": "https://www.prnewswire.com/news-releases/canopy-growth-announces-private-placement-of-up-to-us50-million-301930432.html",
+      "urlToImage": "https://mma.prnewswire.com/media/2213429/Canopy_Growth_Corporation_Canopy_Growth_Announces_Private_Placem.jpg?p=facebook",
+      "publishedAt": "2023-09-18T11:56:00Z",
+      "content": "SMITHS FALLS, ON, Sept. 18, 2023 /PRNewswire/ - Canopy Growth Corporation (\"Canopy Growth\" or the \"Company\") (TSX: WEED) (Nasdaq: CGC), today announced that it has entered into subscription agreement… [+7786 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nicole Goodkind",
+      "title": "US gas prices are unusually high. Here’s why you shouldn’t worry - CNN",
+      "description": "Falling leaves typically coincide with falling gas prices as the summer driving season comes to a close and demand at the pump wanes. Instead, gasoline prices are getting more expensive and are just pennies away from their highest level so far this year.",
+      "url": "https://www.cnn.com/2023/09/18/investing/premarket-stocks-trading/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915163818-gas-station-virginia-081623-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-18T11:45:00Z",
+      "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the s… [+8324 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Advait Palepu, Swansy Afonso",
+      "title": "India Steel Tycoon Plans $336 Million Share Sale of Port Unit - Bloomberg",
+      "description": "Steel tycoon Sajjan Jindal’s ports unit is seeking to raise as much as 28 billion rupees ($336 million) through an initial public offering that is set to become the second-biggest in India this year.",
+      "url": "https://www.bloomberg.com/news/articles/2023-09-18/india-steel-tycoon-plans-336-million-share-sale-of-port-unit",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i61e3gpDN3ZU/v0/1200x748.jpg",
+      "publishedAt": "2023-09-18T11:44:26Z",
+      "content": "Steel tycoon Sajjan Jindals ports unit is seeking to raise as much as 28 billion rupees ($336 million) through an initial public offering that is set to become the second-biggest in India this year.\r… [+205 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Howard Schneider",
+      "title": "The Fed wants to cool spending; a strike, a shutdown and student loans may add ice - Reuters",
+      "description": "U.S. Federal Reserve officials, who have tentatively embraced the possibility they can squelch inflation without a recession, meet this week with an autoworkers strike, a possible federal government shutdown, and a student loan squeeze on consumers posing new…",
+      "url": "https://www.reuters.com/markets/us/fed-wants-cool-spending-strike-shutdown-student-loans-may-add-ice-2023-09-18/",
+      "urlToImage": "https://www.reuters.com/resizer/wiUSTUrbaocjlFbGbI2HNHh8jW4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BE2F26XSYBPF7FSREQIQ3MIDEY.jpg",
+      "publishedAt": "2023-09-18T11:44:00Z",
+      "content": "WASHINGTON, Sept 18 (Reuters) - U.S. Federal Reserve officials, who have tentatively embraced the possibility they can squelch inflation without a recession, meet this week with an autoworkers strike… [+6328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cardekho.com"
+      },
+      "author": "Rohit",
+      "title": "Jeep Compass Now More Affordable, Compass Black Shark And Meridian Overland Launched - CarDekho",
+      "description": "The special editions of both the SUVs only get cosmetic enhancements over the standard models but no new features     Jeep now offers the Compass from Rs 20.49 lakh.    The Compass now gets a 4x2 diesel-auto option as well, starting at Rs 23.99 lakh.    The C…",
+      "url": "https://www.cardekho.com/india-car-news/jeep-compass-now-more-affordable-compass-black-shark-and-meridian-overland-launched-31455.htm",
+      "urlToImage": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/31454/1695039017830/GeneralNew.jpg",
+      "publishedAt": "2023-09-18T11:40:00Z",
+      "content": "The special editions of both the SUVs only get cosmetic enhancements over the standard models but no new features\r\n<ul><li>Jeep now offers the Compass from Rs 20.49 lakh.\r\n</li><li>The Compass now ge… [+4686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bqprime.com"
+      },
+      "author": "Smriti Chaudhary",
+      "title": "Zee Entertainment To Delist From FTSE Russell After Sony Merger - BQ Prime",
+      "description": "Following the merger, Culver Max Entertainment will replace Zee Entertainment in the FTSE Global Equity indices.",
+      "url": "https://www.bqprime.com/business/zee-entertainment-to-delist-from-ftse-russell-after-sony-merger",
+      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2021-09%2Ff51226f6-d43a-4381-bc7d-a020917b2e5f%2Farjun__89_.png?rect=0%2C0%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2023-09-18T11:31:27Z",
+      "content": "Zee Entertainment Enterprises Ltd. will be delisted from the FTSE Russell following its merger with Sony Entertainment India.\r\nThe effective date of the merger, the last trading day of Zee Entertainm… [+1153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Arabile Gumede",
+      "title": "Tencent investors Naspers and Prosus announce abrupt departure of CEO Bob van Dijk - CNBC",
+      "description": "The immediate and mutually agreed departure of Naspers and Prosus CEO Bob van Dijk underscores a complicated few years.",
+      "url": "https://www.cnbc.com/2023/09/18/tencent-investors-naspers-and-prosus-announce-abrupt-departure-of-ceo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106123387-1568185989975gettyimages-1166232188.jpeg?v=1695036586&w=1920&h=1080",
+      "publishedAt": "2023-09-18T11:29:11Z",
+      "content": "The immediate and mutually agreed departure of Naspers and Prosus CEO Bob van Dijk underscores a complicated few years for a firm seen riding on the coattails of its holdings in Chinese tech giant, T… [+3744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Oil prices are likely to move higher as they near $100/barrel, says Bank of America - CNBC Television",
+      "description": "Francisco Blanch, Head of Global Commodity and Derivatives Research at Bank of America, discusses the oil markets and where prices are likely to go from here...",
+      "url": "https://www.youtube.com/watch?v=lvD-1vKliRs",
+      "urlToImage": "https://i.ytimg.com/vi/lvD-1vKliRs/maxresdefault.jpg",
+      "publishedAt": "2023-09-18T11:16:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jennifer Schonberger",
+      "title": "Fed expected to hold rates steady while keeping door open to more hikes - Yahoo Finance",
+      "description": "Central bank watchers expect the Fed this week to pause its rate hikes while still striking a 'stern, resolute tone' in the fight to cool inflation.",
+      "url": "https://finance.yahoo.com/news/fed-expected-to-hold-rates-steady-while-keeping-door-open-to-more-hikes-105415879.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.lWl2UDLvbTvxWeLlkDZMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/d31970c0-4318-11ee-befa-8c26d099749f",
+      "publishedAt": "2023-09-18T10:54:15Z",
+      "content": "Federal Reserve officials are likely to hold interest rates steady when they conclude their policy meeting this Wednesday, economists and analysts said, but they are also expected to keep the door op… [+5009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Andrew Asmakov",
+      "title": "Elizabeth Warren's Digital Asset Anti-Money Laundering Act Gets Nine New Sponsors - Decrypt",
+      "description": "Warren's controversial Digital Asset Anti-Money Laundering Act has received support from nine more U.S. senators.",
+      "url": "https://decrypt.co/197565/elizabeth-warrens-digital-asset-anti-money-laundering-act-gets-nine-new-sponsors",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/senator-elizabeth-warren-gID_7.jpeg",
+      "publishedAt": "2023-09-18T10:53:51Z",
+      "content": "U.S. Senator Elizabeth Warren has secured the support of nine other senators for her Digital Asset Anti-Money Laundering Act, boosting her efforts to tackle the perceived risks posed by cryptocurrenc… [+3195 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Nicholas Gordon",
+      "title": "UAW boss says workers shouldn’t accept lower wages so ‘greedy people like Elon Musk can build more rocket ships’ - Fortune",
+      "description": "UAW president Shawn Fain was defending the union's demands as automakers worry of an even larger cost disadvantage to EV maker Tesla.",
+      "url": "https://fortune.com/2023/09/18/uaw-president-shawn-fain-blasts-greedy-elon-musk-tesla-ceo-auto-strike-ford-gm-stellantis/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1668658909-e1695032559559.jpeg?resize=1200,600",
+      "publishedAt": "2023-09-18T10:45:00Z",
+      "content": "The president of the auto workers union had harsh words for Elon Musk, the Tesla CEO and longtime nemesis of organized labor.Workers in companies like Tesla are scraping to get by so that greedy CEOs… [+4474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "This hot sector is producing returns like Nvidia's — and it's got nothing to do with AI - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/this-hot-sector-is-producing-returns-like-nvidias-and-its-got-nothing-to-do-with-ai-3f899283",
+      "urlToImage": "https://images.mktw.net/im-853540/social",
+      "publishedAt": "2023-09-18T10:40:00Z",
+      "content": "And even if you do agree that oil is near its peak, the ESG movement is limiting both the money and places that can be drilled, notes famed investment author John Mauldin. Economics 101 says that if … [+5429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Yatra Online IPO sees tepid response from investors even on 2nd day of bidding - Moneycontrol",
+      "description": "Yatra Online IPO: Retail investors were only among the participants at the forefront in terms of bidding, buying 1.16 times the portion set aside for them which is 10 percent of the total offer",
+      "url": "https://www.moneycontrol.com/news/business/ipo/yatra-online-ipo-sees-tepid-response-from-investors-even-on-2nd-day-of-bidding-11387711.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/Travel-3-770x433.jpg",
+      "publishedAt": "2023-09-18T10:35:35Z",
+      "content": "The public issue of leading corporate travel company Yatra Online has been getting a tepid response from investors, even on the second day of bidding, September 18, subscribing 31 percent with bids r… [+2740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jeff Kauflin",
+      "title": "How AI Is Supercharging Financial Fraud–And Making It Harder To Spot - Forbes",
+      "description": "From smoothly written scam texts to bad actors cloning voices and superimposing faces on videos, generative AI is arming fraudsters with powerful new weapons.",
+      "url": "https://www.forbes.com/sites/jeffkauflin/2023/09/18/how-ai-is-supercharging-financial-fraudand-making-it-harder-to-spot/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65050d4b17a3814adb2250c0/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+      "publishedAt": "2023-09-18T10:30:00Z",
+      "content": "I\r\nwanted to inform you that Chase owes you a refund of $2,000. To expedite the process and ensure you receive your refund as soon as possible, please follow the instructions below: 1. Call Chase Cus… [+16428 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Jio AirFiber to launch India tomorrow: What is it, likely price and more - Times of India",
+      "description": "Reliance Jio is launching its AirFiber service in India on September 19. It is positioned as a 5G hotspot that offers wireless connectivity without th",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/jio-airfiber-to-launch-india-tomorrow-what-is-it-likely-price-and-more/articleshow/103755994.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103755958,width-1070,height-580,imgsize-19252,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-18T10:19:00Z",
+      "content": "Apple launches Watch Ultra 2: Price, Specs and more"
     },
     {
       "source": {
@@ -34,25 +827,259 @@
         "name": "BusinessLine"
       },
       "author": "BL Internet Desk",
-      "title": "Stock Market Live Updates: Sensex and Nifty trade range-bound, PSU Banks shine with over 4% gains; auto index up 1% - BusinessLine",
-      "description": "Stock Market today | Share Market Live Updates - Find here all the live updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 18 September 2023.",
-      "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-18-september-2023/article67318320.ece",
+      "title": "Share Market Highlights: Sensex and Nifty take a breather amid global uncertainty; PSU Bank stocks shine - BusinessLine",
+      "description": "Sensex, Nifty updates: Find here all the live updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 18 September 2023.",
+      "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-18-september-2023/article67318320.ece",
       "urlToImage": "https://bl-i.thgim.com/public/incoming/crwrdc/article67304067.ece/alternates/LANDSCAPE_1200/Stock%20Market%20Live%20Today%20-%20Share%20Market-140923.jpg.jpg",
-      "publishedAt": "2023-09-18T07:10:32Z",
-      "content": "<li></li>\r\nSeptember 18, 2023 14:03Commodities Market Live Today: Aluminium futures: Resistance at 204 and potential downside ahead\r\nAluminium futures on the Multi Commodity Exchange (MCX) experience… [+60678 chars]"
+      "publishedAt": "2023-09-18T10:18:45Z",
+      "content": "<li></li>\r\nSeptember 18, 2023 15:42Closing Bell: Sensex and Nifty take a breather amid global uncertainty; PSU Bank stocks shine\r\nIndias benchmark indices, Sensex and Nifty experienced a decline on M… [+66984 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Livemint"
       },
-      "author": "Reuters",
-      "title": "Bob van Dijk steps down as CEO of Prosus and Naspers, Ervin Tu named interim CEO | Mint - Mint",
-      "description": "Prosus and Naspers CEO Bob van Dijk steps down, to be replaced by Ervin Tu as interim CEO.",
-      "url": "https://www.livemint.com/companies/news/bob-van-dijk-steps-down-as-ceo-of-prosus-and-naspers-ervin-tu-named-interim-ceo-11695019636864.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/bobvandijk-kX7_1695019819340_1695019819507.jpg",
-      "publishedAt": "2023-09-18T06:50:58Z",
-      "content": "Dutch-listed technology investor Prosus NV and its South African parent Naspers said on Monday Bob van Dijk has stepped down as chief executive officer from both companies."
+      "author": "Livemint",
+      "title": "Torrent Pharma in talks with CVC, Bain Capital to raise funds for Cipla buyout | Mint - Mint",
+      "description": "Torrent Pharmaceuticals is in talks with private equity funds CVC Capital Partners and Bain Capital to raise up to $1.5 billion to bid for India's Cipla.",
+      "url": "https://www.livemint.com/companies/news/torrent-pharma-in-talks-with-cvc-bain-capital-to-raise-funds-for-cipla-buyout-11695031335809.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/Cipla_1695031397306_1695031397468.JPG",
+      "publishedAt": "2023-09-18T10:13:46Z",
+      "content": "In a bid to raise funds for buying stake in Cipla, Torrent Pharmaceuticals is in talks with private equity funds CVC Capital Partners and Bain Capital. The Indian pharmaceutical is planning to raise … [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bqprime.com"
+      },
+      "author": "Saloni Kothari",
+      "title": "RR Kabel To Be First IPO Company To List Under T+2 Cycle - BQ Prime",
+      "description": "SEBI has made IPO listing time of T+3 days mandatory from Dec. 1, but for those on or after Sept. 1 till Nov. 30, it is voluntary.",
+      "url": "https://www.bqprime.com/business/rr-kabel-to-be-the-first-ipo-to-list-in-t3-days",
+      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2023-09%2F104a4b70-a88a-4203-9469-a9ce6ce1a826%2Fbusinessman_presses_button_ipo_initial_public_offering_network_chart.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2023-09-18T10:07:32Z",
+      "content": "Bankers are pushing companies to list their shares within three days of the close of the initial public offering, in line with the Securities and Exchange Board of Indias recent circular on halving t… [+2057 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bloomberg",
+      "title": "Stocks euphoria in India draws warning from top-performing fund - IndiaTimes",
+      "description": "India Business News: Sailesh Raj Bhan, CIO of Nippon Life India Asset Management, is cautious about the exuberance surrounding Indian stocks as the market continues to ral",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stocks-euphoria-in-india-draws-warning-from-sailesh-raj-bhan-of-nippon-life-india-asset-management-ltd/articleshow/103755505.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103755531,width-1070,height-580,imgsize-13310,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-18T10:05:00Z",
+      "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET EnergyWorld",
+      "title": "US-based Hunting, Jindal SAW set up USD 25-mn OCTG threading plant in Nashik - ETEnergyWorld",
+      "description": "JHESL plant is the only facility in India to manufacture and supply pipes and tubes with premium connections to OCTG market in oil and gas sector in India, he said, adding the annual capacity of the plant is 70,000 metric tonnes.",
+      "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/us-based-hunting-jindal-saw-set-up-usd-25-mn-octg-threading-plant-in-nashik/103755502",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-103755502,imgsize-196446,width-1200,height=765,overlay-etenergy/oil-and-gas/us-based-hunting-jindal-saw-set-up-usd-25-mn-octg-threading-plant-in-nashik.jpg",
+      "publishedAt": "2023-09-18T10:01:41Z",
+      "content": "Nashik: Homegrown Jindal SAW on Monday inaugurated a USD 25-million facility set up in joint venture with US-based Hunting Energy Services in Maharashtra. In 2019, pipe-maker Jindal Saw had partnered… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Sarah White, Owen Walker",
+      "title": "SocGen's Slawomir Krupa cuts profit targets and forecasts slower growth - Financial Times",
+      "description": "French bank’s shares down 12.6% after new chief executive outlines ‘realistic path’",
+      "url": "https://www.ft.com/content/18d075ba-5fd7-4dfc-a5f3-7cdca96d05b3",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T09:58:34Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "PTI",
+      "title": "SBI introduces digital opening of NRE/NRO account setup through YONO - Moneycontrol",
+      "description": "This service is designed for NTB or 'new to bank' customers, providing them with ease and efficiency in the account opening process, SBI said in a statement on Monday.",
+      "url": "https://www.moneycontrol.com/news/business/sbi-introduces-digital-opening-of-nrenro-account-setup-through-yono-11387521.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/Yono-770x431.jpg",
+      "publishedAt": "2023-09-18T09:25:03Z",
+      "content": "State Bank of India (SBI) has introduced a digital facility for Non-Resident Indians (NRIs) to effortlessly open NRE and NRO accounts (both savings and current accounts) through its mobile app YONO.\r… [+955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GaadiWaadi.com"
+      },
+      "author": "Surendhar M",
+      "title": "Rajiv Bajaj Confirms \"Biggest Ever Pulsar\" Launching Soon - GaadiWaadi.com",
+      "description": "Bajaj Auto is planning to launch six new products between now and the end of this FY including the \"bigger ever Pulsar\"",
+      "url": "https://gaadiwaadi.com/rajiv-bajaj-confirms-biggest-ever-pulsar-launching-soon/",
+      "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/09/bajaj-Ns400-rendering.jpg",
+      "publishedAt": "2023-09-18T09:16:17Z",
+      "content": "The Pulsar range does not need any introduction and it has played an integral role in Bajaj Auto’s dominance in the domestic and many international markets. The series witnessed its biggest expansion… [+1947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Claudia Chiappa",
+      "title": "Erdoğan asks Elon Musk to build Tesla factory in Turkey - POLITICO Europe",
+      "description": "Turkish president also touts future cooperation on AI and space programs.",
+      "url": "https://www.politico.eu/article/turkey-erdogan-asks-us-elon-musk-build-tesla-factory/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/18/GettyImages-871727996-scaled.jpg",
+      "publishedAt": "2023-09-18T09:00:00Z",
+      "content": "Turkeys President Recep Tayyip Erdoan asked tech billionaire Elon Musk to build a Tesla electric vehicle factory in Turkey, according to Erdoan's office.\r\nDuring their meeting in New York, Erdoan tal… [+1160 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Brian Flood, Jeffrey Clark",
+      "title": "Disney’s potential ABC sale could have major ramifications for network’s news division, high-paid anchors - Fox News",
+      "description": "Some ABC newsroom employees are panicking after Disney recently “held exploratory talks\" with TV station operator Nexstar Media about selling off ABC, per Bloomberg.",
+      "url": "https://www.foxnews.com/media/disney-potential-abc-sale-major-ramifications-networks-news-division-high-paid-anchors",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/george-robin-gma.jpg",
+      "publishedAt": "2023-09-18T09:00:00Z",
+      "content": "Disney insisted it's not selling ABC \"at this time\" last week amid ongoing speculation, but the company admitted it's open to \"a variety of strategic options\" for the network and a sale could have ma… [+4702 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Renju Jose, Lewis Jackson",
+      "title": "Chevron's strike-hit Australia LNG facility resumes full production - Reuters",
+      "description": "Chevron <a href=\"https://www.reuters.com/markets/companies/CVX.N\" target=\"_blank\">(CVX.N)</a> said on Monday full production had resumed at its strike-hit Wheatstone liquefied natural gas (LNG) facility in Western Australia after a fault last week cut product…",
+      "url": "https://www.reuters.com/markets/commodities/chevron-australia-says-full-production-resumes-wheatstone-lng-plant-2023-09-18/",
+      "urlToImage": "https://www.reuters.com/resizer/7O9xVDpH2k8avdChDhRPrsR-Dcw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INFKOHCN4ZKGZGPGN5VEWLY4DA.jpg",
+      "publishedAt": "2023-09-18T08:46:00Z",
+      "content": "SYDNEY, Sept 18 (Reuters) - Chevron (CVX.N) said on Monday full production had resumed at its strike-hit Wheatstone liquefied natural gas (LNG) facility in Western Australia after a fault last week c… [+2445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Auto Desk",
+      "title": "On Ganesh Chaturthi eve, Taapsee Pannu adds Mercedes Maybach GLS SUV, worth nearly ₹3 crore, to her garage - HT Auto",
+      "description": "The Maybach GLS SUV is one of the most expensive Mercedes cars sold in India with an ex-showroom price of ₹2.92 crore. Ranveer Singh and Neetu Kapoor are among other celebrities who recently bought the luxury SUV.",
+      "url": "https://auto.hindustantimes.com/auto/cars/on-ganesh-chaturthi-eve-taapsee-pannu-adds-mercedes-maybach-gls-suv-worth-nearly-rs-3-crore-to-her-garage-41695025239172.html",
+      "urlToImage": "https://images.hindustantimes.com/auto/img/2023/09/18/1600x900/Mercedes_Maybach_GLS_SUV_Taapsee_Pannu_1695025465365_1695025484818.jpg",
+      "publishedAt": "2023-09-18T08:45:47Z",
+      "content": "The new Mercedes Maybach GLS SUV is the second car from the German carmaker to join Taapsee Pannu's garage. The actor already owns a Mercedes-BenzGLE. The GLS 600 SUV comes with a 4.0-litre twin-turb… [+1892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Techknowgreen Solutions IPO opens for subscription today. Check GMP - Hindustan Times",
+      "description": "The net proceeds from the IPO will be utilized to fund research and development initiatives, infrastructure expansion, hiring and resourcing etc.",
+      "url": "https://www.hindustantimes.com/business/techknowgreen-solutions-ipo-opens-for-subscription-today-check-gmp-other-details-101695022226251.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/18/1600x900/pixelated-ipo_42da4ce2-1282-11eb-894e-a8561a6abce9_1695024049476.jpg",
+      "publishedAt": "2023-09-18T08:43:44Z",
+      "content": "Environment consulting firm Techknowgreen Solutions Limited's initial public offering (IPO) opened for subscription from Monday, i.e September 18. The company is aiming to raise 16.72 crore via IPO.\r… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Arijit Sarkar",
+      "title": "Crypto influencer arrested in Hong Kong for JPEX association - Cointelegraph",
+      "description": "JPEX blamed regulators and “third-party market makers” for a liquidity crisis that has seen the platform hike withdrawal fees and suspend certain operations.",
+      "url": "https://cointelegraph.com/news/crypto-influencer-arrest-hong-kong-jpex",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMjBkZGJlNmUtOGUxNi00ZDljLWJjNGMtNWE4NjU4OGFmOGVjLmpwZw==.jpg",
+      "publishedAt": "2023-09-18T08:36:57Z",
+      "content": "A Hong Kong-based social media influencer has reportedly been arrested after investigations around the liquidity crisis of the crypto exchange JPEX traced back their involvement.\r\nHong Kong police re… [+2762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Endpoints News"
+      },
+      "author": "Anna Brown",
+      "title": "Lonza CEO Pierre-Alain Ruffieux to leave CDMO amid reduced growth - Endpoints News",
+      "description": "Lonza CEO Pierre-Alain Ruffieux is set to leave the Swiss contract manufacturer at the end of the month, with chairman Albert Baehny set to step in as the interim CEO, per a Monday press release. The separation is based on a “mutual agreement,” according to t…",
+      "url": "https://endpts.com/lonza-ceo-to-pierre-alain-ruffieux-to-leave-cdmo-by-the-end-of-september/",
+      "urlToImage": "https://endpts.com/wp-content/uploads/2023/01/Pierre-Alain-Ruffieux-Lonza-tile.jpg",
+      "publishedAt": "2023-09-18T08:27:00Z",
+      "content": "Lon­za CEO Pierre-Alain Ruffieux is set to leave the Swiss con­tract man­u­fac­tur­er at the end of the month, with chair­man Al­bert Baehny set to step in as the in­ter­im CEO, per a Mon­day press r… [+502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "SI Reporter",
+      "title": "PSB shares rally; IOB, PSB, Central Bank, Uco Bank surge over 30% in 4 days - Business Standard",
+      "description": "Nifty PSU Bank index hit a new high today, and was the top gainer among sectoral indices, up nearly 4 per cent",
+      "url": "https://www.business-standard.com/markets/news/psbs-shares-rally-iob-psb-central-bank-uco-bank-surge-over-30-in-4-days-123091800349_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/25/full/1508956091-3912.jpg",
+      "publishedAt": "2023-09-18T07:53:35Z",
+      "content": "Nifty PSU Bank index hit a new high today, and was the top gainer among sectoral indices, up nearly 4 per cent\r\nSI ReporterMumbai\r\nShares of public sector undertaking (PSU) banks were on a roll with … [+2837 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Prachi Ahluwalia",
+      "title": "Hyundai Exter’s availability ‘Punch’: Waiting period soars over 12 months! - IndiaTimes",
+      "description": "Cars News: Hyundai recently introduced its compact SUV, the Exter in the Indian market at a starting price of Rs 6 lakh (ex-showroom). Currently, the Hyundai Ext",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/hyundai-exters-availability-punch-waiting-period-soares-over-12-months/articleshow/103747004.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103749265,width-1070,height-580,imgsize-913877,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-18T07:53:00Z",
+      "content": "Hyundai Exter Review: Can it Punch out its rivals? | TOI Auto"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Dhanya Nagasundaram",
+      "title": "Samhi Hotels IPO: Samhi IPO subscribed 1.02 times on day 3 so far; retail portion booked 83% | Mint - Mint",
+      "description": "Samhi Hotels IPO subscribed 5.33 times on day 3 so far, with retail portion subscribed 1.11 times and QIB portion subscribed 8.82 times.",
+      "url": "https://www.livemint.com/market/ipo/samhi-hotels-ipo-samhi-ipo-subscribed-1-02-times-on-day-3-so-far-retail-portion-booked-83-11695021579233.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/Samhi_Hotels_Ltd_1694597530184_1695022528954.PNG",
+      "publishedAt": "2023-09-18T07:42:48Z",
+      "content": "Samhi Hotels IPO subscription status: Samhi Hotels IPO has been subscribed 5.33 times on day 3, so far.  Samhi Hotels IPO has opened for subscription on Thursday, September 14, and will close today (… [+3690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Nykaa Is Part Of Our Coverage, We Have Added Trent To Portfolio: Marcellus Invest | CNBC TV18 - CNBC-TV18",
+      "description": "Market Outlook l  Rakshit Ranjan of MarcellusInvest says Nykaa is part of their coverage, while they have added Trent to their portfolio since it is a big pl...",
+      "url": "https://www.youtube.com/watch?v=XRu0kAHTn6o",
+      "urlToImage": "https://i.ytimg.com/vi/XRu0kAHTn6o/maxresdefault.jpg",
+      "publishedAt": "2023-09-18T07:16:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Aayush Khanna - Investing.com",
+      "title": "Breakout: Mid-cap Soars Past Falling Trendline! - Investing.com India",
+      "description": "Breakout: Mid-cap Soars Past Falling Trendline!",
+      "url": "https://in.investing.com/analysis/breakout-largecap-soars-past-falling-trendline-200597695",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "publishedAt": "2023-09-18T06:57:20Z",
+      "content": "Looking at the \r\nNifty Midcap 100\r\n index, which is trading flat for the day, as of 12:05 PM IST, investors might not feel the bullishness of a few counters from this space, unless they look at Escor… [+1228 chars]"
     },
     {
       "source": {
@@ -65,20 +1092,33 @@
       "url": "https://www.livemint.com/market/ipo/madhusudan-masala-ipo-latest-gmp-subscription-status-on-day-1-other-key-details-to-know-11695017806097.html",
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/about_1695019557516_1695019564222.jpg",
       "publishedAt": "2023-09-18T06:49:46Z",
-      "content": "Madhusudan Masala IPO has opened for subscription today (Monday, September 18), and will close on Thursday, September 21. Madhusudan IPO price band has been set in the range of 66 to 70 per equity sh… [+4130 chars]"
+      "content": "Madhusudan Masala IPO has opened for subscription today (Monday, September 18), and will close on Thursday, September 21. Madhusudan IPO price band has been set in the range of 66 to 70 per equity sh… [+4133 chars]"
     },
     {
       "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "George Russell, Maxine Kelly, Jonathan Wheatley, Oliver Ralph, Donato Paolo Mancini",
-      "title": "Live news: SocGen chief executive Krupa sets higher profitability goals - Financial Times",
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-      "url": "https://www.ft.com/content/7fd8a058-136b-48aa-87c8-feb058b98a02",
-      "urlToImage": null,
-      "publishedAt": "2023-09-18T06:32:56Z",
-      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+      "author": "Sahil Kukreja",
+      "title": "New Tata Nexon EV loan EMI on Rs 3 lakh down payment: Details explained - IndiaTimes",
+      "description": "Advice Centre News: Check out the variant-wise on-road (Delhi) price of the Tata Nexon EV, and the lowest monthly installment you would have to shell out for it.",
+      "url": "https://timesofindia.indiatimes.com/auto/advice-centre/new-tata-nexon-ev-loan-emi-on-rs-3-lakh-down-payment-details-explained/articleshow/103748000.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103749376,width-1070,height-580,imgsize-1187312,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-18T06:41:00Z",
+      "content": "2023 Tata Nexon vs Brezza vs Venue vs Sonet vs XUV300: Price, specs comparedAll cars measure the exact same as far as length is concerned, while the Mahindra XUV300 is the widest one in this comparis… [+80 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Broker Research",
+      "title": "Buy Punjab National Bank; target of Rs 86: Sharekhan - Moneycontrol",
+      "description": "Sharekhan is bullish on Punjab National Bank has recommended buy rating on the stock with a target price of Rs 86 in its research report dated September 14, 2023.",
+      "url": "https://www.moneycontrol.com/news/business/stocks/buy-punjab-national-bank-target-of-rs-86-sharekhan-11386451.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Buy_1280x720_1-770x433.png",
+      "publishedAt": "2023-09-18T06:29:22Z",
+      "content": "Sharekhan's research report on Punjab National Bank\r\nAsset quality trend is quite encouraging and will help in faster normalization of credit cost for the bank in FY25E. Recoveries have already start… [+1028 chars]"
     },
     {
       "source": {
@@ -96,28 +1136,28 @@
     {
       "source": {
         "id": null,
-        "name": "Www.iex.nl"
+        "name": "Moneycontrol"
       },
-      "author": "Arend Jan Kamp",
-      "title": "Van alles en nog wat voorbeurs en wie durft dippende chippers te kopen? - Iex.nl",
-      "description": "AEX-indicatie is -0,1%. Prosus, Shell, JET, chippers (!), Disney, Foxconn, dollar, rentes, oh oh Chinees vastgoed en India gaat hard.",
-      "url": "https://www.iex.nl/Artikel/781141/Van-alles-en-nog-wat-voorbeurs-en-wie-durft-dippende-chippers-te-kopen.aspx",
-      "urlToImage": "https://img.iex.nl/uploads/2023/VoorbeursKoffieIEX02_0738e4a4-6e26-44b1-9ba4-469ae42cf9c5.jpg",
-      "publishedAt": "2023-09-18T06:26:09Z",
-      "content": "De AEX-indicatie is -0,1% na een slecht rondje Wall Street.\r\nDeze week doen we zonder bedrijfscijfers - of er moeten waarschuwers doorkomen - maar met een resem centrale banken met een rentebesluit, … [+7381 chars]"
+      "author": "Moneycontrol News",
+      "title": "Zomato stock gains 2% as investors laud company for delivering on growth promise - Moneycontrol",
+      "description": "Jefferies which has a 'buy' rating on the food delivery platform says that with only ~20mn monthly transacting users currently, Zomato has a long runway for customer acquisition and revenue growth.",
+      "url": "https://www.moneycontrol.com/news/business/stocks/zomato-stock-gains-2-as-investors-laud-company-for-delivering-on-growth-promise-11385911.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-01-Sep-2023-05-30-PM-4398-770x433.jpg",
+      "publishedAt": "2023-09-18T06:12:30Z",
+      "content": "Shares of Zomato saw a 1.7 percent increase in trading on the NSE on September 18. More importantly, this gain was attributed to investors' growing confidence in the company, driven by Zomato demonst… [+1882 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Hotelierindia.com"
       },
-      "author": "Mallika Soni",
-      "title": "Make Tesla factory in Turkey, country's president asks Elon Musk. Latter says… - Hindustan Times",
-      "description": "Recep Tayyip Erdogan and Elon Musk spoke during a meeting at Turkish House in New York. | World News",
-      "url": "https://www.hindustantimes.com/world-news/recep-tayyip-erdogan-make-tesla-factory-in-turkey-countrys-president-asks-elon-musk-latter-says-101695011927663.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/18/1600x900/PTI09-10-2023-000284A-0_1695012446797_1695012493213.jpg",
-      "publishedAt": "2023-09-18T06:22:21Z",
-      "content": "Turkish president Recep Tayyip Erdogan asked Tesla CEO Elon Musk to build a Tesla factory in Turkey, the country's communications directorate said. To the request, Elon Musk responded by saying that … [+1719 chars]"
+      "author": null,
+      "title": "Lemon Tree Hotels expands with sixth property in Bengaluru - Hotelier India",
+      "description": "Lemon Tree Hotels Limited announced the opening of Peninsula Suites operated by Lemon Tree Hotels, Bengaluru. This is the seventh property of the group in Karnataka.. Lemon Tree Hotels expands with sixth property in Bengaluru. accommodation, Bengaluru, busine…",
+      "url": "https://www.hotelierindia.com/operations/lemon-tree-hotels-expands-with-sixth-property-in-bengaluru-peninsula-suites",
+      "urlToImage": "https://www.hotelierindia.com/cloud/2023/09/18/Facade-night-shot-1024x683.jpg",
+      "publishedAt": "2023-09-18T06:08:48Z",
+      "content": "Lemon Tree Hotels Limited announced the opening of Peninsula Suites operated by Lemon Tree Hotels, Bengaluru. This is the seventh property of the group in Karnataka.\r\nThe property has 101 vibrant roo… [+792 chars]"
     },
     {
       "source": {
@@ -135,67 +1175,54 @@
     {
       "source": {
         "id": null,
-        "name": "India Today"
-      },
-      "author": "Kanu Sarda",
-      "title": "Adani-Hindenburg case: Conflict of interest in court-appointed panel, says plea - India Today",
-      "description": "A new plea filed in the Supreme Court alleged that the court-monitored committee probing allegations against Adani Group has a conflict of interest. It also sought to form a fresh committee.",
-      "url": "https://www.indiatoday.in/law/story/adani-hindenburg-case-conflict-of-interest-in-court-appointed-panel-says-plea-2437099-2023-09-18",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/gautam-adani-180420985-16x9.jpg?VersionId=3D8ooidxWKx7DiG8HF19Jw39UBJbhOqt",
-      "publishedAt": "2023-09-18T06:01:12Z",
-      "content": "A Supreme Court-appointed committee to probe allegations against the Adani Group over a report by US-based short seller Hindenburg Research also has conflict of interest, a petition claimed seeking a… [+1578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cardekho.com"
-      },
-      "author": "Rohit",
-      "title": "Citroen C3 Aircross Variants In Images: You, Plus, And Max - CarDekho",
-      "description": "Citroen is offering the C3 Aircross with the choice of 5- and 7-seat configurations in select variants  In the past couple of years, the compact SUV space has grown by a fair margin, thanks to the introduction of the Skoda Kushaq-Volkswagen Taigun, and more r…",
-      "url": "https://www.cardekho.com/india-car-news/citroen-c3-aircross-variants-in-images-you-plus-and-max-31457.htm",
-      "urlToImage": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/31456/1695018490809/GeneralNew.jpg",
-      "publishedAt": "2023-09-18T05:58:00Z",
-      "content": "Citroen is offering the C3 Aircross with the choice of 5- and 7-seat configurations in select variants\r\nIn the past couple of years, the compact SUV space has grown by a fair margin, thanks to the in… [+4637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
+        "name": "Moneycontrol"
       },
       "author": "Reuters",
-      "title": "Naspers, Prosus CEO Bob van Dijk steps down - CNBC",
-      "description": "Ervin Tu will assume the role of interim chief executive of both companies.",
-      "url": "https://www.cnbc.com/2023/09/18/naspers-prosus-ceo-bob-van-dijk-steps-down.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106123387-1568185989975gettyimages-1166232188.jpeg?v=1695016566&w=1920&h=1080",
-      "publishedAt": "2023-09-18T05:56:06Z",
-      "content": "Dutch-listed technology investor Prosus NV and its South African parent Naspers said on Monday Bob van Dijk has stepped down as chief executive officer from both companies.\r\nVan Dijk, who has led Nas… [+368 chars]"
+      "title": "Risk of sizeable decline on Indian rupee on the rise, analysts say - Moneycontrol",
+      "description": "The rupee was last at 83.1450 to the U.S. dollar, compared with 83.1850 in the previous session. The Reserve Bank of India has regularly intervened to make sure that the rupee does not fall below the 83.29 record low.",
+      "url": "https://www.moneycontrol.com/news/business/markets/risk-of-sizeable-decline-on-indian-rupee-on-the-rise-analysts-say-11386231.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/05/rupee_dollar-770x433.jpg",
+      "publishedAt": "2023-09-18T05:49:33Z",
+      "content": "The rupee inched up against the U.S. dollar on Monday, but surging oil prices and the rally on the dollar index suggest the rising risk of a significant decline in the local currency, analysts said.\r… [+1628 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBCTV18"
+        "name": "Bqprime.com"
       },
-      "author": "Hormaz Fatakia",
-      "title": "Vodafone Idea share price: Shares fall as much as 4% after company denies takeover talks news - CNBCTV18",
-      "description": "Last month, the company had stated that it proposed to pay the installment of nearly Rs 1,680 crore to the DoT by availing a grace period of 30 days with interest. The company has managed to do so within a 30-day time period.",
-      "url": "https://www.cnbctv18.com/market/vodafone-idea-share-price-spectrum-dues-big-update-dot-52-week-high-17825741.htm",
-      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2021/04/vodafoneidea1_vi.jpg",
-      "publishedAt": "2023-09-18T05:31:02Z",
-      "content": null
+      "author": "Anjali Rai",
+      "title": "Zaggle Prepaid Ocean Services IPO Subscription: Day 3 Live Updates - BQ Prime",
+      "description": "The IPO has been subscribed 12.57 times as of 06:24 p.m. on Monday.",
+      "url": "https://www.bqprime.com/ipos/zaggle-prepaid-ocean-services-ipo-subscription-day-3-live-updates",
+      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2023-09%2F640cfacf-bae0-44aa-bd54-bf2a6c9cce6f%2FFB_IMG_1694669066703.jpg?rect=0%2C0%2C617%2C324&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2023-09-18T05:43:51Z",
+      "content": "Zaggle Prepaid Ocean Services Ltd. launched its initial public offering on Sept. 14.\r\nThe fintech product and solution provider plans to raise Rs 392 crore via a fresh issue. The IPO was subscribed 1… [+1128 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "India Today"
       },
-      "author": "Shivendra Kumar",
-      "title": "No Monday Blues! 10 PSU bank stocks hit 52-week highs, surge up to 14% - The Economic Times",
-      "description": "Nifty PSU Bank was the top-performing index on NSE in an otherwise dull session on Monday, with 11 of the index constituents at fresh 52-week highs. Over the longer term, independent market expert Sandip Sabharwal does not recommend to keep on buying PSU bank…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/no-monday-blues-11-psu-bank-stocks-hit-52-week-highs-surge-up-to-14/articleshow/103747385.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103747355,width-1070,height-580,imgsize-145480,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-18T05:29:00Z",
-      "content": "State-run Indian Overseas Bank (IOB) shares shot up nearly 14% on Monday to their 52-week high of Rs 45.15 amid a strong rally in public sector banks. Nifty PSU Bank was the top-performing index in a… [+1861 chars]"
+      "author": "India Today Business Desk",
+      "title": "Gold, silver price today, September 18, 2023: Precious metals record hike on MCX | Check latest rates - India Today",
+      "description": "Gold Price Today 18 September 2023: Both gold and silver are trading on the higher side of the Multi Commodity Exchange (MCX) on Monday. Check the latest city-wise prices here.",
+      "url": "https://www.indiatoday.in/business/story/gold-silver-price-today-september-18-2023-precious-metals-record-hike-on-mcx-check-latest-rates-2437089-2023-09-18",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/gold-silver-011626-16x9_0.jpg?VersionId=Q99oCGdo5Ry8gHQIo8lRVQdVzp1p3OA7",
+      "publishedAt": "2023-09-18T05:41:44Z",
+      "content": "Both gold and silver prices have recorded a hike on the Multi Commodity Exchange (MCX) on Monday, September 18.\r\nGold futures, maturing on October 5, 2023, stood at Rs 59,098 per 10 grams on the MCX,… [+954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Business Desk",
+      "title": "Foxconn promises ‘greater birthday gift’ to PM Modi next year - India Today",
+      "description": "Foxconn's India representative V Lee wished Prime Minister Narendra Modi on his 73rd birthday on Sunday and promised to present him with a \"greater birthday gift\" next year.",
+      "url": "https://www.indiatoday.in/business/story/foxconn-v-lee-pm-modi-birthday-wish-double-investments-fdi-workforce-india-2437077-2023-09-18",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/l7vwxjpo35ochkprhl2hy4urgejpg-113157-16x9.jpg?VersionId=eqD2snvqnYucq_kDMgVoVFQ4FzEC.RQi",
+      "publishedAt": "2023-09-18T05:23:32Z",
+      "content": "Taiwanese contract manufacturing giant, Foxconn, aims to double investment and employment in India by next year. The announcement came from Foxconn's India representative, V Lee, as he wished Prime M… [+1400 chars]"
     },
     {
       "source": {
@@ -225,81 +1252,29 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sahil Kukreja",
-      "title": "2023 Tata Nexon vs Brezza vs Venue vs Sonet vs XUV300: Price, specs compared - IndiaTimes",
-      "description": "Cars News: All cars measure the exact same as far as length is concerned, while the Mahindra XUV300 is the widest one in this comparison, and also has the longes",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/2023-tata-nexon-vs-brezza-vs-venue-vs-sonet-vs-xuv300-price-specs-compared/articleshow/103745383.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103746568,width-1070,height-580,imgsize-856784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-18T05:11:00Z",
-      "content": "New Tata Nexon facelift vs Old Nexon: What's changed and what's notTata Motors has introduced the second facelift for the Nexon in the Indian market, and while it still is indeed a facelift, the upda… [+64 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "DailyFX"
+        "name": "CNBCTV18"
       },
-      "author": "Daniel McCarthy",
-      "title": "Gold Price Gains Amid Risk Aversion Ahead of Fed, BoE and BoJ. Higher XAU/USD? - DailyFX",
-      "description": "Spot gold made headway today with China’s property sector revisiting its debt profile as markets contemplate central bank actions this week. Will XAU/USD break the range?",
-      "url": "https://www.dailyfx.com/news/gold-price-gains-amid-risk-aversion-ahead-of-fed-boe-and-boj-higher-xau-usd-20230918.html",
-      "urlToImage": "https://a.c-dn.net/b/19bgBg/GOLD_18.JPG",
-      "publishedAt": "2023-09-18T05:00:00Z",
-      "content": "Spot gold made headway today with Chinas property sector revisiting its debt profile as markets contemplate central bank actions this week. Will XAU/USD break the range?\r\nGold, XAU/USD, US Dollar, Ch… [+3178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Nishant Kumar",
-      "title": "Stocks to buy this week: Wipro, Kotak Mahindra Bank, PNB among nine technical picks; do you own any? | Mint - Mint",
-      "description": "Analysts advise following a stock-specific approach at the current juncture. They recommend buying Wipro, UCO Bank, BCL Industries, REC, Kotak Mahindra Bank, etc.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-this-week-wipro-kotak-mahindra-bank-pnb-among-nine-technical-picks-do-you-own-any-11695012145140.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/40cfde44a33c403fb7f363284fb2f53b-40cfde44a33c403fb_1695012415648_1695012415921.jpg",
-      "publishedAt": "2023-09-18T04:50:22Z",
-      "content": "Domestic market benchmarks the Sensex and the Nifty traded in the negative territory in morning trade on Monday, mirroring weakness in other major Asian peers as investors exhibited caution as they p… [+6876 chars]"
+      "author": "https://www.cnbctv18.com",
+      "title": "HAL, BEL Shares In Focus: Most defence stocks give up gains after initial spurt - CNBCTV18",
+      "description": "Shares of BEL had gained nearly 7 percent in early trade after it had received an order worth Rs 2,118.57 cror from Cochin Shipyard.",
+      "url": "https://www.cnbctv18.com/market/stocks/defence-stocks-hal-bel-cochin-shipyard-mazagon-dock-share-price-order-wins-17827391.htm",
+      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/06/US1.jpg",
+      "publishedAt": "2023-09-18T05:02:02Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Vidya Sreedhar",
-      "title": "Volume Play? These 8 stocks bought heavily by MFs gave double-digit returns in August - The Economic Times",
-      "description": "About 8 stocks that gave double-digit returns in August saw more than 1 crore of shares being bought by mutual funds.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/volume-play-these-8-stocks-bought-heavily-by-mfs-gave-double-digit-returns-in-august/articleshow/103746106.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103746149,width-1070,height-580,imgsize-47600,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-18T04:41:00Z",
-      "content": "Even though the equity market succumbed to profit booking in August, there were several star performers on Dalal Street, particularly in the midcap and smallcap segments.And, many of these stocks wer… [+2966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "INDIATODAY",
-      "title": "7 most affordable diesel cars in India - India Today",
-      "description": "We take a look at the seven most affordable diesel cars in India.",
-      "url": "https://www.indiatoday.in/visualstories/auto/7-most-affordable-diesel-cars-in-india-nexon-altroz-venue-sonet-bolero-neo-xuv300-63697-18-09-2023",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/09/7-most-affordable-diesel-cars-in-India-OG.jpg",
-      "publishedAt": "2023-09-18T04:35:34Z",
-      "content": "The S+ manual, which is the entry-level diesel trim of the Venue, can be had for Rs 10,46,300."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Akash Podishetti",
-      "title": "Jupiter Life Line Hospitals shares list at 32% premium over IPO price - The Economic Times",
-      "description": "Shares of Jupiter Life Line Hospitals debuted at a premium of 32.4% on NSE and 30.6% premium on BSE. Jupiter Life Line Hospitals was subscribed 63.72 times overall, with QIB category subscribed 187 times. The company aims to be debt-free post the IPO. The pro…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-life-line-hospitals-shares-list-at-32-premium-over-issue-price/articleshow/103745948.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103745935,width-1070,height-580,imgsize-1243929,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-18T04:31:00Z",
-      "content": "Shares of Jupiter Life Line Hospitals debuted at a premium of 32.4% over its IPO price at Rs 973 apiece on NSE in Monday's trade. The stock, meanwhile, listed at Rs 960 on BSE, up 30.6%, over the iss… [+1913 chars]"
+      "author": "ETMarkets.com",
+      "title": "Top Nifty50 stocks analysts suggest buying this week - The Economic Times",
+      "description": "Each stock is ranked on a scale of 1 to 10. A score of 8 to 10 is considered positive, 4 to 7 is neutral and 1 to 3 is given a negative outlook. In addition to scores, the report also contains trend analysis, peer analysis and mean analysts’ recommendations.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-nifty50-stocks-analysts-suggest-buying-this-week/articleshow/103746463.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103746470,width-1070,height-580/photo.jpg",
+      "publishedAt": "2023-09-18T04:56:00Z",
+      "content": "SynopsisEach stock is ranked on a scale of 1 to 10. A score of 8 to 10 is considered positive, 4 to 7 is neutral and 1 to 3 is given a negative outlook. In addition to scores, the report also contain… [+66 chars]"
     },
     {
       "source": {
@@ -316,991 +1291,16 @@
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Joyce Lee",
-      "title": "S.Korean broadband firm, Netflix says ending all disputes over costs - Reuters",
-      "description": "South Korean internet service provider SK Broadband and Netflix Inc <a href=\"https://www.reuters.com/markets/companies/NFLX.O\" target=\"_blank\">(NFLX.O)</a> said on Monday they were ending all lawsuits with each other, having earlier been in dispute over wheth…",
-      "url": "https://www.reuters.com/technology/south-korean-broadband-firm-says-ending-all-disputes-with-netflix-2023-09-18/",
-      "urlToImage": "https://www.reuters.com/resizer/JuSyhYEF7Fw7IqjCaJG7eC96iJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7ILRXS56ZOG7IQOLR3YYUTRPM.jpg",
-      "publishedAt": "2023-09-18T04:19:37Z",
-      "content": "SEOUL, Sept 18 (Reuters) - South Korean internet service provider SK Broadband and Netflix Inc (NFLX.O) said on Monday they were ending all lawsuits with each other, having earlier been in dispute ov… [+973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Lemon Tree Hotels rise on launch of 6th property in Bengaluru - Moneycontrol",
-      "description": "The company has launched Peninsula Suites in Bengaluru, which is the sixth property in the city under the Lemon Tree umbrella.",
-      "url": "https://www.moneycontrol.com/news/business/stocks/lemon-tree-hotels-rise-on-launch-of-6th-property-in-bengaluru-11383851.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/03/Lemon_Tree_Hotels1-770x433.jpg",
-      "publishedAt": "2023-09-18T04:15:02Z",
-      "content": "Shares of Lemon Tree Hotels gained 1 percent in early trade on September 18 after it opened its sixth property in Bengaluru.\r\nAt 9:25am, Lemon Tree Hotels was quoting Rs 123.25, up Rs 1.60, or 1.32 p… [+1223 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Turkey’s Erdogan asks Musk to build Tesla factory, state-owned media says - Al Jazeera English",
-      "description": "Turkish president made request while in the US for United Nations General Assembly, Turkish news agency says.",
-      "url": "https://www.aljazeera.com/economy/2023/9/18/turkeys-erdogan-asks-musk-to-build-tesla-factory-state-owned-media-says",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2019-09-13T165140Z_687467166_RC13D6CBC170_RTRMADP_3_TURKEY-ERDOGAN-1695007420.jpg?resize=1920%2C1440",
-      "publishedAt": "2023-09-18T04:05:34Z",
-      "content": "Turkish President Recep Tayyip Erdogan has asked Tesla CEO Elon Musk to build a Tesla factory in Turkey, according to the state-owned Anadolu Agency.\r\nErdogan asked Musk during a meeting at Turkish H… [+1395 chars]"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Shivendra Kumar",
-      "title": "JSW Infra IPO: Price band fixed at Rs 113-119; co looks to raise Rs 2,800 crore - The Economic Times",
-      "description": "JSW Infra IPO will open for subscription on September 25 and run till September 27. The company looks to raise Rs 2800 crore from initial share sale, which will be a first from JSW Group in nearly 13 years. The company had filed the draft prospectus with Sebi…",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-infra-sets-ipo-price-band-at-rs-113-119-looks-to-raise-rs-2800-crore/articleshow/103745330.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103745421,width-1070,height-580,imgsize-45154,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-18T04:03:00Z",
-      "content": "JSW Infrastructure has fixed the price band for its upcoming initial public offer (IPO) at Rs 113-119 per share. The public offer of the ports business of Sajjan Jindal-led JSW Group will run for sub… [+1991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Auto Desk",
-      "title": "Jeep finalising EV strategy for India, aims over 90% localisation for Compass SUV - HT Auto",
-      "description": "Jeep aims to increase the localisation of its Compass SUV by more than 90 per cent over next three years.",
-      "url": "https://auto.hindustantimes.com/auto/cars/jeep-finalising-ev-strategy-for-india-aims-over-90-localisation-for-compass-suv-41695008401255.html",
-      "urlToImage": "https://images.hindustantimes.com/auto/img/2023/09/18/1600x900/Jeep_Compass_1694924075093_1695009573591.jpeg",
-      "publishedAt": "2023-09-18T04:02:25Z",
-      "content": "Aditya Jairaj, Head of Jeep India Operations and Deputy Managing Director at Stellantis India has reportedly told PTI that electric vehicles are a focal point for the SUV manufacturer. He also report… [+1649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Evelyn Cheng",
-      "title": "China VC deals plunge, on track for worst pace in more than seven years - CNBC",
-      "description": "Slowing growth and geopolitical tensions are stifling the Chinese startup world that once spawned unicorns such as ByteDance and Didi, according to PitchBook.",
-      "url": "https://www.cnbc.com/2023/09/18/china-vc-deals-plunge-on-track-for-worst-pace-in-more-than-seven-years.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106904966-16250799412021-06-30t185531z_1043957704_rc21bo9q7kyx_rtrmadp_0_didi-group-listing.jpeg?v=1695009684&w=1920&h=1080",
-      "publishedAt": "2023-09-18T04:01:24Z",
-      "content": "Chinese ride-hailing giant Didi delisted from the New York Stock Exchange just months after its June 2021 IPO after a now-resolved regulatory probe that had forced Didi to suspend new user registrati… [+2585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "Hormaz Fatakia",
-      "title": "Three mutual funds buy Suzlon shares in August after 130% rally - Find out who else owns a stake - CNBCTV18",
-      "description": "As per the June quarter shareholding pattern, a total of 17 mutual funds own a combined 4.98 percent stake in Suzon. However, their names are not specified as their stake would be less than one percent.",
-      "url": "https://www.cnbctv18.com/business/companies/suzlon-share-price-130-percent-rally-in-2023-three-funds-buy-stake-icici-hdfc-uti-52-week-high-17825781.htm",
-      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2019/06/Suzlon-1019x573.jpg",
-      "publishedAt": "2023-09-18T04:00:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Bharat Electronics shares gain 3% on winning defence orders of Rs 3,000 crore - Moneycontrol",
-      "description": "This project will have participation of Indian electronics and associated industries, including MSMEs, which are sub vendors of BEL.",
-      "url": "https://www.moneycontrol.com/news/business/stocks/bharat-electronics-shares-gain-3-on-winning-defence-orders-of-rs-3000-crore-11383861.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/Bharat-electronics-1-770x433.png",
-      "publishedAt": "2023-09-18T03:57:50Z",
-      "content": "Shares of Bharat Electronics (BEL) gained more than 3 percent in early trade on September 18 after the company bagged orders worth Rs 3,000 crore.\r\nCochin Shipyard Limited has awarded a Rs 2,118.57-c… [+1126 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "George Russell",
-      "title": "Live news: KKR pays $800mn for stake in Singapore data centre business - Financial Times",
-      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-      "url": "https://www.ft.com/content/47ed75a8-a1db-416c-9a21-196ec3dd3c9a",
-      "urlToImage": null,
-      "publishedAt": "2023-09-18T03:48:25Z",
-      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zee Business"
-      },
-      "author": "ZeeBiz WebTeam",
-      "title": "Anil Singhvi strategy September 18: Important levels to track in Nifty, Nifty Bank today - Zee Business",
-      "description": "Anil Singhvi Market Strategy: Zee Business Managing Editor Anil Singhvi shares his strategy for todays session. Check out his take on key support and resistance levels for the Nifty and the Nifty Bank, and how he views the market.",
-      "url": "https://www.zeebiz.com/markets/stocks/news-anil-singhvi-strategy-september-18-important-levels-to-track-in-nifty-nifty-bank-today-254550",
-      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/09/18/261046-anil-singhvi-2.jpg",
-      "publishedAt": "2023-09-18T03:44:14Z",
-      "content": "Anil Singhvi Market Strategy: Zee Business Managing Editor Anil Singhvi sees support for the headline Nifty index coming in at 20,100-20,150 levels and a strong buy zone at 20,000-20,050 levels on Mo… [+3026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Shubham Raj",
-      "title": "Brace for more outflow of foreign funds this week, but market strong enough to rebound - Moneycontrol",
-      "description": "During the week gone by FIIs withdrew a net Rs 565.48 crore even as the market was buoyant. This figure includes bulk deals and investment through the primary market. Sensex and Nifty appreciated by about 2 percent during the week.",
-      "url": "https://www.moneycontrol.com/news/business/markets/brace-for-more-outflow-of-foreign-funds-this-week-but-market-strong-enough-to-rebound-11384301.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/06/dollar-yuan-bbo-770x433.jpg",
-      "publishedAt": "2023-09-18T03:38:58Z",
-      "content": "Even though selling by foreign institutional investors (FIIs) does not hurt markets as much now, thanks to strong and steady inflows from domestic institutions, the equity segment chooses to stay wit… [+5777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Stock Market Holiday: Will the stock market be open on September 19? - Moneycontrol",
-      "description": "Stock Market Holiday: On September 15, Indian equity indices continued their record run, with the Nifty crossing 20,200 for the first time amid mixed trend seen on the sectoral front.",
-      "url": "https://www.moneycontrol.com/news/business/markets/ganesh-chaturthi-holiday-will-the-stock-market-be-open-on-september-19-11385131.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/bse_nse_stockmarket_nifty_sensex-4-770x433.jpg",
-      "publishedAt": "2023-09-18T03:30:41Z",
-      "content": "The National Stock Exchange of India (NSE) and the BSE will remain shut on September 19 because of Ganesh Chaturthi.\r\nWholesale commodity markets, including metal and bullion, will also remain closed… [+2061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Vedanta shares tad higher ahead of board meet to mull NCD issue, $2-bn loan due date nears - Moneycontrol",
-      "description": "The proceeds from the issuance of NCDs may be used towards repayment of parent Vedanta Resoucres' bonds worth nearly $2 billion, due in FY25.",
-      "url": "https://www.moneycontrol.com/news/business/markets/vedanta-in-focus-ahead-of-board-meet-to-mull-ncd-issue-2-bn-loan-due-date-nears-11384941.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2017/03/vedanta-770x433.jpg",
-      "publishedAt": "2023-09-18T03:19:47Z",
-      "content": "Shares of Vedanta opened around a percent higher on September 18 after the company announced that it will hold a board meeting on September 21 to consider issuing NCDs, as debt repayment worth $2 bil… [+2255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Jupiter Life Line Hospitals listing, Tata Steel and Bharat Electronics in focus & more | Market... - Moneycontrol",
-      "description": "In this episode of Market Minutes, Sucheta Anchaliya talks about all the important factors to watch today from PSU banks' stellar returns, Tata Steel and Hindustan Aeronautics to global market setup. Also catch Sacchidanand Uttekar of Tradebulls Securities in…",
-      "url": "https://www.moneycontrol.com/news/podcast/jupiter-life-line-hospitals-listing-tata-steel-and-bharat-electronics-in-focus-more-market-minutes-11385071.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/market-minutes-1-4-770x433.jpeg",
-      "publishedAt": "2023-09-18T03:06:02Z",
-      "content": "In this episode of Market Minutes, Sucheta Anchaliya talks about all the important factors to watch today from PSU banks' stellar returns, Tata Steel and Hindustan Aeronautics to global market setup.… [+396 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Stella Qiu",
-      "title": "Asian shares stumble as investors brace for central bank packed week - Reuters",
-      "description": "Asian shares fell and the dollar was firm on Monday as investors looked ahead to a week packed with central bank meetings including the Federal Reserve and the Bank of Japan, which will be closely scrutinised for the global monetary policy outlook.",
-      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-09-18/",
-      "urlToImage": "https://www.reuters.com/resizer/TaeZ6bal_LPkjy6dxStleicdmL8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RXCZS7PQGNOFJDUANWV7RWKHFU.jpg",
-      "publishedAt": "2023-09-18T03:05:06Z",
-      "content": "SYDNEY, Sept 18 (Reuters) - Asian shares fell and the dollar was firm on Monday as investors looked ahead to a week packed with central bank meetings including the Federal Reserve and the Bank of Jap… [+4151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Torrent Pharmaceuticals in talks with CVC Capital for funding Cipla purchase - Moneycontrol",
-      "description": "Torrent is actively exploring various avenues to secure funds and aims to conclude this process by the end of September before proceeding with a formal offer for the acquisition.",
-      "url": "https://www.moneycontrol.com/news/business/torrent-pharmaceuticals-in-talks-with-cvc-capital-for-funding-cipla-purchase-11384951.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/04/TORRENT-PHARMA-770x433.jpg",
-      "publishedAt": "2023-09-18T02:58:16Z",
-      "content": "Torrent Pharmaceuticals Ltd is in advanced talks with CVC Capital Partners to form a consortium and raise a significant amount, likely between $1.2-1.5 billion, from the European buyout fund. This in… [+4010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dsij.in"
-      },
-      "author": "Karan Dsij",
-      "title": "Rs 6,585 order book: This stock below Rs 100 secures massive order worth of Rs 1,015 crore; watch out for the action! - Dalal Street Investment Journal",
-      "description": "Among their notable victories last quarter, they secured contracts worth Rs 411.51 crore from a leading telecom giant and an additional Rs 80.90 crore from the Delhi Metro Rail Corporation...",
-      "url": "https://www.dsij.in/dsijarticledetail/rs-6585-crore-order-book-this-stock-below-rs-100-secures-massive-order-worth-of-rs-1015-crore-watch-out-for-the-action",
-      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/33285/45.jpg",
-      "publishedAt": "2023-09-18T02:47:14Z",
-      "content": "Over the weekend, Mother Nature graced us with an abundance of rain, and in a similar vein, a downpour of good fortune befell a distinguished company. Meet HFCL Ltd, or the Himachal Futuristic Commun… [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Moody's: China's Property Sector Outlook Turned Negative - Bloomberg Television",
-      "description": "Kelly Chen, senior analyst at Moody’s Investors Service, discusses the prospects for China's property sector. Last week Moody’s revised the outlook for the s...",
-      "url": "https://www.youtube.com/watch?v=YpugC_nLj4I",
-      "urlToImage": "https://i.ytimg.com/vi/YpugC_nLj4I/maxresdefault.jpg",
-      "publishedAt": "2023-09-18T02:31:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "Apple CEO Tim Cook on why the company uses Elon Musk’s X - Times of India",
-      "description": "Apple CEO Tim Cook has addressed the controversy surrounding Twitter, saying that the company continues to use the platform despite accusations of ant",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/apple-ceo-tim-cook-on-why-the-company-uses-elon-musks-x/articleshow/103743036.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103743033,width-1070,height-580,imgsize-57684,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-18T02:06:00Z",
-      "content": "Apple launches Watch Ultra 2: Price, Specs and more"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Charmaine Jacob",
-      "title": "Ray Dalio warns of 'great disruptions,' shares top tips for new investors - CNBC",
-      "description": "Bridgewater's Ray Dalio said it is important for new investors to have a diversified portfolio as economic and geopolitical headwinds continue to rage on.",
-      "url": "https://www.cnbc.com/2023/09/18/ray-dalio-warns-of-great-disruptions-shares-tips-for-new-investors-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107255661-1686661712984-gettyimages-1498099003-_b2a8568_nkutk0ie.jpeg?v=1695002817&w=1920&h=1080",
-      "publishedAt": "2023-09-18T02:06:00Z",
-      "content": "Ray Dalio speaks during the 2023 Forbes Iconoclast Summit at Pier 60 on June 12, 2023 in New York City. \r\nU.S. billionaire Ray Dalio says new investors should have a diversified portfolio as economic… [+2161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Apartment Therapy"
-      },
-      "author": "Apartment Therapy",
-      "title": "Amazon's Prime Big Deal Days is October 11 and 12 — Here's Everything You Need to Know, Plus Deals to Shop Now - Apartment Therapy",
-      "description": null,
-      "url": "https://www.apartmenttherapy.com/amazon-prime-big-deals-days-sale-37304076",
-      "urlToImage": null,
-      "publishedAt": "2023-09-18T02:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Ville Heiskanen",
-      "title": "IPhone Maker Foxconn Aims to Double India Investment, Employment - Bloomberg",
-      "description": "Apple Inc. partner Foxconn Technology Group plans to double its investment and employment in India, highlighting an accelerating manufacturing shift away from China as Washington-Beijing tensions grow.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-18/iphone-maker-foxconn-aims-to-double-india-investment-employment",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijKLSQbj6PPs/v1/1200x800.jpg",
-      "publishedAt": "2023-09-18T01:54:45Z",
-      "content": "Apple Inc. partner Foxconn Technology Group plans to double its investment and employment in India, highlighting an accelerating manufacturing shift away from China as Washington-Beijing tensions gro… [+259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Sunil Shankar Matkar",
-      "title": "Daily Voice | These 5 sectors will report strong earnings in Q2 FY24, says Nishit Master - Moneycontrol",
-      "description": "Nishit Master, a veteran portfolio manager at Axis Securities PMS, continues to like the defence space and believes it's possibly a structural growth story in India.",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-these-5-sectors-will-report-strong-earnings-in-q2-fy24-says-nishit-master-11384221.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/04/NishitMaster-770x433.jpg",
-      "publishedAt": "2023-09-18T01:54:18Z",
-      "content": "\"India remains one of the most expensive markets amongst major global markets due to a better growth outlook vis-à-vis other economies,\" Nishit Master, portfolio manager at Axis Securities PMS, says … [+4494 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "China CSI 300 Stock Benchmark Hits 2023 Low as Foreigners Sell - Bloomberg",
-      "description": "Chinese stocks listed in Hong Kong began the week lower as persistent concerns about the health of the property sector offset optimism spurred by signs of stabilization in some other parts of the economy.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-18/china-s-stock-benchmark-declines-to-2023-low-as-foreigners-flee",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwtVyp8YQxQM/v0/1200x800.jpg",
-      "publishedAt": "2023-09-18T01:50:43Z",
-      "content": "Chinese stocks listed in Hong Kong began the week lower as persistent concerns about the health of the property sector offset optimism spurred by signs of stabilization in some other parts of the eco… [+450 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CarToq.com"
-      },
-      "author": "Kshitij Bisen, Vikas Kaul",
-      "title": "Honda City vs MG Astor: Comparing Their Entry-level Variants Under Rs 12 Lakh for Tech-Savvy Gadget Lovers - CarToq.com",
-      "description": "As a tech-savvy gadget lover, you want only the best cars with advanced technology, or top cars with the latest features in India. Let’s look at the Honda City and MG Astor, and see how their variants compare. In this article, we will share What a tech-savvy …",
-      "url": "https://www.cartoq.com/buying-advice/honda-city-vs-mg-astor-comparing-their-entry-level-variants-under-rs-12-lakh-for-tech-savvy-gadget-lovers/",
-      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/09/Honda-City-vs-MG-Astor.jpg",
-      "publishedAt": "2023-09-18T01:45:47Z",
-      "content": "As a tech-savvy gadget lover, you want only the best cars with advanced technology, or top cars with the latest features in India. Lets look at the Honda City and MG Astor, and see how their variants… [+5865 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "China Evergrande shares tumble 25% after wealth management staff detained - Reuters",
-      "description": "Shares of embattled developer China Evergrande Group <a href=\"https://www.reuters.com/markets/companies/3333.HK\" target=\"_blank\">(3333.HK)</a> plunged 25% on Monday after police <a href=\"/markets/asia/china-police-detain-some-evergrande-wealth-management-staf…",
-      "url": "https://www.reuters.com/world/china/china-evergrande-shares-tumble-25-after-wealth-management-staff-detained-2023-09-18/",
-      "urlToImage": "https://www.reuters.com/resizer/rR2iPyxTSeYqi02yuCfX01EsgRs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IEA5BBUCYVMYBE6UCKBXXFMGEA.jpg",
-      "publishedAt": "2023-09-18T01:43:03Z",
-      "content": "HONG KONG, Sept 18 (Reuters) - Shares of embattled developer China Evergrande Group (3333.HK) plunged 25% on Monday after police detained some staff at its wealth management unit, suggesting a new in… [+1845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Greg Wehner",
-      "title": "RFK Jr says he would ban fracking in 10-point plan to tackle plastics pollution - Fox Business",
-      "description": "Democratic presidential candidate Robert F. Kennedy Jr. said in a social media post that he would ban fracking as part of his plan to end what he called the plastics pollution crisis.",
-      "url": "https://www.foxbusiness.com/politics/rfk-jr-says-ban-fracking-10-point-plan-tackle-plastics-pollution",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/rfkjr-getty.jpg?ve=1&tl=1",
-      "publishedAt": "2023-09-18T01:38:26Z",
-      "content": "Democratic presidential candidate Robert F. Kennedy Jr., while announcing his 10-point plan to end the plastics pollution crisis, said he would ban fracking.\r\nThe process of fracking involves high pr… [+3883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KCRA Sacramento"
-      },
-      "author": "MICHAEL R. BLOOD",
-      "title": "California lawsuit says oil giants deceived public on climate, seeks funds for storm damage - KCRA Sacramento",
-      "description": "The state of California filed a lawsuit against some of the world’s largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels now faulted for climate change-related storms and wildfires that caused billions of dollars in…",
-      "url": "https://www.kcra.com/article/california-lawsuit-oil-climate-funds-storm-damage/45182150",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/oil-6507a60a7d440.jpg?crop=1.00xw:0.854xh;0,0&resize=1200:*",
-      "publishedAt": "2023-09-18T01:38:00Z",
-      "content": "The state of California filed a lawsuit against some of the worlds largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels now faulted for climate change-rela… [+5280 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETMarkets.com",
-      "title": "Stocks in news: Vedanta, Restaurant Brands, Tata Steel, Adani Energy, Jupiter Hospitals - The Economic Times",
-      "description": "The company's Committee of Directors will meet today to consider the proposal for issuance of non-convertible debentures (NCDs) on a private placement basis as part of its routine refinancing that is undertaken in ordinary course of business.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-restaurant-brands-tata-steel-adani-energy-jupiter-hospitals/articleshow/103737146.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103737173,width-1070,height-580,imgsize-765180,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-18T01:30:00Z",
-      "content": "GIFT Nifty on the NSE IX traded 20.5 points, or 0.10 per cent, higher at 20,187, signaling that Dalal Street was headed for positive start on Monday. Here's a slew of stocks that will be in focus tod… [+2252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Maulik",
-      "title": "Sept 30 MF nomination deadline nears, over 25 lakh PAN holders yet to update details - Moneycontrol",
-      "description": "Failure to update nomination on time will result in your MF folios getting frozen for all debit transactions. That is, you will not be able to redeem / make withdrawals from any of these investments. You can, however, continue investing in your existing folio…",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/sept-30-mf-nomination-deadline-nears-over-25-lakh-pan-holders-yet-to-update-details-11383121.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/09/Mutual-funds_personal-finance_Wealth-management_Financial-planning_tax_Banks_Savings-accounts_Loans_Borrowing-770x433.png",
-      "publishedAt": "2023-09-18T01:15:15Z",
-      "content": "The September 30, 2023, deadline for updating the nomination for your mutual fund (MF) investments is drawing near. However, many investors are yet to complete this task. As per the records of the re… [+7143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Dhuraivel Gunasekaran",
-      "title": "Check out these large-cap safety nets in small-cap mutual funds - Moneycontrol",
-      "description": "Although smallcap mutual fund schemes must invest at least 65 percent of the corpus in smallcap stocks, they can invest the balance in large or midcap stocks. Large-cap investments help mitigate risk and provide cushion if markets were to fall sharply",
-      "url": "https://www.moneycontrol.com/news/photos/business/personal-finance/check-out-these-large-cap-safety-nets-in-small-cap-mutual-funds-11383611.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/Feat-2-770x433.jpg",
-      "publishedAt": "2023-09-18T01:14:50Z",
-      "content": "Apart from the mandated allocation of 65 percent in smallcap stocks, smallcap mutual fund schemes can deploy the remaining corpus in midcap and largecap stocks, or hold it in cash. Per the latest dat… [+3994 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "George Russell, Maxine Kelly, Jonathan Wheatley, Oliver Ralph, Donato Paolo Mancini",
-      "title": "Live news: KKR pays $800mn for stake in Singapore data centre business - Financial Times",
-      "description": null,
-      "url": "https://www.ft.com/content/e6783a85-c0e3-42c7-950b-a166a3b88ff6",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F20d1ef43-1479-4958-8673-38eeab66a077.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2023-09-18T01:10:21Z",
-      "content": "China: Property developer Sunac plans to hold a creditors meeting on its offshore debt restructuring. Trading in the indebted companys shares was suspended for a year after it defaulted on liabilitie… [+802 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Isla Binnie",
-      "title": "California governor says he will sign climate bill on companies and carbon footprints - Reuters",
-      "description": "California Governor Gavin Newsom said on Sunday he would sign legislation that would require large companies to disclose their carbon footprints, potentially putting the state ahead of federal regulators on managing corporate climate risks.",
-      "url": "https://www.reuters.com/sustainability/california-governor-says-he-will-sign-climate-bill-2023-09-18/",
-      "urlToImage": "https://www.reuters.com/resizer/rJ1OABJ7yHJB-8IRKftRGwwnl7s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUNOSKWEURPT5PPEDEA3CJGDK4.jpg",
-      "publishedAt": "2023-09-18T01:06:43Z",
-      "content": "NEW YORK, Sept 17 (Reuters) - California Governor Gavin Newsom said on Sunday he would sign legislation that would require large companies to disclose their carbon footprints, potentially putting the… [+1477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Sameet Chavan",
-      "title": "Hot Stocks | Bet on Grasim Industries, SBI Life Insurance Company for short term - Moneycontrol",
-      "description": "The overall sentiment remains positive, and the advisable approach is to view dips as buying opportunities.",
-      "url": "https://www.moneycontrol.com/news/business/markets/hot-stocks-bet-on-grasim-industries-sbi-life-insurance-company-for-short-term-11384181.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/stocks5-7-770x433.jpg",
-      "publishedAt": "2023-09-18T01:04:11Z",
-      "content": "The Nifty continued with its upward trajectory for the week ended September 15, closing with a gain of 1.88 percent, just below the 20,200 mark. The winning streak for the bulls continued for the thi… [+2964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Ambar Warrick",
-      "title": "Oil prices steady near 10-mth high with Fed, central banks in focus By Investing.com - Investing.com",
-      "description": "Oil prices steady near 10-mth high with Fed, central banks in focus",
-      "url": "https://www.investing.com/news/commodities-news/oil-prices-steady-near-10mth-high-with-fed-central-banks-in-focus-3176162",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEBB70BB_L.jpg",
-      "publishedAt": "2023-09-18T01:03:00Z",
-      "content": "Investing.com-- Oil prices fell slightly in Asian trade on Monday as traders hunkered down in anticipation of several key central bank meetings this week, although the prospect of a tighter market, o… [+2891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Las Vegas Review-Journal"
-      },
-      "author": "Richard N. Velotta",
-      "title": "Analyst: MGM losing $4.2M-$8.4M a day because of cyberattack - Las Vegas Review-Journal",
-      "description": "With many computer systems still down a week after the attack began, the company has no update on a return to normal operations.",
-      "url": "https://www.reviewjournal.com/post/2906379",
-      "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2023/09/18223448_web1_Cyberattacks-Vegas-Casinos.jpg",
-      "publishedAt": "2023-09-18T00:30:00Z",
-      "content": "MGM Resorts International could be losing between $4.2 million and $8.4 million in daily revenue and around $1 million in cash flow every day it’s under a cyberattack, a gaming industry analyst said … [+4587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Prashant Mahesh",
-      "title": "What to do if you have Rs 20 lakh to invest now - The Economic Times",
-      "description": "For moderately conservative investors, they suggest 50% exposure to equities and 50% allocation to gold and fixed income would still be a good option. Within equities, they are recommending index funds, or flexicap funds for large-cap allocations. Given the s…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/what-to-do-if-you-have-rs-20-lakh-to-invest-now/articleshow/103742046.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103742083,width-1070,height-580,imgsize-523824,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2023-09-17T23:55:00Z",
-      "content": "Torrent Looks to Tie Up with CVC Cap for Funding Cipla BuyTorrent Pharmaceuticals Ltd is in advanced negotiations with CVC Capital Partners to form a consortium and raise at least $1.2-1.5 billion fr… [+233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Yeo Boon Ping",
-      "title": "CNBC Daily Open: Wall Street versus main street - CNBC",
-      "description": "U.S. consumers are slightly more pessimistic about the economy, but investors are upbeat, according to two separate surveys. Why the divergence?",
-      "url": "https://www.cnbc.com/2023/09/18/stock-markets-wall-street-versus-main-street.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107301989-1694994652078-gettyimages-1661441147-wallst5025_i7x0ptoy.jpeg?v=1694994713&w=1920&h=1080",
-      "publishedAt": "2023-09-17T23:51:53Z",
-      "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh… [+4514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Tassia Sipahutar, Toby Alder",
-      "title": "Stock Market Today: Dow, S&P Live Updates for Sept 18 - Bloomberg",
-      "description": "Asian equities retreated following tech-led declines on Wall Street as investors looked ahead to a week that includes Federal Reserve and Bank of Japan meetings.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-17/asia-stocks-look-set-to-fall-on-wall-street-losses-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCU1ZFMhbHfw/v1/1200x800.jpg",
-      "publishedAt": "2023-09-17T23:37:30Z",
-      "content": "Asian equities retreated following tech-led declines on Wall Street as investors looked ahead to a week that includes Federal Reserve and Bank of Japan meetings. \r\nShares fell in Hong Kong, Australia… [+274 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kanika Saxena, Richa Sharma, Prashant Mukherjee, Sandhya Sharma",
-      "title": "4 insights to kick-start your day, featuring the NavIC versus GPS fight - The Economic Times",
-      "description": "In Primeshots today: The fight for your location; Adani and Total in talks; strong mid-caps and small caps; and G20s crypto policy.",
-      "url": "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-the-navic-versus-gps-fight/primearticleshow/103739173.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103739239,width-1070,height-580,imgsize-152468/photo.jpg",
-      "publishedAt": "2023-09-17T23:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decrypt"
-      },
-      "author": "Nicholas Morgan",
-      "title": "First Celebrities Settle Lawsuits Over FTX Deals - Decrypt",
-      "description": "Among those who agreed to settle were Jacksonville Jaguars quarterback Trevor Lawrence, and YouTube influencers Tom Nash and Kevin Paffrath.",
-      "url": "https://decrypt.co/197509/first-celebrities-settle-lawsuit-over-ftx-deals",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/09/shutterstock_2249897283-scaled-gID_7.jpeg",
-      "publishedAt": "2023-09-17T23:05:13Z",
-      "content": "A trio of celebrities have settled lawsuits against them related to sponsorship deals struck with the failed crypto-exchange FTX before it collapsed last year. \r\nTrevor Lawrence, an NFL quarterback f… [+2693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Irina Slav",
-      "title": "OPEC Cuts Reignite Inflation Worries As Energy Prices Rise - OilPrice.com",
-      "description": "Deepened OPEC are triggering a surge in global energy prices, causing inflation to spike and putting significant pressure on industries dependent on hydrocarbons.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/OPEC-Cuts-Reignite-Inflation-Worries-As-Energy-Prices-Rise.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-09-15_apty9qkrx5.jpg",
-      "publishedAt": "2023-09-17T23:00:00Z",
-      "content": "Norway and the UK have…\r\nThe per barrel price for…\r\nThe recent surge in the…\r\nBy Irina Slav - Sep 17, 2023, 6:00 PM CDTEarlier this week, the International Energy Agency warned that oil markets were … [+4905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "10News"
-      },
-      "author": "City News Service",
-      "title": "Average San Diego County gas price spikes 12.7 cents - ABC 10 News San Diego KGTV",
-      "description": "\"Oil costs are putting upward pressure on pump prices, but the rise is tempered by much lower demand,\" Andrew Gross, an AAA national public relations manager, said last week.",
-      "url": "https://www.10news.com/news/local-news/san-diego-news/average-san-diego-county-gas-price-spikes-12-7-cents",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2369626/2147483647/strip/true/crop/3451x1812+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F43%2F71%2Fb4151847421a94c2b26830ae5004%2Fap090328061677.jpg",
-      "publishedAt": "2023-09-17T22:51:00Z",
-      "content": "SAN DIEGO (CNS) - The average price of a gallon of self-serve regular gasoline in San Diego County recorded its largest daily increase since Sept. 29 Sunday, rising 12.7 cents to $5.819, its highest … [+1113 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS New York Team",
-      "title": "Salary transparency law goes into effect across New York state - CBS News",
-      "description": "A similar pay transparency ordinance has been in effect in New York City since last year.",
-      "url": "https://www.cbsnews.com/newyork/news/new-york-state-salary-transparency-law/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/29/1a73a709-d97a-4184-92ad-5efcd7e7082b/thumbnail/1200x630/75ded14106237c5341664add0f1c3adc/gettyimages-1245828829.jpg?v=6616762727d81e1cb010134e0c556e29",
-      "publishedAt": "2023-09-17T22:31:00Z",
-      "content": "NEW YORK -- Starting Sunday, employers across New York state will have to disclose proposed pay rates as a new salary transparency law goes into effect.\r\nUnder the law, employers with at least four w… [+412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Janet H. Cho",
-      "title": "Stocks Muted Ahead of Fed - Barron's",
-      "description": "The Federal Open Market Committee meets Tuesday and Wednesday, and is scheduled to announce its monetary-policy decision on Wednesday.",
-      "url": "https://www.barrons.com/articles/stocks-muted-ahead-of-fed-dcdf42d8",
-      "urlToImage": "https://images.barrons.com/im-63708028/social",
-      "publishedAt": "2023-09-17T22:31:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Reuters",
-      "title": "DirecTV to temporarily restore Nexstar-owned stations - CNBC",
-      "description": "DirecTV and Nexstar have agreed to temporarily return the signals of the Nexstar-owned stations and national cable news network NewsNation to DirecTV.",
-      "url": "https://www.cnbc.com/2023/09/17/directv-to-temporarily-restore-nexstar-owned-stations.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101685427-492276861.jpg?v=1694989292&w=1920&h=1080",
-      "publishedAt": "2023-09-17T22:21:32Z",
-      "content": "DirecTV and Nexstar have agreed to temporarily return the signals of the Nexstar-owned stations and national cable news network NewsNation to DirecTV, DirecTV Stream and U-verse, the companies said i… [+497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nj.com"
-      },
-      "author": "Katherine Rodriguez | NJ Advance Media for NJ.com",
-      "title": "National Cheeseburger Day 2023 deals and freebies at McDonald’s, Burger King, Wendy’s and more - NJ.com",
-      "description": "Here is a roundup of burger joints and other restaurants serving up deals and freebies to customers celebrating the holiday",
-      "url": "https://www.nj.com/food/2023/09/national-cheeseburger-day-2023-deals-and-freebies-at-mcdonalds-burger-king-wendys-and-more.html",
-      "urlToImage": "https://www.nj.com/resizer/ge4rhlcS1e-5pygCDJSxyQdChf0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FRSBBCHA4ZGVRFVJ7OYDYRABCE.jpg",
-      "publishedAt": "2023-09-17T22:12:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Tim Cook talks advertising on X, Vision Pro, and more in a new interview - The Verge",
-      "description": "CEO Tim Cook says Apple “constantly” thinks about whether it should advertise on X and insists the Vision Pro is on schedule in a new interview.",
-      "url": "https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/N9EBRZMSuj5bMksmQiSHuU7vnXU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951500/VRG_Illo_STK170_L_Normand_TimCook_Neutral.jpg",
-      "publishedAt": "2023-09-17T21:06:44Z",
-      "content": "Tim Cook talks advertising on X, Vision Pro, and more in a new interview\r\nTim Cook talks advertising on X, Vision Pro, and more in a new interview\r\n / Apples CEO says he watched the entire third seas… [+221 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "",
-      "title": "On GPS: The controversial Elon Musk - CNN",
-      "description": "Walter Isaacson, author of the new biography “Elon Musk,” tells Fareed about the controversial billionaire’s ambiguous relationship with receiving help from the US government, given its involvement with some of his ventures.",
-      "url": "https://www.cnn.com/videos/tech/2023/09/17/exp-gps-0917-walter-isaacson-on-his-new-book.cnn",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917150810-exp-gps-0917-walter-isaacson-on-his-new-book-00002001.png?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-09-17T20:33:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Liz Capo McCormick, Michael Mackenzie",
-      "title": "Bond Market at Risk of Third Annual Loss Needs a Dot-Plot Rescue - Bloomberg",
-      "description": "Federal Reserve policymakers’ updated forecasts for their benchmark interest rate, due Wednesday, are looming as a key potential decider for a US Treasuries market at risk of a third straight year of losses.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-17/bond-market-at-risk-of-third-annual-loss-needs-a-dot-plot-rescue",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZMPQ1Dr7cE4/v0/1200x800.jpg",
-      "publishedAt": "2023-09-17T20:00:01Z",
-      "content": "Federal Reserve policymakers updated forecasts for their benchmark interest rate, due Wednesday, are looming as a key potential decider for a US Treasuries market at risk of a third straight year of … [+373 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Michelle Watson",
-      "title": "Generac recalls around 64,000 portable generators amid hurricane season - CNN",
-      "description": "As a damaging hurricane season continues to knock out power supplies to communities across the US, Generac Power Systems says it is recalling thousands of portable generators due to the risk of fire and burns.",
-      "url": "https://www.cnn.com/2023/09/17/us/generac-whole-home-generator-recall/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917102528-generac-generator-recall.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-09-17T19:49:00Z",
-      "content": "As a damaging hurricane season continues to knock out power supplies to communities across the US, Generac Power Systems says it is recalling thousands of portable generators due to the risk of fire … [+2045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Josh Kosman, Ariel Zilber",
-      "title": "Subway's $9.6B sale could face US antitrust heat -- over its own strict competition rules: sources - New York Post ",
-      "description": "Subway’s deal to sell itself for a whopping $9.6 billion could face more antitrust scrutiny than expected, sources said — and a major sticking point could be strict competitive rules th…",
-      "url": "https://nypost.com/2023/09/17/subways-9-6b-sale-could-face-us-antitrust-heat-sources/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-d3ek4c3zb-1694979358242.jpg?quality=75&strip=all&1694965185&w=1024",
-      "publishedAt": "2023-09-17T19:44:00Z",
-      "content": "Subway’s deal to sell itself for a whopping $9.6 billion could face more antitrust scrutiny than expected, sources said — and a major sticking point could be strict competitive rules the chain has pl… [+4725 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Arne Delfs, Annmarie Hordern",
-      "title": "Europe Must Cut Down on Its Dependence With China, Baerbock Says - Bloomberg",
-      "description": "German Foreign Minister Annalena Baerbock said that the European Union must reduce its reliance on China and that she supports the EU’s investigation into the subsidies Beijing supplies its electric-vehicle industry.",
-      "url": "https://www.bloomberg.com/news/articles/2023-09-17/baerbock-says-europe-must-cut-down-on-its-dependence-with-china",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYDHVrBbePjE/v0/1200x800.jpg",
-      "publishedAt": "2023-09-17T19:37:16Z",
-      "content": "German Foreign Minister Annalena Baerbock said that the European Union must reduce its reliance on China and that she supports the EUs investigation into the subsidies Beijing supplies its electric-v… [+277 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Video shows 13-year-old girl brutally attacked by adult woman inside McDonald's in Lomita - KABC-TV",
-      "description": "Family members and community leaders are calling for justice after a 13-year-old was attacked and beaten inside a Lomita McDonald's, an incident that was captured in a now-viral video.",
-      "url": "https://abc7.com/mcdonalds-lomita-teenager-attacked-caught-on-video/13794182/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/13792083_091623-kabc-8pm-teen-attacked-mcdonalds-vid.jpg?w=1600",
-      "publishedAt": "2023-09-17T19:36:03Z",
-      "content": "LOMITA, Calif. (KABC) -- Family members and community leaders are calling for justice after a 13-year-old was attacked and beaten inside a Lomita McDonald's, an incident that was captured in a now-vi… [+1511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Vodafone Idea pays ₹1,700 crore to the Indian government for 5G and other spectrum dues | Mint - Mint",
-      "description": "Vodafone Idea pays  ₹1,700 crore to government for 5G spectrum and other spectrum acquired previously.",
-      "url": "https://www.livemint.com/industry/telecom/vodafone-idea-pays-rs-1-700-crore-to-the-indian-government-for-5g-and-other-spectrum-dues-11694976477649.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/17/600x338/vi_1694976945279_1694976960189.jpg",
-      "publishedAt": "2023-09-17T18:52:46Z",
-      "content": "Debt-ridden telecom operator Vodafone Idea has paid RsRs 1,700 crore to the government which includes the dues for the 5G spectrum and other spectrum acquired previously. We wish to inform that the C… [+1412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Emma Colton",
-      "title": "Taco Bell employee in hot water after customer makes disturbing find on bank statement: police - Fox Business",
-      "description": "Police in Oregon, Ohio, arrested Taco Bell employee Trevell Mosby on allegations that he made fraudulent transactions on fast-food customers' credit cards.",
-      "url": "https://www.foxbusiness.com/retail/taco-bell-employee-hot-water-after-customer-makes-disturbing-find-on-bank-statement",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/tacobell.png?ve=1&tl=1",
-      "publishedAt": "2023-09-17T18:41:29Z",
-      "content": "An Ohio Taco Bell employee was arrested this month after allegedly scamming customers with fraudulent credit card transactions, reports said.\r\n\"My card will never come out of my hand again. You can h… [+2887 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sfstandard.com"
-      },
-      "author": "George Kelly",
-      "title": "Cisco Will Lay Off Hundreds of Workers in October - The San Francisco Standard",
-      "description": "A Bay Area-based networking giant filed notice of the layoffs last week.",
-      "url": "https://sfstandard.com/2023/09/17/cisco-to-lay-off-hundreds-of-workers-in-october/",
-      "urlToImage": "https://content.sfstandard.com/wp-content/uploads/2023/05/Layoff-Layoffs-03.jpg?resize=1200,630",
-      "publishedAt": "2023-09-17T18:34:41Z",
-      "content": "Cisco Systems Inc. will lay off hundreds of workers in two San Francisco Bay Area cities next month, according to state filings last week.\r\nIn a WARN notice sent to the state July 17 and received Sep… [+1678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tastingtable.com"
-      },
-      "author": "Autumn Swiers",
-      "title": "McDonald's Owners See California Fast Food Bill As Financially 'Devastating' - Yahoo Life",
-      "description": "Some McDonald's owners are really not lovin' a California law that could raise fast food workers' wages. To them the outlook is less-than golden.",
-      "url": "https://www.tastingtable.com/1396496/mcdonalds-owners-california-fast-food-bill-financially-devastating/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I9ZwzNDUH9ExXgroMmCliw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/tasting_table_543/2f81524d5d613dcf065bd9411e43af74",
-      "publishedAt": "2023-09-17T18:16:59Z",
-      "content": "A momentous battle between labor unions and the fast food industry has come to a conclusion, and things are looking up for workers. Earlier this week, California Governor Gavin Newsom pledged to sign… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ronda Lee",
-      "title": "Student loans: Don't wait 'until the last moment' to figure out payments, expert warns - Yahoo Finance",
-      "description": "The Department of Education is promoting its newest IDR plan called Saving on A Valuable Education, or SAVE plan.",
-      "url": "https://finance.yahoo.com/news/student-loans-dont-wait-until-the-last-moment-to-figure-out-payments-expert-warns-180035963.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/icHVN8jYIytSFID_bneuAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-images/2019-10/747f1790-fb37-11e9-babe-208852733924",
-      "publishedAt": "2023-09-17T18:00:35Z",
-      "content": "Borrowers may be dreading that student loan payments are restarting next month, but that shouldn't keep them from preparing now.\r\n\"The time to be thinking about repaying your student loan debt is tod… [+4260 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Charles R. Davis",
-      "title": "Bernie Sanders backs UAW call for a 4-day workweek - Business Insider",
-      "description": "The Vermont senator said the productivity gains from AI should benefit workers, not just corporate executives.",
-      "url": "https://www.businessinsider.com/bernie-sanders-backs-uaw-call-for-a-4-day-workweek-2023-9",
-      "urlToImage": "https://i.insider.com/65073682cd637c0019c68733?width=1200&format=jpeg",
-      "publishedAt": "2023-09-17T17:42:00Z",
-      "content": "This country needs to seriously consider cutting back the hours that people have to labor at their job, Vermont Sen. Bernie Sanders told CNN on Sunday, suggesting the 40-hour workweek is at least par… [+2215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Evreporter.com"
-      },
-      "author": null,
-      "title": "Ashok Leyland to invest INR 1000 crores to set up a bus plant in Uttar Pradesh • EVreporter - EVreporter",
-      "description": "Ashok Leyland, the Indian flagship of the Hinduja Group and commercial vehicle manufacturer, will set up an integrated commercial vehicle Bus plant focused on",
-      "url": "https://evreporter.com/ashok-leyland-to-invest-inr-1000-crores-to-set-up-a-bus-plant-in-uttar-pradesh/",
-      "urlToImage": "https://evreporter.com/wp-content/uploads/2022/05/e-bus.jpg",
-      "publishedAt": "2023-09-17T17:24:06Z",
-      "content": "Ashok Leyland, the Indian flagship of the Hinduja Group and commercial vehicle manufacturer, will set up an integrated commercial vehicle Bus plant focused on green mobility in Uttar Pradesh, the com… [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "Jonathan Moules",
-      "title": "Busy week for central banks as Fed, BoE and BoJ set interest rates - Financial Times",
-      "description": "Plus: tech IPOs, and UK opposition leader Starmer hopes to burnish his PM-in-waiting credentials with French visit",
-      "url": "https://www.ft.com/content/8a7d5b2a-8118-451b-9280-1c30ae9209d3",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F90edf921-39b7-46f8-bb74-cd673d19e48e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2023-09-17T17:15:10Z",
-      "content": "This article is an on-site version of our The Week Ahead newsletter. Sign up here to get the newsletter sent straight to your inbox every Sunday\r\nHello and welcome to the working week.\r\nCentral banke… [+7067 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Melina Walling, Kendria LaFleur, The Associated Press",
-      "title": "Walmart and Kroger are betting on a bankruptcy-hit indoor farming industry that many consider unsustainable - Fortune",
-      "description": "Recently two indoor farming companies that attracted strong startup money filed for bankruptcy, while another shut its doors.",
-      "url": "https://fortune.com/2023/09/17/walmart-kroger-bet-on-indoor-farming-industry-amid-bankruptcies/",
-      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/AP23258748009668-e1694967718159.jpg?resize=1200,600",
-      "publishedAt": "2023-09-17T16:31:00Z",
-      "content": "Inside a bright greenhouse about an hour outside Dallas, workers in hairnets and gloves place plugs of lettuce and other greens into small plastic containers hundreds of thousands of them that stack … [+6434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "American consumer habits are changing the look of breakfast | GMA - Good Morning America",
-      "description": "Cereal sales have been dropping as more people grab on-the-go items like breakfast sandwiches or protein shakes.SUBSCRIBE: https://bit.ly/2Zq0dU5 SIGN UP to ...",
-      "url": "https://www.youtube.com/watch?v=oqe_BLJhjwE",
-      "urlToImage": "https://i.ytimg.com/vi/oqe_BLJhjwE/maxresdefault.jpg",
-      "publishedAt": "2023-09-17T16:15:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Andy Kessler",
-      "title": "Schumer Wants a Cut of AI - WSJ - The Wall Street Journal",
-      "description": "Interest groups and politicians seek regulation for their own purposes.",
-      "url": "https://www.wsj.com/articles/schumer-wants-a-cut-of-ai-musk-chaptgpt-economic-growth-regulation-4d8c73f5",
-      "urlToImage": "https://images.wsj.net/im-853042/social",
-      "publishedAt": "2023-09-17T16:12:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Joseph Adinolfi",
-      "title": "Powell could still hammer U.S. stocks on Wednesday even if the Fed doesn't hike interest rates - MarketWatch",
-      "description": "Although the Federal Reserve is expected to leave interest rates on hold Wednesday, Chairman Jerome Powell could still rattle markets as he's probed for...",
-      "url": "https://www.marketwatch.com/story/powell-could-still-hammer-u-s-stocks-on-wednesday-even-if-the-fed-doesnt-hike-interest-rates-5c7ed71a",
-      "urlToImage": "https://images.mktw.net/im-853068/social",
-      "publishedAt": "2023-09-17T16:01:00Z",
-      "content": "The past six weeks have left investors with more questions than answers about the outlook for U.S. monetary policy and, by extension, financial markets. And although the Federal Reserve is expected t… [+4650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "NSE to introduce IRRA platform from Oct 3 to address technical glitches, outages | Mint - Mint",
-      "description": "The National Stock Exchange (NSE) has said that it will introduce an Investor Risk Reduction Access (IRRA) platform from October 3 for trading members to address technical glitches or any outage. However, it will not be accessible for algo trading and institu…",
-      "url": "https://www.livemint.com/market/stock-market-news/nse-to-introduce-irra-platform-from-oct-3-to-address-technical-glitches-outages-11694965714758.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/17/600x338/outages_1694965990941_1694965991182.jpg",
-      "publishedAt": "2023-09-17T15:56:16Z",
-      "content": "The National Stock Exchange (NSE) has said that it will introduce an Investor Risk Reduction Access (IRRA) platform from October 3 for trading members to address technical glitches or any outage. How… [+2231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9News.com KUSA"
-      },
-      "author": "TEGNA Digital",
-      "title": "Did anyone win Saturday's $596M Powerball jackpot? - 9News.com KUSA",
-      "description": "The last time someone hit the Powerball jackpot was back in July, when one very lucky lottery player won $1.08 billion.",
-      "url": "https://www.9news.com/article/news/nation-world/powerball-winning-numbers-saturday-sept-16-2023/507-8e1b83ec-bd88-4447-a180-70386a7cbd57",
-      "urlToImage": "https://media.9news.com/assets/CCT/images/d8229ecb-4220-4cc1-a3cd-d0f524922756/d8229ecb-4220-4cc1-a3cd-d0f524922756_1140x641.jpg",
-      "publishedAt": "2023-09-17T15:29:00Z",
-      "content": "WASHINGTON, USA Without a grand prize winner on Saturday, the Powerball jackpot soared to an eye-popping $638 million for Monday's drawing. \r\nThe jackpot entered record territory and is now the tenth… [+2125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "Apple supplier Foxconn aims to double India jobs and investment - South China Morning Post",
-      "description": "The mammoth Taiwan firm already has an iPhone factory employing 40,000 people in the state of Tamil Nadu.",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3234870/india-jobs-and-investment-double-says-foxconn-it-moves-away-china",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/fe06aa7a-c91c-492a-b9df-d9ecbe226f4f_5e67bd45.jpg?itok=_r6s3Uc6&v=1694963324",
-      "publishedAt": "2023-09-17T15:08:46Z",
-      "content": "Apple supplier Foxconn aims to double its workforce and investment in India by next year, a company executive said on Sunday.\r\nTaiwan-based Foxconn, the worlds largest contract manufacturer of electr… [+1503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "Daniel Kline",
-      "title": "Amazon, Walmart face a huge new competitor with a big advantage - TheStreet",
-      "description": "The two retail giants have never met this kind of challenge before and it could be good for consumers.",
-      "url": "https://www.thestreet.com/retailers/amazon-walmart-face-a-huge-new-competitor-with-a-big-advantage",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTg5NjkwMjQ1NDI2NDU2MzI5/walmart_amazon.jpg",
-      "publishedAt": "2023-09-17T14:17:20Z",
-      "content": "While Target offers customers a retail experience, Walmart and Amazon are more just places to shop. Yes, both brands have loyal customer bases, but that's more a function of their pricing and technol… [+4211 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "Jamie Smyth, Aime Williams",
-      "title": "California accuses Big Oil of covering up climate change risks in lawsuit - Financial Times",
-      "description": "Civil action seeks damages to help mitigate costs of global warming caused by fossil fuels",
-      "url": "https://www.ft.com/content/3b655443-5721-4524-9e8f-ffbf314b06a7",
-      "urlToImage": null,
-      "publishedAt": "2023-09-17T14:14:18Z",
-      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gobankingrates.com"
-      },
-      "author": "Vance Cariaga",
-      "title": "12 Worst Places in Arizona for a Couple To Live on Only a Social Security Check - GOBankingRates",
-      "description": "Arizona has long been known as one of the country's most popular retirement destinations because of its warm, dry climate and wide-open spaces. It was a pioneer...",
-      "url": "https://www.gobankingrates.com/money/finance/worst-places-arizona-couple-live-social-security-check/",
-      "urlToImage": "https://cdn.gobankingrates.com/wp-content/uploads/2023/09/row-of-arizona-state-flags_iStock-1001910024.jpg",
-      "publishedAt": "2023-09-17T14:02:40Z",
-      "content": "Arizona has long been known as one of the countrys most popular retirement destinations because of its warm, dry climate and wide-open spaces. It was a pioneer in senior-only communities, having deve… [+1161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "Jio AirFiber internet service to launch Sept. 19; Stream HD videos, play games at 'super-fast' speeds - HT Tech",
-      "description": "Reliance Jio is set to launch Jio AirFiber, a 'super-fast' wireless internet service for homes and offices, promising speeds up to 1.5 Gbps.",
-      "url": "https://tech.hindustantimes.com/tech/news/jio-airfiber-internet-service-to-launch-sept-19-stream-hd-videos-play-games-at-super-fast-speeds-71694956893312.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/09/17/1600x900/Jio_AirFiber_1694957262742_1694957262959.png",
-      "publishedAt": "2023-09-17T13:29:50Z",
-      "content": "Reliance Jio is about to launch its new wireless internet service, Jio AirFiber, on September 19. This internet service is for homes and offices and will be super fast, allowing you to stream HD vide… [+2101 chars]"
+      "author": "Urvi Malvania",
+      "title": "Voda Idea denies reports Verizon, Amazon or Starlink want to acquire it - The Economic Times",
+      "description": "Vodafone Idea has denied reports that it is in talks with Verizon, Amazon, or Starlink for a potential acquisition. The telco's stock has rallied around 20% in the past two weeks, fueled by speculation of a takeover by one of these US giants. However, Vodafon…",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/voda-idea-denies-reports-verizon-amazon-or-starlink-want-to-acquire-it/articleshow/103745857.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103745863,width-1070,height-580,imgsize-65354,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-18T04:28:00Z",
+      "content": "Cash-strapped telco Vodafone Idea has denied that it is in talks to be acquired by US majors such Verizon, Amazon or Elon Musk-owned Starlink. An online report suggesting it was in talks saw its stoc… [+2101 chars]"
     }
   ]
 }
