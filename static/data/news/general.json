@@ -1,110 +1,864 @@
 {
   "status": "ok",
-  "totalResults": 100,
+  "totalResults": 102,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Science Desk",
+      "title": "Chandrayaan-3 done! How India's next moon mission will change the game - India Today",
+      "description": "Being referred to as the Chandrayaan-4 missions following the success of Chandrayaan-3, the Lunar Polar Exploration Mission (Lupex) will launch to explore the Moon with a new set of objectives.",
+      "url": "https://www.indiatoday.in/science/chandrayaan-3/story/chandrayaan-3-done-how-india-isro-next-moon-mission-will-change-the-game-2454338-2023-10-27",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/chandrayaan-3-27280633-16x9_0.jpg?VersionId=C_qWSsrtExhBRe7MrdyHzikmZen9lmF4",
+      "publishedAt": "2023-10-27T06:23:55Z",
+      "content": "As India rides the success of a streak of space missions, the Indian Space Research Organisation (Isro) and the Japanese Aerospace Exploration Agency (JAXA) have shifted their focus to the next big l… [+3126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mid-day"
+      },
+      "author": null,
+      "title": "Lunar Eclipse 2023: Date, location, and other details to watch the partial Lunar Eclipse - mid-day.com",
+      "description": "Lunar Eclipse 2023: This month, a partial lunar eclipse will be seen on Friday, October 28",
+      "url": "https://www.mid-day.com/news/india-news/article/lunar-eclipse-2023-date-location-and-other-details-to-watch-the-partial-lunar-eclipse-23316714",
+      "urlToImage": "https://images.mid-day.com/images/images/2023/oct/oct27-pmmo_d.jpg",
+      "publishedAt": "2023-10-27T05:58:00Z",
+      "content": "Lunar Eclipse 2023: As October comes to an end this week, celestial enthusiasts are in for a treat with the second eclipse of the month. This month, a partial lunar eclipse will be seen on Friday, Oc… [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "MLB.com",
+      "title": "Evan Longoria's experience valuable for D-backs in 2023 World Series - MLB.com",
+      "description": null,
+      "url": "https://www.mlb.com/news/evan-longoria-experience-d-backs-2023-world-series",
+      "urlToImage": null,
+      "publishedAt": "2023-10-27T05:43:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "‘India's startup ecosystem among top 3 today’: PM Modi at India Mobile Congress - Hindustan Times",
+      "description": "The 3-day IWC is taking place at the Bharat Mandapam convention centre in Delhi's Pragati Maidan. The venue also hosted September's G20 Summit. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-opens-7th-india-mobile-congress-inaugurates-100-5g-labs-101698382818738.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/27/1600x900/IMC_1698382805796_1698382810914.png",
+      "publishedAt": "2023-10-27T05:41:47Z",
+      "content": "Prime Minister Narendra Modi on Friday opened the seventh edition of the India Mobile Congress (IWC), a three-day event being held at the Bharat Mandapam convention centre in Delhi's Pragati Maidan, … [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Leo bo collection day 7: Vijay's film becomes highest grossing Tamil film ever - Hindustan Times",
+      "description": "Leo global box office collection day 7: Vijay's film sets a new record with an earning of ₹461 crore worldwide.",
+      "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/leo-box-office-collection-day-7-vijay-film-earns-rs-461-crore-worldwide-101698378526645.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/27/1600x900/leo_movie_1698381385343_1698381385479.jpeg",
+      "publishedAt": "2023-10-27T05:02:34Z",
+      "content": "Leo global box office collection day 7: Filmmaker Lokesh Kanagaraj's Leo continues to rule the international box office. Smashing records, the film has now become the highest-grossing film in the his… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "BS Tech",
+      "title": "OnePlus Open foldable smartphone goes on sale at 12 pm on Oct 27: Details - Business Standard",
+      "description": "OnePlus maiden foldable device, the OnePlus Open, is priced at Rs 139,999. It is offered in Emerald Green and Voyager Black colours, and 16GB RAM + 512GB storage configuration",
+      "url": "https://www.business-standard.com/technology/tech-news/oneplus-open-foldable-smartphone-goes-on-sale-at-12-pm-on-oct-27-details-123102700172_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/27/full/1698382069-8611.jpg",
+      "publishedAt": "2023-10-27T04:54:46Z",
+      "content": "Cover display on the OnePlus Open is a 6.31-inch 2K AMOLED display with variable refresh rate of up to 120Hz."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Reliance Jio unveils JioSpaceFiber: India's first satellite-based gigabit broadband service for nationwide access | Mint - Mint",
+      "description": "Jio to connect 'everything, everywhere across land, air, sea & space'",
+      "url": "https://www.livemint.com/technology/tech-news/reliance-jio-unveils-jiospacefiber-indias-first-satellite-based-gigabit-broadband-service-for-nationwide-access-11698381881010.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/27/1600x900/frfr_1698382259577_1698382279828.jpeg",
+      "publishedAt": "2023-10-27T04:50:10Z",
+      "content": "New Delhi: Reliance Jio Infocomm Ltd, India's top carrier, announced on Friday the rollout of its JioSpaceFiber satellite broadband service, which it showcased at the India Mobile Congress as the nat… [+3236 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "NHL Highlights | Rangers vs. Oilers - October 26, 2023 - SPORTSNET",
+      "description": "Jonathan Quick turned aside all 29 shots he faced, while Adam Fox, Braden Schneider, and Artemi Panarin each collected two points apiece as the New York Rang...",
+      "url": "https://www.youtube.com/watch?v=EKOVm0t6mds",
+      "urlToImage": "https://i.ytimg.com/vi/EKOVm0t6mds/maxresdefault.jpg",
+      "publishedAt": "2023-10-27T04:42:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Pushkar Tiwari",
+      "title": "Israel-Hamas War Live Updates: Israel Kills Three Senior Hamas Members As War Enters Day 21 - NDTV",
+      "description": "Israel-Hamas War Live Updates: Fighting in the Gaza Strip has entered day 21 after Hamas members launched a surprise attack on Israel, killing at least 1,400 people.",
+      "url": "https://www.ndtv.com/world-news/israel-hamas-war-live-updates-israel-kills-three-senior-hamas-members-as-war-enters-day-21-4517890",
+      "urlToImage": "https://c.ndtvimg.com/2023-10/ndek818o_hamas-hostage-reuters_625x300_20_October_23.jpg",
+      "publishedAt": "2023-10-27T04:19:41Z",
+      "content": "Israel-Hamas War Live Updates: Israel's retaliatory bombardments have killed over 7,000 Palestinians\r\nIsrael-Hamas War Live Updates: Fighting in the Gaza Strip has entered day 21 after Hamas members … [+6617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Manjiri Chitre",
+      "title": "Israel strikes three Hamas operatives; EU urges break in war to channel aid. Top updates - Hindustan Times",
+      "description": "Israel-Hamas war: According to the latest data, over 8,000 people have been killed from both sides in the war so far, while thousands have been displaced. | World News",
+      "url": "https://www.hindustantimes.com/world-news/israel-strikes-three-hamas-operatives-eu-urges-break-in-war-to-channel-aid-top-updates-101698372938044.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/27/1600x900/Israel_Hamas_1698377561870_1698377561994.jpeg",
+      "publishedAt": "2023-10-27T04:09:56Z",
+      "content": "The war between Israel and the Hamas militant group entered its 21st day after Hamas launched a surprise attack on Israel on October 7, killing at least 1,400 people. According to the latest data, ov… [+287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "What Comedian Hasan Minhaj Said On Allegations Of Faking Islamophobia - NDTV",
+      "description": "Minhaj said that he believed the article portrayed him in a negative light, making him appear like a \"psycho.\" He defended the use of creative liberties in exaggerating certain aspects of his stand-up stories.",
+      "url": "https://www.ndtv.com/feature/watch-hasan-minhajs-response-to-allegations-of-faking-racism-and-islamophobia-4518032",
+      "urlToImage": "https://c.ndtvimg.com/2023-10/dv8nfgvg_hasan-minhaj-responds-to-new-yorker-claims-he-told-false-stories_625x300_27_October_23.jpg",
+      "publishedAt": "2023-10-27T04:08:52Z",
+      "content": "The comedian released a video giving his perspective on the article.\r\nComedian Hasan Minhaj was accused in a recent New Yorker magazine story of fabricating or exaggerating the personal stories he te… [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Tech",
+      "title": "Chelyabinsk asteroid-sized space rock to pass Earth at very close quarters today - HT Tech",
+      "description": "An asteroid, almost the same size as the Chelyabinsk asteroid which exploded over the Russian city in 2013, is expected to pass Earth at a close distance today, October 27. Know details such as its size, distance, speed and more.",
+      "url": "https://tech.hindustantimes.com/tech/news/chelyabinsk-asteroid-sized-space-rock-to-pass-earth-at-very-close-quarters-today-71698379503355.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/27/1600x900/asteroid_4_1697976958628_1698379576762.jpg",
+      "publishedAt": "2023-10-27T04:06:40Z",
+      "content": "According to NASA, an asteroid, given the designation of Asteroid 2023 UV6, is on its way towards Earth and will pass the planet at a close distance today, October 27. The asteroid was discovered by … [+2475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Peter White",
+      "title": "Thousands Of Stars Including Sarah Paulson, Chelsea Handler, Jon Hamm, Daveed Diggs, Christian Slater & Sandra Oh Tell SAG-AFTRA Leadership: “We Would Rather Stay On Strike Than Take A Bad Deal” - Deadline",
+      "description": "A group of high-profile actors have signed a public letter declaring that they would rather stay on strike rather than accept a bad deal. Thousands of stars including Sarah Paulson, Chelsea Handler…",
+      "url": "https://deadline.com/2023/10/actors-strike-letter-1235584852/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-1752382199.jpg?w=1024",
+      "publishedAt": "2023-10-27T04:03:00Z",
+      "content": "A group of high-profile actors have signed a public letter declaring that they would rather stay on strike rather than accept a bad deal.\r\nThousands of stars including Sarah Paulson, Chelsea Handler,… [+3404 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Live news: Asia shares rise as strong Amazon sales boost investor sentiment - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/8711c1cc-0aa3-441c-91d6-2e27904ced2d",
+      "urlToImage": null,
+      "publishedAt": "2023-10-27T04:00:21Z",
+      "content": "We usecookiesfor a number of reasons, such as keeping FT Sites reliable and secure, personalising content and ads, providing social media features and to analyse how our Sites are used."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Los Angeles Times"
+      },
+      "author": "Mikael Wood",
+      "title": "Taylor Swift's '1989 (Taylor's Version)': Five new songs ranked - Los Angeles Times",
+      "description": "'1989 (Taylor's Version)' may end up as the best-selling Swift LP of them all. Among the five previously unreleased tracks, a hilarious takedown of some poor dude.",
+      "url": "https://www.latimes.com/entertainment-arts/music/story/2023-10-26/taylor-swift-1989-taylors-version-new-songs-ranked",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e3aff1f/2147483647/strip/true/crop/4887x2566+0+1044/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F10%2F7c%2F4a0ecab74a07b9cb1bf15a94a49b%2Ftaylor-swift2.jpg",
+      "publishedAt": "2023-10-27T04:00:00Z",
+      "content": "Nine years to the day since the release of Taylor Swifts 1989, the singers rerecorded version of her blockbuster 2014 album is here: 1989 (Taylors Version) hit streaming services at 9 p.m. PT Thursda… [+4772 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Exclusive: 'Kangana Ranaut's Tejas has not found any limelight owing to the mass movement of Vijay's Leo' - IndiaTimes",
+      "description": "According to film trade analyst Girish Wankhede, Kangana Ranaut's upcoming film 'Tejas' has not generated enough buzz for a major release. Wankhede be",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/exclusive-kangana-ranauts-tejas-has-not-found-any-limelight-owing-to-the-mass-movement-of-vijays-leo-says-girish-wankhade/articleshow/104742513.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104742516,width-1070,height-580,imgsize-117104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-27T03:55:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "“Situation under control…Nothing to panic about…”: Mayor Shelly Oberoi on Dengue cases in Delhi - Times of India",
+      "description": "Talking about the Dengue cases in Delhi, Mayor Shelly Oberoi on October 26 assured that the situation is under control in the city. She further said that all the hospitals are ready in case of emergency. There is nothing to panic, she added. The sit",
+      "url": "https://timesofindia.indiatimes.com/videos/news/situation-under-controlnothing-to-panic-about-mayor-shelly-oberoi-on-dengue-cases-in-delhi/videoshow/104742640.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104742640,imgsize-31484.cms",
+      "publishedAt": "2023-10-27T03:49:51Z",
+      "content": "Oct 27, 2023, 09:19AM ISTSource: ANITalking about the Dengue cases in Delhi, Mayor Shelly Oberoi on October 26 assured that the situation is under control in the city. She further said that all the h… [+386 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Maegan Vazquez, Tom Bell",
+      "title": "Lewiston shooting spurs Maine congressman to drop opposition to assault weapons ban - The Washington Post",
+      "description": "Rep. Jared Golden, a Democrat who had enjoyed an A+ rating from gun rights advocates, said he regretted his past opposition to an assault weapons ban and said he would now support a ban.",
+      "url": "https://www.washingtonpost.com/politics/2023/10/26/maine-shooting-gun-control-laws/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6HWUWTCW7JULEKBKFBPUMR4QA_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-10-27T03:49:00Z",
+      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nLEWISTON, Maine At a news conference in his hometown Thursday evening in Lewiston, Rep. Jared Golden, a Democrat who had enjoyed an A+… [+3728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "이선균·권지용 '마약 공급책' 의사 입건...\"출국금지·구속영장 검토\" / YTN 사이언스 - YTN 사이언스 투데이",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=JshAUeHX8J0",
+      "urlToImage": null,
+      "publishedAt": "2023-10-27T03:44:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "SI Reporter",
+      "title": "Stock Market Live: Sensex jumps 550pts, Nifty reclaims 19K; NTPC, Infy lead - Business Standard",
+      "description": "Stock market live updates on October 27, 2023: The broader markets also rebounded sharply. The BSE MidCap and SmallCap indices rose 1 per cent each",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-sensex-nifty-gift-nifty-reliance-maruti-vodafone-123102700072_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-08/07/full/1691380420-4084.jpg",
+      "publishedAt": "2023-10-27T03:43:00Z",
+      "content": "Photo: Bloomberg\r\nStock market live: Tracking gains elsewhere in Asia, domestic benchmark indices were on a strong footing Friday as they partially recovered from the previous selloff. The BSE Sensex… [+546 chars]"
+    },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Jeremy Herb, Lauren del Valle",
-      "title": "Judge defends fining Trump $10,000 for breaking gag order - CNN",
-      "description": "Judge Arthur Engoron on Thursday defended his $10,000 sanction against Donald Trump after the former president violated the gag order barring public comments about members of the judge’s staff, rejecting another appeal by Trump’s attorneys to drop the fine.",
-      "url": "https://www.cnn.com/2023/10/26/politics/trump-gag-order-engoron-fine/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-10-25t195321z-1966779931-rc2oz3avkjti-rtrmadp-3-usa-trump-new-york.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26T20:18:00Z",
-      "content": "Judge Arthur Engoron on Thursday defended his $10,000 sanction against Donald Trump after the former president violated the gag order barring public comments about members of the judges staff, reject… [+4973 chars]"
+      "author": "Simone McCarthy, Steven Jiang",
+      "title": "Former Chinese Premier Li Keqiang dead at 68: state media - CNN",
+      "description": "China’s former Premier Li Keqiang has died, state media said on Friday.",
+      "url": "https://www.cnn.com/2023/10/27/china/china-former-premier-li-keqiang-died/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231027082650-li-keqiang-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-27T03:39:00Z",
+      "content": "Former Chinese Premier Li Keqiang, once seen as a reform-minded contender to the countrys top leadership role, died of a sudden heart attack early Friday in Shanghai, state media reported.\r\nHe was 68… [+4463 chars]"
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": null,
+        "name": "NDTV News"
       },
-      "author": "Jonathan Saul, Stephen Farrell",
-      "title": "Hamas' tunnel city beneath Gaza - a hidden front line for Israel - Reuters",
-      "description": "What lies in wait for Israeli <a href=\"/world/middle-east/israel-bombards-gaza-prepares-invasion-biden-urges-path-two-states-2023-10-25/\">ground troops</a> in Gaza, security sources say, is a Hamas tunnel network hundreds of kilometres long and up to 80 metre…",
-      "url": "https://www.reuters.com/world/middle-east/hamas-tunnel-city-beneath-gaza-hidden-frontline-israel-2023-10-26/",
-      "urlToImage": "https://www.reuters.com/resizer/QqzfNrwgvJ-86-spSzduzi0TX08=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5GX3K77J5KAPN55YL4BRFYSF4.jpg",
-      "publishedAt": "2023-10-26T19:30:00Z",
-      "content": "JERUSALEM/LONDON, Oct 26 (Reuters) - What lies in wait for Israeli ground troops in Gaza, security sources say, is a Hamas tunnel network hundreds of kilometres long and up to 80 metres deep, describ… [+8764 chars]"
+      "author": null,
+      "title": "Priyanka Chopra Checks Into Mumbai For MAMI Film Festival. See Airport Pics - NDTV Movies",
+      "description": "Priyanka Chopra will attend the opening night of the MAMI Film Festival 2023",
+      "url": "https://www.ndtv.com/entertainment/priyanka-checks-into-mumbai-for-mami-film-festival-see-airport-pics-4517987",
+      "urlToImage": "https://c.ndtvimg.com/2023-10/eag6fhr8_priyanka-chopra_625x300_27_October_23.jpg",
+      "publishedAt": "2023-10-27T03:36:11Z",
+      "content": "Priyanka Chopra at the Mumbai airport.\r\nNew Delhi: Priyanka Chopra landed in Mumbai in the early hours of Friday. The actress is in Mumbai to attend opening night of the Jio MAMI Film Festival 2023. … [+1371 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Amanda Macias, Karen Gilchrist, Ruxandra Iordache",
-      "title": "Israel-Hamas war live updates: Nine Arab countries condemn the targeting of civilians in Gaza; Israel launches overnight raid - CNBC",
-      "description": "The Israel Defense Forces said they conducted an overnight raid in northern Gaza, \"as part of preparations for the next stages of combat.\"",
-      "url": "https://www.cnbc.com/2023/10/26/israel-hamas-war-updates-and-latest-news-on-gaza-conflict.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107323529-1698321076956-gettyimages-1745437724-AFP_33Z66ED.jpeg?v=1698329498&w=1920&h=1080",
-      "publishedAt": "2023-10-26T19:23:00Z",
-      "content": "The foreign ministers of the United Arab Emirates, Jordan, Bahrain, Qatar, Kuwait, Saudi Arabia, Oman, Egypt and Morocco condemned on Thursday the targeting of civilians and violations of internation… [+1779 chars]"
+      "author": "MacKenzie Sigalos",
+      "title": "Sam Bankman-Fried's defense team fails to land a blow as he takes the stand - CNBC",
+      "description": "Judge Lewis Kaplan sent the jury home early on Thursday to decide whether some lines of defense were admissible.",
+      "url": "https://www.cnbc.com/2023/10/26/sam-bankman-fried-defense-team-fails-to-land-a-blow-as-he-takes-stand.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107323989-1698350888068-PXL_20231026_1949159082.jpg?v=1698377794&w=1920&h=1080",
+      "publishedAt": "2023-10-27T03:36:00Z",
+      "content": "Sam Bankman-Fried took the stand in a New York courtroom on Thursday, as he and his defense team auditioned their best legal material for U.S. District Judge Lewis Kaplan. \r\nThe former crypto billion… [+7417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Zee Media Bureau",
+      "title": "LIVE Updates | PAK Vs SA ICC ODI World Cup 2023, Cricket Live Score: Babar Gives Pep Talk To Team - Zee News",
+      "description": "LIVE Updates | PAK Vs SA ICC ODI World Cup 2023, Cricket Live Score: Imam-ul-Haq To Be Dropped? Chec",
+      "url": "https://zeenews.india.com/cricket/live-updates/live-cricket-score-pak-vs-sa-icc-odi-world-cup-2023-match-no-26-today-pakistan-vs-south-africa-ma-chidambaram-stadium-chennai-babar-azam-aiden-markram-heinrich-klaasen-2680369",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/10/26/1305278-wc.jpeg",
+      "publishedAt": "2023-10-27T03:31:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "New US House speaker says Ukraine, Israel funding request should be split - Reuters",
+      "description": "Newly elected U.S. Speaker of the House Mike Johnson said on Thursday that funding to support Ukraine and Israel should be handled separately, suggesting he will not back President Joe Biden's $106 billion aid package for both countries.",
+      "url": "https://www.reuters.com/world/new-us-house-speaker-says-ukraine-israel-funding-request-should-be-split-2023-10-27/",
+      "urlToImage": "https://www.reuters.com/resizer/clkyfqMPWTlBVO4d7UPiQU7yoiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VORKN5NVNRJG3H2JSL6CG2DW6E.jpg",
+      "publishedAt": "2023-10-27T03:25:59Z",
+      "content": "WASHINGTON, Oct 26 (Reuters) - Newly elected U.S. Speaker of the House Mike Johnson said on Thursday that funding to support Ukraine and Israel should be handled separately, suggesting he will not ba… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Alaina Getzenberg, Jenna Laine",
+      "title": "Josh Allen and Bills get back on track in Thursday night win over Bucs - ESPN - ESPN",
+      "description": "The Bills bounced back from their New England loss, while the slide continued for Baker Mayfield and the Bucs.",
+      "url": "https://www.espn.com/nfl/story/_/id/38749117/bills-beat-buccaneers-bucs-thursday-night-football-josh-allen",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1027%2Fr1244308_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-10-27T03:25:00Z",
+      "content": "Oct 26, 2023, 11:25 PM ET\r\nORCHARD PARK, N.Y. -- The Buffalo Bills entered Thursday night's battle with the Tampa Bay Buccaneers in need of a win that would erase the sting of last week's humbling lo… [+6977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Mahua Moitra Cash For Query Row: Ethics Committee seeks her login and location details | Mint - Mint",
+      "description": "Ethics committee has asked login and location details of Mahua Moitra from IT, Home Ministries.",
+      "url": "https://www.livemint.com/news/india/cashforquery-row-ethics-committee-requests-logins-locations-of-mahua-moitra-from-it-home-ministries-11698375991089.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/27/1600x900/Mahua_Moitra_1698377004708_1698377004902.jpg",
+      "publishedAt": "2023-10-27T03:10:13Z",
+      "content": "Ethics committee has asked for Mahua Moitra's logins, location details from IT and Home Ministries in connection with the cash-for-query allegations against the TMC MP, NDTV has reported."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Damian Lillard makes Milwaukee Bucks history in electric debut vs. 76ers - CBS Sports",
+      "description": "Lillard scored 14 of Milwaukee's final 16 points and hit a dagger step-back 3",
+      "url": "https://www.cbssports.com/nba/news/damian-lillard-drops-39-points-makes-milwaukee-bucks-history-in-electric-debut-vs-76ers/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/27/71b0cbc5-c36b-4956-8ce8-f8746386f700/thumbnail/1200x675/54d1f73374376d02cc87a56930125c80/dame-lillard-bucks-green-g.jpg",
+      "publishedAt": "2023-10-27T03:08:00Z",
+      "content": "Damian Lillard was electric in his Milwaukee debut, hanging 39 points on the Philadelphia 76ers in a 118-117 Bucks victory. \r\nThis signature step-back dagger, with just over a minute to play and the … [+1449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cricket World Cup 2023 - \"They Underestimated Our Team\": Sri Lanka Star Takes A Jibe At England Afte.. - NDTV Sports",
+      "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+      "url": "https://www.bbc.com/news/world-us-canada-39324587",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+      "publishedAt": "2023-10-27T03:04:43Z",
+      "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "AP",
+      "title": "US strikes Iran-linked sites in Syria in retaliation for attacks on its troops - Hindustan Times",
+      "description": "US wants to hit Iranian-backed groups as strongly as possible to deter future aggression, possibly fueled by Israel's war against Hamas. | World News",
+      "url": "https://www.hindustantimes.com/world-news/us-strikes-iran-linked-sites-in-syria-in-retaliation-for-attacks-on-its-troops-101698374996561.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/27/1600x900/United-States-Iran-Military-Strike-0_1698375036901_1698375083718.jpg",
+      "publishedAt": "2023-10-27T02:53:16Z",
+      "content": "The US military launched airstrikes early Friday on two locations in eastern Syria linked to Iran's Revolutionary Guard Corps, the Pentagon said, in retaliation for a slew of drone and missile attack… [+4722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "BS Web Team",
+      "title": "Gold prices increase by Rs 160 to Rs 61,960/kg; silver rate up Rs 500 - Business Standard",
+      "description": "Gold-Silver price today: The price of 22-carat gold also rose by Rs 150, with the yellow metal selling at Rs 56,800",
+      "url": "https://www.business-standard.com/markets/commodities/gold-prices-increase-by-rs-160-to-rs-61-960-kg-silver-rate-up-rs-500-123102700080_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/28/full/1680026223-3258.jpeg",
+      "publishedAt": "2023-10-27T02:49:10Z",
+      "content": "The price of 22-carat gold also rose by Rs 150, with the yellow metal selling at Rs 56,800\r\nGold\r\nBS Web TeamNew Delhi\r\nThe price of 24-carat gold jumped Rs 160 in early trade on Thursday, with ten g… [+1834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "‘I’m victim of great conspiracy': TMC minister after arrest in ‘ration scam’ - Hindustan Times",
+      "description": "The arrest was made a day after the probe agency carried out searches at two of the minister's residence. | Kolkata News",
+      "url": "https://www.hindustantimes.com/cities/kolkata-news/ed-arrests-bengal-minister-jyotipriya-mallick-in-alleged-ration-scam-101698374297299.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/27/1600x900/Jyotipriya_Mallick_1698374892852_1698374893098.jpg",
+      "publishedAt": "2023-10-27T02:48:47Z",
+      "content": "The Enforcement Directorate on Thursday arrested West Bengal minister and Trinamool Congress leader Jyotipriya Mallick a day after the central probe agency carried out searches at his residence in Ko… [+1871 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Megan Lebowitz, Alexandra Marquez, Dennis Romero, Zoë Richards",
+      "title": "Democratic Rep. Dean Phillips launches a White House bid, challenging Biden - NBC News",
+      "description": "The Democratic congressman has been a staunch critic of Biden’s re-election bid and has previously called on other candidates to challenge the president.",
+      "url": "https://www.nbcnews.com/politics/2024-election/democratic-rep-dean-phillips-launches-white-house-bid-challenging-bide-rcna122202",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231025-dean-phillips-se-554p-2f4f01.jpg",
+      "publishedAt": "2023-10-27T02:48:00Z",
+      "content": "WASHINGTON After months of hinting, Rep. Dean Phillips announced Thursday that he would challenge President Joe Biden for the Democratic nomination for president.\r\nThe Minnesota Democrat made the ann… [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Israel-Hamas conflict: Lack of fuel pushing Gaza to brink, as Israeli forces prepare for invasion - Global News",
+      "description": "WARNING: This video contains disturbing content. Viewer discretion is advised.  While some humanitarian aid is finally being allowed into the Gaza Strip, the...",
+      "url": "https://www.youtube.com/watch?v=kRmo3ELz7TE",
+      "urlToImage": "https://i.ytimg.com/vi/kRmo3ELz7TE/maxresdefault.jpg",
+      "publishedAt": "2023-10-27T02:45:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Henry Romero, Diego Oré",
+      "title": "Hurricane Otis kills at least 27, hammers Acapulco as damage seen in billions - Reuters Canada",
+      "description": "Hurricane Otis claimed the lives of at least 27 people, Mexico's government said on Thursday after one of the most powerful storms to hit the country hammered the beach resort of Acapulco, causing damage seen running into billions of dollars.",
+      "url": "https://www.reuters.com/world/americas/mexico-clears-up-wreckage-hurricane-otis-counts-cost-damage-2023-10-26/",
+      "urlToImage": "https://www.reuters.com/resizer/r9-P0PvbSQ0YN-JcEwsYMiDYbKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2L43FGYYVN7FAHQRCR7FLZLIQ.jpg",
+      "publishedAt": "2023-10-27T02:19:00Z",
+      "content": "ACAPULCO, Mexico, Oct 26 (Reuters) - Hurricane Otis claimed the lives of at least 27 people, Mexico's government said on Thursday after one of the most powerful storms to hit the country hammered the… [+5312 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Li Keqiang, former Chinese premier, has died at age 68 - Al Jazeera English",
+      "description": "State media says Li Keqiang, who stepped down just nine months ago, died of a heart attack.",
+      "url": "https://www.aljazeera.com/news/2023/10/27/li-keqiang-former-chinese-premier-has-died-at-age-68",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-05T023049Z_523645830_RC2ENZ9KF8KF_RTRMADP_3_CHINA-PARLIAMENT.jpg?resize=1920%2C1371",
+      "publishedAt": "2023-10-27T02:11:14Z",
+      "content": "Li Keqiang, the former premier of China, has died of a heart attack, less than a year after stepping down from his post as the countrys second-highest-ranking leader.\r\nOn October 26, Li had a sudden … [+777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Department of Defense"
+      },
+      "author": null,
+      "title": "Secretary of Defense Lloyd J. Austin III's Statement on U.S. Military Strikes in Eastern S - Department of Defense",
+      "description": "Secretary of Defense Lloyd J. Austin III issued a statement on U.S. military strikes in Eastern Syria.",
+      "url": "https://www.defense.gov/News/Releases/Release/Article/3570798/secretary-of-defense-lloyd-j-austin-iiis-statement-on-us-military-strikes-in-ea/",
+      "urlToImage": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG",
+      "publishedAt": "2023-10-27T02:07:26Z",
+      "content": "Today, at President Biden’s direction, U.S. military forces conducted self-defense strikes on two facilities in eastern Syria used by Iran’s Islamic Revolutionary Guard Corps (IRGC) and affiliated gr… [+1486 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Missile strikes Egyptian Red Sea town on Israel border - Reuters",
+      "description": "A missile launched as part of fighting between Hamas militants and Israel struck an Egyptian resort town about 220 km (135 miles) from the Gaza Strip early on Friday, Egypt's Al Qahera News reported, citing sources.",
+      "url": "https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161",
+      "publishedAt": "2023-10-27T02:00:02Z",
+      "content": "CAIRO/JERUSALEM, Oct 27 (Reuters) - A missile launched as part of fighting between Hamas militants and Israel struck an Egyptian resort town about 220 km (135 miles) from the Gaza Strip early on Frid… [+2067 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Fungi used to produce food products have potential probiotic effects on gut inflammation - News-Medical.Net",
+      "description": "Many fungus strains have been used and selected by the food industry for their capacities to ferment, produce flavors or produce heterologous molecules.",
+      "url": "https://www.news-medical.net/news/20231026/Fungi-used-to-produce-food-products-have-potential-probiotic-effects-on-gut-inflammation.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/9/Digital_composite_of_highlighted_red_painful_intestine_of_woman__health_care_%26__-_mi_viri_M1_e6797484d65c4349af727c0f40f1116a-620x480.jpg",
+      "publishedAt": "2023-10-27T01:45:00Z",
+      "content": "Many fungus strains have been used and selected by the food industry for their capacities to ferment, produce flavors or produce heterologous molecules. According to a new study, 2 fungi used to prod… [+3193 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Lilly's bowel disease drug gets US FDA nod for treatment in adults - Reuters",
+      "description": "Eli Lilly and Co <a href=\"https://www.reuters.com/markets/companies/LLY.N\" target=\"_blank\">(LLY.N)</a> said on Thursday that the U.S. health regulator had approved its drug for treating adults with moderate-to-severe active ulcerative colitis, a type of chron…",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lillys-bowel-disease-drug-gets-us-fdas-approval-adults-2023-10-26/",
+      "urlToImage": "https://www.reuters.com/resizer/y1dibpQgH9jhmDbzPEqOYMjlyiE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V6WKJ3BLKRML3BRCVWOIWT5H3M.jpg",
+      "publishedAt": "2023-10-27T01:37:00Z",
+      "content": "Oct 26 (Reuters) - Eli Lilly and Co (LLY.N) said on Thursday that the U.S. health regulator had approved its drug for treating adults with moderate-to-severe active ulcerative colitis, a type of chro… [+1399 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "TNN",
-      "title": "In the Earth’s shadow: Partial lunar eclipse to stage celestial show over Goa on Sunday - Times of India",
-      "description": "Panaji: A celestial event set to occur in the early hours of Sunday morning promises to be a remarkable visual display.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/in-the-earths-shadow-partial-lunar-eclipse-to-stage-celestial-show-over-goa-on-sunday/articleshow/104736710.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104736709,width-1070,height-580,imgsize-42752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-26T18:56:12Z",
-      "content": "12 quick and healthy tiffin ideas for working women"
+      "author": "Ami Shah, Swathi Moorthy, Sandhya Sharma",
+      "title": "3 insights to kick-start your day, featuring the return of Mamaearth IPO - The Economic Times",
+      "description": "Mamaearth IPO; Meta faces US lawsuit; and India-Japan semiconductor deal.",
+      "url": "https://economictimes.indiatimes.com/prime/primeshots/3-insights-to-kick-start-your-day-featuring-the-return-of-mamaearth-ipo/primearticleshow/104736109.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104736094,width-1070,height-580,imgsize-153084/photo.jpg",
+      "publishedAt": "2023-10-27T01:28:38Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Detroit Free Press"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Kevin Skiver",
-      "title": "Michigan football sign-stealing investigation: What you need to know - Detroit Free Press",
-      "description": "The Michigan Wolverines football team is implicated in a massive sign-stealing operation dating back to 2021 involving staffer Connor Stalions.",
-      "url": "https://www.freep.com/story/sports/college/university-michigan/2023/10/26/michigan-sign-stealing-updates-latest-news-ncaa-investigation-jim-harbaugh-team/71328356007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2023/09/23/PDTF/70948425007-mich-rut-092323-kd-5328.jpg?crop=1767,992,x0,y60&width=1767&height=992&format=pjpg&auto=webp",
-      "publishedAt": "2023-10-26T18:49:32Z",
-      "content": "<ul><li>Jim Harbaugh's Michigan football has been implicated in a massive sign-stealing operation headed by staffer Connor Stalions.</li><li>News continues to emerge about Michigan's alleged transgre… [+7473 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Axios",
-      "title": "Hurricane Otis death toll, damage is becoming clear - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2023/10/26/hurricane-otis-acapulco-death-toll-damage",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26T18:32:13Z",
+      "author": "etimes.in",
+      "title": "'Ranveer Smith': Twitterati call Ranveer Singh Indian Will Smith after Deepika Padukone's 'open relations - IndiaTimes",
+      "description": "Ranveer Singh and Deepika Padukone released their wedding video, but it was overshadowed by Deepika's revelation about their relationship. She admitte",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ranveer-smith-twitterati-call-ranveer-singh-indian-will-smith-after-deepika-padukones-open-relationship-revelation/articleshow/104739554.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104739746,width-1070,height-580,imgsize-28532,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-27T01:06:37Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "The Athletic"
+        "name": "NDTV News"
       },
-      "author": "Jake Ciely",
-      "title": "Fantasy Football Rankings Week 8: Sleepers, projections, starts, sits | Rashee Rice, Dalton Kincaid and more - The Athletic",
-      "description": "Jake Ciely has Week 8 fantasy football rankings, sleepers, game previews and everything you need for starts/sits, plus Halloween candy ranks",
-      "url": "https://theathletic.com/4995932/2023/10/26/fantasy-football-rankings-week-8-sleepers-projections-starts-sits-rashee-rice-dalton-kincaid-and-more/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/24195314/GettyImages-1750564916-scaled.jpg",
-      "publishedAt": "2023-10-26T18:30:10Z",
-      "content": "We have all 32 teams available this week, so hopefully you dont need a Halloween scare of a starter. Instead, enjoy the Week 8 fantasy football rankings along with the yearly Best Halloween Candy ran… [+14536 chars]"
+      "author": null,
+      "title": "Former Chinese Premier Li Keqiang Dies At 68 - NDTV",
+      "description": "Former Chinese premier Li Keqiang has died after suffering a heart attack, state media reported Friday.Li served as premier during President Xi Jinping's first two five-year terms.",
+      "url": "https://www.ndtv.com/world-news/former-chinese-premier-li-keqiang-dies-at-68-4517887",
+      "urlToImage": "https://c.ndtvimg.com/2kockrog_china-premier-li-keqiang-reuters-650_625x300_30_July_18.jpg",
+      "publishedAt": "2023-10-27T01:06:13Z",
+      "content": "Former Chinese premier Li Keqiang reportedly died after suffering a heart attack\r\nBeijing: Former Chinese Premier Li Keqiang has died after suffering a heart attack at the age of 68, state media repo… [+3397 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Bryan Alexander",
+      "title": "'The Golden Bachelor' recap: Three women remain after tearful goodbyes - USA TODAY",
+      "description": "'Golden Bachelor' Episode 5 recap: Gerry loves being the group-date arcade player, but begins to hate rose game",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2023/10/26/golden-bachelor-episode-5-recap/71325010007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/26/USAT/71325015007-170013-0413.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+      "publishedAt": "2023-10-27T01:02:32Z",
+      "content": "Houston, we have a rose problem on \"The Golden Bachelor.\"\r\nGerry Turner's big loving heart, the feature that makes the 72-year-old Indiana native so irresistible on ABC's reality dating show, is disr… [+4308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Reuters",
+      "title": "How Maine mass shooting victims were treated? Inside coverage of hospital situation | Mint - Mint",
+      "description": "Lewiston is the second largest city in Maine. FBI ranked the state as the least violent in the nation. The number of those killed on October 25 was slightly below the average number of homicides in Maine for an entire year.",
+      "url": "https://www.livemint.com/news/how-maine-mass-shooting-victims-were-treated-inside-coverage-of-hospital-situation-11698366643514.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/27/1600x900/CORRECTION-Maine-Shooting-1_1698367499710_1698367522071.jpg",
+      "publishedAt": "2023-10-27T01:00:56Z",
+      "content": "Dr. Richard King was driving home from the Central Maine Medical Center on Wednesday night when he received an urgent call from a fellow trauma surgeon alerting him that victims of a mass casualty ev… [+4058 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Mohammad Haris",
+      "title": "'Youngsters Should Work 70 Hours A Week': Infosys Founder Narayana Murthy - News18",
+      "description": "India's work productivity is among the lowest globally, and the country's youth need to put in extra hours of work in order to compete with countries like China, says Narayana Murthy",
+      "url": "https://www.news18.com/business/youngsters-should-work-70-hours-a-day-infosys-founder-narayana-murthy-8635031.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/untitled-design-2023-10-13t183937.504-2023-10-728f766476c90f53d14db0fc737cc4b3-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2023-10-27T00:18:55Z",
+      "content": "Infosys founder N R Narayana Murthy has said that in order for India to compete with economies that have made tremendous progress in the past 2-3 decades, youngsters need to work 70 hours a week. Mur… [+974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Clare Watson",
+      "title": "350-Year-Old Theorem Reveals 'Profound' Connection Between Properties of Light - ScienceAlert",
+      "description": "Dutch-born Christiaan Huygens is probably one of the most famous physicists you've never heard of.",
+      "url": "https://www.sciencealert.com/350-year-old-theorem-reveals-profound-connection-between-properties-of-light",
+      "urlToImage": "https://www.sciencealert.com/images/2023/10/LightRefractingThroughPrismOnPage.jpg",
+      "publishedAt": "2023-10-26T23:57:24Z",
+      "content": "Dutch-born Christiaan Huygens is probably one of the most famous physicists you've never heard of. His work in the late 17th century straddled both the intangible and tangible realms of our Universe:… [+4178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Antarctica: Ancient landscape discovered deep under ice - Times of India",
-      "description": "This landscape, covering an area similar in size to Belgium or the US state of Maryland, dates back to at least 14 million years ago, and possibly even further, preceding Antarctica's deep freeze 34 million years ago.",
-      "url": "https://timesofindia.indiatimes.com/travel/travel-news/antarctica-ancient-landscape-discovered-deep-under-ice/articleshow/104728317.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104728317,width-1070,height-580,resizemode-75,imgsize-181920,pt-32,y_pad-40/104728317.jpg",
-      "publishedAt": "2023-10-26T18:30:00Z",
-      "content": "Scientists have been gaining insight into an ancient and concealed world beneath Antarctica's ice sheet through use of satellite observations and ice-penetrating radar. If reports are to go by, in Ea… [+3144 chars]"
+      "title": "Grand Theft Auto Fans Are Struggling to Cope WIthout a GTA 6 Release Date - IGN Daily Fix - IGN",
+      "description": "In today's Daily Fix:GTA fans are absolutely desperate for a GTA 6 announcement, a new PS5 system software update might be music to your ears, and we’ll take...",
+      "url": "https://www.youtube.com/watch?v=eXkvA8Dswxw",
+      "urlToImage": "https://i.ytimg.com/vi/eXkvA8Dswxw/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T23:50:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Mortal Kombat 1 Gets A New Update For The Nintendo Switch - Nintendo Life",
+      "description": "Just in time for the spooky season",
+      "url": "https://www.nintendolife.com/news/2023/10/mortal-kombat-1-gets-a-new-update-for-the-nintendo-switch",
+      "urlToImage": "https://images.nintendolife.com/f6e3602dd6580/1280x720.jpg",
+      "publishedAt": "2023-10-26T23:15:00Z",
+      "content": "Some argue that fighting games are better nowadays because they're paying for DLC instead of buying multiple iterations.\r\nWhen you bought multiple iterations in the past, you had multiple full games … [+518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Francis Ngannou interview crashed by Tyson Fury - The Sun Sport",
+      "description": "A NOU DAWN Tyson Fury vs Francis Ngannou: UK start time, live stream, TV channel, rules, ring-walks, undercard for epic Saudi boutRead More: https://www.thes...",
+      "url": "https://www.youtube.com/watch?v=YUHaMGcqh_w",
+      "urlToImage": "https://i.ytimg.com/vi/YUHaMGcqh_w/maxresdefault.jpg",
+      "publishedAt": "2023-10-26T23:00:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ross Dellenger",
+      "title": "Sources: TCU knew of Michigan's sign-stealing scheme prior to CFP game, used 'dummy signals' to dupe Wolverines - Yahoo Sports",
+      "description": "The Horned Frogs coaching staff was aware of Michigan's antics after being warned by several coaching staffs. And they had a plan to counter it in last...",
+      "url": "https://sports.yahoo.com/sources-tcu-knew-of-michigans-sign-stealing-scheme-prior-to-cfp-game-used-dummy-signals-to-dupe-wolverines-224848698.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GzAxx5SJDBeUhpeAtUrmFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/ffe8fab0-7448-11ee-beff-093799a3361b",
+      "publishedAt": "2023-10-26T22:48:48Z",
+      "content": "During TCUs game against Michigan in last years College Football Playoff semifinal, trickery was afoot.\r\nTCU coaches, having gained information on Michigans elaborate sign-stealing scheme, changed ma… [+8248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Apurva Vishwanath, Sohini Ghosh",
+      "title": "Gujarat HC removes clip of judge outburst, asks YouTube to take down apology too - The Indian Express",
+      "description": "Justice Biren Vaishnav upbraided Justice Mauna Bhatt, later said ‘I was wrong’",
+      "url": "https://indianexpress.com/article/india/gujarat-hc-removes-clip-of-judge-outburst-asks-youtube-to-take-down-apology-too-9001259/",
+      "urlToImage": "https://images.indianexpress.com/2023/10/YouTube-1.jpg",
+      "publishedAt": "2023-10-26T22:30:56Z",
+      "content": "A day after a judge of the Gujarat High Court apologised for his outburst against his woman colleague on the bench, the High Court has asked YouTube to remove the videos of the apology claiming copyr… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Georgia's congressional map violates Voting Rights Act, court finds - POLITICO",
+      "description": "The court ordered the state legislature to draw a new map by Dec. 8.",
+      "url": "https://www.politico.com/news/2023/10/26/georgias-congressional-map-violates-voting-rights-act-court-finds-00123779",
+      "urlToImage": "https://static.politico.com/2c/18/f0b5ef254769b156fcfe1e667bf5/https-delivery-gettyimages.com/downloads/1244044015",
+      "publishedAt": "2023-10-26T22:20:57Z",
+      "content": "Jones lengthy opinion said Black voters power had been diluted following extensive population growth in the state that has been disproportionately powered by Black residents. The remedy, he ordered, … [+3241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Ford Earnings Miss Estimates. The Stock Is Slumping as Strike Costs Start to Bite. - Barron's",
+      "description": "Ford stock fell more than 5% after earnings.",
+      "url": "https://www.barrons.com/articles/ford-earnings-stock-price-dc5f8887",
+      "urlToImage": "https://images.barrons.com/im-00966616/social",
+      "publishedAt": "2023-10-26T22:14:00Z",
+      "content": "Updated Oct 26, 2023, 6:14 pm EDT / Original Oct 26, 2023, 8:03 am EDT"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": "Michael Bachner",
+      "title": "‘Our patience is up’: Hostages’ families blast government inaction at Tel Aviv rally - The Times of Israel",
+      "description": "Relatives of those held in Gaza say authorities aren't updating them on negotiations, urge ministers to internalize what's at stake and 'take responsibility'",
+      "url": "https://www.timesofisrael.com/our-patience-is-up-hostages-families-blast-government-inaction-at-tel-aviv-rally/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/10/F231026GY112.jpg",
+      "publishedAt": "2023-10-26T22:13:51Z",
+      "content": "The families of some of the 224 hostages believed to be held in the Gaza Strip by Palestinian terrorists held a press conference Thursday to protest what they charged was government inaction and fail… [+3451 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Vivian Salama, Dov Lieber, William Mauldin",
+      "title": "Western Allies Urge Caution as Israel Moves Closer to Ground Invasion - The Wall Street Journal",
+      "description": "Planned action could endanger hostages, cause more deaths, but a delay risks demoralizing troops massed at border",
+      "url": "https://www.wsj.com/world/middle-east/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a",
+      "urlToImage": "https://images.wsj.net/im-876026/social",
+      "publishedAt": "2023-10-26T21:19:00Z",
+      "content": "WASHINGTONAs Israel signals that it is closer to launching its anticipated ground offensive, U.S. and European officials are urging caution in an effort to minimize a prolonged urban war that could r… [+584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": null,
+      "title": "Liverpool player ratings vs Toulouse: Endo gives Jurgen Klopp a selection headache as Ryan Gravenberch puts on a Europa League show for Reds - GOAL English",
+      "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://static.sportingnews.com/1.38.2.1/themes/custom/tsn/logo.jpg",
+      "publishedAt": "2023-10-26T20:56:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "New research sheds light on early galaxy formation - Phys.org",
+      "description": "Researchers have developed a new computer simulation of the early universe that closely aligns with observations made by the James Webb Space Telescope (JWST).",
+      "url": "https://phys.org/news/2023-10-early-galaxy-formation.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-research-sheds-lig-10.jpg",
+      "publishedAt": "2023-10-26T20:35:07Z",
+      "content": "Researchers have developed a new computer simulation of the early universe that closely aligns with observations made by the James Webb Space Telescope (JWST).\r\nInitial JWST observations hinted that … [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Chris Panella",
+      "title": "Video: Chinese fighter jet came within 10 feet of US B-52 bomber, US says - Business Insider",
+      "description": "The near collision, as US Indo-Pacific Command called it, is the latest dangerous maneuver by a Chinese pilot over the South China Sea.",
+      "url": "https://www.businessinsider.com/video-chinese-fighter-jet-within-10-feet-us-b52-bomber-2023-10",
+      "urlToImage": "https://i.insider.com/653abee30487ff031cafb73c?width=1200&format=jpeg",
+      "publishedAt": "2023-10-26T20:21:00Z",
+      "content": "The US military said a Chinese fighter jet pilot threatened the safety of a B-52 bomber in a dangerously close intercept over the South China Sea, publishing video of the flyby that officials claimed… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "Udbhavi Balakrishna",
+      "title": "Onion prices up in Bengaluru as drought hits harvest - Deccan Herald",
+      "description": "Onion prices up in B'luru as drought hits harvest",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/onion-prices-up-in-bengaluru-as-drought-hits-harvest-2-2743895",
+      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-10%2Fecc507e3-5b0e-43da-b9a2-ab8139d93b4f%2Ffile7sjzeql8fqb79432p7f.jpg?rect=0%2C0%2C3076%2C1615&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2023-10-26T20:15:04Z",
+      "content": "Highlights - \r\nWholesale onion prices in APMC, Yeshwantpur, at Rs 65 per kg; it was Rs 35/Rs 40 for the past couple of weeks\r\nAPMC seeing only 100 truckloads of fresh onion from districts every day c… [+199 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brenda Goodman",
+      "title": "CDC advisers vote to recommend routine use of the mpox vaccine to protect people at high risk of infection - CNN",
+      "description": "Men who have sex with men and others who are at high risk of mpox infection should get two doses of the Jynneos vaccine, even now that the recent public health emergency in the United States has passed, according to an independent panel of experts that advise…",
+      "url": "https://www.cnn.com/2023/10/26/health/mpox-vaccine-cdc-adviser/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220906134007-01-jynneos-monkeypox-vaccine.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-26T20:10:00Z",
+      "content": "Men who have sex with men and others who are at high risk of mpox infection should get two doses of the Jynneos vaccine, even now that the recent public health emergency in the United States has pass… [+1673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Chronicle"
+      },
+      "author": "Sriram Karri",
+      "title": "BRS Poll Defeat is Your Loss: KCR - Deccan Chronicle",
+      "description": "BRS Poll Defeat is Your Loss: KCR",
+      "url": "https://www.deccanchronicle.com/nation/politics/271023/brs-poll-defeat-is-your-loss-kcr.html",
+      "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-m57031evf5l2f5e2h473kefgm4-20231026233159.Medi.jpeg",
+      "publishedAt": "2023-10-26T19:57:45Z",
+      "content": "\"These days, every Tom, Dick and Harry is challenging me. One of them says come and contest against me in Kodangal. One dares me to come to a Gandhi statue. Does KCR have to prove his power in front … [+51 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Brain Protein Bonding Offers Fresh Pathways to Schizophrenia Treatments - Neuroscience News",
+      "description": "Researchers have discovered an interaction between two brain proteins, MAP6 and Kv3.1, that affect movement, anxiety, and memory in mice.",
+      "url": "https://neurosciencenews.com/protein-binding-schizophrenia-25106/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/10/schziophrenia-proteins-neurosicnes.jpg",
+      "publishedAt": "2023-10-26T19:42:01Z",
+      "content": "Summary: Researchers have discovered an interaction between two brain proteins, MAP6 and Kv3.1, that affect movement, anxiety, and memory in mice.\r\nThe connection between these proteins is critical f… [+7899 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Essence"
+      },
+      "author": "Ashley mcdonough",
+      "title": "Sharing Their Stories To Spark Change: Triple-Negative Breast Cancer “Hometown Heroes” - Essence",
+      "description": "Lyndsay had her dream career when it happened to her. Keisha was in the best shape of her life when she got the news. Jazmine was just 28 when she […]",
+      "url": "http://www.essence.com/health-and-wellness/merck-oncology-triple-negative-breast-cancer/",
+      "urlToImage": "https://www.essence.com/wp-content/uploads/2023/09/IMG_1934-scaled.jpg?width=1200",
+      "publishedAt": "2023-10-26T19:15:50Z",
+      "content": "Lyndsay had her dream career when it happened to her. Keisha was in the best shape of her life when she got the news. Jazmine was just 28 when she found out. What do these three women have in common?… [+4388 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "What we expect at Apple's Scary Fast event: M3-powered MacBook Pros and new iMacs - Engadget",
+      "description": "It's time for yet another Apple Event. This time around, we're expecting to see fresh MacBook Pro and iMac devices powered by new M3 chipsets.",
+      "url": "https://www.engadget.com/what-we-expect-at-apples-scary-fast-event-m3-powered-macbook-pros-and-new-imacs-191549274.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Obda1.T8Aj7wIn.ZrF4Bhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdff20-b752-11eb-bfdd-064c2df470db",
+      "publishedAt": "2023-10-26T19:15:49Z",
+      "content": "Apple has at least one more trick or possibly a treat up its sleeve this year. On October 30, the night before Halloween, the company is hosting another event. This one is dubbed Scary Fast, which is… [+4749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WYFF4 Greenville"
+      },
+      "author": null,
+      "title": "COVID shots may increase risk of stroke in older adults, particularly when paired with flu vaccines - WYFF4 Greenville",
+      "description": "Vaccines for COVID-19 and influenza may slightly increase the risk of strokes caused by blood clots in the brains of older adults, according to a new study.",
+      "url": "https://www.wyff4.com/article/covid-shots-may-increase-risk-of-stroke-in-older-adults/45656807",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg82ywiwdxiwmde1mmu2ogkxagficmvo-l19wywdlcy9jbg82oxvjnncwmdn3njdwyjy5y2g2ntuz-jpg-653ab249dc048.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "publishedAt": "2023-10-26T19:04:00Z",
+      "content": "Vaccines for COVID-19 and influenza may slightly increase the risk of strokes caused by blood clots in the brains of older adults, particularly when the two vaccines are given at the same time and wh… [+6454 chars]"
     },
     {
       "source": {
@@ -122,58 +876,6 @@
     {
       "source": {
         "id": null,
-        "name": "123telugu.com"
-      },
-      "author": null,
-      "title": "Bigg Boss 7: This celeb out of danger from elimination - 123telugu",
-      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-      "url": "https://www.123telugu.com/mnews/bigg-boss-7-this-celeb-out-of-danger-from-elimination.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2023-10-26T18:00:00Z",
-      "content": "The Telugu reality show, Bigg Boss 7 is getting heated up with each passing day. Only female celebs are getting evicted so far and this has become a pattern of sorts from the day the show started.\r\nL… [+700 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Holly Yan",
-      "title": "Suspect in fatal shooting of judge has been found dead, sheriff’s office says - CNN",
-      "description": "The suspect in the fatal shooting of a Maryland judge has been found dead, officials announced Thursday.",
-      "url": "https://www.cnn.com/us/maryland-judge-shooting-suspect-dead/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231020092759-pedro-argote.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26T17:54:00Z",
-      "content": "A man suspected in the fatal shooting of a Maryland judge has been found dead, officials announced Thursday.\r\nThe suspect, Pedro Argote, shot and killed Washington County Circuit Judge Andrew Wilkins… [+1547 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Fredreka Schouten",
-      "title": "Federal judge orders new congressional and state legislative maps in Georgia - CNN",
-      "description": "A federal judge Thursday ordered Georgia to draw new congressional and state legislative maps, ruling that state legislators improperly diluted the political power of Black voters in establishing those boundaries following the 2020 census.",
-      "url": "https://www.cnn.com/2023/10/26/politics/georgia-legislative-maps-order/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244607986.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26T17:50:00Z",
-      "content": "A federal judge on Thursday ordered Georgia to draw new congressional and state legislative maps, ruling that state legislators improperly diluted the political power of Black voters in establishing … [+1698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Epravda.com.ua"
-      },
-      "author": "Р•РєРѕРЅРѕРјС–С‡РЅР° РїСЂР°РІРґР°",
-      "title": "Motorola представила смартфон гнучким екраном, який можна носити на зап'ясті - Економічна правда",
-      "description": "РљРѕРјРїР°РЅС–СЏ MotorolaВ  Lenovo Tech World 23 РїСЂРµРґСЃС‚Р°РІРёР»Р° РЅРѕРІРёР№ РєРѕРЅС†РµРїС‚СѓР°Р»СЊРЅРёР№ СЃРјР°СЂС‚С„РѕРЅ Moto, РµРєСЂР°РЅ СЏРєРѕРіРѕ Р·РіРёРЅР°С”С‚СЊСЃСЏ, Р° СЃР°Рј С‚РµР»РµС„РѕРЅ РјРѕР¶РЅР° РѕРіРѕСЂРЅСѓС‚Рё РЅР°РІРєРѕР»Рѕ Р·Р°РїʼСЏСЃС…",
-      "url": "https://www.epravda.com.ua/news/2023/10/26/705930/",
-      "urlToImage": "https://eimg.pravda.com/images/doc/7/0/705930_fb_image_ukr_2023_10_26_20_59_29.png",
-      "publishedAt": "2023-10-26T17:48:00Z",
-      "content": "° Motorola  Lenovo Tech World 23 µ°»° µ°» ° Moto, µ° ·°, ° ° µ»µ ¶° °» ·°ʼ. \r\n µ » The Verge.  \r\n°·°°, ° ¶µ °·°»° ± µ» ° Tech World 2016. µ ° µ »° ±» °» ¶ µµ. \r\n Motorola ° °°µ ° »°. °,, µ ° ° ·° ° ±… [+134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "NDTV News"
       },
       "author": null,
@@ -183,19 +885,6 @@
       "urlToImage": "https://c.ndtvimg.com/2023-08/ffq58v34_pfizer-covid-shot-reuters_625x300_18_August_23.jpg",
       "publishedAt": "2023-10-26T17:19:22Z",
       "content": "Pfizer and BioNTech first announced in November 2022\r\nGermany: Germany's BioNTech and US pharmaceutical giant Pfizer on Thursday announced \"positive\" results from initial trials of their combined mRN… [+2017 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Afghanistan girls education activist Matiullah Wesa released by Taliban - Al Jazeera English",
-      "description": "Wesa, who travelled the country campaigning for girls to have access to education, freed after seven months in prison.",
-      "url": "https://www.aljazeera.com/news/2023/10/26/afghan-girls-rights-activist-matiulah-wesa-freed-by-taliban",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/AP23088320186195.jpg?resize=1920%2C1440",
-      "publishedAt": "2023-10-26T17:14:33Z",
-      "content": "An Afghan rights campaigner who advocated for girls inclusion in education has been released by Taliban authorities after seven months in jail.\r\nMatiullah Wesa, who travelled the country campaigning … [+3014 chars]"
     },
     {
       "source": {
@@ -212,159 +901,68 @@
     },
     {
       "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "James Shotter",
-      "title": "Israel carries out 'targeted raid' against Hamas in Gaza - Financial Times",
-      "description": "Forces step up preparation for ground invasion as US calls for delay to allow aid deliveries and to free hostages",
-      "url": "https://www.ft.com/content/81858568-33f1-460d-b840-08141a4483f4",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fbe7c26ba-e81b-4f60-a7de-bd5d1c8c64ad.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2023-10-26T17:02:11Z",
-      "content": "Israeli forces carried out a targeted raid in the north of the Gaza Strip in the early hours of Thursday, as they stepped up preparations for a ground operation in the coastal enclave to topple the m… [+4225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Centre's Plan To Use Officers As \"Rath Prabharis\" Hits Poll Body Hurdle - NDTV",
-      "description": "The government's plan to rope in bureaucrats for a countrywide mega rally to highlight its achievements has hit a roadblock, with the Election Commission banning the yatra in five states where elections are due by the year-end.",
-      "url": "https://www.ndtv.com/india-news/stop-the-yatra-with-senior-officials-as-rath-prabharis-in-poll-bound-areas-election-commission-writes-to-centre-4517242",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/kh7g0i2_bjp-generic-1200_625x300_08_April_23.jpg",
-      "publishedAt": "2023-10-26T16:53:02Z",
-      "content": "New Delhi: The government's plan to rope in bureaucrats for a countrywide mega rally to highlight its achievements has hit a roadblock, with the Election Commission banning the yatra in five states w… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ariel Zilber",
-      "title": "Megyn Kelly says it's no wonder Britney Spears 'wound up as screwed up as she is' - New York Post ",
-      "description": "Megyn Kelly said it’s no wonder Britney Spears “wound up as screwed up as she is” in light of her revelation that she drank daiquiris with her mother.",
-      "url": "https://nypost.com/2023/10/26/media/megyn-kelly-talks-britney-spears-drinking-with-her-mom-in-8th-grade/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000063548085.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-10-26T16:44:00Z",
-      "content": "Megyn Kelly said it’s no wonder Britney Spears “wound up as screwed up as she is” in light of her revelation that she drank daiquiris with her mother when she was in the eighth grade.\r\nKelly, the hos… [+2879 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Jackie Strause",
-      "title": "Kyle Richards Opens Up About Mauricio Umansky Separation: “It Originated From Me” - Hollywood Reporter",
-      "description": "The 'Real Housewives of Beverly Hills' star and actress spoke up on the decision about her marriage, and weighed in on the response to the news.",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/kyle-richards-mauricio-umansky-separation-1235628854/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/NUP_202670_00429-H-2023.jpg?w=1024",
-      "publishedAt": "2023-10-26T16:40:31Z",
-      "content": "Kyle Richards took a deep breath before opening up to Andy Cohen about the decision to separate from husband Mauricio Umansky.\r\n“It originated from me,” she told the Watch What Happens Livehost and B… [+2851 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "India.com"
       },
-      "author": "Zee Media Bureau",
-      "title": "Highlights | ENG Vs SL ICC ODI World Cup 2023 Cricket Scorecard: Sri Lanka Thrash England By 8 Wickets - Zee News",
-      "description": "Highlights | ENG Vs SL ICC ODI World Cup 2023 Cricket Scorecard: Sri Lanka Thrash England By 8 Wicke",
-      "url": "https://zeenews.india.com/cricket/highlights/live-cricket-score-eng-vs-sl-icc-odi-world-cup-2023-match-no-25-today-england-vs-sri-lanka-m-chinnaswamy-stadium-bengaluru-jos-buttler-kusal-mendis-157-runs-2nd-innings-target-for-sl-2679985",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/10/26/1304872-engslblog.jpg",
-      "publishedAt": "2023-10-26T16:38:27Z",
-      "content": null
+      "author": "https://www.india.com/author/intern6-dnasocialdnaindia-com/",
+      "title": "Amazon Great Indian Festival Sale 2023: Get 20 percent Off On Helmet For Men and Women - India.com",
+      "description": "Don't miss out on this golden opportunity to shield yourself and upgrade your riding gear with these fashionable helments for men and women .",
+      "url": "https://www.india.com/lifestyle/amazon-great-indian-festival-sale-2023-get-20-percent-off-on-helment-for-men-and-women-6446167/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2023/10/amazon-feature-imAGE-10.jpg",
+      "publishedAt": "2023-10-26T16:55:50Z",
+      "content": "Don't miss out on this golden opportunity to shield yourself and upgrade your riding gear with these fashionable helments for men and women .\r\nAmazon Great Indian Festival Sale 2023: The Amazon Great… [+3012 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "India Today"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "author": "India Today News Desk",
+      "title": "8 former Indian Navy personnel sentenced to death in Qatar: What we know so far - India Today",
+      "description": "Since August 8, 2022, eight former Indian Navy personnel have been detained in Qatar, facing accusations of espionage related to a submarine program.",
+      "url": "https://www.indiatoday.in/india/story/indian-navy-officers-death-penalty-in-qatar-mea-court-of-first-instance-2454110-2023-10-26",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/death-penalty-264233329-16x9_0.jpg?VersionId=80DS43s.qaS5uIcsvUw5Z8Jexbwxpr.8",
+      "publishedAt": "2023-10-26T16:43:09Z",
+      "content": "The Court of First Instance in Qatar on Thursday announced a death penalty verdict for eight former Indian Navy personnel who were detained in Doha in August 2022 in an alleged espionage case.\r\nReact… [+2968 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Space.com"
       },
-      "author": "HT Entertainment Desk",
-      "title": "Leo box office collection day 8: Vijay film crosses ₹266 cr in 1st week in India - Hindustan Times",
-      "description": "On Thursday, Leo may earn ₹11 crore nett in India on its eighth day for all languages, as per early estimates. So far, the film has earned ₹266.35 crore.",
-      "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/leo-box-office-collection-day-8-vijays-film-crosses-266-crore-in-first-week-in-india-101698335097548.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/leo_vijay_1697600324727_1698337123528.jpg",
-      "publishedAt": "2023-10-26T16:26:31Z",
-      "content": "Leo, directed by Lokesh Kanagaraj, has been doing well at the domestic box office. As per Sacnilk.com, Leo has crossed the 266 crore mark in India as it completed a week of its release. The film, sta… [+2329 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "The Associated Press",
-      "title": "Maine shooting is the 36th mass killing this year - The Associated Press",
-      "description": "The latest mass killing in the United States happened Wednesday in Lewiston, Maine. A man opened fire at a bowling alley and a restaurant, killing at least 18 people and injuring at least 13. A 40-year-old man has been identified as a person of interest. He i…",
-      "url": "https://apnews.com/article/mass-killings-united-states-list-8eea3427796229eb127e052b3c66c691",
-      "urlToImage": "https://dims.apnews.com/dims4/default/458fdd1/2147483647/strip/true/crop/4248x2390+0+221/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2Fab%2Fa8c86aac08096ec22a55ef441eb1%2Fe93cd6059a184026a109995d5833b69a",
-      "publishedAt": "2023-10-26T15:59:00Z",
-      "content": "The latest mass killing in the U.S. happened Wednesday night in Lewiston, Maine, when a man opened fire at a bowling alley and a restaurant, killing at least 18 people, the states governor announced … [+12535 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "Pfizer, BioNtech say flu-COVID shot generates strong immune response in trial - Reuters",
-      "description": "Pfizer <a href=\"https://www.reuters.com/markets/companies/PFE.N\" target=\"_blank\">(PFE.N)</a> and German partner BioNTech said on Thursday that their vaccine to prevent flu and COVID-19 generated a strong immune response against strains of the viruses in an ea…",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-say-flu-covid-shot-generates-immune-response-2023-10-26/",
-      "urlToImage": "https://www.reuters.com/resizer/curOjGJYBpYPRp5DBqfPz-3m_0g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JQSTV777URIPXJ5TQTDGDNRUWE.jpg",
-      "publishedAt": "2023-10-26T15:52:00Z",
-      "content": "Oct 26 (Reuters) - Pfizer (PFE.N) and German partner BioNTech said on Thursday that their vaccine to prevent flu and COVID-19 generated a strong immune response against strains of the viruses in an e… [+846 chars]"
+      "author": "Brett Tingley",
+      "title": "What time is the Full Hunter's Moon lunar eclipse on Oct. 28? - Space.com",
+      "description": "A partial lunar eclipse will be visible from the Eastern Hemisphere this weekend.",
+      "url": "https://www.space.com/partial-lunar-eclipse-october-28-what-time",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9YCqDLs7d5qRXPD5Joaa2S-1200-80.jpg",
+      "publishedAt": "2023-10-26T16:24:03Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Beast"
+        "name": "Space.com"
       },
-      "author": "Riley Rogerson",
-      "title": "Dems Turn Mike Johnson's First Viral Moment Into Anti-GOP Ad - The Daily Beast",
-      "description": "Democrats are testing whether a moment when Republicans shouted down a reporter for asking about Mike Johnson’s efforts to overturn the 2020 election will have a political impact.",
-      "url": "https://www.thedailybeast.com/dems-turn-mike-johnsons-first-viral-moment-into-anti-gop-ad",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3286,w_5842,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1698274874/GettyImages-1755195233_sxzgak",
-      "publishedAt": "2023-10-26T15:37:08Z",
-      "content": "When House Republicans held an impromptu press conference late Tuesday night to celebrate coalescing around their new speaker nominee, they were in no mood to answer tough questionsor even the obviou… [+2024 chars]"
+      "author": "Sharmila Kuthunur",
+      "title": "James Webb Space Telescope finds rare heavy chemical element from 'kilonova' explosion - Space.com",
+      "description": "Tellurium, an element rarer than platinum on Earth, was just found in the aftermath of a violent cosmic event 1 billion light-years away, thanks to the infrared observatory.",
+      "url": "https://www.space.com/james-webb-space-telescope-tellurium-kilonova",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W9q3B5v3RPvrzoHhqZJJhi-1200-80.jpg",
+      "publishedAt": "2023-10-26T15:39:56Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Livemint"
       },
-      "author": "Gerard de Souza",
-      "title": "Modi inaugurates 37th National Games in Goa, says our govt brought new thinking - Hindustan Times",
-      "description": "The National Games are being held in Goa for the very first time. The Games will be held from October 26 to November 9. More than 10,000 athletes will compete. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/modi-inaugurates-37th-national-games-in-goa-says-our-govt-brought-new-thinking-101698334627519.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/Prime-Minister-Narendra-Modi-inaugurated-the-37th-_1698334619254.png",
-      "publishedAt": "2023-10-26T15:37:07Z",
-      "content": "Prime Minister Narendra Modi inaugurated the 37th edition of the National Games in Panaji, Goa on Thursday. The games are being held at the Jawaharlal Nehru Stadium at Fatorda in South Goa.\r\nPrime Mi… [+2729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "Jupiter pulls shocking Halloween surprise! Spooky ‘Face' captured by NASA's Juno mission - HT Tech",
-      "description": "NASA's Juno mission uncovers a spooky \"Face\" on Jupiter, just in time for Halloween, while also capturing electrifying lightning activity on the giant gas giant.",
-      "url": "https://tech.hindustantimes.com/tech/news/jupiter-pulls-shocking-halloween-surprise-spooky-face-captured-by-nasas-juno-mission-71698332791187.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/26/1600x900/NASA_JPL_1698332977435_1698332996315.jpg",
-      "publishedAt": "2023-10-26T15:13:47Z",
-      "content": "During its 54th close flyby of Jupiter, NASA's Juno spacecraft made a chilling discovery that's sure to send shivers down your spine! In the vast expanse of Jupiter's northern region known as Jet N7,… [+2322 chars]"
+      "author": "Livemint",
+      "title": "Hamas says 'almost 50' Israeli hostages killed as a result of airstrikes in Gaza | Mint - Mint",
+      "description": "Israel-Hamas war: Israel's military said earlier there were 222 hostages in Gaza. Several foreign nationals are believed to have been captured by Hamas during the incursion.",
+      "url": "https://www.livemint.com/news/world/israel-hamas-war-hostages-killed-airstrikes-in-gaza-death-toll-rise-11698333635188.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/Israel-Palestinians-42_1698328515896_1698334598435.jpg",
+      "publishedAt": "2023-10-26T15:30:42Z",
+      "content": "Palestinian military group Hamas's armed wing claimed that \"almost 50\" Israeli hostages were killed \"as a result\" of Israeli strikes in Gaza, news agency AFP reported on Thursday. The news agency, ho… [+2355 chars]"
     },
     {
       "source": {
@@ -381,55 +979,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Indian Express"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Explained Desk",
-      "title": "Qatar court sentences 8 Indian Navy veterans to death: A timeline of the case - The Indian Express",
-      "description": "The men have been in a Qatari prison for more than a year. The charges against them are still not in the public domain. Here's what happened, and the position that India has taken in the case",
-      "url": "https://indianexpress.com/article/explained/explained-global/qatar-indian-navy-death-penalty-timeline-9000941/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/qatar-modi.jpg",
-      "publishedAt": "2023-10-26T14:57:15Z",
-      "content": "Eight former personnel of the Indian Navy, who were detained in Doha in 2022, have been sentenced to death by a Qatari court.The men Captain Navtej Singh Gill, Captain Saurabh Vasisht, Commander Purn… [+2715 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Paulina Dedaj",
-      "title": "Rob Gronkowski says NFL is overdoing it with Taylor Swift coverage during games: ‘We want more football’ - Fox News",
-      "description": "Rob Gronkowski thinks the NFL is giving Taylor Swift “too much\" screen time during games and says the league should “show the players\" more.",
-      "url": "https://www.foxnews.com/sports/rob-gronkowski-says-nfl-overdoing-taylor-swift-coverage-games-we-want-more-football",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/GettyImages-1300923702.jpg",
-      "publishedAt": "2023-10-26T14:53:00Z",
-      "content": "Retired NFL tight end and four-time Super Bowl champion Rob Gronkowski\r\n has given his thoughts on Taylor Swifts NFL takeover, and Swifties are definitely not going to like it. \r\nThe longtime New Eng… [+1969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Congress Releases Third List Of 19 Candidates For Rajasthan Assembly Polls - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2023-10-26T14:44:59Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Passant Rabie",
-      "title": "Bubble of Toxic Coolant Abruptly Ends Russian ISS Spacewalk - Gizmodo",
-      "description": "The two Russian cosmonauts were in the process of isolating a leaking radiator when a bubble of coolant leaked out of it.",
-      "url": "https://gizmodo.com/bubble-toxic-coolant-ends-russian-iss-spacewalk-nasa-1850961885",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/23f77ec7c1ec4b8a4f1358e8be43b5f9.png",
-      "publishedAt": "2023-10-26T14:40:00Z",
-      "content": "A bubble of coolant leaked out of a radiator attached to the International Space Station (ISS), jeopardizing an ongoing spacewalk by two Russian cosmonauts on Wednesday.\r\nCosmonauts Oleg Kononenko an… [+2803 chars]"
+      "author": "Wes Davis",
+      "title": "Linksys says its Velop Pro 7 mesh router is so good you won't need an app - The Verge",
+      "description": "Linksys’ Velop Pro 7 is a new Wi-Fi 7 mesh router system that the company claims can manage itself without the need for an app.",
+      "url": "https://www.theverge.com/2023/10/26/23932667/linksys-velop-pro-wi-fi-7-mesh-router-discontinuing-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/E58De8EwsthkB-TwvHc22N-elf8=/0x0:1617x1310/1200x628/filters:focal(807x691:808x692)/cdn.vox-cdn.com/uploads/chorus_asset/file/25034018/Velop_Pro_7_3_pack.jpeg",
+      "publishedAt": "2023-10-26T15:00:00Z",
+      "content": "Linksys says its Velop Pro 7 mesh router is so good you wont need an app\r\nLinksys says its Velop Pro 7 mesh router is so good you wont need an app\r\n / Linksys will start phasing out its router app as… [+5076 chars]"
     },
     {
       "source": {
@@ -447,119 +1006,41 @@
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "Live Science"
       },
-      "author": "Livemint",
-      "title": "Vodafone Idea reports Q2 revenue at ₹10,750.8 crore | Mint - Mint",
-      "description": "Vodafone Idea reports Q2 revenue at  ₹10,750.8 crore.",
-      "url": "https://www.livemint.com/companies/company-results/vodafone-idea-reports-q2-revenue-at-rs-10-7-5-08-11698329377214.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/Vodafone-Idea-has-already-conducted-5G-testing-wit_1698329543314_1698329613115.jpg",
-      "publishedAt": "2023-10-26T14:31:20Z",
-      "content": "Congratulations!\r\nYou are now subscribed to our newsletters. In case you cant find any email from our side, please check the spam folder."
+      "author": "Sascha Pare",
+      "title": "Satellite data reveals ancient landscape preserved beneath East Antarctic ice sheet - Space.com",
+      "description": "The 'ghost' of ancient river-carved landscape discovered has been preserved beneath the East Antarctic ice sheet since the continent froze over 34 million years ago.",
+      "url": "https://www.livescience.com/planet-earth/antarctica/ghost-of-ancient-river-carved-landscape-discovered-beneath-antarctica",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PhnmSDrpvaTgW4AaptaTyN-1200-80.jpg",
+      "publishedAt": "2023-10-26T14:00:03Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google Maps is getting new AI-powered search updates, an enhanced navigation interface and more - TechCrunch",
+      "description": "Google is rolling out new updates for Maps, including AI-powered features that are designed to make it easier to search and explore.",
+      "url": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/google-maps-ios-icon.jpg?resize=1200,675",
+      "publishedAt": "2023-10-26T13:01:34Z",
+      "content": "Google is adding a slew of new updates for Maps, including a few AI-powered features that are designed to make it easier for users to search, explore their surroundings and get to their destinations.… [+3715 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "PCMag.com"
       },
       "author": null,
-      "title": "NFL odds, lines, picks, spreads, bets, predictions for Week 8 2023: Model backing Eagles, Lions - CBS Sports",
-      "description": "SportsLine's advanced model has locked in its Week 8 NFL picks for every game on the NFL schedule",
-      "url": "https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-8-2023-model-backing-eagles-lions/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/23/0ec659e6-8191-42b2-aa66-2b3f61368fc8/thumbnail/1200x675/63ad2ba1f68843a68855b974ad0e8cfd/devonta-smith-1-1400-us.jpg",
-      "publishedAt": "2023-10-26T14:04:56Z",
-      "content": "Jalen Hurts and the Philadelphia Eagles are off to a 6-1 start and now will visit the Washington Commanders in a NFC East rivalry on Sunday. The Eagles have won five of their last six games on the ro… [+4542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Contemporarypediatrics.com"
-      },
-      "author": "Morgan Petronelli, Managing Editor",
-      "title": "Preterm infant HRQOL: Long-term impacts and determinants - Contemporary Obgyn",
-      "description": "A recent study was highlighted at the 2023 American Academy of Pediatrics National Conference & Exhibition that shed light on the long-term impact of very preterm birth on the health-related quality of life (HRQOL) of infants and identified key determinants.",
-      "url": "https://www.contemporarypediatrics.com/view/preterm-infant-hrqol-long-term-impacts-and-determinants",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/contpeds/480f77c7f6446e0c62a7ba25bc3201fae3b5036f-4608x3456.jpg?fit=crop&auto=format",
-      "publishedAt": "2023-10-26T13:43:19Z",
-      "content": "Takeaways\r\n<ul><li>Very preterm birth negatively impacts infant health-related quality of life (HRQOL) for up to a year after discharge from the Neonatal Intensive Care Unit (NICU).</li><li>The HRQOL… [+4503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Correspondent",
-      "title": "Global conflicts reminder country's security can't be outsourced: Army chief - Hindustan Times",
-      "description": "Speaking at a curtain-raiser to Chanakya Defence Dialogue 2023, general Manoj Pande also enumerated the steps taken by the government to boost ‘Atma Nirbharta’ (self-reliance) | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/global-conflicts-reminder-country-s-security-can-t-be-outsourced-army-chief-101698327664828.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/Chief-of-the-Army-Staff-General-Manoj-Pande-at-cur_1698327658643.jpg",
-      "publishedAt": "2023-10-26T13:41:04Z",
-      "content": "Chief of the Army Staff General Manoj Pande on Thursday said that recent global conflicts were a reminder that the countrys security can neither be outsourced nor be dependent on the largesse of othe… [+2871 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "ANI",
-      "title": "Kerala govt rejects NCERT's proposal to rename 'India' as 'Bharat' in textbooks - Hindustan Times",
-      "description": "The minister alleged that this was a move by the BJP-led Central government to distort historical facts. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/kerala-govt-rejects-ncerts-proposal-to-rename-india-as-bharat-in-school-textbooks-101698326430918.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/15ef6bb2-642a-11ed-b7f8-ce09d82c1fb2_1668436867327_1698326753477.jpg",
-      "publishedAt": "2023-10-26T13:39:03Z",
-      "content": "Kerala education minister V Sivankutty on Thursday said that the state government will not accept an NCERT high-level committee's recommendation that 'India' be replaced with 'Bharat' as the name of … [+2377 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
-      },
-      "author": null,
-      "title": "10 NFL trades we'd like to see before the deadline: Who lands Derrick Henry? - FOX Sports",
-      "description": "The NFL trade deadline takes place on Oct. 31. FOX Sports' staff of NFL writers wrote about one trade they'd like to see each of the league's top 10 teams make before then.",
-      "url": "https://www.foxsports.com/stories/nfl/10-nfl-trades-wed-like-to-see-before-the-deadline-who-lands-derrick-henry",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/10/1408/814/10.25.23_Constructing-trades-for-every-NFL-contender_16x9.jpg?ve=1&tl=1",
-      "publishedAt": "2023-10-26T13:35:37Z",
-      "content": "The NFL trade deadline is Tuesday at 4 p.m. ET. Teams are nearly out of time to add significant outside talent this season, and with that in mind, FOX Sports' staff of NFL writers collaborated to com… [+13038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "GTA 6 new leaks surface: Vehicle discovery, Bonnie and Clyde-style robberies, white-collar crime and more | Mint - Mint",
-      "description": "GTA 6 leaks suggest white-collar crime, money laundering, hacking tools, vehicle discovery, Bonnie and Clyde-style robberies, and a police recognition system.",
-      "url": "https://www.livemint.com/technology/tech-news/gta-6-new-leaks-surface-vehicle-discovery-bonnie-and-clyde-style-robberies-white-collar-crime-and-more-11698326355355.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/JJJ_1698326735984_1698326748374.jpg",
-      "publishedAt": "2023-10-26T13:26:36Z",
-      "content": "GTA 6 has already created a lot of buzz in the gaming industry. Several leaks have managed to catch attention about the title. Now, a couple of fresh leaks have surfaced online that suggest GTA 6 may… [+2573 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Venkata Krishna B",
-      "title": "The South Africa plan that lifted them from lows of 2019 to success in 2023 World Cup - The Indian Express",
-      "description": "Prasanna Agoram, their long-time performance analyst, pokes through the debris of the past failures to trace the roots of the success in the world cup in India",
-      "url": "https://indianexpress.com/article/sports/cricket-world-cup/the-south-africa-plan-that-lifted-them-from-lows-of-2019-to-success-in-2023-world-cup-9000714/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/SA-8.jpg",
-      "publishedAt": "2023-10-26T13:21:35Z",
-      "content": "It was at their lowest ebb, when they were eliminated from the 2019 world cup, that South Africa started to focus on how to change things in the 2023 world cup in India. Post 2019 World Cup the only … [+5096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Pilot questions timing of ED raids in Rajasthan; says 'BJP knows they are…' - Hindustan Times",
-      "description": "The Enforcement Directorate on Thursday conducted raids at the residence of Rajasthan Congress Chief Govind Singh Dotasra. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/sachin-pilot-questions-timing-of-ed-raids-in-rajasthan-says-bjp-knows-they-are-101698321538525.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/Sachin-Pilot--3_1698326044287_1698326105049.jpg",
-      "publishedAt": "2023-10-26T13:17:25Z",
-      "content": "Congress leader Sachin Pilot on Thursday accused the Bharatiya Janata Party (BJP) of misusing central agencies to intimidate Congress leaders in Rajasthan as the state gears up for the assembly elect… [+2555 chars]"
+      "title": "Samsung Galaxy S23 FE Review - PCMag",
+      "description": "The Galaxy S23 FE is a powerful phone with a premium feel that provides solid performance for a much lower price than Samsung's flagship line.",
+      "url": "https://www.pcmag.com/reviews/samsung-galaxy-s23-fe",
+      "urlToImage": "https://i.pcmag.com/imagery/reviews/05ckDvuhArKStG6WHZua89d-1.fit_lim.size_1200x630.v1698187097.jpg",
+      "publishedAt": "2023-10-26T13:00:45Z",
+      "content": null
     },
     {
       "source": {
@@ -567,246 +1048,25 @@
         "name": "Salon"
       },
       "author": "Rae Hodge",
-      "title": "How does an ocean-sized tectonic plate go missing for 20 million years? - Salon",
+      "title": "How does an ocean-sized tectonic plate go missing for 20 million years? - Yahoo News",
       "description": "Scientists discover the “ghost” of a massive plate once a quarter of the size of the Pacific",
       "url": "https://www.salon.com/2023/10/26/how-does-an-ocean-sized-tectonic-plate-go-missing-for-20-million-years/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/10/earth_pacific_ring_of_fire_1178748724.jpg",
-      "publishedAt": "2023-10-26T13:00:00Z",
-      "content": null
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lpl8az.YFlSA2ANAOyMS0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/salon_articles_879/0f4acc13d0827207c1ff9384831c3646",
+      "publishedAt": "2023-10-26T13:00:02Z",
+      "content": "About 150 million years ago, a massive tectonic mega-plate stretched across the Earth, spanning roughly a quarter of the size of the Pacific Ocean. Its jagged contours ran all the way through the Sou… [+4559 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "XDA Developers"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Wael Al-Dahdouh: Al Jazeera reporter's family killed in Gaza strike - BBC.com",
-      "description": "Wael Al-Dahdouh's wife and children are among those to have died at a refugee camp.",
-      "url": "https://www.bbc.com/news/world-middle-east-67225204",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B697/production/_131534764_gettyimages-1745438031.jpg",
-      "publishedAt": "2023-10-26T12:59:27Z",
-      "content": "The family of an Al Jazeera news reporter has been killed in an Israeli air strike on Gaza, the network has confirmed.\r\nWael Al-Dahdouh's wife, teenage son and young daughter were all killed at a ref… [+2521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DailyFX"
-      },
-      "author": "Zain Vawda",
-      "title": "US Q3 GDP Smashes Estimates as the DXY and Gold Adopt a Cautious Approach - DailyFX",
-      "description": "US Economy expanded an annualized 4.9% in the third quarter of 2023, the most since the last quarter of 2021. Largely expected by analysts and with the DXY in overbought territory we are seeing signs of caution from Market participants.",
-      "url": "https://www.dailyfx.com/news/us-q3-gdp-smashes-estimates-as-the-dxy-and-gold-adopt-a-cautious-approach-20231026.html",
-      "urlToImage": "https://a.c-dn.net/b/3VW5Ea/402212648.jpg",
-      "publishedAt": "2023-10-26T12:50:40Z",
-      "content": "US GDP Q3 23 (PRELIM) KEY POINTS:\r\nREAD MORE: S&amp;P500, NAS100 Weighed Down by Tech Earnings and Rising Yields. 4000 Level Up Next?\r\nElevate your trading skills and gain a competitive edge. Get you… [+5694 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Lisa Rozner",
-      "title": "Pro-Palestinian rally at Cooper Union leads to tense moments at school library - CBS New York",
-      "description": "Students who are pro-Israel say they felt unsafe as pro-Palestinian demonstrators chanted outside the library.",
-      "url": "https://www.cbsnews.com/newyork/news/cooper-union-pro-palestinian-rally-jewish-students-library/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/26/636e4f4e-ddd1-4fdd-9ed1-1fe9818d8c05/thumbnail/1200x630/7b5b7969e6688255ee12757393e4415e/rozner-11p-pkg-cooper-u-wcbs89rw-hi-res-still.jpg?v=287f03e8b6c956e3847aad6c604a17dd",
-      "publishedAt": "2023-10-26T12:47:00Z",
-      "content": "NEW YORK -- There were tense moments at the campus of Cooper Union in Manhattan on Wednesday afternoon.\r\nStudents who are pro-Israel say they felt unsafe as pro-Palestinian demonstrators banged and c… [+3754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "UN chief Antonio Guterres decries 'misrepresentation' of remarks on Hamas attack as Israel seeks his resignation | Mint - Mint",
-      "description": "United Nations Secretary-General Antonio Guterres Wednesday rejected Israel’s accusations that, in a statement to the Security Council, he had justified attacks by the Palestinian militant group Hamas on Israel",
-      "url": "https://www.livemint.com/news/world/un-chief-antonio-guterres-decries-misrepresentation-of-remarks-on-hamas-attack-as-israel-seeks-his-resignation-11698323407143.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/Antonio_Guterres_1698323626665_1698323626866.JPG",
-      "publishedAt": "2023-10-26T12:45:58Z",
-      "content": "United Nations Secretary-General  Wednesday rejected Israels accusations that, in a statement to the Security Council, he had justified attacks by the Palestinian militant group Hamas on Israel, ANI … [+2681 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Affiliate Desk",
-      "title": "Sail into savings at Amazon Big Sale 2023: Get boAt products with over 20% off | Mint - Mint",
-      "description": "Don't miss the Amazon Big Sale 2023 for incredible deals! Get boAt products at over 20% off and set sail with savings today.",
-      "url": "https://www.livemint.com/technology/gadgets/sail-into-savings-at-amazon-big-sale-2023-get-boat-products-with-over-20-off-11698312160754.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/boat_bluetooth_soundbar_1698312813141_1698312841102.jpg",
-      "publishedAt": "2023-10-26T12:38:45Z",
-      "content": "Ahoy, savvy shoppers! The Amazon Big Sale 2023 is here, and it's time to embark on a savings voyage like never before. Get ready to set sail into a sea of discounts, especially tailored for boat enth… [+21104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Ankita Garg",
-      "title": "Infosys founder Narayana Murthy says young IT workers should work 70 hours a week, new work culture is needed - India Today",
-      "description": "In a candid and thought-provoking discussion, Infosys co-founder NR Narayana Murthy has ignited a nationwide debate by suggesting that the youth of India should be prepared to work 70 hours a week to elevate the nation's work culture and compete effectively o…",
-      "url": "https://www.indiatoday.in/technology/news/story/infosys-founder-narayana-murthy-says-young-it-workers-should-work-70-hours-a-week-new-work-culture-is-needed-2454047-2023-10-26",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/infosys-founder-narayana-murthy-260704265-16x9_0.jpg?VersionId=fvEtjvZ7EWpJ6Pe6i6dvMa_Cu20sBUaQ",
-      "publishedAt": "2023-10-26T12:35:26Z",
-      "content": "In a candid and thought-provoking discussion, Infosys co-founder NR Narayana Murthy has ignited a nationwide debate by suggesting that the youth of India should be prepared to work 70 hours a week to… [+3196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Cash-for-query row: Mahua Moitra to appear before Ethics Committee on Oct 31 | Mint - Mint",
-      "description": "TMC MP Mahua Moitra has been accused of involvement in a 'Cash for Query' case. BJP MP Nishikant Dubey has accused her of accepting bribes for asking questions in the Lok Sabha.",
-      "url": "https://www.livemint.com/politics/cashforquery-row-tmc-mahua-moitra-summoned-ethics-committee-allegations-so-far-11698316608992.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/PTI03-14-Mahua_Moitra_1698317040602_1698317040860.jpg",
-      "publishedAt": "2023-10-26T12:31:50Z",
-      "content": "Trinamool Congress (TMC) MP Mahua Moitra was on Thursday asked to appear before the Ethics Committee of the Lok Sabha on October 31 in connection with the cash-for-query allegations against her. Chai… [+4172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": null,
-      "title": "Unlocking the Potential of Weight Loss Supplements for Sustainable Weight Management - DNA India",
-      "description": "Understanding the Science Behind Diet Pills",
-      "url": "https://www.dnaindia.com/india/report-unlocking-the-potential-of-weight-loss-supplements-for-sustainable-weight-management-3065934",
-      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2023/10/26/2613063-article-104-dna.jpg",
-      "publishedAt": "2023-10-26T12:30:12Z",
-      "content": "Maintaining a healthy weight while keeping up with the fast-paced pressures of modern life can feel like an impossible task for many. As an ever-increasing number of so-called miracle diets and exerc… [+5195 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Covid shots may slightly increase risk of stroke in older adults, particularly when administered with certain flu vaccines - CNN",
-      "description": "Vaccines for Covid-19 and influenza may slightly increase the risk of strokes caused by blood clots in the brains of seniors, particularly when the two vaccines are given at the same time and when they are given to adults who are age 85 and older, according t…",
-      "url": "https://www.cnn.com/2023/10/25/health/covid-flu-vaccine-stroke-risk-study/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231012132127-updated-covid-vaccine-091523.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26T12:24:00Z",
-      "content": "Vaccines for Covid-19 and influenza may slightly increase the risk of strokes caused by blood clots in the brains of seniors, particularly when the two vaccines are given at the same time and when th… [+6405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenni Reid",
-      "title": "European Central Bank holds interest rates steady after 10 consecutive hikes - CNBC",
-      "description": "The ECB ended its record run of rate hikes despite new upside risks to inflation.",
-      "url": "https://www.cnbc.com/2023/10/26/european-central-bank-holds-interest-rates-steady-after-10-consecutive-hikes.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076151-1655299973535-gettyimages-1241323583-AFP_32CJ7Y3.jpeg?v=1698322910&w=1920&h=1080",
-      "publishedAt": "2023-10-26T12:21:50Z",
-      "content": "The European Central Bank headquarters.\r\nThe European Central Bank ended its run of interest rate hikes on Thursday, despite new upside risks to inflation from oil markets amid the Israel-Hamas war. … [+3714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Greater Kashmir"
-      },
-      "author": "GK Web Desk",
-      "title": "Three more terrorists killed in Kupwara, total 5: police - Greater Kashmir",
-      "description": "Srinagar, Oct 26: Three more terrorists were killed in the ongoing operation in north Kashmir's Kupwara district on Thursday, taking the toll to five, officials",
-      "url": "https://www.greaterkashmir.com/kashmir/three-more-terrorists-killed-in-kupwara-total-5-police",
-      "urlToImage": "https://gumlet.assettype.com/greaterkashmir%2Fimport%2F2017%2F11%2F2017_11largeimg202_nov_2017_201333673.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
-      "publishedAt": "2023-10-26T12:16:04Z",
-      "content": "Earlier, army said an infiltration bid was foiled along the Line of Control (LoC) in the district.\r\nIn a post on X (formerly Twitter), the Srinagar-based Chinar Corps said that In a Joint Operation l… [+206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newswise"
-      },
-      "author": "University of Texas at Austin, Jackson School of Geosciences",
-      "title": "Scientists Isolate Early-Warning Tremor Pattern in Lab-Made Earthquakes - Newswise",
-      "description": "Researchers at The University of Texas at Austin have successfully isolated a pattern of lab-made ‘foreshock’ tremors. The finding offers hope that future e",
-      "url": "https://www.newswise.com/articles/scientists-isolate-early-warning-tremor-pattern-in-lab-made-earthquakes",
-      "urlToImage": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2023/10/26/653a5af3e7771_unnamed1.jpg&width=600&height=600",
-      "publishedAt": "2023-10-26T12:05:00Z",
-      "content": "Newswise — AUSTIN, Texas — Researchers at The University of Texas at Austin have successfully isolated a pattern of lab-made ‘foreshock’ tremors. The finding offers hope that future earthquakes could… [+3055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "I Upgraded to an iPhone 15 Pro Max From an 11. Here's What Happened - CNET",
-      "description": "Commentary: Why I jumped from my old iPhone to the newest, priciest model -- and why I don't regret it.",
-      "url": "https://www.cnet.com/tech/mobile/i-upgraded-to-an-iphone-15-pro-max-from-an-11-heres-what-happened/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2deb3abd7d0edd93600f9392917ce7d2ac37e7ff/hub/2023/10/25/c6666f85-fe60-454c-b57c-cb930b10a2c3/screenshot-2023-10-25-at-11-58-12am.png?auto=webp&fit=crop&height=675&width=1200",
+      "author": "Kishalaya Kundu",
+      "title": "Samsung's new Temporary Cloud Backup offers unlimited storage, but there's a catch - XDA Developers",
+      "description": "The new service will be rolled out globally to compatible devices this fall.",
+      "url": "https://www.xda-developers.com/samsung-temporary-cloud-backup/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/xda-25.png",
       "publishedAt": "2023-10-26T12:00:00Z",
-      "content": "I was so confident that I wanted an iPhone 15 that I told the internet I was buying one before it was even announced. It's a bold claim, I know. And I kept my word and upgraded from my 3-year-old iPh… [+10859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "Alan Wake 2 New Game Plus With Alternative Narrative And Nightmare Difficulty Announced - Game Informer",
-      "description": "There's no release timing for it yet, but Remedy Entertainment says it will include new manuscript pages and video content.",
-      "url": "https://www.gameinformer.com/news/2023/10/26/alan-wake-2-new-game-plus-with-alternative-narrative-and-nightmare-difficulty",
-      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/10/25/b5934d63/alanwake1.jpg",
-      "publishedAt": "2023-10-26T11:51:00Z",
-      "content": "Alan Wake 2 finally hits PlayStation 5, Xbox Series X/S, and PC tomorrow, on Friday, October 27. After the wait was extended by a 10-day delay, the game's release is almost here. After getting a new … [+1311 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "4gamer.net"
-      },
-      "author": "Aetas Inc.",
-      "title": "最新技術で完全に作り直された「ARK: Survival Ascended」，PC版がSteamでリリース。ローンチトレイラー公開 - 4Gamer.net",
-      "description": "鐃緒申Studio Wildcard鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申ARK: Survival Ascended鐃竣わ申鐃循随申鐃緒申Steam鐃叔鰹申鐃熟わ申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申肇譽わ申蕁種申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申2017年鐃祝ワ申蝓種申鐃緒申鐃緒申鐃緒申鐃緒申劵奪箸鐃熟随申鐃緒申鐃緒申鐃忔rk: Survival Evolved鐃竣わ申鐃怔nreal Engine 5鐃竣でワ申瓮わ申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申肇鐃叔￥申鐃緒申鐃緒申侫鐃緒申奪鐃緒申鐃緒申肇鐃緒申鐃緒申鐃竣レイ鐃緒申鐃緒申鐃緒…",
-      "url": "https://www.4gamer.net/games/697/G069752/20231026069/",
-      "urlToImage": "https://www.4gamer.net/games/697/G069752/20231026069/SS/016.jpg",
-      "publishedAt": "2023-10-26T11:30:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Punjabnewsexpress.com"
-      },
-      "author": null,
-      "title": "Anti-anxiety drug may help boost brain cancer survival chances - Punjab News Express",
-      "description": "A decades-old anti-anxiety drug can help improve the effectiveness of chemo-radiotherapy towards glioblastoma (GBM) -- the most common and lethal brain cancer.",
-      "url": "https://www.punjabnewsexpress.com/news/news/anti-anxiety-drug-may-help-boost-brain-cancer-survival-chances-226150",
-      "urlToImage": "https://www.punjabnewsexpress.com/images/article/article226150.jpg",
-      "publishedAt": "2023-10-26T11:28:38Z",
-      "content": "SYDNEY: A decades-old anti-anxiety drug can help improve the effectiveness of chemo-radiotherapy towards glioblastoma (GBM) -- the most common and lethal brain cancer.\r\nBrain cancers kill more childr… [+1827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Affiliate Desk",
-      "title": "Amazon Great Indian Festival is here with more than 45% discount on Samsung TVs - Hindustan Times",
-      "description": "Don't miss out on Amazon's Great Indian Festival! Enjoy massive discounts of up to 45% on Samsung TVs. Upgrade your home entertainment now!",
-      "url": "https://www.hindustantimes.com/technology/amazon-great-indian-festival-is-here-with-more-than-45-discount-on-samsung-tvs-101698305299066.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/samsung_tv_1698306746446_1698306756104.jpg",
-      "publishedAt": "2023-10-26T10:48:52Z",
-      "content": "The annual Amazon Great Indian Festival has finally arrived, and it's bringing a shower of incredible deals and discounts. While there are numerous jaw-dropping offers across various product categori… [+19347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "WION Web Team",
-      "title": "Scientists resolve the mystery behind sudden dimming of supergiant Betelgeuse star - WION",
-      "description": "Scientists resolve the mystery behind sudden dimming of supergiant Betelgeuse star",
-      "url": "https://www.wionews.com/science/scientists-resolve-the-mystery-behind-sudden-dimming-of-supergiant-betelgeuse-star-651550",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/10/26/389165-6zejhkuqkud68ngfvzqeve.jpg",
-      "publishedAt": "2023-10-26T10:42:15Z",
-      "content": "Scientists now have established why the red supergiant star Betelgeuse turned dim between 2018 and 2020, dismissing theories that suggested that the star might be entering the last stage of its evolu… [+2200 chars]"
+      "content": "Key Takeaways\r\n<ul><li> Samsung introduces Temporary Cloud Backup, offering users unlimited storage for up to 30 days for free, allowing them to safely back up data. </li><li> Users can upload all fo… [+2601 chars]"
     },
     {
       "source": {
@@ -824,171 +1084,15 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "The Times of Israel"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rediff.com"
-      },
-      "author": "PTI",
-      "title": "India shines: Historic 73 medals at Asian Para Games - Rediff.com",
-      "description": "The Indian contingent has surpassed its previous record from the 2018 Asian Para Games in Hangzhou, China, with a total of 73 medals in the current edition.",
-      "url": "https://www.rediff.com/sports/report/india-shines-historic-73-medals-at-asian-para-games/20231026.htm",
-      "urlToImage": "https://im.rediff.com/sports/2023/oct/25para3.jpg",
-      "publishedAt": "2023-10-26T09:31:02Z",
-      "content": "Photographs: Kind Courtesy Anurag Thakur/X\r\nIn a monumental achievement, Indian para-athletes have set a new record by securing their highest-ever gold medal tally at the Asian Para Games.\r\nThe India… [+1759 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Adrianna Rodriguez",
-      "title": "RSV shots are in short supply for babies: See the new CDC guidelines - USA TODAY",
-      "description": "The CDC recommends prioritizing higher doses for infants younger than 6 months, and those who are at risk for severe disease.",
-      "url": "https://www.usatoday.com/story/news/health/2023/10/24/rsv-vaccine-shot-babies-new-cdc-guidelines/71299105007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/02/22/USAT/e10d206f-2590-41c4-8730-d93d1a14459e-GettyImages-1265740892.jpg?crop=2120,1193,x0,y107&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2023-10-26T09:25:25Z",
-      "content": "Health officials are reeling back their recommendations about who is eligible for a shot that prevents severe respiratory syncytial virus, or RSV, in infants amid a drug shortage that has coincided w… [+2458 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "‘Bigg Boss OTT 2’ winner Elvish Yadav receives extortion call demanding Rs 1 crore: Reports - Times of India",
-      "description": "‘Bigg Boss OTT 2’ winner Elvish Yadav has reportedly received an extortion call from an anonymous caller. According to reports in a news portal, a case was filed with the Gurugram police on October 25 after Elvish told them about the call that he received fro…",
-      "url": "https://timesofindia.indiatimes.com/videos/tv/hindi/bigg-boss-ott-2-winner-elvish-yadav-receives-extortion-call-demanding-rs-1-crore-reports/videoshow/104724740.cms",
-      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104724740,imgsize-35802.cms",
-      "publishedAt": "2023-10-26T09:24:28Z",
-      "content": "Oct 26, 2023, 02:54PM ISTSource: etimes.inBigg Boss OTT 2 winner Elvish Yadav has reportedly received an extortion call from an anonymous caller. According to reports in a news portal, a case was fil… [+903 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Beebom"
-      },
-      "author": "Sampad Banerjee",
-      "title": "Alan Wake 2 New Game+ Mode Coming After Launch; Here’s What to Expect - Beebom",
-      "description": "With Alan Wake 2 launching, Remedy has shared its plans for the upcoming New Game+ content coming to the game after release.",
-      "url": "http://beebom.com/alan-wake-2-new-game-plus-mode/",
-      "urlToImage": "https://beebom.com/wp-content/uploads/2023/10/Alan-Wake-2-NG-content.jpg",
-      "publishedAt": "2023-10-26T09:20:40Z",
-      "content": "Alan Wake 2 is launching in a few hours, and Remedy has already started sharing details about what comes after. With the pre-load going live a couple of days back, many have been wondering about the … [+2501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech Explorist"
-      },
-      "author": "Amit Malewar",
-      "title": "A liquid crystal elastomer fiber can produce morphing fabrics - Tech Explorist",
-      "description": "Shape-shifting fiber can produce morphing fabrics.",
-      "url": "https://www.techexplorist.com/liquid-crystal-elastomer-fiber-produce-morphing-fabrics/76349/",
-      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2023/10/FibeRobo.jpg",
-      "publishedAt": "2023-10-26T09:15:31Z",
-      "content": "An interdisciplinary MIT team has developed FibeRobo- a programmable, actuating fiber that could someday be used in textiles. This thermally-actuated liquid crystal elastomer (LCE) fiber could enable… [+4316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Reuters",
-      "title": "UK to set up world's first AI safety institute, PM Rishi Sunak says - Hindustan Times",
-      "description": "Sunak wants Britain to be a global leader in AI safety, carving out a role after Brexit between the competing economic blocs of the US, China and the EU. | World News",
-      "url": "https://www.hindustantimes.com/world-news/uk-ai-safety-institute-rishi-sunak-101698310936289.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/AI-BRITAIN-SUNAK-2_1698311107446_1698311174174.JPG",
-      "publishedAt": "2023-10-26T09:11:08Z",
-      "content": "Britain will set up the world's first artificial intelligence safety institute, Prime Minister Rishi Sunak said on Thursday, ahead of a global summit next week that he has convened to examine the ris… [+2243 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "Nicholas Megaw",
-      "title": "US economy expected to have grown 4.3% in third quarter - Financial Times",
-      "description": "Strong consumer spending drove pace of GDP expansion to biggest rise in nearly two years, analysts predict",
-      "url": "https://www.ft.com/content/8409fd04-90f4-490b-af08-c9b67a36077c",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26T09:00:42Z",
-      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Siasat Daily"
-      },
-      "author": "Sakina Fatima",
-      "title": "Israel conducts overnight ground raids into Gaza as war rages on - The Siasat Daily",
-      "description": "As the war between Israel-Hamas has entered its 20th day, the Israeli army carries out a “relatively large” ground raid into Gaza overnight.",
-      "url": "https://www.siasat.com/israel-conducts-overnight-ground-raids-into-gaza-as-war-rages-on-2754422/",
-      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/10/Israel-Gaza.jpg",
-      "publishedAt": "2023-10-26T08:09:06Z",
-      "content": "After three weeks of pummeling Gaza with airstrikes, the Israeli forces said it conduced overnight ground raids into the territory, Al Jazeera reported on Thursday. \r\nThe IDF conducted brief but expa… [+3379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "India-Middle East Economic Corridor Possible Reason For Hamas Attack: Biden - NDTV",
-      "description": "US President Joe Biden has hinted that one of the reasons behind Hamas' October 7 attack on Israel was the recent announcement of the India-Middle East-Europe Economic Corridor that integrates the entire region with a network of rail,",
-      "url": "https://www.ndtv.com/world-news/announcement-of-india-middle-east-corridor-possible-reason-for-hamas-attack-joe-biden-4515251",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/b56a66uo_joe-biden-afp-650_650x400_20_October_23.jpg",
-      "publishedAt": "2023-10-26T08:00:28Z",
-      "content": "He said that the rail port project is part of an effort to build a more sustainable Middle East.\r\nWashington DC: US President Joe Biden has hinted that one of the reasons behind Hamas' October 7 atta… [+2849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bqprime.com"
-      },
-      "author": "Hemansh Kanwal",
-      "title": "Canara Bank Q2 Results: Profit Rises 43% On Lower Provisions, Beats Estimates - BQ Prime",
-      "description": "The lender's Q2 net profit rose 43% year-on-year to Rs 3,606.1 crore, beating an estimate of Rs 3,413 crore.",
-      "url": "https://www.bqprime.com/markets/canara-bank-q2-result-profit-rises-43-in-line-with-estimates",
-      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2023-01%2F2aacdf95-bf3f-4d9e-9dbd-4c777656ac98%2FCanara_Bank_building___Source_Wiki_.png?rect=0%2C0%2C769%2C404&w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2023-10-26T07:44:04Z",
-      "content": "The cost of deposits rose by 23 basis points quarter-on-quarter to 5.35%, while cost of funds rose by 10 basis points sequentially to 4.86%.\r\nDomestic deposits grew by 8.22% year-on-year to Rs 11.43 … [+1711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nutraingredients-asia.com"
-      },
-      "author": "nutraingredients-asia.com",
-      "title": "Addressing Vitamin D deficiency in premenopausal Saudi women crucial for reducing prevalence of osteoporosis – study - NutraIngredients-Asia",
-      "description": "Greater attention should be paid to diet and nutrient intake, especially vitamin D, to improve bone mineral density among premenopausal women, say Saudi Arabian researchers.",
-      "url": "https://www.nutraingredients-asia.com/Article/2023/10/26/addressing-vitamin-d-deficiency-in-premenopausal-saudi-women-crucial-for-reducing-prevalence-of-osteoporosis",
-      "urlToImage": "https://www.nutraingredients-asia.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-asia.com/article/2023/10/19/addressing-vitamin-d-deficiency-in-premenopausal-saudi-women-crucial-for-reducing-prevalence-of-osteoporosis/16854528-1-eng-GB/Addressing-Vitamin-D-deficiency-in-premenopausal-Saudi-women-crucial-for-reducing-prevalence-of-osteoporosis.jpg",
-      "publishedAt": "2023-10-26T07:27:00Z",
-      "content": "The alarming prevalence of osteoporosis among elderly men and postmenopausal women in the local population has led the Saudi Arabian government to implement the National Plan for Osteoporosis Prevent… [+5477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "'Preparing for a ground incursion' Israeli PM Benjamin Netanyahu hints at invasion into Gaza | Mint - Mint",
-      "description": "Israel Prime Minister Benjamin Netanyahu sets goals to destroy Hamas and bring back abductees.",
-      "url": "https://www.livemint.com/news/world/preparing-for-a-ground-incursion-israeli-pm-benjamin-netanyahu-hints-at-invasion-into-gaza-11698300033891.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/ISRAEL-PALESTINIAN-CONFLICT-FRANCE-DIPLOMACY-43_1698302760451_1698302783502.jpg",
-      "publishedAt": "2023-10-26T06:56:28Z",
-      "content": "Israeli Prime Minister Benjamin Netanyahu expressed his primary objective during the conflict with Hamas as protecting the nation\" and indicated that a ground operation to eliminate Hamas will start … [+3474 chars]"
+      "author": "Emanuel Fabian",
+      "title": "IDF tanks, troops push into Gaza in limited raid ahead of ground offensive - The Times of Israel",
+      "description": "Military says it struck Hamas sites, operatives in hours-long 'targeted raid' before returning infantry to Israeli side of border, as larger ground assault awaits",
+      "url": "https://www.timesofisrael.com/idf-tanks-troops-briefly-push-into-gaza-strip-ahead-of-ground-offensive/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/10/33Z34TW-highres.jpg",
+      "publishedAt": "2023-10-26T07:43:00Z",
+      "content": "The Israel Defense Forces deployed a limited ground incursion into Gaza overnight, sending infantry forces and tanks up to a kilometer into the northern part of the Strip, the military said Thursday … [+5936 chars]"
     },
     {
       "source": {
@@ -1005,94 +1109,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "News18"
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
-      "author": "Rohit",
-      "title": "US: Manhunt for 'Dangerous' Ex-Army Instructor Suspected of Killing 22 in Maine Mass Shooting - News18",
-      "description": "Lewiston Maine Shooting Live Updates: 30 people are injured in the incidents, though it’s unclear how many are injured due to gunfire",
-      "url": "https://www.news18.com/world/at-least-22-people-killed-in-mass-shooting-in-us-state-of-maine-8633864.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/untitled-design-2023-10-7c8cae6a2edabb140f2a083fdd226dc7-16x9.png?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-10-26T06:27:00Z",
-      "content": "US Mass Shooting News: Hundreds of police searched the US city of Lewiston and surrounding areas of Maine state for a man sought in connection with mass shootings at a bar and a bowling alley, killin… [+3788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Big Think"
-      },
-      "author": "Ethan Siegel",
-      "title": "Light and gravitational waves don't arrive simultaneously - Big Think",
-      "description": "In 2017, a kilonova sent light and gravitational waves across the Universe. Here on Earth, there was a 1.7 second signal arrival delay. Why?",
-      "url": "https://bigthink.com/starts-with-a-bang/light-gravitational-waves-arrive/",
-      "urlToImage": "https://bigthink.com/wp-content/uploads/2022/11/GWB190425.jpg?resize=1200,630",
-      "publishedAt": "2023-10-26T06:00:00Z",
+      "author": "Angelica Martinez",
+      "title": "19 Things People Treat As Safe That Actually Are Pretty Dangerous - BuzzFeed",
+      "description": "I was today years old when I learned that loneliness can have the same risk as smoking 15 cigarettes a day.",
+      "url": "https://www.buzzfeed.com/angelicaamartinez/dangerous-things-we-think-are-safe-3",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/24/22/enhanced/ba4fa7da95ab/original-2517-1698187317-2.jpg?crop=1244:651;0,61%26downsize=1250:*",
+      "publishedAt": "2023-10-25T23:16:02Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Neutron Star Collision Caught Forging Heavy Metals in a JWST First - ScienceAlert",
-      "description": "The kilonova explosion that resulted when two neutron stars slammed into each other a billion light-years away turned out to be factory for rare heavy elements.",
-      "url": "https://www.sciencealert.com/neutron-star-collision-caught-forging-heavy-metals-in-a-jwst-first",
-      "urlToImage": "https://www.sciencealert.com/images/2023/10/red_arrow_red_star.jpg",
-      "publishedAt": "2023-10-26T05:26:20Z",
-      "content": "The kilonova explosion that resulted when two neutron stars slammed into each other a billion light-years away turned out to be factory for rare heavy elements.\r\nIt's the first time the James Webb Sp… [+4809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tennews.in"
-      },
-      "author": "TenNews Team",
-      "title": "Chinese scientists find 8 new viruses from rodents, sparking pandemic risk - tennews.in - Ten News",
-      "description": "Beijing, Oct 25 (IANS) A team of scientists in China have discovered never-before-seen viruses from rodents that have the potential for spillover to humans, sparking the next pandemic risk. The teams from Chinese Academy of Medical Sciences & Pek",
-      "url": "https://tennews.in/chinese-scientists-find-8-new-viruses-from-rodents-sparking-pandemic-risk/",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26T04:55:43Z",
-      "content": "Beijing, Oct 25 (IANS) A team of scientists in China have discovered never-before-seen viruses from rodents that have the potential for spillover to humans, sparking the next pandemic risk. \r\nThe tea… [+1976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VOGUE India"
-      },
-      "author": "Woodstock Witch",
-      "title": "Pisces Horoscope Today: October 26, 2023 - VOGUE India",
-      "description": "Read VOGUE India's free daily Pisces horoscope for 26th October, 2023 to learn more about what the stars have in store for you! Click here for our cosmic tips",
-      "url": "https://www.vogue.in/horoscope/product/pisces-horoscope-today-october-26-2023/",
-      "urlToImage": "https://media.vogue.in/wp-content/uploads/2022/06/Pisces-866x487.jpg",
-      "publishedAt": "2023-10-26T04:54:13Z",
-      "content": "But, youre under no obligation to adhere to the dated script or do what is expected of you. This is your reminder to shake the weight of other peoples expectations off, and literally so! Freedom is y… [+235 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anuja Jaiswal",
-      "title": "Dengue still reported in Delhi, but doctors expect dip in cases with cold - Times of India",
-      "description": "Despite a drop in temperature, dengue patients are still arriving at hospitals in Delhi, with doctors expecting the numbers to decrease as the city ge",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/dengue-still-reported-in-delhi-but-doctors-expect-dip-in-cases-with-cold/articleshow/104714471.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104714611,width-1070,height-580,imgsize-1755339,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-26T04:03:05Z",
-      "content": "Anime series: Is Boruto more powerful than Naruto?"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Apple just released iOS 17.1, MacOS 14.1, and WatchOS 10.1 - here's what's new - ZDNet",
-      "description": "This is the first big update for Apple's latest operating system releases.",
-      "url": "https://www.zdnet.com/article/apple-just-released-ios-17-1-macos-14-1-and-watchos-10-1-heres-whats-new/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/41f7bd7c43324e9b991008973bbe987a54217bd7/2023/10/25/d49da203-5adf-40d9-9aa8-bbd29fdfea68/20231025-164427.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2023-10-26T01:27:00Z",
-      "content": "Jason Hiner/ZDNET\r\nJust last month, Apple users were updating their devices in droves to iOS 17, and now Apple released the first update to the iPhone's operating system. \r\nAlongside iOS 17.1, Apple … [+4123 chars]"
     },
     {
       "source": {
@@ -1106,6 +1132,19 @@
       "urlToImage": "https://s.abcnews.com/images/GMA/steps-stairs-gty-lv-231025_1698240622949_hpMain_16x9_992.jpg",
       "publishedAt": "2023-10-25T20:06:52Z",
       "content": "Walking 10,000 steps per day is known to improve a person's health, but reaching that goal can be difficult for many, considering it's the equivalent of walking around 5 miles.\r\nNow, new research is … [+2311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Asif Iqbal Shaik",
+      "title": "Snapdragon 8 Gen 3 performance figures revealed on real device - SamMobile - Samsung news",
+      "description": "Last night, Qualcomm announced the Snapdragon 8 Gen 3 processor. While the company didn't announce Samsung to be among the ...",
+      "url": "https://www.sammobile.com/news/snapdragon-8-gen-3-benchmark-results-revealed-real-device/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/10/qualcomm-snapdragon-8-gen-3-2023-720x432.jpg",
+      "publishedAt": "2023-10-25T17:28:00Z",
+      "content": "Last night, Qualcomm announced the Snapdragon 8 Gen 3 processor. While the company didn't announce Samsung to be among the brands that will use the new chip, it is widely reported that the South Kore… [+2051 chars]"
     },
     {
       "source": {
@@ -1136,67 +1175,41 @@
     {
       "source": {
         "id": null,
-        "name": "Biomedcentral.com"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Taxonomic and molecular characterization of a new entomopathogenic nematode species, Heterorhabditis casmirica n. sp., and whole genome sequencing of its associated bacterial symbiont - Parasites & Vectors - Parasites & Vectors",
-      "description": "Background Nematodes of the genus Heterorhabditis are important biocontrol agents as they form a lethal combination with their symbiotic Photorhabdus bacteria against agricultural insect pests. This study describes a new species of Heterorhabditis. Methods Si…",
-      "url": "https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05990-z",
-      "urlToImage": "https://media.springernature.com/w200/springer-static/cover/journal/13071.jpg",
-      "publishedAt": "2023-10-25T11:54:27Z",
+      "title": "SpaceX Starhip loaded with over 10 million pounds of propellant in launch rehearsal - VideoFromSpace",
+      "description": "SpaceX Starship was run through a wet dress rehearsal for launch on Oct. 24, 2023. See and amazing drone view of the frosty rocket as it was filled with over...",
+      "url": "https://www.youtube.com/watch?v=PX5hDZzFKNY",
+      "urlToImage": "https://i.ytimg.com/vi/PX5hDZzFKNY/maxresdefault.jpg",
+      "publishedAt": "2023-10-25T14:30:15Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Biomedcentral.com"
+        "name": "IFLScience"
       },
-      "author": null,
-      "title": "Association of DRD2, DRD4 and COMT genes variants and their gene-gene interactions with antipsychotic treatment response in patients with schizophrenia - BMC Psychiatry - BMC Psychiatry",
-      "description": "Antipsychotic drugs are the first line of treatment in schizophrenia; although antipsychotic responses indicate a wide interindividual variety in patients with schizophrenia. This study aimed to investigate the association between four polymorphisms in DRD2, …",
-      "url": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-023-05292-9",
-      "urlToImage": "https://media.springernature.com/w200/springer-static/cover/journal/12888.jpg",
-      "publishedAt": "2023-10-25T11:53:24Z",
+      "author": "James Felton",
+      "title": "NASA Brings Back Actual Sample Of Asteroid But Can't Open The Lid - IFLScience",
+      "description": "NASA has hit a significant problem. Two fasteners are stuck.",
+      "url": "https://www.iflscience.com/nasa-brings-back-actual-sample-of-asteroid-but-cant-open-the-lid-71285",
+      "urlToImage": "https://assets.iflscience.com/assets/articleNo/71285/aImg/71604/fastener-meta.png",
+      "publishedAt": "2023-10-25T13:45:25Z",
+      "content": "When you are firing a spacecraft at an asteroid, touching the spacecraft down on that asteroid very briefly to collect a sample, and then returning the sample to Earth, there are a lot of opportuniti… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Pihu Yadav",
+      "title": "HP Envy x360 15 Review: You do not have to think about this one - CNBCTV18",
+      "description": "The HP Envy x360 15 is available at the starting price of ₹78,999 — not exactly budget, but not very expensive either. On top of that, it performs really well for that price.",
+      "url": "https://www.cnbctv18.com/technology/hp-envy-x360-15-review-you-do-not-have-to-think-about-this-one-18148651.htm",
+      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/10/untitled-design-23-1019x573.jpg",
+      "publishedAt": "2023-10-25T13:24:40Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Firstpost"
-      },
-      "author": "Mehul Reuben Das",
-      "title": "Leaky Situation: Earths core may be leaking helium very slowly, studies are underway to find out why - Firstpost",
-      "description": "The earths core is leaking on of the rarest natural resources we have  helium. Extracted from natural gas deposits within the Earths crust, the dwindling reservoirs are becoming a growing concern",
-      "url": "https://www.firstpost.com/tech/news-analysis/leaky-situation-earths-core-may-be-leaking-helium-very-slowly-studies-underway-to-find-out-why-13294312.html",
-      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2023/10/Leaky-Situation-Earths-core-may-be-leaking-helium-very-slowly-studies-underway-to-find-out-why.jpg",
-      "publishedAt": "2023-10-25T08:23:25Z",
-      "content": "Helium, the second-most common element in the universe, is astonishingly scarce on Earth, and its origins have remained a mystery for scientists. However, scientists believe that the Earth’s core is … [+2295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "Chandrayaan-4 mission: Will ISRO vehicles survive the lunar night this time? - HT Tech",
-      "description": "Chandrayaan4 mission Will ISRO vehicles survive the lunar night this time Know how many days the Chandrayaan4 mission will survive on the lunar surface and how different it is from the Chandrayaan3 mission. ISRO and JAXA now have all their focus on the Chandr…",
-      "url": "https://tech.hindustantimes.com/web-stories/chandrayaan4-mission-will-isro-vehicles-survive-the-lunar-night-this-time-71698211232714.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/25/1600x900/jaxas_092_02_01_en_1698211593952_1698211597863.png/",
-      "publishedAt": "2023-10-24T23:57:43Z",
-      "content": "Photo Credit: JAXA\r\n  Know how many days the Chandrayaan-4 mission will survive on the lunar surface and how different it is from the Chandrayaan-3 mission.\r\nPhoto Credit: ISRO\r\n ISRO and JAXA now ha… [+1644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "Gabriel Moss",
-      "title": "These Xreal Air 2 glasses could make the Steam Deck more immersive - Yanko Design",
-      "description": "https://www.youtube.com/watch?v=WbNnju17UXMAR sunglasses represent a growing market, offering alternatives to VR headsets equipped with mixed-reality pass-throu",
-      "url": "https://www.yankodesign.com/2023/10/24/these-xreal-air-2-glasses-could-make-the-steam-deck-more-immersive/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2023/10/these-xreal-air-2-glasses-could-make-the-steam-deck-more-immersive/1c6d4700-725e-11ee-96ed-68d54977f69a-xreal-air-2.jpg",
-      "publishedAt": "2023-10-24T23:30:54Z",
-      "content": "AR sunglasses represent a growing market, offering alternatives to VR headsets equipped with mixed-reality pass-through (like the Meta Quest 2 and 3). One of the selling points is style; since they’r… [+2378 chars]"
     }
   ]
 }
