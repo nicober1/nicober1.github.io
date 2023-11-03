@@ -1,32 +1,916 @@
 {
   "status": "ok",
-  "totalResults": 256,
+  "totalResults": 260,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Kathy Thomas",
+      "title": "Study examines the devastating impact of loneliness on autistic people - Medical Xpress",
+      "description": "New research has revealed just how acutely autistic people experience loneliness contradicting the stereotype that they avoid seeking meaningful social relationships.",
+      "url": "https://medicalxpress.com/news/2023-11-devastating-impact-loneliness-autistic-people.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/study-examines-the-dev-1.jpg",
+      "publishedAt": "2023-11-02T18:32:04Z",
+      "content": "New research has revealed just how acutely autistic people experience loneliness contradicting the stereotype that they avoid seeking meaningful social relationships.\r\nLoneliness negatively affects p… [+4169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Science X",
+      "title": "At least 14% of Americans have long COVID, research suggests - Medical Xpress",
+      "description": "One in seven people in the US reported having had long COVID by the end of 2022, suggests a large-scale investigation of long COVID and symptom prevalence by academics at UCL and Dartmouth.",
+      "url": "https://medicalxpress.com/news/2023-11-americans-covid.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/7-covid.jpg",
+      "publishedAt": "2023-11-02T18:00:01Z",
+      "content": "One in seven people in the US reported having had long COVID by the end of 2022, suggests a large-scale investigation of long COVID and symptom prevalence by academics at UCL and Dartmouth.\r\nHaving h… [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Marc Lallanilla",
+      "title": "Can vitamins cause cancer? Viral claim of risk increase may be bunk - New York Post ",
+      "description": "“The real focus should not be on supplements, but on eating a healthy diet,” said one group of medical experts.",
+      "url": "https://nypost.com/2023/11/02/lifestyle/can-vitamins-cause-cancer-viral-claims-of-risk-increase-may-be-bunk/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-hhlx6lwgj-1698940052437.jpg?quality=75&strip=all&1698925727&w=1024",
+      "publishedAt": "2023-11-02T17:54:00Z",
+      "content": "An inflammatory new claim that taking vitamin supplements will increase your risk of cancer has ruffled feathers throughout the medical community.\r\nDr. Mohammad Muneeb Khan, an oncologist with the UK… [+4373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Umn.edu"
+      },
+      "author": null,
+      "title": "New gonorrhea antibiotic shows promise in pivotal phase 3 trial - University of Minnesota Twin Cities",
+      "description": null,
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/new-gonorrhea-antibiotic-shows-promise-pivotal-phase-3-trial",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-852166616.jpg?itok=sd5RfSAG",
+      "publishedAt": "2023-11-02T17:41:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurologylive.com"
+      },
+      "author": "Marco Meglio",
+      "title": "Creatine Kinase Levels Not Considered Risk Factor for COVID-19 Post-Acute Sequelae - Neurology Live",
+      "description": "Elevated creatine kinase levels were not found to be a prognostic factor for the development of PASC in encephalopathic COVID-19 patients, according to a retrospective chart review analysis.",
+      "url": "https://www.neurologylive.com/view/creatine-kinase-levels-not-risk-factor-covid-19-post-acute-sequelae",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/neurolive/05f2b63f196cc5fe39f7b43b1699271075be892d-300x300.png?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T17:05:11Z",
+      "content": "Data from a retrospective chart review analysis of hospitalized encephalopathic patients who developed COVID-19 infection showed that elevated creatine kinase (CK) levels was not a prognostic factor … [+3505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genetic Engineering & Biotechnology News"
+      },
+      "author": "Kevin Mayer",
+      "title": "ASHG 2023, an Opportunity to Catch Up with Fast-Moving Biotech Companies - Genetic Engineering & Biotechnology News",
+      "description": "At ASHG 2023, presenters and exhibitors include companies with expertise in sequencing and spatial biology.",
+      "url": "https://www.genengnews.com/topics/omics/ashg-2023-an-opportunity-to-catch-up-with-fast-moving-biotech-companies/",
+      "urlToImage": "https://www.genengnews.com/wp-content/uploads/2023/07/GettyImages-1440460340.jpg",
+      "publishedAt": "2023-11-02T17:00:20Z",
+      "content": "When a prominent scientific society stages an annual meeting, you can expect that the meetings conference program and exhibit hall will attract a number of relevant companies. Moreover, the meeting w… [+6904 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Robby Berman",
+      "title": "How many steps a day is enough? Health benefits may start at 2,500 - Medical News Today",
+      "description": "A large new meta-study has found that walking just 2,500 steps a day delivers health benefits, and more steps, produce greater reductions in mortality and cardiovascular disease.",
+      "url": "https://www.medicalnewstoday.com/articles/do-you-really-need-to-walk-10000-steps-to-see-health-benefits",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/11/footprints-steps-pavement-732x549-thumbnail.jpg",
+      "publishedAt": "2023-11-02T16:59:01Z",
+      "content": "<ul><li>A new meta-study of 12 other studies brings clarity to confusion regarding the most beneficial number of steps one should walk each day.</li><li>The study indicates that benefits begin with a… [+5588 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dvm360.com"
+      },
+      "author": "Rebecca C. McOnie, DVM, DACVS-LA",
+      "title": "Nephrosplenic space ablation in horses - DVM 360",
+      "description": "The procedure is a safe and effective treatment for the prevention of nephrosplentic entrapment",
+      "url": "https://www.dvm360.com/view/nephrosplenic-space-ablation-in-horses",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/dvm360/44d2f816c76044ca9db7afa7c9c7cf6b63758a2c-5200x3467.jpg?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T16:42:50Z",
+      "content": "Laparoscopic nephrosplenic space (NSS) ablation is an effective and safe treatment for preventing recurrence of nephrosplenic entrapment (NSE). NSE occurs in larger barrel horses of any age such as w… [+8639 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katia Hetter",
+      "title": "Who should worry about lung cancer? A doctor explains - CNN",
+      "description": "The American Cancer Society has just updated their lung cancer screening guidelines in an effort to increase earlier detection. Dr. Leana Wen walks us through the different kinds of lung cancers, how to reduce risk, why early detection matters and what kinds …",
+      "url": "https://www.cnn.com/2023/11/02/health/lung-cancer-prevention-smoking-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1327248775.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-02T16:40:00Z",
+      "content": "The American Cancer Society has just updated their lung cancer screening guidelines in an effort to increase earlier detection. It expands the recommendation of yearly screening via low-dose CT scan … [+7267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parkinson's News Today"
+      },
+      "author": "Steve Bryson, PhD",
+      "title": "US Parkinson's risk reflected in regional differences in air pollution - Parkinson's News Today",
+      "description": "A U.S. study finds regional differences in air pollution reflect differences in Parkinson's risk, with higher risk in areas with more pollution.",
+      "url": "https://parkinsonsnewstoday.com/news/us-risk-reflected-regional-differences-air-pollution/",
+      "urlToImage": "https://parkinsonsnewstoday.com/wp-content/uploads/2022/10/Cough-2.png",
+      "publishedAt": "2023-11-02T16:25:06Z",
+      "content": "Exposure to an air pollutant called fine particular matter (PM2.5) is significantly associated with an increased risk of developing Parkinson’s disease, according to a U.S. population study.\r\nUsing s… [+6792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Scientists Might Know Why You Feel Loopy After an All-Nighter - Gizmodo",
+      "description": "In new research with mice, researchers have found that sleepless nights seem to trigger strong, but short-lasting boosts in dopamine and neuroplasticity.",
+      "url": "https://gizmodo.com/study-what-all-nighter-does-to-the-brain-1850985248",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/724ec612077996d19e73ffeafced97da.jpg",
+      "publishedAt": "2023-11-02T16:20:00Z",
+      "content": "Northwestern University scientists may have figured out why pulling an all-nighter can leave us feeling loopy and downright giddy for days after. In a new study out this week, the researchers found t… [+4061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Post-Pandemic America: Unmasking the Silent Stress Surge of Collective Trauma - Neuroscience News",
+      "description": "The aftermath of the COVID-19 pandemic has instigated a silent surge in stress and mental health issues among Americans.",
+      "url": "https://neurosciencenews.com/collective-trauma-stress-25141/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/11/stress-collective-trrauma-neurosince.jpg",
+      "publishedAt": "2023-11-02T16:19:31Z",
+      "content": "Summary: The aftermath of the COVID-19 pandemic has instigated a silent surge in stress and mental health issues among Americans.\r\nAlarmingly, adults aged 35-44 exhibited the most significant hike in… [+6735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Dry eye treatment and prevention - FOX 10 Phoenix",
+      "description": "With so much of our days spent looking at screens, it can have an impact on our eyes. FOX 10's Syleste Rodriguez and Troy Hayden talk to Dr. Kathy Vu about h...",
+      "url": "https://www.youtube.com/watch?v=uprwoRXbAwY",
+      "urlToImage": "https://i.ytimg.com/vi/uprwoRXbAwY/maxresdefault.jpg",
+      "publishedAt": "2023-11-02T16:17:15Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "News-Medical.Net"
       },
       "author": null,
-      "title": "Study sheds light on origins of breast cancer in people with BRCA2 mutations - News-Medical.Net",
-      "description": "A pioneering study led by Professor Ashok Venkitaraman from the Cancer Science Institute of Singapore (CSI Singapore) at the National University of Singapore and Dr Mona Shehata from the University of Cambridge (UK) has uncovered vital insights into the disti…",
-      "url": "https://www.news-medical.net/news/20231101/Study-sheds-light-on-origins-of-breast-cancer-in-people-with-BRCA2-mutations.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg",
-      "publishedAt": "2023-11-02T07:22:00Z",
-      "content": "A pioneering study led by Professor Ashok Venkitaraman from the Cancer Science Institute of Singapore (CSI Singapore) at the National University of Singapore and Dr Mona Shehata from the University o… [+3043 chars]"
+      "title": "Science, Innovation, and Xenotransplantation: A Discussion with Dr. Wenning Qin - News-Medical.Net",
+      "description": "In this interview, we delve deep into the pioneering world of xenotransplantation and the evolving landscape of gene editing.",
+      "url": "https://www.news-medical.net/news/20231102/Science-Innovation-and-Xenotransplantation-A-Discussion-with-Dr-Wenning-Qin.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763385_16989311577053990.jpg",
+      "publishedAt": "2023-11-02T16:13:00Z",
+      "content": "In this interview, we delve deep into the pioneering world of xenotransplantation and the evolving landscape of gene editing, with Dr. Wenning Qin, SVP, Innovation &amp; Process Development at eGenes… [+12197 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AuntMinnie"
+        "name": "NDTV News"
       },
-      "author": "Kate Madden Yee",
-      "title": "CT radiomics help characterize retroperitoneal sarcomas - AuntMinnie",
-      "description": "CT radiomics can help clinicians predict the histological type and grade of retroperitoneal sarcomas, a recently published study has found.",
-      "url": "https://www.auntminnie.com/imaging-informatics/advanced-visualization/article/15637714/ct-radiomics-help-characterize-retroperitoneal-sarcomas",
-      "urlToImage": "https://img.auntminnie.com/files/base/smg/all/image/2023/11/Sarcoma.6542898e1f220.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-      "publishedAt": "2023-11-02T07:19:45Z",
-      "content": "CT radiomics can help clinicians predict the histological type and grade of retroperitoneal sarcomas, a study published in the November issue of The Lancet Oncology has found.\r\nThe results could have… [+3245 chars]"
+      "author": null,
+      "title": "10 Foods You Must Incorporate Into Your Dinner Daily For Better Overall Health - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-11-02T16:04:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thoracic.org"
+      },
+      "author": null,
+      "title": "ATS Quick Hits - American Thoracic Society",
+      "description": "American Thoracic Society",
+      "url": "https://www.thoracic.org/professionals/clinical-resources/quick-hits/blood-in-the-pleural-cavity.php",
+      "urlToImage": "/_files/images/logo/ats_lockup_horz_full_rgb.png",
+      "publishedAt": "2023-11-02T15:49:18Z",
+      "content": "Blood in the Pleural Cavity\r\nPrawin Kumar MD1, Nikhil Rajvanshi MD1, Kirtikumar J Rathod MCh2, Taruna Yadav MD3, Jagdish Prasad Goyal MD1,  Pramod Sharma MD4\r\n1Department of Pediatric, AIIMS Jodhpur,… [+6708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthday.com"
+      },
+      "author": "Elana Gotkine, Mark Arredondo, M.D.",
+      "title": "Socioeconomic Disparities Identified in Thrombolysis and Thrombectomy Use - HealthDay",
+      "description": "THURSDAY, Nov. 2, 2023 (HealthDay News) -- There are socioeconomic disparities in use of thrombolysis or thrombectomy for acute ischemic stroke in Canada, accor",
+      "url": "https://www.healthday.com/healthpro-news/socioeconomic-disparities-idd-in-thrombolysis-thrombectomy-use",
+      "urlToImage": "https://gumlet.assettype.com/healthday%2Fimport%2F28182412%2Forigin.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-11-02T15:30:02Z",
+      "content": "THURSDAY, Nov. 2, 2023 (HealthDay News) -- There are socioeconomic disparities in use of thrombolysis or thrombectomy for acute ischemic stroke in Canada, according to a study published online Nov. 1… [+1631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gavi.org"
+      },
+      "author": null,
+      "title": "Why we need integrated dengue management to achieve zero deaths - Gavi, the Vaccine Alliance",
+      "description": "Dengue outbreaks are set to become increasingly common as climate change shifts epidemiological trends. We need an integrated approach to tackle them.",
+      "url": "https://www.gavi.org/vaccineswork/why-we-need-integrated-dengue-management-achieve-zero-deaths",
+      "urlToImage": "https://www.gavi.org/sites/default/files/vaccineswork/2023/Header/Mosquito-bite-on-human-skin-373402-pixahive_h1.jpg",
+      "publishedAt": "2023-11-02T15:27:33Z",
+      "content": "In recent years, countries in South and Southeast Asia, including India, Bangladesh, Thailand, Malaysia, Indonesia, Vietnam, Singapore, and the Philippines, have witnessed worse dengue outbreaks than… [+6732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ajmc.com"
+      },
+      "author": "Rose McNulty",
+      "title": "Glucose Fluctuation Linked to Slowed Nerve Conduction Velocity in Youth With T1D - AJMC.com Managed Markets Network",
+      "description": "High glucose variability in children and young adults with type 1 diabetes (T1D) \nstrongly predicted slowed nerve conduction velocity, a forerunner of diabetic peripheral neuropathy, in a recent study.",
+      "url": "https://www.ajmc.com/view/glucose-fluctuation-linked-to-slowed-nerve-conduction-velocity-in-youth-with-t1d",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/ajmc/cb66069ee52ac863654748ffb15d8f4a6b2bf0e6-1280x853.jpg?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T15:25:23Z",
+      "content": "Glucose variability, especially the standard deviation (SD) of mean glucose, was strongly predictive of reduced nerve conduction velocity (NCV) in children and young adults with type 1 diabetes (T1D)… [+3452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "World Health Organization"
+      },
+      "author": null,
+      "title": "Adolescent and Family Planning Commitments and Method Mix in West Africa - Partnership for Maternal, Newborn and Child Health",
+      "description": "By FP2030Adolescent and youth family planning is a critical component of public health and development in West Africa. Ensuring that young people have unfettered access to an extensive range of reproductive health services is paramount for their well-being an…",
+      "url": "https://pmnch.who.int/news-and-events/events/item/2023/11/09/default-calendar/adolescent-and-family-planning-commitments-and-method-mix-in-west-africa",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T15:16:14Z",
+      "content": "By FP2030\r\nAdolescent and youth family planning is a critical component of public health and development in West Africa. Ensuring that young people have unfettered access to an extensive range of rep… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "World Health Organization"
+      },
+      "author": "World Health Organization: WHO",
+      "title": "Online survey: Ensuring quality healthcare by promoting dignity, equity and inclusion and reducing HIV-related stigma - World Health Organization",
+      "description": "<p><p>Stigma and discrimination have remained pervasive barriers to effective HIV programming for the 40 years of the HIV epidemic. While progress has been made in addressing stigma and discrimination, challenges remain in ensuring dignity, equity, and inclus…",
+      "url": "https://www.who.int/news/item/03-11-2023-ensuring-quality-healthcare-by-promoting-dignity--equity-and-inclusion-and-reducing-hiv-related-stigma",
+      "urlToImage": "https://www.who.int/images/default-source/departments/hiv/eu15541.tmb-1200v.jpg?Culture=en&sfvrsn=8dc9ed90_4",
+      "publishedAt": "2023-11-02T15:13:42Z",
+      "content": "Stigma and discrimination have remained pervasive barriers to effective HIV programming for the 40 years of the HIV epidemic. While progress has been made in addressing stigma and discrimination, cha… [+2012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Lonely or Alone? Revealing the Fine Line - Neuroscience News",
+      "description": "The study revealed that loneliness creeps in when individuals spend over 75% of their time in solitude.",
+      "url": "https://neurosciencenews.com/lonely-alone-psychology-25140/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/11/loneliness-alone-neurosicnecee.jpg",
+      "publishedAt": "2023-11-02T15:10:00Z",
+      "content": "Summary: Researchers have discerned the nuanced relationship between feeling lonely and actually being alone.\r\nThe study revealed that loneliness creeps in when individuals spend over 75% of their ti… [+7818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurologylive.com"
+      },
+      "author": "Isabella Ciccone, MPH",
+      "title": "Treatment Inequality Issues Identified for Patients With Generalized Myasthenia Gravis - Neurology Live",
+      "description": "In a recent online survey of 150 participating neurologists in the US, 74.7% reported that patients with generalized myasthenia gravis found it difficult to afford their prescribed therapies, and 60.0% noted an increased likelihood of exacerbation or hospital…",
+      "url": "https://www.neurologylive.com/view/treatment-inequality-issues-identified-for-patients-with-generalized-myasthenia-gravis",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/neurolive/105a41ced36bc958fd58b4e6fb4270c5468d483e-300x300.png?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T15:04:50Z",
+      "content": "According to a new survey on neurologists in the United States, patients with generalized myasthenia gravis (gMG) who faced social determinants of health (SODH) challenges experienced health care acc… [+5135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "What happens to your brain as you age - The Economist",
+      "description": "As the most complex organ in your body, your brain changes radically throughout your life. Starting from before birth and continuing even after you've died. ...",
+      "url": "https://www.youtube.com/watch?v=cMim0uU1yzA",
+      "urlToImage": "https://i.ytimg.com/vi/cMim0uU1yzA/maxresdefault.jpg",
+      "publishedAt": "2023-11-02T15:00:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Euronews"
+      },
+      "author": null,
+      "title": "AI algorithm more accurate than radiologists at detecting a rare cancer, study shows - Euronews",
+      "description": "Researchers developed an AI-powered algorithm to grade the aggressiveness of a rare cancer.",
+      "url": "https://www.euronews.com/next/2023/11/02/ai-algorithm-more-accurate-than-radiologists-at-detecting-a-rare-cancer-study-shows",
+      "urlToImage": "https://static.euronews.com/articles/stories/08/01/09/94/1000x563_cmsv2_96876d86-8327-5bfa-b672-3612dc6f24c0-8010994.jpg",
+      "publishedAt": "2023-11-02T14:40:34Z",
+      "content": "Researchers developed an AI-powered algorithm to grade the aggressiveness of a rare cancer.\r\n Artificial intelligence (AI) tools are increasingly being studied to help health professionals with diagn… [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Northwestern.edu"
+      },
+      "author": "<a href=\"https://news.feinberg.northwestern.edu/byline/melissa-rohman/\" rel=\"tag\">Melissa Rohman</a>",
+      "title": "Exploring Transcription Elongation Control in Development, Disease and Aging - News Center - Feinberg News Center",
+      "description": "In a recent article published in Molecular Cell, the laboratory of Ali Shilatifard, PhD, provided a comprehensive overview of the current understanding of the elongation stage of DNA transcription and how its dysregulation is associated with developmental def…",
+      "url": "https://news.feinberg.northwestern.edu/2023/11/02/exploring-transcription-elongation-control-in-development-disease-and-aging/",
+      "urlToImage": "https://news.feinberg.northwestern.edu/wp-content/uploads/2023/11/DNA-transcription_Shilatifard.png",
+      "publishedAt": "2023-11-02T14:39:31Z",
+      "content": "Courtesy of Brianna Monroe. \r\nIn a recent article published in Molecular Cell, Ali Shilatifard, PhD, the Robert Francis Furchgott Professor and chair of Biochemistry and Molecular Genetics, and Yuki … [+3002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daijiworld.com"
+      },
+      "author": null,
+      "title": "New super melanin cream to heal your skin from chemical, sunburn - Daijiworld.com",
+      "description": "New York, Nov 2 (IANS): Scientists have developed a synthetic, biomimetic melanin cream that heals damage occurring throughout the day when your skin is exposed to sunlight or environmental toxins.\r\nIn the new study, the scientists at Northwestern University …",
+      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1136289",
+      "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+      "publishedAt": "2023-11-02T14:35:01Z",
+      "content": "New York, Nov 2 (IANS): Scientists have developed a synthetic, biomimetic melanin cream that heals damage occurring throughout the day when your skin is exposed to sunlight or environmental toxins.\r\n… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "INSIDER"
+      },
+      "author": "Kim Schewitz, Kelsey Vlamis",
+      "title": "27 Foods To Help Poop, Relieve Constipation Without Laxatives - Insider",
+      "description": "High-fiber foods including beans and kiwis will help you poop without laxatives if you're dealing with constipation.",
+      "url": "https://www.insider.com/food-to-help-poop-relieve-constipation-without-laxatives-2023-10",
+      "urlToImage": "https://i.insider.com/6543b0dd36d588dc55c923ad?width=1200&format=jpeg",
+      "publishedAt": "2023-11-02T14:29:00Z",
+      "content": "Following a shortage of laxatives\r\n caused by soaring demand, experts say some foods can be just as effective at relieving constipationover time. \r\nA combination of factors including an aging populat… [+3617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "thecsrjournal"
+      },
+      "author": "The CSR Journal",
+      "title": "CSR Support Extended to provide strategic technical assistance to the Public Health Department of Maharashtra on Malaria Elimination and Dengue & Chikungunya prevention - thecsrjournal",
+      "description": "Godrej Consumer Products Limited (GCPL), a leading emerging markets company, along with the Centre for Health Research and Innovation (CHRI-PATH) …",
+      "url": "https://thecsrjournal.in/corporate-social-responsibility-csr-news-godrej-consumer-products-limited-gcpl-to-provide-strategic-technical-assistance-to-the-public-health-department-of-maharashtra-on-malaria-elimination-and-dengu/",
+      "urlToImage": "https://thecsrjournal.in/wp-content/uploads/2023/11/Godrej-Consumer-Products-Limited-CSR.jpg",
+      "publishedAt": "2023-11-02T14:26:38Z",
+      "content": "The event emphasised the collective commitment and solidarity of all parties involved in the mission to eliminate Malaria and control Dengue and Chikungunya.Dr. Sarnikar (Joint Director Health) from … [+598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "INDIATODAY",
+      "title": "Benefits of eating pears for glowing skin - India Today",
+      "description": "The pear is a juicy green fruit that is abundant throughout winter in India. Here are some benefits of including it in your daily diet for glowing skin.",
+      "url": "https://www.indiatoday.in/visualstories/wellness/benefits-of-eating-pear-for-skin-73875-02-11-2023",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/11/pexels-stella-schafer-2095571-scaled_1200_675.jpg",
+      "publishedAt": "2023-11-02T14:25:53Z",
+      "content": "Pears are a treasure trove of antioxidants like vitamin C, glutathione, and arbutin. These antioxidants help lighten hyperpigmentation."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cancertherapyadvisor.com"
+      },
+      "author": "Julie Ehlers",
+      "title": "AI Platform Predicts Cancer Risk, Tumor Origin With High Accuracy - Cancer Therapy Advisor",
+      "description": "An AI platform called C the Signs can accurately identify patients at risk of cancer, a large study suggests.",
+      "url": "https://www.cancertherapyadvisor.com/home/news/conference-coverage/american-society-of-clinical-oncology-asco/asco-quality-care-symposium-2023/ai-platform-predicts-cancer-risk-tumor-origin/",
+      "urlToImage": "https://www.cancertherapyadvisor.com/wp-content/uploads/sites/12/2023/10/AI-medical-technology_G_1489956013.jpg",
+      "publishedAt": "2023-11-02T14:15:00Z",
+      "content": "Publish Date\r\nNovember 2, 2023\r\nAn artificial intelligence (AI) platform called C the Signs can accurately identify patients at risk of cancer, according to research presented at the ASCO Quality Car… [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Lung Cancer Awareness - FOX59 News",
+      "description": "The month of November Lung cancer awareness.It's dedicated to sharing the importance of getting your lungs scanned.IU oncologist, Dr. Greg Durm share insight...",
+      "url": "https://www.youtube.com/watch?v=dmkeu4D1zwg",
+      "urlToImage": "https://i.ytimg.com/vi/dmkeu4D1zwg/maxresdefault.jpg",
+      "publishedAt": "2023-11-02T14:12:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReliefWeb"
+      },
+      "author": null,
+      "title": "Nigeria, Africa | Diphtheria Outbreak - Emergency Appeal Operational Strategy (MDRNG037) - Nigeria - ReliefWeb",
+      "description": "Situation Report in English on Nigeria about Coordination, Health, Epidemic and more; published on 2 Nov 2023 by IFRC",
+      "url": "https://reliefweb.int/report/nigeria/nigeria-africa-diphtheria-outbreak-emergency-appeal-operational-strategy-mdrng037",
+      "urlToImage": "https://reliefweb.int/sites/default/files/styles/large/public/previews/89/1f/891f45a8-f46b-4187-b892-2bcdf4ce777e.png",
+      "publishedAt": "2023-11-02T13:46:59Z",
+      "content": "Timeline\r\nMarch 2023: IFRC allocates Disaster Response Emergency Funds (DREF) for 355,654 CHF to take early action to contain the outbreak.\r\nJuly 2023: IFRC approves a second DREF allocation for 75,0… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Contemporaryobgyn.net"
+      },
+      "author": "Vincent Lucente, MD, MBA, Jennifer Tymon, MD, Rafael Marquez, MD",
+      "title": "Novel devices for management of pelvic organ prolapse - Contemporary Obgyn",
+      "description": "The pivot to patient safety.",
+      "url": "https://www.contemporaryobgyn.net/view/novel-devices-for-management-of-pelvic-organ-prolapse",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/contobgyn/ad1c9ff1051bf094071e13ad3ff5b169b4f3df6e-720x414.png?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T13:34:52Z",
+      "content": "Over the past several years, there has been an increase in the focus on, if not priority of, patient safety. Hospitals now promote a mantra of a culture of safety, employ safety officers, and have or… [+15538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Beat the Clock, Beat Diabetes: How Breakfast Timing Influences Your Risk - SciTechDaily",
+      "description": "A study that followed more than 100,000 participants for seven years suggests eating breakfast after 9 a.m. increases type 2 diabetes risk by 59%, highlighting the importance of meal timing in disease prevention. Eating breakfast after 9 a.m. increases the ri…",
+      "url": "https://scitechdaily.com/beat-the-clock-beat-diabetes-how-breakfast-timing-influences-your-risk/",
+      "urlToImage": "https://scitechdaily.com/images/Breakfast-Morning-Art-Concept.jpg",
+      "publishedAt": "2023-11-02T13:19:39Z",
+      "content": "ByBarcelona Institute for Global Health (ISGlobal)November 2, 2023\r\nResearch suggests that eating breakfast after 9 a.m. can significantly increase the risk of developing type 2 diabetes compared to … [+4651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "Dr. Keith Roach",
+      "title": "Dear Doctor: Is it true vaccines reduce the body’s resistance to other viruses? - OregonLive",
+      "description": "The body's immune system is able to fight off multiple infections or respond to multiple vaccines at once.",
+      "url": "https://www.oregonlive.com/advice/2023/11/dear-doctor-is-it-true-vaccines-reduce-the-bodys-resistance-to-other-viruses.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/2FPEEZ_Lax0gzZFGrBv-kURVf60=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg",
+      "publishedAt": "2023-11-02T13:13:00Z",
+      "content": "DEAR DR. ROACH: A person who works in the medical field told me that she is against vaccinations. The reason she gave is that when you put a specific vaccine into your body, your resistance to any ot… [+3104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "New Map Shows How Our Neurons Communicate - Neuroscience News",
+      "description": "This breakthrough could offer pathways to better treatments and understanding of diseases like Alzheimer's.",
+      "url": "https://neurosciencenews.com/neuron-mapping-neuotech-25139/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/11/brain-mapping-neurons-neuroscience.jpg",
+      "publishedAt": "2023-11-02T13:02:15Z",
+      "content": "Summary: Researchers from Cleveland Clinic and OHSU have unveiled a pioneering technique for charting the intricate conversations occurring within our brains. Such insights are key to decoding behavi… [+5560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurologylive.com"
+      },
+      "author": "Bruce Hughes, MD, Robert Naismith, MD",
+      "title": "Disease Progression in Multiple Sclerosis (MS): Overview of Relapse-associated Worsening (RAW) and Progression Independent of Relapse Activity (PIRA) - Neurology Live",
+      "description": "Dr Robert Naismith describes changes in the understanding of acquired disability in Multiple Sclerosis (MS) over the years, with a particular focus on relapse-associated worsening (RAW) and progression independent of relapse activity (PIRRA).",
+      "url": "https://www.neurologylive.com/view/disease-progression-in-multiple-sclerosis-ms-overview-of-relapse-associated-worsening-raw-and-progression-independent-of-relapse-activity-pira-",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/neurolive/56744a960e4aa6a13ac3c78ddc7534b5441100aa-1920x1080.jpg?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T12:58:04Z",
+      "content": "Bruce Hughes, MD: Hello, and thank you for joining this Neurology Live Peers &amp; Perspectives presentation titled, Disability Progression and Maintenance of Cognitive Function in Multiple Sclerosis… [+4141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slurrp.com"
+      },
+      "author": "Niveditha Kalyanaraman",
+      "title": "Black Coffee: 6 Benefits Of A Milk Free Energy Beverage - Slurrp",
+      "description": "Black Coffee: 6 Benefits Of A Milk Free Energy Beverage",
+      "url": "https://www.slurrp.com/web-stories/improved-memory-to-healthy-stomach-6-benefits-of-black-coffee/",
+      "urlToImage": "https://images.slurrp.com/webstories/wp-content/uploads/2023/11/02180654/cropped-pexels-olga-mironova-2659387-scaled-1.jpg",
+      "publishedAt": "2023-11-02T12:37:02Z",
+      "content": "Black coffee is simply coffee that is normally brewed without the addition of additives such as sugar, milk, cream, or added flavors. While it has a slightly bitter taste compared to when it is flavo… [+184 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "9 foods that promote healthy growth and development - Times of India",
+      "description": "Healthy food is essential for growth and development. It provides vital nutrients, including proteins, vitamins, and minerals, necessary for the body's functions. Proper nutrition supports physical growth, cognitive development, and overall well-being, ensuri…",
+      "url": "https://timesofindia.indiatimes.com/videos/lifestyle/health-fitness/9-foods-that-promote-healthy-growth-and-development/videoshow/104895477.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104895477,imgsize-144530.cms",
+      "publishedAt": "2023-11-02T12:30:00Z",
+      "content": "Nov 02, 2023, 06:00PM ISTSource: TIMESOFINDIA.COMHealthy food is essential for growth and development. It provides vital nutrients, including proteins, vitamins, and minerals, necessary for the body'… [+229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Patientcareonline.com"
+      },
+      "author": "Grace Halsey",
+      "title": "Post-ED Discharge Follow-up Visit for Acute Bronchiolitis Linked to Subsequent Hospital Admission - Patient Care Online",
+      "description": "Infants who attended a recommended follow-up clinic visit after being seen in an ED were also slightly more likely to receive medications outside of guideline recommendations.",
+      "url": "https://www.patientcareonline.com/view/post-ed-discharge-follow-up-visit-for-acute-bronchiolitis-linked-to-subsequent-hospital-admission",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/patientcare/c088f5e481ec086641f031b5e6622ca4ecb4558f-891x599.jpg?fit=crop&auto=format",
+      "publishedAt": "2023-11-02T12:29:54Z",
+      "content": "Among a large cohort of commercially insured children aged less than 2 years with an emergency department (ED) visit for acute bronchiolitis, approximately half completed a follow-up visit within 7 d… [+4669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Cancer trial results show power of weaponized antibodies - Nature.com",
+      "description": "Tumour-targeting antibodies coupled with toxic chemicals are an unprecedented success in treating bladder cancer.",
+      "url": "https://www.nature.com/articles/d41586-023-03421-8",
+      "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03421-8/d41586-023-03421-8_26249598.jpg",
+      "publishedAt": "2023-11-02T12:27:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WDIV ClickOnDetroit"
+      },
+      "author": "Frank McGeorge, MD, Hank Winchester",
+      "title": "Shop with Dr. McGeorge: What to buy for colds, pain and other things at the pharmacy - WDIV ClickOnDetroit",
+      "description": "If you’ve walked into any pharmacy, you’ve been greeted by an insane choice of combination cold remedies.",
+      "url": "https://www.clickondetroit.com/health/2023/11/02/shop-with-dr-mcgeorge-what-to-buy-for-colds-pain-and-other-things-at-the-pharmacy/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/11-01-2023/t_4f10f65098ae47398648fb127f5d7cf8_name_image.jpg?_a=ATAPphC0",
+      "publishedAt": "2023-11-02T12:16:59Z",
+      "content": "DETROIT If youve walked into any pharmacy, youve been greeted by an insane choice of combination cold remedies. With a variety of labels like cold and flu, night-time, cough and sinus, extra strength… [+4436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Drug Target Review"
+      },
+      "author": null,
+      "title": "New understanding of early breast cancer development - Drug Target Review",
+      "description": "Mammary organoid cultures show the effects of BRCA2 mutations on breast tissue cells, increasing the likelihood of early, targeted treatment.",
+      "url": "https://www.drugtargetreview.com/news/112405/new-understanding-of-early-breast-cancer-development/",
+      "urlToImage": "https://www.drugtargetreview.com/wp-content/uploads/Low-Res_breast_cancer_organoids.jpeg.png",
+      "publishedAt": "2023-11-02T12:01:32Z",
+      "content": "Posted: 2 November 2023 | Drug Target Review | No comments yet\r\nMammary organoid cultures show the effects of BRCA2 mutations on breast tissue cells, increasing the likelihood of early, targeted trea… [+3280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newschecker.in"
+      },
+      "author": "Kushel HM, Pankaj Menon",
+      "title": "Fact Check: Treatment Against Covid Vaccine? No, Viral Video Of Australian News Report Is Clipped - Newschecker",
+      "description": "A news report states that “An Australian biotech company has developed a new treatment it hopes will prevent people dying from Covid vaccines.”",
+      "url": "https://newschecker.in/fact-check/treatment-against-covid-vaccine-no-viral-video-of-australian-news-report-is-clipped/",
+      "urlToImage": "https://newschecker.in/wp-content/uploads/2023/11/Kushel-One-Rating-Article-Thumbnails-New-Brand-3.jpg",
+      "publishedAt": "2023-11-02T12:00:07Z",
+      "content": "A news report states that An Australian biotech company has developed a new treatment it hopes will prevent people dying from Covid vaccines.\r\nFrom Gab\r\nAn Australian biotech company has developed a … [+2345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Influence of healthy lifestyle habits on chronic disorders - News-Medical.Net",
+      "description": "The health benefits of regular exercise, a healthy diet, and adequate sleep.",
+      "url": "https://www.news-medical.net/news/20231102/Influence-of-healthy-lifestyle-habits-on-chronic-disorders.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763372_16989263228934452.jpg",
+      "publishedAt": "2023-11-02T11:59:00Z",
+      "content": "In a recent editorial published in Nutrients, researchers described the health benefits of regular exercise, a healthy diet, and adequate sleep.\r\nStudy: Effects of Healthy Lifestyles on Chronic Disea… [+5762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biomedcentral.com"
+      },
+      "author": null,
+      "title": "“It's already in your body and it's preventing”: a qualitative study of African female adolescent's acceptability and preferences for proxy HIV prevention methods in Cape Town, South Africa - BMC Public Health - BMC Public Health",
+      "description": "Background Advances in biomedical HIV prevention will soon offer young women a choice of HIV prevention methods, including various pre-exposure prophylaxis (PrEP) modalities such as daily oral pills, dapivirine vaginal ring, and long-acting injectable agents.…",
+      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-16955-3",
+      "urlToImage": "https://media.springernature.com/w200/springer-static/cover/journal/12889.jpg",
+      "publishedAt": "2023-11-02T11:51:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raillynews.com"
+      },
+      "author": "leventelmastas",
+      "title": "What can be done to protect against flu during the winter season? - RaillyNews",
+      "description": "What can be done to protect against flu during the winter season? - Member of the Turkish National Allergy and Clinical Immunology Association, Assoc. Dr. İlknur Külhaş Çelik against the flu that spreads rapidly in winter, especially in schools",
+      "url": "https://www.raillynews.com/2023/11/What-can-be-done-to-protect-against-flu-in-winter%3F/",
+      "urlToImage": "https://rayhaber.com/wp-content/uploads/2023/11/Kis-Mevsiminde-Gripten-Korunmak-Icin-Neler-Yapilabilir.jpg",
+      "publishedAt": "2023-11-02T11:39:12Z",
+      "content": "What Can Be Done to Prevent Flu During Winter?\r\n02/11/2023 13:41 \r\nMember of the Turkish National Allergy and Clinical Immunology Association, Assoc. Dr. lknur Külha Çelik answered the curious questi… [+1755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Korin Miller",
+      "title": "What Is JN.1? Experts Explain the Latest COVID Variant - Prevention Magazine",
+      "description": "It’s getting a lot of buzz, for starters.",
+      "url": "https://www.prevention.com/health/health-conditions/a45710275/jn-1-new-covid-variant/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/coronavirus-3d-render-royalty-free-image-1698849627.jpg?crop=1xw:0.74982xh;center,top&resize=1200:*",
+      "publishedAt": "2023-11-02T11:34:41Z",
+      "content": "<ul><li>A new COVID-19 variant has been detected in the U.S.</li><li>JN.1 is causing a growing number of cases around the world. </li><li>There are concerns that the variant is very infectious.</li><… [+5106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India TV News"
+      },
+      "author": "Written by Kristina Das",
+      "title": "Fertility Day 2023: The influence of stress on women’s fertility - India TV News",
+      "description": "The influence of stress on fertility has been a topic of interest among researchers and healthcare professionals. Stress can have a significant impact on both male and female fertility, causing a decrease in the chances of conception.",
+      "url": "https://www.indiatvnews.com/lifestyle/news/fertility-day-2023-the-influence-of-stress-on-women-s-fertility-2023-11-02-900853",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/11/fertility-day-1698923881.jpg",
+      "publishedAt": "2023-11-02T11:30:47Z",
+      "content": "In todays life, we all spend most of our time alone, on social media, in the office to work, or completing household chores. There are many reasons to consider behind the fact that lifestyle choices … [+2700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Timesofindia.com"
+      },
+      "author": "Kritika Pushkarna",
+      "title": "10 benefits of water chestnuts (singhara) and 5 easy exotic recipes - Recipes",
+      "description": "Popularly known as Singhara in India, water chestnut has a subtle sweetness and is loaded with nutrients, which offer a range of health benefits. Here are a few benefits this delicious fruit offers, but before that, here are the nutrients it contains.",
+      "url": "https://recipes.timesofindia.com/web-stories/10-benefits-of-water-chestnuts-singhara-and-5-easy-exotic-recipes/photostory/104915877.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104915911,imgsize-99018,width-900,height-1200,resizemode-6/104915911.jpg",
+      "publishedAt": "2023-11-02T11:30:00Z",
+      "content": "Popularly known as Singhara in India, water chestnut has a subtle sweetness and is loaded with nutrients, which offer a range of health benefits. Here are a few benefits this delicious fruit offers, … [+51 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": null,
+      "title": "How a new fingertip blood test could make tuberculosis diagnosis easier - Mint Lounge",
+      "description": "Researchers have developed a new blood test which will make tuberculosis diagnosis in children easier and faster",
+      "url": "https://lifestyle.livemint.com/health/wellness/fingertip-blood-test-tuberculosis-diagnosis-111698922091285.html",
+      "urlToImage": "https://images.livemint.com/img/2023/11/02/1140x641/blood_test_1698922424161_1698922424480.jpg",
+      "publishedAt": "2023-11-02T11:21:32Z",
+      "content": "Tuberculosis is a preventable disease and yet, globally, over 600 children under the age of 15 die from it every day, according to the World Health Organization. As a global health burden, tuberculos… [+2082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Whole brain network effects of subcallosal cingulate deep brain stimulation for treatment-resistant depression | Molecular Psychiatry - Nature.com",
+      "description": "Molecular Psychiatry - Whole brain network effects of subcallosal cingulate deep brain stimulation for treatment-resistant depression",
+      "url": "https://www.nature.com/articles/s41380-023-02306-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41380-023-02306-6/MediaObjects/41380_2023_2306_Fig1_HTML.png",
+      "publishedAt": "2023-11-02T11:16:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indiatodayne.in"
+      },
+      "author": "INDIATODAYNE",
+      "title": "5 Health benefits of eating fish - India Today NE",
+      "description": "The vitamin B12 found in fish is crucial for the growth of healthy red blood cells, DNA reproduction, and nerve function.",
+      "url": "https://www.indiatodayne.in/visualstories/webstories/5-health-benefits-of-eating-fish-73813-02-11-2023",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/11/5-Health-benefits-of-eating-fish.jpg?size=*:900",
+      "publishedAt": "2023-11-02T11:16:16Z",
+      "content": "Fish are a great source of protein, which is critical to maintaining healthy muscles, organs, and blood vessels."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee LaMotte",
+      "title": "Sweet spot for HRT may reduce dementia risk by nearly a third, study says - CNN",
+      "description": "Taking hormone replacement at the right time in midlife reduces the risk of dementia and Alzheimer’s disease by 23% to 32%, a new meta-analysis found.",
+      "url": "https://www.cnn.com/2023/11/02/health/hormone-replacement-dementia-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231031132947-hormone-therapy-replacemnt-patch-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-02T11:12:00Z",
+      "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nHormone replacement therapy … [+7541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Express"
+      },
+      "author": "Sushmita Panda",
+      "title": "All you need to know about Dengue Encephalitis - The Financial Express",
+      "description": "There is no specific antiviral medication for dengue encephalitis.",
+      "url": "https://www.financialexpress.com/web-stories/healthcare/all-you-need-to-know-about-dengue-encephalitis/",
+      "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2023/11/ZV-6.jpg?w=640",
+      "publishedAt": "2023-11-02T10:56:29Z",
+      "content": "Nov 02, 2023\r\nSushmita Panda\r\nTwo cases of an extremely rare form of dengueDengue Encephalitishave been reported in Telanganas Hyderabad.\r\nOut of the two cases, one patient succumbed within hours, an… [+595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Daeshiho-tang attenuates inflammatory response and oxidative stress in LPS-stimulated macrophages by regulating TLR4/MyD88, NF-κB, MAPK, and Nrf2/HO-1 pathways | Scientific Reports - Nature.com",
+      "description": "Scientific Reports - Daeshiho-tang attenuates inflammatory response and oxidative stress in LPS-stimulated macrophages by regulating TLR4/MyD88, NF-κB, MAPK, and Nrf2/HO-1 pathways",
+      "url": "https://www.nature.com/articles/s41598-023-46033-y",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-46033-y/MediaObjects/41598_2023_46033_Fig1_HTML.png",
+      "publishedAt": "2023-11-02T10:38:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mumbailive.com"
+      },
+      "author": null,
+      "title": "Paediatric Cancer Patients to Benefit from Proton Therapy at Tata Memorial Hospital - Mumbai Live",
+      "description": "The Advanced Centre for Treatment Research and Education in Cancer ACTREC at Tata Memorial Hospital TMH in Kharghar Navi Mumbai will start treating paediatric cancer patients with proton therapy by the end of this year Proton therapy is a type of radiation tr…",
+      "url": "https://www.mumbailive.com/en/health/paediatric-cancer-patients-to-benefit-from-proton-therapy-at-tata-memorial-hospital-81590",
+      "urlToImage": "https://www.mumbailive.com/images/media/images/images_1580799225762_Tata_Memorial_Hospital.jpg?bg=908e8c&crop=587.8125%2C330%2C0%2C0&fit=crop&fitToScale=h%2C1368%2C768&fm=webp&h=606.3157894736842&height=330&w=1080&width=620",
+      "publishedAt": "2023-11-02T10:35:39Z",
+      "content": "The Advanced Centre for Treatment, Research, and Education in Cancer (ACTREC) at Tata Memorial Hospital (TMH) in Kharghar, Navi Mumbai, will start treating paediatric cancer patients with proton ther… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Not just sugar, adding salt to your meals could also lead to diabetes - IndiaTimes",
+      "description": "Frequent use of added salt to your meals can increase the risk of Type 2 diabetes and obesity, according to a Tulane University study. More than 400,000 UK adults were surveyed, revealing a 39% higher diabetes risk for those who always added salt. High sodium…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/not-just-sugar-adding-salt-to-your-meals-could-also-lead-to-diabetes/photostory/104915076.cms",
+      "urlToImage": "https://static.toiimg.com/photo/104915118.cms",
+      "publishedAt": "2023-11-02T10:30:00Z",
+      "content": "There are several processed foods we consume on a daily basis, that are loaded with salt, and we are not aware. These include fast foods like pizza, breads, rolls, biscuits, packaged mixes, and canne… [+397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biomedcentral.com"
+      },
+      "author": null,
+      "title": "Triglyceride glucose-waist circumference: the optimum index to screen nonalcoholic fatty liver disease in non-obese adults - BMC Gastroenterology - BMC Gastroenterology",
+      "description": "Background Non-alcoholic fatty liver disease (NAFLD) is easily neglected in the non-obese population. TyG index (triglyceride glucose Index) and TG/HDL-c (triglyceride to high-density lipoprotein cholesterol) are new indicators to evaluate insulin resistance …",
+      "url": "https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-023-03007-8",
+      "urlToImage": "https://media.springernature.com/w200/springer-static/cover/journal/12876.jpg",
+      "publishedAt": "2023-11-02T10:10:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Science X",
+      "title": "'Super melanin' heals skin injuries from sunburn, chemical burns - Medical Xpress",
+      "description": "Imagine a skin cream that heals damage occurring throughout the day when your skin is exposed to sunlight or environmental toxins. That's the potential of a synthetic, biomimetic melanin developed by scientists at Northwestern University.",
+      "url": "https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/super-melanin-heals-sk-1.jpg",
+      "publishedAt": "2023-11-02T10:00:01Z",
+      "content": "Imagine a skin cream that heals damage occurring throughout the day when your skin is exposed to sunlight or environmental toxins. That's the potential of a synthetic, biomimetic melanin developed by… [+7430 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Punekarnews.in"
+      },
+      "author": "Rahul Dolare",
+      "title": "Pune: 229 Dengue Patients Identified in Pimpri-Chinchwad in the Last Four Months - Punekar News",
+      "description": "Pune, 2nd November 2023: In the month of October, Pimpri-Chinchwad city witnessed a concerning surge in dengue cases, with as many as 81 patients identified. This marks a significant increase in the number of dengue patients for the first time in the past fou…",
+      "url": "https://www.punekarnews.in/pune-229-dengue-patients-identified-in-pimpri-chinchwad-in-the-last-four-months/",
+      "urlToImage": "https://www.punekarnews.in/wp-content/uploads/2022/07/Dengue-Cases-In-Pune.jpeg",
+      "publishedAt": "2023-11-02T09:59:31Z",
+      "content": "Pune, 2nd November 2023: In the month of October, Pimpri-Chinchwad city witnessed a concerning surge in dengue cases, with as many as 81 patients identified. This marks a significant increase in the … [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mary Kekatos",
+      "title": "What's the latest to know about COVID, flu vaccines as respiratory virus season begins? - ABC News",
+      "description": "Vaccines lower the risk of severe illness, hospitalization and death.",
+      "url": "https://abcnews.go.com/Health/latest-covid-flu-vaccines-respiratory-virus-season-begins/story?id=104538882",
+      "urlToImage": "https://i.abcnewsfe.com/a/dddd3dc4-4752-4025-a7d6-40d33f8323d5/covid-2-gty-er-231005_1696535355202_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-11-02T09:12:36Z",
+      "content": "As the United States heads into the cold-weather months, respiratory virus season has also arrived, with cases of influenza and COVID-19 likely to increase.\r\nThe Centers for Disease Control and Preve… [+5835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DNA India"
+      },
+      "author": "Ritik Raj",
+      "title": "7 heart-friendly drinks to kickstart your day - DNA India",
+      "description": "These drinks will help you maintain a healthy heart and reduce your cholesterol levels.",
+      "url": "https://www.dnaindia.com/web-stories/lifestyle/7-heartfriendly-drinks-to-kickstart-your-day-1698915332786",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T09:11:45Z",
+      "content": "Flaxseeds are high in lignans, omega-3 fatty acids, and fibre, which may help lower blood pressure and enhance heart health in general."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "European Pharmaceutical Review"
+      },
+      "author": null,
+      "title": "Antibiotics 'no longer effective' for childhood infections, finds study - European Pharmaceutical Review",
+      "description": "Study highlights ‘alarmingly high’ rates of resistance to commonly prescribed antibiotics for childhood infections in the Asia-Pacific region.",
+      "url": "https://www.europeanpharmaceuticalreview.com/news/188287/antibiotics-no-longer-effective-for-childhood-infections-finds-study/",
+      "urlToImage": "https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Antibiotic-ceftriaxone-scaled.jpg",
+      "publishedAt": "2023-11-02T09:05:30Z",
+      "content": "Posted: 2 November 2023 | Caroline Peachey (European Pharmaceutical Review) | No comments yet\r\nAustralian-led study highlights alarmingly high rates of resistance to commonly-prescribed antibiotics i… [+3276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Researchprofessionalnews.com"
+      },
+      "author": "Munyaradzi Makoni",
+      "title": "NIH announces Alzheimer's research funding for Africa - Research Professional News",
+      "description": "$3m fund will support development and improvement of dementia research infrastructure",
+      "url": "https://www.researchprofessionalnews.com/rr-news-africa-partnerships-2023-11-nih-announces-alzheimer-s-research-funding-for-africa/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T09:01:45Z",
+      "content": "$3m fund will support development and improvement of dementia research infrastructure\r\nThe National Institutes of Health in the United States has announced a US$3 million fund to support the developm… [+1511 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Cervical cancer drug raises survival rate by 30% compared to chemotherapy: ‘Game-changer’ - Fox News",
+      "description": "The prescription medicine TIVDAK is showing positive results for treating cervical cancer after a phase 3 trial. Drs. Brian Slomovitz and Kathleen Moore reveal its efficacy and potential.",
+      "url": "https://www.foxnews.com/health/cervical-cancer-drug-increased-survival-rate-30-percent-chemotherapy-game-changer",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/iStock-1460874812.jpg",
+      "publishedAt": "2023-11-02T09:00:00Z",
+      "content": "Better care for cancer patients may be on the horizon.\r\nA new prescription medicine for treating cervical cancer has been showing positive results in clinical trials.\r\nIn phase 3 global trials, TIVDA… [+5453 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Do you get sleepy at work after having lunch? It may be due to this condition - IndiaTimes",
+      "description": "The post lunch work atmosphere seems to be sleepy and full of tiredness. By understanding the reasons behind post-lunch sleepiness and implementing these tips, you can make the most of your workday and stay sharp, even after a satisfying meal. Read further to…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/do-you-get-sleepy-at-work-after-having-lunch-it-may-be-due-to-this-condition/photostory/104910744.cms",
+      "urlToImage": "https://static.toiimg.com/photo/104910769.cms",
+      "publishedAt": "2023-11-02T08:30:00Z",
+      "content": "While more research is needed to fully understand the relationship between food and daytime sleepiness, certain types of foods have been associated with making you feel drowsy:\r\n1. High-fat foods: Ri… [+650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "WION Desk",
+      "title": "7 Factors on Which Weight Loss Depends - WION",
+      "description": "7 Factors on Which Weight Loss Depends",
+      "url": "https://www.wionews.com/web-stories/trending/7-factors-on-which-weight-loss-depends-1698912409833",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T08:21:32Z",
+      "content": "The types of food you consume matter for weight management. A balanced diet with a focus on whole foods, lean proteins, fruits, and vegetables provides essential nutrients while helping control calor… [+9 chars]"
     },
     {
       "source": {
@@ -56,42 +940,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "THE WEEK"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "PTI",
-      "title": "Covid vaccine does not increase risk of miscarriage: Study - The Week",
-      "description": "Getting a Covid-19 vaccine prior to conceiving does not increase the risk of early or late miscarriage,",
-      "url": "https://www.theweek.in/news/health/2023/11/02/covid-vaccine-does-not-increase-risk-of-miscarriage-study.html",
-      "urlToImage": "https://www.theweek.in/content/dam/week/news/2022/images/2022/10/20/Pfizer-COVID-19-booster-vaccine-ap.jpg",
-      "publishedAt": "2023-11-02T06:11:00Z",
-      "content": "Researchers at the University of Sydney has discovered that drugs commonly used to treat common infections in children and babies are losing their effectiveness in various parts of the world, includi… [+3106 chars]"
+      "author": "TNN",
+      "title": "More young women in Chennai are getting breast cancer - Times of India",
+      "description": "Breast cancer is now affecting more women in their early 30s, with younger women facing more aggressive cancers that are less likely to respond to tre",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/more-young-women-in-city-are-getting-breast-cancer/articleshow/104908185.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104908205,width-1070,height-580,imgsize-1011756,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02T06:31:25Z",
+      "content": "Ranked! Worlds most loved landmarks; Taj Mahal secures 2nd spot"
     },
     {
       "source": {
         "id": null,
-        "name": "Jagran.com"
+        "name": "Tech Explorist"
       },
-      "author": "Prerna Targhotra",
-      "title": "How Pudina Water Helps In High Uric Acid Levels 4 Reasons To Drink It On An Empty Stomach - Jagran English",
-      "description": "Pudina Water For High Uric Acid Levels: Some common causes of high uric acid levels include drinking too much alcohol, too much soda drinks, high blood pressure, genetics, and kidney problems among others.",
-      "url": "https://english.jagran.com/lifestyle/how-pudina-water-helps-in-high-uric-acid-levels-reasons-to-drink-it-on-an-empty-stomach-10111285",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/nov/pudina-water-for-high-uric-acid1698905542643.jpg",
-      "publishedAt": "2023-11-02T06:08:00Z",
-      "content": "Pudina Water For High Uric Acid Levels: Hyperuricemia is a very common health condition which is usually diagnosed after gout or kidney stones cause symptoms. High uric acid levels can be a condition… [+1735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "Christoph Schwaiger",
-      "title": "Amsterdam start-up receives funding to develop revolutionary type 1 diabetes treatment - EURACTIV",
-      "description": "Advanced Microbiome Interventions start-up believes the key to helping type 1 diabetes patients avoid daily in",
-      "url": "https://www.euractiv.com/section/health-consumers/news/amsterdam-start-up-receives-funding-to-develop-revolutionary-type-1-diabetes-treatment/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/11/diabe-800x450.jpg",
-      "publishedAt": "2023-11-02T05:57:43Z",
-      "content": "Advanced Microbiome Interventions (AMI) start-up has received funding to help it research whether the key to helping type 1 diabetes patients avoid regular insulin shots lies within the body’s microo… [+4880 chars]"
+      "author": "Amit Malewar",
+      "title": "Scientists reveal what happens when we pass out - Tech Explorist",
+      "description": "Neurobiologists discover sensory neurons that control fainting.",
+      "url": "https://www.techexplorist.com/scientists-reveal-happens-pass-out/76934/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2023/11/fainting.png",
+      "publishedAt": "2023-11-02T06:03:02Z",
+      "content": "Passing out brief losses of consciousness- whether brought by pain, fear, heat, hyperventilation, or other causes- leads to hospital emergency room visits. However, the mechanisms behind this remain … [+4411 chars]"
     },
     {
       "source": {
@@ -121,16 +992,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Healthpolicy-watch.news"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "https://www.facebook.com/HealthPolicyWatch",
-      "title": "New Gonorrhoea Treatment Shows Positive Results In Trial Sponsored By Non-Profit Partnership - Health Policy Watch",
-      "description": "The world may soon have a new antibiotic to treat gonorrhoea after a successful phase 3 trial of an oral pill, zoliflodacin, that was led and sponsored by a",
-      "url": "https://healthpolicy-watch.news/new-gonorrhoea-treatment-shows-positive-results-in-trial-sponsored-by-non-profit-partnership/",
-      "urlToImage": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2023/11/Manica-Balasegaram-STI-trial-TY-thumb.webp",
-      "publishedAt": "2023-11-02T04:00:26Z",
-      "content": "GARDP executive director Manica Balasegaram, whose partnership has led the trial.\r\nThe world may soon have a new antibiotic to treat gonorrhoea after a successful phase 3 trial of an oral pill, zolif… [+6858 chars]"
+      "author": null,
+      "title": "Side effects of excessive almond consumption - Times of India",
+      "description": "Excessive almond consumption can lead to weight gain due to their calorie density. High phytic acid content may hinder mineral absorption. Overconsumption of almonds might cause digestive issues like bloating or diarrhea. Moderation is essential to enjoy thei…",
+      "url": "https://timesofindia.indiatimes.com/videos/lifestyle/health-fitness/side-effects-of-excessive-almond-consumption/videoshow/104895442.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104895442,imgsize-74358.cms",
+      "publishedAt": "2023-11-02T04:30:00Z",
+      "content": "Nov 02, 2023, 10:00AM ISTSource: TIMESOFINDIA.COMExcessive almond consumption can lead to weight gain due to their calorie density. High phytic acid content may hinder mineral absorption. Overconsump… [+150 chars]"
     },
     {
       "source": {
@@ -160,120 +1031,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Jagran.com"
-      },
-      "author": "Prerna Targhotra",
-      "title": "5 Effective Tips To Protect Yourself From Dengue Fever - Jagran English",
-      "description": "Dengue Fever: There has been a surge in the bone-breaking fever in different parts of the country. More than 3,000 cases of dengue were reported this year in the National Captial.",
-      "url": "https://english.jagran.com/lifestyle/5-effective-tips-to-protect-yourself-from-dengue-fever-10111250",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/nov/tips-for-protection-against-dengue1698895754502.jpg",
-      "publishedAt": "2023-11-02T03:24:00Z",
-      "content": "Dengue Fever: Different parts of the country are dealing with escalating cases of dengue fever. Dengue is termed as a bone-breaking fever caused by any one of four closely related dengue viruses. It … [+2282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/lifestylestaff/",
-      "title": "Singhara For Weight Loss: How Water Chestnut Helps You Shed Extra Kilos in Winter? - India.com",
-      "description": "Singhara For Weight Loss: A nutrient-dense food, water chestnuts aka singhara are rich in fiber, potassium, manganese, copper, vitamin B6, and riboflavin. It is a low-calorie fruit with negligible amount of fat!",
-      "url": "https://www.india.com/lifestyle/singhara-for-weight-loss-how-water-chestnut-helps-you-shed-extra-kilos-in-winter-6466441/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/11/Singhara.jpg",
-      "publishedAt": "2023-11-02T03:13:02Z",
-      "content": "Singhara For Weight Loss: A nutrient-dense food, water chestnuts aka singhara are rich in fiber, potassium, manganese, copper, vitamin B6, and riboflavin. It is a low-calorie fruit with negligible am… [+2531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dtnext.in"
-      },
-      "author": "ANI",
-      "title": "Researchers develop new antibody against breast cancers - DTNEXT",
-      "description": "With additional research, the antibody could provide a viable therapeutic treatment for the same breast tumours.",
-      "url": "https://www.dtnext.in/lifestyle/wellbeing/researchers-develop-new-antibody-against-breast-cancers-745625",
-      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/09/08/763046-researches.jpg",
-      "publishedAt": "2023-11-02T03:00:38Z",
-      "content": "NEW YORK: An antibody developed in the lab of Cold Spring Harbour Laboratory Professor Nicholas Tonks can inhibit an enzyme that may aid in the spread of some breast tumours. \r\nWith additional resear… [+2241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cureus.com"
-      },
-      "author": null,
-      "title": "Oral Cancer Hazards Related to Tobacco Use and a Transtheoretical Model Assessment of Preparedness of Individuals With Oral Potentially Malignant Disorders to Quit Tobacco Use - Cureus",
-      "description": "Objectives\r\n\r\nThere is a lack of knowledge on oral cancer and oral potentially malignant disorders (OPMDs) among the local communities of Northeast India. Since the habit of tobacco is linked to the culture and oral cancer is a widespread epidemic here, it is…",
-      "url": "https://www.cureus.com/articles/200899-oral-cancer-hazards-related-to-tobacco-use-and-a-transtheoretical-model-assessment-of-preparedness-of-individuals-with-oral-potentially-malignant-disorders-to-quit-tobacco-use",
-      "urlToImage": "https://assets.cureus.com/uploads/figure/file/796760/article_river_5bd34160781211ee84d639bac5bc912e-F_1.png",
-      "publishedAt": "2023-11-02T02:37:52Z",
-      "content": "Enter your email address to receive your free PDF download.\r\nPlease note that by doing so you agree to be added to our monthly email newsletter distribution list."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "First mice engineered to survive COVID-19 like young, healthy humans - Science Daily",
-      "description": "Researchers have genetically engineered the first mice that get a human-like form of COVID-19, according to a new study.",
-      "url": "https://www.sciencedaily.com/releases/2023/11/231101180522.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-11-02T02:32:12Z",
-      "content": "Researchers have genetically engineered the first mice that get a human-like form of COVID-19, according to a study published online November 1in Nature.Led by researchers from NYU Grossman School of… [+5109 chars]"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Sumati Yengkhom",
-      "title": "Hospitals across city see uptick in dengue admissions after puja - Times of India",
-      "description": "After a significant drop in dengue admissions before and during Durga Puja, hospitals in Kolkata are now seeing an increase in patients admitted with",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/hospitals-across-city-see-uptick-in-dengue-admissions-after-puja/articleshow/104901633.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104901641,width-1070,height-580,imgsize-1137605,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T01:53:55Z",
-      "content": "9 signs you have met an angel in human form"
+      "author": "Sheezan Nezami",
+      "title": "423 dengue cases in a single day in state - Times of India",
+      "description": "Bihar has reported the highest single-day dengue cases this year, with 423 new cases on Wednesday. Half of these cases were from the city of Patna alo",
+      "url": "https://timesofindia.indiatimes.com/city/patna/423-dengue-cases-in-a-single-day-in-state/articleshow/104902786.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104902828,width-1070,height-580,imgsize-1319482,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02T02:59:55Z",
+      "content": "10 superfoods to turn white hair into black naturally"
     },
     {
       "source": {
         "id": null,
-        "name": "DNA India"
+        "name": "Mid-day"
       },
-      "author": "Riddhima Kanetkar",
-      "title": "Surprising health benefits of Imli (tamarind) - DNA India",
-      "description": "Surprising health benefits of Imli (tamarind)",
-      "url": "https://www.dnaindia.com/web-stories/lifestyle/surprising-health-benefits-of-imli-tamarind-weight-loss-diabetes-type-2-blood-sugar-levels-immunity-1698889170796",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T01:49:38Z",
-      "content": "Riddhima Kanetkar\r\nTamarind (Imli) is rich in fibre and has no fat content. It helps in weight loss as it contains flavonoids and polyphenols\r\nPolyphenolic compounds found in tamarind (imli) can prev… [+723 chars]"
+      "author": null,
+      "title": "Covid virus targets energy reserves in body: Study - mid-day.com",
+      "description": "Covid virus targets energy reserves in body: Study",
+      "url": "https://www.mid-day.com/lifestyle/health-and-fitness/article/covid-virus-targets-energy-reserves-in-body-study-23317799",
+      "urlToImage": "https://images.mid-day.com/images/images/2023/nov/Corona-aj_d.jpg",
+      "publishedAt": "2023-11-02T02:23:00Z",
+      "content": "The new findings, published in the journal Science Translational Medicine, explains how these effects contribute to long Covid symptoms and point to new therapeutic targets\r\nRepresentation Pic\r\nWhile… [+3309 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Tri-City Herald"
       },
-      "author": "Alex Mitchell",
-      "title": "I'm a dietitian from Spain — here's how to follow the Mediterranean diet in 6 easy steps - New York Post ",
-      "description": "Now, here’s something the Europeans got right.",
-      "url": "https://nypost.com/2023/11/01/lifestyle/6-easy-hacks-for-success-with-the-mediterranean-diet/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/Mediterranean-diet-comp-1.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-11-02T01:35:00Z",
-      "content": "If there’s one thing that the Europeans got right, it’s the Mediterranean Diet.\r\nShared for generations among a range of otherwise quite different countries, the pro-oil, fish, lean protein, and vege… [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Genetic Engineering & Biotechnology News"
-      },
-      "author": "Christina Jackson",
-      "title": "Cancer Drug May Be Repurposed for Inflammatory Diseases - Genetic Engineering & Biotechnology News",
-      "description": "A cancer drug in the final stages of clinical trials may be able to help treat a range of inflammatory diseases.",
-      "url": "https://www.genengnews.com/topics/drug-discovery/cancer-drug-may-be-repurposed-for-inflammatory-diseases/",
-      "urlToImage": "https://www.genengnews.com/wp-content/uploads/2018/08/Apr1_2016_36788637_CancerTarget_StealthNanoparticles19010925511881883814.jpg",
-      "publishedAt": "2023-11-02T01:01:32Z",
-      "content": "A cancer drug in the final stages of clinical trials may be able to help treat a range of inflammatory diseases including gout, heart failure, cardiomyopathy, and atrial fibrillation, according to sc… [+3144 chars]"
+      "author": "Annette Cary",
+      "title": "Rare nerve and brain disease spread by mosquitoes confirmed in Tri-Cities area woman - Tri-City Herald",
+      "description": "A Tri-Cities area woman in Franklin County, Washington, confirmed to have had a rare case of St. Louis encephalitis spread by mosquitoes.",
+      "url": "https://www.tri-cityherald.com/news/local/article281323178.html",
+      "urlToImage": "https://www.mcclatchy-wires.com/incoming/wds5vx/picture278168572/alternates/LANDSCAPE_1140/38e2a5aa-4ad6-48c1-ba9d-2b2bd7f91ae7",
+      "publishedAt": "2023-11-02T01:27:10Z",
+      "content": "Pasco, WAA Franklin County woman has recovered from a rare case of St. Louis encephalitis, a disease transmitted by infected mosquitoes.\r\nShe had symptoms and sought medical care last summer, accordi… [+3083 chars]"
     },
     {
       "source": {
@@ -287,19 +1080,6 @@
       "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/c3cc5e8/2147483647/strip/true/crop/3000x1713+0+181/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FR1ycyTcez__n3_Nr_KUGlrZsogY%3D%2F0x0%3A3000x2074%2F3000x2074%2Ffilters%3Afocal%281500x1037%3A1501x1038%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25050359%2Fmerlin_2905248.jpg",
       "publishedAt": "2023-11-02T00:32:00Z",
       "content": "Masks provide protection from COVID-19, says a new study published by the Journal of the American Medical Association.\r\nMasking in the community to reduce the spread of SARS-CoV-2 (the virus that cau… [+4107 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sridhar Vivan",
-      "title": "Talking point: Matters of the heart post-covid - Bangalore Mirror",
-      "description": "Dr Vikranth Veeranna (Consultant Cardiologist, Sparsh Hospital) said that it is essential to note that a straightforward recovery from covid should not significantly elevate one’s risk during exercis",
-      "url": "https://bangaloremirror.indiatimes.com/bangalore/others/talking-point-matters-of-the-heart-post-covid/articleshow/104897256.cms",
-      "urlToImage": "https://static.toiimg.com/photo/imgsize-179312,msid-104897257/104897257.jpg",
-      "publishedAt": "2023-11-02T00:30:00Z",
-      "content": "City docs stress there are no clear guidelines on when to start exercising after covid; say patients whose lungs were affected during the infection can take it slow and easyUnion Health Minister Mans… [+3208 chars]"
     },
     {
       "source": {
@@ -317,93 +1097,15 @@
     {
       "source": {
         "id": null,
-        "name": "Hcplive.com"
+        "name": "WDAF FOX4 Kansas City"
       },
-      "author": "Connor Iapoce",
-      "title": "John W. Ostrominski, MD: Prevalence of Cardiac-Renal-Metabolic Conditions in United States - MD Magazine",
-      "description": "John W. Ostrominski, MD, describes the prevalence and overlap of cardiac, renal, and metabolic conditions in US adults over a 20-year period.",
-      "url": "https://www.hcplive.com/view/john-w-ostrominski-md-prevalence-cardiac-renal-metabolic-conditions",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/hcplive/64abfb880272714504df0ced71f6ea158e225e2b-300x300.jpg?fit=crop&auto=format",
-      "publishedAt": "2023-11-02T00:03:25Z",
-      "content": "A recent cross-sectional cohort study assessed temporal trends in cardiac, renal, and metabolic condition prevalence and overlap using National Health and Nutrition Examination Survey (NHANES) data b… [+8052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "What happens when we pass out? Researchers ID new brain and heart connections - Science Daily",
-      "description": "Researchers have for the first time identified the genetic pathway between the heart and brain tied to fainting. They found that vagal sensory neurons trigger fainting, laying a foundation for addressing fainting-related disorders.",
-      "url": "https://www.sciencedaily.com/releases/2023/11/231101180641.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-11-01T23:47:38Z",
-      "content": "Nearly 40 percent of people experience syncope, or fainting spells, at least once in their lives. These brief losses of consciousness, whether brought by pain, fear, heat, hyperventilation or other c… [+5038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Adriana Diaz",
-      "title": "Are cellphones leading to male infertility? New study makes shocking call - New York Post ",
-      "description": "Research has repeatedly shown that semen quality has decreased over the last 50 years — yet the role of mobile phones has yet to be determined.",
-      "url": "https://nypost.com/2023/11/01/lifestyle/are-cellphones-leading-to-male-infertility-new-study-makes-shocking-call/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/phone-usage-infertility.gif?w=1024",
-      "publishedAt": "2023-11-01T23:18:00Z",
-      "content": "It’s an iPhone Pro-phylactic.\r\nThe more men use their cell phones, the lower their concetration of sperm, according to an alarming new study.\r\nBut hold the phone, fellas, because hope is on the line … [+3258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Vector-borne diseases a big concern: Joint Director Health - The Indian Express",
-      "description": "Gayatri Divecha, Head of CSR and Sustainability at Godrej Industries Ltd and associate companies said in their vector borne disease control programmes they have reached out to 30 million Indians at high risk.",
-      "url": "https://indianexpress.com/article/cities/pune/vector-borne-diseases-a-big-concern-joint-director-health-9009916/",
-      "urlToImage": "https://images.indianexpress.com/2023/11/Stethoscope-1.jpeg",
-      "publishedAt": "2023-11-01T22:46:00Z",
-      "content": "Citing the growing number of cases of vector borne diseases in the state, the Joint Director of Health, Communicable Diseases, Maharashtra, emphasised the need to invest in technology and prevention … [+541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Masking up matters: High-quality studies confirm face masks significantly curb COVID-19 spread - News-Medical.Net",
-      "description": "This 'Special Communication' article in JAMA Network Open compiles high-quality studies to underline the effectiveness of face masks in curbing community-level transmission of SARS-CoV-2. The article emphasizes that surgical masks are more effective than clot…",
-      "url": "https://www.news-medical.net/news/20231101/Masking-up-matters-High-quality-studies-confirm-face-masks-significantly-curb-COVID-19-spread.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763317_16988784551625391.jpg",
-      "publishedAt": "2023-11-01T22:42:00Z",
-      "content": "A 'Special Communication' article published in the journal JAMA Network Open provides a detailed overview of current high-quality literature describing the utility of face masks in reducing community… [+5932 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "Extreme heat in the US may increase heart-related deaths; THESE people are at most risk - IndiaTimes",
-      "description": "Extreme heat in the US is linked to a surge in heart-related deaths, with a focus on specific vulnerable groups. A study reveals that rising heat levels between 2008 and 2019 caused 1,700 excess cardiovascular deaths annually, and this toll could triple to 5,…",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/extreme-heat-in-the-us-may-increase-heart-related-deaths-these-people-are-at-most-risk/photostory/104889481.cms",
-      "urlToImage": "https://static.toiimg.com/photo/104889586.cms",
-      "publishedAt": "2023-11-01T22:30:00Z",
-      "content": "According to the study published in the journal Circulation, the heat index (includes both temperature and humidity) between 2008 and 2019 in the US was associated with nearly 1,700 excess cardiovasc… [+576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "USDA shares process of trapping raccoons, updates public on testing efforts - KETV NewsWatch 7",
-      "description": "USDA shares process of trapping raccoons, updates public on testing effortsSubscribe to KETV on YouTube now for more: http://bit.ly/1emyaD5Get more Omaha new...",
-      "url": "https://www.youtube.com/watch?v=iPVIQ41h44c",
-      "urlToImage": "https://i.ytimg.com/vi/iPVIQ41h44c/maxresdefault.jpg",
-      "publishedAt": "2023-11-01T22:24:24Z",
-      "content": null
+      "author": "Regan Porter",
+      "title": "Price Chopper pharmacist talks medicine shortage in the KC-area, across the country - WDAF FOX4 Kansas City",
+      "description": "Drug shortages continue to impact pharmacies, and patients in the Kansas City metro and nationwide.",
+      "url": "https://fox4kc.com/news/price-chopper-pharmacist-talks-medicine-shortage-in-the-kc-area-across-the-country/",
+      "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2023/11/Pharmacy.png?w=1280",
+      "publishedAt": "2023-11-01T22:18:29Z",
+      "content": "KANSAS CITY, Mo. — Drug shortages continue to impact pharmacies, and patients in the Kansas City metro and nationwide.\r\nA clinical pharmacist at Price Chopper in the northland tells FOX4 they’re expe… [+2229 chars]"
     },
     {
       "source": {
@@ -420,16 +1122,16 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "WQOW TV News 18"
       },
-      "author": "TIMESOFINDIA.COM",
-      "title": "Sperm count likely to be impacted due to high mobile phone use: Study - IndiaTimes",
-      "description": "Science News: A recent study has found a potential link between mobile phone usage and declining male sperm count. Young men who used their phones more than 20 time",
-      "url": "https://timesofindia.indiatimes.com/home/science/sperm-count-likely-to-be-impacted-due-to-high-mobile-phone-use-study/articleshow/104898418.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104898422,width-1070,height-580,imgsize-906076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-01T21:44:22Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Sperm count likely to be impacted due to high mobile phone use: Study</li></ul>\r\nA recent study has found a potential link between mobile phone usage and… [+476 chars]"
+      "author": "Felicity Dachel",
+      "title": "Two western Wisconsin wild deer test positive for CWD - WQOW TV News 18",
+      "description": "Wild deer in Polk and Trempealeau Counties have tested positive for Chronic Wasting Disease, the Wisconsin Department of Natural Resources said.",
+      "url": "https://www.wqow.com/news/wisconsin/two-western-wisconsin-wild-deer-test-positive-for-cwd/article_a39464de-78fd-11ee-b861-db75309ff59c.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/2/a0/2a034b81-2223-5a38-9741-5e8fc4e7ae67/61424385e808b.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-11-01T21:44:00Z",
+      "content": "(WQOW) - Wild deer in Polk and Trempealeau Counties have tested positive for Chronic Wasting Disease, the Wisconsin Department of Natural Resources said. \r\nCWD is a fatal, infectious nervous system d… [+904 chars]"
     },
     {
       "source": {
@@ -460,6 +1162,45 @@
     {
       "source": {
         "id": null,
+        "name": "nejm.org"
+      },
+      "author": "nejm.org",
+      "title": "Thalidomide for Recurrent Bleeding Due to Small-Intestinal Angiodysplasia | NEJM - nejm.org",
+      "description": null,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2303706",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01T21:05:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": "nejm.org",
+      "title": "Corin and Left Atrial Cardiomyopathy, Hypertension, Arrhythmia, and Fibrosis | NEJM - nejm.org",
+      "description": null,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2301908",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01T21:02:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": "nejm.org",
+      "title": "Association of SARS-CoV-2 Infection during Early Weeks of Gestation with Situs Inversus | NEJM - nejm.org",
+      "description": null,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2309215",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01T21:02:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "MedPage Today"
       },
       "author": "Jennifer Henderson",
@@ -486,67 +1227,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Breakthrough discovery sheds light on heart and muscle health - Science Daily",
-      "description": "The human heart, often described as the body's engine, is a remarkable organ that tirelessly beats to keep us alive. At the core of this vital organ, intricate processes occur when it contracts, where thick and thin protein-filaments interact within the sarco…",
-      "url": "https://www.sciencedaily.com/releases/2023/11/231101134919.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-11-01T20:39:39Z",
-      "content": "The human heart, often described as the body's engine, is a remarkable organ that tirelessly beats to keep us alive. At the core of this vital organ, intricate processes occur when it contracts, wher… [+5976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hcplive.com"
-      },
-      "author": "Chelsie Derman",
-      "title": "PTSD Linked to Genetic Cardiometabolic, Respiratory, Digestive Conditions - MD Magazine",
-      "description": "A new study found that 25% of PSG-PTSD were related to metabolic traits.",
-      "url": "https://www.hcplive.com/view/ptsd-linked-genetic-cardiometabolic-respiratory-digestive-conditions",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/hcplive/1eb788e335a6c21063765be5554efe0b64a0b2bc-526x490.png?fit=crop&auto=format",
-      "publishedAt": "2023-11-01T20:33:06Z",
-      "content": "PTSD symptoms can put an individual at risk of developing somatic cardiometabolic, respiratory, or digestive conditions if the individual has certain genetics, according to new research.\r\nThe genetic… [+5739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Nathaniel Weixel",
-      "title": "Millions more adults should be screened for lung cancer under new American Cancer Society guidelines - The Hill",
-      "description": "Nearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS).  The update marks the first change to screening recommendations in a decade. The group now rec…",
-      "url": "https://thehill.com/policy/healthcare/4288001-new-acs-guidelines-millions-more-should-be-screened-for-lung-cancer/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2019/11/ca_cigarette_111919_istock.jpg?w=1280",
-      "publishedAt": "2023-11-01T20:19:00Z",
-      "content": "Skip to content\r\nNearly 5 million additional Americans should be screened for lung cancer, according to an updated guideline released Wednesday by the American Cancer Society (ACS). \r\nThe update mark… [+2407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Charcot-marie-toothnews.com"
-      },
-      "author": "Margarida Maia, PhD",
-      "title": "Cellular response to stress links different types of CMT2, per study - Charcot-Marie-Tooth News",
-      "description": "Many mutated proteins causing the different forms of Charcot-Marie-Tooth disease type 2 (CMT2) tend to go to stress granules in nerve cells.",
-      "url": "https://charcot-marie-toothnews.com/?p=79027&preview=true&preview_id=79027",
-      "urlToImage": "https://charcot-marie-toothnews.com/wp-content/uploads/2022/07/MiceGroup.png",
-      "publishedAt": "2023-11-01T20:13:47Z",
-      "content": "Many of the mutated proteins that cause the different forms of Charcot-Marie-Tooth disease type 2 (CMT2) tend to go to a point in nerve cells, or neurons, called stress granules.\r\nThere, upon stress,… [+3660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Mask mandates in health care settings return to some Bay Area counties - NBC Bay Area",
-      "description": "Some Bay Area counties starting this week have required masks again in certain indoor settings due to the resurgence of respiratory illnesses such as COVID, ...",
-      "url": "https://www.youtube.com/watch?v=IGseIO4umsQ",
-      "urlToImage": "https://i.ytimg.com/vi/IGseIO4umsQ/maxresdefault.jpg",
-      "publishedAt": "2023-11-01T19:16:17Z",
+      "title": "'Groundbreaking': first treatment targeting 'super-gonorrhoea' passes trial - Nature.com",
+      "description": "Antibiotic could turn the tide on drug-resistant form of the infection — if it’s used wisely.",
+      "url": "https://www.nature.com/articles/d41586-023-03448-x",
+      "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03448-x/d41586-023-03448-x_26250238.jpg",
+      "publishedAt": "2023-11-01T20:03:56Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medscape"
+      },
+      "author": "Meg Barbor, MPH",
+      "title": "IVF the AI Way - Medscape",
+      "description": "An artificial intelligence algorithm can accurately predict the optimal oocyte retrieval date during IVF antagonist protocol cycles, with increasing precision as the cycle progresses.",
+      "url": "https://www.medscape.com/viewarticle/997978",
+      "urlToImage": "https://img.medscape.com/thumbnail_library/dt_231101_embryos_dish_laboratory_800x450.jpg",
+      "publishedAt": "2023-11-01T19:59:41Z",
+      "content": "Artificial intelligence can accurately predict the optimal retrieval date in fertility treatment cycles, according to preliminary research presented at the 2023 annual meeting of the American Society… [+4466 chars]"
     },
     {
       "source": {
@@ -577,19 +1279,6 @@
     {
       "source": {
         "id": null,
-        "name": "Salon"
-      },
-      "author": "Matthew Rozsa",
-      "title": "Jonas Salk, the man who cured polio, would have been baffled by modern anti-vaxxers, experts say - Salon",
-      "description": "Salk famously said that he did not believe his polio vaccine should be patented akin to patenting the Sun",
-      "url": "https://www.salon.com/2023/11/01/jonas-salk-the-man-cured-polio-would-have-been-baffled-by-modern-anti-vaxxers-experts-say/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/10/dr_jonas_salk_painting_482796643.jpg",
-      "publishedAt": "2023-11-01T19:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
@@ -612,695 +1301,6 @@
       "urlToImage": null,
       "publishedAt": "1970-01-01T00:00:00Z",
       "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Kurt Knutsson, CyberGuy Report",
-      "title": "Meet the first person ever to receive a fully functional bionic hand with AI - Fox News",
-      "description": "The Mia Hand is a bionic hand that functions using artificial intelligence to communicate hand movements such as touch, pressure and more.",
-      "url": "https://www.foxnews.com/tech/meet-first-person-ever-receive-fully-functional-bionic-hand-ai",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/1-Meet-the-first-person-to-ever-receive-a-fully-functional-prosthetic-hand-with-AI-Meet-the-first-person-to-ever-receive-a-fully-functional-prosthetic-hand-with-AI-Farmer-With-Mia-Hand.jpg",
-      "publishedAt": "2023-11-01T17:53:49Z",
-      "content": "Imagine losing your hand in an accident and having to live with a prosthetic limb that is clumsy, uncomfortable and limited in functionality. That is the reality for millions of people around the wor… [+6216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Healthy During the Holidays: Delicious Ways to Celebrate When You Have Diabetes - EatingWell",
-      "description": "The holidays don't need to cause stress if you're managing diabetes. Our spotlight features diabetes-friendly recipes and easy-to-follow tips for you.",
-      "url": "https://www.eatingwell.com/healthy-during-the-holidays-7971614",
-      "urlToImage": "https://www.eatingwell.com/thmb/A4kHGJoYiWcQcf8IWH7KUfG5bdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-visuals-final-optimized-8e6a7e8b3b7a4b3f805ee8ac5c974883.gif",
-      "publishedAt": "2023-11-01T17:50:10Z",
-      "content": "The next several weeks are some of the most delicious of the year. Grand feasts featuring roast turkey with creamy mashed potatoes. Dessert buffets loaded with beautifully decorated cookies and lusci… [+6379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLOS"
-      },
-      "author": "Kristy Kepley-Steward",
-      "title": "First flu deaths of 2023-24 season reported in North Carolina, health officials urge vaccination - WLOS",
-      "description": "Two adults in the western part of North Carolina died due to complications of influenza in October, marking the first flu deaths of the 2023-24 flu season.",
-      "url": "https://wlos.com/news/local/first-flu-deaths-of-2023-24-season-reported-in-north-carolina-health-officials-urge-vaccination",
-      "urlToImage": "https://wlos.com/resources/media/a1fe091a-6e67-4885-aaf4-9da3c55ce260-large16x9_fluvax.PNG?1671496763623",
-      "publishedAt": "2023-11-01T17:48:01Z",
-      "content": "WLOS Two adults in the western part of North Carolina died due to complications of influenza in October, marking the first flu deaths of the 2023-24 flu season, the North Carolina Department of Healt… [+3307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EurekAlert"
-      },
-      "author": null,
-      "title": "New research links high salt consumption to risk of Type 2 diabetes - EurekAlert",
-      "description": "The study surveyed more than 400,000 adults and found that participants who “sometimes,” “usually,” or “always” added salt had a respective 13%, 20%, and 39% higher risk of developing Type 2 diabetes.",
-      "url": "https://www.eurekalert.org/news-releases/1006466",
-      "urlToImage": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-      "publishedAt": "2023-11-01T17:47:30Z",
-      "content": "Those at risk for Type 2 diabetes may already know to avoid sugar, but new research suggests they may want to skip the salt as well.\r\nA new study from Tulane University published in Mayo Clinic Proce… [+1817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food-safety.com"
-      },
-      "author": "Bailee Henderson",
-      "title": "Study Shows Potential of Antimicrobial Blue Light for Listeria Inactivation in Food Processing Plants - Food Safety Magazine",
-      "description": "<p>A recent study<em> </em>has demonstrated the efficacy of antimicrobial blue light technology for the inactivation of both dried cells and biofilms of <em>Listeria monocytogenes </em>on surfaces found in food processing environments. </p>",
-      "url": "https://www.food-safety.com/articles/8998-study-shows-potential-of-antimicrobial-blue-light-for-listeria-inactivation-in-food-processing-plants",
-      "urlToImage": "https://www.food-safety.com/ext/resources/News/2023/blue-light-waves.png?height=635&t=1698860372&width=1200",
-      "publishedAt": "2023-11-01T17:42:09Z",
-      "content": "A recent study published in Applied and Environmental Microbiology has demonstrated the efficacy of antimicrobial blue light technology in the inactivation of both dried cells and biofilms of Listeri… [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dtnext.in"
-      },
-      "author": "Reuters",
-      "title": "More older former smokers need lung cancer screening, experts say - DTNEXT",
-      "description": "Previously, the ACS called for screening only for long-time or heavy smokers who had given up cigarettes less than 15 years earlier",
-      "url": "https://www.dtnext.in/lifestyle/wellbeing/more-older-former-smokers-need-lung-cancer-screening-experts-say-745563",
-      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/11/01/776225-smoke.jpg",
-      "publishedAt": "2023-11-01T17:41:23Z",
-      "content": "WASHINGTON: New lung cancer screening guidelines issued by the American Cancer Society (ACS) on Wednesday call for annual testing with lowdose computed tomography (CT) for anyone aged 50 to 80 who wa… [+2863 chars]"
-    },
-    {
-      "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
-      },
-      "author": "Jeanna D. Smiley",
-      "title": "Could eating more fiber lower rates of type 2 diabetes and cancer? - Medical News Today",
-      "description": "A new study finds that bioactives from plant-based fiber may support health in different ways, besides promoting bowel regularity and gut health.",
-      "url": "https://www.medicalnewstoday.com/articles/how-insoluble-fiber-can-lower-your-risk-of-type-2-diabetes-cancer",
-      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/11/beans-toast-fiber-732x549-thumbnail.jpg",
-      "publishedAt": "2023-11-01T17:29:00Z",
-      "content": "<ul><li>Eating enough fiber, and in particular insoluble fiber, is crucial for promoting bowel regularity and gut health, but new evidence suggests more ways that it can improve overall health.</li><… [+6003 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healio"
-      },
-      "author": null,
-      "title": "How to make a business case for lifestyle medicine - Healio",
-      "description": "DENVER &mdash; The lifestyle medicine model makes good business sense, but a business plan is needed to make it a logical decision for your organization, a speaker said here.&ldquo;If we can undo what is going on in our system, we can save money. We can do it…",
-      "url": "https://www.healio.com/news/primary-care/20231101/how-to-make-a-business-case-for-lifestyle-medicine",
-      "urlToImage": "https://www.healio.com/~/media/slack-news/fm_im/misc/infographics/2023/11-november/pc1023mauch_aclm_graphic_01.jpg",
-      "publishedAt": "2023-11-01T17:02:49Z",
-      "content": "Key takeaways:\r\n<ul><li>A lifestyle medicine business plan will be successful if it is timebound, specific and aligned with the organization’s goals.</li><li>Make the case that lifestyle medicine can… [+3791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AZoRobotics"
-      },
-      "author": null,
-      "title": "AI Technology Increases Medical Image Analysis Accuracy - AZoRobotics",
-      "description": "A research team has effectively created technology that, through the use of the mutual information loss function during image conversion, can decrease structural distortion in images.",
-      "url": "https://www.azorobotics.com/News.aspx?newsID=14437",
-      "urlToImage": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14437_16988565114343500.jpg",
-      "publishedAt": "2023-11-01T16:43:00Z",
-      "content": "A research team has effectively created technology that, through the use of the mutual information loss function during image conversion, can decrease structural distortion in images.\r\nImage Credit: … [+4028 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Health experts give important information to remember for Diabetes Awareness Month - KWQC News",
-      "description": "Health experts give important information to remember for Diabetes Awareness Month   For more Local News from KWQC:  https://www.kwqc.com/ For more YouTube C...",
-      "url": "https://www.youtube.com/watch?v=PyEDt5eYySc",
-      "urlToImage": "https://i.ytimg.com/vi/PyEDt5eYySc/maxresdefault.jpg",
-      "publishedAt": "2023-11-01T16:39:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Structure of the native myosin filament in the relaxed cardiac sarcomere - Nature.com",
-      "description": "A cryo-electron tomography study reports the structure of thick&nbsp;myosin filaments of mouse cardiac muscle in the relaxed state in situ and the MyBP-C links&nbsp;that connect them with the surrounding thin actin&nbsp;filaments.",
-      "url": "https://www.nature.com/articles/s41586-023-06690-5",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06690-5/MediaObjects/41586_2023_6690_Fig1_HTML.png",
-      "publishedAt": "2023-11-01T16:35:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Injectable tissue prosthesis for instantaneous closed-loop rehabilitation - Nature.com",
-      "description": "An injectable hydrogel for use as a scaffold to aid tissue repair is described, the material of which is conductive so that it&nbsp;can be used both for electrophysiological measurement and electrostimulation&nbsp;in closed-loop robot-assisted rehabilitation.",
-      "url": "https://www.nature.com/articles/s41586-023-06628-x",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06628-x/MediaObjects/41586_2023_6628_Fig1_HTML.png",
-      "publishedAt": "2023-11-01T16:30:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Genome rewriting generates mouse models of human diseases - Nature.com",
-      "description": "A technique to place human DNA in mouse embryonic stem cells improves animal models of diseases such as COVID-19.",
-      "url": "https://www.nature.com/articles/d41586-023-03079-2",
-      "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03079-2/d41586-023-03079-2_26239508.png",
-      "publishedAt": "2023-11-01T16:27:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Mouse genome rewriting and tailoring of three important disease loci - Nature.com",
-      "description": "This study describes a method to insert large stretches of exogenous DNA into mammalian genomes, which is used to insert human ACE2 loci into mouse to produce a model of human SARS-CoV-2 infection.",
-      "url": "https://www.nature.com/articles/s41586-023-06675-4",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06675-4/MediaObjects/41586_2023_6675_Fig1_HTML.png",
-      "publishedAt": "2023-11-01T16:18:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jess Thomson",
-      "title": "The 'Silent Pandemic' Is Now Screaming at America's Children - Newsweek",
-      "description": "Bacterial infections commonly affecting children are becoming increasingly resistant to antibiotics, putting millions of lives at risk.",
-      "url": "https://www.newsweek.com/antibiotic-resistant-bacteria-infecting-children-worldwide-1839960",
-      "urlToImage": "https://d.newsweek.com/en/full/2302923/sick-child.jpg",
-      "publishedAt": "2023-11-01T16:07:55Z",
-      "content": "Antibiotics used to treat common childhood ailments are becoming less and less effective, according to a new study.\r\nMany of the antibiotics often used to treat infections like pneumonia, sepsis (blo… [+6314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Mechanisms of neurotransmitter transport and drug inhibition in human VMAT2 - Nature.com",
-      "description": "Structures of a vesicular monoamine transporter in complex with drugs and substrate provide insights into the physiology and pharmacology of neurotransmitter packaging.",
-      "url": "https://www.nature.com/articles/s41586-023-06727-9",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06727-9/MediaObjects/41586_2023_6727_Fig1_HTML.png",
-      "publishedAt": "2023-11-01T16:02:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Walking Just 3,000 Steps a Day Might Improve Longevity, According to New Research - EatingWell",
-      "description": "Walk your way to a longer life: New research shows 8,000 steps a day may be all you need for better health and longevity.",
-      "url": "https://www.eatingwell.com/walking-3000-steps-longevity-new-research-8385607",
-      "urlToImage": "https://www.eatingwell.com/thmb/Hfq_yt4wGzHFNOR8fAPVhIQZwYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/New-Research-Says-Walking-Just-8000-Steps-a-Day-Might-Add-Years-to-Your-Life-82890dc611454ee79952df7a3afbf624.jpg",
-      "publishedAt": "2023-11-01T16:01:06Z",
-      "content": "You may have heard that walking 10,000 steps a day can lead to a healthier life, but that magic number might not be as accurate as once thought. In fact, the idea of 10,000 steps, which emerged from … [+4354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Contagionlive.com"
-      },
-      "author": "Leslie McGorman, MPPA",
-      "title": "Political and Social Barriers to Ending the HIV Epidemic - Contagionlive.com",
-      "description": "Learning about these barriers is the first step to overcoming them.",
-      "url": "https://www.contagionlive.com/view/political-and-social-barriers-to-ending-the-hiv-epidemic",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/contagion/21721c11c0c031fdf378f3871cf19dc353c38a82-764x484.png?fit=crop&auto=format",
-      "publishedAt": "2023-11-01T15:57:26Z",
-      "content": "Wecan end the HIV epidemic.We have all the biomedical interventions needed. Epidemiologists have conducted research, and their modeling lays out exactly what we need to end the HIV epidemic.\r\nEpidemi… [+13965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Andrew Court",
-      "title": "Oral sex is worse than smoking for throat cancer, doctor claims - New York Post ",
-      "description": "Dr. Daria Sadovskaya made the declaration in a viral TikTok video — despite the American Cancer Society (ACS) citing tobacco use as the number one risk factor for the illness, known as oropharyngea…",
-      "url": "https://nypost.com/2023/11/01/lifestyle/oral-sex-is-worse-than-smoking-for-throat-cancer-doctor-claims/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/throat-cancer-oral.gif?w=1024",
-      "publishedAt": "2023-11-01T15:57:00Z",
-      "content": "A young doctor says oral sex is a greater risk factor than smoking in the development of throat cancer. \r\nDr. Daria Sadovskaya made the declaration in a viral TikTok video despite the American Cancer… [+3720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsnationnow.com"
-      },
-      "author": "Stephanie Whiteside",
-      "title": "Over half of parents worry about internet addiction in kids - NewsNation Now",
-      "description": "The survey compared parental concerns about internet addiction and substance addiction.",
-      "url": "https://www.newsnationnow.com/business/tech/over-half-parents-worry-internet-addiction/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/05/64540c10a135a0.51889079.jpeg?w=1280",
-      "publishedAt": "2023-11-01T15:48:41Z",
-      "content": "(NewsNation) A new study found more than half of parents with kids aged 9 to 15 worried about internet addiction, with social media and gaming being the top areas of concern.\r\nA study posted in the J… [+2214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cureus.com"
-      },
-      "author": null,
-      "title": "Reversible Splenial Lesion Syndrome Associated With Dengue Encephalopathy: A Case Report - Cureus",
-      "description": "Infection with the dengue virus can present with a variety of clinical manifestations that can range from asymptomatic or mild disease to severe hemorrhagic shock. In this report, we present a 25-year-old female patient with complaints of fever, headache, vom…",
-      "url": "https://www.cureus.com/articles/199799-reversible-splenial-lesion-syndrome-associated-with-dengue-encephalopathy-a-case-report",
-      "urlToImage": "https://assets.cureus.com/uploads/figure/file/784090/article_river_e6b0c940773d11eeb7c701bdffc1d430-image-3-.png",
-      "publishedAt": "2023-11-01T15:44:16Z",
-      "content": "Enter your email address to receive your free PDF download.\r\nPlease note that by doing so you agree to be added to our monthly email newsletter distribution list."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Artsen geven les over vapen - NOS Jeugdjournaal",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/watch?v=IqEd148oOE4",
-      "urlToImage": null,
-      "publishedAt": "2023-11-01T15:30:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Study Finds"
-      },
-      "author": "StudyFinds",
-      "title": "Taking multivitamins may increase cancer risk by 30%, doctor warns - Study Finds",
-      "description": "Dr. Mohammad Muneeb Khan says that multivitamin products should include labels with tobacco product-style warnings due to the dangers tied to taking certain supplements.",
-      "url": "https://studyfinds.org/multivitamins-increase-cancer-risk/",
-      "urlToImage": "https://studyfinds.org/wp-content/uploads/2022/08/AdobeStock_409704428-scaled.jpeg",
-      "publishedAt": "2023-11-01T15:28:19Z",
-      "content": "LONDON — Multivitamins could increase the risk of cancer by as much as 30 percent and should carry a health warning, a doctor from a British charity warns. The controversial suggestion goes against t… [+7387 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pharmacytimes.com"
-      },
-      "author": "Gillian McGovern, Assistant Editor",
-      "title": "Study Findings Show High Oral PrEP Initiation in Adolescent Girls, Young Women Who Are Pregnant, Postpartum - Pharmacy Times",
-      "description": "Although the initiation was high, only 33% of adolescent girls and young women continued PrEP use through the 6-month follow-up.",
-      "url": "https://www.pharmacytimes.com/view/study-findings-show-high-oral-prep-initiation-in-adolescent-girls-young-women-who-are-pregnant-postpartum",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/0894ee79e4ad558d5e900bea6568ef85dfc19c73-3460x2307.jpg?fit=crop&auto=format",
-      "publishedAt": "2023-11-01T15:22:30Z",
-      "content": "Key Takeaways\r\n1. Adolescent Girls and Young Women at Risk: Adolescent girls and young women (AGYW) in South Africa are at a high risk of contracting HIV, and those who are in pregnant or postpartum … [+7234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thehealthsite.com"
-      },
-      "author": "Kinkini Gupta",
-      "title": "Dengue Outbreak: Delhi Records Highest Number Of Cases In 5 Years; Total Tally Crosses 5000 | TheHealthSit - TheHealthSite",
-      "description": "This year Delhi witnessed more than 5000 dengue infection cases recording the highest number in the last 5 years. TheHealthSite.com",
-      "url": "https://www.thehealthsite.com/news/dengue-outbreak-delhi-records-highest-number-of-cases-in-5-years-total-tally-crosses-5000-1027134/",
-      "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/10/mosquito-biting-person-with-flat-design_23-2147938205.jpg",
-      "publishedAt": "2023-11-01T14:35:00Z",
-      "content": "Dengue Outbreak: Delhi Records Highest Number Of Cases In 5 Years; Total Tally Crosses 5000\r\nThis year, Delhi witnessed more than 5000 dengue infection cases, recording the highest number in the last… [+1793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WRAL.com"
-      },
-      "author": null,
-      "title": "4 dogs dead in flu outbreak; Wake animal shelter to stay closed through November - WRAL News",
-      "description": "Due to a recent outbreak of canine influenza, the Wake County Animal Center will remain closed until at least the end of November.",
-      "url": "https://www.wral.com/story/wake-county-animal-center-to-remain-closed-while-battling-outbreak-of-canine-influenza/21126289/",
-      "urlToImage": "https://wwwcache.wral.com/asset/lifestyles/pets/2016/03/04/15474743/15474743-1457111163-400x300.jpg",
-      "publishedAt": "2023-11-01T14:30:00Z",
-      "content": "The Wake County Animal Shelter, closed since Oct. 6 to prevent the spread of canine influenza (dog flu), will remain closed through November.\r\nThrough Oct. 31:\r\n<ul><li>4 dogs died of the flu at the … [+4306 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "THE WEEK"
-      },
-      "author": "Puja Awasthi",
-      "title": "Alternative therapies for stroke treatment: Everything you need to know - The Week",
-      "description": "October 29 is observed as World Stroke Day",
-      "url": "https://www.theweek.in/news/health/2023/11/01/alternative-therapies-for-stroke-treatment-everything-you-need-to-know.html",
-      "urlToImage": "https://www.theweek.in/content/dam/week/magazine/health/quickscan/images/2021/11/22/14-Best-time-for-rehabilitation-after-a-stroke.jpg",
-      "publishedAt": "2023-11-01T14:15:01Z",
-      "content": "Strokes are one of the leading causes of death in India. According to a paper in the National Library of Medicine, the burden of stroke is increasing in India. They are the fourth leading cause of de… [+4857 chars]"
-    },
-    {
-      "source": {
-        "id": "national-geographic",
-        "name": "National Geographic"
-      },
-      "author": "Emily Sohn",
-      "title": "Can ending inflammation help win our battle against depression? - National Geographic",
-      "description": "Multiple lines of research suggest that inflammation in the body can affect the brain and alter mood—a finding that could lead to new solutions for hard-to-treat issues.",
-      "url": "https://www.nationalgeographic.com/premium/article/inflammation-depression-mental-health",
-      "urlToImage": "https://i.natgeofe.com/n/b849eb68-71c6-44cd-b69a-23f0d595d033/GettyImages-1124669149_16x9.jpg?w=1200",
-      "publishedAt": "2023-11-01T14:09:41Z",
-      "content": "Chronic illness can be tough on mental health. Depression affects 42 percent of cancer patients, according to the Centers for Diseases Control and Prevention, as many as 42 percent of people with rhe… [+12477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Carol Clark",
-      "title": "New antimicrobial molecule shuts down bacterial growth without harming human cells - Phys.org",
-      "description": "Scientists have shown how a molecule with broad-spectrum antibiotic activity works by disabling a process vital to bacterial growth without affecting the normal functioning of human cells. The journal mBio published the work, led by researchers at Emory Unive…",
-      "url": "https://phys.org/news/2023-11-antimicrobial-molecule-bacterial-growth-human.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-antimicrobial-mole.jpg",
-      "publishedAt": "2023-11-01T14:09:05Z",
-      "content": "Scientists have shown how a molecule with broad-spectrum antibiotic activity works by disabling a process vital to bacterial growth without affecting the normal functioning of human cells. The journa… [+6462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Multiple Sclerosis News Today"
-      },
-      "author": "Marisa Wexler, MS",
-      "title": "Immune cell, fat metabolism changes may explain MS progression - Multiple Sclerosis News Today",
-      "description": "More activity among certain immune cells, and differences in iron regulation and fat metabolism were seen in SPMS and benign MS patients.",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2023/11/01/immune-cell-fat-metabolism-differences-ms-progression/",
-      "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2022/06/LabScientist.png",
-      "publishedAt": "2023-11-01T14:08:48Z",
-      "content": "More activity among certain immune cells, as well as differences in immune signaling molecules, iron regulation, and fat metabolism, may explain why multiple sclerosis (MS) progresses more over time … [+5398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Niranjana Rajalakshmi",
-      "title": "New study finds that being alone does not closely correlate with feelings of loneliness - Phys.org",
-      "description": "In a world filled with endless connections and constant communication, the relationship between loneliness and aloneness is not always clear. Now, University of Arizona researchers have analyzed that relationship—and found that they are two different things t…",
-      "url": "https://phys.org/news/2023-11-loneliness.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/alone.jpg",
-      "publishedAt": "2023-11-01T14:03:03Z",
-      "content": "In a world filled with endless connections and constant communication, the relationship between loneliness and aloneness is not always clear. Now, University of Arizona researchers have analyzed that… [+4908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cureus.com"
-      },
-      "author": null,
-      "title": "Nutritional Considerations in Colorectal Surgery in Diverting Ileostomy Patients: A Review - Cureus",
-      "description": "Colorectal surgery often results in a temporary or permanent ileostomy construction. The general nutritional status and intake of patients with an ileostomy have not received much attention and scientific evidence is lacking. Nutritional complications associa…",
-      "url": "https://www.cureus.com/articles/194460-nutritional-considerations-in-colorectal-surgery-in-diverting-ileostomy-patients-a-review",
-      "urlToImage": "https://assets.cureus.com/uploads/figure/file/765393/article_river_a13a2f20611011ee8f0d6d0171633a09-Figure-1-nQQ-.png",
-      "publishedAt": "2023-11-01T13:59:16Z",
-      "content": "Enter your email address to receive your free PDF download.\r\nPlease note that by doing so you agree to be added to our monthly email newsletter distribution list."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Block Club Chicago"
-      },
-      "author": "Joanna Hou",
-      "title": "Are There Rabid Bats In Your Neighborhood? Check This Map To Find Out - Block Club Chicago",
-      "description": "Nine rabid bats have been found across Cook County this year. Anyone who finds a bat in their home should contact public health officials.",
-      "url": "http://blockclubchicago.org/2023/11/01/cook-countys-new-rabid-bat-map-hopes-to-prevent-an-unwelcome-scare/",
-      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2023/10/pexels-t-veerababu-17736367-1-scaled.jpg",
-      "publishedAt": "2023-11-01T13:24:00Z",
-      "content": "CHICAGO Health officials hope a new Halloween-themed rabid bat map will raise awareness of the threat of rabies in the area. \r\nNine rabid bats have been found in Cook County this year, according to t… [+2653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "Vaishali Mandloi",
-      "title": "5 Benefits of Consuming Cucumber - WION",
-      "description": "5 Benefits of Consuming Cucumber",
-      "url": "https://www.wionews.com/web-stories/life-fun/5-benefits-of-consuming-cucumber--1698844110057",
-      "urlToImage": null,
-      "publishedAt": "2023-11-01T13:15:21Z",
-      "content": "When it comes to healthy diet, salad is the first thing that comes to our mind and one of its main components is cucumber. Cucumber is nutritious, has high-water content and benefits our body in many… [+59 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "Nurturing parent-child relationships in early years boosts mental health and prosocial behavior, study finds - PsyPost",
-      "description": "Warm parent-child relationships in early childhood promote prosocial behavior and protect against mental health issues in later years, according to a study involving over 10,000 children by the University of Cambridge. ...",
-      "url": "https://www.psypost.org/2023/11/nurturing-parent-child-relationships-in-early-years-boosts-mental-health-and-prosocial-behavior-study-finds-214292",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2023/10/father-with-son.jpg",
-      "publishedAt": "2023-11-01T13:03:32Z",
-      "content": "A recent study published in the International Journal of Behavioral Development has shed light on the importance of nurturing warm and close relationships between parents and children in their early … [+8036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "News Direct",
-      "title": "HKBU studies show over half of COVID-19 patients have post-disease syndrome - Yahoo Finance",
-      "description": "HONG KONG SAR - Media OutReach - 1 November 2023 - The School of Chinese Medicine at Hong Kong Baptist University (HKBU) found that 55% of the patients who...",
-      "url": "https://finance.yahoo.com/news/hkbu-studies-show-over-half-130000644.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8J9uG.IY6zQA9h1.rwXl_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/news_direct/f2d036029a71c75c9bb559c49926f8ab",
-      "publishedAt": "2023-11-01T13:00:00Z",
-      "content": "HONG KONG SAR --News Direct-- Hong Kong Baptist University\r\nHONG KONG SAR - Media OutReach - 1 November 2023 - The School of Chinese Medicine at Hong Kong Baptist University (HKBU) found that 55% of … [+5982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthshots.com"
-      },
-      "author": "HT Brand Studio",
-      "title": "Transforming Stroke Recovery: How HCAH’s Comprehensive Rehabilitation Programs Empower Stroke Survivors - Health shots",
-      "description": "A top official of the HCAC - HealthCare at Home - talks about the rehabilitation programs for the benefit of stroke survivors.",
-      "url": "https://www.healthshots.com/brand-posts/transforming-stroke-recovery-how-hcahs-comprehensive-rehabilitation-programs-empower-stroke-survivors/",
-      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2023/11/01182043/Dr-Gaurav-Thukkral.jpg",
-      "publishedAt": "2023-11-01T12:52:25Z",
-      "content": "Dr. Gaurav Thukkral, Co-founder and COO of HCAH India, in an interview, discusses the comprehensive approaches that empower stroke survivors to overcome physical and cognitive challenges during their… [+6168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "INDIATODAY",
-      "title": "7 Easy Ways to Train Your Brain - India Today",
-      "description": "Discover seven practical methods to enhance brain health and cognitive function. From mental exercises to a brain-boosting diet, these techniques empower you to unlock your full mental potential.",
-      "url": "https://www.indiatoday.in/visualstories/education/7-easy-ways-to-train-your-brain-73586-01-11-2023",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/11/natasha-connell-byp5TTxUbL0-unsplash-fotor-20231101175520-scaled.jpg",
-      "publishedAt": "2023-11-01T12:50:19Z",
-      "content": "Practice meditation, deep breathing, or yoga to reduce stress's harmful effects on memory and attention."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Verywellhealth.com"
-      },
-      "author": "https://www.facebook.com/verywell",
-      "title": "Free Type 2 Diabetes Meal Plan and Nutrition Tips - Verywell Health",
-      "description": "A balanced type 2 diabetes diet focuses on whole grains, less red meat, more fruit, vegetables, and lean proteins. Find meal planning ideas here.",
-      "url": "https://www.verywellhealth.com/type-2-diabetes-diet-7972976",
-      "urlToImage": "https://www.verywellhealth.com/thmb/4r76AYkYgFb98z2IW_RoilUkiJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/preparing-meal-GettyImages-1409659675-07fc1288b0f144d6855a9e859a259153.jpg",
-      "publishedAt": "2023-11-01T12:37:20Z",
-      "content": "The statement \"food is medicine\" is very valid when it comes to diabetes. What you eat, how you eat, and when you eat can directly impact your blood sugar, both short term and long term. But with so … [+10769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Vivian Lam",
-      "title": "Cancer has many faces − 5 counterintuitive ways scientists are approaching cancer research to improve treatment and prevention - The Conversation Canada",
-      "description": "From math to evolutionary game theory, looking at cancer through different lenses can offer further insights on how to approach treatment resistance, metastasis and health disparities.",
-      "url": "https://theconversation.com/cancer-has-many-faces-5-counterintuitive-ways-scientists-are-approaching-cancer-research-to-improve-treatment-and-prevention-215698",
-      "urlToImage": "https://images.theconversation.com/files/553918/original/file-20231016-15-3osk1.jpg?ixlib=rb-1.1.0&rect=0%2C141%2C2700%2C1350&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-11-01T12:35:53Z",
-      "content": "How researchers conceptualize a disease informs how they treat it. Cancer is often described as uncontrollable cell growth triggered by genetic damage. But cancer can also be seen from angles that em… [+8795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurity: Research News"
-      },
-      "author": "Corrie Pikul-Brown",
-      "title": "Health economists: COVID vax campaign saved 2.4 million lives - Futurity: Research News",
-      "description": "The global COVID-19 vaccination campaign saved 2.4 million lives in 141 countries. Equitable vaccine distribution could have saved 670,000 more.",
-      "url": "https://www.futurity.org/covid-19-vaccines-viruses-2993552/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/11/COVID-19_vaccines_1600.jpg",
-      "publishedAt": "2023-11-01T12:26:35Z",
-      "content": "The global COVID-19 vaccination campaign saved 2.4 million lives in 141 countries and could have saved about 670,000 more had the vaccines been distributed equitably, say researchers.\r\nThe findings c… [+2810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Heart.org"
-      },
-      "author": null,
-      "title": "Dr. Olugbenga Ogedegbe to Receive the 2023 Population Health Research Prize - American Heart Association",
-      "description": "Embargoed until 7 a.m. CT / 8 a.m. ET Wednesday, Nov. 1, 2023 DALLAS, Nov. 1, 2023 — The American Heart Association will present its 2023 Population Health Research Prize to Olugbenga “Gbenga” Ogedegbe, M.D., M.P.H., FAHA, of New York University’s...",
-      "url": "https://newsroom.heart.org/news/dr-olugbenga-ogedegbe-to-receive-the-2023-population-health-research-prize",
-      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/67/files/20239/65304eb03d63324d48d2e697_Olugbenga+Gbenga+Ogedegbe+M.D.+M.P.H.+FAHA/Olugbenga+Gbenga+Ogedegbe+M.D.+M.P.H.+FAHA_hero.jpg",
-      "publishedAt": "2023-11-01T12:06:22Z",
-      "content": "Embargoed until 7 a.m. CT / 8 a.m. ET Wednesday, Nov. 1, 2023\r\nDALLAS, Nov. 1, 2023 — The American Heart Association will present its 2023 Population Health Research Prize to Olugbenga “Gbenga” Ogede… [+6656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healio"
-      },
-      "author": null,
-      "title": "Patients with asthma, COPD, ILD have reduced COVID vaccine protection - Healio",
-      "description": "Patients with asthma, COPD and interstitial lung disease have reduced SARS-CoV-2 vaccine-specific antibody, B-cell and T-cell responses, which signals poorer protection against COVID-19, according to results published in ERJ Open Research.&ldquo;The findings …",
-      "url": "https://www.healio.com/news/pulmonology/20231101/patients-with-asthma-copd-ild-have-reduced-covid-vaccine-protection",
-      "urlToImage": "https://www.healio.com/~/media/slack-news/stock-images/pulmonology/v/vaccine_adobe.jpg",
-      "publishedAt": "2023-11-01T12:04:01Z",
-      "content": "We were unable to process your request. Please try again later. If you continue to have this issue please contact customerservice@slackinc.com.Back to Healio\r\nKey takeaways:\r\n<ul><li>Protection again… [+5453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Firstpost"
-      },
-      "author": "Firstpost",
-      "title": "9 benefits of starting your day with black coffee - Firstpost",
-      "description": "Starting your day with a cup of black coffee goes beyond a caffeine jolt. From mood enhancement to weight management, it offers a range of health benefits",
-      "url": "https://www.firstpost.com/web-stories/lifestyle/9-benefits-of-starting-your-day-with-black-coffee-13652.html",
-      "urlToImage": "https://images.news18.com/webstories/2023/11/cropped-Web-capture_1-11-2023_164126_in.pinterest.com_.jpeg",
-      "publishedAt": "2023-11-01T11:36:47Z",
-      "content": "Weight ManagementBlack coffee, devoid of calories, promotes healthy weight management. Its caffeine content enhances metabolism, increases energy, and reduces appetite.\r\nElevates Mood\r\nBlack coffee a… [+1153 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Taylor Nicioli",
-      "title": "What you should know about stress rashes - CNN",
-      "description": "When itchy red bumps begin to appear on your hands, neck, chest or arms, stress could be the trigger. Experts give advice on what to do if you develop a stress rash.",
-      "url": "https://www.cnn.com/2023/11/01/health/stress-rash-cause-treatment-explained-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1463546524.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-11-01T11:16:00Z",
-      "content": "Sign up for CNNs Stress, But Less newsletter. Our six-part mindfulness guide will inform and inspire you to reduce stress while learning how to harness it.\r\nToo much stress isnt good for you on top o… [+4883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "https://www.india.com/author/lifestylestaff/",
-      "title": "Brain Health: 7 Worst Everyday Habits That Lead to Memory Loss Symptoms - India.com",
-      "description": "Brain health starts to deteriorate with age and it becomes imperative to nurture and nourish our brain. Here is how these sedentary lifestyle habits may causes memory loss.",
-      "url": "https://www.india.com/health/brain-health-7-worst-everyday-habits-that-lead-to-memory-loss-symptoms-6464756/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/11/brain-health-habits.jpg",
-      "publishedAt": "2023-11-01T11:13:56Z",
-      "content": "Brain health starts to deteriorate with age and it becomes imperative to nurture and nourish our brain. Here is how these sedentary lifestyle habits may causes memory loss. \r\nBrain Health: 6 Worst Ev… [+2927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech Explorist"
-      },
-      "author": "Dr. Prajakta Banik",
-      "title": "New study unveils Ebola virus cell infection mechanism - Tech Explorist",
-      "description": "CCZ1 revealed as essential lysosomal regulator in virus infections.",
-      "url": "https://www.techexplorist.com/new-study-unveils-ebola-virus-cell-infection-mechanism/76910/",
-      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2023/11/ebola-virus.png",
-      "publishedAt": "2023-11-01T11:04:09Z",
-      "content": "This study focuses on the dangerous Marburg and Ebola viruses, which have caused deadly outbreaks in recent years. While we know about some factors that help these viruses enter our cells, there’s st… [+1883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "Enhanced Chinese martial art improves mental health for seniors - South China Morning Post",
-      "description": "Combining tai chi with thinking exercises helps improve mental processes and multitasking in older adults with memory problems, US researchers say.",
-      "url": "https://www.scmp.com/news/china/science/article/3239972/enhanced-chinese-martial-art-boosting-mental-health-seniors-researchers-say",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/11/01/2a5ae172-54b4-4e06-816b-45397c96833c_500198bd.jpg?itok=M4m5pqaP&v=1698834687",
-      "publishedAt": "2023-11-01T10:46:22Z",
-      "content": "In the study, the researchers added challenges related to dual-tasking to regular tai chi to see if they produced extra cognitive benefits. For example, participants were asked to complete a tai chi … [+3592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "Heena Sharma",
-      "title": "5 Health Benefits of Eating Fish - WION",
-      "description": "5 Health Benefits of Eating Fish",
-      "url": "https://www.wionews.com/web-stories/life-fun/5-health-benefits-of-eating-fish-1698834380351",
-      "urlToImage": null,
-      "publishedAt": "2023-11-01T10:40:07Z",
-      "content": "Fish provides essential amino acids needed for muscle growth, repair, and overall body function. It is also generally lower in saturated fat."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "https://www.mindbodygreen.com/wc/morgan-chamberlain",
-      "title": "These Women Reduced Their Biological Age Up To 11 Years | mindbodygreen - mindbodygreen",
-      "description": "And in just eight weeks!",
-      "url": "https://www.mindbodygreen.com/articles/how-to-support-methylation-for-healthy-aging",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2121,h_1414/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/nfiaeib0vjv5l7oil.jpg",
-      "publishedAt": "2023-11-01T10:33:05Z",
-      "content": "A new case series finds that a methylation-supportive diet and supplementation regimen rich in epinutrients plus lifestyle interventions (e.g., quality sleep, proper hydration, regular physical activ… [+470 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET HealthWorld",
-      "title": "Simple, rapid blood test can diagnose TB accurately in children: Lancet study - ETHealthWorld",
-      "description": "The new diagnostic tool, described in The Lancet Infectious Diseases journal, and tested as part of a large-scale study in five countries, offers significant progress in this area. The most commonly used tuberculosis tests have been based on microbiological a…",
-      "url": "https://health.economictimes.indiatimes.com/news/industry/simple-rapid-blood-test-can-diagnose-tb-accurately-in-children-lancet-study/104887516",
-      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-104887516,imgsize-14946,width-1200,height=765,overlay-ethealth/industry/simple-rapid-blood-test-can-diagnose-tb-accurately-in-children-lancet-study.jpg",
-      "publishedAt": "2023-11-01T10:32:33Z",
-      "content": "New Delhi: A simple, rapid blood test can help diagnose tuberculosis accurately in children, according to the findings of a study conducted in five countries, including India. About 2,40,000 children… [+2755 chars]"
     }
   ]
 }
