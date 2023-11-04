@@ -1,786 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 92,
+  "totalResults": 162,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
       },
-      "author": "E! NEWS",
-      "title": "Vanessa Marcil Pays Tribute to Ex-Fiancé Tyler Christopher After Death - E! NEWS",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lb25saW5lLmNvbS9uZXdzLzEzODkyMTMvdmFuZXNzYS1tYXJjaWwtcGF5cy10cmlidXRlLXRvLWV4LWZpYW5jZS10eWxlci1jaHJpc3RvcGhlci1hZnRlci1nZW5lcmFsLWhvc3BpdGFsLXN0YXJzLWRlYXRo0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T02:08:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "USA TODAY",
-      "title": "Steven Tyler accused of 'mauling and groping' teen model in new sexual assault lawsuit - USA TODAY",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDIzLzExLzAyL3N0ZXZlbi10eWxlci1zZXh1YWwtYXNzYXVsdC1sYXdzdWl0LWplYW5uZS1iZWxsaW5vLzcxNDI2MjkzMDA3L9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T01:02:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Page Six",
-      "title": "Sandra Bullock is all smiles as she pampers herself after longtime partner Bryan Randall's death - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L3NhbmRyYS1idWxsb2NrLXNtaWxlcy1hZnRlci1wYXJ0bmVyLWJyeWFuLXJhbmRhbGxzLWRlYXRoL9IBamh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L3NhbmRyYS1idWxsb2NrLXNtaWxlcy1hZnRlci1wYXJ0bmVyLWJyeWFuLXJhbmRhbGxzLWRlYXRoL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T01:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Entertainment Weekly News",
-      "title": "Lisa Marie Presley asked Sofia Coppola to change Elvis' portrayal in 'Priscilla' - Entertainment Weekly News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZXcuY29tL21vdmllcy9saXNhLW1hcmllLXByZXNsZXktYXNrZWQtc29maWEtY29wcG9sYS1jaGFuZ2UtcHJpc2NpbGxhLXNjcmlwdC1lbHZpcy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T00:53:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GMA",
-      "title": "Missy Elliott on preparing to become first female rapper in Rock & Roll Hall of Fame - GMA",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lmdvb2Rtb3JuaW5nYW1lcmljYS5jb20vY3VsdHVyZS9zdG9yeS9taXNzeS1lbGxpb3R0LXRhbGtzLXByZXBhcmluZy1iZWNvbWUtZmVtYWxlLXJhcHBlci1pbmR1Y3RlZC0xMDQ1NTY4MzbSAXpodHRwczovL3d3dy5nb29kbW9ybmluZ2FtZXJpY2EuY29tL2FtcC9jdWx0dXJlL3N0b3J5L21pc3N5LWVsbGlvdHQtdGFsa3MtcHJlcGFyaW5nLWJlY29tZS1mZW1hbGUtcmFwcGVyLWluZHVjdGVkLTEwNDU1NjgzNg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T00:42:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Matt LeBlanc spotted for first time since Matthew Perry’s death - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzExLzAyL2VudGVydGFpbm1lbnQvbWF0dC1sZWJsYW5jLXNwb3R0ZWQtZm9yLWZpcnN0LXRpbWUtc2luY2UtbWF0dGhldy1wZXJyeXMtZGVhdGgv0gFvaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjMvMTEvMDIvZW50ZXJ0YWlubWVudC9tYXR0LWxlYmxhbmMtc3BvdHRlZC1mb3ItZmlyc3QtdGltZS1zaW5jZS1tYXR0aGV3LXBlcnJ5cy1kZWF0aC9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03T00:36:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo Entertainment",
-      "title": "Kourtney Kardashian Reveals Why Her Daughter Is 'So Triggered' By Tristan Thompson - Yahoo Entertainment",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2tvdXJ0bmV5LWthcmRhc2hpYW4tcmV2ZWFscy13aHktaGVyLTIzNTI1MTQ1OS5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T23:52:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "Giles Martin on Producing the Beatles’ ‘Now and Then,’ Remixing the Red and Blue Albums, and How Technology Is Enabling a Mass Emotional Experience - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9tdXNpYy9uZXdzL2JlYXRsZXMtZ2lsZXMtbWFydGluLW5vdy1hbmQtdGhlbi1wcm9kdWNlci1yZW1peGluZy1yZWQtYmx1ZS1hbGJ1bXMtaW50ZXJ2aWV3LTEyMzU3Nzg3NDYv0gGBAWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9tdXNpYy9uZXdzL2JlYXRsZXMtZ2lsZXMtbWFydGluLW5vdy1hbmQtdGhlbi1wcm9kdWNlci1yZW1peGluZy1yZWQtYmx1ZS1hbGJ1bXMtaW50ZXJ2aWV3LTEyMzU3Nzg3NDYvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T23:44:00Z",
-      "content": null
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "'Big Brother' star Cirie Fields 'flabbergasted' by Felicia's toenail activity - Entertainment Weekly News",
+      "description": "'Big Brother' star Cirie Fields says she was 'flabbergasted' by Felicia's toenail activity, and reveals whether she would play the game again.",
+      "url": "https://ew.com/tv/big-brother-25-cirie-fields-interview-felicia-toenail/",
+      "urlToImage": "https://ew.com/thmb/mR2a4PndSAXEgqOYBwhIX4DgK0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/big-brother-110323-3-94a2042ea6a0429fa57751df2f7933c0.jpg",
+      "publishedAt": "2023-11-03T17:29:14Z",
+      "content": "You would think that any player on any reality competition show would be smart enough to want to get a legend like Cirie Fields out of the game knowing how dangerous she can be. The reality TV icon m… [+4565 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Cageside Seats"
       },
-      "author": "Kyle Schnitzer, Alex Oliveira",
-      "title": "Robert De Niro's girlfriend testifies 'psychotic' ex-assistant believed she was actor's wife - New York Post ",
-      "description": "Robert De Niro’s girlfriend, Tiffany Chen, said the actor’s former assistant Graham Chase Robinson believed she was his wife — describing her as “crazy,” “psycho…",
-      "url": "https://nypost.com/2023/11/02/news/robert-de-niros-girlfriend-claims-psychotic-ex-assistant-believed-she-was-actors-wife/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/NYPICHPDPICT000071686784.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-11-02T23:32:00Z",
-      "content": "Robert De Niro’s girlfriend said the actor’s former assistant Graham Chase Robinson believed she was his wife — describing her as “crazy,” “psychotic,” and “nuts” during fiery testimony in Manhattan … [+3455 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Detroit News",
-      "title": "Dolly Parton defends Kid Rock collaboration: 'I just accept and love' - Detroit News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9tdXNpYy8yMDIzLzExLzAyL2RvbGx5LXBhcnRvbi1kZWZlbmRzLWtpZC1yb2NrLWNvbGxhYm9yYXRpb24taS1qdXN0LWFjY2VwdC1hbmQtbG92ZS83MTQyOTA0ODAwNy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T23:10:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "HOLA! USA",
-      "title": "Emily Hampshire apologizes for Johnny Depp and Amber Heard costume - HOLA! USA",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmhvbGEuY29tL3VzL2NlbGVicml0aWVzLzIwMjMxMTAyMzUyMTk3L2VtaWx5LWhhbXBzaGlyZS1hcG9sb2d5LWpvaG5ueS1kZXBwLWFtYmVyLWhlYXJkLWNvc3R1bWUv0gF2aHR0cHM6Ly93d3cuaG9sYS5jb20vdXMvY2VsZWJyaXRpZXMvMjAyMzExMDIzNTIxOTcvZW1pbHktaGFtcHNoaXJlLWFwb2xvZ3ktam9obm55LWRlcHAtYW1iZXItaGVhcmQtY29zdHVtZS8_dmlld2FzPWFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T22:59:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Insider",
-      "title": "Priscilla Presley worried Michael Jackson married Lisa Marie because he loved Elvis - Insider",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lmluc2lkZXIuY29tL3ByaXNjaWxsYS1wcmVzbGV5LXdvcnJpZWQtbWljaGFlbC1qYWNrc29uLW1hcnJpZWQtbGlzYS1tYXJpZS1sb3ZlZC1lbHZpcy0yMDIzLTEx0gFsaHR0cHM6Ly93d3cuaW5zaWRlci5jb20vcHJpc2NpbGxhLXByZXNsZXktd29ycmllZC1taWNoYWVsLWphY2tzb24tbWFycmllZC1saXNhLW1hcmllLWxvdmVkLWVsdmlzLTIwMjMtMTE_YW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T22:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Page Six",
-      "title": "'RHOC' star Shannon Beador sentenced to 3 years' probation for DUI - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L3Job2Mtc3Rhci1zaGFubm9uLWJlYWRvci1zZW50ZW5jZWQtdG8tMy15ZWFycy1wcm9iYXRpb24tZm9yLWR1aS_SAXFodHRwczovL3BhZ2VzaXguY29tLzIwMjMvMTEvMDIvZW50ZXJ0YWlubWVudC9yaG9jLXN0YXItc2hhbm5vbi1iZWFkb3Itc2VudGVuY2VkLXRvLTMteWVhcnMtcHJvYmF0aW9uLWZvci1kdWkvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T22:27:09Z",
-      "content": null
+      "author": "Sean Rueter",
+      "title": "Ric Flair is cleared to take bumps in AEW - Cageside Seats",
+      "description": "That per The Nature Boy himself, although the 74 year doesn’t think he’ll wrestle for Tony Khan’s company... even though he wants to.",
+      "url": "https://www.cagesideseats.com/aew/2023/11/3/23945230/ric-flair-wrestle-aew-cleared-take-bumps-another-match",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3pd497TwTTemECqTl2M6SyBGgfw=/0x287:6000x3428/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25055890/1412116002.jpg",
+      "publishedAt": "2023-11-03T17:25:00Z",
+      "content": "Ric Flair debuted for AEW last week, showing up for a run thats tied to the rest of Stings career which is set to end at Revolution 2024, likely in late February or early March. And yesterday (Nov. 2… [+1343 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
+        "name": "Deadline"
       },
-      "author": "KTLA Los Angeles",
-      "title": "No charges in crash involving ‘Ferris Bueller,’ ‘Succession’ actor Alan Ruck - KTLA Los Angeles",
-      "description": null,
-      "url": "https://ktla.com/news/local-news/no-charges-in-crash-involving-ferris-bueller-succession-actor-alan-ruck/",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T22:22:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IndiaTimes",
-      "title": "Kareena Kapoor Khan, Karisma Kapoor, Amrita Arora look all ready for Shah Rukh Khan's big birthday bash - IndiaTimes",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL2thcmVlbmEta2Fwb29yLWtoYW4ta2FyaXNtYS1rYXBvb3ItYW1yaXRhLWFyb3JhLWxvb2stYWxsLXJlYWR5LWZvci1zaGFoLXJ1a2gta2hhbnMtYmlnLWJpcnRoZGF5LWJhc2gvYXJ0aWNsZXNob3cvMTA0OTI2NTc0LmNtc9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T22:08:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Mansion Global",
-      "title": "Britney Spears’s Childhood Home in Louisiana, Complete with ‘N Sync Sticker, Listed for $1.2 Million - Mansion Global",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5tYW5zaW9uZ2xvYmFsLmNvbS9hcnRpY2xlcy9icml0bmV5LXNwZWFyc3MtY2hpbGRob29kLWhvbWUtaW4tbG91aXNpYW5hLWNvbXBsZXRlLXdpdGgtbi1zeW5jLXN0aWNrZXItbGlzdGVkLWZvci0xLTItbWlsbGlvbi1lNjFiYmYyN9IBkwFodHRwczovL3d3dy5tYW5zaW9uZ2xvYmFsLmNvbS9hbXAvYXJ0aWNsZXMvYnJpdG5leS1zcGVhcnNzLWNoaWxkaG9vZC1ob21lLWluLWxvdWlzaWFuYS1jb21wbGV0ZS13aXRoLW4tc3luYy1zdGlja2VyLWxpc3RlZC1mb3ItMS0yLW1pbGxpb24tZTYxYmJmMjc?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "OregonLive",
-      "title": "Taylor Swift is bringing The Eras Tour just one direct train ride away from Portland next year - OregonLive",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5vcmVnb25saXZlLmNvbS9lbnRlcnRhaW5tZW50LzIwMjMvMTEvdGF5bG9yLXN3aWZ0LWlzLWJyaW5naW5nLXRoZS1lcmFzLXRvdXItanVzdC1vbmUtZGlyZWN0LXRyYWluLXJpZGUtYXdheS1mcm9tLXBvcnRsYW5kLW5leHQteWVhci5odG1s0gGjAWh0dHBzOi8vd3d3Lm9yZWdvbmxpdmUuY29tL2VudGVydGFpbm1lbnQvMjAyMy8xMS90YXlsb3Itc3dpZnQtaXMtYnJpbmdpbmctdGhlLWVyYXMtdG91ci1qdXN0LW9uZS1kaXJlY3QtdHJhaW4tcmlkZS1hd2F5LWZyb20tcG9ydGxhbmQtbmV4dC15ZWFyLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:54:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Hindustan Times",
-      "title": "Career Horoscope Today for Nov 3, 2023:Promotions are foreseen for these zodiacs - Hindustan Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vYXN0cm9sb2d5L2hvcm9zY29wZS9jYXJlZXItaG9yb3Njb3BlLXRvZGF5LWZvci1ub3ZlbWJlci0zLTIwMjMtcHJvbW90aW9ucy1hcmUtZm9yZXNlZW4tZm9yLXRoZXNlLXpvZGlhY3MtMTAxNjk4OTIxODM4NzIzLmh0bWzSAaABaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2FzdHJvbG9neS9ob3Jvc2NvcGUvY2FyZWVyLWhvcm9zY29wZS10b2RheS1mb3Itbm92ZW1iZXItMy0yMDIzLXByb21vdGlvbnMtYXJlLWZvcmVzZWVuLWZvci10aGVzZS16b2RpYWNzLTEwMTY5ODkyMTgzODcyMy1hbXAuaHRtbA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:30:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Deadline",
-      "title": "‘Superman & Lois’ To End With Upcoming Season 4 At CW - Deadline",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvc3VwZXJtYW4tYW5kLWxvaXMtY2FuY2VsZWQtZW5kLXNlYXNvbi00LWN3LTEyMzU1OTE0MTgv0gFXaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyMy8xMS9zdXBlcm1hbi1hbmQtbG9pcy1jYW5jZWxlZC1lbmQtc2Vhc29uLTQtY3ctMTIzNTU5MTQxOC9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "E! NEWS",
-      "title": "Tori Spelling Kisses New Man After Dean McDermott Split - E! NEWS",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL3ZpZGVvcy8yMjc4OTkxOTM5ODAxL3Rvcmktc3BlbGxpbmcta2lzc2VzLW5ldy1tYW4tYWZ0ZXItZGVhbi1tY2Rlcm1vdHQtc3BsaXTSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:17:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Parade Magazine",
-      "title": "Matthew Perry's Ex-Fiancée Molly Hurwitz Seen for the First Time Since His Death - Parade Magazine",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vcGFyYWRlLmNvbS9uZXdzL21hdHRoZXctcGVycnlzLWV4LWZpYW5jZWUtbW9sbHktaHVyd2l0ei1waG90b2dyYXBoZWQtZmlyc3QtdGltZS1zaW5jZS1oaXMtZGVhdGjSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T21:02:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Dexerto",
-      "title": "Rosanna Pansino redacts apology to MrBeast in deleted post - Dexerto",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRleGVydG8uY29tL2VudGVydGFpbm1lbnQvcm9zYW5uYS1wYW5zaW5vLXJlZGFjdHMtYXBvbG9neS10by1tcmJlYXN0LWluLWRlbGV0ZWQtcG9zdC0yMzY1NTI3L9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T20:36:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Charles Pulliam-Moore",
-      "title": "HBO head Casey Bloys says he's sorry for harassing critics on Twitter - The Verge",
-      "description": "Casey Bloys apologizes following reports that he and fellow HBO exec Kathleen McCaffrey hatched a plot to harass critics on Twitter with sock puppet accounts.",
-      "url": "https://www.theverge.com/23943436/hbo-max-ceo-casey-bloys-twitter-harassment",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/P3TE5z0xonfkMpZn-n3gbagLnLU=/618x159:4000x2268/1200x628/filters:focal(2099x1040:2100x1041)/cdn.vox-cdn.com/uploads/chorus_asset/file/25052506/1704684277.jpg",
-      "publishedAt": "2023-11-02T20:16:44Z",
-      "content": "HBO head Casey Bloys says hes sorry for harassing critics on Twitter\r\nHBO head Casey Bloys says hes sorry for harassing critics on Twitter\r\n / Following reports of his plan to build a secret army of … [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Samantha Chery",
-      "title": "Taylor Tomlinson to host new CBS late-night show - The Washington Post",
-      "description": "Taylor Tomlinson, a stand-up comedian tapped to host a new show on CBS produced by Stephen Colbert, will be the only woman with the late-night gig.",
-      "url": "https://www.washingtonpost.com/entertainment/tv/2023/11/02/taylor-tomlinson-after-midnight-cbs-late-night-show/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTSAD4KNFJ65ZTVENYBVWQVNBA.jpg&w=1440",
-      "publishedAt": "2023-11-02T20:13:00Z",
-      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nStand-up comedian Taylor Tomlinson will soon be the only woman hosting a late-night television series when she takes the helm of the n… [+2385 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo Finance UK",
-      "title": "Photo Shows 'Wonder Woman' Actor Gal Gadot Turning Up to Serve in the Israel Defense Forces? - Yahoo Finance UK",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3Bob3RvLXNob3dzLXdvbmRlci13b21hbi1hY3Rvci0yMDAxMDA0MzguaHRtbNIBV2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3Bob3RvLXNob3dzLXdvbmRlci13b21hbi1hY3Rvci0yMDAxMDA0MzguaHRtbA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T20:01:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "Ric Flair’s Wooooo! Energy Becomes Official Energy Drink of AEW, Legendary Wrestler Reveals Desire to Work with MJF (EXCLUSIVE) - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3JpYy1mbGFpci1hZXctd29vb29vLWVuZXJneS1tamYtMTIzNTc3ODExMC_SAVBodHRwczovL3ZhcmlldHkuY29tLzIwMjMvdHYvbmV3cy9yaWMtZmxhaXItYWV3LXdvb29vby1lbmVyZ3ktbWpmLTEyMzU3NzgxMTAvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T20:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox News",
-      "title": "Travis Kelce plays into joke that Taylor Swift 'put me on the map' - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvdHJhdmlzLWtlbGNlLXBsYXlzLWludG8tam9rZS10YXlsb3Itc3dpZnQtcHV0LW1lLW9uLW1hcNIBYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvdHJhdmlzLWtlbGNlLXBsYXlzLWludG8tam9rZS10YXlsb3Itc3dpZnQtcHV0LW1lLW9uLW1hcC5hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T19:46:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN",
-      "title": "‘All the Light We Cannot See’ earnestly turns the prize-winning book into a dim miniseries - CNN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L2FsbC10aGUtbGlnaHQtd2UtY2Fubm90LXNlZS1yZXZpZXctbmV0ZmxpeC9pbmRleC5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T19:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Deadline",
-      "title": "Children’s & Family Emmy Nominations Revealed - Deadline",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvY2hpbGRyZW5zLWZhbWlseS1lbW15LW5vbWluYXRpb25zLTIwMjMtbGlzdC0xMjM1NTkxMjUxL9IBWGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMTEvY2hpbGRyZW5zLWZhbWlseS1lbW15LW5vbWluYXRpb25zLTIwMjMtbGlzdC0xMjM1NTkxMjUxL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T19:42:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "123telugu.com"
-      },
-      "author": null,
-      "title": "Naga Chaitanya’s special touch for Karthi’s Japan - 123telugu",
-      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-      "url": "https://www.123telugu.com/mnews/naga-chaitanyas-special-touch-for-karthis-japan.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2023-11-02T18:45:00Z",
-      "content": "Tamil star Karthi’s much-awaited action entertainer, Japan, is gearing up for its world theatrical release on November 10. Directed by the critically acclaimed Tamil filmmaker Raju Murugan, the film … [+846 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Page Six",
-      "title": "Jennifer Lopez: How Ben Affleck makes me feel 'more beautiful than' ever - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L2plbm5pZmVyLWxvcGV6LWhvdy1iZW4tYWZmbGVjay1tYWtlcy1tZS1mZWVsLW1vcmUtYmVhdXRpZnVsLXRoYW4tZXZlci_SAXdodHRwczovL3BhZ2VzaXguY29tLzIwMjMvMTEvMDIvZW50ZXJ0YWlubWVudC9qZW5uaWZlci1sb3Blei1ob3ctYmVuLWFmZmxlY2stbWFrZXMtbWUtZmVlbC1tb3JlLWJlYXV0aWZ1bC10aGFuLWV2ZXIvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T18:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jagran.com"
-      },
-      "author": "Swati Singh",
-      "title": "Upcoming Tamil OTT Releases November 2023 Leo, Jawan Tamil To Raththam; 5 Blockbusters To Watch Online - Jagran English",
-      "description": "Upcoming Tamil OTT Releases November 2023: From Irugapattru, Leo to Jawan Tamil, here is a complete list of Tamil blockbuster movies to release in the month of November on OTT platforms like Netflix, Prime Video, Aha Tamil and more.",
-      "url": "https://english.jagran.com/entertainment/upcoming-tamil-ott-releases-november-2023-leo-jawan-tamil-raththam-netflix-prime-video-zee5-sonyliv-aha-10110920",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/oct/leo jawan ott release1698750388455.jpg",
-      "publishedAt": "2023-11-02T18:24:00Z",
-      "content": "Upcoming Tamil OTT Releases November 2023: As a result of the ongoing challenges brought about by the COVID-19 pandemic, many Tamil filmmakers have opted to release their movies on online platforms, … [+2351 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "William and Kate watch thrilling go-kart race - The Royal Family Channel",
-      "description": "The Prince and Princess of Wales watched a thrilling go-karting race at Inverness Kart Raceway, as they chatted to young people involved in programs run by H...",
-      "url": "https://www.youtube.com/watch?v=2nGAsRlC1W8",
-      "urlToImage": "https://i.ytimg.com/vi/2nGAsRlC1W8/maxresdefault.jpg",
-      "publishedAt": "2023-11-02T18:20:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Associated Press",
-      "title": "Final ‘Yellowstone’ episodes delayed until November 2024 - The Associated Press",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3llbGxvd3N0b25lLWZpbmFsLWVwaXNvZGVzLTIwMjQtY29zdG5lci10YXlsb3Itc2hlcmlkYW4tYzRmZjE4ZjFiZWY4MDA0OWQ4MDEzNjU2MTBlNDI2ZTXSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T18:01:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Michelin's 11 most affordable NYC restaurants revealed - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzExLzAyL2xpZmVzdHlsZS9taWNoZWxpbnMtMTEtbW9zdC1hZmZvcmRhYmxlLW55Yy1yZXN0YXVyYW50cy1yZXZlYWxlZC1pbi0yMDIzLWxpc3Qv0gFvaHR0cHM6Ly9ueXBvc3QuY29tLzIwMjMvMTEvMDIvbGlmZXN0eWxlL21pY2hlbGlucy0xMS1tb3N0LWFmZm9yZGFibGUtbnljLXJlc3RhdXJhbnRzLXJldmVhbGVkLWluLTIwMjMtbGlzdC9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T17:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN",
-      "title": "Suspect accused of killing Tupac Shakur pleads not guilty in Las Vegas court - CNN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wMi91cy90dXBhYy1tdXJkZXItc3VzcGVjdC1kdWFuZS1kYXZpcy1jb3VydC1hcHBlYXJhbmNlL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzExLzAyL3VzL3R1cGFjLW11cmRlci1zdXNwZWN0LWR1YW5lLWRhdmlzLWNvdXJ0LWFwcGVhcmFuY2UvaW5kZXguaHRtbA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T17:52:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "123telugu.com"
-      },
-      "author": null,
-      "title": "Bigg Boss 7 Telugu: Voting for this celebs drastically improves - 123telugu",
-      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-      "url": "https://www.123telugu.com/mnews/bigg-boss-7-telugu-voting-for-this-celebs-drastically-improves.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2023-11-02T17:30:00Z",
-      "content": "Bigg Boss 7 is going great guns in the last two weeks. Ever since Sandeep master was ousted from the show, there has been a sense of fear in the hearts of the housemates. They have also been vocal ab… [+677 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Billboard",
-      "title": "Rock Hall of Fame Class of 2023’s Biggest Chart Hits - Billboard",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbGlzdHMvcm9jay1yb2xsLWhhbGwtZmFtZS1jbGFzcy0yMDIzLWJpZ2dlc3QtY2hhcnQtaGl0cy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T17:22:35Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Associated Press",
-      "title": "'What Happens Later' co-stars Meg Ryan and David Duchovny talk about rom-coms, fame and Nora - The Associated Press",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ZpbG0tbWVnLXJ5YW4tZGF2aWQtZHVjaG92bnktd2hhdC1oYXBwZW5zLWxhdGVyLTI0NTg5NjM2MDM1ZjMwMGQ4YzljYjI3Y2Q5ZGYzMDU00gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T17:14:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Drinking too much water can cause seizures: Brooke Shields' health scare explained - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzExLzAyL2xpZmVzdHlsZS9kcmlua2luZy10b28tbXVjaC13YXRlci1jYW4tY2F1c2Utc2VpenVyZXMtYnJvb2tlLXNoaWVsZHMtaGVhbHRoLXNjYXJlLWV4cGxhaW5lZC_SAX1odHRwczovL255cG9zdC5jb20vMjAyMy8xMS8wMi9saWZlc3R5bGUvZHJpbmtpbmctdG9vLW11Y2gtd2F0ZXItY2FuLWNhdXNlLXNlaXp1cmVzLWJyb29rZS1zaGllbGRzLWhlYWx0aC1zY2FyZS1leHBsYWluZWQvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T17:13:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox News",
-      "title": "Mariah Carey facing $20M lawsuit over 'All I Want for Christmas is You' - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvbWFyaWFoLWNhcmV5LWZhY2luZy0yMC1taWxsaW9uLWxhd3N1aXQtb3Zlci1hbGwtaS13YW50LWZvci1jaHJpc3RtYXMtaXMteW910gF1aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vZW50ZXJ0YWlubWVudC9tYXJpYWgtY2FyZXktZmFjaW5nLTIwLW1pbGxpb24tbGF3c3VpdC1vdmVyLWFsbC1pLXdhbnQtZm9yLWNocmlzdG1hcy1pcy15b3UuYW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T16:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "OregonLive",
-      "title": "Green Day, Smashing Pumpkins coming to Portland’s Providence Park next year - OregonLive",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lm9yZWdvbmxpdmUuY29tL2VudGVydGFpbm1lbnQvMjAyMy8xMS9ncmVlbi1kYXktc21hc2hpbmctcHVtcGtpbnMtY29taW5nLXRvLXBvcnRsYW5kcy1wcm92aWRlbmNlLXBhcmstbmV4dC15ZWFyLmh0bWzSAY4BaHR0cHM6Ly93d3cub3JlZ29ubGl2ZS5jb20vZW50ZXJ0YWlubWVudC8yMDIzLzExL2dyZWVuLWRheS1zbWFzaGluZy1wdW1wa2lucy1jb21pbmctdG8tcG9ydGxhbmRzLXByb3ZpZGVuY2UtcGFyay1uZXh0LXllYXIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T16:19:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Page Six",
-      "title": "Charlie Sheen is friends with 'little maggot' Chuck Lorre again — 12 years after feud - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L2NoYXJsaWUtc2hlZW4taXMtZnJpZW5kcy13aXRoLWNodWNrLWxvcnJlLWFnYWluLTEyLXllYXJzLWFmdGVyLWZldWQv0gF1aHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDIzLzExLzAyL2VudGVydGFpbm1lbnQvY2hhcmxpZS1zaGVlbi1pcy1mcmllbmRzLXdpdGgtY2h1Y2stbG9ycmUtYWdhaW4tMTIteWVhcnMtYWZ0ZXItZmV1ZC9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T16:09:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Kim Kardashian Says North West Prefers Living With Kanye West | E! News - E! News",
-      "description": "On the Nov. 2 episode of \"The Kardashians,\" Kim Kardashian explains why daughter North says she prefers to spend time with her dad, Kanye West. Also, Khloé K...",
-      "url": "https://www.youtube.com/watch?v=jpbcOrLAfhw",
-      "urlToImage": "https://i.ytimg.com/vi/jpbcOrLAfhw/maxresdefault.jpg",
-      "publishedAt": "2023-11-02T16:07:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Paresh Rawal talks about the fate of Hera Pheri 3: I always have this example of Munnabhai MBBS and Lage - IndiaTimes",
-      "description": "Paresh Rawal, who is all set to return as Babu Bhaiya in Hera Pheri 3 along with Akshay Kumar as Raju and Suniel Shetty as Ghanshyam, recently opened",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-talks-about-the-fate-of-hera-pheri-3-i-always-have-this-example-of-munnabhai-mbbs-and-lage-raho-munnabhai/articleshow/104923324.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104923354,width-1070,height-580,imgsize-54020,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T15:56:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa France",
-      "title": "Keith Lee tried to review some Atlanta restaurants on TikTok. All hell broke loose - CNN",
-      "description": "TikTok food critic Keith Lee came to Atlanta and posted mixed reviews of several restaurants. Then came viral videos, death threats, responses by Grammy-winning artists and what some say is an overdue reckoning for the Atlanta restaurant scene.",
-      "url": "https://www.cnn.com/2023/11/02/entertainment/keith-lee-atlanta-restaurant-reviews-cec/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231101141753-keith-lee-0623-restricted.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-11-02T15:39:00Z",
-      "content": "Most restaurants are usually thrilled to have Keith Lee review their food.\r\nWith more than 14.5 million followers on TikTok alone, Lee brings exposure that has helped turn some businesses around, wit… [+9679 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brian Truitt",
-      "title": "'The Holdovers' review: Paul Giamatti's new movie feels like a classic - USA TODAY",
-      "description": "Fabulous performances and a 1970s feel highlight Paul Giamatti and Alexander Payne's \"The Holdovers,\" a holiday time capsule that might be a classic.",
-      "url": "https://www.usatoday.com/story/entertainment/movies/2023/11/02/the-holdovers-movie-review/71346730007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/27/USAT/71347302007-ho-080411697826388.jpg?crop=3993,2246,x0,y74&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2023-11-02T15:19:06Z",
-      "content": "Alexander Payne has gone back to school with The Holdovers, an outstanding student-teacher dramedy thats a bit Dead Poets Society but way more Welcome Back, Kotter.\r\nThe Election director is coming f… [+3367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Ryan Gajewski",
-      "title": "‘Kingdom of the Planet of the Apes’ Trailer Teases Franchise’s Latest Battle - Hollywood Reporter",
-      "description": "Picking up many years after 2017's 'War for the Planet of the Apes,' Wes Ball's film hits theaters in May 2024",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kingdom-of-the-planet-of-the-apes-trailer-film-1235634998/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Kingdom-of-the-Planet-of-the-Apes-1-Publicity-H-2022.jpg?w=1024",
-      "publishedAt": "2023-11-02T15:05:46Z",
-      "content": "The conflict between man and simian is renewed in the first trailer for 20th Century Studios‘ Kingdom of the Planet of the Apes.\r\nSet for theatrical release on May 24, 2024, Wes Ball‘s film takes pla… [+1303 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox News",
-      "title": "Matthew Perry's death has devastated 'Friends' cast, director says: 'It's a brother dying' - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvbWF0dGhldy1wZXJyeXMtZGVhdGgtZGV2YXN0YXRlZC1mcmllbmRzLWNhc3QtZGlyZWN0b3Itc2F5cy1icm90aGVyLWR5aW5n0gFyaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vZW50ZXJ0YWlubWVudC9tYXR0aGV3LXBlcnJ5cy1kZWF0aC1kZXZhc3RhdGVkLWZyaWVuZHMtY2FzdC1kaXJlY3Rvci1zYXlzLWJyb3RoZXItZHlpbmcuYW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T14:45:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "E! NEWS",
-      "title": "Sister Wives: Kody Reacts to Janelle's New Chapter Without Him - E! NEWS",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM4OTE0OC9zaXN0ZXItd2l2ZXMta29keS1icm93bi1zaGFyZXMtaGlzLWhvbmVzdC1yZWFjdGlvbi10by1leC1qYW5lbGxlcy1uZXctY2hhcHRlctIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T14:01:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Crunchyroll",
-      "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2 to Stream on Crunchyroll - Crunchyroll",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jcnVuY2h5cm9sbC5jb20vbmV3cy9hbm5vdW5jZW1lbnRzLzIwMjMvMTEvMi9hdHRhY2stb24tdGl0YW4tZmluYWwtc2Vhc29uLXRoZS1maW5hbC1jaGFwdGVycy1zcGVjaWFsLTItdG8tc3RyZWFtLW9uLWNydW5jaHlyb2xs0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T14:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPVI-TV"
-      },
-      "author": null,
-      "title": "Kevin Bacon pig news: Gettysburg swine finally captured with sticky bun filled with pet-safe Benadryl after 18 days on the lam - WPVI-TV",
-      "description": "His search gained national attention. Even the real Philadelphia-native actor got in on the action, posting on Threads over the weekend to \"bring Kevin Bacon home!\"",
-      "url": "https://6abc.com/kevin-bacon-pig-news-gettysburg-pennsylvania/14003035/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/14003259_110223-wpvi-kevin-bacon-pig-4a-vo-video-vid.jpg?w=1600",
-      "publishedAt": "2023-11-02T13:00:38Z",
-      "content": "GETTYSBURG, Pa. (WPVI) -- A Gettysburg pig named Kevin Bacon was a little \"footloose\" for nearly three weeks. Now, after 18 days on the run, he has finally been captured.\r\nIt took a sticky bun filled… [+344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IndieWire"
-      },
-      "author": "Tom Brueggemann",
-      "title": "'The Marvels' Will Test Our Franchise Fatigue: November Box Office Preview - IndieWire",
-      "description": "With the December release calendar depleted by the strikes, November box office will need all the help it can get.",
-      "url": "https://www.indiewire.com/news/box-office/the-marvels-test-franchise-fatigue-november-box-office-preview-1234921899/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/09/dims.apnews.jpg",
-      "publishedAt": "2023-11-02T13:00:00Z",
-      "content": "October was another winner over 2022, thanks mostly to “Taylor Swift: The Eras Tour” (AMC) and early stellar results for “Five Nights at Freddy’s” (Universal). That makes 10 of 11 months that improve… [+4214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Entertainment Tonight"
-      },
-      "author": "Anthony Dominic",
-      "title": "Kevin Federline's Ex Shar Jackson Calls Out Britney Spears Over Her Memoir - Entertainment Tonight",
-      "description": "The 'Moesha' star claims Spears' story in 'The Woman in Me' isn't accurate.",
-      "url": "https://www.etonline.com/kevin-federlines-ex-shar-jackson-calls-out-britney-spears-over-her-memoir-214086",
-      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-08/ETD_INTV_KFED_LAWYER_202308147_16X9.jpg?h=d1cb525d",
-      "publishedAt": "2023-11-02T12:38:00Z",
-      "content": "Britney Spears made several shocking claims about her life and relationships in her memoir, The Woman in Me, but one particular story has already come under scrutiny, as it contradicts the recollecti… [+2938 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Exclusive - Bigg Boss 17's Sana Raees Khan’s father on defamation case: My daughter has not taken names o - Times of India",
-      "description": "Lawyer Sana Raees Khan, a popular contestant on Bigg Boss 17, is gaining attention both inside and outside the house. She has been involved in a defam",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-bigg-boss-17s-sana-raees-khans-father-on-defamation-case-my-daughter-has-not-taken-names-of-the-people-she-hasnt-fought-cases-for/articleshow/104919324.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104919499,width-1070,height-580,imgsize-40118,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T12:34:00Z",
-      "content": "Baby names of Kourtney, Kim and Khloe Kardashian's kids"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Vicky Kaushal began concentrating on his body after being with Katrina Kaif,' says fitness trainer Yasmin - IndiaTimes",
-      "description": "Katrina Kaif's trainer, Yasmin Karachiwala, commends her dedication and hard work in achieving her fit physique and successful career. She practices a",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-began-concentrating-on-his-body-after-being-with-katrina-kaif-says-fitness-trainer-yasmin-karachiwala/articleshow/104919274.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104919266,width-1070,height-580,imgsize-65616,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T12:26:10Z",
-      "content": "Parineeti, Kiara, Katrina and others embrace tradition as they celebrate Karwa Chauth"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Times of India",
-      "title": "Sunny Deol gets candid about Shah Rukh Khan on ‘Koffee with Karan’: ‘He’s hardworking but what I don’t like about him is…’ - Times of India",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS92aWRlb3MvZXRpbWVzL2JvbGx5d29vZC9zdW5ueS1kZW9sLWdldHMtY2FuZGlkLWFib3V0LXNoYWgtcnVraC1raGFuLW9uLWtvZmZlZS13aXRoLWthcmFuLWhlcy1oYXJkd29ya2luZy1idXQtd2hhdC1pLWRvbnQtbGlrZS1hYm91dC1oaW0taXMvdmlkZW9zaG93LzEwNDkxNjQyNy5jbXPSAcoBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vdmlkZW9zL2V0aW1lcy9ib2xseXdvb2Qvc3VubnktZGVvbC1nZXRzLWNhbmRpZC1hYm91dC1zaGFoLXJ1a2gta2hhbi1vbi1rb2ZmZWUtd2l0aC1rYXJhbi1oZXMtaGFyZHdvcmtpbmctYnV0LXdoYXQtaS1kb250LWxpa2UtYWJvdXQtaGltLWlzL2FtcF92aWRlb3Nob3cvMTA0OTE2NDI3LmNtcw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T12:04:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Outkick",
-      "title": "New 'Hunger Games' Prequel Trailer Is Hot Garbage: VIDEO - Outkick",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm91dGtpY2suY29tL3RoZS1odW5nZXItZ2FtZXMtdGhlLWJhbGxhZC1vZi1zb25nYmlyZHMtc25ha2VzLW5ldy1wcmV2aWV3L9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T12:02:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Roman Reigns vs. LA Knight – Road to WWE Crown Jewel 2023: WWE Playlist - WWE",
-      "description": "Watch the full rivalry between Roman Reigns and his top challenger LA Knight before they compete for The Tribal Chief’s Undisputed WWE Universal Championship...",
-      "url": "https://www.youtube.com/watch?v=yJc7SxGcRAU",
-      "urlToImage": "https://i.ytimg.com/vi/yJc7SxGcRAU/maxresdefault.jpg",
-      "publishedAt": "2023-11-02T12:00:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post ",
-      "title": "Former NBC president Warren Littlefield recalls 'gifted' Matthew Perry 'saving' 1996 upfronts - New York Post ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL255cG9zdC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L2Zvcm1lci1uYmMtcHJlc2lkZW50LXdhcnJlbi1saXR0bGVmaWVsZC1yZWNhbGxzLWdpZnRlZC1tYXR0aGV3LXBlcnJ5LXNhdmluZy0xOTk2LXVwZnJvbnRzL9IBigFodHRwczovL255cG9zdC5jb20vMjAyMy8xMS8wMi9lbnRlcnRhaW5tZW50L2Zvcm1lci1uYmMtcHJlc2lkZW50LXdhcnJlbi1saXR0bGVmaWVsZC1yZWNhbGxzLWdpZnRlZC1tYXR0aGV3LXBlcnJ5LXNhdmluZy0xOTk2LXVwZnJvbnRzL2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T11:39:00Z",
-      "content": null
+      "author": "Armando Tinoco",
+      "title": "‘Vanderpump Rules’ Sets Season 11 Premiere With Rachel Leviss Not Returning – BravoCon 2023 - Deadline",
+      "description": "The tea is spilling at BravoCon 2023 and amid the three-day event it was announced that Vanderpump Rules Season 11 will return in January. The aftermath of Scandoval will be televised and viewers w…",
+      "url": "https://deadline.com/2023/11/vanderpump-rules-season-11-premiere-return-2024-rachel-leviss-1235592159/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/TCDVARU_VO030.jpg?w=1024",
+      "publishedAt": "2023-11-03T17:24:00Z",
+      "content": "The tea is spilling at BravoCon 2023 and amid the three-day event it was announced that Vanderpump Rules Season 11 will return in January. The aftermath of Scandoval will be televised and viewers wil… [+2547 chars]"
     },
     {
       "source": {
@@ -788,90 +47,51 @@
         "name": "BBC News"
       },
       "author": "https://www.facebook.com/bbcnews",
-      "title": "Taylor Tomlinson: Comedian, 29, fills James Corden's late TV show slot - BBC.com",
-      "description": "The US comic becomes the only woman and youngest host of the coveted US TV late-night show slots.",
-      "url": "https://www.bbc.com/news/entertainment-arts-67296327",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14DDD/production/_131596458_gettyimages-1436733812.jpg",
-      "publishedAt": "2023-11-02T11:26:34Z",
-      "content": "Comedian Taylor Tomlinson is set to host a new show on the CBS network, making her the only female late-night host in the US.\r\nAfter Midnight will air next year after The Late Show with Stephen Colbe… [+2273 chars]"
+      "title": "Jung Kook's Golden: BTS star crowned 'pop king' by critics thanks to solo album - BBC.com",
+      "description": "Critics say the star's solo debut is \"pop bliss\" and he has \"punched his ticket to pop superstardom\".",
+      "url": "https://www.bbc.com/news/entertainment-arts-67307109",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1AD6/production/_131607860_gettyimages-1443038856.jpg",
+      "publishedAt": "2023-11-03T17:08:09Z",
+      "content": "BTS star Jung Kook's first solo album has been met with praise by critics, with one calling him \"a new pop king\" and another calling it \"pop bliss\".\r\nThe South Korean singer, 26, is performing alone … [+3746 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Variety"
       },
-      "author": "IGN",
-      "title": "Scarlett Johansson Takes Legal Action Against AI App Misusing Her Likeness - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvc2NhcmxldHQtam9oYW5zc29uLXRha2VzLWxlZ2FsLWFjdGlvbi1hZ2FpbnN0LWFpLWFwcC11c2luZy1oZXItbGlrZW5lc3PSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-02T10:57:36Z",
-      "content": null
+      "author": "Laura Clark",
+      "title": "‘Echo’ Trailer Reveals Major Marvel Firsts: TV-MA Rating, Simultaneous Hulu Debut and Native American and Deaf Lead - Variety",
+      "description": "\"Echo\" series director reveals Marvel's first show rated TV-MA, as well as a debut on Hulu and the focus on its Native and deaf lead.",
+      "url": "https://variety.com/2023/tv/news/echo-trailer-marvel-hulu-rating-release-date-1235778785/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-03-at-12.02.54-PM.png?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-03T17:03:00Z",
+      "content": "The Marvel series “Echo” — which debuted its inaugural trailer on Friday and premieres on Jan. 10 — contains several firsts for the company. It’s the first Marvel Studios production that will debut s… [+6844 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Nancy Tartaglione",
+      "title": "‘Killers Of The Flower Moon’ Crosses $100M Global Box Office - Deadline",
+      "description": "Martin Scorsese’s Killers of the Flower Moon, from Apple, Paramount and Imperative Entertainment, has set a milestone, crossing the $100M mark at the global box office through Thursday. As it heads…",
+      "url": "https://deadline.com/2023/11/killers-of-the-flower-moon-milestone-global-box-office-scorsese-dicaprio-1235592084/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/10/MCDKIOF_PA012.jpg?w=1024",
+      "publishedAt": "2023-11-03T16:41:00Z",
+      "content": "Martin Scorsese’s Killers of the Flower Moon, from Apple, Paramount and Imperative Entertainment, has set a milestone, crossing the $100M mark at the global box office through Thursday. As it heads i… [+1642 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Anushka Sharma shared a picture and hinted at skipping Karwa Chauth fast this year; is it because of her second pregnancy? - Times of India",
-      "description": "While many Bollywood celebs celebrated Karwa Chauth and also shared pictures with their better halves on social media, Anushka Sharma seems to have skipped her celebrations this year. The actress who is rumoured to be second time pregnant posted a picture on …",
-      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/anushka-sharma-shared-a-picture-and-hinted-at-skipping-karwa-chauth-fast-this-year-is-it-because-of-her-second-pregnancy/videoshow/104916051.cms",
-      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104916051,imgsize-49080.cms",
-      "publishedAt": "2023-11-02T10:52:10Z",
-      "content": "Nov 02, 2023, 04:22PM ISTSource: etimes.inWhile many Bollywood celebs celebrated Karwa Chauth and also shared pictures with their better halves on social media, Anushka Sharma seems to have skipped h… [+1183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Greatandhra.com"
-      },
-      "author": "GREATANDHRA BUREAU",
-      "title": "Keedaa Cola Trimmed, Many Surprises In Store.. - Greatandhra",
-      "description": "Director Tharun Bhascker’s forthcoming venture Keedaa Cola is due for release tomorrow. The director realized his dream of making a crime comedy",
-      "url": "https://www.greatandhra.com/movies/news/keedaa-cola-trimmed-many-surprises-in-store-133343",
-      "urlToImage": "https://www.greatandhra.com/newphotos10/kondacola1698921898.jpeg",
-      "publishedAt": "2023-11-02T10:44:58Z",
-      "content": "Director Tharun Bhascker’s forthcoming venture Keedaa Cola is due for release tomorrow.\r\nThe director realized his dream of making a crime comedy with Keedaa Cola which will have hilarious entertainm… [+651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bollywood Life"
-      },
-      "author": "Sanskruti Nemane",
-      "title": "TRP Report Week 43: Anupamaa dethroned, slips down to third spot; Bigg Boss 17 sees major downfall - Bollywood Life",
-      "description": "The TRP report of week 43 is out now. This week Anupamaa has slipped down to the third spot. Ghum Hai Kisikey Pyaar Meiin and Teri Meri Dooriyaann has overtaken it.",
-      "url": "https://www.bollywoodlife.com/photos/trp-report-week-43-anupamaa-dethroned-slips-down-to-third-spot-bigg-boss-17-sees-major-downfall-entertainment-news-celeb-photos-2672950/",
-      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2023/11/Anupamaa-Teri-Meri-Dooriyaann.jpg",
-      "publishedAt": "2023-11-02T10:27:03Z",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Policy\r\nReject allAccept… [+11 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "Puja Talwar",
-      "title": "Salman Khan`s Tiger 3 Releases On Diwali - Will There Be A Box Office Dhamaka Like SRK`s Jawan And Pathan? - Zee News",
-      "description": "The Tiger is ready to roar once again and set the cash registers ringing this Diwali. Following the mega successes of Shahrukh Khan’s Pathan and Jawan, as well as Sunny Deol’s Gadar 2, Salman Khan’s Tiger 3 is one of the most anticipated films of 2023. Salman…",
-      "url": "https://zeenews.india.com/people/salman-khans-tiger-3-releases-on-diwali-will-there-be-a-dhamaka-like-srks-jawan-and-pathan-2683231.html",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/11/02/1309521-tiger-3.jpg",
-      "publishedAt": "2023-11-02T10:14:53Z",
-      "content": "The Tiger is ready to roar once again and set the cash registers ringing this Diwali. Following the mega successes of Shahrukh Khans \"Pathan\" and \"Jawan,\" as well as Sunny Deols \"Gadar 2,\" Salman Kha… [+3900 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Yeh Rishta Kya Kehlata Hai fans furious over departure of Harshad Chopda and Pranali Rathod, write “Agar - Times of India",
-      "description": "The popular Hindi TV show \"Yeh Rishta Kya Kehlata Hai\" is undergoing a significant transformation with a new generation leap. The show will introduce",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/yeh-rishta-kya-kehlata-hai-fans-furious-over-departure-of-harshad-chopda-and-pranali-rathod-write-agar-story-nhi-hai-to-band-kar-do/articleshow/104912312.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104912312,width-1070,height-580,imgsize-97352,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T08:58:37Z",
-      "content": "Baby names of Kourtney, Kim and Khloe Kardashian's kids"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -879,12 +99,77 @@
         "name": "NDTV News"
       },
       "author": null,
-      "title": "Nita Ambani Draped In A Pink Saree For Her 60th Birthday Seems Like The Right Way For The Festivities - NDTV",
-      "description": "Nita Ambani's sarees go from festive to fabulous even as she rings in her 60th birthday",
-      "url": "https://www.ndtv.com/lifestyle/nita-ambani-draped-in-a-pink-saree-for-her-60th-birthday-at-siddhiviniyak-temple-seems-like-the-right-way-for-the-festivities-4537906",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/bj81oes8_nitapinksareebirthday3_625x300_02_November_23.jpg",
-      "publishedAt": "2023-11-02T08:50:35Z",
-      "content": "Nita Ambani looks pretty in pink to mark her 60th birthday\r\nA blessed 60th birthday was on the cards for Nita Ambani as she made her way to the Siddhivinayak Temple in Mumbai with her family. Followi… [+1544 chars]"
+      "title": "Viral: First Pictures Of Shah Rukh Khan From His Birthday Party. Courtesy Mona Singh - NDTV Movies",
+      "description": "\"Overwhelmed with the love you showered on me,\" Mona wrote in the caption",
+      "url": "https://www.ndtv.com/entertainment/viral-first-pictures-of-shah-rukh-khan-from-his-birthday-party-courtesy-mona-singh-4543439",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/1475qm8o_mona-_625x300_03_November_23.jpg",
+      "publishedAt": "2023-11-03T15:53:40Z",
+      "content": "Mona Singh shared this image. (Courtesy: MonaSingh)\r\nNew Delhi: Shah Rukh Khan celebrated his 58th birthday in a grand way. He greeted fans, assembled outside his residence Mannat, twice on the occas… [+2322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Zoe Guy",
+      "title": "Steven Tyler Accused of Sexual Assault of a Minor, Again - Vulture",
+      "description": "Steven Tyler has been accused of sexually assaulting a minor, again. A second woman claims the Aerosmith frontman assaulted her twice in 1975 when she was 17.",
+      "url": "http://www.vulture.com/2023/11/steven-tyler-sexual-assault-teen-lawsuit.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/b64/643/bfcd5159ff375071c92e6dfbc5927f0a7b-steven-tyler.1x.rsocial.w1200.jpg",
+      "publishedAt": "2023-11-03T15:37:35Z",
+      "content": "Steven Tyler is facing his second sexual-assault lawsuit of the year. A woman has come forward with new allegations against the Aerosmith lead singer, accusing him of assaulting her twice when she wa… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Ethan Shanfeld",
+      "title": "‘Curb Your Enthusiasm’ Season 12 to Premiere in February 2024 - Variety",
+      "description": "Larry David's 'Curb Your Enthusiasm' will return for Season 12 in February.",
+      "url": "https://variety.com/2023/tv/news/curb-your-enthusiasm-season-12-premiere-date-1235779118/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/larry-david_0-e1699019690761.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-03T15:36:00Z",
+      "content": "At long last, “Curb Your Enthusiasm” Season 12 will premiere in February 2024, HBO boss Casey Bloys announced at a press event Thursday.\r\n“I was thinking last night that ‘Curb,’ in 12 seasons over 20… [+1909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BuzzFeed News"
+      },
+      "author": "Stephanie Soteriou",
+      "title": "Lisa Marie Presley Was Left Horrified By “Vengeful” Movie “Priscilla” - BuzzFeed News",
+      "description": "In desperate emails to Sofia, Lisa Marie said that she was “worried” her mom, Priscilla Presley, didn’t understand the “nuance” of the script or realize how Elvis will be “perceived” by viewers.",
+      "url": "https://www.buzzfeednews.com/article/stephaniesoteriou/lisa-marie-presley-vengeful-priscilla-movie-emails",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/3/15/enhanced/b63a407ab9ba/original-481-1699024306-2.jpg?crop=1243:651;4,31%26downsize=1250:*",
+      "publishedAt": "2023-11-03T15:27:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Riley Cardoza",
+      "title": "Behati Prinsloo reveals her and Adam Levine's third baby's sex nine months after giving birth - Page Six",
+      "description": "The model and Levine are already the parents of daughters Dusty and Gio. Baby No. 3 arrived on the heels of the Maroon 5 frontman’s cheating scandal.",
+      "url": "https://pagesix.com/2023/11/03/parents/behati-prinsloo-reveals-her-adam-levines-third-babys-sex/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/11/behati-prinsloo-adam-levine-89.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-11-03T15:22:08Z",
+      "content": "It’s a … !\r\nBehati Prinsloo revealed the sex of her and Adam Levine’s third child, a son, on Thursday.\r\nNine months after giving birth to her baby boy, the Victoria’s Secret Angel, 35, detailed the e… [+2080 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Natasha Jokic",
+      "title": "Jessica Simpson Posts Powerful Sobriety Instagram - BuzzFeed",
+      "description": "\"This person in the early morning of Nov 1, 2017 is an unrecognizable version of myself. I had so much self discovery to unlock and explore.\"",
+      "url": "https://www.buzzfeed.com/natashajokic1/jessica-simpson-sober-anniversary",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/3/14/asset/4b69e5d78b08/sub-buzz-1427-1699022155-1.jpg?crop=3712:1944;0,413%26downsize=1250:*",
+      "publishedAt": "2023-11-03T14:50:32Z",
+      "content": null
     },
     {
       "source": {
@@ -892,38 +177,51 @@
         "name": "Hindustan Times"
       },
       "author": "HT Entertainment Desk",
-      "title": "Tamil actor Junior Balaiah dies of suffocation at Chennai home; he was 70 - Hindustan Times",
-      "description": "Junior Balaiah died on Thursday in Chennai. He was 70. The late actor was known for films such as Sundarakandam.",
-      "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/junior-balaiah-dies-suffocation-raghu-balaiah-101698909752033.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/02/1600x900/balaiah_1698910525645_1698910525833.jpg",
-      "publishedAt": "2023-11-02T07:55:49Z",
-      "content": "Tamil actor Junior Balaiah died at his residence in Chennai. Junior Balaiah had acted in over a hundred films including Karakatakkaran, Gopura Vasalile and Sundarakandam. In the 2010s, Balaiah made r… [+1416 chars]"
+      "title": "Finally Shah Rukh Khan's pic from his birthday bash is here - Hindustan Times",
+      "description": "Mona Singh did the honours of sharing two pictures with Shah Rukh Khan from his star-studded birthday bash held on Thursday. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/finally-shah-rukh-khans-pic-from-his-birthday-bash-is-here-mona-singh-gets-a-peck-from-the-actor-101699019577330.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/mona_singh_shah_rukh_khan_1699019890849_1699019891120.jpg",
+      "publishedAt": "2023-11-03T14:23:42Z",
+      "content": "Mona Singh takes the cake and eats it too. As the fans of Shah Rukh Khan surfed internet the entire day after his star-studded birthday bash on Thursday, it was Laal Singh Chaddha actor Mona Singh wh… [+2525 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Siasat Daily"
+        "name": "CNBC"
       },
-      "author": "Mumtaz Hussain Bhat",
-      "title": "SRK’s Jawan released on Netflix, here’s BIG change in movie - The Siasat Daily",
-      "description": "Mumbai: Bollywood superstar Shah Rukh Khan is celebrating his 58th birthday today and OTT giant Netflix has released his movie Jawan on the platform as a gift for all his fans. We have earlier, reported that Jawan might be released on the 58th birthday of Kin…",
-      "url": "https://www.siasat.com/srks-jawan-released-on-netflix-heres-big-change-in-movie-2789518/",
-      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/09/SRK-2.jpg",
-      "publishedAt": "2023-11-02T07:43:00Z",
-      "content": "Mumbai:Bollywood superstar Shah Rukh Khan is celebrating his 58th birthday today and OTT giant Netflix has released his movie Jawan on the platform as a gift for all his fans. We have earlier, report… [+1346 chars]"
+      "author": "Jessica Dickler, Greg Iacurci",
+      "title": "Matthew Perry reportedly got $20 million a year in ‘Friends’ residuals. Here’s who may get them now - CNBC",
+      "description": "Matthew Perry was still bringing in as much as $20 million a year in syndication income from ‘Friends.’ Experts explain what could happen to that money now.",
+      "url": "https://www.cnbc.com/2023/11/03/matthew-perry-made-millions-in-friends-residuals-what-happens-now.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104781650-NBC_Friends_tv_show.jpg?v=1699028746&w=1920&h=1080",
+      "publishedAt": "2023-11-03T14:08:11Z",
+      "content": "Matt LeBlanc as Joey Tribbiani, Matthew Perry as Chandler Bing, Jennifer Aniston as Rachel Green and Courteney Cox as Monica Geller on NBC's \"Friends.\"\r\nMatthew Perry, the beloved actor best known fo… [+6306 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Deadline"
       },
-      "author": "Kriti Kambiri",
-      "title": "Hindu hostel alumni bid adieu to beloved building, make memorabilia from rubble - Hindustan Times",
-      "description": "As Hindu College Boys’ Hostel’s old building makes way for a new one, nostalgia-stricken alumni preserve pieces of it as keepsakes from their #CampusKeDin.",
-      "url": "https://www.hindustantimes.com/htcity/htcity-delhi-junction/hindu-college-boys-hostel-alumni-bid-adieu-to-beloved-building-make-memorabilia-from-rubble-101698842448635.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/01/1600x900/hindu_college_hostel_1698858692842_1698858824758.jpg",
-      "publishedAt": "2023-11-02T06:59:17Z",
-      "content": "During his recent visit to Hindu College in Delhi Universitys North Campus, filmmaker Imtiaz Ali got emotional while speaking to HT City. The reason being the news of his colleges Boys Hostel buildin… [+4371 chars]"
+      "author": "Greg Evans",
+      "title": "‘The Flash’s Grant Gustin To Make Broadway Debut In ‘Water For Elephants’ Musical - Deadline",
+      "description": "Grant Gustin, longtime star of the CW’s The Flash, will make his Broadway debut in the new musical Water for Elephants, producers announced today. Gustin, who also appeared in the TV series G…",
+      "url": "https://deadline.com/2023/11/grant-gustin-broadway-water-for-elephants-1235591918/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/gustin-1.jpg?w=1024",
+      "publishedAt": "2023-11-03T14:00:00Z",
+      "content": "Grant Gustin, longtime star of the CW’s The Flash, will make his Broadway debut in the new musical Water for Elephants, producers announced today. \r\nGustin, who also appeared in the TV series Glee, w… [+2281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "INSIDER"
+      },
+      "author": "Natalie Musumeci",
+      "title": "Al Pacino to pay $30K a month in child support to Noor Alfallah - Insider",
+      "description": "In addition to the $30,000 a month in child support, Al Pacino will also have to pay Noor Alfallah a sum of $110,000, court papers say.",
+      "url": "https://www.insider.com/al-pacino-pay-child-support-noor-alfallah-30k-per-month-2023-11",
+      "urlToImage": "https://i.insider.com/6544f289b788914e554f8b93?width=1200&format=jpeg",
+      "publishedAt": "2023-11-03T13:48:00Z",
+      "content": "Al Pacino has agreed to pay his girlfriend, Noor Alfallah, $30,000 a month in child support for the pair's four-month-old son as well as a slew of other payments, according to new court documents obt… [+1925 chars]"
     },
     {
       "source": {
@@ -931,25 +229,207 @@
         "name": "Indiaforums.com"
       },
       "author": "Team India Forums",
-      "title": "\"Love is at the heart of it all, and I can't wait to explore it\" -Abhishek Malhan on 'Temptation Island India' - India Forums",
-      "description": "After Elvish Yadav, Abhishek Malhan is all set to enter Temptation Island India.",
-      "url": "https://www.indiaforums.com/article/love-is-at-the-heart-of-it-all-and-i-cant-wait-to-explore-it-abhishek-malhan-on-temptation-island-in_201986",
-      "urlToImage": "https://img.indiaforums.com/article/1200x675/20/1986-love-is-at-the-heart-of-it-all-and-i-cant-wait-to-explore-it-abhishek-malhan-on-temptation-island-in.jpg",
-      "publishedAt": "2023-11-02T06:27:00Z",
-      "content": "After Elvish Yadav confirmed his participation in the upcoming reality show, Abhishek Malhan has joined the bandwagon and will be seen in Temptation Island India, starting 3rd November at 8 pm. The s… [+1495 chars]"
+      "title": "Kavya Ek Jazbaa Ek Junoon: Adhiraj devastated as Kavya takes a stand leading to his suspension from academy - India Forums",
+      "description": "In the episode of Sony TV's show Kavya tonight, Adhiraj will be seen devasted after Kavya's stand that will lead to his suspension.",
+      "url": "https://www.indiaforums.com/article/kavya-ek-jazbaa-ek-junoon-adhiraj-devastated-as-kavya-takes-a-stand-leading-to-his-suspension-from-a_202054",
+      "urlToImage": "https://img.indiaforums.com/article/1200x675/20/2054-kavya-ek-jazbaa-ek-junoon-adhiraj-devastated-as-kavya-takes-a-stand-leading-to-his-suspension-from-a.jpg",
+      "publishedAt": "2023-11-03T13:44:00Z",
+      "content": "Sony Entertainment Television, the captivating show \"Kavya Ek Jazbaa, Ek Junoon\" features the incredibly talented Sumbul Touqeer Khan in the role of Kavya. This narrative follows the journey of an am… [+1169 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Marianne Garvey",
+      "title": "‘Kingdom of the Planet of the Apes’ trailer - CNN",
+      "description": "A teaser trailer for “Kingdom of the Planets of the Apes” is here.",
+      "url": "https://www.cnn.com/2023/11/03/entertainment/kingdom-of-the-planet-of-the-apes-trailer-shows-the-apes-in-charge/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231103083820-02-kingdom-of-the-planet-of-the-apes.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-03T13:40:00Z",
+      "content": "A teaser trailer for Kingdom of the Planets of the Apes is here.\r\nThe film, set for theatrical release in spring 2024, is a follow up to 2017s War for the Planets of the Apes film and picks up after … [+464 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Quint"
+        "name": "YouTube"
       },
-      "author": "Quint Entertainment",
-      "title": "Photos: Katrina Kaif, Parineeti Chopra & Kiara Advani Celebrate Karwa Chauth - The Quint",
-      "description": "From Kiara Advani to Katrina Kaif, here's a glimpse of how Bollywood celebrities celebrated Karwa Chauth.",
-      "url": "https://www.thequint.com/photos/in-pics-katrina-kaif-kiara-advani-celebrate-karwa-chauth-in-style",
-      "urlToImage": "https://images.thequint.com/thequint%2F2023-11%2F68e55e1d-bb99-4a93-986d-fc429feac4a2%2FUntitled_design___2023_11_02T145111_831.jpg",
-      "publishedAt": "2023-11-02T04:55:41Z",
-      "content": "Katrina Kaif, Parineeti Chopra, and Kiara Advani celebrated Karwa Chauth with their respective spouses, Vicky Kaushal, Raghav Chadha, and Sidharth Malhotra. The beloved Bollywood couples were all smi… [+47 chars]"
+      "author": null,
+      "title": "Why did Weibo ban this Blackpink star? - South China Morning Post",
+      "description": "Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtubeRead the full story: https://sc.mp/in0q K-pop singer Lisa from megastar girl g...",
+      "url": "https://www.youtube.com/watch?v=cypSf9vCxRU",
+      "urlToImage": "https://i.ytimg.com/vi/cypSf9vCxRU/maxresdefault.jpg",
+      "publishedAt": "2023-11-03T13:37:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Tanvi Trivedi",
+      "title": "Exclusive Pics! Ali Merchant ties the knot with Andleeb in Lucknow on November 2 - Times of India",
+      "description": "Ali Merchant got married to Andleeb Zaidi among close friends and family in Lucknow yesterday. The actor shares exclusive pictures from the wedding.",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-pics-ali-merchant-ties-the-knot-with-andleeb-in-lucknow-on-november-2/articleshow/104946546.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104947352,width-1070,height-580,imgsize-73986,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03T13:25:00Z",
+      "content": "Sudha Murtys favourite authors, books and more"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PINKVILLA"
+      },
+      "author": "Yash Singh",
+      "title": "Koffee With Karan 8 Guest Reveal Promo: Alia Bhatt-Kareena Kapoor spill the beans; Ananya Panday feels like Ananya 'Coy' Kapur - PINKVILLA",
+      "description": "Karan Johar's Popular Chat Show Koffee With Karan 8 Has Been Airing Lately. Today, A Promo Of All Episodes Dropped On The Internet And It Featured Some Quirky Moments With Guests.",
+      "url": "https://www.pinkvilla.com/entertainment/news/koffee-with-karan-8-guest-reveal-promo-alia-bhatt-kareena-kapoor-spill-the-beans-ananya-panday-feels-like-ananya-coy-kapur-1256089",
+      "urlToImage": "https://www.pinkvilla.com/images/2023-11/477847739_kwk-8-2.jpg",
+      "publishedAt": "2023-11-03T13:21:12Z",
+      "content": "Karan Johar's chat show Koffee with Karan 8 premiered recently and so far two episodes have dropped. Recently, its guest reveal promo was released and it featured some interesting moments from the fo… [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adele Ankers-Range",
+      "title": "Loki Season 2 Drops a Surprise Post-Credits Easter Egg Into Episode 5 - IGN",
+      "description": "The fifth episode of Loki Season 2 was full of surprises, but some viewers may have missed the post-credits Easter egg planted right at the very end.",
+      "url": "https://www.ign.com/articles/loki-season-2-surprise-post-credits-easter-egg-episode-5",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/03/loki-season-2-post-credits-surprise-1699016984581.jpg?width=1280",
+      "publishedAt": "2023-11-03T13:15:36Z",
+      "content": "Warning: This article contains full spoilers for Loki Season 2 Episode 5, which is now streaming on Disney+.\r\nThe fifth episode of Loki Season 2 was full of surprises, but some viewers may have misse… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hafsa Khalil",
+      "title": "Celine Dion attends NHL game in rare public appearance - CNN",
+      "description": "Celine Dion was spotted at an ice hockey game in Las Vegas on Monday.",
+      "url": "https://www.cnn.com/2023/11/03/entertainment/celine-dion-hockey-game-first-public-appearance-intl-scli/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231103103813-02-celine-dion-ice-hockey.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-03T13:06:00Z",
+      "content": "Singer Celine Dion was spotted at an ice hockey game in Las Vegas on Monday, in a rare public appearance.\r\nThe NHL game was her first public outing in more than three years, according to media report… [+1399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Vrinda Jain",
+      "title": "Woman’s amazing belly dance to Khalasi wows people. Watch - Hindustan Times",
+      "description": "A woman performing a belly dance to Khalasi has won the hearts of many on Instagram. Watch the video here. | Trending",
+      "url": "https://www.hindustantimes.com/trending/womans-amazing-belly-dance-to-khalasi-wows-people-watch-101699014215104.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/Belly_dance_khalasi_1699014449383_1699014457299.png",
+      "publishedAt": "2023-11-03T13:03:49Z",
+      "content": "The song Khalasi by Achint and Aditya Gadhvi has gone crazy viral on social media. People are not only making different kinds of reels on it but also sharing their choreographies to it. Among these v… [+1235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cageside Seats"
+      },
+      "author": "Cain A. Knight",
+      "title": "WWE SmackDown preview: Bianca Belair has been waiting a very long time for this moment - Cageside Seats",
+      "description": "Bianca Belair returns to the ring for the first time since August to rip off Bayley’s head. Let’s break down what to expect on the November 3 episode of SmackDown, the go home show for Crown Jewel.",
+      "url": "https://www.cagesideseats.com/wwe/2023/11/3/23944749/wwe-smackdown-preview-nov-3-2023-bianca-belair-ring-return-bayley-logan-paul-rey-weigh-in-donnybrook",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-pMnOBbTX5bY63rSDzY9tP9p5e8=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25054995/035_SD_10272023BM_10242__5811069c721ff8f77993b296aad42ebd.jpg",
+      "publishedAt": "2023-11-03T13:00:00Z",
+      "content": "SmackDown airs tonight (Nov. 3) with a taped show (spoilers are available here) from Fiserv Forum in Milwaukee, Wisconsin. This is the final episode of SmackDown during the four week build towards Cr… [+3836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "IGN",
+      "title": "HBO Boss Casey Bloys Apologises After Fake Twitter Accounts Were Used to Hit Back at Critics - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/hbo-boss-casey-bloys-apologises-after-fake-twitter-accounts-were-used-to-hit-back-at-critics",
+      "urlToImage": null,
+      "publishedAt": "2023-11-03T12:27:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Akanksha Arora",
+      "title": "Reddit User Shares Orry’s LinkedIn Profile Putting An End to Bollywood Fans' Mystery; Here is What He Does - News18",
+      "description": "Reddit user shared Orry's LinkedIn profile. Here is what he does.",
+      "url": "https://www.news18.com/viral/reddit-user-shares-orrys-linkedin-profile-putting-an-end-to-bollywood-fans-mystery-here-is-what-he-does-8646324.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/11/orry-2023-11-4ac912be4ae454c9fdb3553449f34e69-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2023-11-03T12:25:13Z",
+      "content": "Several Bollywood enthusiasts have been struggling to find the answer to one question: Who is Orry, formally known by the name Orhan Awatramani. The socialite has been popping up on our social media … [+1617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Andrew Rego",
+      "title": "Did LA Knight drop a spoiler on the man who may cost him against Roman Reigns at WWE Crown Jewel? Comments analyzed - Sportskeeda",
+      "description": "LA Knight may already know who is going to cost him his championship match on November 4th. The Megastar walks into the biggest match of his life at WWE Crown Jewel this weekend.",
+      "url": "https://www.sportskeeda.com/wwe/did-la-knight-drop-spoiler-man-may-cost-roman-reigns-wwe-crown-jewel-comments-analyzed",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/dc64a-16989522116912-1920.jpg",
+      "publishedAt": "2023-11-03T12:04:14Z",
+      "content": "LA Knight may already know who is going to cost him his championship match on November 4th. The Megastar walks into the biggest match of his life at WWE Crown Jewel this weekend. While anything may h… [+2167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decider"
+      },
+      "author": "Liz Kocan",
+      "title": "New Shows and Movies To Watch This Weekend: Hulu's 'Quiz Lady' + More - Decider",
+      "description": "…plus NYAD on Netflix, Fingernails on AppleTV+ and so much more!",
+      "url": "https://decider.com/2023/11/03/new-shows-and-movies-to-watch-this-weekend-hulus-quiz-lady-more/",
+      "urlToImage": "https://decider.com/wp-content/uploads/2023/10/WHATS-NEW-NOV-3-2023.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2023-11-03T12:00:00Z",
+      "content": "From inspirational biopics to dystopian romances, this week’s new movies and TV shows on streaming are filled with original plots and great performances.\r\nNot sure which new releases to check out? Le… [+6696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PINKVILLA"
+      },
+      "author": "Aqsa Akbani Siddiqui",
+      "title": "EXCLUSIVE: Yeh Rishta Kya Kehlta Hai's Pranali Rathod on Harshad Chopda; 'AbhiRa might end but not HARSHALI' - PINKVILLA",
+      "description": "In A Candid Chat With Pinkvilla, Yeh Rishta Kya Kehlata Hai's Pranali Rathod Who Played Akshara In The Show Talks About Her Exit, Bond With Harshad Chopda And More.",
+      "url": "https://www.pinkvilla.com/tv/news/exclusive-yeh-rishta-kya-kehlta-hais-pranali-rathod-on-harshad-chopda-abhira-might-end-but-not-harshali-1256042",
+      "urlToImage": "https://www.pinkvilla.com/images/2023-11/980608962_pranali-rathod-and-harshad-chopda-1280-1.jpg",
+      "publishedAt": "2023-11-03T11:56:32Z",
+      "content": "Yeh Rishta Kya Kehlata Hai is heading towards yet another generation leap. The current cast of the show consisting of Pranali Rathod, and Harshad Chopda among others will be exiting the show paving t… [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entertainment Tonight"
+      },
+      "author": "Rachel Mcrady",
+      "title": "Mariah Carey Reacts to Britney Spears' Comments About Her in 'The Woman in Me' Memoir - Entertainment Tonight",
+      "description": "Carey admitted she 'loves' Spears.",
+      "url": "https://www.etonline.com/mariah-carey-reacts-to-britney-spears-comments-about-her-in-the-woman-in-me-memoir-214166",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-11/mariah-britney.png?h=c673cd1c",
+      "publishedAt": "2023-11-03T11:53:00Z",
+      "content": "Mariah Carey is honored, darling! The pop diva visited Jimmy Kimmel Live on Thursday night to talk about ringing in the holiday season when host Kimmel asked her about the special shoutout she recent… [+991 chars]"
     },
     {
       "source": {
@@ -957,24 +437,609 @@
         "name": "The Times of India"
       },
       "author": "etimes.in",
-      "title": "Bigg Boss 17: Mannara Chopra loses her cool over Munawar Faruqui; former says 'Aaj ke baad main isko kabh - Times of India",
-      "description": "The upcoming episode of Bigg Boss 17 reveals a major twist as Mannara Chopra and Munawar Faruqui have a heated argument. Fans are shocked as the bond",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-mannara-chopra-loses-her-cool-over-munawar-faruqui-former-says-aaj-ke-baad-main-isko-kabhi-attention-nahi-dungi/articleshow/104903727.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104903994,width-1070,height-580,imgsize-1053434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02T03:54:57Z",
+      "title": "Kangana Ranaut hints at joining politics: 'If Lord Krishna blesses, I will contest Lok Sabha elections' - IndiaTimes",
+      "description": "Kangana Ranaut, facing film setbacks, sought inner peace at Dwarkadhish temple. She expressed potential interest in contesting Lok Sabha elections",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hints-at-joining-politics-if-lord-krishna-blesses-i-will-contest-lok-sabha-elections/articleshow/104944612.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104944547,width-1070,height-580,imgsize-37594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03T11:47:00Z",
+      "content": "Sudha Murtys favourite authors, books and more"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Leonardo's friends think he will settle down with Vittoria Ceretti: Report - Hindustan Times",
+      "description": "Leonardo DiCaprio and Vittoria Ceretti are reportedly now ‘exclusive’ after two months of dating. His inner circle claims 'she’s all he thinks about’. | Hollywood",
+      "url": "https://www.hindustantimes.com/entertainment/hollywood/leonardo-dicaprio-dating-vittoria-ceretti-exclusively-could-finally-settle-down-101699009722830.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/leo_1692859622010_1699011141150.jpg",
+      "publishedAt": "2023-11-03T11:33:36Z",
+      "content": "Actor Leonardo DiCaprio and model Vittoria Ceretti are reportedly taking things to the next level with an 'exclusive' relationship. A source said in a new Us Weekly report that Leonardo is 'completel… [+3148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollywood Hungama"
+      },
+      "author": "Bollywood Hungama",
+      "title": "With Tejas, Kangana Ranaut now has 2 consecutive DISASTERS, 5 consecutive FLOPS, and 9 FLOPS in her last 10 releases at the box office - Bollywood Hungama",
+      "description": "With Tejas, Kangana Ranaut now has 2 consecutive DISASTERS, 5 consecutive FLOPS, and 9 FLOPS in her last 10 releases at the box office. Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebriti…",
+      "url": "https://www.bollywoodhungama.com/news/box-office-special-features/tejas-kangana-ranaut-now-2-consecutive-disasters-5-consecutive-flops-9-flops-last-10-releases-box-office/",
+      "urlToImage": "https://media5.bollywoodhungama.in/wp-content/uploads/2023/11/With-Tejas-Kangana-Ranaut-now-has-2-consecutive-DISASTERS.jpg",
+      "publishedAt": "2023-11-03T11:30:38Z",
+      "content": "In fact, with the staggering and stunning underperformance of the film, Tejas which has managed to draw in a measly Rs. 3.76 cr. over the first 5 days has emerged as Kangana Ranauts 2nd consecutive d… [+1747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TVLine"
+      },
+      "author": "Nick Caruso, Nick Caruso",
+      "title": "What to Watch on TV Friday, November 3, 2023 - TVLine",
+      "description": "On TV this Friday: Robert Kirkman’s Invincible is back for Season 2, Gen V wraps with a sure-to-be-bloody civil war and the Rock & Roll Hall of Fame induction makes the leap from HBO to D…",
+      "url": "https://tvline.com/what-to-watch/invincible-season-2-premiere-prime-video/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2023/10/invincible-season-2-premiere.jpg",
+      "publishedAt": "2023-11-03T11:00:18Z",
+      "content": "Inductees include Kate Bush, Sheryl Crow, Missy Elliott, George Michael, Willie Nelson, Rage Against the Machine and The Spinners; special guests Brandi Carlile, Dave Matthews, H.E.R., Chris Stapleto… [+38 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brian Lowry",
+      "title": "Sylvester Stallone reminisces about his ‘Rocky’ rise in the nostalgic ‘Sly’ - CNN",
+      "description": "Sylvester Stallone and Arnold Schwarzenegger can look back and laugh now about their heated rivalry as they once sought to one-up each other in terms of box-office hits. Give Arnold the edge when it comes to Netflix documentary memoirs, with his eponymous thr…",
+      "url": "https://www.cnn.com/2023/11/03/entertainment/sly-review-sylvester-stallone-documentary/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231031215707-02-sly-review.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-03T11:00:00Z",
+      "content": "Sylvester Stallone and Arnold Schwarzenegger can look back and laugh now about their heated rivalry as they once sought to one-up each other in terms of box-office muscle. Give Arnold the edge when i… [+2880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Shilpa Shetty heaps praise on Raj Kundra's UT69, calls him a ‘natural’ actor - Hindustan Times",
+      "description": "Shilpa Shetty complemented husband Raj Kundra for turning his ‘adversities into strength’. UT69 documents the days Raj spent in jail as an undertrial. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/shilpa-shetty-heaps-praise-on-raj-kundra-debut-film-ut69-calls-him-a-natural-actor-101699005919118.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/shilpa-shetty-raj-kundra_1666082657572_1699006177756.jpg",
+      "publishedAt": "2023-11-03T10:52:03Z",
+      "content": "Shilpa Shetty has watched husband Raj Kundra's debut film UT69 and has given her verdict. She lauded the film, which documents the time Raj spent inside the Arthur Road Jail in Mumbai as an undertria… [+2570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya B",
+      "title": "‘Mangalavaaram’: ‘Appadappada Thaandra’ is about dirty secrets! - Gulte",
+      "description": "https://www.youtube.com/watch?v=jrNa9paAjN4&feature=youtu.be Director Ajay Bhupathi of ‘RX 100’ fame is coming up with a raw and rustic action thriller titled ‘Mangalavaaram’. The film will be released in theatres on November 17 in Telugu, Hindi, Tamil, Kanna…",
+      "url": "https://www.gulte.com/movienews/266102/mangalavaaram-appadappada-thaandra-is-about-dirty-secrets",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-03-at-3.53.26-PM.jpeg",
+      "publishedAt": "2023-11-03T10:34:30Z",
+      "content": "Director Ajay Bhupathi of RX 100 fame is coming up with a raw and rustic action thriller titled Mangalavaaram. The film will be released in theatres on November 17 in Telugu, Hindi, Tamil, Kannada an… [+1398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koreaboo.com"
+      },
+      "author": null,
+      "title": "BLACKPINK Rosé's Recent Announcement Sparks Speculations About Her Future With YG Entertainment - Koreaboo",
+      "description": "BLACKPINK Rosé's recent announcement for fans has sparked speculations about her future with YG Entertainment amidst their contract renewal.",
+      "url": "https://www.koreaboo.com/news/blackpink-rose-recent-announcement-sparks-speculations-yg-entertainment-future-contract/",
+      "urlToImage": "https://lh3.googleusercontent.com/g5x0QBAedbVHH-yqRQPJDhTT8fv8QSDFsV9RKxEpgiyzx9oDUmcsQK03wJVuGA9gZcnqCIs2ZUa7SfPJaAM40_OgXnHYwOyMkLgPo-nBklFKLA=w1200-h630-rj-pp-e365",
+      "publishedAt": "2023-11-03T10:15:04Z",
+      "content": "One of the hottest topics right now is BLACKPINK‘s contracts with YG Entertainment.\r\nThe members’ contracts were due to end in the summer, but the company has yet to announce the group’s future with … [+3170 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Scott Thompson",
+      "title": "Travis Kelce's mom explains why Chiefs star has taken game to 'new level' amid Taylor Swift relationship - Fox News",
+      "description": "Travis Kelce's relationship with Taylor Swift led some to believe he wouldn't perform well for the Chiefs this season, but his mother, Donna Kelce, explained why it motivates him more.",
+      "url": "https://www.foxnews.com/sports/travis-kelces-mom-explains-why-chiefs-star-taken-game-new-level-amid-taylor-swift-relationship",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Travis-Kelce.jpg",
+      "publishedAt": "2023-11-03T10:15:00Z",
+      "content": "Travis Kelce was a star for the Kansas City Chiefs, a two-time Super Bowl champion, before he began dating Taylor Swift. But even he admitted the extra attention on him from paparazzi and millions of… [+3123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Fareha Naaz",
+      "title": "Leo Box Office Collection Day 15: Thalapathy Vijay-starrer film slows down, collects ₹2.91 crore | Mint - Mint",
+      "description": "Leo Box Office Collection Day 15: In just seven days, Thalapathy Vijay's film 'Leo' has garnered an impressive net collection of  ₹264.27 crore in India, followed by an additional gross collection of  ₹59.8 crore in its second week",
+      "url": "https://www.livemint.com/industry/leo-box-office-collection-day-15-thalapathy-vijay-starrer-film-slows-down-collects-rs-2-91-crore-11698988609205.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/03/1600x900/leo_1695203139927_1698988620877.jpg",
+      "publishedAt": "2023-11-03T10:06:53Z",
+      "content": "Leo Box Office Collection Day 15: Thalapathy Vijay starrer Leo has been facing a downward trend at the Box Office since Monday since its Day 15 collection fell further on November 2.  The Tamil actio… [+2334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indiaforums.com"
+      },
+      "author": "Team India Forums",
+      "title": "Kanika Maheshwari and husband Ankur Ghai headed for a divorce: Reports - India Forums",
+      "description": "According to the ongoing media reports, Kanika Maheshwari and Ankur Ghai have filed for a divorce.",
+      "url": "https://www.indiaforums.com/article/kanika-maheshwari-and-husband-ankur-ghai-headed-for-a-divorce-reports_202041",
+      "urlToImage": "https://img.indiaforums.com/article/1200x675/20/2041-kanika-maheshwari-and-husband-ankur-ghai-headed-for-a-divorce-reports.jpg",
+      "publishedAt": "2023-11-03T10:03:00Z",
+      "content": "Kanika Maheshwari, renowned for her role in \"Diya Aur Baati Hum,\" is reportedly heading towards a divorce from her husband, Ankur Ghai. The actress, who last appeared in SAB TV's \"Dil Diyaan Gallan,\"… [+866 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brian Lowry",
+      "title": "‘Lawmen: Bass Reeves’ loads Taylor Sheridan’s latest western with a historical twist - CNN",
+      "description": "After bland western prequels to his flagship drama “Yellowstone,” producer Taylor Sheridan finds marginally more fertile territory in “Lawmen: Bass Reeves,” a series that will devote each season to a different frontier lawman or outlaw. While the pacing still…",
+      "url": "https://www.cnn.com/2023/11/03/entertainment/lawmen-bass-reeves-review-taylor-sheridan/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231102111819-01-lawmen-bass-reeves.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-03T10:00:00Z",
+      "content": "After bland western prequels to his flagship drama Yellowstone, producer Taylor Sheridan finds marginally more fertile territory in Lawmen: Bass Reeves, a series that will devote each season to a dif… [+2867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GMA"
+      },
+      "author": "GMA Team",
+      "title": "Holiday Digital Deals & Steals: Shop 55 home, beauty and fashion gift ideas - GMA",
+      "description": "Tory Johnson has apparel, beauty products, home accessories and more for everyone on your list!",
+      "url": "https://www.goodmorningamerica.com/shop/story/tory-johnson-holiday-digital-deals-2023-104423315",
+      "urlToImage": "https://s.abcnews.com/images/GMA/GMA_Main_DSGiftGuide2023_110223_v01_ks_1698951274153_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-11-03T09:13:46Z",
+      "content": "Tory Johnson is bringing the biggest Deals and Steals holiday gift guide ever!\r\nFind huge savings on apparel, accessories, beauty and home when you shop these 55 incredible sales -- perfect for gifti… [+30480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Esha Deol shines in black dress on birthday; parties with Rakul Preet and Abhay - Hindustan Times",
+      "description": "Esha Deol shared photos of her rooftop birthday party. She was joined by family and friends, including actor Rakul Preet Singh. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/esha-deol-birthday-party-rakul-preet-singh-abhay-deol-tusshar-kapoor-inside-pics-101699000991366.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/esha_deol_birthday_party_pics_1699001383476_1699001406713.jpg",
+      "publishedAt": "2023-11-03T09:12:03Z",
+      "content": "After a havan at home in the morning with her daughters as well as mother-actor Hema Malini, Esha Deol let her hair down with a late night bash with her friends and family. On Friday, the actor share… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Shruti Sadbhav",
+      "title": "Roman Reigns to lose and 4 other surprises that can happen at Crown Jewel 2023 - Sportskeeda",
+      "description": "We are less than two days away from WWE Crown Jewel 2023, where the creative team has booked an action-packed show.",
+      "url": "https://www.sportskeeda.com/wwe/roman-reigns-lose-4-surprises-can-happen-crown-jewel-2023",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/11/ba155-16990010223092-1920.jpg",
+      "publishedAt": "2023-11-03T09:08:12Z",
+      "content": "We are less than two days away from WWE Crown Jewel 2023, where the creative team has booked an action-packed show. The biggest names from RAW and SmackDown are determined to win titles, settle old s… [+4435 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "‘Give her a break! She’s still a kid’: Netizens come out in defense of Aishwarya Rai Bachchan’s daughter Aaradhya for her first public speech - Times of India",
+      "description": "Aaradhya Bachchan was recently trolled for her first-ever public speech at an event on her mother Aishwarya Rai Bachchan’s birthday. The star kid praised her mommy for celebrating her birthday by attending an event for the welfare of cancer patients and makin…",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/give-her-a-break-shes-still-a-kid-netizens-come-out-in-defense-of-aishwarya-rai-bachchans-daughter-aaradhya-for-her-first-public-speech/videoshow/104938794.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104938794,imgsize-63761.cms",
+      "publishedAt": "2023-11-03T08:46:11Z",
+      "content": "Nov 03, 2023, 02:16PM ISTSource: etimes.inAaradhya Bachchan was recently trolled for her first-ever public speech at an event on her mother Aishwarya Rai Bachchans birthday. The star kid praised her … [+1012 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Peter Travers",
+      "title": "'All the Light We Cannot See' review: Audiences deserve better - ABC News",
+      "description": "The botched four-part series is hollow at its core.",
+      "url": "https://abcnews.go.com/GMA/Culture/light-review-audiences-deserve/story?id=104573497",
+      "urlToImage": "https://i.abcnewsfe.com/a/4424e859-46bd-4242-b9b0-a64dcb8dc385/mark-rufflao-ht-gmh-_1681851843694_hpMain_16x9t.jpg?w=992",
+      "publishedAt": "2023-11-03T08:38:58Z",
+      "content": "What we have here is a botch job of epic proportions. It seems like a no-brainer to turn Anthony Doerr's Pulitzer Prize-winning 2014 novel \"All the Light We Cannot See\" into a four-part Netflix serie… [+3180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lensmenreviews.com"
+      },
+      "author": "Aswin Bharadwaj",
+      "title": "Garudan Review | An Exciting Theme With a Half-Baked Generic Script - Lensmen Reviews",
+      "description": "Garudan Review | An Exciting Theme With a Half-Baked Generic Script Garudan, the new Suresh Gopi - Biju Menon starrer directed by debutant Arun Varma and scripted by Midhun Manuel Thomas, has an exciting central conflict.",
+      "url": "https://lensmenreviews.com/garudan-malayalam-movie-review-2023/",
+      "urlToImage": "https://lensmenreviews.com/wp-content/uploads/2023/11/garudan-malayalam-movie-review.jpg",
+      "publishedAt": "2023-11-03T08:36:32Z",
+      "content": "Garudan, the new Suresh Gopi – Biju Menon starrer directed by debutant Arun Varma and scripted by Midhun Manuel Thomas, has an exciting central conflict. But the problem is with the writing that need… [+4329 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Stephanie Nolasco",
+      "title": "‘Happy Days’ star Henry Winkler reveals low point in his 45 year marriage: ‘not my finest hour’ - Fox News",
+      "description": "Henry Winkler and Stacey Weitzman met in 1976. They married in 1978. They've raised three children together: Zoe, Jed and Max. The Emmy Award-winning actor has written a new book.",
+      "url": "https://www.foxnews.com/entertainment/happy-days-star-henry-winkler-reveals-low-point-45-year-marriage-not-my-finest-hour",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/Getty_HenryWinkler_Wife_Stacey.jpg",
+      "publishedAt": "2023-11-03T08:30:00Z",
+      "content": "After 45 years of marriage, Henry Winkler has learned a thing or two.\r\nThe Emmy Award-winning actor, who starred as Arthur Herbert \"The Fonz\" Fonzarelli on \"Happy Days,\" has written a new memoir, \"Be… [+7301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koimoi"
+      },
+      "author": "Tanushree Roy",
+      "title": "Tiger 3: Emraan Hashmi Unleashes Brutality In A Newly Released Promo But Salman Khan Is Unstoppable & Turns His ‘Mass Destruction Mode’ On For India, Netizens React, “Literally Goosebumps Aagaya” - Koimoi",
+      "description": "Tiger 3's latest promo shows bad boy Emraan Hashmi challenging Tiger aka Salman Khan. Fans are totally loving it. Watch here!",
+      "url": "https://www.koimoi.com/bollywood-news/tiger-3-emraan-hashmi-unleashes-brutality-in-a-newly-released-promo-but-salman-khan-is-unstoppable-turns-his-mass-destruction-mode-on-for-india-netizens-react-literally-goosebumps-aagaya/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/11/tiger-3-emraan-hashmi-unleashes-brutality-in-a-newly-released-promo-but-salman-khan-is-unstoppable-turns-his-mass-destruction-mode-on-for-india-netizens-react-literally-goosebumps-aagaya.jpg",
+      "publishedAt": "2023-11-03T08:23:53Z",
+      "content": "Tiger 3 Starring Salman Khan &amp; Katrina Kaif Will Release This Diwali (Picture Credit: IMDB)\r\nJust a few days more and soon the wait for Salman Khan’s Tiger 3 will be over. Also starring Katrina K… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Bigg Boss: Salman hints Ankita, Vicky, Neil can be ousted for breaching contract - Hindustan Times",
+      "description": "Bigg Boss 17: The promo for the upcoming episode also shows Salman Khan giving Isha Malviya a mouthful for exposing her entire life on the show.",
+      "url": "https://www.hindustantimes.com/entertainment/tv/bigg-boss-17-salman-khan-ankita-lokhande-vicky-jain-neil-bhatt-isha-malviya-colors-tv-101698993482248.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/vicky_jain_ankita_lokhande_1698995940592_1698995940944.jpg",
+      "publishedAt": "2023-11-03T08:23:29Z",
+      "content": "Bigg Boss 17: Serious trouble is in store for contestants Ankita Lokhande, husband Vicky Jain and Neil Bhatt over breach of contract. The promo for the upcoming Friday episode shows host Salman Khan … [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Lauren Garafano",
+      "title": "New November TV: The Crown, All The Light We Cannot See - BuzzFeed",
+      "description": "So many great things are coming this month like the final season of The Crown, the new animated Scott Pilgrim series, Emma Stone's new show, and more!",
+      "url": "https://www.buzzfeed.com/laurengarafano/new-november-tv-the-crown-all-the-light-we-cannot-see",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/2/15/enhanced/862e1bee209d/original-655-1698937464-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2023-11-03T08:16:02Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Enorth.com.cn"
       },
-      "author": "Page Six",
-      "title": "Bradley Cooper and Gigi Hadid spotted on theater date at play 'Danny and the Deep Blue Sea' - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3BhZ2VzaXguY29tLzIwMjMvMTEvMDEvY2VsZWJyaXR5LW5ld3MvYnJhZGxleS1jb29wZXItYW5kLWdpZ2ktaGFkaWQtc3BvdHRlZC1vbi1kYXRlLWF0LXBsYXktZGFubnktYW5kLXRoZS1kZWVwLWJsdWUtc2VhL9IBhAFodHRwczovL3BhZ2VzaXguY29tLzIwMjMvMTEvMDEvY2VsZWJyaXR5LW5ld3MvYnJhZGxleS1jb29wZXItYW5kLWdpZ2ktaGFkaWQtc3BvdHRlZC1vbi1kYXRlLWF0LXBsYXktZGFubnktYW5kLXRoZS1kZWVwLWJsdWUtc2VhL2FtcC8?oc=5",
+      "author": null,
+      "title": "网剧《我叫赵甲第2》官宣杀青赵甲第逆境重开白手搅风云-文化娱乐-北方网 - 北方网",
+      "description": "�������գ����ſ���Ϣ���������������޹�˾�������ͷɿƼ����޹�˾��Ʒ��������˹�������������޹�˾��Shaw Brothers Workshop Limited�����ֵܹ��������޹�˾���������ֱ�Ӱ�Ӵ�ý���޹�˾���ϳ�Ʒ���ı��Է��Ϸ���ԭ��С˵����������󡡷���ɾ�СҢ���ݣ���������Ц���������ݣ���׿����ݶ�������硢������������...",
+      "url": "http://ent.enorth.com.cn/system/2023/11/03/054595883.shtml",
       "urlToImage": null,
-      "publishedAt": "2023-11-02T03:28:00Z",
+      "publishedAt": "2023-11-03T07:54:59Z",
+      "content": "{#if $T.t.abstract!=''}\r\n {$T.t.abstract.substring(0, 50)} [] \r\n{#/if}\r\n {$T.t.pub_date}{$T.t.source_name}"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollywood Life"
+      },
+      "author": "Sanskruti Nemane",
+      "title": "Yeh Rishta Kya Kehlata Hai: Harshad Chopda, Pranali Rathod thronged with new, exciting offers after they quit - Bollywood Life",
+      "description": "Harshad Chopda and Pranali Rathod have shot for their last episode of Yeh Rishta Kya Kehlata Hai. However, it seems they already have got good offers.",
+      "url": "https://www.bollywoodlife.com/tv/yeh-rishta-kya-kehlata-hai-harshad-chopda-pranali-rathod-thronged-with-new-exciting-offers-after-they-quit-entertainment-news-tv-news-2674121/",
+      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2023/11/YRKKH28.jpg",
+      "publishedAt": "2023-11-03T07:51:37Z",
+      "content": "Harshad Chopda and Pranali Rathod made us love Abhimanyu, Akshara in Yeh Rishta Kya Kehlata Hai. They entered the show after Mohsin Khan and Shivangi Joshi left. Mohsin and Shivangi has a huge fan fo… [+2482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tracktollywood.com"
+      },
+      "author": "Sharat",
+      "title": "Polimera2 and Keedaa Cola openings at box office - TrackTollywood",
+      "description": "This week, the Telugu audience have two highly anticipated films in front of them. Keedaa Cola, the much-awaited Tharun Bhascker film is one",
+      "url": "https://tracktollywood.com/polimera2-and-keedaa-cola-openings-at-box-office/",
+      "urlToImage": "https://tracktollywood.com/wp-content/uploads/2023/11/Movies.jpeg",
+      "publishedAt": "2023-11-03T07:45:39Z",
+      "content": "This week, the Telugu audience have two highly anticipated films in front of them. Keedaa Cola, the much-awaited Tharun Bhascker film is one of them. It features an exciting star cast featuring Brahm… [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "All That Glitters Is Deepika Padukone In A Sparkling Mini Dress At Shah Rukh Khan's Birthday Party - NDTV",
+      "description": "This season is all about bling and Deepika Padukone's look at Shah Rukh Khan's birthday party proves that she got the memo",
+      "url": "https://www.ndtv.com/lifestyle/all-that-glitters-is-deepika-padukone-in-a-sparkling-mini-dress-and-louis-vuitton-bag-with-ranveer-singh-for-shah-rukh-khans-birthday-party-4541425",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/lh0gm4kg_deepika-padukone_625x300_03_November_23.jpg",
+      "publishedAt": "2023-11-03T07:29:40Z",
+      "content": "All That Glitters Is Deepika Padukone In A Sparkling Silver Mini Dress\r\nBollywood barely ever needs a reason to go ahead and up the bling quotient. The recent slew of functions has been a good excuse… [+1700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Godzilla Minus One: Official Trailer 2 (2023) Ryunosuke Kamiki, Minami Hamabe - IGN",
+      "description": "Godzilla Minus One, written and directed by Takashi Yamazki,  sees an already devastated postwar Japan facing a new threat in the form of Godzilla.   The fil...",
+      "url": "https://www.youtube.com/watch?v=9Md3hnqD-Dw",
+      "urlToImage": "https://i.ytimg.com/vi/9Md3hnqD-Dw/maxresdefault.jpg",
+      "publishedAt": "2023-11-03T07:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "The Archies song Va Va Voom: Agastya Nanda does an SRK to welcome Suhana - Hindustan Times",
+      "description": "The new Archies song features the lead cast dancing to Javed Akhtar's lyrics. The film is directed by his daughter Zoya Akhtar. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/the-archies-song-va-va-voom-agastya-nanda-does-a-shah-rukh-khan-to-welcome-suhana-khan-101698990706680.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/the_archies_song_va_va_voom_1698992892594_1698992892950.jpg",
+      "publishedAt": "2023-11-03T06:37:25Z",
+      "content": "A new song from Zoya Akhtar's upcoming film The Archies is out and it's a happy dance number featuring lead actors Suhana Khan, Agastya Nanda, Khushi Kapoor, Dot., Mihir Ahuja, Vedang Raina and Yuvra… [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Thania Garcia",
+      "title": "Megan Thee Stallion Faces a Venomous ‘Cobra’ in New Single and Video - Variety",
+      "description": "Megan Thee Stallion has dropped a new solo single called 'Cobra.'",
+      "url": "https://variety.com/2023/music/news/megan-thee-stallion-cobra-new-song-video-1235778807/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-02-at-10.02.06-PM.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-03T06:17:00Z",
+      "content": "Megan Thee Stallion is shedding her past in the new music video for her first official solo single since 2022, “Cobra.” Released under her own Hot Girl Productions, “Cobra” lyrically touches on Megan… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "ABP News Bureau",
+      "title": "Uorfi Javed Arrested? Taken Into Police Custody For Wearing 'Chote Chote Kapde' Watch - ABP Live",
+      "description": "Looks Like Uorfi Javed is in trouble. The actor-influencer was taken in police custody on Friday morning in Mumbai.",
+      "url": "https://news.abplive.com/entertainment/celebrities/uorfi-javed-arrested-taken-into-police-custody-for-wearing-chote-chote-kapde-watch-1640192",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/03/dde0e935d80250d5ee654cc4f4907da21698991864637396_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2023-11-03T06:06:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "[4K] SEVENTEEN, RIIZE, CRAVITY, Weeekly, Golden Child, NiziU ... | On the way to music bank 231103 - KBS WORLD Radio",
+      "description": "On the morning of November 3, at Yeoido KBS Hall11월 3일 오전, 여의도 KBS 공개홀KBS WORLD Radio filmed K-pop stars making their way to attend rehearsals for Music Bank...",
+      "url": "https://www.youtube.com/watch?v=oobzrG1JVLg",
+      "urlToImage": "https://i.ytimg.com/vi/oobzrG1JVLg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gYShlMA8=&rs=AOn4CLAzGizEZZGoiziapjYikwRWH2g6uw",
+      "publishedAt": "2023-11-03T05:57:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "Alan Ruck crash: Video shows moments before 'Succession' star plowed into Hollywood pizzeria - KABC-TV",
+      "description": "Surveillance video shows the \"Succession\" star's truck hit two vehicles before it plows into a Hollywood pizzeria.",
+      "url": "https://abc7.com/alan-ruck-truck-crash-hollywood-pizzeria/14006697/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14005791_crash-img-web.jpg?w=1600",
+      "publishedAt": "2023-11-03T05:45:05Z",
+      "content": "HOLLYWOOD, LOS ANGELES (KABC) -- The Los Angeles Police Department is investigating a Halloween night crash involving \"Succession\" actor Alan Ruck.\r\nFootage from the scene showed officers questioning… [+715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Katie Kilkenny",
+      "title": "SAG-AFTRA Says It’s Waiting on Studio Responses to Latest Proposals Amid Negotiations - Hollywood Reporter",
+      "description": "Both sides are set to continue working on a new three-year labor contract Friday.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-hollywood-studios-work-internally-thursday-negotiations-continue-1235635601/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/2023_10-strike_SAG-04.jpg?w=1024",
+      "publishedAt": "2023-11-03T05:39:12Z",
+      "content": "SAG-AFTRA says it is waiting on Hollywood studios to respond to several proposals as negotiations over a new three-year labor contract continue.\r\nThe union previously stated that it had sent its late… [+2355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "Poonam Dhillon recalls how Amitabh Bachchan treated her ‘like a prop’ on her first day of shoot: ‘I was so scared, nervous’ - The Indian Express",
+      "description": "Poonam Dhillon recalled the experience of her first day on a film set with Amitabh Bachchan. Poonam made her film debut in Yash Chopra's Trishul.",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-treated-poonam-dhillon-like-a-prop-first-day-of-shoot-scared-nervous-9011562/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/amitabh-poonam.jpg",
+      "publishedAt": "2023-11-03T05:20:20Z",
+      "content": "Yesteryear star Poonam Dhillon had a dream debut in the movies as she got an opportunity to star in Trishul which starred actors like Amitabh Bachchan, Sanjeev Kumar, Shashi Kapoor, Rakhee, Hema Mali… [+1675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Allu Arjun's Fam-Jam Pic From Varun Tej And Lavanya Tripathi's Wedding - NDTV Movies",
+      "description": "Varun Tej and Lavanya Tripathi got married in Italy earlier this week",
+      "url": "https://www.ndtv.com/entertainment/allu-arjun-and-wife-sneha-congratulate-varun-tej-and-lavanya-tripathi-4540982",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/actdod3o_allu-arjun-_625x300_03_November_23.jpg",
+      "publishedAt": "2023-11-03T05:12:01Z",
+      "content": "Allu Arjun with family. (courtesy: allusnehareddy)\r\nNew Delhi: Congratulations are in order for Varun Tej and Lavanya Tripathi, who got married in Italy. The newlyweds exchanged vows on November 1 in… [+2102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Sounak Mukhopadhyay",
+      "title": "OTT releases this week: From Jawan to Aarya Season 3; movies, web series to watch over the weekend | Mint - Mint",
+      "description": "OTT releases this week: A number of movies and web series including Jawan,  Aarya Season 3 and Scam 2003: The Telgi Story – Volume 2 are releasing on platforms like Netflix, Amazon Prime Video, SonyLIV and Disney+ Hotstar.",
+      "url": "https://www.livemint.com/news/india/ott-releases-this-week-from-jawan-to-aarya-season-3-movies-web-series-to-watch-over-the-weekend-11698985883654.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/03/1600x900/OTT_Nov_3_1698988059206_1698988069949.jpg",
+      "publishedAt": "2023-11-03T05:11:30Z",
+      "content": "This weekend offers a number of movies and web series releasing on OTT platforms. Lets have a look.Are You Ok Baby?\r\n Plot: An adoption story worsens due to media interference, resulting in emotional… [+2360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thepinknews.com"
+      },
+      "author": "Ali Condon",
+      "title": "Dolly Parton criticises Tennessee's anti-trans bills - PinkNews",
+      "description": "Dolly Parton has slightly eased up on her no-politics rule to speak about her home state of Tennessee and their hurtful anti-trans laws.",
+      "url": "https://www.thepinknews.com/2023/11/03/dolly-parton-tennessee-anti-trans-bills/",
+      "urlToImage": "https://www.thepinknews.com/wp-content/uploads/2023/06/dolly-parton-politicians-climate-change.jpg",
+      "publishedAt": "2023-11-03T04:50:33Z",
+      "content": "Dolly Parton has slightly eased up on her no-politics rule to speak about her home state of Tennessee and their hurtful anti-trans laws.\r\nOver the course of her legendary career, the Jolene singer ha… [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "A Round Up Of Anil Kapoor's Karwa Chauth Celebrations With Sunita Kapoor - NDTV Movies",
+      "description": "\"Blessed,\" wrote Anil Kapoor, sharing the photos on Instagram",
+      "url": "https://www.ndtv.com/entertainment/a-round-up-of-anil-kapoors-karwa-chauth-celebrations-with-sunita-kapoor-4540975",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/aiq63oig_anil-kapoor_625x300_03_November_23.jpg",
+      "publishedAt": "2023-11-03T04:45:25Z",
+      "content": "Sunita and Anil Kapoor. (courtesy: anilskapoor)\r\nNew Delhi: Anil Kapoor might have posted his Karwa Chauth photos a few days late than everyone else but that doesn't take away from the fact that the … [+1588 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Salman Khan cites examples of Shah Rukh Khan, Aamir Khan and other B-town stars while giving career advice to niece Alizeh Agnihotri; says 'Everybody should do Hindustani content' - Times of India",
+      "description": "Actor Salman Khan recently attended the trailer launch of 'Farrey', starring his niece Alizeh Agnihotri. At the event, the Bhaijaan of Bollywood also gave a piece of advice to Alizeh and the rest of the Farrey cast and suggested they must learn from Shah Rukh…",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/salman-khan-cites-examples-of-shah-rukh-khan-aamir-khan-and-other-b-town-stars-while-giving-career-advice-to-niece-alizeh-agnihotri-says-everybody-should-do-hindustani-content/videoshow/104932065.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104932065,imgsize-60202.cms",
+      "publishedAt": "2023-11-03T04:44:39Z",
+      "content": "Nov 03, 2023, 10:14AM ISTSource: etimes.inActor Salman Khan recently attended the trailer launch of 'Farrey', starring his niece Alizeh Agnihotri. At the event, the Bhaijaan of Bollywood also gave a … [+1398 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Nick Jonas gets impressed by wifey Priyanka Chopra's green saree look: 'So beautiful so elegant... - Times of India",
+      "description": "Nick Jonas took to his Instagram stories to share a picture of his lovely wife, Priyanka Chopra, in the said saree. The actress looked incredibly elegant in the lime green Sabyasachi saree she had recently donned for a star-studded event in Mumbai. Nick could…",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/nick-jonas-gets-impressed-by-wifey-priyanka-chopras-green-saree-look-so-beautiful-so-elegant-/videoshow/104931914.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104931914,imgsize-75164.cms",
+      "publishedAt": "2023-11-03T04:35:46Z",
+      "content": "Nov 03, 2023, 10:05AM ISTSource: IANSNick Jonas took to his Instagram stories to share a picture of his lovely wife, Priyanka Chopra, in the said saree. The actress looked incredibly elegant in the l… [+497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "soompi"
+      },
+      "author": "sala12",
+      "title": "Watch: BTS's Jungkook Sings About “Standing Next to You” In Charismatic Solo Comeback MV - soompi",
+      "description": "Watch: BTS’s Jungkook Sings About “Standing Next to You” In Charismatic Solo Comeback MV",
+      "url": "https://www.soompi.com/article/1623992wpp/watch-btss-jungkook-sings-about-standing-next-to-you-in-charismatic-solo-comeback-mv",
+      "urlToImage": "https://6.soompi.io/wp-content/uploads/image/20231103041655_Jungkook-standing-next-to-you.jpg?s=900x600&e=t",
+      "publishedAt": "2023-11-03T04:20:44Z",
+      "content": "BTSs Jungkook is here with his highly-anticipated solo album GOLDEN!\r\nOn November 3 at 1 p.m. KST, Jungkook dropped his first solo album GOLDEN along with the music video for the title track Standing… [+269 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Sussanne Khan, Esha Deol, Abhay Deol and others dress up for a Halloween-themed party - See INSIDE photos - IndiaTimes",
+      "description": "Celebrities including Sussanne Khan, Shweta Bachchan, Esha Deol, Abhay Deol, and others attended a Halloween-themed party. The photos from the event s",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sussanne-khan-esha-deol-abhay-deol-and-others-dress-up-for-a-halloween-themed-party-see-inside-photos/articleshow/104931403.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104931403,width-1070,height-580,imgsize-72338,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03T04:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Trump’s Dumb Sons Testify in Fraud Trial & George Santos Lives to Scam Another Day - Jimmy Kimmel Live",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=OQ0nVxD2Nck",
+      "urlToImage": null,
+      "publishedAt": "2023-11-03T03:45:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Sunny Deol's son Rajveer recalls how the 'Gadar 2' actor crushed a marble ornament with his hands in anger - Times of India",
+      "description": "Deol brothers Sunny and Bobby recently graced Karan Johar's chat show 'Koffee With Karan 8' where they received special messages from their sons Rajveer, Karan, and Aryaman. In his message for his dad Sunny, Rajveer, who recently made his acting debut with th…",
+      "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/sunny-deols-son-rajveer-recalls-how-the-gadar-2-actor-crushed-a-marble-ornament-with-his-hands-in-anger/videoshow/104931078.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104931078,imgsize-70250.cms",
+      "publishedAt": "2023-11-03T03:42:51Z",
+      "content": "Nov 03, 2023, 09:12AM ISTSource: etimes.inDeol brothers Sunny and Bobby recently graced Karan Johar's chat show 'Koffee With Karan 8' where they received special messages from their sons Rajveer, Kar… [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Bhavna Agarwal",
+      "title": "'Aankh Micholi' Review: Mrunal-Abhimanyu’s comedy film tests your patience - India Today",
+      "description": "Director Umesh Shukla's 'Aankh Micholi', starring an ensemble cast, is a silly comedy film, that's outdated. Read our review.",
+      "url": "https://www.indiatoday.in/movies/reviews/story/aankh-micholi-review-mrunal-abhimanyus-comedy-film-tests-your-patience-2457428-2023-11-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/aankh-micholi-032138686-16x9_0.jpg?VersionId=_ADjUjZ7ZbupylsJtCu59i0wV1R0RNDs",
+      "publishedAt": "2023-11-03T03:39:07Z",
+      "content": "Comedy of Errors is a genre that Hindi cinema has aced for decades now. Be it the original ‘Golmaal’ or Rohit Shetty’s take on it, or ‘Dhamaal’, ‘Hera Pheri’ and Hungama,’ the list is endless. Not al… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Are Sushmita Sen and Rohman Shawl dating again? Viral video of them together sparks rumours - IndiaTimes",
+      "description": "Sushmita Sen and Rohman Shawl, who remained friends after their breakup, were spotted together at a promotional event for 'Aarya 3'. In a video, Rohma",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/are-sushmita-sen-and-rohman-shawl-dating-again-viral-video-of-them-together-sparks-rumours/articleshow/104930501.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104930501,width-1070,height-580,imgsize-17628,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03T03:18:00Z",
       "content": null
     },
     {
@@ -983,181 +1048,259 @@
         "name": "Hindustan Times"
       },
       "author": "Akanksha Agnihotri",
-      "title": "Malaika Arora stuns in a stylish black pantsuit, embodying grace and glamour - Hindustan Times",
-      "description": "Malaika Arora is here to show you how to ace the pantsuit look with the utmost style as the diva donned a black three-piece suit attire, leaving fans swooning.",
-      "url": "https://www.hindustantimes.com/photos/lifestyle/malaika-aroras-bossy-look-in-a-stylish-black-pantsuit-attire-is-the-perfect-blend-of-grace-and-glamour-all-pics-inside-101698893087193.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/02/1600x900/3766771d-b5b9-4cbf-9aad-ead086dbfb3c_1698893080570_1698893305903.jpg",
-      "publishedAt": "2023-11-02T03:11:22Z",
-      "content": "Published on Nov 02, 2023 08:41 AM IST\r\nMalaika Arora is here to show you how to ace the pantsuit look with the utmost style as the diva donned a black three-piece suit attire, leaving fans swooning.… [+23 chars]"
+      "title": "Bhumi Pednekar turns heads in burgundy leather corset top and maxi skirt. Pics - Hindustan Times",
+      "description": "Bhumi Pednekar has set social media ablaze with her stunning look in a unique, body-hugging leather corset top and maxi skirt ensemble that left fans in awe.",
+      "url": "https://www.hindustantimes.com/photos/lifestyle/bhumi-pednekar-turns-heads-in-burgundy-leather-corset-top-and-maxi-skirt-redefining-fashion-trends-all-pics-inside-101698979365124.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/03/1600x900/5bf93250-2e3a-4595-a14c-cc24d45fd270_1698979356081_1698979647812.jpg",
+      "publishedAt": "2023-11-03T03:17:31Z",
+      "content": "Published on Nov 03, 2023 08:47 AM IST\r\nBhumi Pednekar has set social media ablaze with her stunning look in a unique, body-hugging leather corset top and maxi skirt ensemble that left fans in awe. .… [+21 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "123telugu.com"
+        "name": "Koimoi"
+      },
+      "author": "Shalmesh More",
+      "title": "Thalaivar 171: Rajinikanth Creates History By Charging 250+ Crores As His Salary For Lokesh Kanagaraj’s Film, Becomes Highest-Paid Actor Is Asia? - Koimoi",
+      "description": "Lokesh Kanagaraj will direct Rajinikanth in Thalaivar 171 & it is rumored that Rajini has charged a historic salary for it. Read on!",
+      "url": "https://www.koimoi.com/south-indian-cinema/thalaivar-171-rajinikanth-creates-history-by-charging-250-crores-as-his-salary-for-lokesh-kanagarajs-film-becomes-highest-paid-actor-is-asia/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/11/thalaivar-171-rajinikanth-creates-history-by-charging-250-crores-as-his-salary-for-lokesh-kanagarajs-film-becomes-highest-paid-actor-is-asia-01.jpg",
+      "publishedAt": "2023-11-03T02:49:25Z",
+      "content": "Rajinikanth Creates Ripples With His Salary For Thalaivar 171? (Picture Credit: IMDB)\r\n2023 has turned out to be really special for Rajinikanth. The superstar, after delivering dull performers, smash… [+2575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Audrey Rock",
+      "title": "Selena Gomez Says She's Deleting Her Instagram Account After Backlash Over 'Neutral' Gaza Conflict Comments - HollywoodLife",
+      "description": "The 'Only Murders in the Building' star said she's removing her Instagram account after being slammed for her seemingly neutral comments on the Gaza conflict.",
+      "url": "https://hollywoodlife.com/2023/11/02/selena-gomez-says-shes-deleting-her-instagram-account-after-backlash/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/11/selena-gomez-ss-FTR.jpg?quality=100",
+      "publishedAt": "2023-11-03T02:41:00Z",
+      "content": "Image Credit: Image Press Agency/NurPhoto/Shutterstock\r\nSelena Gomez may be leaving Instagram again. In a swiftly deleted Instagram Story on Thursday, November 2, the Rare Beauty founder, 31, shared … [+1962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "How to watch new movie Fingernails on Apple TV+ - 9to5Mac",
+      "description": "A new sci-fi romantic drama, Fingernails, is streaming today on Apple TV+. The movie stars Jessie Buckley, Riz Ahmed, and...",
+      "url": "https://9to5mac.com/2023/11/02/sci-fi-romance-movie-fingernails-streaming-now-on-apple-tv/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/how-to-watch-fingernails.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-11-03T02:29:00Z",
+      "content": "A new sci-fi romantic drama, Fingernails, is streaming today on Apple TV+. The movie stars Jessie Buckley, Riz Ahmed, and Jeremy Allen White. Here’s how to watch. \r\nFingernails is a sci-fi exploratio… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Vikram reveals an interesting fact about his role in Thangalaan - 123telugu",
-      "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
-      "url": "https://www.123telugu.com/mnews/vikram-reveals-an-interesting-fact-about-his-role-in-thangalaan.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2023-11-02T02:30:00Z",
-      "content": "Expectations reached new heights following the release of a dialogue-free teaser by the makers of Thangalaan. Chiyaan Vikram is poised to captivate audiences once again with his exceptional performan… [+780 chars]"
+      "title": "Lisa Vanderpump Knew Of 'A Lot Of Rumors' About Kyle & Mauricio Ahead of Separation - Access Hollywood",
+      "description": "Lisa Vanderpump is weighing in on Kyle Richards and Mauricio Umansky's separation. \"I think there were a lot of rumors for a long time and there were things ...",
+      "url": "https://www.youtube.com/watch?v=5sAC8slGDuU",
+      "urlToImage": "https://i.ytimg.com/vi/5sAC8slGDuU/maxresdefault.jpg",
+      "publishedAt": "2023-11-03T02:22:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Tracy Wright",
+      "title": "Matthew Perry was 'extremely positive, sober' when friend met him day before death, she says - Fox News",
+      "description": "Matthew Perry's friend, Athenna Crosby, met with the actor the day before he died and said he was \"extremely positive\" and \"acting normal\" during lunch.",
+      "url": "https://www.foxnews.com/entertainment/matthew-perry-extremely-positive-sober-when-she-met-him-day-before-death-friend-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/matthew-perry-remembered-friends.jpg",
+      "publishedAt": "2023-11-03T02:13:00Z",
+      "content": "Athenna Crosby, Matthew Perry's friend, is looking back on the \"Friends\" star's final hours, including when they met up for lunch the day before he died.\r\n\"He was 100% sober when he passed,\" Crosby e… [+5438 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "Des Moines Register"
       },
-      "author": "Bruce Haring",
-      "title": "Britney Spears’ Memoir ‘The Woman In Me’ Is Off To Strong Start, Selling 1.1M Copies In US - Deadline",
-      "description": "Britney Spears’ memoir The Woman in Me is big. But it’s not the biggest. First week sales reports indicate the memoir has sold 1.1 million copies in the U.S. alone through its first wee…",
-      "url": "https://deadline.com/2023/11/britney-spears-memoir-off-to-strong-sales-start-1235590373/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-457100765.jpg?w=1024",
-      "publishedAt": "2023-11-02T01:36:00Z",
-      "content": "Britney Spears‘ memoir The Woman in Me is big. But it’s not the biggest. \r\nFirst week sales reports indicate the memoir has sold 1.1 million copies in the U.S. alone through its first week. The sales… [+1786 chars]"
+      "author": "Jay Stahl",
+      "title": "'The Golden Bachelor' Gerry Turner shines during hometown dates - Des Moines Register",
+      "description": "Gerry Turner, the Iowan starring on the first season of \"The Golden Bachelor,\" shined during the spinoff's first hometown visits.",
+      "url": "https://www.desmoinesregister.com/story/entertainment/2023/11/02/the-golden-bachelor-gerry-turner-shines-during-hometown-dates-recap-abc-hulu/71430496007/",
+      "urlToImage": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2023/11/03/USAT/71429922007-170014-0413.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
+      "publishedAt": "2023-11-03T02:06:14Z",
+      "content": "Hometowns are here on \"The Golden Bachelor.\"\r\nThursday nights are like \"Bachelor\" franchise viewers' collective therapy appointment and Gerry Turner didn't disappoint. Unlike seasons of \"The Bachelor… [+1864 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Mashable Team",
+      "title": "NYT 'Connections' hints and answers for November 3: Tips to solve 'Connections' #145. - Mashable",
+      "description": "Everything you need to solve 'Connections' #145.",
+      "url": "https://mashable.com/article/nyt-connections-hint-answer-today-november-3-2023",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06AFI6fBSQQN4jpriA2Ph4Y/hero-image.fill.size_1200x675.v1698270272.jpg",
+      "publishedAt": "2023-11-03T02:00:39Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Rolling Stone"
+        "name": "San Francisco Chronicle"
       },
-      "author": "George Chidi",
-      "title": "Young Thug YSL Trial: Jury Finally Seated After More Than 10 Months - Rolling Stone",
-      "description": "After more than a year of delays and 10 months of jury selection, the jury in Young Thug's YSL trial has finally been seated",
-      "url": "https://www.rollingstone.com/music/music-news/young-thug-ysl-trial-jury-1234868136/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/YSL-Trial-Begins.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-      "publishedAt": "2023-11-02T01:03:10Z",
-      "content": "Young Thug is taking it to trial. Finally.\r\nAfter 10 months – the longest period of jury selection in Georgia judicial history – nine women and three men will decide whether Atlanta rapper Jeffery “Y… [+6070 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Rolling Stone",
-      "title": "Jung Kook Is a Dark Angel Channeling the King of Pop in ‘Standing Next to You’ Teaser - Rolling Stone",
+      "author": "San Francisco Chronicle",
+      "title": "Bay Area theater company cancels 'Death of a Salesman' after key actor was killed in S.F. - San Francisco Chronicle",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9qdW5nLWtvb2stc3RhbmRpbmctbmV4dC10by15b3UtdmlkZW8tdGVhc2VyLTEyMzQ4NjgyNTEv0gFpaHR0cHM6Ly93d3cucm9sbGluZ3N0b25lLmNvbS9tdXNpYy9tdXNpYy1uZXdzL2p1bmcta29vay1zdGFuZGluZy1uZXh0LXRvLXlvdS12aWRlby10ZWFzZXItMTIzNDg2ODI1MS9hbXAv?oc=5",
+      "url": "https://www.sfchronicle.com/entertainment/article/death-of-a-salesman-canceled-african-american-18465785.php",
       "urlToImage": null,
-      "publishedAt": "2023-11-01T20:49:08Z",
+      "publishedAt": "2023-11-03T01:27:24Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Yahoo Entertainment",
-      "title": "Heidi Klum Reveals Her 2023 Halloween Costume Took Six HOURS To Create - Yahoo Entertainment",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2hlaWRpLWtsdW0tcmV2ZWFscy1oZXItMjAyMy0xOTAwMTM4MDEuaHRtbNIBVmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9hbXBodG1sL2VudGVydGFpbm1lbnQvaGVpZGkta2x1bS1yZXZlYWxzLWhlci0yMDIzLTE5MDAxMzgwMS5odG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-01T19:00:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Mint",
-      "title": "For Julia Louis-Dreyfus, It’s So Funny It’s Sad | Mint - Mint",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2Zvci1qdWxpYS1sb3Vpcy1kcmV5ZnVzLWl0LXMtc28tZnVubnktaXQtcy1zYWQtMTE2OTg4NTkzMDc3MjYuaHRtbNIBZGh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2Zvci1qdWxpYS1sb3Vpcy1kcmV5ZnVzLWl0LXMtc28tZnVubnktaXQtcy1zYWQvYW1wLTExNjk4ODU5MzA3NzI2Lmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-11-01T17:24:12Z",
-      "content": null
+      "author": "etimes.in",
+      "title": "12th Fail box office collection: Vikrant Massey starrer earns Rs 13 crore in 7 days - timesofindia.com",
+      "description": "Despite a dip in collections during the week, the film '12th Fail' starring Vikrant Massey has earned around Rs 11.74 crore nett at the domestic box o",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/12th-fail-box-office-collection-vikrant-massey-starrer-earns-rs-13-crore-in-7-days/articleshow/104928576.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104928573,width-1070,height-580,imgsize-22732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03T00:51:00Z",
+      "content": "Amala Paul to Tamannaah Bhatia, best photos of the week"
     },
     {
       "source": {
         "id": null,
-        "name": "Jagran.com"
+        "name": "Entertainment Tonight"
       },
-      "author": "Swati Singh",
-      "title": "6 Most-Awaited OTT Releases The Kerala Story, Jawan, Fukrey 3, Thank You For Coming And More - Jagran English",
-      "description": "From The Kerala Story to Jawan, Fukrey 3 and more, here is a list of most-awaited movies that are all set to release on OTT platforms like Netflix, Prime Video, DisneyHotstar and more.",
-      "url": "https://english.jagran.com/entertainment/6-mostawaited-ott-releases-the-kerala-story-jawan-fukrey-3-thank-you-for-coming-netflix-prime-video-disneyplushotstar-zee5-sonyliv-mxplayer-november-10111219",
-      "urlToImage": "https://imgeng.jagran.com/images/2023/nov/the kerala story jawan1698855013405.jpg",
-      "publishedAt": "2023-11-01T16:11:00Z",
-      "content": "6 Most-Awaited OTT Releases: November 2023 brings a delightful array of surprises as several high-budget movies that have achieved remarkable success at the global box office are now preparing for th… [+2668 chars]"
+      "author": "Paige Gawley",
+      "title": "Vanessa Marcil Honors Ex-Fiancé and 'General Hospital' Co-Star Tyler Christopher After His Death - Entertainment Tonight",
+      "description": "The pair dated in the late '90s while co-starring on 'General Hospital.'",
+      "url": "https://www.etonline.com/vanessa-marcil-honors-ex-fiance-and-general-hospital-co-star-tyler-christopher-after-his-death",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-11/vanessatyler.jpg?h=c673cd1c",
+      "publishedAt": "2023-11-03T00:36:00Z",
+      "content": "Vanessa Marcil is remembering Tyler Christopher. Following the actor's death on Oct. 31, his former fiancé took to her Instagram Story to share throwback photos with him. \r\nIn the pics, Marcil and Ch… [+2175 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abplive.com"
+        "name": "Gold Derby"
       },
-      "author": "ABP News Bureau",
-      "title": "Eight Month Pregnant Malayalam TV Actor Priya Dies Of Heart Attack, Baby In ICU - ABP Live",
-      "description": "Malayalam television actress Dr. Priya died on Wednesday after a cardiac arrest, two days after another Malayalam actor Renjusha Memon's death.",
-      "url": "https://news.abplive.com/entertainment/south-cinema/malayalam-tv-actor-dr-priya-who-was-pregnant-dies-of-heart-attack-at-35-1639805",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/01/b61b5906d0b079680ee626a6194c06971698842898040410_original.JPG?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2023-11-01T12:51:22Z",
-      "content": null
+      "author": "John Benutty",
+      "title": "‘Big Brother 25’ episode 39 recap: Was Felicia or Cirie evicted on November 2? [LIVE BLOG] - Gold Derby",
+      "description": "Mama Felicia or Mama Cirie: which of these fan-favorites was about to be evicted from the “Big Brother 25” house? Their downfall started when Matt Klotz won Head of Household and nomina…",
+      "url": "https://www.goldderby.com/article/2023/big-brother-25-episode-39-recap-felicia-cirie-evicted/",
+      "urlToImage": "https://www.goldderby.com/wp-content/uploads/2023/11/big-brother-felicia-matt-jag-cirie.jpg",
+      "publishedAt": "2023-11-03T00:30:00Z",
+      "content": "Mama Felicia or Mama Cirie: which of these fan-favorites was about to be evicted from the “Big Brother 25″ house? Their downfall started when Matt Klotz won Head of Household and nominated both of th… [+6442 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "PINKVILLA"
       },
-      "author": "India Today Entertainment Desk",
-      "title": "Watch: Rajinikanth's fan dedicates temple to actor at Madurai home - India Today",
-      "description": "Rajinikanth's fan following has no boundaries and this sweet gesture by his fans proves it.  A die-hard fan of the superstar built a temple dedicated to Thalaiva in the premises of his house in Madurai, Tamil Nadu.",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/watch-rajinikanth-fan-dedicates-temple-to-actor-at-madurai-home-2456713-2023-11-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/rajinikanths-idol-at-a-temple-in-madurai-014842787-16x9_0.jpg?VersionId=27iK02XXmbh4mTcoXZ5xMLnzZcbGc_.u",
-      "publishedAt": "2023-11-01T12:45:40Z",
-      "content": "Rajinikanth, who enjoys a massive fan following, received a special gift from a die-hard fan. One of the fans of the megastar has built a temple dedicated to Thalaiva in the premises of his house in … [+1296 chars]"
+      "author": "Sanchi Gupta",
+      "title": "Sidhartha Mallya's ladylove Jasmine shares INSIDE photos from Halloween engagement party; calls it 'best day' - PINKVILLA",
+      "description": "Jasmine, The Beloved Of Sidhartha Mallya, Has Unveiled A Collection Of Never-before-seen Snapshots From Their Magical Halloween Engagement Party. Take A Peek Into This Special Celebration!",
+      "url": "https://www.pinkvilla.com/entertainment/news/sidhartha-mallyas-ladylove-jasmine-shares-inside-photos-from-halloween-engagement-party-calls-it-best-day-1255867",
+      "urlToImage": "https://www.pinkvilla.com/images/2023-11/900211566_sidhartha-mallya-jasmine.jpg",
+      "publishedAt": "2023-11-02T22:28:18Z",
+      "content": "Vijay Mallya's son, Sidhartha Mallya, made a Halloween proposal to his girlfriend, Jasmine, and their special moment was showered with love and well-wishes from their supporters. Jasmine has now grac… [+1913 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Indian Express"
+        "name": "Variety"
       },
-      "author": "Trends Desk",
-      "title": "TMC MP Nusrat Jahan joins Deepika Padukone and Sanya Malhotra in ‘looking like a wow’ trend - The Indian Express",
-      "description": "For the uninitiated, the dialogue “looking like a wow” has gone insanely viral after it was used by Jasmeen Kaur, who has a boutique that sells suits in Delhi’s Tilak Nagar.",
-      "url": "https://indianexpress.com/article/trending/trending-in-india/tmc-mp-nusrat-jahan-joins-deepika-padukone-sanya-malhotra-looking-like-a-wow-trend-9009180/",
-      "urlToImage": "https://images.indianexpress.com/2023/11/TMC-MP-Nusrat-Jahan-joins-Deepika-Padukone-and-Sanya-Malhotra-in-‘looking-like-a-wow-trend.jpg",
-      "publishedAt": "2023-11-01T11:00:37Z",
-      "content": "Bengali film actress and TMC MP Nusrat Jahan has also jumped on the looking like a wow trend that has been sweeping the internet lately.\r\nActresses Deepika Padukone and Sanya Malhotra had earlier nai… [+1188 chars]"
+      "author": "Owen Gleiberman",
+      "title": "‘The Marsh King’s Daughter’ Review: Daisy Ridley Turns Predator as a Woman Raised in the Wilderness by Her Sinister Hunter Father - Variety",
+      "description": "The film has a setup similar to \"Cape Fear,\" but with only a token of the psychology or tension.",
+      "url": "https://variety.com/2023/film/reviews/the-marsh-kings-daughter-review-daisy-ridley-ben-mendelsohn-1235777049/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Daisy_Ridley_in_The_Marsh_Kings_Daughter_Photo_Credit_Philippe_Bosse_2_75bb3b588b.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-02T22:02:00Z",
+      "content": "Helena (Daisy Ridley), the title character of “The Marsh King’s Daughter,” is a woman living what she thinks is a safe, comfortable middle-class existence — just like the heroes of “Cape Fear” or “St… [+4046 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "OregonLive"
       },
-      "author": null,
-      "title": "Tamannaah Bhatia And Vijay Varma's Couple Style On The Ramp Is Black, White And Fantastic All Over At Jio Plaza Launch - NDTV",
-      "description": "Vijay Varma and Tamannaah Bhatia upped the quirky fashion quotient at the Jio World Plaza launch",
-      "url": "https://www.ndtv.com/lifestyle/tamannaah-bhatia-and-vijay-varmas-couple-style-on-the-ramp-is-black-white-and-fantastic-all-over-at-jio-world-plaza-opening-night-4534616",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/dl1opve8_tamannaah-bhatia_625x300_01_November_23.jpg",
-      "publishedAt": "2023-11-01T11:00:01Z",
-      "content": "Tamannaah And Vijay's Couple Style Is Black, White And Fantastic All Over\r\nTamannaah Bhatia and Vijay Varma are one of Bollywood most admired couples, both on and off the screen. Their chemistry shin… [+2044 chars]"
+      "author": "Lizzy Acker | The Oregonian/OregonLive",
+      "title": "Taylor Swift is bringing The Eras Tour just one direct train ride away from Portland next year - OregonLive",
+      "description": "Are you ready to get your heart broken again?",
+      "url": "https://www.oregonlive.com/entertainment/2023/11/taylor-swift-is-bringing-the-eras-tour-just-one-direct-train-ride-away-from-portland-next-year.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/DH1NXBaQYvqZ40XZrbj2P86rhMo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W4YHKXKJRFFN7IWVSA4LGVCD3A.JPG",
+      "publishedAt": "2023-11-02T21:54:00Z",
+      "content": "Are you ready for it*? (*By it I mean to get your heart broken again?)\r\nTaylor Swift is adding international dates to The Eras Tour that are accessible by train from Portland. Thats right, shes going… [+925 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Sushmita Sen reveals she had a heart attack after getting an 'okay echo report': It was a very sudden occ - IndiaTimes",
+      "description": "Indian actress and model Sushmita Sen recently revealed that she suffered a heart attack while shooting for her show 'Aarya' earlier this year. She ha",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushmita-sen-reveals-she-had-a-heart-attack-after-getting-an-okay-echo-report-it-was-a-very-sudden-occurrence/articleshow/104926057.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104926052,width-1070,height-580,imgsize-81900,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02T21:31:00Z",
+      "content": "Sushmita Sen sets the internet ablaze with her all-black look; netizen writes, 'You never miss a chance to compliment yourself'"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Hindustan Times"
       },
-      "author": null,
-      "title": "Artist Uses AI To Cover Buildings In Pasta, \"When Can We Move In?\" Asks Internet - NDTV",
-      "description": "A series of AI artworks featuring buildings and objects covered with different types of pasta has grabbed many eyeballs online.",
-      "url": "https://www.ndtv.com/food/artist-uses-ai-to-cover-buildings-in-pasta-when-can-we-move-in-asks-internet-4534276",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/u820co5o_ai-art-of-pastacovered-buildings_650x300_01_November_23.jpg?ver-20231016.06",
-      "publishedAt": "2023-11-01T09:10:54Z",
-      "content": "An AI artist has reimagined building covered in pasta (Photo Credit: Instagram/ ifonly.ai)\r\nAI has changed the landscape of visual art, literally and figuratively. Artists are enjoying coming up with… [+2053 chars]"
+      "author": "Neeraj Dhankher",
+      "title": "Career Horoscope Today for Nov 3, 2023:Promotions are foreseen for these zodiacs - Hindustan Times",
+      "description": "Daily Horoscope Today, November 3, 2023: Get daily career astrological predictions that will help you prosper at your workplace. | Horoscope",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-november-3-2023-promotions-are-foreseen-for-these-zodiacs-101698921838723.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/11/02/1600x900/career_horoscope_today_1692787780622_1698922102546.jpg",
+      "publishedAt": "2023-11-02T21:30:07Z",
+      "content": "Aries: Take your work seriously and try to start the day early. Keep a check on your daily work records because your seniors might ask for a response anytime soon. If you are feeling bored or frustra… [+5131 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Motor1 "
       },
-      "author": null,
-      "title": "On Deepika Padukone's Post, Ranveer Singh Left A Comment (Rocky Randhawa Style) - NDTV",
-      "description": "The actress has shared some photos of her look from the grand opening of Jio World Plaza",
-      "url": "https://www.ndtv.com/entertainment/ranveer-singh-can-t-stop-gushing-over-deepika-padukone-s-latest-instagram-entry-4533986",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/2fc3686o_deepika-_625x300_01_November_23.jpg",
-      "publishedAt": "2023-11-01T07:23:49Z",
-      "content": "Deepika Padukone shared this image. (courtesy: deepikapadukone)\r\nNew Delhi: Be it her on-screen presence or fashion outings, Deepika Padukone never fails to make a statement. Now, the actress has sha… [+1978 chars]"
+      "author": "Christopher Smith",
+      "title": "The Fall Guy Movie Remake Stars Ryan Gosling And Brown GMC Trucks - Motor1 ",
+      "description": "The Fall Guy is a moving coming in March 2024, based on the classic 1980s TV show that prominently featured a brown GMC pickup truck.",
+      "url": "https://www.motor1.com/news/694493/the-fall-guy-movie-trailer-gmc-trucks/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/Akg0BN/s1/the-fall-guy-screenshot.jpg",
+      "publishedAt": "2023-11-02T21:07:00Z",
+      "content": "Colt Seavers is back as The Fall Guy, and yes, his brown and gold GMC pickup truck is back, too. If you're scratching your head about this right now, we'll explain in a moment. For the rest of us who… [+2179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Zack Sharf",
+      "title": "Taylor Swift Fans in Argentina Have Camped Out in Tents for Five Months in Order to Be Front Row at the Eras Tour: ‘People Are Very Upset With Us’ - Variety",
+      "description": "Taylor Swift fans in Argentina are taking their fandom to a new level by camping out since June in front of the stadium where Swift will perform.",
+      "url": "https://variety.com/2023/music/news/taylor-swift-fans-argentina-camping-out-eras-tour-1235778141/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1591512935-e1691169950635.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-02T20:21:00Z",
+      "content": "Taylor Swift‘s Eras Tour dominated the U.S. in the spring and summer, and the movie version became the highest-grossing concert film of all time this fall with over $200 million at the worldwide box … [+2887 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Euphoria will return with season 3 in 2025 - Entertainment Weekly News",
+      "description": "HBO teases their 2025 TV slate, which includes 'Euphoria,' 'The Last of Us,' 'The White Lotus,' and 'Welcome to Derry.'",
+      "url": "https://ew.com/tv/yes-euphoria-season-3-is-still-coming-heres-what-we-know/",
+      "urlToImage": "https://ew.com/thmb/WkdebjUl53ysO6d2bEYgJBpDnpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Euphoria_1-737304aa81de4b56a9d42e55f312c332.jpg",
+      "publishedAt": "2023-11-02T19:23:13Z",
+      "content": "Euphoria is still set to return, in all its glittery glory but fans will have to wait just a little while longer. Season 3 won't hit screens until 2025, according to HBO boss Casey Bloys.\r\nDuring a T… [+2533 chars]"
     }
   ]
 }
