@@ -1,162 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 209,
+  "totalResults": 206,
   "articles": [
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Greg Norman",
+      "title": "Health officials warn of possible measles exposure at Dulles, Ronald Reagan airports - Fox News",
+      "description": "Health officials in Washington, D.C., and Virginia are warning the public about a possible measles exposure at two heavily-trafficked airports in the area.",
+      "url": "https://www.foxnews.com/health/health-officials-warn-possible-measles-exposure-dulles-ronald-reagan-airports",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Ronald-Reagan-airport-arrival.png",
+      "publishedAt": "2024-01-16T17:55:00Z",
+      "content": "Health officials in the nations capital are warning thousands of a possible measles exposure Tuesday after a person with a \"confirmed case\" traveled through two of the busiest airports in the region … [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Ashwin Dhanda",
+      "title": "What happens to your liver when you quit alcohol - The Conversation",
+      "description": "The liver has remarkable self-healing powers. But it has limits, so don’t abuse it.",
+      "url": "https://theconversation.com/what-happens-to-your-liver-when-you-quit-alcohol-220490",
+      "urlToImage": "https://images.theconversation.com/files/568930/original/file-20240111-25-sxzwan.jpg?ixlib=rb-1.1.0&rect=0%2C276%2C4021%2C2010&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-01-16T17:48:04Z",
+      "content": "According to Greek mythology, Zeus punished Prometheus for giving fire to humans. He chained Prometheus up and set an eagle to feast on his liver. Each night, the liver grew back and each day, the ea… [+3729 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kim Schewitz",
+      "title": "3 Ways to Cut Down on Ultra-Processed Foods, Even When You're Busy - Business Insider",
+      "description": "Part of the appeal of ultra-processed foods is that they're convenient, which can make cutting down tough. Rob Hobson shares how to make it simple.",
+      "url": "https://www.businessinsider.com/ways-cut-down-ultra-processed-foods-even-when-busy-2024-1",
+      "urlToImage": "https://i.insider.com/65a6b4e2dcdb354a9857d331?width=1200&format=jpeg",
+      "publishedAt": "2024-01-16T17:02:00Z",
+      "content": "From foods you might expect, like candy and frozen pizza, to those that we consider healthy choices, such as packaged whole-grain bread, ultra-processed foods\r\n are everywhere.\r\nIn recent years, UPFs… [+3664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Cancer-related mutations appear in stem cell derivatives used in regenerative medicine, shows study - Phys.org",
+      "description": "Human pluripotent stem cells are cells that have two very important traits—a seemingly endless proliferative capability and the amazing ability to give rise to any cell in our body. These characteristics make these cells a great tool for research of early hum…",
+      "url": "https://phys.org/news/2024-01-cancer-mutations-stem-cell-derivatives.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/cancer-related-mutatio.jpg",
+      "publishedAt": "2024-01-16T16:34:03Z",
+      "content": "Human pluripotent stem cells are cells that have two very important traitsa seemingly endless proliferative capability and the amazing ability to give rise to any cell in our body. These characterist… [+3673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Endpoints News"
+      },
+      "author": "ENDPOINTS",
+      "title": "Doudna's new venture; Aclaris CEO to step down; Tome's $114M liver disorder deal with Genevant - Endpoints News",
+      "description": "Plus, news about Orion, Stalicla, Cyrano Therapeutics and Instil Bio: Jennifer Doudna’s latest venture: Her lab published a study Thursday in Nature Biotechnology detailing how antibody fragments can be used to target virus-like particles with gene editing ma…",
+      "url": "https://endpts.com/doudnas-new-venture-aclaris-ceo-to-step-down-tomes-114m-liver-disorder-deal-with-genevant/",
+      "urlToImage": "https://endpts.com/wp-content/uploads/2020/10/News_briefing_FE.jpg",
+      "publishedAt": "2024-01-16T16:09:00Z",
+      "content": "Plus, news about Ori­on, Stal­i­cla, Cyra­no Ther­a­peu­tics and In­stil Bio:\r\nJen­nifer Doud­na’s lat­est ven­ture: Her lab pub­lished a study Thurs­day in Na­ture Biotech­nol­o­gy de­tail­ing how a… [+608 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sandee LaMotte",
+      "title": "100% fruit juice linked to weight gain in children and adults, study finds - CNN",
+      "description": "One glass of 100% juice a day was linked to weight gain in children and adults, a new study found.",
+      "url": "https://www.cnn.com/2024/01/16/health/juice-weight-gain-study-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1032844654.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-16T16:00:00Z",
+      "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nDrinking a glass or more of 100… [+5839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman",
+      "title": "Hundreds of Animal Species Hit by 'Catastrophic' Flu Strain - Newser",
+      "description": "Elephant seals, seabirds, and now a polar bear—could humans could be hit hard next with H5N1?",
+      "url": "https://www.newser.com/story/345153/hundreds-of-animal-species-hit-by-catastrophic-flu-strain.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1512742-12-20240116101532.jpeg",
+      "publishedAt": "2024-01-16T15:56:00Z",
+      "content": "\"It is catastrophic ... the largest die-off for the species, period.\" That's how Martin Mendez, a marine biologist with the Wildlife Conservation Society, describes to the Washington Post the fate of… [+2201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Lifestyle Desk",
+      "title": "What is the 90-30-50 diet plan and how does it work for your body? - The Indian Express",
+      "description": "It is important to personalise the plan according to individual health conditions, dietary preferences, and lifestyle factors, said Shruti K Bhardwaj, chief dietician, Zydus Hospitals, Ahmedabad",
+      "url": "https://indianexpress.com/article/lifestyle/life-style/what-is-90-30-50-diet-plan-benefits-risks-body-9111217/",
+      "urlToImage": "https://images.indianexpress.com/2024/01/diet_600_freepik-1.jpg",
+      "publishedAt": "2024-01-16T15:32:28Z",
+      "content": "The combination of carbohydrates, proteins, fats is known to increase fibre intake, which is also known to support digestive health and satiety. As such, the 90-30-50 diet plan is finding its footing… [+2859 chars]"
+    },
+    {
+      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
       "author": "TOI Lifestyle Desk",
-      "title": "Fueling your happiness with food that boost happy hormones - IndiaTimes",
-      "description": "Enhancing your mental well-being doesn't have to be a complicated journey. By savouring the flavors of these vegetarian foods, you not only nourish your body but also promote the production of happy hormones, paving the way for a happier and more balanced lif…",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/fueling-your-happiness-with-food-that-boost-happy-hormones/photostory/106892356.cms",
-      "urlToImage": "https://static.toiimg.com/photo/106892425.cms",
-      "publishedAt": "2024-01-16T08:30:00Z",
-      "content": "Oats, a complex carbohydrate, offer more than just a hearty breakfast. They help regulate blood sugar levels, providing a sustained release of energy throughout the day. Additionally, oats contain ma… [+230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Zarafshan Shiraz",
-      "title": "Yoga and respiratory resilience: Exercises to beat winter cold and flu naturally - Hindustan Times",
-      "description": "These simple yet effective Yoga asanas can help in bolstering your respiratory system and naturally beat winter cold and viral flu | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/yoga-and-respiratory-resilience-exercises-to-beat-winter-cold-and-viral-flu-naturally-101705389951428.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/16/1600x900/Sudden-changes-in-weather-have-resulted-in-an-incr_1677674938447_1705390613456.jpg",
-      "publishedAt": "2024-01-16T07:48:57Z",
-      "content": "In the chilly season of winter, maintaining respiratory health becomes paramount but experts insist that Yoga, with its gentle yet powerful approach, can be a natural ally in boosting respiratory res… [+3825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "What Is Disease X? How Scientists Are Preparing For The Next Pandemic - NDTV",
-      "description": "It sounds like something Elon Musk might have cooked up: \"Disease X.\" In fact, the term was coined years ago as a way of getting scientists to work on medical countermeasures for unknown infectious threats.",
-      "url": "https://www.ndtv.com/world-news/what-is-disease-x-how-scientists-are-preparing-for-the-next-pandemic-4872347",
-      "urlToImage": "https://c.ndtvimg.com/2023-09/trsj4j7g_disease-x_625x300_26_September_23.jpg",
-      "publishedAt": "2024-01-16T07:48:19Z",
-      "content": "WHO added Disease X in 2017 to a short list of pathogens deemed a top priority for research\r\nIt sounds like something Elon Musk might have cooked up: \"Disease X.\" In fact, the term was coined years a… [+4072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "India Today Science Desk",
-      "title": "Indian scientists uncover how ovarian cancer remains stealthy until too late - India Today",
-      "description": "Tissues from the lining of body cavities in mice were exposed to chemotherapeutics, inducing senescence—a state where cells cease to replicate but do not die, akin to ageing in human body.",
-      "url": "https://www.indiatoday.in/science/story/indian-scientists-uncover-key-mechanism-facilitating-growth-of-ovarian-cancer-2489297-2024-01-16",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/cancer-cells-163725774-16x9_0.jpg?VersionId=VvDmAivz.qP6GEuODHenrTgBUbuXhUy5",
-      "publishedAt": "2024-01-16T07:38:52Z",
-      "content": "A new study by researchers at the Indian Institute of Science (IISc) has revealed a potential link between ageing tissues and the rapid spread of ovarian cancer, offering new insights into why this d… [+3017 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "The right way to get Vitamin D from the Sun if you are sensitive to sunrays - IndiaTimes",
-      "description": "​Vitamin D, often referred to as the sunshine vitamin, plays a crucial role in maintaining optimal health. While sunlight is a natural source of this essential vitamin, individuals sensitive to sun rays must approach sun exposure with caution because adults n…",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/the-right-way-to-get-vitamin-d-from-the-sun-if-you-are-sensitive-to-sunrays/photostory/106852667.cms",
-      "urlToImage": "https://static.toiimg.com/photo/106852871.cms",
-      "publishedAt": "2024-01-16T07:10:19Z",
-      "content": "Vitamin D is vital for various bodily functions, including bone health, immune system support, and mood regulation. The primary source of vitamin D is sunlight, specifically ultraviolet B (UVB) rays.… [+295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India TV News"
-      },
-      "author": "Written by Rahul Pratyush",
-      "title": "Managing Diabetes to Weight: Benefits of incorporating one steamed amla into your diet - India TV News",
-      "description": "Uncover the health advantages of incorporating steamed amla into your diet. Explore its rich vitamin C content, antioxidant properties, and potential benefits for digestion, heart health, and weight management.",
-      "url": "https://www.indiatvnews.com/health/managing-diabetes-to-weight-benefits-of-incorporating-one-steamed-amla-into-your-diet-2024-01-16-912069",
-      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/01/amla-2-1705387828.jpg",
-      "publishedAt": "2024-01-16T06:59:55Z",
-      "content": "Amla, also known as Indian gooseberry, might look unassuming, but packed within its tart skin lies a potent arsenal of health benefits. While traditionally relished raw or pickled, incorporating one … [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "IANS",
-      "title": "SARS-Cov-2 vax may offer moderate protection against long Covid in kids - Investing.com India",
-      "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
-      "url": "https://in.investing.com/news/sarscov2-vax-may-offer-moderate-protection-against-long-covid-in-kids-3974226",
-      "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/9dad1ee353d5b697a33108fed4dcda28_w_800_h_450.jpg",
-      "publishedAt": "2024-01-16T06:51:01Z",
-      "content": "New York, Jan 16 (IANS) Vaccination against SARS-CoV-2, the virus that causes Covid-19, provides moderate protection against long Covid, which can cause long-term serious acute illness, in children a… [+2780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "Utsa Ganguly",
-      "title": "The Essence Of Dietetics, Exercise And Lifestyle Modification To Manage Metabolism And Related Disorders - ABP Live",
-      "description": "An active lifestyle helps to keep weight in check, maintains blood glucose levels, lowers the risk of other complications, and keeps associated co-morbidities like hypertension at bay.",
-      "url": "https://news.abplive.com/lifestyle/diet-exercise-lifestyle-modification-to-manage-metabolism-related-disorders-1655806",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/16/b84dd590143ae2820d14ebdad2daf3591705348088535557_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2024-01-16T06:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Namita S Kalla",
-      "title": "Fatigue, muscle cramps, dark yellow urine colour are warning signs that you are not drinking water - Moneycontrol",
-      "description": "Water is more than a mere thirst-quencher; it is a vital drink that keeps your body running smoothly. From regulating body temperature to aiding digestion, supporting cellular functions, and even cushioning joints, the importance of water is irrefutable.",
-      "url": "https://www.moneycontrol.com/news/health-and-fitness/fatigue-muscle-cramps-dark-yellow-urine-colour-are-warning-signs-that-you-are-not-drinking-enough-water-12059561.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/Fatigue-is-a-symptom-of-dehydration-770x433.jpg",
-      "publishedAt": "2024-01-16T06:22:15Z",
-      "content": "You surely know how important it is to drink enough water through the day, right? But sometimes your daily schedule is so packed and hectic that you forget to hydrate yourself properly. You know it a… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deccan Herald"
-      },
-      "author": "PTI",
-      "title": "Why you may feel depressed and anxious when you're ill – and how to cope with it - Deccan Herald",
-      "description": "Stockholm, Jan 16 (The Conversation) Winter illnesses are all around us at the moment – from the common cold, COVID-19 and flu to strep throat and stomach bugs.",
-      "url": "https://www.deccanherald.com/science/why-you-may-feel-depressed-and-anxious-when-youre-ill-and-how-to-cope-with-it-2850500",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-01%2F83d8dc0d-34b2-4b1f-b583-002ef0b3ef34%2FiStock_1296893663.jpg?rect=0%2C0%2C2144%2C1126&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2024-01-16T06:10:13Z",
-      "content": "Because there were no real bacteria in the blood, and because the liver and immune cells rapidly clear bacterial components from the blood, the production of cytokines lasted only a few hours, typica… [+173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "WION Web Team",
-      "title": "China experimenting with deadly Covid-like virus that could affect humans: Report - WION",
-      "description": "China experimenting with deadly Covid-like virus that could affect humans: Report",
-      "url": "https://www.wionews.com/world/china-experimenting-with-deadly-covid-like-virus-that-is-fatal-to-mice-report-680390",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/01/16/405986-untitled-design-14.png",
-      "publishedAt": "2024-01-16T05:23:00Z",
-      "content": "If a report doing the rounds on a database of pre-peer reviewed journal articles is to be believed, China has been experimenting with a new deadly Covid-like virus which is 100 per cent fatal to mice… [+2358 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jagran.com"
-      },
-      "author": "Priyanka Munshi",
-      "title": "5 Reasons To Eat Pomegranate Peel Every Day | Relieve Cold And Cough To Heart Diseases - Jagran English",
-      "description": "Pomegranates are a nutritious fruit with antioxidants, punicalagins, and anthocyanins, which help fight inflammation and oxidative stress. They lower cholesterol and blood pressure, maintain a strong immune system, and provide a healthy stomach and digestive …",
-      "url": "https://english.jagran.com/lifestyle/5-reasons-to-eat-pomegranate-peel-every-day-relieve-cold-and-cough-to-heart-diseases-10127436",
-      "urlToImage": "https://imgeng.jagran.com/images/2024/jan/benefitofpomegrnatepeelsforhealth1705381729079.jpg",
-      "publishedAt": "2024-01-16T05:09:00Z",
-      "content": "Do you know that eating a single pomegranate every day can have so many positive effects on your health? Antioxidants found in pomegranates, especially punicalagins and anthocyanins, help the body fi… [+2118 chars]"
+      "title": "What happens when you consume sweets after dinner every night? - IndiaTimes",
+      "description": "While the immediate gratification and comfort are undeniable, it's essential to be aware of the potential consequences, such as increased caloric intake, blood sugar fluctuations, and dental health concerns. However, what happens when you make this indulgence…",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/what-happens-when-you-consume-sweets-after-dinner-every-night/photostory/106901841.cms",
+      "urlToImage": "https://static.toiimg.com/photo/106901859.cms",
+      "publishedAt": "2024-01-16T15:30:00Z",
+      "content": "Indulging in a sweet treat after dinner is a common ritual for many. Whether it's a piece of chocolate, a scoop of ice cream, or a homemade dessert, the allure of a sweet conclusion to the day is und… [+390 chars]"
     },
     {
       "source": {
@@ -164,25 +125,259 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Fungal disease deaths double the old estimate: Lancet study | Latest English News | WION - WION",
-      "description": "The annual total of deaths from fungal disease worldwide has risen to 3.75 million, double the previous estimate, according to a global study. The study, pub...",
-      "url": "https://www.youtube.com/watch?v=7f82_tJ9kpA",
-      "urlToImage": "https://i.ytimg.com/vi/7f82_tJ9kpA/maxresdefault.jpg",
-      "publishedAt": "2024-01-16T04:14:26Z",
+      "title": "Ways to Prevent Cervical Cancer | Jan. 16, 2024 | News 19 at Noon - WHNT News 19",
+      "description": "Women in Alabama are more likely to die from cervical cancer than women in most other states, according to the Alabama Department of Public Health.News 19 is...",
+      "url": "https://www.youtube.com/watch?v=pdVYXZej4jA",
+      "urlToImage": "https://i.ytimg.com/vi/pdVYXZej4jA/maxresdefault.jpg",
+      "publishedAt": "2024-01-16T15:04:08Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Businessnewsthisweek.com"
+        "name": "UPI.com"
       },
-      "author": "Mansi Praharaj",
-      "title": "Beating the Winter Blues: Tips to Stay Active and Fit in Cold Weather - Business News This Week",
-      "description": "Stay connected with Business News This Week for business news, news this week, news headlines, business news, health, education, startups",
-      "url": "https://businessnewsthisweek.com/health/beating-the-winter-blues-tips-to-stay-active-and-fit-in-cold-weather/",
-      "urlToImage": "https://biznewsdesk.com/wp-content/uploads/2024/01/Nikhil1.jpg",
-      "publishedAt": "2024-01-16T03:52:17Z",
-      "content": "Nikhil Kumar, a fitness enthusiast\r\nAs the winter chill settles in, the temptation to stay bundled up in a cosy blanket can often overshadow our motivation to stay active. However, maintaining a regu… [+2610 chars]"
+      "author": null,
+      "title": "Study finds no link between marijuana use and starting or stopping opioids - UPI News",
+      "description": "There's no link at all between weed use and a person's use of illicit opioids, one way or the other, a new review concludes.",
+      "url": "https://www.upi.com",
+      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6131705414163/2024/1/fdd34897cd45e3e86458e1efc4caa569/v1.5/Study-finds-no-link-between-marijuana-use-and-starting-or-stopping-opioids.jpg",
+      "publishedAt": "2024-01-16T15:00:27Z",
+      "content": "There's no link at all between weed use and a person's use of illicit opioids, one way or the other, a new review concludes.\r\nCannabis isn't a gateway drug that can spark a person's desire to try nar… [+2705 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "By  DR. ITAY GAL",
+      "title": "JN.1: What is the new COVID variant in Israel? - explainer - The Jerusalem Post",
+      "description": "Israel has detected a new variant of COVID-19 known as JN.1, which has already affected around 200 people in the country. What should you know about it?",
+      "url": "https://www.jpost.com/health-and-wellness/coronavirus/article-780567",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/573016",
+      "publishedAt": "2024-01-16T14:48:28Z",
+      "content": "A new variant of COVID-19, known as JN.1, reportedly first emerged in the United States in September of last year.\r\nUnlike its predecessors, this variant is more complex and has gradually become the … [+2893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Inflammation and Poverty Increase Health and Mortality Risks - Neuroscience News",
+      "description": "Recent research highlights a synergistic relationship between chronic inflammation and poverty, exacerbating health risks and reducing life expectancy in the U.S.",
+      "url": "https://neurosciencenews.com/poverty-inflammation-health-mortality-25461/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/01/inflammation-poverty-health-neurosicence.jpg",
+      "publishedAt": "2024-01-16T14:44:00Z",
+      "content": "Summary: Recent research highlights a synergistic relationship between chronic inflammation and poverty, exacerbating health risks and reducing life expectancy in the U.S.\r\nAnalyzing data from the Na… [+6665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "sahas, Lifestyle Desk",
+      "title": "Why Thyroid Test Is Necessary During Pregnancy - News18",
+      "description": "Thyroid hormones are more important during pregnancy to support foetal growth.",
+      "url": "https://www.news18.com/lifestyle/why-thyroid-test-is-necessary-during-pregnancy-8741906.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/image-26-2024-01-14945cf11387234332bccddcdc48b8c0-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-01-16T14:21:04Z",
+      "content": "Since the thyroid gland is crucial to preserving hormone balance, metabolism, and general health, thyroid function is particularly crucial during pregnancy. During pregnancy, thyroid dysfunction can … [+2428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Sarah Moore",
+      "title": "Empowering PCOS Patients: Strategies for Living Well with the Condition - News-Medical.Net",
+      "description": "PCOS is a significant women’s health problem.",
+      "url": "https://www.news-medical.net/health/Empowering-PCOS-Patients-Strategies-for-Living-Well-with-the-Condition.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23938_1705415358803271.jpg",
+      "publishedAt": "2024-01-16T14:17:00Z",
+      "content": "Getting to know PCOSTaking charge of your healthHealthy living with PCOSNourishing your bodyMoving for healthNurturing your mindEmpowering PCOS patientsReferencesFurther reading\r\n​​​​​​​Many women ar… [+7551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "Unnati Gusain",
+      "title": "Tell me why: Low sugar high protein vegetarian diet provides several health benefits - News9 LIVE",
+      "description": "Editor’s note: Cutting across jargons about what to follow and what to avoid in order to keep fit and healthy, News9live brings to you a text and video series on 'Tell Me Why'. In this fourth article, we have doctors speaking to us on - \"the health benefits o…",
+      "url": "https://www.news9live.com/health/health-conditions/tell-me-why-low-sugar-high-protein-vegetarian-diet-provides-several-health-benefits-2407768",
+      "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/01/tell-me-why.jpg",
+      "publishedAt": "2024-01-16T14:04:48Z",
+      "content": "New Delhi: Low sugar means low in white sugar and refined carbs like maida and all junk, fast and bakery foods. And high protein includes low fat dairy products, pulses and beans. Several research in… [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Takeout"
+      },
+      "author": "Laura Wheatman Hill",
+      "title": "What Are Nightshades, Anyway? - The Takeout",
+      "description": "With few exceptions, they’re not poison. Here's a quick nightshades explainer.",
+      "url": "https://thetakeout.com/what-are-nightshades-edible-vs-poison-potatoes-tomatoes-1851163524",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/40d8778d59d876f1410989b3c752ea2c.jpg",
+      "publishedAt": "2024-01-16T14:00:00Z",
+      "content": "Double, double toil and trouble. So-called nightshades sound like they belong in a witchs brew or medieval poison, or like something that can be used to trick the Capitol into letting both you and yo… [+6036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pharmaceutical Technology"
+      },
+      "author": "Jenna Philpott",
+      "title": "UK MHRA announces new data flagging potential valproate risks - Pharmaceutical Technology",
+      "description": "The MHRA said that males planning a family in the next year should consult their healthcare professional before valproate use.",
+      "url": "http://www.pharmaceutical-technology.com/news/uk-mhra-announces-new-data-flagging-potential-valproate-risks/",
+      "urlToImage": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2024/01/shutterstock_2168137427-e1705411059427.jpg",
+      "publishedAt": "2024-01-16T13:59:45Z",
+      "content": "A recent study, commissioned by the European Medicines Agency, has raised flags regarding potential heightened risks of neurodevelopmental disorders in children fathered by men on valproate around co… [+2688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "Dr. Keith Roach",
+      "title": "Dear Doctor: Does drinking coffee make symptoms of overactive bladder worse? - OregonLive",
+      "description": "There is pretty strong evidence that the caffeine intake of 2 or more cups of coffee can aggravate symptoms",
+      "url": "https://www.oregonlive.com/advice/2024/01/dear-doctor-does-drinking-coffee-make-symptoms-of-overactive-bladder-worse.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/2FPEEZ_Lax0gzZFGrBv-kURVf60=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg",
+      "publishedAt": "2024-01-16T13:57:00Z",
+      "content": "DEAR DR. ROACH: I have an enlarged prostate and an overactive bladder. My doctor says not to drink coffee. Can you tell me why not? -- Anon.\r\nANSWER: From the standpoint of your prostate, there is pr… [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kffhealthnews.org"
+      },
+      "author": null,
+      "title": "Study Finds Link Between Chronic Ear Infections And Delayed Speech - Kaiser Health News",
+      "description": "A study out of the University of Florida finds that kids who had several ear infections before age 3 had a smaller vocabulary and had difficulty matching similar-sounding words. Other health and wellness news is on organ donation, eye disease in older age, sn…",
+      "url": "https://kffhealthnews.org/morning-breakout/study-finds-link-between-chronic-ear-infections-and-delayed-speech/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-16T13:52:53Z",
+      "content": "A study out of the University of Florida finds that kids who had several ear infections before age 3 had a smaller vocabulary and had difficulty matching similar-sounding words. Other health and well… [+4243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Christopher Damman",
+      "title": "Your body already has a built-in weight loss system that works like Wegovy, Ozempic and Mounjaro – food and your gut microbiome - The Conversation",
+      "description": "Weight loss and diabetes drugs target regulatory pathways involved in metabolism that the microbes in your gut and certain molecules from food already play a key role in regulating.",
+      "url": "https://theconversation.com/your-body-already-has-a-built-in-weight-loss-system-that-works-like-wegovy-ozempic-and-mounjaro-food-and-your-gut-microbiome-220272",
+      "urlToImage": "https://images.theconversation.com/files/568472/original/file-20240109-26-7fx8si.jpg?ixlib=rb-1.1.0&rect=21%2C220%2C2039%2C1018&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-01-16T13:40:52Z",
+      "content": "Wegovy, Ozempic and Mounjaro are weight loss and diabetes drugs that have made quite a splash in health news. They target regulatory pathways involved in both obesity and diabetes and are widely cons… [+5587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "News18",
+      "title": "5 Ayurvedic Home Remedies to Keep Cold and Cough Away - News18",
+      "description": "Ayurvedic medicine is extensively used as an alternative form of treatment for common cold and cough. Here are 5 effective treatments.",
+      "url": "https://www.news18.com/web-stories/lifestyle/5-ayurvedic-home-remedies-to-keep-cold-and-cough-away-1548099/",
+      "urlToImage": "https://images.news18.com/webstories/2024/01/cropped-Screenshot-2024-01-16-at-6.35.17-PM.png",
+      "publishedAt": "2024-01-16T13:36:58Z",
+      "content": "Producer: Priyanka DasEditor: Nisha Dubey"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Timesofindia.com"
+      },
+      "author": "Kritika Pushkarna",
+      "title": "10 vegetarian foods that can easily replace meat - Recipes",
+      "description": "Whether you're a seasoned vegetarian or simply looking to incorporate more plant-based options into your diet, there's a world of delicious and nutritious foods that can seamlessly replace meat in your meals. Here is a list of some of those foods.",
+      "url": "https://recipes.timesofindia.com/web-stories/10-vegetarian-foods-that-can-easily-replace-meat/photostory/106901181.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106901194,imgsize-90978,width-900,height-1200,resizemode-6/106901194.jpg",
+      "publishedAt": "2024-01-16T13:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daijiworld.com"
+      },
+      "author": null,
+      "title": "Enhanced immune escape did not spur JN.1 variant global spread: Study - Daijiworld.com",
+      "description": "London, Jan 16 (IANS): The fresh wave of Covid-19 cases worldwide majorly driven by the highly transmissible JN.1 variant may not be attributed to its immune escape ability, claims a study by a team of international researchers.\r\nThe JN.1 variant, classified …",
+      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1158944",
+      "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+      "publishedAt": "2024-01-16T13:21:50Z",
+      "content": "London, Jan 16 (IANS): The fresh wave of Covid-19 cases worldwide majorly driven by the highly transmissible JN.1 variant may not be attributed to its immune escape ability, claims a study by a team … [+2544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "sahas, Lifestyle Desk",
+      "title": "Headache To Fatigue, 4 Signs Of High BP During Winter - News18",
+      "description": "One of the symptoms of high blood pressure is frequent headaches.",
+      "url": "https://www.news18.com/lifestyle/headache-to-fatigue-4-signs-of-high-bp-during-winter-8742599.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/image-78-2024-01-6cd7c6accacb3da6ef7bf598c5513963-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-01-16T13:20:01Z",
+      "content": "A drop in temperature results in various health concerns including diabetes, hypertension, heart health, and joint pain. In the colder months, people indulge in more savoury delicacies and become laz… [+1900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Open Access Government"
+      },
+      "author": null,
+      "title": "How does our diet and lifestyle affect our hair growth? - Open Access Government",
+      "description": "According to hair stylists, 68% of women are unhappy about their hair. How women feel about our hair correlates strongly with our feelings",
+      "url": "https://www.openaccessgovernment.org/how-does-our-diet-and-lifestyle-affect-our-hair-growth/172394/",
+      "urlToImage": "https://www.openaccessgovernment.org/wp-content/uploads/2024/01/iStock-1341429856-scaled.jpg",
+      "publishedAt": "2024-01-16T13:18:37Z",
+      "content": "The most common complaints are that our hair is ‘too dry’, ‘it’s falling out’, or it ‘grows too slowly’. Unfortunately, there’s no miracle solution to growing our hair. But what can we do to help our… [+14581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inverse"
+      },
+      "author": null,
+      "title": "This Rare Phenomenon That Happens During Sleep Could Unlock Secrets of Dreaming - Inverse",
+      "description": "In his sci-fi film Inception (2010), Christophe Nolan imagined his protagonist slipping into other people’s dreams and even shaping their contents.",
+      "url": "https://www.inverse.com/science/rare-phenomenon-sleep-unlock-secrets-of-dreaming",
+      "urlToImage": "https://imgix.bustle.com/uploads/getty/2024/1/12/dd893079-7c84-4516-9fce-1e1982fb0c1d-getty-1726563119.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2024-01-16T13:00:25Z",
+      "content": "In his sci-fi film Inception (2010), Christophe Nolan imagined his protagonist slipping into other peoples dreams and even shaping their contents. But what if this story wasnt so far away from real l… [+8614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Health Desk",
+      "title": "Global deaths from fungal infections have doubled in a decade - India Today",
+      "description": "The study revealed that although fungal disease diagnostics have improved in the last ten to 15 years, both access to and actual usage of these tests is limited, and not just in low-income countries.",
+      "url": "https://www.indiatoday.in/health/story/global-deaths-from-fungal-infections-have-doubled-in-a-decade-2489479-2024-01-16",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/although-fungal-disease-diagnostics-have-improved-in-the-last-ten-to-15-years--both-access-to-and-ac-165258998-16x9_0.png?VersionId=qn8HMJo_LYnMu9VGxxBwJp5KzUu.ikD2",
+      "publishedAt": "2024-01-16T12:57:56Z",
+      "content": "Scientists have estimated that, in a decade, fungal infections have doubled globally. According to a recent study published by David W. Denning, Principal Investigator of Manchester Fungal Infection … [+4022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "ANI",
+      "title": "Stress has propensity to increase inflammation in body, linked to metabolic syndrome: Study - Devdiscourse",
+      "description": "Lifestyle and genetics, as well as a variety of other factors both within and outside of our control, have been linked to the development of metabolic syndrome, a group of diseases that increase the risk of major health problems",
+      "url": "https://www.devdiscourse.com/article/health/2778640-stress-has-propensity-to-increase-inflammation-in-body-linked-to-metabolic-syndrome-study",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_01_2024_12_53_05_1633191.jpeg?width=920&format=jpeg",
+      "publishedAt": "2024-01-16T12:53:08Z",
+      "content": "Lifestyle and genetics, as well as a variety of other factors both within and outside of our control, have been linked to the development of metabolic syndrome, a group of diseases that increase the … [+4021 chars]"
     },
     {
       "source": {
@@ -200,28 +395,665 @@
     {
       "source": {
         "id": null,
-        "name": "Dtnext.in"
+        "name": "NDTV News"
       },
-      "author": "ANI",
-      "title": "Study finds stress management could reduce biological risk - DTNEXT",
-      "description": "A new study discovered that stress, due to its proclivity to increase inflammation in the body, is also associated with metabolic syndrome",
-      "url": "https://www.dtnext.in/lifestyle/wellbeing/study-finds-stress-management-could-reduce-biological-risk-761411",
-      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/11/20/781132-research.jpg",
-      "publishedAt": "2024-01-16T03:01:00Z",
-      "content": "OHIO: Lifestyle and genetics, as well as a variety of other variables both within and outside of our control, have been linked to the development of metabolic syndrome, a group of diseases that raise… [+3917 chars]"
+      "author": null,
+      "title": "Diabetic Or Pre-Diabetic? Follow This Simple Tip To Consume Fruits Safely - NDTV",
+      "description": "Here we have a simple hack that diabetics and pre-diabetics should follow while consuming fruits.",
+      "url": "https://www.ndtv.com/health/diabetic-or-pre-diabetic-follow-this-simple-tip-to-consume-fruits-safely-4874004",
+      "urlToImage": "https://c.ndtvimg.com/2023-03/tdi9jn88_healthy-foods-to-eat-in-diabetes_625x300_01_March_23.jpg",
+      "publishedAt": "2024-01-16T12:43:12Z",
+      "content": "Do not cut and store fruits before consumption\r\nIf you are a diabetic or pre-diabetic, it is crucial to maintain healthy blood sugar levels. Your diet has a strong impact on your blood sugar levels. … [+1890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Khushi Pal",
+      "title": "5 simple ways to boost heart health in winter - Hindustan Times",
+      "description": "5 simple ways to boost heart health in winter",
+      "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-simple-ways-to-boost-heart-health-in-winter-101705404150122.html",
+      "urlToImage": null,
+      "publishedAt": "2024-01-16T12:23:58Z",
+      "content": "By Khushi PalPublished Jan 16, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "Simran Arora",
+      "title": "Anti-ageing foods that protect the skin for decades - News9 LIVE",
+      "description": "In winter, fill up on some strawberries as this citrus fruit has skin health-improving benefits. Here are 6 other foods for healthy, glowing skin.",
+      "url": "https://www.news9live.com/web-stories/health/anti-ageing-foods-that-protect-the-skin-for-decades",
+      "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/01/cropped-pexels-ron-lach-8142196-2.jpg",
+      "publishedAt": "2024-01-16T12:15:45Z",
+      "content": "This winter, to keep your skin radiant and glowing, eat a handful of blueberries. It will help keep your skin young for over a decade."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "At 93, he's as fit as a 40-year-old. His body offers lessons on aging. - The Washington Post",
+      "description": "The human body maintains the ability to adapt to exercise at any age, showing that it’s never too late to start a fitness program.",
+      "url": "https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSRF23MAVRJZBUOBDTPR5WPUBI.JPG&w=1440",
+      "publishedAt": "2024-01-16T12:08:23Z",
+      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nFor lessons on how to age well, we could do worse than turn to Richard Morgan.\r\nAt 93, the Irishman is a four-time world champion in i… [+6153 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "TNN",
-      "title": "IIT-I, Choithram join hands to study brain disorders - Times of India",
-      "description": "Indore: A joint research by Indian Institute of Technology, Indore, (IIT-I) and Choithram Hospital and Research Centre has revealed the likelihood of .",
-      "url": "https://timesofindia.indiatimes.com/city/indore/iit-i-choithram-join-hands-to-study-brain-disorders/articleshow/106881988.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-01-16T02:55:00Z",
-      "content": "7 Indian foods declared 'best in the world'"
+      "author": "PTI",
+      "title": "New research finds poverty, chronic inflammation together triple risk of cancer death - The Economic Times",
+      "description": "Research from the University of Florida reveals that the combined impact of poverty and chronic inflammation can more than double the risk of death from heart disease and triple the mortality risk due to cancer over a 15-year period.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/new-research-finds-poverty-chronic-inflammation-together-triple-risk-of-cancer-death/articleshow/106900637.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-106900782,width-1200,height-630,imgsize-1272705,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-01-16T12:05:12Z",
+      "content": "NEW DELHI: The combined effect of poverty and chronic inflammation could more than double the risk of death from heart disease and triple the mortality risk due to cancer over a 15-year period, new r… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Karen Weintraub",
+      "title": "Advice for telling the difference between medical fact and fiction. - USA TODAY",
+      "description": "Medical mis- and disinformation floods the internet. Experts offer some explanations for the increase and tips for fighting back.",
+      "url": "https://www.usatoday.com/story/news/health/2024/01/14/telling-the-difference-between-medical-fact-and-fiction/71480731007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/13/USAT/72218093007-getty-images-976748510.jpg?crop=6015,3384,x0,y401&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-16T12:02:53Z",
+      "content": "One day last summer Antonia Prescott was scrolling the internet when she saw an article with a headline that intrigued her.\r\n\"Harvard professor names best exercise to burn fat and keep it off: Dr. Da… [+11291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Afaqs.com"
+      },
+      "author": "afaqs! news bureau",
+      "title": "GSK's new campaign promotes '7 star protection with 7 vaccinations' for 1-2 year-old children - afaqs!",
+      "description": "The campaign aims to ensure continued protection against preventable diseases for toddlers.",
+      "url": "https://www.afaqs.com/news/advertising/gsks-new-campaign-promotes-7-star-protection-with-7-vaccinations-for-1-2-year-old-children",
+      "urlToImage": "https://gumlet-images.assettype.com/afaqs%2F2024-01%2F9e05332e-e5f7-483b-81fa-0b99a6ea2c36%2FHero_image__Cheenu___2024_01_16T171815_113.png?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2024-01-16T12:00:16Z",
+      "content": "GlaxoSmithKline Pharmaceuticals (GSK) has launched a multi-channel campaign to raise awareness about vaccinations that provide critical protection to children of 1-2 years of age. \r\nThe Indian Academ… [+1739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Your Hands Can Reveal If You Have Psychopathic Tendencies: Study - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-01-16T11:57:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Winter Pollution: 5 Tips To Boost Lung Health - NDTV",
+      "description": "Poor air quality and extreme cold weather can pose a range of challenges for respiratory health.",
+      "url": "https://www.ndtv.com/health/winter-pollution-5-tips-to-boost-lung-health-4873700",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/gnkaqo0g_air-pollution_625x300_07_November_23.jpg",
+      "publishedAt": "2024-01-16T11:52:41Z",
+      "content": "Anti-inflammatory and citrus foods are good for your lungs\r\nSeveral parts of northern India are witnessing the harsh cold weather. Along with the cold wave, high pollution levels have also been recor… [+2170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clinical Trials Arena"
+      },
+      "author": "Vishnu Priyan",
+      "title": "LSTM study finds combination therapy could reduce malaria rates - Clinical Trials Arena",
+      "description": "The LSTM in Liverpool, UK, has reported that a new combination therapy could reduce the risk of malaria in pregnant women with HIV.",
+      "url": "http://www.clinicaltrialsarena.com/news/lstm-malaria-risk-study/",
+      "urlToImage": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2024/01/LSTM-.jpg",
+      "publishedAt": "2024-01-16T11:37:30Z",
+      "content": "The Liverpool School of Tropical Medicine (LSTM) in Liverpool, UK, has reported that a new combination therapy could reduce the risk of malaria in pregnant women living with human immunodeficiency vi… [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slurrp.com"
+      },
+      "author": "krati purwar",
+      "title": "6 Reasons To Add Raw Turmeric To Your Winter Diet - Slurrp",
+      "description": "Turmeric has been used in Indian cooking and traditional medicine for centuries. It not only adds a colour to your dish but also nutrients and minerals that it comes loaded with.",
+      "url": "https://www.slurrp.com/web-stories/6-reasons-to-add-raw-turmeric-to-your-winter-diet/",
+      "urlToImage": "https://images.slurrp.com/webstories/wp-content/uploads/2024/01/cropped-turmeric-2.jpg",
+      "publishedAt": "2024-01-16T11:35:51Z",
+      "content": "Research indicates that raw turmeric can be good for your heart because it can help regulate blood clots, blood pressure, and other conditions that can otherwise be fatal."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Buffalo News"
+      },
+      "author": "Scott Scanlon News Staff Reporter",
+      "title": "Buffalo mental health counselor with ADHD helps others navigate the condition - Buffalo News",
+      "description": "“A lot of people with ADHD can do a lot of things,” said Colleen Adams, a licensed psychologist, who was also diagnosed with ADHD in high school. “They just can't do it without accommodations.”",
+      "url": "https://buffalonews.com/news/local/i-fully-bought-into-it-buffalo-mental-health-counselor-with-adhd-helps-others-navigate-the/article_0e953e8c-a4e3-11ee-8dcf-1fbcfc9918fb.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/00/700134d6-a4f3-11ee-b870-d38656e33900/64d278ea8d194.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-01-16T11:35:00Z",
+      "content": "Colleen Adams helped teach the town learn-to-swim program while growing up in Clarence with two sisters and a single mom.\r\nAfter high school, she earned a bachelors in education, masters in psycholog… [+9782 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mary Walrath-Holdridge",
+      "title": "What is 'budget Ozempic?' Experts warn against TikTok laxative diets - USA TODAY",
+      "description": "\"Budget Ozempic\" is one amongst many diet and weight loss trends propagated on TikTok that can lead to serious consequences, say experts.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2024/01/16/what-is-budget-ozempic-experts-warn-tiktok-laxative-diets/72208997007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/12/USAT/72209756007-getty-images-1310597310.jpg?crop=2120,1193,x0,y141&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-16T11:19:07Z",
+      "content": "Ozempic, the blockbuster diabetes drug that took the weight loss world by storm in recent years, has become something of a hot commodity.\r\nSemaglutide, the clinical name for the drug in brands like O… [+4343 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Melissa Rudy",
+      "title": "Florida brain tumor patient plays guitar during his surgery: ‘This is wild’ - Fox News",
+      "description": "A Florida man played the guitar while doctors at the University of Miami Miller School of Medicine removed his brain tumor. The patient and surgeon share the remarkable story.",
+      "url": "https://www.foxnews.com/health/florida-brain-tumor-patient-plays-guitar-during-surgery-this-wild",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/patient-playing-guitar-surgery.png",
+      "publishedAt": "2024-01-16T11:14:00Z",
+      "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+9363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": null,
+      "title": "WHO Says Covid Vaccines Saved At Least 1.4 Mn Lives In Europe - Barron's",
+      "description": "At least 1.4 million lives have been saved in Europe thanks to Covid vaccines, the World Health Organization said on Tuesday, recalling that the virus was \"here to stay\".",
+      "url": "https://www.barrons.com/articles/who-says-covid-vaccines-saved-at-least-1-4-mn-lives-in-europe-a7ebb090",
+      "urlToImage": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+      "publishedAt": "2024-01-16T11:06:38Z",
+      "content": "At least 1.4 million lives have been saved in Europe thanks to Covid vaccines, the World Health Organization said on Tuesday, recalling that the virus was \"here to stay\".The WHO European region -- wh… [+1360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dtnext.in"
+      },
+      "author": "DTNEXT Bureau",
+      "title": "Need increased awareness on cervical cancer, HPV vaccine: Oncologists - DTNEXT",
+      "description": "While the HPV vaccine has ordered a hope against cervical cancer, there is a need to encourage more conversations and awareness on the same,",
+      "url": "https://www.dtnext.in/news/city/need-increased-awareness-on-cervical-cancer-hpv-vaccine-oncologists-761543",
+      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2023/09/02/761606-cancer.jpg",
+      "publishedAt": "2024-01-16T10:57:37Z",
+      "content": "CHENNAI: Cervical cancer is the second most common cancer to affect women in Tamil Nadu, especially in the rural areas.\r\nWhile the Human Papillomavirus (HPV) vaccine has ordered a hope against cervic… [+3048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WKMG News 6 & ClickOrlando"
+      },
+      "author": "Anthony Talcott",
+      "title": "These are the unhealthiest states in the US. Where's Florida rank? - WKMG News 6 & ClickOrlando",
+      "description": "Researchers examined the substance abuse rates, lifestyle habits and disease risk factors for each of the 50 states.",
+      "url": "https://www.clickorlando.com/health/2024/01/17/these-are-the-unhealthiest-states-in-the-us-how-bad-is-florida/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6UFFPGOKQRHK3PLZDXQPR65CLI.jpg?_a=ATAPphC0",
+      "publishedAt": "2024-01-16T10:52:41Z",
+      "content": "Last week, Forbes Advisor released its ranking of states based on which had the least healthy populations.\r\nTo do so, researchers examined the substance abuse rates, lifestyle habits and disease risk… [+6047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "IANS",
+      "title": "Intermittent fasting may help slow brain ageing, boost longevity: Study - Investing.com India",
+      "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+      "url": "https://in.investing.com/news/intermittent-fasting-may-help-slow-brain-ageing-boost-longevity-study-3974548",
+      "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/9dad1ee353d5b697a33108fed4dcda28_w_800_h_450.jpg",
+      "publishedAt": "2024-01-16T10:51:15Z",
+      "content": "New York, Jan 16 (IANS) If you want to help slow down your brain from ageing and increase your lifespan than follow diet patterns like intermittent fasting or restrict your calorie intake, suggests a… [+2601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Odishabytes.com"
+      },
+      "author": "OB Bureau",
+      "title": "What Is Disease X To Be Discussed By WHO-Led Panel At WEF In Davos - odishabytes - OdishaBytes",
+      "description": "New Delhi: World leaders convening in Switzerland’s Davos for the World Economic Forum (WEF) this week will discuss concerns regarding the potential for a future pandemic, Disease X, that could kill 20 times more than the COVID-19 pandemic. Notably, Disease X…",
+      "url": "https://odishabytes.com/what-is-disease-x-to-be-discussed-by-who-led-panel-at-wef-in-davos/",
+      "urlToImage": "https://odishabytes.com/wp-content/uploads/2021/05/WHO.jpg",
+      "publishedAt": "2024-01-16T10:39:06Z",
+      "content": "New Delhi: World leaders convening in Switzerlands Davos for the World Economic Forum (WEF) this week will discuss concerns regarding the potential for a future pandemic, Disease X, that could kill 2… [+1629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Diana George",
+      "title": "How Does The Human Immune System Work? Explained - Times Now",
+      "description": "The human immune system is a complex and powerful defense mechanism that safeguards the body against harmful invaders. The immune system recognizes invaders through physical barriers like the skin and mucous membranes. Cells in the system also use proteins ca…",
+      "url": "https://www.timesnownews.com/technology-science/explainers/how-does-the-human-immune-system-work-explained-article-106896289",
+      "urlToImage": "https://static.tnn.in/thumb/msid-106896367,thumbsize-900741,width-1280,height-720,resizemode-75/106896367.jpg",
+      "publishedAt": "2024-01-16T10:30:57Z",
+      "content": "The human immune system is a complex and powerful defense mechanism that safeguards the body against harmful invaders. (Image: Unsplash)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Sam Hopes",
+      "title": "I've walked 15000 steps a day for the past 30 days — here's what I've learned - Tom's Guide",
+      "description": "Do you really need to walk 15,000 steps?",
+      "url": "https://www.tomsguide.com/features/ive-walked-15000-steps-a-day-for-the-past-30-days-heres-what-ive-learned-and-if-it-matters",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zTXQt2WxoAXL9U7F47aggH-1200-80.jpg",
+      "publishedAt": "2024-01-16T10:30:18Z",
+      "content": "You’ve probably heard that walking 10,000 steps a day is brilliant for your physical and mental health, and increasing your daily step count could help you lose weight, strengthen your lower body and… [+6770 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Vitamin D deficiency? Look for these 5 signs on your skin - IndiaTimes",
+      "description": "Recognizing the signs of vitamin D deficiency is crucial for maintaining overall health and well-being. For decades traditional supplements have been the go-to solution to balance vitamin D levels.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-d-deficiency-look-for-these-5-signs-on-your-skin/photostory/106897203.cms",
+      "urlToImage": "https://static.toiimg.com/photo/106897221.cms",
+      "publishedAt": "2024-01-16T10:30:00Z",
+      "content": "Since it may be produced by human skin when exposed to sunlight, vitamin D is commonly referred to as the \"sunshine vitamin\". Spend time outside with your arms, legs, and face exposed, especially in … [+553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "IANS",
+      "title": "Over 5000 dengue cases reported in Sri Lanka this month - Investing.com India",
+      "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+      "url": "https://in.investing.com/news/over-5000-dengue-cases-reported-in-sri-lanka-this-month-3974504",
+      "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/1b65c4d7e3a38ddf9dab2af6990ddeb2_w_800_h_450.jpg",
+      "publishedAt": "2024-01-16T10:21:55Z",
+      "content": "Colombo, Jan 16 (IANS) Over 5,000 dengue cases have been reported in Sri Lanka so far in January, according to the latest update released by the National Dengue Control Unit (NDCU) on Tuesday.The NDC… [+486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Neha Mathur",
+      "title": "100% orange juice proves better for blood glucose than sugary alternatives - News-Medical.Net",
+      "description": "The effect(s) of consuming 100% orange juice compared to an orange-flavored sucrose-sweetened beverage (SSB).",
+      "url": "https://www.news-medical.net/news/20240116/10025-orange-juice-proves-better-for-blood-glucose-than-sugary-alternatives.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_769146_17054003872873214.jpg",
+      "publishedAt": "2024-01-16T10:21:00Z",
+      "content": "In a recent study published in the Journal Nutrients, researchers determined the effect(s) of consuming 100% orange juice compared to an orange-flavored sucrose-sweetened beverage (SSB) on emotions, … [+6621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthshots.com"
+      },
+      "author": "Kavita Singh",
+      "title": "Cold weather can increase muscle and joint pain: Exercises to reduce the risk - Health shots",
+      "description": "Winter can worsen joint stiffness and pain. If you've been struggling with the same, here are some exercises to reduce pain in winter.",
+      "url": "https://www.healthshots.com/preventive-care/family-care/exercises-to-reduce-pain-in-winter/",
+      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/01/16120454/pain-in-winter.jpg",
+      "publishedAt": "2024-01-16T10:15:42Z",
+      "content": "Whenever seasons change and become colder, most of us feel muscle pain and joint stiffness getting worse. Especially elders in the family or arthritis patients who have a complaint of increased pain … [+7686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Namita S Kalla",
+      "title": "Blueberries, eggs, dark chocolate and more: Nourish your mind with these brain-boosting foods - Moneycontrol",
+      "description": "How to boost brain health: Apart from adopting a positive lifestyle that includes regular exercises, meditation, and quality sleep, a well-rounded daily diet is crucial to keeping your brain healthy and slow down age-related decline.",
+      "url": "https://www.moneycontrol.com/news/health-and-fitness/what-to-eat-boost-your-brain-health-with-the-health-benefits-of-eggs-nuts-health-benefits-broccoli-nutrition-dark-chocolate-benefits-12061111.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Health-benefits-of-dark-chocolates-770x433.jpg",
+      "publishedAt": "2024-01-16T10:13:10Z",
+      "content": "Think you're forgetting things more these days, can't focus on the task at hand, or can't shake off that mental fatigue which is pulling you down? You'll do well not to dismiss these as normal signs … [+4231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN Lifestyle Desk",
+      "title": "Delhi Cold Getting Bitter? 7 Herbs And Spices To Warm You Up - Times Now",
+      "description": "As temperatures drop, explore spices like cinnamon, black pepper, turmeric, ginger, nutmeg, ashwagandha, and garlic for warmth and health benefits in the chilly weather.",
+      "url": "https://www.timesnownews.com/lifestyle/food/recipes/delhi-cold-getting-bitter-7-herbs-and-spices-to-warm-you-up-article-106884523",
+      "urlToImage": "https://static.tnn.in/thumb/msid-106896198,thumbsize-692222,width-1280,height-720,resizemode-75/106896198.jpg",
+      "publishedAt": "2024-01-16T09:58:26Z",
+      "content": "Pathaan, Tiger 3, Fighter: Is It Time For Bollywood To Look Beyond India-Pakistan Rivalry Stories?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ahmedabadmirror.com"
+      },
+      "author": null,
+      "title": "Overuse of antifungal skin meds driving disease resistant to drugs: Study - Ahmedabad Mirror",
+      "description": "Overuse of antifungal skin meds driving disease  resistant to drugs: Study",
+      "url": "https://www.ahmedabadmirror.com/overuse-of-antifungal-skin-meds-driving-disease-resistant-to-drugs-study/81870080.html",
+      "urlToImage": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1705343909318.jpg-org",
+      "publishedAt": "2024-01-16T09:45:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Helen Branswell",
+      "title": "Flu vaccine reformulation won't be easy, manufacturers warn - STAT - STAT",
+      "description": "Can flu shots be reformulated in time for the 2024-25 flu season? Manufacturers don’t think so.",
+      "url": "https://www.statnews.com/2024/01/16/flu-vaccine-reformulate-who-drug-regulators/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/01/AdobeStock_368726765-1024x576.jpeg",
+      "publishedAt": "2024-01-16T09:36:02Z",
+      "content": "Last fall, the World Health Organization and some national drug regulators urged influenza vaccine manufacturers to drop the component known as B/Yamagata from flu vaccines as quickly as possible, ci… [+10249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "author": "PTI",
+      "title": "Covid-19 Vaccine Reduces Long Covid Risk In Children: Study - NDTV Profit",
+      "description": "The finding, published in the journal Pediatrics, also shows that vaccination has a stronger effect in adolescents, who have a higher risk of developing long Covid than young children.",
+      "url": "https://www.ndtvprofit.com/coronavirus-outbreak/covid-19-vaccine-reduces-long-covid-risk-in-children-study",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2022-02%2F0d060108-d0ee-4a20-b053-ea7915364b3b%2F1601090c3f03a86531e4927ce78eb62a.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2024-01-16T09:19:07Z",
+      "content": "Some symptoms include brain fog, dyspnea, gastrointestinal dysfunction, generalised pain and fatigue, while others are more acute, like inflammatory reaction or heart problems, they said."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "Dr. Prajakta Banik",
+      "title": "Nanorobots achieve 90% reduction in bladder tumors - Tech Explorist",
+      "description": "Nanobots fueled by urease for bladder cancer therapy with radionuclides.",
+      "url": "https://www.techexplorist.com/nanorobots-achieve-90-reduction-bladder-tumors/79778/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2024/01/tumor.jpg",
+      "publishedAt": "2024-01-16T09:10:02Z",
+      "content": "Researchers from different research institutes, including IBEC and CIC biomaGUNE, worked together to make small robots that move independently and use them to shrink bladder tumors in mice by 90%. Th… [+3663 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Chethan Kumar",
+      "title": "Ovarian cancer can spread more easily in aged cells: IISc - IndiaTimes",
+      "description": "Science News: IISc researchers have uncovered a potential reason why older ovarian cancer patients often face worse outcomes than younger patients. They have found",
+      "url": "https://timesofindia.indiatimes.com/home/science/ovarian-cancer-can-spread-more-easily-in-aged-cells-iisc/articleshow/106894401.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106894501,width-1070,height-580,imgsize-554478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-16T09:09:00Z",
+      "content": "IISc researchers have uncovered a potential reason why older ovarian cancer patients often face worse outcomes than younger patients. They have found that ovarian cancer cells can spread more easily … [+403 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "What Weight Tells Us about Our Health - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Audio - CNN",
+      "description": "At the start of 2024, many of us are thinking about how to look and feel our best. For some of us, that means making changes to our weight. But what does weight really tell us about our health? And are there other metrics we should be looking at? In this epis…",
+      "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/dd48c748-8efa-11ee-ae9c-0326bd5d4a10",
+      "urlToImage": "https://www.cnn.com/audio/static/images/podcasts/chasing-life/wide.880809e3.jpg",
+      "publishedAt": "2024-01-16T09:04:43Z",
+      "content": "What Weight Tells Us about Our Health \r\nChasing Life28 mins\r\nAt the start of 2024, many of us are thinking abouthow to look and feel our best. For some of us, that means making changes to our weight.… [+389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Health Desk",
+      "title": "What are whole grains and why they are good for you - India Today",
+      "description": "Consuming whole grains can significantly lower the risk of heart disease, which is a leading cause of death globally.",
+      "url": "https://www.indiatoday.in/health/story/what-are-whole-grains-and-why-they-are-good-for-you-2489339-2024-01-16",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/top-view-of-leguminous-seeds-on-rustic-wood-table-165327104-16x9_0.jpg?VersionId=YuKeyFrRS_9ybpRzDlGTja1gDtSyut0k",
+      "publishedAt": "2024-01-16T08:56:54Z",
+      "content": "Whole grains are an integral part of a nutritious diet, offering a multitude of health benefits. Experts often highlight the importance of whole grains and their positive impact on the body.\r\nThe Med… [+2040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "Riya Teotia",
+      "title": "6 Home Remedies for Sore Throat - WION",
+      "description": "6 Home Remedies for Sore Throat",
+      "url": "https://www.wionews.com/web-stories/life-fun/health-and-wellness/6-home-remedies-for-sore-throat-1705393348549",
+      "urlToImage": null,
+      "publishedAt": "2024-01-16T08:33:14Z",
+      "content": "Chamomile tea has long been used for therapeutic purposes, including healing sore throats. It may also stimulate your immune system, assisting your body in fighting the illness that caused sore throa… [+1 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "10 foods that fuel 'Dopamine' the happy hormone naturally - IndiaTimes",
+      "description": "Enhancing your mental well-being doesn't have to be a complicated journey. By savouring the flavors of these vegetarian foods, you not only nourish your body but also promote the production of happy hormones, paving the way for a happier and more balanced lif…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/fueling-your-happiness-with-food-that-boost-happy-hormones/photostory/106892356.cms",
+      "urlToImage": "https://static.toiimg.com/photo/106892425.cms",
+      "publishedAt": "2024-01-16T08:30:00Z",
+      "content": "Oats, a complex carbohydrate, offer more than just a hearty breakfast. They help regulate blood sugar levels, providing a sustained release of energy throughout the day. Additionally, oats contain ma… [+230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Quint"
+      },
+      "author": "Shivangani Singh",
+      "title": "7 Health Benefits Of Fenugreek Leaves - The Quint FIT",
+      "description": "Fenugreek leaves are easily available in the winter. Check the health benefits of  fenugreek leaves for hair, skin, face, and digestion.",
+      "url": "https://www.thequint.com/fit/7-health-benefits-of-fenugreek-leaves",
+      "urlToImage": "https://images.thequint.com/thequint%2F2024-01%2F2f40684c-9a51-4e82-afd7-2c42efa88f3d%2Fbunch_of_fresh_green_fenugreek_vegetable_healthy_and_nutritious_for_sale_at_a_market_in_india_jpg_s_.jpg",
+      "publishedAt": "2024-01-16T08:13:57Z",
+      "content": "1. Boosts digestive health\r\nFenugreek leaves are the cure if you get digestive problems with the change in season. They help in dealing with pesky issues like indigestion and bloating. The fiber cont… [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Zarafshan Shiraz",
+      "title": "Yoga and respiratory resilience: Exercises to beat winter cold and flu naturally - Hindustan Times",
+      "description": "These simple yet effective Yoga asanas can help in bolstering your respiratory system and naturally beat winter cold and viral flu | Health",
+      "url": "https://www.hindustantimes.com/lifestyle/health/yoga-and-respiratory-resilience-exercises-to-beat-winter-cold-and-viral-flu-naturally-101705389951428.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/16/1600x900/Sudden-changes-in-weather-have-resulted-in-an-incr_1677674938447_1705390613456.jpg",
+      "publishedAt": "2024-01-16T07:48:57Z",
+      "content": "In the chilly season of winter, maintaining respiratory health becomes paramount but experts insist that Yoga, with its gentle yet powerful approach, can be a natural ally in boosting respiratory res… [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "author": null,
+      "title": "New China-developed ALS drug giving hope to sufferers - South China Morning Post",
+      "description": "An experimental gene therapy to treat the rare neurological disease has shown unexpected results, slowing progression to a plateau and possibly improving patient’s nerves.",
+      "url": "https://www.scmp.com/news/china/science/article/3248226/chinas-experimental-als-drug-achieves-unexpected-results-patient",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/12/8ba0aaa3-bc43-4928-a160-31998b31eabf_72fd5580.jpg?itok=NSxi8dFm&v=1705049318",
+      "publishedAt": "2024-01-16T07:00:14Z",
+      "content": "Despite immense gains in knowledge about the disease in recent years, scientists still do not know what causes it and have struggled to find a treatment that will stop its progression once and for al… [+6547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Ashima+Sharda+Mahindra, Times Now Digital",
+      "title": "8 Foods That Cause More Damage To Liver Than Alcohol - Times Now",
+      "description": "​8 Foods That Cause More Damage To Liver Than Alcohol",
+      "url": "https://www.timesnownews.com/web-stories/health/8-foods-that-cause-more-damage-to-your-than-alcohol/photostory/106888506.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106889660,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2024-01-16T07:00:00Z",
+      "content": "If you eat too many carbohydrates and proteins, they can be converted to triglycerides, which are stored in the fat cells, and can be deposited in the liver"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India TV News"
+      },
+      "author": "Written by Rahul Pratyush",
+      "title": "Managing Diabetes to Weight: Benefits of incorporating one steamed amla into your diet - India TV News",
+      "description": "Uncover the health advantages of incorporating steamed amla into your diet. Explore its rich vitamin C content, antioxidant properties, and potential benefits for digestion, heart health, and weight management.",
+      "url": "https://www.indiatvnews.com/health/managing-diabetes-to-weight-benefits-of-incorporating-one-steamed-amla-into-your-diet-2024-01-16-912069",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/01/amla-2-1705387828.jpg",
+      "publishedAt": "2024-01-16T06:59:55Z",
+      "content": "Amla, also known as Indian gooseberry, might look unassuming, but packed within its tart skin lies a potent arsenal of health benefits. While traditionally relished raw or pickled, incorporating one … [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slurrp.com"
+      },
+      "author": "devi poojari",
+      "title": "Swap Your Morning Cuppa With Ghee Coffee For These 7 Health Benefits - Slurrp",
+      "description": "Also known as bullet coffee, this ongoing health practice involves combining ghee or coconut oil with black coffee as a way of consuming a beverage that provides sustained source of energy.",
+      "url": "https://www.slurrp.com/web-stories/swap-your-morning-cuppa-with-ghee-coffee-for-these-7-health-benefits/",
+      "urlToImage": "https://images.slurrp.com/webstories/wp-content/uploads/2024/01/cropped-pexels-cottonbro-studio-4046157-scaled-1.jpg",
+      "publishedAt": "2024-01-16T06:31:46Z",
+      "content": "Also known as bullet coffee, this ongoing health practice involves combining ghee or coconut oil with black coffee as a way of consuming a beverage that provides sustained source of energy through th… [+91 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "Utsa Ganguly",
+      "title": "The Essence Of Dietetics, Exercise And Lifestyle Modification To Manage Metabolism And Related Disorders - ABP Live",
+      "description": "An active lifestyle helps to keep weight in check, maintains blood glucose levels, lowers the risk of other complications, and keeps associated co-morbidities like hypertension at bay.",
+      "url": "https://news.abplive.com/lifestyle/diet-exercise-lifestyle-modification-to-manage-metabolism-related-disorders-1655806",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/16/b84dd590143ae2820d14ebdad2daf3591705348088535557_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2024-01-16T06:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prameyanews.com"
+      },
+      "author": null,
+      "title": "What happens when add 4 tablespoons of pomegranate daily in diet? - Odisha News In English",
+      "description": "Discover the health benefits of adding 4 tablespoons of pomegranate to your daily diet. Nutrition insights for a healthier lifestyle.",
+      "url": "https://www.prameyanews.com/what-happens-when-add-4-tablespoons-of-pomegranate-daily-in-diet",
+      "urlToImage": "https://moapi.prameyanews.com/prameya/document/post/1/1_107_1705386083954.webp",
+      "publishedAt": "2024-01-16T06:23:09Z",
+      "content": "While pomegranates are a nutritious fruit with several health benefits, it's important to note that relying solely on a specific food, such as four tablespoons of pomegranate seeds, may not guarantee… [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Sportsrush"
+      },
+      "author": "Radha Iyer",
+      "title": "Dr. Andrew Huberman Teams Up With Anesthesiologist to Uncover 3 Simple Pain Management Tools - The Sportsrush",
+      "description": "Pain is a part of everyday life. But neuroscientist Dr. Andrew Huberman and anesthesiologist Dr. Sean Mackey have some tools to help.",
+      "url": "https://thesportsrush.com/health-and-fitness-news-dr-andrew-huberman-teams-up-with-anesthesiologist-to-uncover-3-simple-pain-management-tools/",
+      "urlToImage": "https://cdn-wp.thesportsrush.com/2023/12/b43e09de-andrewhuberman.jpg",
+      "publishedAt": "2024-01-16T06:20:04Z",
+      "content": "Pain is part and parcel of the fitness world, with every step holding the potential towards hurt. However, some tools could help in effective pain management, ranging from those that provide temporar… [+2631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "PTI",
+      "title": "Why you may feel depressed and anxious when you're ill – and how to cope with it - Deccan Herald",
+      "description": "Stockholm, Jan 16 (The Conversation) Winter illnesses are all around us at the moment – from the common cold, COVID-19 and flu to strep throat and stomach bugs.",
+      "url": "https://www.deccanherald.com/science/why-you-may-feel-depressed-and-anxious-when-youre-ill-and-how-to-cope-with-it-2850500",
+      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-01%2F83d8dc0d-34b2-4b1f-b583-002ef0b3ef34%2FiStock_1296893663.jpg?rect=0%2C0%2C2144%2C1126&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2024-01-16T06:10:13Z",
+      "content": "Because there were no real bacteria in the blood, and because the liver and immune cells rapidly clear bacterial components from the blood, the production of cytokines lasted only a few hours, typica… [+173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Jessica Downey",
+      "title": "Sculpt your abs and strengthen your core with 6 moves in 6 minutes — here's how - Tom's Guide",
+      "description": "Build stronger abs with six minutes of bodyweight exercise",
+      "url": "https://www.tomsguide.com/features/sculpt-your-abs-and-strengthen-your-core-with-6-moves-in-6-minutes-heres-how",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HuhHVEKJj2JxfPfrtppd4J-1200-80.jpg",
+      "publishedAt": "2024-01-16T06:00:21Z",
+      "content": "Finding a good ab routine can be a game changer for building muscle in your mid section. However, sometimes ab routines can get a little more complex than they need to be, getting you twisting into o… [+5432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Health officials 'believe' legionnaires' disease found in a New Hampshire resort's hot tub 'may h... - WMUR-TV",
+      "description": "A woman from Massachusetts died from Legionnaires', and a person from Rhode Island was hospitalized, according to state health officials.Subscribe to WMUR on...",
+      "url": "https://www.youtube.com/watch?v=wy7myoofnC8",
+      "urlToImage": "https://i.ytimg.com/vi/wy7myoofnC8/maxresdefault.jpg",
+      "publishedAt": "2024-01-16T04:33:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "WION Web Team",
+      "title": "China experimenting with deadly Covid-like virus that could affect humans: Report - WION",
+      "description": "China experimenting with deadly Covid-like virus that could affect humans: Report",
+      "url": "https://www.wionews.com/world/china-experimenting-with-deadly-covid-like-virus-that-is-fatal-to-mice-report-680390",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/01/16/406061-untitled-design-2.png",
+      "publishedAt": "2024-01-16T03:36:36Z",
+      "content": "If a report doing the rounds on a database of pre-peer reviewed journal articles is to be believed, China has been experimenting with a new deadly Covid-like virus which is 100 per cent fatal to mice… [+2358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China warns of Covid rebound this month driven by JN.1 subvariant | World DNA - WION",
+      "description": "Health authorities in China warned of a potential resurgence of Covid this month driven by the JN.1 subvariant. According to a report by CGTN, the National H...",
+      "url": "https://www.youtube.com/watch?v=V2mQ-SyLoic",
+      "urlToImage": "https://i.ytimg.com/vi/V2mQ-SyLoic/maxresdefault.jpg",
+      "publishedAt": "2024-01-16T03:11:01Z",
+      "content": null
     },
     {
       "source": {
@@ -238,16 +1070,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KOAT New Mexico"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Julian Paras",
-      "title": "Flu cases in New Mexico higher than most states - KOAT New Mexico",
-      "description": "New Mexico is one of four states in the country where flu activity is the highest right now.",
-      "url": "https://www.koat.com/article/flu-cases-in-new-mexico-higher-than-most-states/46372819",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/koat/30616410-30616410.jpg?crop=1.00xw:0.836xh;0,0&resize=1200:*",
-      "publishedAt": "2024-01-16T01:52:00Z",
-      "content": "\"We are in the middle of what I would say is respiratory viral season, which includes influenza,\" UNMH Dr. Megan Brett said.\r\nBut that also includes RSV and Covid. The CDC says between September and … [+1471 chars]"
+      "author": "Angelica Stabile",
+      "title": "Ear infections in young children could lead to delayed speech for them, study finds - Fox News",
+      "description": "A University of Florida study found that early ear infections in children could have a long-term impact on speech development. The lead researcher and a pediatric otolaryngologist break down the findings.",
+      "url": "https://www.foxnews.com/health/ear-infections-young-children-could-lead-delayed-speech-study-finds",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/iStock-1440925771.jpg",
+      "publishedAt": "2024-01-16T02:11:00Z",
+      "content": "Chronic ear infections could delay a childs language development, new research suggests.\r\nUniversity of Florida researchers launched a study about how the common childhood infection could impact spee… [+5610 chars]"
     },
     {
       "source": {
@@ -261,32 +1093,6 @@
       "urlToImage": "https://static.toiimg.com/photo/106864152.cms",
       "publishedAt": "2024-01-16T01:30:00Z",
       "content": "Bad breath, or halitosis, is primarily caused by bacteria in the mouth breaking down food particles, leading to the release of foul-smelling gases. Poor oral hygiene, including infrequent brushing an… [+326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Fayetteville's Black veterans opening up about prostate cancer after Austin diagnosis - ABC11",
-      "description": "Prostate cancer is a major issue for the community, as it disproportionately impacts veterans and Black men.https://abc11.com/Watch: https://abc11.com/watch/...",
-      "url": "https://www.youtube.com/watch?v=CA9QcOEX-oM",
-      "urlToImage": "https://i.ytimg.com/vi/CA9QcOEX-oM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgTihyMA8=&rs=AOn4CLDHS_FFaEGN_rBN9AzyR1ONkzfGoQ",
-      "publishedAt": "2024-01-16T01:09:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Indiaherald.com"
-      },
-      "author": "kungumapriya",
-      "title": "Never ever eat White Sugar for healthy lifestyle - ఇండియా హెరాల్డ్ గ్రూప్ అఫ్ పబ్లిషర్స్ ప్రై లిమిటెడ్ - India Herald Group of Publishers P LIMITED ",
-      "description": "politics : Usually there are many causes of depression, one of the most important is our diet. Not many people know this. But that s the truth. Not on",
-      "url": "https://www.indiaherald.com/Politics/Read/994668530/Never-ever-eat-White-Sugar-for-healthy-lifestyle",
-      "urlToImage": "https://www.indiaherald.com/imagestore/images/health/movies_news/use-these-instead-of-sugar-to-reduce-calorie-intakefadd26fc-9ef7-4564-9e0e-3a230f9ba41b-415x250-IndiaHerald.jpg",
-      "publishedAt": "2024-01-16T01:08:05Z",
-      "content": "Usually there are many causes of depression, one of the most important is our diet. Not many people know this. But that's the truth. Not only the body but also the mind will get sick from time to tim… [+1121 chars]"
     },
     {
       "source": {
@@ -317,67 +1123,15 @@
     {
       "source": {
         "id": null,
-        "name": "News18"
-      },
-      "author": "Swati Chaturvedi",
-      "title": "7 Common Illnesses in Children and Prevention Strategies - News18",
-      "description": "As the magic of winter intertwines with health challenges for children, early recognition of symptoms and prompt medical attention become paramount",
-      "url": "https://www.news18.com/lifestyle/7-common-illnesses-in-children-and-prevention-strategies-8741615.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/shutterstock_631371383-2024-01-20686da258b13d6f24920649e0d9d96c-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-01-16T00:36:51Z",
-      "content": "As winter wraps its chilly embrace around us, parents find themselves gearing up to protect their children from the seasonal onslaught of health issues. Dr. Shilpa Dinesh B K, Consultant Paediatricia… [+3183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "News-Medical.Net"
       },
       "author": "Dr. Priyom Bose, Ph.D.",
-      "title": "Migraine linked to increased risk of inflammatory bowel disease in new study - News-Medical.Net",
-      "description": "A nationwide cohort study reveals that individuals with migraine have a 1.3-fold higher risk of developing inflammatory bowel disease (IBD), suggesting a significant connection between migraine and IBD.",
-      "url": "https://www.news-medical.net/news/20240115/Migraine-linked-to-increased-risk-of-inflammatory-bowel-disease-in-new-study.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_769127_17053647387357508.jpg",
-      "publishedAt": "2024-01-16T00:25:00Z",
-      "content": "A recent Scientific Reports study investigated the association between migraine and the development of inflammatory bowel disease (IBD).\r\nStudy: Migraine is associated with the development of adult p… [+5614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailyexcelsior.com"
-      },
-      "author": "Daily Excelsior",
-      "title": "Oxford scientists launch first human vaccine trials for deadly Nipah virus - Daily Excelsior",
-      "description": "NEW DELHI, Jan 15: Scientists at the University of Oxford in the UK have launched first-in-human vaccine trials for the deadly Nipah virus which impacts many Asian countries, including India. The trials of the ChAdOx1 NipahB vaccine, will consist of 51 people…",
-      "url": "https://www.dailyexcelsior.com/oxford-scientists-launch-first-human-vaccine-trials-for-deadly-nipah-virus-2/",
-      "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2024/01/oxford-scientist.jpg",
-      "publishedAt": "2024-01-16T00:17:29Z",
-      "content": "NEW DELHI, Jan 15:\r\nScientists at the University of Oxford in the UK have launched first-in-human vaccine trials for the deadly Nipah virus which impacts many Asian countries, including India.The tri… [+2263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ebiotrade.com"
-      },
-      "author": null,
-      "title": "当特定的脑细胞被激活时，寿命会延长 - 生物通",
-      "description": "λ��ʥ·��˹�Ļ�ʢ�ٴ�ѧҽѧԺ(Washington University School of Medicine)��һ�����о����֣����������ϣ���һ���ؼ��Ĺ�ͨ;�������Ŵ��Ժ������֬����֯���γ�һ��������·���ƺ���ȫ������������������Ҫ���о����������ַ�����·���𽥶񻯵�����Խ��Խ��Ľ������⣬���ǵ��͵���Ȼ˥�ϡ�",
-      "url": "https://www.ebiotrade.com/newsf/2024-1/20240109064335370.htm",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T23:59:37Z",
-      "content": "··õ·\r\n·(Washington University School of Medicine)··\r\n18\r\nShin-ichiro ImaiTheodoreBertha Bryan;\r\nPpp1r17\r\n¼ºeNAMPTøô\r\nPpp1r17õ·eNAMPT\r\nKyohei TokizanePpp1r17--Kyohei Tokizane\r\n90010002.51000·60707%757… [+29 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": "Dr. Liji Thomas, MD",
-      "title": "Nanobots for bladder cancer treatment, promising high efficacy and targeted delivery - News-Medical.Net",
-      "description": "A study in Nature Nanotechnology reveals the potential of urease-powered nanobots to enhance bladder cancer treatment, showing a 90% tumor reduction in a mouse model using radioiodine-loaded nanobots for targeted therapy.",
-      "url": "https://www.news-medical.net/news/20240115/Nanobots-for-bladder-cancer-treatment-promising-high-efficacy-and-targeted-delivery.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_769124_17053625466717931.jpg",
-      "publishedAt": "2024-01-15T23:50:00Z",
-      "content": "Bladder cancer is currently treated in its earlier stages by localized intravesical chemotherapy or immunotherapy after removing the tumor. However, recurrences occur in up to 70% of patients at 5 ye… [+5130 chars]"
+      "title": "Twitter data reveals demographic insights into COVID-19 guideline compliance - News-Medical.Net",
+      "description": "A study in Scientific Reports analyzed Twitter data to identify demographic factors influencing adherence to COVID-19 public health guidelines, revealing significant variations in social mobility among different groups.",
+      "url": "https://www.news-medical.net/news/20240115/Twitter-data-reveals-demographic-insights-into-COVID-19-guideline-compliance.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_769128_17053668352457347.jpg",
+      "publishedAt": "2024-01-16T01:02:00Z",
+      "content": "A recent Scientific Reports study utilized Twitter data on social mobility to identify the population that exhibited greater and less compliance to public health guidelines formulated during the coro… [+5441 chars]"
     },
     {
       "source": {
@@ -391,32 +1145,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-151059797-760x380.jpeg",
       "publishedAt": "2024-01-15T23:49:49Z",
       "content": "11\r\nClinicians in the US may be overprescribing topical antifungal treatments for skin infections, potentially exacerbating a growing problem of drug resistance, according to a new study.\r\nLast year,… [+3250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Dialogues"
-      },
-      "author": "Medha Baranwal",
-      "title": "Transrectal Prostate Biopsy: Nitrous oxide may significantly reduce patient-rated pain - Medical Dialogues",
-      "description": "USA: Patient-adjusted nitrous oxide (N2O), commonly called laughing gas, at levels of 20% to 45%, is a safe adjunct during transrectal prostate biopsy, a small randomized study published in The...",
-      "url": "https://medicaldialogues.in/urology/news/transrectal-prostate-biopsy-nitrous-oxide-may-significantly-reduce-patient-rated-pain-123022",
-      "urlToImage": "https://medicaldialogues.in/h-upload/2024/01/13/229881-prostate-biopsy.jpg",
-      "publishedAt": "2024-01-15T23:30:05Z",
-      "content": "USA: Patient-adjusted nitrous oxide (N2O), commonly called laughing gas, at levels of 20% to 45%, is a safe adjunct during transrectal prostate biopsy, a small randomized study published in The Journ… [+4006 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Gina Martinez",
-      "title": "Virginia health officials warn travelers out of Dulles and Reagan airports of potential measles exposure - CBS News",
-      "description": "The Virginia Department of Health said a person with a confirmed case of measles recently traveled through Northern Virginia after returning from a trip overseas.",
-      "url": "https://www.cbsnews.com/news/measles-exposure-travelers-northern-virginia-dc-dulles-reagan-airports/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/21/717fc8ac-7ee3-4f42-aa56-bdb0b0ade51a/thumbnail/1200x630/17252209c023192c2878846df2b44ca6/gettyimages-1064051148.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
-      "publishedAt": "2024-01-15T23:11:02Z",
-      "content": "Health officials are asking recent travelers out of two D.C. airports to proceed with caution after they may have potentially been exposed to measles. \r\nThe Virginia Department of Health put out a ne… [+2351 chars]"
     },
     {
       "source": {
@@ -447,15 +1175,15 @@
     {
       "source": {
         "id": null,
-        "name": "WJON News"
+        "name": "[Removed]"
       },
-      "author": "jaycaldwell",
-      "title": "How to Tell the Difference Between Flu, Colds and COVID - WJON News",
-      "description": "Influenza, colds, Strep Throat, RSV and COVID are some examples of some of the viruses/illness many Central Minnesotans are dealing with this winter. Dr. David Smith from Sartell Pediatrics joined me on WJON to explain the differences between some of these ai…",
-      "url": "https://wjon.com/how-to-tell-the-difference-between-flu-colds-and-covid/",
-      "urlToImage": "https://townsquare.media/site/67/files/2021/12/attachment-Coughing.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
-      "publishedAt": "2024-01-15T22:32:26Z",
-      "content": "Influenza, colds, Strep Throat, RSV and COVID are some examples of some of the viruses/illness many Central Minnesotans are dealing with this winter.  Dr. David Smith from Sartell Pediatrics joined m… [+1960 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -482,19 +1210,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2024/01/VaccinationSticker.jpg",
       "publishedAt": "2024-01-15T22:01:17Z",
       "content": "Experts from the Food and Drug Administration (FDA) in the US are warning that the country is close to a vaccination tipping point: a point where there aren't enough vaccinated people to protect the … [+3700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dtnext.in"
-      },
-      "author": "IANS",
-      "title": "Mask policies return in US as respiratory viruses may strain hospital capacity - DTNEXT",
-      "description": "Vaccination rates for all three illnesses remain low, despite the efficacy of updated flu and Covid boosters and the entrance of new RSV vaccines for older and pregnant people, The Guardian reported.",
-      "url": "https://www.dtnext.in/news/world/mask-policies-return-in-us-as-respiratory-viruses-may-strain-hospital-capacity-761383",
-      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2024/01/15/794575-202401153105840.jpg",
-      "publishedAt": "2024-01-15T22:00:12Z",
-      "content": "WASHINTON: Cases of and hospitalizations for respiratory viruses, including Covid, the flu and RSV, continue rising across the US, and some health systems have started returning to mask and limited-v… [+1474 chars]"
     },
     {
       "source": {
@@ -564,19 +1279,6 @@
     {
       "source": {
         "id": null,
-        "name": "Biopharminternational.com"
-      },
-      "author": "Susan Haigney",
-      "title": "Precautionary Measures Recommended in Use of Valproate Medicines - BioPharm International",
-      "description": "The European Medicines Agency safety committee says there is a potential risk of neurodevelopment disorders in children born to men treated with valproate.",
-      "url": "https://www.biopharminternational.com/view/precautionary-measures-recommended-in-use-of-valproate-medicines",
-      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/biopharn/2b6495cc1c9eda73b83dc43c7e3fb48e6cf84ea8-1280x720.jpg?fit=crop&auto=format",
-      "publishedAt": "2024-01-15T20:07:42Z",
-      "content": "On Jan. 12, 2024, the European Medicines Agency (EMA) announced that its Pharmacovigilance Risk Assessment Committee (PRAC) is recommending that precautionary measures be taken in the use of valproat… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Earth.com"
       },
       "author": null,
@@ -590,717 +1292,15 @@
     {
       "source": {
         "id": null,
-        "name": "Upworthy"
+        "name": "YouTube"
       },
-      "author": "Upworthy",
-      "title": "Doctor explains how to do a simple physical test that can predict your longevity - Upworthy",
-      "description": null,
-      "url": "https://www.upworthy.com/30-second-sit-to-stand-test-rp4",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T19:33:39Z",
+      "author": null,
+      "title": "How to add strength training to your daily routine - TODAY",
+      "description": "NASM-certified personal trainer James McMillian stops by Studio 1A to share his tips to help you start your strength training journey and shares a full body ...",
+      "url": "https://www.youtube.com/watch?v=_cBvSyRlqnA",
+      "urlToImage": "https://i.ytimg.com/vi/_cBvSyRlqnA/maxresdefault.jpg",
+      "publishedAt": "2024-01-15T19:30:06Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Mary Kekatos",
-      "title": "Doctors' group offers free measles vaccines in Philadelphia to fight outbreak - ABC News",
-      "description": "At least eight cases have been confirmed in the city since December.",
-      "url": "https://abcnews.go.com/Health/doctors-group-offers-free-measles-vaccines-philadelphia-fight/story?id=106377644",
-      "urlToImage": "https://i.abcnewsfe.com/a/7d17d1a4-ba73-4b35-a77c-68288b17103b/measles-vaccine-ap-jef-240115_1705328296351_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2024-01-15T19:12:55Z",
-      "content": "A group of doctors in Philadelphia is offering free measles vaccines on the heels of an outbreak in the city.\r\nThere have been eight confirmed cases of the disease since late December, all among unva… [+3050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Kristen Rogers",
-      "title": "Erectile dysfunction medications may increase early death risk when combined with common chest pain drug, study finds - CNN",
-      "description": "People are at higher risk for early death and other outcomes when taking both PDE5i, an erectile dysfunction drug, and chest pain medication, a new study has found.",
-      "url": "https://www.cnn.com/2024/01/15/health/erectile-dysfunction-medications-angina-death-risk-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240115114717-sildenafil-file-2017.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-01-15T19:00:00Z",
-      "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nFor erectile dysfunction in … [+5116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The #1 Drink to Limit to Improve Your Memory, According to a Dietitian - EatingWell",
-      "description": "Discover how reducing a certain popular beverage can enhance your memory, according to recent research. Learn about how it impacts brain health and expert-backed suggestions for reducing your intake.",
-      "url": "https://www.eatingwell.com/best-drink-to-limit-to-improve-your-memory-8424818",
-      "urlToImage": "https://www.eatingwell.com/thmb/hIH66X4VN9W-tgK8l6_HJsYuHio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-1-Drink-to-Limit-to-Improve-Your-Memory-According-to-a-Dietitian-331319bf45574887bc929e901f13f8bd.jpg",
-      "publishedAt": "2024-01-15T19:00:00Z",
-      "content": "When it comes to our memory and cognition, what we eat matters. While certain foods and drinks can bolster brain healthwere looking at you leafy greens and salmonothers may harm it. Among all the bev… [+5664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Netmeds.com"
-      },
-      "author": "Soumita Basu",
-      "title": "Cervical Cancer Awareness Month 2024: Know About The Importance Of HPV Vaccination To Prevent Malignancy - Netmeds.com",
-      "description": "Read about cervical cancer awareness campaign 2024, causes of cervical cancer, who is at risk with importance of HPV vaccination to prevent malignancy in the link.",
-      "url": "https://www.netmeds.com/health-library/post/cervical-cancer-awareness-month-2024-about-the-importance-of-hpv-vaccination-to-prevent-malignancy",
-      "urlToImage": "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1705059416_Cervical-Cancer_480x180.jpg",
-      "publishedAt": "2024-01-15T18:30:00Z",
-      "content": "January marks Cervical Cancer Awareness Month, a time dedicated to educating and spreading awareness about cervical cancer, its prevention, and the significance of early detection. Cervical cancer re… [+4902 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "5 reasons why Maida is considered bad for health - IndiaTimes",
-      "description": "This article discusses why maida is considered bad for health, focusing on its lack of nutrients, high glycemic index, digestive issues, weight gain,",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/reasons-why-maida-is-considered-bad-for-health/articleshow/106872263.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-106872263,width-1070,height-580,imgsize-46902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-01-15T18:30:00Z",
-      "content": "How to make Chicken Kritharaki"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slurrp.com"
-      },
-      "author": "smriti dey",
-      "title": "Facts 101: Health Benefits Of Jaggery - Slurrp",
-      "description": "Jaggery has been used as a natural sweetener since a long long time. The sweetener is made from sugarcane and is very delicious to eat. Also, there are certain health benefits that you cant miss upon!",
-      "url": "https://www.slurrp.com/web-stories/facts-101-health-benefits-of-jaggery/",
-      "urlToImage": "https://images.slurrp.com/webstories/wp-content/uploads/2024/01/cropped-3674738250_b0d0975621_o-1-scaled-1.jpg",
-      "publishedAt": "2024-01-15T18:12:59Z",
-      "content": "Jaggery is packed with essential nutrients such as iron, magnesium, potassium, and vitamins and antioxidants that help in preventing damage from free radicals."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Kristen Altus",
-      "title": "Dr. Drew warns over marijuana studies revealing 'extremely worrisome' data - Fox Business",
-      "description": "Marijuana has become \"a different drug,\" Dr. Drew Pinsky warns, as cannabis use has been linked to higher chances of developing schizophrenia or bipolar disorders.",
-      "url": "https://www.foxbusiness.com/healthcare/dr-drew-warns-marijuana-studies-revealing-extremely-worrisome-data",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/DR-DREW-MARIJUANA.jpg?ve=1&tl=1",
-      "publishedAt": "2024-01-15T18:12:00Z",
-      "content": "One of TV’s favorite medical personalities is weighing in on the \"extremely worrisome\" findings coming from a recent study on marijuana use.\r\n\"When this first started coming up, I actually was somewh… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Julie Lasselin",
-      "title": "Why you may feel depressed and anxious when you're ill – and how to cope with it - The Conversation",
-      "description": "Research suggests we should embrace feeling down when ill.",
-      "url": "https://theconversation.com/why-you-may-feel-depressed-and-anxious-when-youre-ill-and-how-to-cope-with-it-219991",
-      "urlToImage": "https://images.theconversation.com/files/569256/original/file-20240115-15-sbj0xe.jpg?ixlib=rb-1.1.0&rect=0%2C535%2C7608%2C3804&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-01-15T17:52:20Z",
-      "content": "Winter illnesses are all around us at the moment from the common cold, COVID-19 and flu to strep throat and stomach bugs. All have one thing in common: they can make you feel miserable. These illness… [+5205 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WGN TV Chicago"
-      },
-      "author": "Ashleigh Jackson",
-      "title": "Indiana lands in the top 10 of unhealthiest states in America, according to study - WGN TV Chicago",
-      "description": "Several states that topped the list are located in the South.",
-      "url": "https://wgntv.com/news/these-are-the-top-10-unhealthiest-states-in-america-according-to-study/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2024/01/GettyImages-627290560-e1705261441166.jpg?w=1280",
-      "publishedAt": "2024-01-15T17:35:35Z",
-      "content": "(NEXSTAR) — A new study has identified the region with the unhealthiest population in America.\r\nForbes Advisor conducted the analysis and ranked each state based on several factors, including rates o… [+2768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OregonLive"
-      },
-      "author": "KFF Health News",
-      "title": "Do you need to worry about new COVID-19 variant? What we know - OregonLive",
-      "description": "“Am I going to be really sick? Do I have to mask up again?” It is important to know the basics.",
-      "url": "https://www.oregonlive.com/coronavirus/2024/01/do-you-need-to-worry-about-new-covid-19-variant-what-we-know.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/SmNO5xx2y8oCtxyCIq9AU7EyaM8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RY4J6D4LC5CHJAMU345MS4WRK4.JPG",
-      "publishedAt": "2024-01-15T17:25:00Z",
-      "content": "Its winter, that cozy season that brings crackling fireplaces, indoor gatherings and a wave of respiratory illness. Nearly four years since the pandemic emerged, people are growing weary of dealing w… [+9279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.geo.tv"
-      },
-      "author": "Melanie Walker",
-      "title": "Microplastics in humans: Dangers, consequences & side effects - Geo News",
-      "description": "Here are the biggest dangers people can expect when eating foods tainted with microplastics",
-      "url": "https://www.geo.tv/latest/527126-microplastics-in-humans-dangers-consequences-side-effects",
-      "urlToImage": "https://www.geo.tv/assets/uploads/updates/2024-01-15/l_527126_101906_updates.jpg",
-      "publishedAt": "2024-01-15T17:07:00Z",
-      "content": "The dangers associated with microplastic have overtaken headlines in recent months and the reason for that is newfound research that links the absorption of these manmade compounds in other living or… [+1897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Rebecca Sohn",
-      "title": "Tinnitus often causes distress. A new app could help. - Livescience.com",
-      "description": "A new app could help make behavioral therapy aimed at easing distress from tinnitus more accessible, a small study suggests.",
-      "url": "https://www.livescience.com/health/wellbeing/tinnitus-often-causes-distress-a-new-app-could-help",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SXZVENsASDzTqXHRk66SB6-1200-80.jpg",
-      "publishedAt": "2024-01-15T17:00:10Z",
-      "content": "A new app that delivers a specialized form of talk therapy to users might help people cope with tinnitus, a small study shows.\r\nTinnitus, or persistent ringing in the ears, does not have a single cau… [+4149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "WION Desk",
-      "title": "Surprising Health Benefits of Pomegranate Peels - WION",
-      "description": "Surprising Health Benefits of Pomegranate Peels",
-      "url": "https://www.wionews.com/web-stories/trending/surprising-health-benefits-of-pomegranate-peels--1705335107684",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T16:21:16Z",
-      "content": "Pomegranate peels are rich in antioxidants particularly polyphenols, which combat free radicals in the body, supporting overall health and potentially reducing the risk of chronic diseases."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AZFamily"
-      },
-      "author": "David Caltabiano",
-      "title": "Respiratory illnesses putting strain on Phoenix healthcare system - Arizona's Family",
-      "description": "Between COVID-19, the flu and RSV, these contagious diseases are sending Valley-area residents to emergency rooms in droves.",
-      "url": "https://www.azfamily.com/2024/01/15/respiratory-illnesses-putting-strain-phoenix-healthcare-system/",
-      "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/3HR2VDZUHJA57GQCM6NE7QY75Y.jpeg?auth=20bd7a06cf530d3e16ef0a2588a8276f0ce9f6d26cf47aca5cd2f5ad61a2a3b0&width=1200&height=600&smart=true",
-      "publishedAt": "2024-01-15T15:55:00Z",
-      "content": "PHOENIX (3TV/CBS 5) Between COVID-19, the flu and RSV, these contagious diseases are sending Valley-area residents to emergency rooms in droves. \r\nThat includes Valleywise Health Medical Center in Ph… [+984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Liz Szabo | KFF Health News",
-      "title": "Medical errors kill scores each year in the U.S., especially women and minorities - Yahoo News",
-      "description": "Medical errors kill scores of Americans. Women and minorities are more likely to receive a misdiagnosis, a recent study finds.",
-      "url": "https://news.yahoo.com/medical-mistakes-more-likely-women-123000870.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IGI0zUAId51Tl2t1R_LwMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/c437e9f0b5c86300908363ed11913a6a",
-      "publishedAt": "2024-01-15T15:52:13Z",
-      "content": "Charity Watkins sensed something was deeply wrong when she experienced exhaustion after her daughter was born.\r\nAt times, Watkins, then 30, had to stop on the stairway to catch her breath. Her obstet… [+8336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "ANI",
-      "title": "Incontinence in women might point to future disability: Research - Hindustan Times",
-      "description": "The study shows that having frequent urinary incontinence and leakage amounts can lead to higher odds of disability in women. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/incontinence-in-women-might-point-to-future-disability-research-101705330470789.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/15/1600x900/UTI_thumb_1665994622217_1705333531976.jpg",
-      "publishedAt": "2024-01-15T15:48:47Z",
-      "content": "If you are one of the 30 to 50 per cent of women who suffer from urine incontinence, new research reveals that it may become a major health problem.\r\nUTI refers to an infection in any part of the uri… [+3087 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Cristina Krippahl",
-      "title": "Malaria-free Cape Verde a 'beacon of hope' - DW (English)",
-      "description": "The World Health Organization has certified Cape Verde as malaria-free, hailing the development as a significant milestone in the fight against the disease. But much remains to be done.",
-      "url": "https://www.dw.com/en/malaria-free-cape-verde-a-beacon-of-hope/a-67984627",
-      "urlToImage": "https://static.dw.com/image/67967283_6.jpg",
-      "publishedAt": "2024-01-15T15:47:09Z",
-      "content": "The news that Cape Verde is malaria-free was received with great joy. Prime Minister Ulisses Correia e Silva said the \"historic moment\" called for celebration and not just because of the positive imp… [+5531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportskeeda"
-      },
-      "author": "Saima Khan",
-      "title": "Outstanding health benefits of heirloom tomatoes - Sportskeeda",
-      "description": "There are many benefits of heirloom tomatoes that make them stand out from other sorts. You can grow them from seeds or buy them from garden stores.",
-      "url": "https://www.sportskeeda.com/health-and-fitness/outstanding-health-benefits-heirloom-tomatoes",
-      "urlToImage": "https://staticg.sportskeeda.com/editor/2024/01/6fe8b-17053319497885-1920.jpg",
-      "publishedAt": "2024-01-15T15:40:00Z",
-      "content": "There are many benefits of heirloom tomatoes that make them stand out from other sorts. You can grow them from seeds or buy them from garden stores.\r\nThese tomatoes come from an old strain that small… [+3724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Will Conybeare, Jacqueline Sarkissian",
-      "title": "COVID, flu, RSV cases on the rise across L.A. County as holiday season ends - KTLA Los Angeles",
-      "description": "Public health officials are advising Los Angeles County residents of a spike in sicknesses as the holiday season comes to a close.  Those who gathered for the holidays and then traveled back are said to be the main spreaders, and while a rise in COVID-19 case…",
-      "url": "https://ktla.com/news/local-news/covid-flu-rsv-cases-on-the-rise-across-l-a-county-as-holiday-season-ends/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/11/655b577bc29226.73339298.jpeg?w=1280",
-      "publishedAt": "2024-01-15T15:38:44Z",
-      "content": "Public health officials are advising Los Angeles County residents of a spike in sicknesses as the holiday season comes to a close. \r\nThose who gathered for the holidays and then traveled back are sai… [+1761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Large scale plasma proteomics identifies novel proteins and protein networks associated with heart failure development - Nature.com",
-      "description": "The pathobiology of heart failure (HF) is incompletely understood. The authors identify 37 circulating proteins and 5 protein modules associated with HF risk, with several demonstrating causal effects on HF, risk factors, or cardiac dysfunction by Mendelian r…",
-      "url": "https://www.nature.com/articles/s41467-023-44680-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-023-44680-3/MediaObjects/41467_2023_44680_Fig1_HTML.png",
-      "publishedAt": "2024-01-15T15:23:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Does Eating Papaya Boost Weight Loss? - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2024-01-15T15:16:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": null,
-      "title": "How Do You Build Healthy Habits? | Health Wealth, Ep 25 - India Today",
-      "description": "In this episode, Saurabh Bothra, co-founder of HaBuild and yoga influencer, reveals the secret to a permanently healthy lifestyle and inner motivation. Learn the right (and wrong) ways to start building habits which are great for you, what a healthy morning r…",
-      "url": "https://podcasts.indiatoday.in/health/health-wealth/how-do-you-build-healthy-habits-health-wealth-ep-25-777453-2024-01-15",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202401/25-one_one.jpg",
-      "publishedAt": "2024-01-15T15:06:00Z",
-      "content": "We all know exercise is good for you, meditation brings inner peace, and good health is fragile. So why doesn't this knowledge automatically translate into results? Simply resolving to be healthy or … [+612 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "More evidence to ban energy drinks for children, study finds - BBC.com",
-      "description": "Raised risks of anxiety, stress and suicidal thoughts have been highlighted by new research.",
-      "url": "https://www.bbc.com/news/health-67962147",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184A4/production/_132329499_gettyimages-681755100.jpg",
-      "publishedAt": "2024-01-15T14:11:00Z",
-      "content": "The sale of all energy drinks to young people and children in the UK should be banned, says a review of the latest evidence on their effects on health.\r\nIt highlighted links to more risks than previo… [+5128 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Good News Network"
-      },
-      "author": "Andy Corbley",
-      "title": "Test That Can Spot 18 Early-Stage Cancer Signals Shows 84% Sensitivity in First Human Trial - Good News Network",
-      "description": "Such a test could facilitate wider testing regimens around the world, where cancer is now responsible for one out of every six deaths.",
-      "url": "https://www.goodnewsnetwork.org/test-that-can-spot-18-early-stage-cancer-signals-shows-84-sensitivity-in-first-human-trial/",
-      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/01/Blood-Test-U.S.-Navy-Public-Domain.jpg",
-      "publishedAt": "2024-01-15T14:00:16Z",
-      "content": "An experimental cancer test already being studied in humans shows that by examining blood proteins instead of tumor DNA, it may be possible to detect up to 18 early-stage cancers with exceptional acc… [+2919 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Trisha Pasricha, MD",
-      "title": "Should I try supplements, colonics or juicing? What the science says. - The Washington Post",
-      "description": "When you come across a health trend on social media, approach it with skepticism.",
-      "url": "https://www.washingtonpost.com/wellness/2024/01/15/supplements-colonics-juice-cleanses/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IKFS4IGHEBEJBEP6X4TVKNEH5Y.gif&w=1440",
-      "publishedAt": "2024-01-15T14:00:00Z",
-      "content": "Return to menuSome of my patients treat a juice cleanse that is, consuming only juice for a short period of around three days as atonement for the margaritas and desserts they had during the holidays… [+1024 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Yahoo Life",
-      "title": "“I'm a Dermatologist and Doing These 4 Steps Every Morning Ensures a Youthful Glow All Day!” - Yahoo Life",
-      "description": null,
-      "url": "https://www.yahoo.com/lifestyle/m-dermatologist-doing-4-steps-133733603.html",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T13:37:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prevention.com"
-      },
-      "author": "Madeleine Haase",
-      "title": "Study: 15 Risk Factors for Young-Onset Dementia - Prevention Magazine",
-      "description": "A study found 15 risk factors for young-onset dementia, which include . Experts explain the findings.",
-      "url": "https://www.prevention.com/health/memory/a46339940/young-onset-dementia-risk-factors-study/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/elderly-care-old-and-young-royalty-free-image-1704900197.jpg?crop=1.00xw:0.752xh;0,0.0553xh&resize=1200:*",
-      "publishedAt": "2024-01-15T13:30:00Z",
-      "content": "We may earn commission from links on this page, but we only recommend products we back. Why Trust Us?<ul><li>New research reveals 15 risk factors for young-onset dementia.</li><li>The studys findings… [+3516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Parmita Uniyal",
-      "title": "8 natural ways to manage joint pain and arthritis in winter - Hindustan Times",
-      "description": "Muscles aches and joint pain tend to increase in winter and to manage these symptoms effectively, it's pertinent to stay warm and eat healthy.",
-      "url": "https://www.hindustantimes.com/photos/lifestyle/8-natural-ways-to-manage-joint-pain-and-arthritis-in-winter-101705324231301.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/15/1600x900/joint_pain_thumb_1705324311882_1705324358173.jpg",
-      "publishedAt": "2024-01-15T13:21:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Manya Singh",
-      "title": "10 Spices You Should Incorporate Into Your Winter Diet For Better Immunity - NDTV Doctor",
-      "description": "Below we discuss how certain spices can help boost our immunity.",
-      "url": "https://doctor.ndtv.com/living-healthy/10-spices-you-should-incorporate-into-your-winter-diet-for-better-immunity-4867740",
-      "urlToImage": "https://c.ndtvimg.com/2023-04/rkn62gao_spices-variety_625x300_21_April_23.jpg",
-      "publishedAt": "2024-01-15T13:04:10Z",
-      "content": "Spices are dried seeds, fruits, roots, or barks used to season or flavour food. They are commonly used in cooking to enhance the taste and aroma of dishes. Some spices contain bioactive compounds tha… [+4228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Namita S Kalla",
-      "title": "How to boost stamina: Supercharge your exercise routine by including beetroot in daily diet - Moneycontrol",
-      "description": "Health benefits of beetroots: Including beetroots into your daily diet can help the body tap into a natural source of nutrients that can significantly enhance your workout capabilities. From improved endurance to enhanced recovery, beets offer a simple yet ef…",
-      "url": "https://www.moneycontrol.com/news/health-and-fitness/health-benefits-of-beetroot-how-to-boost-stamina-exercise-routine-by-including-beetroot-in-daily-diet-12055011.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/Health-benefits-of-beetroot-770x433.jpg",
-      "publishedAt": "2024-01-15T12:53:18Z",
-      "content": "To live well and cope with everyday challenges, you need a holistic approach that combines a balanced diet with regular exercises to keep your health in top shape. This is because your food choices a… [+2579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": "Kirtika Katira",
-      "title": "Caffeine Alternatives: 6 Energising Drinks for a Healthier Buzz - WION",
-      "description": "Caffeine Alternatives: 6 Energising Drinks for a Healthier Buzz",
-      "url": "https://www.wionews.com/web-stories/life-fun/food-and-travel/caffeine-alternatives-6-energising-drinks-for-a-healthier-buzz-1705321723932",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T12:46:41Z",
-      "content": "Golden Turmeric Latte: Harness the anti-inflammatory powers of turmeric in a soothing latte. Mix turmeric, ginger, and a dash of cinnamon with your favourite non-dairy milk for a golden elixir."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Khushi Pal",
-      "title": "5 healthy benefits of getting adequate sleep - Hindustan Times",
-      "description": "Here are 5 amazing benefits of getting 7-8 hours of sleep daily.",
-      "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-healthy-benefits-of-getting-adequate-sleep-101705314246481.html",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T12:00:10Z",
-      "content": "By Khushi PalPublished Jan 15, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Michael J. Fox, Deborah W. Brooks",
-      "title": "A Key to Detecting Brain Disease Earlier Than Ever - WIRED",
-      "description": "Treatment of Parkinson’s, Huntington’s, ALS, and other brain diseases depends on reliable detection—especially in those who don’t even know they’re at risk. An innovative scratch-and-sniff test can help.",
-      "url": "https://www.wired.com/story/a-key-to-detecting-brain-disease-earlier-than-ever/",
-      "urlToImage": "https://media.wired.com/photos/65a1907ee6426d7c4bfc1ccb/191:100/w_1280,c_limit/WW2024_-1469261051_HEALTH_Michael-J.-Fox-and-Deborah-W.-Brooks-.jpg",
-      "publishedAt": "2024-01-15T12:00:00Z",
-      "content": "Earlier this year, Parkinsons disease (PD) research entered a new era when the Michael J. Fox Foundation announced a momentous scientific breakthroughthe discovery of a biomarker for PD. It meant tha… [+4196 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dino Grandoni",
-      "title": "There is still a pandemic raging. It's in the ocean. - The Washington Post",
-      "description": "An avian flu panzootic — a pandemic among animals — has struck some 320 bird and mammal species, including elephant seals.",
-      "url": "https://www.washingtonpost.com/climate-environment/2024/01/15/bird-avian-flu-seal/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKRIRCNGXNDK3COOMEHRLTGJRA.jpg&w=1440",
-      "publishedAt": "2024-01-15T11:46:10Z",
-      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nIt felt like watching one of those blockbusters about the end of the world. Like witnessing an apocalypse, but in real life. Which, in… [+9093 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "Here's what your snoring habit is telling you about your liver - Times of India",
-      "description": "Snoring keeping you up at night? It might not just be bothering your partner - new research suggests a surprising link between snoring and sleep apnea, and your liver health! In this video, Dr. Guleria explains the mechanisms behind snoring and sleep apnea, a…",
-      "url": "https://timesofindia.indiatimes.com/videos/lifestyle/health-fitness/heres-what-your-snoring-habit-is-telling-you-about-your-liver/videoshow/106867304.cms",
-      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-106867304,imgsize-62872.cms",
-      "publishedAt": "2024-01-15T11:44:38Z",
-      "content": "Jan 15, 2024, 05:14PM ISTSource: Snoring keeping you up at night? It might not just be bothering your partner - new research suggests a surprising link between snoring and sleep apnea, and your liver… [+150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biomedcentral.com"
-      },
-      "author": null,
-      "title": "Association of long-term exposure to various ambient air pollutants, lifestyle, and genetic predisposition with incident cognitive impairment and dementia - BMC Public Health - BMC Public Health",
-      "description": "Background Long-term exposure to air pollution has been found to contribute to the development of cognitive decline. Our study aimed to assess the association between various air pollutants and cognitive impairment and dementia. Additionally, explore the modi…",
-      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17702-y",
-      "urlToImage": "https://static-content.springer.com/image/art%3A10.1186%2Fs12889-024-17702-y/MediaObjects/12889_2024_17702_Fig1_HTML.png",
-      "publishedAt": "2024-01-15T11:44:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Hassan Thwaini",
-      "title": "How Much Does Screentime Really Affect Child Development? - Medscape",
-      "description": "The Dutch have just restricted mobile device use in school classrooms. But does too much screentime affect cognition? European experts weigh in.",
-      "url": "https://www.medscape.com/viewarticle/how-much-does-screentime-really-affect-child-development-2024a10000x4",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240112_classroom_phones_children_800x450.jpg",
-      "publishedAt": "2024-01-15T11:43:15Z",
-      "content": "France did it 5 years ago and now, from January 1, the Dutch have followed suit, banning devices such as mobile phones and tablets in classrooms unless needed during lessons, for medical reasons, or … [+7730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Dialogues"
-      },
-      "author": "Dr Ajoy Kumar",
-      "title": "What are the myths related to diabetes and diet? - Dr Ajoy Kumar - Medical Dialogues",
-      "description": "Contrary to the common myth, having diabetes doesn't necessarily mean completely avoiding starchy foods like bread, potatoes, or pasta. While managing diabetes involves regulating carbohydrate...",
-      "url": "https://medicaldialogues.in/diabetes-endocrinology/what-are-the-myths-related-to-diabetes-and-diet-dr-ajoy-kumar-123073",
-      "urlToImage": "https://medicaldialogues.in/h-upload/2024/01/15/230175-dr-ajoy-kumar.jpg",
-      "publishedAt": "2024-01-15T11:37:24Z",
-      "content": "Contrary to the common myth, having diabetes doesn't necessarily mean completely avoiding starchy foods like bread, potatoes, or pasta. While managing diabetes involves regulating carbohydrate intake… [+756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bnnbreaking.com"
-      },
-      "author": "BNN Correspondents",
-      "title": "Lancet Microbe Study Sheds Light on Antibiotic Resistance in Enterococcus faecium - BNN Breaking",
-      "description": "A study in Lancet Microbe focuses on the accuracy of determining antibiotic resistance using whole genome sequences from Enterococcus faecium, underlining the importance of accurate AMR diagnosis.",
-      "url": "https://bnnbreaking.com/world/lancet-microbe-study-sheds-light-on-antibiotic-resistance-in-enterococcus-faecium/",
-      "urlToImage": null,
-      "publishedAt": "2024-01-15T11:31:00Z",
-      "content": "A pivotal study published in Lancet Microbe has placed the spotlight on the accuracy of determining antibiotic resistance through whole genome sequences from Enterococcus faecium. This bacterium is n… [+1545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthpolicy-watch.news"
-      },
-      "author": "https://www.facebook.com/HealthPolicyWatch",
-      "title": "First Human Trial Of Nipah Vaccine Trial Announced - Health Policy Watch",
-      "description": "The first clinical trial of a vaccine for Nipah, a deadly communicable disease mostly found in South-East Asia, is about to start, the Oxford Vaccine Group",
-      "url": "https://healthpolicy-watch.news/nipah-trial/",
-      "urlToImage": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2024/01/Nipah.jpeg",
-      "publishedAt": "2024-01-15T11:04:23Z",
-      "content": "Mature Nipah Virus particles (blue) close to the periphery of an infected VERO cell (purple)\r\nThe first clinical trial of a vaccine for Nipah, a deadly communicable disease mostly found in South-East… [+2241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ConsumerReports.org"
-      },
-      "author": "Hallie Levine",
-      "title": "Best Checkup for Your Heart - Consumer Reports",
-      "description": "The world of routine screening for heart disease has changed. Here are the tests you should ask about for heart health.",
-      "url": "https://www.consumerreports.org/health/heart-disease/best-checkup-for-your-heart-a9790305267/",
-      "urlToImage": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1701712065/prod/content/dam/CRO-Images-2023/12December/Health/CR-Health-InlineHero-Best-Checkup-for-Your-Heart-1223",
-      "publishedAt": "2024-01-15T11:00:08Z",
-      "content": "Stress TestDuring an exercise stress test, your heart is monitored while you walk on a treadmill or ride a stationary bike. This helps your doctor figure out how well your heart works when its pumpin… [+3826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WJXT News4JAX"
-      },
-      "author": "Cleveland Clinic News Service",
-      "title": "Do you have a vitamin D deficiency? - WJXT News4JAX ",
-      "description": "Vitamin D is essential for our bodies, especially when it comes to bone health, but many people don’t get enough of the so-called “sunshine vitamin” in the winter.",
-      "url": "https://www.news4jax.com/health/2024/01/15/do-you-have-a-vitamin-d-deficiency/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-15-2024/t_f66752679cfd473cb1b9db5cded9bd49_name_image.jpg?_a=ATAPphC0",
-      "publishedAt": "2024-01-15T11:00:00Z",
-      "content": "Vitamin D is essential for our bodies, especially when it comes to bone health, but many people dont get enough of the so-called sunshine vitamin in the winter.\r\nTypically, theres less sunlight durin… [+1317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Firstpost"
-      },
-      "author": "FP Staff",
-      "title": "China experimenting with 100% deadly new Covid strain: Report - Firstpost",
-      "description": "A group of mice were administered with SARS-CoV-2-related pangolin coronavirus GXP2V to test its effect. The results indicate potential dangers and a risk of the virus spilling over onto humans",
-      "url": "https://www.firstpost.com/world/china-experimenting-with-100-per-cent-deadly-new-covid-strain-report-13616272.html",
-      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2024/01/China-COVID-2.jpg",
-      "publishedAt": "2024-01-15T10:53:23Z",
-      "content": "Undeterred by loss of countless lives across the world, China is now reportedly experimenting with a new Covid-like virus that has a “mortality rate of 100 per cent.”\r\nDoctors trained by Chinese Peop… [+2933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slurrp.com"
-      },
-      "author": "nikita toppo",
-      "title": "Winter Special: 6 Healthy Juices To Ward Off The Seasonal Sickness - Slurrp",
-      "description": "Winter Special: 6 Healthy Juices To Ward Off The Seasonal Sickness Winter Special: 6 Healthy Juices To Ward Off The Seasonal SicknessBy Nikita ToppoJanuary 15, 2024Image Credit: UnsplashImage Credit: UnsplashThe chilly breeze and cold weather of winter brings…",
-      "url": "https://www.slurrp.com/web-stories/winter-special-6-healthy-juices-to-ward-off-the-seasonal-sickness/",
-      "urlToImage": "https://images.slurrp.com/webstories/wp-content/uploads/2024/01/cropped-rirri-R4zSXgDZLEU-unsplash-2.jpg",
-      "publishedAt": "2024-01-15T10:51:43Z",
-      "content": "Prepared with orange, carrot, tomato, and water, this refreshing drink is packed with antioxidants, vitamin C, and vitamin A."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Marcia Frellick",
-      "title": "Two-Way Link Between Autoimmune Disease/Perinatal Depression - Medscape",
-      "description": "Study found women with autoimmune disease were 30% more likely to have perinatal depression. Risk was also 30% higher for the reverse scenario.",
-      "url": "https://www.medscape.com/viewarticle/two-way-link-between-autoimmune-disease-perinatal-depression-2024a10000wj",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_210706_mother_baby_depression_800x450.jpg",
-      "publishedAt": "2024-01-15T10:38:36Z",
-      "content": "Women with autoimmune disease are more likely to have perinatal depression (PND), according to findings from a new study that also suggested the reverse relationship is true: Women with a history of … [+5131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Quint"
-      },
-      "author": "Shivangani Singh",
-      "title": "11 Benefits Of Soaking In Sunlight For 15 Minutes Daily - The Quint FIT",
-      "description": "Sunlight exposure is essential for proper functioning of the body but one should always wear  SPF and avoid staying in the sun for too long",
-      "url": "https://www.thequint.com/fit/11-benefits-of-soaking-in-sunlight-for-15-minutes-daily",
-      "urlToImage": "https://images.thequint.com/thequint%2F2019-04%2F0d8f2c14-0a67-4709-be37-f2a6ad214864%2FVitamin_D.jpg",
-      "publishedAt": "2024-01-15T10:33:49Z",
-      "content": "1. The less sunlight you get, the higher your chances of being diagnosed with prostate cancer. It is believed that lack of sunlight increases the risk of prostate cancer.\r\n2. The stress hormone is kn… [+1025 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Linda Searing",
-      "title": "Study links glaucoma, cataracts in seniors to broken bones from falls - The Washington Post",
-      "description": "The risk for both fractures and falls was highest among people with glaucoma.",
-      "url": "https://www.washingtonpost.com/wellness/2024/01/15/amd-glaucoma-cataracts-fall-injuries/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNJMYFJBOJC7ZJ7FMYUHPVTBWA.jpg&w=1440",
-      "publishedAt": "2024-01-15T10:32:46Z",
-      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nOlder adults with certain eye diseases cataracts, age-related macular degeneration (AMD) or glaucoma are more likely to fall and break… [+2122 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Melanie Radzicki McManus",
-      "title": "Resistance training key to long-term health, experts say - CNN",
-      "description": "Strength training is far more important for long-term health than people realize, says exercise researcher Dr. Tommy Lundberg. He shares why in a Q&A with CNN.",
-      "url": "https://www.cnn.com/2024/01/15/health/strength-exercises-resistance-training-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240110202942-01-strength-training-stock.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-01-15T10:31:00Z",
-      "content": "Editors note: Before beginning any new exercise program, consult your doctor. Stop immediately if you experience pain.\r\nChances are you dont regularly pump weights. Nor do you likely have a resistanc… [+6389 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "5 things to add to your glass of milk to increase its power - IndiaTimes",
-      "description": "Whether you opt for the anti-inflammatory properties of turmeric, the omega-3 goodness of chia seeds, or the heart-healthy benefits of almond butter, these enhancements not only increase the power of your milk but also contribute to a delicious and wholesome …",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/5-things-to-add-to-your-glass-of-milk-to-increase-its-power/photostory/106863012.cms",
-      "urlToImage": "https://static.toiimg.com/photo/106863157.cms",
-      "publishedAt": "2024-01-15T10:30:00Z",
-      "content": "Adding chia seeds to your milk is a tiny but powerful boost. Chia seeds, being high in fiber, omega-3 fatty acids, and other vital minerals, provide you an extra energy boost, encourage fullness, and… [+21 chars]"
     }
   ]
 }
