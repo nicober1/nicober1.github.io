@@ -1,19 +1,773 @@
 {
   "status": "ok",
-  "totalResults": 96,
+  "totalResults": 92,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "World Health Organization"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Administrator",
-      "title": "International Childhood Cancer Day 2024: reducing the survival gap - WHO Regional Office for the Eastern Mediterranean",
-      "description": "",
-      "url": "https://www.emro.who.int/media/news/international-childhood-cancer-day-2024-reducing-the-survival-gap.html",
-      "urlToImage": "http://www.emro.who.int/images/stories/media/who_staff_and_young_boy_bump_elbows.jpg",
-      "publishedAt": "2024-02-14T18:07:51Z",
-      "content": "15 February 2024   On International Childhood Cancer Day 2024, we highlight the vital role of parents, as well as family doctors and paediatricians, in the early detection of childhood cancers. No on… [+3489 chars]"
+      "author": "Deutsche Welle",
+      "title": "Alaskapox: First known death from the virus - Times of India",
+      "description": "US News: Alaskapox is an orthopoxvirus related to smallpox, cowpox and mpox (initially known as \"monkeypox\").",
+      "url": "https://timesofindia.indiatimes.com/world/us/alaskapox-first-known-death-from-the-virus/articleshow/107712946.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107712968,width-1070,height-580,imgsize-49770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15T06:35:00Z",
+      "content": "10 saris of Kajol which are perfect for Saraswati Puja"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Tim Kawakami",
+      "title": "Kawakami: 49ers’ scapegoat? Steve Wilks’ firing is a bad look, but the mistake was hiring an ill-fitting DC - The Athletic",
+      "description": "Steve Wilks wasn't part of the 49ers' defensive culture when he was hired a year ago and never could find a way to meld with it.",
+      "url": "https://theathletic.com/5276062/2024/02/14/steve-wilks-fired-49ers-kawakami/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/02/14184634/GettyImages-1915407639-scaled.jpg",
+      "publishedAt": "2024-02-15T06:08:45Z",
+      "content": "A year ago, Kyle Shanahan gave Steve Wilks a great opportunity that was also mostly unfair to him at the very same time. Both things. Built upon each other.\r\nA great job because it was difficult enou… [+7685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Tech Desk",
+      "title": "Samsung adds Galaxy AI features to Buds 2, Buds 2 Pro, and Buds FE - The Indian Express",
+      "description": "Samsung's Galaxy Buds 2, 2 Pro, and FE now boast AI-powered live translation and interpretation when paired with the Galaxy S24 series.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/samsung-galaxy-ai-features-buds-2-pro-9162752/",
+      "urlToImage": "https://images.indianexpress.com/2024/02/samsung-galaxy-ai-buds-2-pro.jpg",
+      "publishedAt": "2024-02-15T06:03:26Z",
+      "content": "Samsung’s Galaxy AI features are now available on more devices. The company has pushed a software update to the Galaxy Buds 2, Buds 2 Pro, and the recently announced Buds FE, enabling experiences lik… [+1811 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kunal Purohit",
+      "title": "What are India’s electoral bonds, the secret donations powering Modi’s BJP? - Al Jazeera English",
+      "description": "India’s top court has declared them illegal. The decision could shape the world’s biggest election.",
+      "url": "https://www.aljazeera.com/news/2024/2/15/what-are-electoral-bonds-the-secret-donations-powering-modis-bjp",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/AP23364393170553-1704785880.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-15T06:03:06Z",
+      "content": "Indias Supreme Court on Thursday banned electoral bonds, a mysterious source of funding for elections that has generated hundreds of millions of dollars in revenues for political parties, especially … [+8199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Tech Desk",
+      "title": "HP’s Envy Move blends laptops and PCs into a single device - The Indian Express",
+      "description": "HP designed the Envy Move to shuttle effortlessly not only between streaming, video calls, and work apps - but the rooms in your home as well.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/hps-envy-move-blends-laptops-and-pcs-into-a-single-device-9162524/",
+      "urlToImage": "https://images.indianexpress.com/2024/02/HP-Envy-Move-AIO-1.jpg",
+      "publishedAt": "2024-02-15T05:30:01Z",
+      "content": "Working, learning, and entertainment from home have all blended together these days. We’re video-calling friends one minute and streaming shows the next. Wouldn’t it be nice to have a computer that c… [+2114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Science Desk",
+      "title": "Watch LIVE: SpaceX launches Nasa's private Nova-C lander to Moon's south pole - India Today",
+      "description": "Named Odysseus the Nova-C lander carries an array of 12 payloads including five from Nasa and others from commercial entities",
+      "url": "https://www.indiatoday.in/science/story/watch-live-spacex-launches-nasas-private-nova-c-lander-to-moon-2501587-2024-02-15",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/im-1-nova-c-launched-152506692-16x9_0.jpg?VersionId=1pI3Aq29oI5WJ368WoyqLPb1EGPbC3kg",
+      "publishedAt": "2024-02-15T05:21:16Z",
+      "content": "SpaceX launched the Nasa and Intitutive Machine's Nova-C lunar lander to the Moon's surface on Thursday. \r\nThe highly anticipated Valentine's Day launch was moved to Thursday due to off-nominal metha… [+1867 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Sports Desk",
+      "title": "Watch: Mark Wood's bouncer rams into the grill of Rohit Sharma's helmet - Times of India",
+      "description": "Cricket News: England pacer Mark Wood's bouncer hits the grill of Indian opener Rohit Sharma's helmet in the third Test against India in Rajkot.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/england-in-india/mark-woods-bouncer-hits-the-grill-of-rohit-sharmas-helmet/articleshow/107710282.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107710531,width-1070,height-580,imgsize-42730,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15T05:19:00Z",
+      "content": "India vs England: Bumrah, Bazball and spin"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Florida Today"
+      },
+      "author": "Rick Neale",
+      "title": "SpaceX launch doubleheader: Live updates from IM-1 moon lander mission - Florida Today",
+      "description": "Live updates from two Valentine's Day overnight SpaceX Falcon 9 rocket launches from Cape Canaveral Space Force Station, Kennedy Space Center.",
+      "url": "https://www.floridatoday.com/story/tech/science/space/2024/02/14/spacex-im-1-and-ussf-124-doubleheader-what-to-know-about-both-launches-from-cape-canaveral-florida/72494460007/",
+      "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/02/13/PBRE/72578161007-52342438613-44714-f-0-b-08-o.png?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-15T05:03:45Z",
+      "content": "Launch recap: Scroll down for live coverage of the Feb. 14-15 back-to-back liftoffs of two SpaceX Falcon 9 rockets USSF-124 and Intuitive Machines IM-1 from Cape Canaveral.\r\nWelcome to FLORIDA TODAY'… [+9581 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Sarah Neville",
+      "title": "Scientists grapple with long Covid puzzle as millions fall sick - Financial Times",
+      "description": "Fears condition’s range of symptoms and link to chronic diseases will have lasting impact on health systems",
+      "url": "https://www.ft.com/content/ed17fac5-0af4-432d-ab1b-0a55bc789865",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F41f1e183-145c-4b2b-b08b-10d189ad986f.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2024-02-15T05:00:40Z",
+      "content": "Two months after contracting Covid-19 in August 2021, Heather Marti, a university programme administrator from West Virginia, began to experience a terrifying array of symptoms that have changed her … [+7067 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lim Hui Jie",
+      "title": "Japan is no longer the world's third-largest economy as it slips into recession - CNBC",
+      "description": "Japan's 2023 nominal GDP came in at 591.48 trillion yen, or $4.2 trillion, while Germany's stood at 4.12 trillion euros, or $4.46 trillion.",
+      "url": "https://www.cnbc.com/2024/02/15/japan-loses-spot-as-worlds-third-largest-economy-to-germany.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106975236-1636939318130-gettyimages-1236040225-AFP_9Q77LH.jpeg?v=1638921891&w=1920&h=1080",
+      "publishedAt": "2024-02-15T04:58:00Z",
+      "content": "Japan has lost its spot as the world's third-largest economy to Germany, as the Asian giant unexpectedly slipped into recession.\r\nOnce the second largest economy in the world, Japan reported two cons… [+1616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Russia launches resupply spacecraft to the International Space Station - Associated Press",
+      "description": "Russia launches unmanned resupply spacecraft to the International Space Station from Baikonur. #spacestation #space #russia Subscribe for more Breaking News:...",
+      "url": "https://www.youtube.com/watch?v=VOvAgdxIrEI",
+      "urlToImage": "https://i.ytimg.com/vi/VOvAgdxIrEI/maxresdefault.jpg",
+      "publishedAt": "2024-02-15T04:53:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "One dead, 21 wounded in shooting near Kansas City Super Bowl parade - Al Jazeera English",
+      "description": "Police take three people into custody for investigation after a shooting during a parade for the Kansas City Chiefs.",
+      "url": "https://www.aljazeera.com/news/2024/2/14/multiple-people-hit-in-shooting-during-kansas-city-superbowl-celebrations",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP24045761011019-1707950532.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-15T04:30:00Z",
+      "content": "At least one person has been shot dead in the US city of Kansas during a parade celebrating the Kansas City Chiefss Super Bowl victory.\r\nPolice said 21 others were wounded during Wednesdays mass shoo… [+5917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Munawar Faruqui pokes fun at Aditya Narayan’s behaviour at concert - Hindustan Times",
+      "description": "Stand-up comic and Bigg Boss winner Munawar Faruqui reacted to singer Aditya Narayan flinging a fan’s phone away at a concert.",
+      "url": "https://www.hindustantimes.com/entertainment/tv/munawar-faruqui-pokes-fun-at-aditya-narayan-s-behaviour-101707968602104.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/15/1600x900/Munawar_Aditya_1707968610785_1707968625709.jpg",
+      "publishedAt": "2024-02-15T04:13:35Z",
+      "content": "Stand-up comic and Bigg Boss 17 winner Munawar Faruqui took to his X account to weigh in on the Aditya Narayan drama. The singer recently made news for flinging a fans phone during a concert. Heres h… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Watch: Sarfaraz Khan Handed Test Cap By Anil Kumble. Father Can't Control His Tears - NDTV Sports",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3Nwb3J0cy5uZHR2LmNvbS9pbmRpYS12cy1lbmdsYW5kLTIwMjQvc2FyZmFyYXota2hhbi1oYW5kZWQtdGVzdC1jYXAtYnktYW5pbC1rdW1ibGUtZmF0aGVyLWNhbnQtY29udHJvbC1oaXMtdGVhcnMtd2F0Y2gtNTA2MDc0M9IBjAFodHRwczovL3Nwb3J0cy5uZHR2LmNvbS9pbmRpYS12cy1lbmdsYW5kLTIwMjQvc2FyZmFyYXota2hhbi1oYW5kZWQtdGVzdC1jYXAtYnktYW5pbC1rdW1ibGUtZmF0aGVyLWNhbnQtY29udHJvbC1oaXMtdGVhcnMtd2F0Y2gtNTA2MDc0My9hbXAvMQ",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2024-02-15T04:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Hindu Mandir: India PM Modi inaugurates temple in Abu Dhabi - BBC.com",
+      "description": "The grand temple is built on a plot of land donated by the UAE government.",
+      "url": "https://www.bbc.com/news/world-asia-india-68271362",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37DE/production/_132620341_gettyimages-1969479180-594x594.jpg",
+      "publishedAt": "2024-02-15T03:59:22Z",
+      "content": "The BAPS Swaminarayan temple is located on a 27-acre plot\r\nIndian Prime Minister Narendra Modi has inaugurated a grand Hindu temple in the United Arab Emirates (UAE) during a two-day visit to the cou… [+2321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Kyrie Irving (34 points) Highlights vs. San Antonio Spurs | 2/14/24 - Dallas Mavericks",
+      "description": "Kyrie Irving (34 points) Highlights vs. San Antonio SpursJoin Club Maverick!Check out the Mavs 2023-24 season tickets:https://www.mavs.com/tickets/DALLAS MAV...",
+      "url": "https://www.youtube.com/watch?v=nXarP_T3xZE",
+      "urlToImage": "https://i.ytimg.com/vi/nXarP_T3xZE/maxresdefault.jpg",
+      "publishedAt": "2024-02-15T03:48:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Bharat Bandh news: Farmers announce nationwide protest on 16 Feb. Banks, offices shut on Friday? Know details | Mint - Mint",
+      "description": "Workers and farmers have called for a sectoral industrial strike and Grameen Bharat Bandh on 16 February, with protests taking place from 6 AM to 4 PM. .Farmers will join massive chakka jams on main roads nationwide from 12 pm to 4 pm on Friday.",
+      "url": "https://www.livemint.com/news/india/bharat-bandh-news-farmers-announce-nationwide-protest-on-16-feb-banks-offices-shut-on-friday-know-details-11707964538213.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/15/1600x900/Bharat_Bandh_1707967692818_1707967693017.jpg",
+      "publishedAt": "2024-02-15T03:39:54Z",
+      "content": "A sectoral industrial strike and Grameen Bharat Bandh have been called by the workers and farmers on 16 February, Friday. The farmers' body Samyukta Kisan Morcha (Non-Political) has urged all like-mi… [+3344 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Israeli Army: 'Will capture Hamas leader Yahya Sinwar dead or alive' - Times of India",
+      "description": "The Israeli Army spokesman Daniel Hagari said that the Israeli troops are aiming to capture Hamas' chief, Yahya Sinwar, dead or alive. Israel's army released a video allegedly showing Yahya Sinwar with his family in a Gaza tunnel on October 10. The",
+      "url": "https://timesofindia.indiatimes.com/videos/toi-original/israeli-army-will-capture-hamas-leader-yahya-sinwar-dead-or-alive/videoshow/107707641.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-107707641,imgsize-108896.cms",
+      "publishedAt": "2024-02-15T03:38:03Z",
+      "content": "Feb 15, 2024, 09:08AM ISTSource: TOI.inThe Israeli Army spokesman Daniel Hagari said that the Israeli troops are aiming to capture Hamas' chief, Yahya Sinwar, \"dead or alive\". Israel's army released … [+313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Jaya Bachchan, Amitabh Bachchan's combined wealth is ₹1578 crore: Report - Hindustan Times",
+      "description": "Jaya Bachchan reportedly owns jewellery worth ₹40.97 crore, while Amitabh Bachchan has jewellery worth ₹54.77 crore and a fleet of 16 vehicles. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/jaya-bachchan-amitabh-bachchan-net-worth-total-wealth-1578-crore-luxury-cars-mercedes-101707967034303.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/15/1600x900/Jaya_Bachchan_Amitabh_Bachchan_1665313239809_1707967620171.JPG",
+      "publishedAt": "2024-02-15T03:37:41Z",
+      "content": "Jaya Bachchan, up for her fifth Rajya Sabha term, reportedly has combined wealth of 1,578 crore with husband and veteran actor Amitabh Bachchan. As per a report by India Today, an election affidavit … [+2067 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MEG KINNARD, MICHELLE L. PRICE",
+      "title": "Donald Trump defends his NATO remarks after backlash - The Associated Press",
+      "description": "Former President Donald Trump is defending saying he “would encourage” Russia “to do whatever the hell they want” to NATO allies that don’t meet defense spending targets days after his comments set off alarm in the U.S. and among its allies. On Wednesday Trum…",
+      "url": "https://apnews.com/article/trump-backlash-nato-funding-russia-ukraine-796f245e06d1a0f314e3b4bfdb793cc0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/508e817/2147483647/strip/true/crop/4004x2252+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F78%2Fd6ffd3fd582516eac176a01bf2ef%2F928267a499574a8299a41244d74c7c42",
+      "publishedAt": "2024-02-15T03:28:00Z",
+      "content": "NORTH CHARLESTON, S.C. (AP) Former President Donald Trump again said Wednesday that if he returns to the White House, he would not defend NATO members that dont meet defense spending targets, days af… [+4200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "How Anti-Army Vote May Deliver An Unstable Pak Government - NDTV",
+      "description": "Pakistans heavily anticipated general electiontook place on Feb. 8, 2024, with citizens of the South Asian country hoping that it might prove a step toward ending the nations political uncertainty.",
+      "url": "https://www.ndtv.com/world-news/how-anti-army-vote-may-deliver-an-unstable-pak-government-5060630",
+      "urlToImage": "https://c.ndtvimg.com/2024-02/uvemu6d_pakistan-election-reuters_625x300_12_February_24.jpeg",
+      "publishedAt": "2024-02-15T03:23:14Z",
+      "content": "Pakistan is now entering an uncertain scenario, which is, in effect, a post-election political crisis.\r\nPakistan's heavily anticipated general election took place on Feb. 8, 2024, with citizens of th… [+7652 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "David Jackson",
+      "title": "NATO: Donald Trump addresses Vladimir Putin comments on Joe Biden - USA TODAY",
+      "description": "Former President Donald Trump said he took it as a \"compliment\" after Russian President Vladimir Putin said his country would prefer President Joe Biden.",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2024/02/14/nato-donald-trump-vladimir-putin-joe-biden/72602969007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/03/31/USAT/76799833-0945-48be-87d5-467270777eac-Trump_Putin.JPG?crop=3500,1969,x0,y36&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-15T03:15:44Z",
+      "content": "Former President Donald Trump, often accused of cozying up to Russian President Vladimir Putin, said he took it as a 'compliment' after the foreign leader claimed his country would prefer President J… [+3565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Israel Gaza: Netanyahu vows to press ahead with Rafah offensive - BBC.com",
+      "description": "A growing chorus of world leaders is urging Israel not to attack the city packed with civilians.",
+      "url": "https://www.bbc.com/news/world-middle-east-68302064",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18033/production/_132655389_55892478fb64dc764f8d34f2b191cbb2a167ba4c0_60_5500_30941000x563.jpg",
+      "publishedAt": "2024-02-15T03:12:25Z",
+      "content": "By Jacqueline HowardBBC News\r\nA child awaiting food aid in Rafah this week\r\nIsraeli Prime Minister Benjamin Netanyahu has insisted his troops will advance on the Gazan city of Rafah, defying outside … [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Germany overtakes Japan as third-biggest economy - Times of India",
+      "description": "International Business News: Japan slipped to fourth place below Germany in terms of GDP. The fall in the yen and Germany's contracting economy contributed to the change. Japan's",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/germany-overtakes-japan-as-third-biggest-economy/articleshow/107706276.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107706369,width-1070,height-580,imgsize-1273123,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15T03:04:00Z",
+      "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Elon Musk moves SpaceX to Texas after Delaware revoked his Tesla salary package - Fox Business",
+      "description": "SpaceX CEO Elon Musk announced that the company completed the conversion of its state of incorporation from Delaware to Texas after a Delaware court struck down his Tesla pay package.",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-moves-spacex-texas-after-delaware-revoked-tesla-salary-package",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Elon-Musk-Celebration.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-15T02:55:00Z",
+      "content": "SpaceX CEO Elon Musk\r\n announced Wednesday night that the company converted its registration state from Delaware to Texas after a court in Delaware struck down his massive compensation package at Tes… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Sandeshkhali row: TMC's Nusrat Jahan posts Valentine's Day pics, BJP reacts - Hindustan Times",
+      "description": "As clashes broke out in Bengal's Sandeshkhali, Nusrat Jahan was seen celebrating Valentine’s Day with her husband and actor Yash Dasgupta. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/amid-sandeshkhali-row-bjp-attacks-tmcs-nusrat-jahan-over-valentines-day-posts-101707963008485.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/15/1600x900/nusrat_jahan_1707965372586_1707965391999.jpg",
+      "publishedAt": "2024-02-15T02:53:48Z",
+      "content": "The Bharatiya Janata Party in West Bengal has hit out actor-turned-politician Nusrat Jahan, a Trinamool Congress MP from Basirhat, even as tension simmered in the Sandeshkhali area of North 24 Pargan… [+3807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX 5 Atlanta"
+      },
+      "author": "FOX 5 Atlanta",
+      "title": "4 students shot in Benjamin Mays High School parking lot in SW Atlanta - FOX 5 Atlanta",
+      "description": "Four students were shot on Wednesday afternoon at Benjamin E Mays High School in southwest Atlanta.",
+      "url": "https://www.fox5atlanta.com/news/shooting-benjamin-mays-high-school-atlanta",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/02/1280/720/Benjamin-E-Mays-HS-Police-Activity-WAGAME001_16_34_00.02.10.32.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-15T02:47:37Z",
+      "content": "ATLANTA - A police officer with Atlanta Public Schools was on the scene as shots, which injured four students, were fired in the parking lot of Benjamin E. Mays High School in southwest Atlanta on We… [+5344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "NETS at CELTICS | FULL GAME HIGHLIGHTS | February 14, 2024 - NBA",
+      "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+      "url": "https://www.youtube.com/watch?v=_j0nsXUNzBE",
+      "urlToImage": "https://i.ytimg.com/vi/_j0nsXUNzBE/maxresdefault.jpg",
+      "publishedAt": "2024-02-15T02:41:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET HealthWorld",
+      "title": "Nepal restricts trans-fatty acids in food - ETHealthWorld",
+      "description": "The World Health Organisation congratulated Nepal for restricting levels of industrially produced trans-fatty acids in the food supply through legislation, a move aimed at promoting health and saving lives.",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/nepal-restricts-trans-fatty-acids-in-food/107705323",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-107705323,imgsize-39864,width-1200,height=765,overlay-ethealth/policy/nepal-restricts-trans-fatty-acids-in-food.jpg",
+      "publishedAt": "2024-02-15T02:30:38Z",
+      "content": "Kathmandu \r\n/ New Delhi , February 14 (ANI): The World Health Organisation congratulated Nepal for restricting levels of industrially produced trans-fatty acids in the food supply through legislation… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Vaishnawi Sinha",
+      "title": "Paytm crisis: Firm reacts amid reports of ED probing Paytm Payments Bank case - Hindustan Times",
+      "description": "In an exchange filing addressed to BSE and NSE, Paytm has denied all reports of a FEMA case being filed against the company by ED.",
+      "url": "https://www.hindustantimes.com/business/paytm-crisis-firm-reacts-amid-reports-of-ed-probing-paytm-payments-bank-case-101707963322483.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/15/1600x900/INDIA-PAYTM-39_1707112868335_1707963367482.jpg",
+      "publishedAt": "2024-02-15T02:30:27Z",
+      "content": "Fintech company Paytm in an exchange filing clarified about the reports of an investigation by the Enforcement Directorate (ED), saying that no FEMA violation cases have been filed against the compan… [+2427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fci Academy"
+      },
+      "author": null,
+      "title": "Lamont Paris, Sean Miller and other Ohio State coaching candidates - The Columbus Dispatch",
+      "description": "Huge Savings: Subscribe today to enjoy sports, entertainment, life, money, tech, and travel news along with videos, apps, and more.",
+      "url": "https://www.dispatch.com/story/sports/college/basketball/2024/02/14/chris-holtmann-ohio-state-basketball-coaching-candidates/72599207007/",
+      "urlToImage": "https://staticassets.gannettdigital.com/gci-static-assets/assets/global/checkout/meta-generic.png",
+      "publishedAt": "2024-02-15T02:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ashley Hume",
+      "title": "Taylor Swift praised by boyfriend Travis Kelce for chugging drink during the Super Bowl: 'She's a pro' - Fox News",
+      "description": "Taylor Swift's boyfriend Travis Kelce and his brother Jason Kelce marveled at the pop star's drinking skills after watching her chug a beer during the Super Bowl.",
+      "url": "https://www.foxnews.com/entertainment/taylor-swift-praised-by-boyfriend-travis-kelce-for-chugging-drink-during-super-bowl-shes-pro",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/taylor_travisSB.jpg",
+      "publishedAt": "2024-02-15T02:12:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+6218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Prithvi Shaw's big show in India's record win: A look at the last Test in Rajkot - Hindustan Times",
+      "description": "India vs England 3rd Test: Prithvi Shaw was front and centre the last time India played a Test match in Rajkot | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/india-vs-england-3rd-test-prithvi-shaw-takes-centre-stage-and-india-stroll-to-victory-a-look-at-the-last-test-in-rajkot-101707950342215.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/shaw_ap_1707955151676_1707955169939.jpg",
+      "publishedAt": "2024-02-15T02:06:22Z",
+      "content": "There have only been two Test matches thus far at the Saurashtra Cricket Association (SCA) Stadium and India face England starting Thursday to play the third. The first of the two Tests was between t… [+2415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today World Desk",
+      "title": "Shehbaz Sharif set for second term as Pak PM, Maryam Nawaz Punjab Chief Minister - India Today",
+      "description": "Shehbaz Sharif is set to begin a second term as Pakistan039s Prime Minister in the coming days returning to the role he had until August when parliament was dissolved ahead of last week039s elections",
+      "url": "https://www.indiatoday.in/world/story/pakistan-general-elections-latest-updates-pakistan-government-formation-shehbaz-sharif-imran-khan-supporters-2502321-2024-02-15",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/shehbaz-sharif-with-maryam-nawaz-150411936-16x9_0.jpg?VersionId=WXVU6vvs2A92Qw0.D8HDIMLlRcN9mRtD",
+      "publishedAt": "2024-02-15T02:04:31Z",
+      "content": "Shehbaz Sharif was chosen to lead Pakistan again, bringing an end to the political stalemate following an inconclusive election. Until Wednesday, the efforts to get the second-largest party to join t… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Kaitlin Lewis",
+      "title": "Sinking of Russian Warship Sparks Wave of Valentine's Day Memes - Newsweek",
+      "description": "Several social media users poked fun at the sinking of Russia's Caesar Kunikov landing ship, which is the fifth landing ship destroyed by Ukraine.",
+      "url": "https://www.newsweek.com/sinking-russian-warship-sparks-wave-valentines-day-memes-1870111",
+      "urlToImage": "https://d.newsweek.com/en/full/2349353/sinking-russian-warship-sparks-valentines-daymemes.jpg",
+      "publishedAt": "2024-02-15T02:01:32Z",
+      "content": "The sinking of a Russian landing ship in the Black Sea on Wednesday has sparked a wave of memes online, with one Ukrainian official describing it as a Valentine's Day gift to his country.\r\nKyiv claim… [+3431 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katie Bo Lillis, Alex Marquardt, Jim Sciutto, Oren Liebermann, Natasha Bertrand, Melanie Zanona, Kevin Liptak",
+      "title": "US has new intelligence on Russian nuclear capabilities in space - CNN",
+      "description": "The US has new intelligence on Russian military capabilities related to its efforts to deploy a nuclear anti-satellite system in space, according to multiple sources familiar with the intelligence.",
+      "url": "https://www.cnn.com/2024/02/14/politics/house-intel-chairman-serious-national-security-threat/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/50e9b402-8b7a-4ce5-a77c-6b370fbfa6a3.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-15T01:57:00Z",
+      "content": "The US has new intelligence on Russian military capabilities related to its efforts to deploy a nuclear anti-satellite system in space, according to multiple sources familiar with the intelligence.\r\n… [+6384 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Emily Shapiro",
+      "title": "3 DC police officers shot trying to serve warrant, alleged gunman surrenders: Source - ABC News",
+      "description": "All three officers suffered non-life-threatening gunshot wounds, police said.",
+      "url": "https://abcnews.go.com/US/3-police-officers-shot-washington-dc/story?id=107222882",
+      "urlToImage": "https://i.abcnewsfe.com/a/42f407a5-9e9a-4a70-8185-1098ee3b9bbb/washington-shooting-2-ht-gmh-240214_1707921262904_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-15T01:41:15Z",
+      "content": "The alleged gunman accused of shooting three Metropolitan Police Department officers in Washington, D.C., has surrendered, a law enforcement source told ABC News.\r\nThe incident unfolded Wednesday mor… [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Ankit Gohel",
+      "title": "Indian stock market: 7 key things that changed for market overnight - Gift Nifty, Japan’s GDP to Nvidia share rally | Mint - Mint",
+      "description": "Indian stock market: Gift Nifty was trading around 21,998 level, as compared with Nifty futures’ previous close of 21,925, indicating a positive start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-7-key-things-that-changed-for-market-overnight-gift-nifty-japan-s-gdp-to-nvidia-share-rally-11707960021745.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/15/1600x900/South-Korea-Financial-Markets-2_1707192184723_1707960662115.jpg",
+      "publishedAt": "2024-02-15T01:34:20Z",
+      "content": "Indian stock market: The domestic equity market indices, Sensex and Nifty 50, are expected to extend gains on Thursday following the positive trend in the global markets. Asian markets traded higher … [+4964 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "'The Fantastic Four' casts Pedro Pascal, Vanessa Kirby, Joseph Quinn, and Ebon Moss-Bachrach; Marvel supe - TOI Etimes",
+      "description": "Marvel Studios has officially announced the 'Fantastic' cast for its highly anticipated reboot of 'The Fantastic Four' franchise. Pedro Pascal, Vanessa Kirby, Joseph Quinn, and Ebon Moss-Bachrach have been cast in the lead roles. The film is set to release on…",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-fantastic-four-casts-pedro-pascal-vanessa-kirby-joseph-quinn-and-ebon-moss-bachrach-marvel-superhero-film-to-release-on-july-25-2025/articleshow/107704252.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107704251,width-1070,height-580,imgsize-119182,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-15T01:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Yellow alert issued for rainfall with thunderstorms, lightning in THESE states today. Check IMD forecast here | Mint - Mint",
+      "description": "IMD has forecasted moderate to heavy rainfall in several parts of the country till 21 February. Moreover, dense fog conditions has been in morning hours in isolated pockets of Bihar and Jharkhand on 15 and 16 February and over Gangetic West Bengal and Odisha …",
+      "url": "https://www.livemint.com/news/weather-update-imd-issues-rainfall-alert-in-these-states-till-21-february-check-full-forecast-here-11707957400449.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/15/1600x900/rain_1707959139611_1707959139818.jpg",
+      "publishedAt": "2024-02-15T01:12:35Z",
+      "content": "IMD Update: The Indian Meteorological Department (IMD) has forecasted moderate to heavy rainfall in several parts of the country on till 21 February.  The weather department has predicted isolated/sc… [+2687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "Marty Shtrubel",
+      "title": "'Buy Alphabet Stock,' Says Top Analyst as It Ramps Up the AI Stakes - TipRanks.com - TipRanks",
+      "description": "Goodbye Bard, hello Gemini. Last week, Alphabet (NASDAQ:GOOGL) provided an update regarding its LLM (Large Language Model) endeavors, which included a rebranding of...",
+      "url": "https://www.tipranks.com/news/buy-alphabet-stock-says-analyst-as-it-ramps-up-the-ai-stakes",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/01/GOOGL-AI-750x406.jpg",
+      "publishedAt": "2024-02-15T01:10:30Z",
+      "content": "Goodbye Bard, hello Gemini. Last week, Alphabet (NASDAQ:GOOGL) provided an update regarding its LLM (Large Language Model) endeavors, which included a rebranding of its AI chatbot from Bard to Gemini… [+2993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Adam B. Vary",
+      "title": "‘The Fantastic Four’ Could Be the Fresh Start Marvel Needs, From an Epic Cast to a (Possible) 1960s Setting - Variety",
+      "description": "The cast of \"The Fantastic Four\" — Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach — could be the new anchors that Marvel has needed.",
+      "url": "https://variety.com/2024/film/news/fantastic-four-cast-1960s-setting-marvel-fresh-start-1235911587/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/02/Fantastic-Four-illo.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-02-15T01:02:00Z",
+      "content": "Christopher Nolan recently proclaimed that the decision to hire Robert Downey Jr. to play Tony Stark in “Iron Man” was “one of the most consequential casting decisions that’s ever been made in the hi… [+4782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Arunesh Kumar Sharma",
+      "title": "Horoscope Today, February 15, 2024: Check here Astrological prediction for all zodiac signs - India Today",
+      "description": "Today Horoscope Astrological prediction for February 15 2024 Find out answers to your deepest burning questions related to love health money career in this daily horoscope for Aries Taurus Gemini Cancer Leo Virgo Libra Scorpio Sagittarius Capricorn Aquarius a…",
+      "url": "https://www.indiatoday.in/horoscopes/story/horoscope-today-february-15-2024-aries-taurus-gemini-cancer-leo-virgo-libra-scorpio-sagittarius-capricorn-aquarius-pisces-2502088-2024-02-15",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/main-tarot-311458-16x9_11.jpg?VersionId=6vxu_XMCsD2DUn5MTxiGCgBrTRBCK.3r",
+      "publishedAt": "2024-02-15T01:00:57Z",
+      "content": "Are you expecting a job offer or communication with your romantic partner? Look for your Sun sign in the daily horoscope below and find out.\r\nAries Daily Horoscope\r\nYou will bring momentum to pending… [+7976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Valentine's Day offers reminder to check in on heart health - FOX31 Denver",
+      "description": "A Denver Health doctor explains why it's important to monitor cardiovascular health and what symptoms people should be aware of.» Subscribe to FOX31 on YouTu...",
+      "url": "https://www.youtube.com/watch?v=gEka18KaQWA",
+      "urlToImage": "https://i.ytimg.com/vi/gEka18KaQWA/maxresdefault.jpg",
+      "publishedAt": "2024-02-15T00:58:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Trump expected in court for hearing over criminal trial start date - POLITICO",
+      "description": "The criminal trial is scheduled to begin March 25, but Trump is trying to derail it.",
+      "url": "https://www.politico.com/news/2024/02/14/trump-hush-money-trial-hearing-00141570",
+      "urlToImage": "https://static.politico.com/ff/f3/7f0eb15f42fe97fbc11db4079bf5/https-delivery-gettyimages.com/downloads/2001177370",
+      "publishedAt": "2024-02-15T00:53:40Z",
+      "content": "So far, hes had some success in muddling his 2024 criminal calendar. His other three cases in \r\nGeorgia, \r\nFlorida and \r\nWashington, D.C. have all been bogged down in delays or potential derailments … [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Swatting call an 'assassination attempt', says politician - BBC.com",
+      "description": "Elected officials have been targeted by dangerous pranks which saw heavily armed police sent to their homes.",
+      "url": "https://www.bbc.com/news/world-us-canada-68297349",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F61/production/_132654189_gettyimages-2682180.jpg",
+      "publishedAt": "2024-02-15T00:29:02Z",
+      "content": "By Gary O'DonoghueWashington correspondent, BBC News\r\nCongressman Brandon Williams (third from left) outside his home\r\nOn Christmas Day last year, Republican Congressman Brandon Williams was enjoying… [+6720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan",
+      "title": "Singapore's economy grew 2.2% in the fourth quarter, slower than forecast - CNBC",
+      "description": "Singapore's economy expanded 2.2% year-on-year in the fourth quarter last year, government data showed.",
+      "url": "https://www.cnbc.com/2024/02/15/singapore-economy-2023-q4-gdp-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103763004-GettyImages-482660770.jpg?v=1707888511&w=1920&h=1080",
+      "publishedAt": "2024-02-15T00:11:00Z",
+      "content": "SINGAPORE Singapore's economy grew 2.2% year-on-year in the fourth quarter last year, official data on Thursday showed, falling short of both the advance estimates of a 2.8% growth and Reuters' expec… [+1086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Sony Says the PS5 Is Approaching the 'Latter Stage' Of Its Life - IGN Daily Fix - IGN",
+      "description": "In today's Daily Fix:Sony Senior VP Naomi Matsuoka has said the company expects sales of the PS5 to begin to slow, starting next fiscal year (which begins in...",
+      "url": "https://www.youtube.com/watch?v=BOKvBkQecXI",
+      "urlToImage": "https://i.ytimg.com/vi/BOKvBkQecXI/maxresdefault.jpg",
+      "publishedAt": "2024-02-14T23:53:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Mark Schlabach",
+      "title": "Tiger Woods says talks between PGA Tour and Saudi Arabia's PIF are ongoing - ESPN",
+      "description": "Tiger Woods, a player director on the PGA Tour's policy board, said negotiations with officials from Saudi Arabia's Public Investment Fund are ongoing.",
+      "url": "https://www.espn.com/golf/story/_/id/39526587/tiger-woods-says-talks-pga-tour-saudi-arabia-pif-ongoing",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0214%2Fr1291297_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-02-14T23:27:00Z",
+      "content": "LOS ANGELES -- Tiger Woods said he isn't opposed to the Public Investment Fund being an investor in the PGA Tour, and that negotiations with officials from Saudi Arabia's sovereign wealth fund are on… [+4985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Thomas Germain",
+      "title": "PSA: Friday's the Last Day to Return Your Apple Vision Pro - Gizmodo",
+      "description": "Early adopters only have a couple days left to get their money back.",
+      "url": "https://gizmodo.com/how-long-do-you-have-to-return-apple-vision-pro-1851258249",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ce84a43d68e4b40eb8e159b25bd6d5a1.jpg",
+      "publishedAt": "2024-02-14T23:05:00Z",
+      "content": "This month, Apple released its first truly anticipated product in years, the Apple Vision Pro. Its a groundbreaking device, with some of the best hardware specs and the most impressive performance of… [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Keren Landman, MD",
+      "title": "What the CDC’s new COVID guidelines could mean for you - Vox.com",
+      "description": "Isolation policies haven’t stopped Covid’s worst outcomes. Other, better policies might.",
+      "url": "https://www.vox.com/2024/2/14/24073306/isolation-covid-guidelines-cdc-change",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1FwVcxfshRz-H7CxKn7GHMBm18g=/0x620:5750x3630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25286681/GettyImages_1284429703.jpg",
+      "publishedAt": "2024-02-14T23:05:00Z",
+      "content": "On February 13, the Washington Post reported that the Centers for Disease Control and Prevention (CDC) plans to issue new guidelines that would substantially pull back on recommendations for people i… [+7642 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Alexander Volkanovski Fires Back At Ilia Topuria, Wants UFC 300 Main Event | UFC 298 | MMA Fighting - MMAFightingonSBN",
+      "description": "#UFC featherweight champion Alexander Volkanovski gets fired up as he responds to Ilia Topuria and previews his #UFC298 title defense.Join this channel to ge...",
+      "url": "https://www.youtube.com/watch?v=0gVMp9eH2Qw",
+      "urlToImage": "https://i.ytimg.com/vi/0gVMp9eH2Qw/maxresdefault.jpg",
+      "publishedAt": "2024-02-14T22:49:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Tony Maglio",
+      "title": "'Road House' Skipped Theaters in Exchange for a Bigger Budget — Report - IndieWire",
+      "description": "Variety reports that “Road House” filmmakers and star Jake Gyllenhaal chose an extra $25 million — and a straight-to-streaming release.",
+      "url": "https://www.indiewire.com/news/breaking-news/road-house-skipped-theaters-more-money-1234954013/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/01/Unknown-2.jpeg",
+      "publishedAt": "2024-02-14T22:00:00Z",
+      "content": "Things are getting rowdy behind the scenes at “Road House.”\r\nOn Wednesday, Variety reported that the new “Road House” could have avoided a streaming debut, but before production began Amazon gave “th… [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ryan King",
+      "title": "George Santos trolls NY Republicans after Mazi Pilip loses special election: 'You f—ing idiots' - New York Post ",
+      "description": "Lying Long Island former Rep. George Santos rubbed Republican Mazi Pilip’s loss in the face of his one-time New York GOP colleagues in Congress.",
+      "url": "https://nypost.com/2024/02/14/us-news/george-santos-skewers-ny-republicans-after-tom-suozzi-victory-you-fing-idiots/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/newspress-collage-95d4pw4go-1707938468959.jpg?quality=75&strip=all&1707920525&w=1024",
+      "publishedAt": "2024-02-14T21:46:00Z",
+      "content": "Lying former Rep. George Santos slammed his former New York GOP colleagues in Congress after Republican Mazi Pilip lost a special election for his vacant Long Island congressional seat.\r\nThe truth-ch… [+3005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": null,
+      "title": "JAXA`s SLIM mission may have clues on Moon`s origins - WION",
+      "description": "The moon has been a thing of fascination for humanity for thousands of years. It's not exactly easy to ignore the brightest object in the night sky. As human ideas and later scientific understanding evolved, there were theories about exact origin of the Moon.…",
+      "url": "https://www.wionews.com/science/jaxas-slim-mission-may-have-clues-on-moons-origins-690364",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/11/23/394968-moon.png",
+      "publishedAt": "2024-02-14T20:38:03Z",
+      "content": "The moon has been a thing of fascination for humanity for thousands of years. It's not exactly easy to ignore the brightest object in the night sky. As human ideas and later scientific understanding … [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Harrison Smith",
+      "title": "Bill Post, an inventor of the Pop-Tart, dies at 96 - The Washington Post",
+      "description": "After leading the baking team that developed the toaster-friendly snack in 1963, he became an executive and spent two decades as a consultant for Kellogg’s.",
+      "url": "https://www.washingtonpost.com/obituaries/2024/02/14/bill-post-pop-tart-dead/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKJ6HUDUDFRXS6V6BETNBS27P4_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-02-14T20:27:00Z",
+      "content": "Bill Post, who helped create the on-the-go breakfast as an inventor of Pop-Tarts, leading the Michigan baking team that developed an unpretentious, toaster-friendly pastry with a fruity filling and i… [+7433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Meta's Zuckerberg Takes Aim at Apple's Vision Pro - Bloomberg Technology",
+      "description": "In a video posted to his Instagram account on Tuesday, Meta CEO Mark Zuckerberg gave his official verdict on Apple's Vision Pro compared to Meta's Quest 3, s...",
+      "url": "https://www.youtube.com/watch?v=b_-0Y6BoAHs",
+      "urlToImage": "https://i.ytimg.com/vi/b_-0Y6BoAHs/maxresdefault.jpg",
+      "publishedAt": "2024-02-14T19:35:48Z",
+      "content": null
     },
     {
       "source": {
@@ -30,211 +784,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Space.com"
       },
-      "author": "Anna Edgerton",
-      "title": "Jeff Bezos reaps Florida tax benefit with $4 billion Amazon share sale - The Seattle Times",
-      "description": "Leaving Washington state could have saved Bezos $288 million in taxes after he unloaded $4 billion of Amazon.com Inc. stock in the past week.",
-      "url": "https://www.bloomberg.com/news/articles/2024-02-14/jeff-bezos-reaps-florida-tax-benefit-with-4-billion-amazon-sale",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/02/tzr-bezos-021424.jpg?d=1200x630",
-      "publishedAt": "2024-02-14T17:49:35Z",
-      "content": "Jeff Bezos didn’t cite taxes among the reasons for his recent move to Miami from the Seattle region, but the fiscal benefits of his relocation to the Sunshine State are becoming very obvious.\r\nLeavin… [+3703 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Natasha Bertrand, Katie Bo Lillis, Annie Grayer, Kevin Liptak",
-      "title": "House Intel Chairman announces ‘serious national security threat,’ sources say it is related to Russia - CNN",
-      "description": "House Intelligence Committee Chair Mike Turner has made information concerning a “serious national security threat” available to all members of Congress to review, the committee said on Wednesday.",
-      "url": "https://www.cnn.com/2024/02/14/politics/house-intel-chairman-serious-national-security-threat/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/50e9b402-8b7a-4ce5-a77c-6b370fbfa6a3.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-02-14T17:49:00Z",
-      "content": "House Intelligence Committee Chair Mike Turner has made information concerning a serious national security threat available to all members of Congress to review, the committee said on Wednesday.\r\nWhi… [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ben Morse, Jill Martin",
-      "title": "Travis Kelce says push on Chiefs head coach Andy Reid was ‘definitely unacceptable’ - CNN",
-      "description": "Kansas City Chiefs tight end Travis Kelce said on Wednesday that his push of head coach Andy Reid during Super Bowl LVIII was “definitely unacceptable.”",
-      "url": "https://www.cnn.com/2024/02/14/sport/travis-kelce-push-andy-reid-explain-spt-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2003840049.jpeg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-02-14T17:49:00Z",
-      "content": "Kansas City Chiefs tight end Travis Kelce said on Wednesday that his push of head coach Andy Reid during Super Bowl LVIII was definitely unacceptable.\r\nSpeaking on his New Heights podcast alongside h… [+3713 chars]"
+      "author": "Mike Wall",
+      "title": "Watch Russia launch a Valentine's Day Progress supply ship to the ISS tonight with this free livestream - Space.com",
+      "description": "The Progress 87 cargo ship is scheduled to launch tonight (Feb. 14) at 10:25 p.m. ET.",
+      "url": "https://www.space.com/russia-progress-87-cargo-launch-international-space-station",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/znGn5e6QZGW7RFGc7Wsruc-1200-80.jpg",
+      "publishedAt": "2024-02-14T17:51:04Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
     },
     {
       "source": {
         "id": null,
-        "name": "Florida Today"
+        "name": "Thesouthfirst.com"
       },
-      "author": "Rick Neale",
-      "title": "Scrub! SpaceX-NASA Intuitive Machines moon lander launch postponed to Thursday morning - Florida Today",
-      "description": "After stage separation, the Falcon 9 first-stage booster will target landing at Cape Canaveral Space Force Station — triggering sonic booms.",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2024/02/13/spacex-nasa-intuitive-machines-launch-overnight-heres-what-to-know-from-cape-canaveral-florida/72561244007/",
-      "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/02/13/PBRE/72578161007-52342438613-44714-f-0-b-08-o.png?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2024-02-14T17:47:19Z",
-      "content": null
+      "author": "PTI",
+      "title": "Death risk from chikungunya continues for up to three months: Lancet study - South First",
+      "description": "Despite infections going largely unreported, approximately five lakh cases and over 400 deaths were recorded worldwide in 2023.",
+      "url": "https://thesouthfirst.com/pti/death-risk-from-chikungunya-continues-for-up-to-three-months-lancet-study/",
+      "urlToImage": "https://thesouthfirst.com/wp-content/uploads/2023/09/Aedes-aegypti-the-mosquito-species-that-primararily-causes-the-spread-of-dengue.-Creative-Commons.jpg",
+      "publishedAt": "2024-02-14T17:35:26Z",
+      "content": "People infected with the chikungunya virus continue to have an increased risk of death for up to three months post-infection, according to a study published in The Lancet Infectious Diseases journal.… [+2613 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "Livemint"
       },
-      "author": "James Hibberd",
-      "title": "Jon Stewart Draws Liberal Anger for Criticizing Biden: “I’ll Never Forgive You” - Hollywood Reporter",
-      "description": "Some Democrats aren’t happy with ‘The Daily Show’ host’s critique of the president’s age-related issues, and even the White House is weighing in.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/jon-stewart-biden-criticizing-white-house-1235824591/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-14-at-11.07.20-AM-2.png?w=1024",
-      "publishedAt": "2024-02-14T17:33:29Z",
-      "content": "With his very first episode back, Jon Stewart has successfully returned The Daily Show to the cultural conversation — by drawing fire from Democrats. \r\nStewart’s return to Daily Show hosting duties M… [+4635 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Peter Valdes-Dapena",
-      "title": "Waymo recalls software after two self-driving cars hit the same truck - CNN",
-      "description": "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart.",
-      "url": "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-02-14T17:28:00Z",
-      "content": "Waymo, the self-driving car division of Googles parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart.\r\nMinutes ap… [+2855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "😤 MAD DOG ANGRY 😤 'Travis Kelce had 1 catch, THEY SHOWED TAYLOR SWIFT 12 TIMES!' | First Take - ESPN",
-      "description": "On First Take, Chris \"Mad Dog\" Russo is mad about how many cutaways to Taylor Swift there were during Super Bowl LVIII.#espn #nfl #taylorswift #traviskelce #...",
-      "url": "https://www.youtube.com/watch?v=IXp9s_9LytY",
-      "urlToImage": "https://i.ytimg.com/vi/IXp9s_9LytY/maxresdefault.jpg",
-      "publishedAt": "2024-02-14T17:02:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Seth Abramovitch",
-      "title": "L.A.’s Graffiti Tower Sparks Broadside From Rick Caruso As Mayor’s Office Scrambles - Hollywood Reporter",
-      "description": "After 27 floors of the unfinished Oceanwide Plaza were tagged by artists and on display during the Grammys, the town is split on how to proceed as finger-pointing begins.",
-      "url": "http://www.hollywoodreporter.com/news/local-news/l-a-s-graffiti-tower-caruso-bass-1235824655/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/GettyImages-1981900572-H-2024.jpg?w=1024",
-      "publishedAt": "2024-02-14T17:01:27Z",
-      "content": "It’s the 30-story elephant on the Los Angeles skyline — and seemingly no one, including Mayor Karen Bass, has decided what to do about it. The Oceanwide Plaza luxury development has stood next to Cry… [+4523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Tech Bros Are Returning Their Vision Pros and Keeping Receipts - Gizmodo",
-      "description": "“I returned my Apple Vision Pro. Here’s why,” stories have flooded the internet with tragic tales of regret and sore faces.",
-      "url": "https://gizmodo.com/tech-bros-returning-vision-pro-keeping-receipts-1851256024",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/137ad723fbbc37485ec3e52cf7d94fb2.jpg",
-      "publishedAt": "2024-02-14T16:55:00Z",
-      "content": "Thousands of people lined up outside Apple Stores on Feb. 2 to see the Vision Pros stunning debut, but dissatisfied customers are returning their headsets this week. Why? Apples 14-day return period … [+2580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "author": "Mike Florio",
-      "title": "For his OT decision, did Kyle Shanahan chose external criticism over internal scrutiny? - NBC Sports",
-      "description": "Shanahan might have wanted to avoid the wrath of the analytics group.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/for-his-ot-decision-did-kyle-shanahan-chose-external-criticism-over-internal-scrutiny",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/08eff40/2147483647/strip/true/crop/4036x2270+0+210/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F1e%2F8a960d6942ae80175fdf6f98869b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2009172503",
-      "publishedAt": "2024-02-14T16:51:59Z",
-      "content": "When the 49ers won the toss to start overtime, coach Kyle Shanahan had a decision to make.\r\nWould he defer to the pre-baked assessment by the teams analytics staff to take the ball, or would he decid… [+2549 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emilia David",
-      "title": "Samsung's first Galaxy S24 update can make everything a bit brighter - The Verge",
-      "description": "Samsung Galaxy S24 users will be able to adjust the vividness of the display screen and find a much-improved camera in the latest update.",
-      "url": "https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UnzKlc4bcRPc8SML1e-IJvtXauI=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25229533/246963_Samsung_Galaxy_S24_JPorter_0002.jpg",
-      "publishedAt": "2024-02-14T16:33:53Z",
-      "content": "Samsungs first Galaxy S24 update can make everything a bit brighter\r\nSamsungs first Galaxy S24 update can make everything a bit brighter\r\n / Now Galaxy S24 users can choose to make their display scre… [+1450 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": null,
-      "title": "3 officers shot in Washington while attempting to make an animal cruelty arrest - POLITICO",
-      "description": "The officers are expected to survive the wounds and were being treated at area hospitals.",
-      "url": "https://www.politico.com/news/2024/02/14/washington-dc-officers-shot-00141415",
-      "urlToImage": "https://static.politico.com/2d/47/7e46fd674f30be4625b671f473ce/dc-police-officers-shot-93380.jpg",
-      "publishedAt": "2024-02-14T16:33:16Z",
-      "content": "Officers were attempting to make an arrest on an animal cruelty warrant, but the suspect refused to leave the home, police said. As officers tried to get inside, the person opened fire. \r\nThe three o… [+843 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Nick Miroff",
-      "title": "After border bill failure, ICE considers mass releases to close budget gap - The Washington Post",
-      "description": "Immigration and Customs Enforcement is preparing to slash the number of immigrants in detention because it is running a $700 million budget deficit.",
-      "url": "https://www.washingtonpost.com/immigration/2024/02/14/immigration-customs-enforcement-budget-deficit-republicans/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YRIOGSU4N36CVSZFMCWOGBAZNU_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-02-14T16:27:00Z",
-      "content": "U.S. Immigration and Customs Enforcement has drafted plans to release thousands of immigrants and slash its capacity to hold detainees after the failure of a Senate border bill that would have erased… [+6787 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Greenland is getting greener and why it should worry us - Times of India",
-      "description": "Rest of World News: Discover the alarming environmental changes in Greenland, including rapid greening, increased vegetation coverage, and wetland expansion. Learn how climate warming is driving these changes and their profound implications on local and globa…",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/greenlands-alarming-environmental-changes-rapid-greening-vegetation-coverage-and-wetland-expansion/articleshow/107699184.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107699304,width-1070,height-580,imgsize-119258,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T16:20:00Z",
-      "content": "Sadhguru shares the right way to eat ghee"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Chidanand Rajghatta",
-      "title": "American Nightmare: Indian IT pro wipes out family in murder-suicide in second such incident this year - Times of India",
-      "description": "US & Canada News News: In the second episode of its kind this year, an immigrant Indian professional wiped out his family in a murder-suicide incident, raising questions abo",
-      "url": "https://timesofindia.indiatimes.com/nri/us-canada-news/american-nightmare-indian-it-pro-wipes-out-family-in-murder-suicide-in-second-such-incident-this-year/articleshow/107698453.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107700289,width-1070,height-580,imgsize-1064768,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T16:17:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Prabowo Subianto on track to win Indonesia presidential race - early results - BBC.com",
-      "description": "Prabowo Subianto, who is dogged by allegations of rights abuses, appears on course to win the presidency.",
-      "url": "https://www.bbc.com/news/world-asia-68293800",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F79/production/_132652804_gettyimages-2010492103.jpg",
-      "publishedAt": "2024-02-14T16:11:40Z",
-      "content": "By Simon Fraser and Jonathan Headin London and Jakarta\r\nWatch: Prabowo Subianto danced as he claimed victory - unofficial counts put him well over the 50% vote mark\r\nIndonesia's defence minister Prab… [+5148 chars]"
+      "author": "Devesh Kumar",
+      "title": "'Bathing oils are very expensive': Shah Rukh Khan reveals why he needs money at this stage of career | Mint - Mint",
+      "description": "Shah Rukh Khan addressed a range of questions about his enthralling time in the film industry and when the intrigued Richard Quest doubted the actor was working for money, ‘King Khan’ was quick to dismiss his skepticism",
+      "url": "https://www.livemint.com/news/trends/bathing-oils-are-very-expensive-shah-rukh-khan-reveals-why-he-needs-money-at-this-stage-of-career-11707928619036.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/14/1600x900/7_1707929702421_1707929705956.jpg",
+      "publishedAt": "2024-02-14T17:01:36Z",
+      "content": "Bollywood superstar Shah Rukh Khan had a fascinating conversation with journalist Richard Quest at the World Governments Summit 2024 in Dubai. Shah Rukh Khan spoke on various aspects of his career an… [+2937 chars]"
     },
     {
       "source": {
@@ -252,145 +837,28 @@
     {
       "source": {
         "id": null,
-        "name": "NBC Chicago"
-      },
-      "author": "NBC 5 Staff and wire reports",
-      "title": "Uber, Lyft drivers to strike in Chicago, shutting off apps and turning down rides to and from O'Hare - NBC Chicago",
-      "description": "Need a ride to or from O’Hare International Airport Wednesday? You might want to plan ahead — thousands of Uber and Lyft drivers will park their cars and turn off their apps as part of a strike.",
-      "url": "http://www.nbcchicago.com/news/local/uber-lyft-drivers-go-on-strike-in-chicago-shutting-off-apps-and-turning-down-rides-to-and-from-ohare/3355892/",
-      "urlToImage": "https://media.nbcchicago.com/2019/09/GettyImages-1062215080.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2024-02-14T16:10:32Z",
-      "content": "Need a ride to or from O'Hare International Airport Wednesday? You might want to plan ahead, as rideshare drivers from Uber and Lyft are planning to park their cars and turn off their apps as thousan… [+2805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Adam B. Vary",
-      "title": "Marvel’s ‘The Fantastic Four’ Lands Its Cast: Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach - Variety",
-      "description": "The cast for Marvel's \"The Fantastic Four\" has been announced: Pedro Pascal, Vanessa Kirby, Joseph Quinn and Ebon Moss-Bachrach.",
-      "url": "https://variety.com/2024/film/news/fantastic-four-cast-marvel-studios-1235875766/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/01/Fantastic-4-cast.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2024-02-14T16:06:00Z",
-      "content": "Marvel Studios has its “Fantastic Four.”\r\nThe superhero quartet — the first characters created for Marvel Comics by Stan Lee and Jack Kirby — will be played by Pedro Pascal as Reed Richards (aka Mr. … [+3952 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Gaurav Gupta",
-      "title": "Rohit Sharma will captain India in 2024 T20 World Cup, confirms Jay Shah - Times of India",
-      "description": "Cricket News: India will be playing the ICC T20 World Cup in 2024 under the captaincy of Rohit Sharma, as confirmed by BCCI secretary Jay Shah. Get all the latest updates on the tournament.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharma-will-captain-india-in-2024-t20-world-cup-confirms-jay-shah/articleshow/107698973.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107698933,width-1070,height-580,imgsize-115026,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T15:54:00Z",
-      "content": "India vs England: Bumrah, Bazball and spin"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insideprecisionmedicine.com"
-      },
-      "author": "Malorye Branca",
-      "title": "Pregnancy Complications Can Cause Heart Disease in Offspring - Inside Precision Medicine",
-      "description": "Common pregnancy complications are linked to worse future heart health for the child as well as the mother.",
-      "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/pregnancy-complications-can-cause-heart-disease-in-offspring/",
-      "urlToImage": "https://www.insideprecisionmedicine.com/wp-content/uploads/2021/08/Child-Heart-1178346140.jpg",
-      "publishedAt": "2024-02-14T15:49:59Z",
-      "content": "Common cardiovascular-related pregnancy complications may result in worse future heart health for the child as well as the mother, a new study suggests. This large, collaborative study found signs of… [+2933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AL.com"
-      },
-      "author": "Leada Gore | lgore@al.com",
-      "title": "No more 5 day COVID isolation: Major CDC guidelines changing, according to reports - AL.com",
-      "description": "Major changes are in store for the Centers for Disease Control guidance regarding COVID-19 isolation.",
-      "url": "https://www.al.com/news/2024/02/no-more-5-day-covid-isolation-major-cdc-guidelines-changing-according-to-reports.html",
-      "urlToImage": "https://www.al.com/resizer/nbyLExbevCQbO_E9zzatQh9QJ_E=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NVG3GTJBJJC75J6G4ZVYEI2MUY.jpg",
-      "publishedAt": "2024-02-14T15:38:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Francesca Bacardi",
-      "title": "Travis, Jason Kelce call Taylor Swift a 'pro' at chugging beer after viral Super Bowl moment: 'She's done this before' - Page Six",
-      "description": "The NFL players praised the “All Too Well” singer and her friend Ashley Avignone’s impromptu decision to grab their drinks aggressively and finish them.",
-      "url": "https://pagesix.com/2024/02/14/entertainment/travis-jason-kelce-call-taylor-swift-a-pro-at-chugging-beer-after-viral-super-bowl-moment/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/02/76515679.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-02-14T15:35:00Z",
-      "content": "Travis and Jason Kelce were more than impressed seeing Taylor Swift chug a beer during Sunday’s Super Bowl.\r\n“She’s getting after it,” Jason quipped on Wednesday’s episode of the brothers’ “New Heigh… [+2297 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kerry Breen",
-      "title": "Water detected on surface of asteroids for first time, thanks to defunct NASA mission - CBS News",
-      "description": "Scientists studied four asteroids that were rich in silicate, and found molecular water on two of them.",
-      "url": "https://www.cbsnews.com/news/asteroids-water-nasa-german-space-agency-stratospheric-observatory-for-infrared-astronomy/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/07/15b9dfb3-f5ad-4b99-87ec-7f84aa07717b/thumbnail/1200x630/cebf6e9ccbe1857861be423e42c55c4a/hypatia-h-a226e911b56bba6869ee320d0c484cea-h-cb49b247ffb3fa5c0b936497acfded72.jpg?v=b776bbc665e28d385e06ef913c5ff9ae",
-      "publishedAt": "2024-02-14T15:30:52Z",
-      "content": "A NASA mission that was retired in 2022 has helped scientists detect water on the surface of two asteroids. \r\nResearchers from the Southwest Research Institute were able to use data from the retired … [+2313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Israel orders evacuation of largest hospital in southern Gaza - BBC.com",
-      "description": "Doctors and health officials say a number of people there have been killed by Israeli sniper fire in recent days.",
-      "url": "https://www.bbc.com/news/world-middle-east-68293874",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A8B/production/_132651788_mediaitem132650820.jpg",
-      "publishedAt": "2024-02-14T15:26:04Z",
-      "content": "Palestinian journalist Mohammed al-Helo posted a video showing civilians leaving Nasser hospital\r\nPalestinians say Israeli forces have ordered thousands of displaced people to evacuate the largest ho… [+6606 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Livelaw.in"
-      },
-      "author": "LIVELAW NEWS NETWORK",
-      "title": "BREAKING| Supreme Court To Deliver Judgment On Validity Of Electoral Bonds Tomorrow - Live Law - Indian Legal News",
-      "description": "The Supreme Court will pronounce judgment tomorrow on a batch of petitions challenging the constitutional validity of the electoral bonds tomorrow.A Constitution Bench Chief Justice of India DY...",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-to-deliver-judgment-on-validity-of-electoral-bonds-tomorrow-249524",
-      "urlToImage": "https://www.livelaw.in/h-upload/2023/11/02/501487-challenging-electoral-bonds-scheme-must-acknowledge-transparency-in-political-fundings-and-voters-right-to-information.jpg",
-      "publishedAt": "2024-02-14T15:08:17Z",
-      "content": "The Supreme Court will pronounce judgment tomorrow on a batch of petitions challenging the constitutional validity of the electoral bonds tomorrow.\r\nA Constitution Bench Chief Justice of India DY Cha… [+1721 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Shehbaz Sharif set for 2nd term as Pak PM. 10 things to know about PML-N leader - Hindustan Times",
-      "description": "Shehbaz Sharif, 72, was named by his party to head Pakistan despite his elder brother Nawaz Sharif being favourite to be sworn in for a fourth term. | World News",
-      "url": "https://www.hindustantimes.com/world-news/shehbaz-sharif-set-for-2nd-term-as-pakistan-pm-10-things-to-know-about-pml-n-leader-101707920675213.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/PAKISTAN-pm_shehbaz_sharif_profile_1707920832807_1707920833115.jpg",
-      "publishedAt": "2024-02-14T15:00:33Z",
-      "content": "Shehbaz Sharif is set for a second term as Pakistan's prime minister after his elder brother and three-time PM Nawaz Sharif stepped aside from the race for the top job. \r\nPakistan's former Prime Mini… [+3135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Alejandro Mayorkas: House votes to impeach homeland security secretary - BBC.com",
-      "description": "The impeachment push over border policies now moves to the Senate, where it is unlikely to succeed.",
-      "url": "https://www.bbc.com/news/world-us-canada-68286641",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/110C9/production/_132633896_gettyimages-1918145910.jpg",
-      "publishedAt": "2024-02-14T14:58:55Z",
-      "content": "By Bernd Debusmann Jr and Jacqueline HowardBBC News\r\nWatch: Republicans cheer after Mayorkas' impeachment\r\nThe House of Representatives has narrowly voted to impeach Homeland Security Secretary Aleja… [+4642 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -398,25 +866,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "All that NASA is sending to the Moon on Valentine's Day - India Today",
-      "description": "On February 14, a day typically associated with of love and affection, NASA has sent an array of scientific instruments and commercial payloads to the Moon a...",
-      "url": "https://www.youtube.com/watch?v=_xXVVMhp5WM",
-      "urlToImage": "https://i.ytimg.com/vi/_xXVVMhp5WM/maxresdefault.jpg",
-      "publishedAt": "2024-02-14T14:58:24Z",
+      "title": "Is the Exynos Galaxy S24 really that bad? - Android Authority",
+      "description": "The Exynos version of the Galaxy S24 series as bad as people make it seem? Or is it. fairly comparable to the Snapdragon model? Let's put them to the test in...",
+      "url": "https://www.youtube.com/watch?v=pYB2GJ5KfhY",
+      "urlToImage": "https://i.ytimg.com/vi/pYB2GJ5KfhY/maxresdefault.jpg",
+      "publishedAt": "2024-02-14T15:00:46Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Sports Desk",
-      "title": "India likely XI for 3rd Test vs England: Sarfaraz Khan, Dhruv Jurel to debut - Hindustan Times",
-      "description": "With KL Rahul and Shreyas Iyer out, Sarfaraz Khan could be getting his debut Test cap ahead of Devdutt Padikkal | Cricket",
-      "url": "https://www.hindustantimes.com/cricket/india-likely-xi-for-3rd-test-vs-england-sarfaraz-khan-dhruv-jurel-to-debut-toss-up-between-axar-patel-kuldeep-yadav-101707919386854.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/India-England-Cricket-2_1707920836861_1707920892838.jpg",
-      "publishedAt": "2024-02-14T14:33:07Z",
-      "content": "Such are the resources that are at India's disposal that despite the fact that they will be missing three regular players, and possibly more, in the third Test against England, fans could still be ex… [+2167 chars]"
     },
     {
       "source": {
@@ -424,64 +879,12 @@
         "name": "NDTV News"
       },
       "author": null,
-      "title": "PM Modi Inaugurates Abu Dhabi's First Hindu Temple - NDTV",
-      "description": "Marking a significant milestone for the Indian community in the Middle East, Prime Minister Narendra Modi is inaugurating Abu Dhabi's first Hindu temple, which is also the largest in the region.",
-      "url": "https://www.ndtv.com/world-news/pm-set-to-inaugurate-first-hindu-temple-in-abu-dhabi-5056901",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/b7imqef_pm-modi-inaugurates-baps-temple-in-abu-dhabi_625x300_14_February_24.jpg",
-      "publishedAt": "2024-02-14T14:31:08Z",
-      "content": "PM Narendra Modi conducted rituals for the temple's inauguration.\r\nMarking a significant milestone for the Indian community in the Middle East, Prime Minister Narendra Modi has inaugurated Abu Dhabi'… [+4767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Ashley Capoot",
-      "title": "Here's what Meta CEO Mark Zuckerberg has to say about the Apple Vision Pro - CNBC",
-      "description": "Meta CEO Mark Zuckerberg shared his opinions on Apple's new Vision Pro headset.",
-      "url": "https://www.cnbc.com/2024/02/14/mark-zuckerberg-comments-on-apples-vision-pro-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107121537-1663699194580-gettyimages-612997102-OCULUS_CONNECT.jpeg?v=1707916489&w=1920&h=1080",
-      "publishedAt": "2024-02-14T14:29:17Z",
-      "content": "Meta CEO Mark Zuckerberg shared his opinion of Apple's new mixed-reality headset, the Vision Pro, in a video posted to Instagram where he called Meta's Quest 3 headset \"the better value\" and \"the bet… [+2281 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "By <a href=\"/profiles/elise-hammond\">Elise Hammond</a> and <a href=\"/profiles/tori-powell\">Tori B. Powell</a>, CNN",
-      "title": "Live updates: New York holds special election to replace George Santos - CNN",
-      "description": "Democrat Tom Suozzi will win the special election in New York to succeed disgraced former Republican Rep. George Santos, CNN projects, shrinking the House GOP's narrow majority. Follow here for live news updates, results and analysis.",
-      "url": "https://www.cnn.com/politics/live-news/ny-special-election-santos-02-13-24/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240213224502-dle-tom-suozzi-021324-super-tease.jpg",
-      "publishedAt": "2024-02-14T14:28:00Z",
-      "content": "As Democrats celebrate and Republicans dust themselves off, here are some key takeaways:\r\nImmigration is a big issue but is it a game-changer? Mazi Pilip and her fellow Republicans hammered Democrat … [+1769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Google's already promoting Gemini more prominently across Android - Android Police",
-      "description": "Plus improved phrasing to clarify what's absent on the chatbot",
-      "url": "https://www.androidpolice.com/google-gemini-assistant-promotion-android-opt-in-popup/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-2.jpg",
-      "publishedAt": "2024-02-14T14:27:00Z",
-      "content": "Summary\r\n<ul><li> Gemini, the AI chatbot by Google, now has an opt-in message for Android users when triggering Google Assistant. </li><li> Google is working on bringing missing features, like remind… [+2769 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Taijuan Moorman",
-      "title": "Matt Damon talks Ben Affleck Dunkin' Super Bowl commercial - USA TODAY",
-      "description": "Matt Damon says his line at the end of Dunkin's Super Bowl commercial with Ben Affleck and Tom Brady wasn't in the script: \"He just left it in.\"",
-      "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/02/14/matt-damon-ben-affleck-dunkin-donuts-super-bowl-commercial/72594594007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/01/USAT/72438320007-gty-1976499432.jpg?crop=3999,2250,x0,y208&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-02-14T14:08:36Z",
-      "content": "Matt Damon is sharing some behind-the-scenes details on his Dunkin' Super Bowl commercial spot with best friend Ben Affleck.\r\nThe commercial, in which the pair joined football legend Tom Brady for th… [+2196 chars]"
+      "title": "BJP's \"Looming Defeat\" Swipe On Sonia Gandhi Opting For Rajya Sabha - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-02-14T14:40:42Z",
+      "content": null
     },
     {
       "source": {
@@ -499,327 +902,15 @@
     {
       "source": {
         "id": null,
-        "name": "PINKVILLA"
+        "name": "Deccan Herald"
       },
-      "author": "Himesh Mankad",
-      "title": "EXCLUSIVE: Ranveer Singh to start Don 3 in August; Schedules Shaktimaan from May 2025 - PINKVILLA",
-      "description": "Ranveer Singh Will Have Singham Again Up For Release In 2024, Followed By The Farhan Akthar Directed Don 3 In 2025 And Finally, The Basil Joseph Directed Shaktimaan In 2026. Detailed Report",
-      "url": "https://www.pinkvilla.com/entertainment/exclusives/exclusive-ranveer-singh-to-start-don-3-in-august-schedules-shaktimaan-from-may-2025-1278711",
-      "urlToImage": "https://www.pinkvilla.com/images/2024-02/327946417_ranveer-singh-line-up.jpg",
-      "publishedAt": "2024-02-14T13:52:43Z",
-      "content": "It has been 14 years since Ranveer Singh made his acting debut and today he is considered to be one of the most versatile actors of Hindi Cinema. In the first decade of his career, he switches genres… [+2275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Did You Know ‘Skull And Bones’ Comes Out In Two Days? - Forbes",
-      "description": "Skull and Bones is out just a week after its beta, two days from now, and it's entirely understandable if you didn't know that.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/02/14/did-you-know-skull-and-bones-comes-out-in-two-days/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ccc499ea0a99d511383435/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-02-14T13:52:37Z",
-      "content": "Skull and Bones\r\nUbisoft\r\nWhile I knew that Skull and Bones just wrapped up a beta this past weekend to show off its pirate ship ambitions, I am wondering how many people understood just how close th… [+2837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Madame Web: Critics savage Dakota Johnson's Spider-Man spin-off - BBC.com",
-      "description": "The trailer went viral for how awful it was, and the film has not fared much better with critics.",
-      "url": "https://www.bbc.com/news/entertainment-arts-68292731",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7BD9/production/_132650713_24631509-6423-4dff-acaa-688890b7caf9.jpg",
-      "publishedAt": "2024-02-14T13:43:04Z",
-      "content": "Dakota Johnson is best known for her role in Fifty Shades of Grey\r\nMadame Web, the fourth film in Sony's Spider-Man Universe, has been branded a \"tangled mess\" by critics, who have largely savaged it… [+3010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rita Nazareth",
-      "title": "Stock Futures Reclaim Solid Ground After CPI Miss: Markets Wrap - Yahoo Finance",
-      "description": "(Bloomberg) -- Wall Street traders reeling from an unexpected pickup in US inflation sent stocks and bonds higher on Wednesday.Most Read from BloombergThe...",
-      "url": "https://finance.yahoo.com/news/asia-stocks-us-rout-inflation-224301759.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sIoXONUEGTglQh9CTT5QVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://media.zenfs.com/en/bloomberg_markets_842/dfa6f2b0c8fcfe4b873a4c0a7ea1a7c6",
-      "publishedAt": "2024-02-14T13:28:41Z",
-      "content": "(Bloomberg) -- Wall Street traders reeling from an unexpected pickup in US inflation sent stocks and bonds higher on Wednesday.\r\nMost Read from Bloomberg\r\nComing soon: Sign up for Hong Kong Edition t… [+6718 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Amit Rahi",
-      "title": "Best gaming tablets with high refresh rate display: Top 10 options to consider | Mint - Mint",
-      "description": "Discover the top gaming tablets with powerful processors to stunning displays. Find the perfect tablet to elevate your gaming experience to new heights.",
-      "url": "https://www.livemint.com/technology/gadgets/best-gaming-tablets-with-high-refresh-rate-display-top-10-options-to-consider-11707907286746.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/14/1600x900/jovan-vasiljevic-i_rJVahG5kY-unsplash_1707907573354_1707907625083.jpg",
-      "publishedAt": "2024-02-14T13:26:09Z",
-      "content": "In recent years, gaming tablets have become increasingly popular, thanks to their portability and powerful performance. Whether you're a casual gamer looking to pass the time or a serious gamer seeki… [+15993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "NFL Power Rankings: With Chiefs dynasty cemented, history next goal for Patrick Mahomes and Andy Reid - CBS Sports",
-      "description": "In his final Power Rankings, Pete Prisco says the Chiefs won't be resting on their laurels",
-      "url": "https://www.cbssports.com/nfl/news/nfl-power-rankings-with-chiefs-dynasty-cemented-history-next-goal-for-patrick-mahomes-and-andy-reid/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/14/0ab8348f-a2ff-4b9d-a2fd-b0689d9ba7d2/thumbnail/1200x675/9da5e926ca8dfebaa842edeb0a90b276/mahomes-jpeg.jpg",
-      "publishedAt": "2024-02-14T13:25:07Z",
-      "content": "Dynasty? Check.\r\nAll-time great quarterback on his way to being the best? Check.\r\nAll-time great head coach? Check.\r\nBack-to-back Super Bowl victories? Check.\r\nSo what's next for the Kansas City Chie… [+10389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "‘Helldivers 2’ Patch Notes: Crash Fixes, Better Matchmaking, Less Disconnection - Forbes",
-      "description": "Helldivers 2 just released patch 0.1.000.006 and it fixes a lot of the crashes and disconnection problems that players have experienced so far.",
-      "url": "https://www.forbes.com/sites/paultassi/2024/02/14/helldivers-2-patch-notes-crash-fixes-better-matchmaking-less-disconnection/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ccbdb02f0bc22ba2ac5165/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-02-14T13:23:06Z",
-      "content": "Helldivers 2\r\nArrowhead\r\nWhile everyone may be enjoying themselves in Helldivers 2, which recently just crossed an eye-popping 200,000 concurrent players on Steam, there are certainly sometechnical c… [+2717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "CNBCTV18.COM",
-      "title": "Chikungunya infection poses death risk for up to 3 months: Lancet study - CNBCTV18",
-      "description": "Chikungunya is a viral disease transmitted by Aedes aegypti and Aedes albopictus mosquitoes, more commonly known as yellow fever and tiger mosquitoes, to humans.",
-      "url": "https://www.cnbctv18.com/webstories/healthcare/chikungunya-infection-poses-death-risk-for-up-to-3-months-lancet-study-18371.htm",
-      "urlToImage": "https://images.news18.com/webstories/2024/02/chikungunya-1.jpg",
-      "publishedAt": "2024-02-14T13:13:13Z",
-      "content": "Researchers highlighted that Aedes-borne diseases, including chikungunya, are expected to rise in occurrence and spread due to climate change, urbanisation, and increased human mobility, posing a gro… [+28 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Google joins a mission to map global methane emissions from space - The Verge",
-      "description": "Google announced a partnership with the Environmental Defense Fund to map methane emissions and oil and gas infrastructure from space.",
-      "url": "https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3kA4gcWNxbMGxN6FzZmJZOQu3as=/0x0:1200x675/1200x628/filters:focal(600x338:601x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/25284647/MethaneSAT_Pentagram_colors_high_res.jpg",
-      "publishedAt": "2024-02-14T13:00:00Z",
-      "content": "Google joins a mission to map global methane emissions from space\r\nGoogle joins a mission to map global methane emissions from space\r\n / Google is joining a big initiative to track methane emissions … [+5205 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Supermassive Black Hole In Milky Way Spinning Rapidly, Taking Shape Of Rugby Ball, Says NASA - NDTV",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2024-02-14T12:58:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "CBSE advisory for Class 10, 12 board exams, points to farmers' protest - Hindustan Times",
-      "description": "The CBSE has advised Delhi-NCR students to use metro services to reach exam centres on time. | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/cbse-issues-advisory-for-class-10th-12th-board-exams-points-to-farmers-protest-101707913904085.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/cbse_10_12_students_advisory_farmers_protest_1707915034919_1707915040388.jpg",
-      "publishedAt": "2024-02-14T12:53:05Z",
-      "content": "The Central Board of Secondary Education (CBSE) on Wednesday issued an advisory ahead of class 10th and 12th board examinations, scheduled to begin on February 15. With exams commencing at 10.30am, t… [+2395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Entertainment Desk",
-      "title": "Aditya Narayan breaks silence on his concert where he threw away fan's phone - Hindustan Times",
-      "description": "Aditya Narayan recently performed at Rungta R2 College in Bhilai, where he was seen throwing away someone's phone. Here's what he said about it. | Bollywood",
-      "url": "https://www.hindustantimes.com/entertainment/bollywood/aditya-narayan-on-his-viral-concert-video-where-he-threw-away-fan-phone-101707912461075.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/a0e26046-c0ae-11ec-96fe-8f3150f6bc16_1650461721800_1707914506519.jpg",
-      "publishedAt": "2024-02-14T12:50:27Z",
-      "content": "Singer and television host Aditya Narayan reacted to the controversy around his recent concert, where he was seen throwing away a person's phone. It happened at Rungta R2 College in Bhilai, Chhattisg… [+2401 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Adrian Wojnarowski, Ramona Shelburne",
-      "title": "Sources: Warriors made bid for LeBron James at trade deadline - ESPN",
-      "description": "Over a clandestine 24-hour window prior to the trade deadline Thursday, the Warriors made an unsuccessful bid to convince the Lakers and LeBron James to consider a trade to pair him with longtime rival Stephen Curry, sources told ESPN.",
-      "url": "https://www.espn.com/nba/story/_/id/39523705/sources-warriors-made-bid-lebron-james-trade-deadline",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0202%2Fr1285966_1296x729_16%2D9.jpg",
-      "publishedAt": "2024-02-14T12:50:00Z",
-      "content": "Feb 14, 2024, 07:50 AM ET\r\nOver a clandestine 24-hour window prior to the trade deadline Thursday that included owner-to-owner conversations, the Golden State Warriors made an unsuccessful bid to con… [+4355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Times of Israel"
-      },
-      "author": "The Times of Israel",
-      "title": "UK Labour suspends 2nd parliamentary candidate in 24 hours over anti-Israel rhetoric - The Times of Israel",
-      "description": null,
-      "url": "https://www.timesofisrael.com/uk-labour-suspends-2nd-parliamentary-candidate-in-24-hours-over-anti-israel-rhetoric/",
-      "urlToImage": null,
-      "publishedAt": "2024-02-14T12:46:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Israel launches \"series of strikes in Lebanon\" as tension with Iran-backed Hezbollah soars - CBS News",
-      "description": "Fears of a parallel war between Israel and Lebanon's Iran-backed Hezbollah group have soared since the Israel-Hamas conflict started.",
-      "url": "https://www.cbsnews.com/news/israel-hezbollah-lebanon-airstrikes-hamas-war-tension-middle-east/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/14/377c0b76-0e84-4ed9-bf4d-11fa69e72394/thumbnail/1200x630/d3d07a6d7d7f5d9a25a94515546604a6/israel-lebanon-2001737441.jpg?v=b776bbc665e28d385e06ef913c5ff9ae",
-      "publishedAt": "2024-02-14T12:43:00Z",
-      "content": "Jerusalem — The Israeli military said Wednesday its fighter jets \"began a series of strikes in Lebanon,\" raising fears of a war between the two countries after months of cross-border fire and increas… [+2672 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Shah Rukh Khan feels he is too short to play James Bond; says 'But I am brown enough to play the Bond bad - TOI Etimes",
-      "description": "Shah Rukh Khan charmed guests at the World Government Summit 2024 with his trademark wit, teasing about his potential role as the villain in a James Bond movie. Discover why the Bollywood superstar believes he is too short to play James Bond, but brown enough…",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-feels-he-is-too-short-to-play-james-bond-says-but-i-am-brown-enough-to-play-the-bond-baddie/articleshow/107694689.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107694689,width-1070,height-580,imgsize-20982,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T12:35:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Farmers Protest LIVE: Farm bodies get call from Centre, virtual meet at 6pm - Hindustan Times",
-      "description": "Farmers Protest LIVE Updates: Delhi is under a heavy security cover with personnel in anti-riot gears & concrete barricades regulating access to several roads.",
-      "url": "https://www.hindustantimes.com/india-news/farmers-protest-live-delhi-chalo-march-punjab-haryana-up-noida-kisan-andolan-today-14-february-2024-101707869200205.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/550x309/farmers_protest_1707913404819_1707913405071.JPG",
-      "publishedAt": "2024-02-14T12:24:28Z",
-      "content": "Farmers Protest LIVE Updates: Protesting farmers of various unions on Wednesday started marching towards the national capital. The Delhi Police deployed at the borders are as of now guarding the bord… [+25484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "Fueling issue delays Intuitive Machines lunar lander launch - SpaceNews",
-      "description": "SpaceX postponed the launch of an Intuitive Machines lunar lander by a day after encountering a problem fueling the spacecraft on the launch pad.",
-      "url": "https://spacenews.com/fueling-issue-delays-intuitive-machines-lunar-lander-launch/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2023/10/im1-oct23.jpg",
-      "publishedAt": "2024-02-14T12:11:34Z",
-      "content": "TITUSVILLE, Fla. SpaceX postponed the launch of an Intuitive Machines lunar lander by a day after encountering a problem fueling the spacecraft on the launch pad.\r\nSpaceX announced about 90 minutes b… [+2967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Dhanya Nagasundaram",
-      "title": "Vibhor Steel Tubes IPO receives phenomenal response on the second day, subscribed 101.42 times; GMP drops | Mint - Mint",
-      "description": "Vibhor Steel Tubes IPO subscribed 101.42 times on day 2; retail portion subscribed 90.28 times, NII portion subscribed 252.20 times, QIB portion subscribed 8.52 times, and employee portion subscribed 78.93 times.",
-      "url": "https://www.livemint.com/market/ipo/vibhor-steel-tubes-ipo-receives-phenomenal-response-on-the-second-day-subscribed-101-42-times-gmp-drops-11707909220013.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/14/1600x900/Vibhor_Steel_Tubes_IPO_GMP_review_Subscription_1707794582040_1707909970905.JPG",
-      "publishedAt": "2024-02-14T12:08:49Z",
-      "content": "Vibhor Steel Tubes IPO subscription status: Vibhor Steel Tubes IPO received blockbuster response from non institutional investors (NIIs) and retail investors on the second day of subscription. Vibhor… [+5084 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "ILLIA NOVIKOV",
-      "title": "Ukrainian military says it sank a Russian landing ship in the Black Sea - The Associated Press",
-      "description": "Ukraine’s military says it sank a Russian landing ship in the Black Sea using naval drones, a report that has not been confirmed by Russian forces. Ukraine’s General Staff says the Caesar Kunikov large landing ship sank near Alupka, a city on the Crimean Peni…",
-      "url": "https://apnews.com/article/russia-ukraine-war-ship-drones-black-sea-8d2a78ab1f1b2a9b04ec8c421782417d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/88536bc/2147483647/strip/true/crop/2400x1350+0+87/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Fb5%2F64a272017049e22d3374847991fa%2F153bb25192784af3a8bf44bb6d626026",
-      "publishedAt": "2024-02-14T12:00:00Z",
-      "content": "KYIV, Ukraine (AP) Ukraines military said Wednesday it used naval drones to sink a Russian landing ship in the Black Sea, a report that has not been confirmed by Russian authorities.\r\nThe Caesar Kuni… [+3547 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Turkey rescuers battle to save workers trapped in landslide-hit gold mine - Al Jazeera English",
-      "description": "Disaster highlights country’s poor safety record, as previous calls to shut down Copler mine went unheeded.",
-      "url": "https://www.aljazeera.com/news/2024/2/14/turkey-rescuers-battle-to-save-workers-trapped-in-landslide-hit-gold-mine",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/GettyImages-2009775754-1707905608.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-02-14T11:57:58Z",
-      "content": "Turkey is under pressure to shut down a gold mine buried by a massive landslide, as hundreds of rescuers battle to save at least nine trapped workers.\r\nThe Union of Chambers of Turkish Engineers and … [+3244 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chethan Rao",
-      "title": "Xiaomi's next big camera phone spotted in leaked renders - Android Police",
-      "description": "The Xiaomi 14 Ultra will break cover at MWC this month",
-      "url": "https://www.androidpolice.com/xiaomi-14-ultra-leaked-renders/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/xiaomi-13-ultra_2.jpeg",
-      "publishedAt": "2024-02-14T11:54:00Z",
-      "content": "Summary\r\n<ul><li> Xiaomi's upcoming high-end flagship cameraphone, the Xiaomi 14 Ultra, is set to debut at MWC 2024. </li><li> Newly leaked press renders of the Xiaomi 14 Ultra reveal a familiar desi… [+2749 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thewire.in"
-      },
-      "author": null,
-      "title": "Sonia Gandhi Moves to Rajya Sabha as Congress Names 10 Candidates for Upper House Polls - The Wire",
-      "description": "Gandhi has become the second member of the Nehru-Gandhi family to move to the Upper House following her mother-in-law and former prime minister Indira Gandhi, who was an RS member from 1964 to 1967.",
-      "url": "https://thewire.in/politics/sonia-gandhi-moves-to-rajya-sabha-as-congress-names-8-candidates-for-upper-house-polls",
-      "urlToImage": "https://cdn.thewire.in/wp-content/uploads/2023/09/20202024/Screenshot-2023-09-20-at-8.19.40-PM-800x400.png",
-      "publishedAt": "2024-02-14T11:50:31Z",
-      "content": "New Delhi: Former Congress president Sonia Gandhi will move to the Rajya Sabha. The grand old party today (February 14) released its list of candidates for the upcoming elections to the Upper House.\r… [+3246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Firstpost"
-      },
-      "author": "FP Staff",
-      "title": "Clever AI: ChatGPT will now remember everything you’ve told it, OpenAI unveils new memory feature - Firstpost",
-      "description": "OpenAI is introducing a new memory feature that will allow the AI bot to remember and recall facts and other pieces of information from older chats that users had with the the AI Chatbot",
-      "url": "https://www.firstpost.com/tech/clever-ai-chatgpt-will-now-remember-everything-youve-told-it-openai-unveils-new-memory-feature-13727582.html",
-      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2024/02/Clever-AI-ChatGPT-will-now-remember-everything-youve-told-it-OpenAI-unveils-new-memory-feaure.jpg",
-      "publishedAt": "2024-02-14T11:43:04Z",
-      "content": "ChatGPT is set to transform digital interactions with its latest innovation the introduction of a new memory feature. This feature is designed to elevate conversations by enabling ChatGPT to remember… [+2601 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KVUE.com"
-      },
-      "author": "Jeff Bell",
-      "title": "Car crashes into St. David's North Austin; several people injured - KVUE.com",
-      "description": "There are no indications that the crash was an intentional act, officials said.",
-      "url": "https://www.kvue.com/article/news/local/st-davids-north-austin-medical-center-crash/269-dafba3a4-4f42-4476-ac0e-552ff4488ebf",
-      "urlToImage": "https://media.kvue.com/assets/KVUE/images/100ec6a4-4997-4bfb-894c-e6464a7e4cce/100ec6a4-4997-4bfb-894c-e6464a7e4cce_1140x641.jpg",
-      "publishedAt": "2024-02-14T11:21:06Z",
-      "content": "AUSTIN, Texas St. David's North Austin Medical Center has reopened Wednesday morning after a vehicle drove into the emergency room at approximately 5:38 p.m. Tuesday evening. \r\nOne person has been de… [+3207 chars]"
+      "author": "LAKSHMI M.S",
+      "title": "What Does Cardarine Do - Cardarine GW 50156 - Cardarine SARM - Deccan Herald",
+      "description": "Discover what Cardarine GW 50156 does, its benefits, and potential side effects. Learn more about this SARM and its impact on fitness and performance",
+      "url": "https://www.deccanherald.com/brandspot/featured/what-does-cardarine-do-cardarine-gw-50156-cardarine-sarm-2894462",
+      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-02%2F2f156d04-8ca3-46a0-9f81-41601208880e%2FPict_332.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2024-02-14T13:06:04Z",
+      "content": "Cardarine GW-501516 is a type of drug that affects how your body uses hormones. It was made to help people who lose muscle because of some illnesses. Many people who want to build muscle and be stron… [+16978 chars]"
     },
     {
       "source": {
@@ -837,84 +928,6 @@
     {
       "source": {
         "id": null,
-        "name": "WION"
-      },
-      "author": null,
-      "title": "XPoSat begins space observations, ISRO releases data from first find - WION",
-      "description": "Indian Space Research Organisation (ISRO) on Tuesday (February 13) announced that the X-ray Polarimeter (POLIX) onboard its XPoSat satellite has begun making observations and collecting data. The XPoSat was launched on January 1, 2024. The satellite is India …",
-      "url": "https://www.wionews.com/science/xposat-begins-space-observations-isro-releases-data-from-first-find-690224",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/10/31/390127-crab-nebula.png",
-      "publishedAt": "2024-02-14T11:01:25Z",
-      "content": "Indian Space Research Organisation (ISRO) on Tuesday (February 13) announced that the X-ray Polarimeter (POLIX) onboard its XPoSat satellite has begun making observations and collecting data. The XPo… [+1935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "SpaceX launching national security mission for US Space Force today - Space.com",
-      "description": "Liftoff of the USSF-124 mission is scheduled for 5:30 p.m. ET today (Feb. 14).",
-      "url": "https://www.space.com/spacex-space-force-ussf-124-mission-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vvPodfQJzesgjYF2jTBPoC-1200-80.jpg",
-      "publishedAt": "2024-02-14T11:00:40Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Israel Gaza: UN warns of 'slaughter' if Israel launches ground assault on Rafah - BBC.com",
-      "description": "Its aid chief says more than a million people in the Gazan city are staring \"death in the face\".",
-      "url": "https://www.bbc.com/news/world-middle-east-68287513",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C40/production/_132640953_rafah-index-afp.jpg",
-      "publishedAt": "2024-02-14T10:53:44Z",
-      "content": "By Ido Vock &amp; Jacqueline HowardBBC News\r\nRafah's population has swelled from 250,000 to 1.5 million as Palestinians have fled to Gaza's southernmost city (picture date: 10 February)\r\nA top UN off… [+3155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "123telugu.com"
-      },
-      "author": null,
-      "title": "Shah Rukh Khan’s Dunki releasing on this OTT platform on February 16? - 123telugu",
-      "description": "A few hours back, Netflix dropped a new video featuring Bollywood Baadshah Shah Rukh Khan. In this video, SRK said, \"Today, on February 14, I, your eternal",
-      "url": "https://www.123telugu.com/mnews/shah-rukh-khans-dunki-releasing-on-this-ott-platform-on-february-16.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2024-02-14T10:37:50Z",
-      "content": "A few hours back, Netflix dropped a new video featuring Bollywood Baadshah Shah Rukh Khan. In this video, SRK said, “Today, on February 14, I, your eternal valentine, am here to tell you that somethi… [+763 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Leah Sarnoff",
-      "title": "Oregon resident catches rare bubonic plague, likely from their cat: Health officials - ABC News",
-      "description": "Deschutes County Health Services in Oregon confirmed the case of human plague.",
-      "url": "https://abcnews.go.com/Health/pet-owner-bubonic-plague-cat-oregon/story?id=107193625",
-      "urlToImage": "https://i.abcnewsfe.com/a/b3a70bb8-c830-4f25-aeb9-3524c50be3de/cat-bubonic-abc-3-thg-240213_1707850871994_hpMain_16x9.JPG?w=1600",
-      "publishedAt": "2024-02-14T10:23:50Z",
-      "content": "A pet owner has caught a rare case of the bubonic plague, health officials in central Oregon say, and it's believed they may have caught it from their cat.\r\nThe Deschutes County Health Services confi… [+2730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "NASA solar sail tech is ready – now who's up to use it in a mission? - The Register",
-      "description": "Ready for cruising: successful deployment leaves the ball in the scientists' court",
-      "url": "https://www.theregister.com/2024/02/14/nasa_solar_sail_is_ready/",
-      "urlToImage": "https://regmedia.co.uk/2023/05/04/shutterstock_sun.jpg",
-      "publishedAt": "2024-02-14T10:21:00Z",
-      "content": "NASA says its latest take on solar sail technology is ready for proposals for it to be flown on science missions.\r\nThe announcement comes after a quarter of the sail was unfurled, demonstrating that … [+3246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Xm.com"
       },
       "author": null,
@@ -927,42 +940,29 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI News Desk",
-      "title": "West Bengal BJP chief Sukanta Majumdar injured amid Sandeshkhali protest, hospitalised - Times of India",
-      "description": "India News: Women in Sandeshkhali protested against TMC leader Shajahan Sheikh and his alleged atrocities. They demanded the arrest of Sheikh for an alleged land",
-      "url": "https://timesofindia.indiatimes.com/india/west-bengal-bjp-chief-sukanta-majumdar-injured-amid-sandeshkhali-protest-hospitalised/articleshow/107688677.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107688728,width-1070,height-580,imgsize-858933,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T09:44:00Z",
-      "content": "'Mamata Bandyopadhyay known for genocide of Hindus,' Smriti Irani slams TMC for Sandeshkhali violence"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "ESPN India"
+        "name": "The Times of Israel"
       },
-      "author": "ESPN staff",
-      "title": "Indian Sports LIVE, February 14: India women beat China, men beat Hong Kong at BATC; Sindhu back to winning ways - ESPN India",
-      "description": "Follow ESPN India's live blog to stay updated on all that's happening in Indian sport on February 14, Wednesday.",
-      "url": "https://www.espn.in/espn/story/_/id/39517988/indian-sports-live-news-updates-scores-results-commentary-wednesday-february-14-2024",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1021%2Fr1241351_1296x729_16%2D9.jpg",
-      "publishedAt": "2024-02-14T09:32:56Z",
-      "content": "Here at the ESPN daily blog, we bring you all the news from the dynamic world of Indian sports: a one-stop shop for everything to do with the wide variety of Olympic sports and franchise leagues.\r\nFe… [+5447 chars]"
+      "author": "The Times of Israel",
+      "title": "‘Hamas is Hitler’s successor’: Hostages’ families head to The Hague to file complaint - The Times of Israel",
+      "description": null,
+      "url": "https://www.timesofisrael.com/hamas-is-hitlers-successor-hostages-families-head-to-the-hague-to-file-complaint/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-14T09:10:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "iStock",
-      "title": "SBI, Bosch among 5 large & midcap stocks that hit new 52-week highs on Wednesday - On a high - The Economic Times",
-      "description": "Indian shares declined on Wednesday, led by IT and financials, after hotter-than-expected US inflation fuelled concerns of further delay in interest rate cuts, weighing on sentiment. However, in today's trade, five large & midcap stocks from the Nifty200 inde…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-bosch-among-5-large-amp-midcap-stocks-that-hit-new-52-week-highs-on-wednesday/on-a-high/slideshow/107687152.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-107687152,width-1070,height-580,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-02-14T08:58:12Z",
-      "content": "Feb 14, 2024, 02:23:08 PM IST\r\nIndian shares declined on Wednesday, led by IT and financials, after hotter-than-expected US inflation fuelled concerns of further delay in interest rate cuts, weighing… [+511 chars]"
+      "author": "TOI Tech Desk",
+      "title": "Asus launches Zephyrus G16 laptops, refreshed Strix Scar series and ROG G22 gaming desktop in India: Pric - Times of India",
+      "description": "Check out the latest Asus launches in India including Zephyrus G16 laptops, refreshed Strix Scar series, and ROG G22 gaming desktop. Get the price, specs, and more information here.",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/asus-launches-zephyrus-g16-laptops-refreshed-strix-scar-series-and-rog-g22-gaming-desktop-in-india-price-specs-and-more/articleshow/107687424.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107687550,width-1070,height-580,imgsize-44658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-14T09:08:00Z",
+      "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
     },
     {
       "source": {
@@ -980,145 +980,106 @@
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "The Indian Express"
       },
-      "author": "HT News Desk",
-      "title": "ED initiates probe against Paytm Payments Bank: Report - Hindustan Times",
-      "description": "The ED's move is a fresh setback to the Payments Payments Back, especially after the RBI ruled out any review of its clampdown against the entity.",
-      "url": "https://www.hindustantimes.com/business/paytm-payments-bank-crisis-enforcement-directorate-ed-investigation-vijay-shekhar-sharma-101707898992022.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/14/1600x900/vijay_shekhar_sharma_1707899287494_1707899287695.jpg",
-      "publishedAt": "2024-02-14T08:41:57Z",
-      "content": "The Enforcement Directorate on Wednesday initiated preliminary inquiry against Paytm Payments Bank, Reuters quoted a CNBC TV 18 report on Wednesday. The action comes days after the Reserve Bank of In… [+2249 chars]"
+      "author": "Express News Service",
+      "title": "XPoSat gives a peak into first light, ready to study pulsars and black holes: ISRO - The Indian Express",
+      "description": "XPoSat, launched by ISRO on January 1, has been operating in low earth orbit at an approximate altitude of 650 km.",
+      "url": "https://indianexpress.com/article/cities/bangalore/xposat-first-light-study-pulsars-black-holes-isro-9160755/",
+      "urlToImage": "https://images.indianexpress.com/2024/02/xposat.jpg",
+      "publishedAt": "2024-02-14T06:50:15Z",
+      "content": "The Indian Space Research Organisation (ISRO) has confirmed the healthy functioning of its two payloads onboard X-ray Polarimetry Satellite (XPoSat). With this, the Indian scientists can now gear up … [+2496 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mumbailive.com"
+        "name": "Windows Central"
       },
-      "author": null,
-      "title": "Childhood Epilepsy: Comprehensive Guide For Parents On Diagnosing & Treating - Mumbai Live",
-      "description": "Childhood epilepsy can be a daunting and overwhelming diagnosis for parents as it comes with a range of complexities and uncertainties Understanding the different types of childhood epilepsy is crucial in providing the best possible care for your child While …",
-      "url": "https://www.mumbailive.com/en/lifestyle/comprehensive-guide-for-parents-on-diagnosing-and-treating-childhood-epilepsy-82927",
-      "urlToImage": "https://www.mumbailive.com/images/media/images/epilepsy_1707719304620.jpg?bg=dfe2e2&crop=800%2C450%2C0%2C0&fit=fill&fitToScale=h%2C1368%2C768&fm=webp&h=606.3157894736842&height=450&w=1080&width=800",
-      "publishedAt": "2024-02-14T08:30:00Z",
-      "content": "Childhood epilepsy can be a daunting and overwhelming diagnosis for parents, as it comes with a range of complexities and uncertainties. Understanding the different types of childhood epilepsy is cru… [+4133 chars]"
+      "author": "Harish Jonnalagadda",
+      "title": "NVIDIA Chat with RTX hands-on: This local AI chatbot already shows plenty of promise - Windows Central",
+      "description": "NVIDIA's AI chatbot runs locally on your PC, and it works with the data you provide.",
+      "url": "https://www.windowscentral.com/software-apps/nvidia-chat-with-rtx-hands-on",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ftCHAHqrRX9qfLUwrx3fUW-1200-80.jpg",
+      "publishedAt": "2024-02-14T05:58:17Z",
+      "content": "NVIDIA does a lot of interesting things around AI, but its consumer-facing business is still predominantly focused on gaming. It's now aiming to bring both categories together with the introduction o… [+3369 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "Swarajya"
       },
-      "author": "India Today Trending Desk",
-      "title": "Former Dutch Prime Minister and wife die hand in hand via duo euthanasia - India Today",
-      "description": "Former Dutch Prime Minister Dries van Agt and his wife Eugenie went through duo euthanasia at the age of 93",
-      "url": "https://www.indiatoday.in/trending-news/story/former-dutch-pm-and-wife-pass-away-holding-hands-after-legal-euthanasia-2501995-2024-02-14",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/euthanasia-142248684-16x9_0.jpg?VersionId=3zC30BcqO2QHvKJsFvKLo3U9J8gKWF3A",
-      "publishedAt": "2024-02-14T08:29:54Z",
-      "content": "Dries van Agt, a prominent figure in Dutch politics and the former Prime Minister, and his wife Eugenie, chose to end their lives through the practice of duo euthanasia. The couple passed away in the… [+1736 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deccan Herald"
-      },
-      "author": "Mrityunjay Bose",
-      "title": "No question of merger with Congress: Sharad Pawar-led NCP group - Deccan Herald",
-      "description": null,
-      "url": "https://www.deccanherald.com/india/maharashtra/no-question-of-merger-with-congress-sharad-pawar-led-ncp-group-2-2893975",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-02%2F10b85845-2794-4df4-bffb-a1637f6ba0fa%2Ffile7q0zl7vs6x0t3b867my.jpg?rect=0%2C0%2C1027%2C539&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2024-02-14T08:16:24Z",
-      "content": "The Sharad Pawar-led group has challenged the EC order in the Supreme Court.\r\nOver the past few days, there were rumours about a possible merger with the Congress.\r\nThe reports gained currency in the… [+1429 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "RBI to Visa and Mastercard: Stop card-based payments made by these users - Times of India",
-      "description": "The Reserve Bank of India has reportedly asked Visa and Mastercard to stop card-based commercial payments made by corporations and small enterprises. This move comes after RBI's ban on Paytm Payments Bank. Find out more about the reasons behind the decision a…",
-      "url": "https://timesofindia.indiatimes.com/gadgets-news/rbi-asks-visa-and-mastercard-to-stop-card-based-payments-by-corporations-and-small-enterprises/articleshow/107684614.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-107684620,width-1070,height-580,imgsize-21642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-02-14T07:43:00Z",
-      "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+      "author": "Jaideep Mazumdar",
+      "title": "How The Modi-Jaishankar-Doval Trio Secured The Release Of Eight Navy Veterans From Qatar - Swarajya",
+      "description": "The unconditional release of the eight Indian Navy veterans from prison in Qatar and their arrival in New Delhi early Monday (12 February) morning was nothing short of historic and represented a major diplomatic victory by India",
+      "url": "https://swarajyamag.com/foreign-affairs/how-the-modi-jaishankar-doval-trio-secured-the-release-of-eight-navy-veterans-from-qatar",
+      "urlToImage": "https://swarajya.gumlet.io/swarajya/2019-08/a89d0e28-51f7-4430-8594-ccd8e65b057f/j_k_mODI.png",
+      "publishedAt": "2024-02-14T03:46:00Z",
+      "content": "The unconditional release of the eight Indian Navy veterans from prison in Qatar and their arrival in New Delhi early Monday (12 February) morning was nothing short of historic and represented a majo… [+9513 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Livemint"
       },
-      "author": "Livemint",
-      "title": "Garena Free Fire Max redeem codes for February 14, 2024: Win free diamonds, skins and more | Mint - Mint",
-      "description": "Free Fire Max redeem codes are alphanumeric codes that unlock in-game rewards. They create anticipation and reward among players. The codes are available for a limited time and to the first 500 users.",
-      "url": "https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-february-14-2024-win-diamonds-skins-and-more-11707885812881.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/14/1600x900/4f51f049f2aae6726273d6469848d5be_1705800043531_1707888696590.jpg",
-      "publishedAt": "2024-02-14T05:32:06Z",
-      "content": "Garena Free Fire Max is a revamped version of the original Garena Free Fire, which was banned by the Indian government in 2022. However, Free Fire Max has found a unique place among the country's gam… [+2436 chars]"
+      "author": "ANI",
+      "title": "Indonesia begins voting for new President amid economic concerns | Mint - Mint",
+      "description": "Voting has begun in Indonesia's presidential election, with over 200 million voters casting their ballots to elect a new president and vice president, as well as parliamentary and local representatives. Concerns over the cost of living and human rights have d…",
+      "url": "https://www.livemint.com/news/world/indonesia-begins-voting-for-new-president-amid-economic-concerns-11707875279455.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/14/1600x900/INDONESIA-ELECTION-ANIES-2_1707875801916_1707875836764.JPG",
+      "publishedAt": "2024-02-14T01:58:34Z",
+      "content": "Voting started in Indonesia on Wednesday with more than 200 million voters casting their ballots to elect a new president amid concerns regarding the cost of living and human rights, CNN reported. In… [+8947 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rideapart.com"
+        "name": "[Removed]"
       },
-      "author": "Janaki Jitchotvisut",
-      "title": "Updated 2024 Honda Africa Twin Touches Down In America - RideApart.com",
-      "description": "For 2024, Honda updated the Africa Twin lineup with engine tweaks, suspension tweaks, and more, offering more capability for both on- and off-road adventure.",
-      "url": "https://www.rideapart.com/news/708545/2024-honda-africa-twin-america/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/xqp4Ww/s1/2024-africa-twin-adventure-sports-es-dct---studio---pearl-white---front-right-angle-view-2.jpg",
-      "publishedAt": "2024-02-14T00:59:00Z",
-      "content": "Honda Africa Twin fans, if you've been waiting anxiously for the 2024 lineup to come to America, you can now officially breathe a sigh of relief. We're happy to announce that your wait is now over.\r\n… [+2559 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Thehealthsite.com"
       },
-      "author": "Tessa Koumoundouros",
-      "title": "Greenland Is Literally Rising From The Ocean as It Loses Its Fringe of Glaciers - ScienceAlert",
-      "description": "In a mocking fluke of physics, Greenland – one of the main sources of meltwater flooding Earth's shores – is actually rising faster than the rising oceans.",
-      "url": "https://www.sciencealert.com/greenland-is-literally-rising-from-the-ocean-as-it-loses-its-fringe-of-glaciers",
-      "urlToImage": "https://www.sciencealert.com/images/2024/02/RedShowsLossOfIceOnGreenlandsPerifery.jpg",
-      "publishedAt": "2024-02-13T22:03:15Z",
-      "content": "In a mocking fluke of physics, Greenland one of the main sources of meltwater flooding Earth's shores is actually rising faster than the rising oceans.\r\nThe elevating bedrock is gradually birthing ne… [+2800 chars]"
+      "author": "Tavishi Dogra",
+      "title": "International Epilepsy Day 2024: Busting 5 Common Myths About Epilepsy | TheHealthSite.com - TheHealthSite",
+      "description": "Every year the second Monday of February is celebrated as International Epilepsy Day to raise awareness. This year it falls on 12th February 2024. TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/diseases-conditions/international-epilepsy-day-2024-busting-5-common-myths-about-epilepsy-1062699/",
+      "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2024/02/1myths-and-misconceptions-about-epilepsy-1707746970.jpg",
+      "publishedAt": "2024-02-13T14:31:00Z",
+      "content": "VERIFIED\r\nEvery year, the second Monday of February is celebrated as International Epilepsy Day to raise awareness. This year, it falls on 12th February 2024.\r\nEpilepsy and Myths Debunked: Epilepsy i… [+2604 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "VentureBeat"
+        "name": "Tomorrowsworldtoday.com"
       },
-      "author": "Shubham Sharma",
-      "title": "OpenAI upgrades ChatGPT with persistent memory and temporary chat - VentureBeat",
-      "description": "If a user wants to avoid it, they can switch to a temporary chat that does not appear in history, and won't use or create a memory.",
-      "url": "https://venturebeat.com/ai/openai-upgrades-chatgpt-with-persistent-memory-and-temporary-chat/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_Microsoft_Windows_brain_0c8f1abe-a23d-4bc2-824f-83a9189e541a-transformed.webp?w=1200&strip=all",
-      "publishedAt": "2024-02-13T19:57:39Z",
-      "content": "Today, OpenAI announced it is adding a major upgrade to its signature web-based chatbot application, ChatGPT: persistent memory.\r\nRolling out slowly for selected users of ChatGPTs free tier and paid … [+966 chars]"
+      "author": "Lauren Johnson",
+      "title": "Earth's Moon is Shrinking, Causing Landslides and Instability - Tomorrow's World Today",
+      "description": "A team of scientists has discovered that the continued shrinking of Earth’s moon has led to notable surface warping in the south-polar region.",
+      "url": "https://www.tomorrowsworldtoday.com/space/earths-moon-is-shrinking-causing-landslides-and-instability/",
+      "urlToImage": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2024/02/Moon-is-shrinking-causing-moonquakes-and-lunar-instability.png",
+      "publishedAt": "2024-02-13T13:00:20Z",
+      "content": "A team of scientists has discovered that the continued shrinking of Earths moon has led to notable surface warping in the south-polar region. This warping is sometimes accompanied by seismic activity… [+1979 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Morocco World News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Saad Benjelloun - Morocco World News",
-      "title": "Dinosaur Fossils from Cretaceous Period Discovered Near Casablanca - Morocco World News",
-      "description": "Researchers and scientists suggest that the last dinosaurs vanished from Earth 66 million years ago, and although there is evidence that the cause was due to an asteroid hit, the exact nature of this catastrophic event is still unknown.",
-      "url": "https://www.moroccoworldnews.com/2024/02/360800/dinosaur-fossils-from-cretaceous-period-discovered-near-casablanca",
-      "urlToImage": "https://www.moroccoworldnews.com/wp-content/uploads/2024/02/dinosaur-fossils-from-cretaceous-period-discovered-near-casablanca-800x450.jpg",
-      "publishedAt": "2024-02-13T19:50:32Z",
-      "content": "Click allow to get notifications on every article we post."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Aishwarya Faraswal",
-      "title": "Valentines Day: 8 dashcams to ensure your loved ones safety while driving - Hindustan Times",
-      "description": "Valentines Day: Enhance your partner’s driving experience. Gift dashcams with advanced features like GPS tracking, voice control and lane departure warnings.",
-      "url": "https://www.hindustantimes.com/technology/valentines-day-8-dashcams-to-ensure-your-loved-ones-safety-while-driving-101707805337098.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/13/1600x900/pexels-mike-bird-1030766_1707807315445_1707807337633.jpg",
-      "publishedAt": "2024-02-13T11:34:49Z",
-      "content": "In a world where safety is paramount, a dashcam proves to be more than just a technological gadget. It's a tangible expression of care, providing continuous recording of the road, capturing moments b… [+25422 chars]"
+      "author": "Angela Dewan, CNN",
+      "title": "Greenland is getting greener. That could have huge consequences for the world - Yahoo News",
+      "description": "The area of Greenland’s ice loss in the past three decades is 36 times the size of New York City — land that is rapidly giving way to wetlands and shrubs, a ...",
+      "url": "https://www.cnn.com/2024/02/13/climate/greenland-ice-loss-vegetation-climate-intl/index.html",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/0173daca080c98014df249d96411d0e1",
+      "publishedAt": "2024-02-13T10:00:32Z",
+      "content": "The area of Greenlands ice loss in the past three decades is roughly 36 times the size of New York City land that is rapidly giving way to wetlands and shrubs, a study published Tuesday shows.\r\nThe a… [+3291 chars]"
     }
   ]
 }
