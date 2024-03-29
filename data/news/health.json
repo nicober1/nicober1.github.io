@@ -1,19 +1,734 @@
 {
   "status": "ok",
-  "totalResults": 195,
+  "totalResults": 188,
   "articles": [
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "ET HealthWorld",
-      "title": "Studying middle-aged brain can give us clues to dementia - ETHealthWorld",
-      "description": "Through the white matter connections, brain areas talk to each other and form interconnected networks that can perform cognitive and sensory functions, including memory or vision. While the sensory networks deteriorate gradually throughout adulthood, the cogn…",
-      "url": "https://health.economictimes.indiatimes.com/news/industry/studying-middle-aged-brain-can-give-us-clues-to-dementia/108841246",
-      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-108841246,imgsize-44264,width-1200,height=765,overlay-ethealth/industry/studying-middle-aged-brain-can-give-us-clues-to-dementia.jpg",
-      "publishedAt": "2024-03-28T06:42:07Z",
-      "content": "New Delhi: Cork and Yvonne Nolan, University College Cork Cork (Ireland), Mar 20 (The Conversation) Our brains change more rapidly at various times of our lives, as though life's clock was ticking fa… [+4813 chars]"
+      "author": "Brenda Goodman",
+      "title": "CDC alerts doctors to watch for rare, serious bacterial infection appearing with unusual symptoms - CNN",
+      "description": "Health officials are alerting doctors to be on the lookout for certain types of rare but serious meningococcal infections that are on the rise in the United States.",
+      "url": "https://www.cnn.com/2024/03/28/health/cdc-alert-bacterial-infection/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-636177452.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-28T19:22:00Z",
+      "content": "Health officials are alerting doctors to be on the lookout for certain types of rare, serious meningococcal infections that are on the rise in the United States.\r\nThe US Centers for Disease Control a… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "China has a big problem with super gonorrhea, study finds - Ars Technica",
+      "description": "Drug-resistant gonorrhea is a growing problem—one that doesn't heed borders.",
+      "url": "https://arstechnica.com/science/2024/03/super-gonorrhea-rate-quickly-triples-in-china-now-40x-higher-than-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-966943542-760x380.jpeg",
+      "publishedAt": "2024-03-28T18:12:31Z",
+      "content": "Enlarge/ A billboard from the AIDS Healthcare Foundation is seen on Sunset Boulevard in Hollywood, California, on May 29, 2018, warning of a drug-resistant gonorrhea.\r\n65\r\nHealth officials have long … [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Corrie Pelc",
+      "title": "Fat loss: Probiotics in kombucha could mimic effects of fasting - Medical News Today",
+      "description": "Drinking kombucha tea may help reduce fat accumulation and lower triglyceride levels by mimicking fasting, a new study in worms suggests.",
+      "url": "https://www.medicalnewstoday.com/articles/drinking-kombucha-tea-probiotics-help-reduce-fat-mimicking-fasting",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/03/preparing-kombucha-1200-628-facebook.jpg",
+      "publishedAt": "2024-03-28T18:12:17Z",
+      "content": "<ul><li>High triglyceride levels in the body are associated with an increased risk for cardiovascular disease. </li><li>Healthy lifestyle changes like exercising regularly, losing weight, limiting al… [+7981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Early-Onset Colorectal Cancer Is a 'Bigger Problem Every Year' - Newser",
+      "description": "It's now the leading cause of cancer death in men under 50, and scientists aren't sure why",
+      "url": "https://www.newser.com/story/348319/early-onset-colorectal-cancer-is-a-bigger-problem-every-year.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1526246-12-20240328133502.jpeg",
+      "publishedAt": "2024-03-28T18:10:00Z",
+      "content": "March is Colorectal Cancer Awareness Month, and doctors are urging people much younger than typical colorectal cancer to be aware of the symptoms. For reasons that scientists say are still unclear, t… [+786 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "US tuberculosis cases were at the highest level in a decade in 2023 - ABC News",
+      "description": "The U.S. saw the most tuberculosis illnesses in a decade in 2023",
+      "url": "https://abcnews.go.com/Health/wireStory/us-tuberculosis-cases-highest-level-decade-2023-108616027",
+      "urlToImage": "https://i.abcnewsfe.com/a/409262aa-d92f-4e60-a81f-287e43a62c71/wirestory_e278fdbc1a7912bfbbab8934ad0691d9_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-28T17:26:55Z",
+      "content": "NEW YORK -- The number of U.S. tuberculosis cases in 2023 were the highest in a decade, according to a new government report.\r\nForty states reported an increase in TB, and rates were up among all age… [+3638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Freda Kreier",
+      "title": "Is eye movement in autism tied to facial recognition? - Medical Xpress",
+      "description": "Some teenagers with autism use a different set of eye-movement patterns from their non-autistic counterparts while recognizing faces, according to James McPartland, Ph.D., Harris Professor in the Yale Child Study Center (YCSC) and a director of the Center for…",
+      "url": "https://medicalxpress.com/news/2024-03-eye-movement-autism-facial-recognition.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/is-eye-movement-in-aut-1.jpg",
+      "publishedAt": "2024-03-28T17:15:03Z",
+      "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+4910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Renée Onque",
+      "title": "When her doctor doubted the severity of her morning sickness, this geneticist and Time Woman of the Year found the cause herself - CNBC",
+      "description": "Geneticist Marlena Fezjo is opening a healthcare center to support women with obscure conditions that are often overlooked and underdiagnosed.",
+      "url": "https://www.cnbc.com/2024/03/28/marlena-fezjo-doctors-dismissed-her-symptoms-she-found-the-cause.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394213-1711633599826-Marlena_Fezjo.jpg?v=1711634022&w=1920&h=1080",
+      "publishedAt": "2024-03-28T16:37:36Z",
+      "content": "Geneticist Marlena Fezjo says she had bad morning sickness during her first pregnancy, but the symptoms she experienced during her second pregnancy in 1999 were much worse.\r\nThe only time Fezjo wasn'… [+3879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Aging Brain Cells Have Prolonged Death Process - Neuroscience News",
+      "description": "Mature oligodendrocytes, crucial for brain function and myelin production, have an unusually prolonged death process after damage, surviving up to 45 days post-trauma, a stark contrast to the rapid demise of their younger counterparts within 24 hours.",
+      "url": "https://neurosciencenews.com/oligodendrocytes-prolonged-apoptosis-25832/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/03/death-process-neurons-neurosicnce.jpg",
+      "publishedAt": "2024-03-28T16:30:34Z",
+      "content": "Summary: Mature oligodendrocytes, crucial for brain function and myelin production, have an unusually prolonged death process after damage, surviving up to 45 days post-trauma, a stark contrast to th… [+9815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PsyPost"
+      },
+      "author": "Eric W. Dolan",
+      "title": "Psychiatrists detail a harrowing case of internet-induced erotomania - PsyPost",
+      "description": "A case study in BMC Psychiatry describes a 70-year-old woman who developed erotomania, a delusional disorder, after falling victim to an online romance fraud, highlighting the psychological risks associated with internet usage and the need for awareness in me…",
+      "url": "https://www.psypost.org/psychiatrists-detail-a-harrowing-case-of-internet-induced-erotomania/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/03/brain-mania.jpg",
+      "publishedAt": "2024-03-28T16:05:20Z",
+      "content": "In a world increasingly interconnected through the wonders of the internet, a case study published in BMC Psychiatry sheds light on a darker facet of digital interaction: online romance fraud inducin… [+4600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food Business News"
+      },
+      "author": "Matt Noltemeyer",
+      "title": "'Ultra-processed' rhetoric growing louder - Food Business News",
+      "description": "<p>Term now common across platforms.</p>",
+      "url": "https://www.foodbusinessnews.net/articles/25817-ultra-processed-rhetoric-growing-louder",
+      "urlToImage": "https://www.foodbusinessnews.net/ext/resources/2024/03/28/Erin-Ball_Nama-_Lead.jpg?height=635&t=1711642737&width=1200",
+      "publishedAt": "2024-03-28T16:00:00Z",
+      "content": "MARCO ISLAND, FLA. As debate ramps up over processed and ultra-processed foods the nebulous dietary categories that include grain-based foods such as bread, cereals, crackers cookies and pasta rhetor… [+10415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Anxiety Drives Wishful Thinking to Risky Levels - Neuroscience News",
+      "description": "Individuals tend to become overly optimistic in situations marked by insecurity and anxiety, potentially to their detriment.",
+      "url": "https://neurosciencenews.com/anxiety-optimism-25831/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/03/anxiety-wishful-thinking-neuroscience.jpg",
+      "publishedAt": "2024-03-28T15:59:03Z",
+      "content": "Summary: Individuals tend to become overly optimistic in situations marked by insecurity and anxiety, potentially to their detriment. The research, involving more than 1,700 participants, demonstrate… [+6207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "March Marks Endometriosis Awareness Month - CBS New York",
+      "description": "According to the World Health Organization, Endometriosis affects roughly 10% of reproductive age women and girls globally.  Dr. Kameelah Phillips, Board Cer...",
+      "url": "https://www.youtube.com/watch?v=VZOBkuTWA6c",
+      "urlToImage": "https://i.ytimg.com/vi/VZOBkuTWA6c/maxresdefault.jpg",
+      "publishedAt": "2024-03-28T15:17:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Targetedonc.com"
+      },
+      "author": "Jordyn Sava",
+      "title": "Revolutionizing Cancer Care With Genomic Testing - Targeted Oncology",
+      "description": "In an interview with Targeted Oncology, David L. Bartlett, MD, discussed the utilization and growing importance of genomic testing in cancer care.",
+      "url": "https://www.targetedonc.com/view/revolutionizing-cancer-care-with-genomic-testing",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/targetedonc/bf401f08b58804d8aa322d18ed8162f17a886f20-480x270.webp?fit=crop&auto=format",
+      "publishedAt": "2024-03-28T15:09:58Z",
+      "content": "Thanks to advances in genomic testing, experts can now analyze hundreds of genes compared with just a few in the past, allowing for faster and more efficient identification of the right treatment for… [+7622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Prolonged Progestogen Use Linked to Brain Tumor Risk - Neuroscience News",
+      "description": null,
+      "url": "https://neurosciencenews.com/progestogen-brain-cancer-25829/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T14:59:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Dogs Sniffing Out PTSD - Neuroscience News",
+      "description": "Dogs can be trained to detect stress-related volatile organic compounds (VOCs) in human breath, potentially identifying the onset of PTSD flashbacks.",
+      "url": "https://neurosciencenews.com/olfaction-ptsd-dogs-25829/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/03/ptsd-dogs-neurosicence.jpg",
+      "publishedAt": "2024-03-28T14:27:23Z",
+      "content": "Summary: Dogs can be trained to detect stress-related volatile organic compounds (VOCs) in human breath, potentially identifying the onset of PTSD flashbacks. This groundbreaking study utilized two d… [+6220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Eating Some Chocolate Really Might Be Good For You - What Research Says - NDTV",
+      "description": "Although it always makes me scoff slightly to see Easter eggs making their first appearance in supermarkets at the end of December, there are few people who arent delighted to receive a bit of chocolate every year.",
+      "url": "https://www.ndtv.com/world-news/eating-some-chocolate-really-might-be-good-for-you-what-research-says-5328575",
+      "urlToImage": "https://c.ndtvimg.com/2023-02/um9n261c_chocolate-generic_625x300_09_February_23.jpg",
+      "publishedAt": "2024-03-28T14:21:46Z",
+      "content": "What research shows about chocolates and their eefect on our health. (Representational)\r\nBristol: Although it always makes me scoff slightly to see Easter eggs making their first appearance in superm… [+5132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Alexandra Blogier",
+      "title": "Employees Under The Age Of 30 Lose A Day Of Work Each Week In Productivity Due To Mental Health Issues & Stress, According To Research - YourTango",
+      "description": "There's a stigma attached to younger generations as being lazy, entitled, and unwilling to work hard, but a poll out of England, and various U.S. studies, prove otherwise. Workers under 30 lose a day a week in productivity, due to mental health issues and str…",
+      "url": "https://www.yourtango.com/career/employees-under-30-lose-one-day-work-week-due-mental-health-issues",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/workers-under-age-30-lose-day-each-week-mental-health-issues-stress.png",
+      "publishedAt": "2024-03-28T14:19:18Z",
+      "content": "Theres a common yet tired narrative that frames younger generations as lazy and entitled. If only millennials stopped drinking lattes while buying avocado toast, theyd be able to buy a house already.… [+3360 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Peter Loftus, Anna Wilde Mathews",
+      "title": "Exclusive | First Medicare Health Plans to Start Paying for Weight-Loss Drug Wegovy - The Wall Street Journal",
+      "description": "Programs run by Elevance, Kaiser Permanente and CVS Health have decided to extend coverage of the medicine for people with heart-related conditions",
+      "url": "https://www.wsj.com/health/healthcare/first-medicare-health-plans-to-start-paying-for-weight-loss-drug-wegovy-044588f5",
+      "urlToImage": "https://images.wsj.net/im-943111/social",
+      "publishedAt": "2024-03-28T14:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Caren Chesler",
+      "title": "More than one alcoholic drink a day raises heart disease risk for women - The Washington Post",
+      "description": "The link between alcohol and coronary heart disease proved to be especially strong among women, new research showed.",
+      "url": "https://www.washingtonpost.com/wellness/2024/03/28/alcohol-heart-disease-women/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GNQOCZHQ4YOCK7REUVC527POCQ.jpg&w=1440",
+      "publishedAt": "2024-03-28T13:58:18Z",
+      "content": "Young to middle-aged women who drink more than one alcoholic beverage a day, on average, were more likely to develop coronary heart disease than people who drink less, according to new research by Ka… [+6943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Hugo Francisco de Souza",
+      "title": "Traditional overnight pulse oximeter readings may be insufficient to predict TC-MRBs, finds study - News-Medical.Net",
+      "description": "The predictive power of numerous sleep-disordered breathing (SDB) parameters.",
+      "url": "https://www.news-medical.net/news/20240328/Traditional-overnight-pulse-oximeter-readings-may-be-insufficient-to-predict-TC-MRBs-finds-study.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_775845_17116341132399513.jpg",
+      "publishedAt": "2024-03-28T13:56:00Z",
+      "content": "In a recent study published in Scientific Reports, researchers evaluated the predictive power of numerous sleep-disordered breathing (SDB) parameters, namely overnight pulse oximeter readings and the… [+7249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Down To Earth Magazine"
+      },
+      "author": null,
+      "title": "WHO launches 'CoViNet' — a global laboratory to monitor emerging coronaviruses - Down To Earth Magazine",
+      "description": "Builds on COVID-19 reference laboratory network established during early days of pandemic to confirm disease",
+      "url": "https://www.downtoearth.org.in/news/health/who-launches-covinet-a-global-laboratory-to-monitor-emerging-coronaviruses-95277",
+      "urlToImage": "https://cdn.downtoearth.org.in/library/large/2024-03-28/0.91842300_1711631020_istock-1214909868.jpg",
+      "publishedAt": "2024-03-28T13:29:39Z",
+      "content": "Builds on COVID-19 reference laboratory network established during early days of pandemic to confirm diseaseThe World Health Organization (WHO) has launched a global network of laboratories to identi… [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Atlanta Journal Constitution"
+      },
+      "author": "Hunter Boyce",
+      "title": "COVID-19 can damage the heart, even without infecting it, study says - The Seattle Times",
+      "description": "COVID-19 increases a person’s risk of heart attack and stroke. More than 50% of COVID-19 patients experience some inflammation or damage to the heart, according to imaging research.",
+      "url": "https://www.ajc.com/pulse/study-covid-19-can-damage-the-heart-even-without-infecting-it/EKY2ZLPAQJF5PCZAFU7U5D7HQY/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/03/TZR-Covid.jpg?d=1200x630",
+      "publishedAt": "2024-03-28T13:05:08Z",
+      "content": "COVID-19 can damage your heart, even when the virus doesnt directly infect cardiac tissue. Thats the latest from a recent study supported by the National Institutes of Health.\r\nPublished in the journ… [+1838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Dr. Sushama R. Chaphalkar, PhD.",
+      "title": "How do acetylsalicylic acid and warfarin interact with various nutrients? - News-Medical.Net",
+      "description": "45 drug-nutrient interactions (DNIs) that modify micro-nutritional status, particularly focusing on how acetylsalicylic acid (ASA) and warfarin may affect patients through various mechanisms.",
+      "url": "https://www.news-medical.net/news/20240328/How-do-acetylsalicylic-acid-and-warfarin-interact-with-various-nutrients.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_775833_17116299327288716.jpg",
+      "publishedAt": "2024-03-28T13:04:00Z",
+      "content": "In a recent review published in Nutrients, researchers discussed 45 drug-nutrient interactions (DNIs) that modify micro-nutritional status, particularly focusing on how acetylsalicylic acid (ASA) and… [+6169 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Dr. Jennifer Miao",
+      "title": "Eating a dozen eggs a week doesn't hurt your cholesterol: Study - ABC News",
+      "description": "The study found no meaningful change in levels of \"good\" and \"bad\" cholesterol.",
+      "url": "https://abcnews.go.com/GMA/Food/eating-dozen-eggs-week-hurt-cholesterol-study/story?id=108553012",
+      "urlToImage": "https://i.abcnewsfe.com/a/33a25bc5-df05-4e5b-ba42-64b82b490ed7/eggs-1-as-gmh-240327_1711555375191_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-28T13:03:30Z",
+      "content": "Eating more than a dozen fortified eggs each week did not negatively affect cholesterol levels compared to an egg-free diet among U.S. adults aged 50 or older, according to a new study to be presente… [+2777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Alzheimer's Disease: The Treatment Battle Heats Up Despite Eli Lilly's Setback - Investor's Business Daily",
+      "description": "The FDA has delayed making a decision on Eli Lilly's donanemab, pending an advisory committee meeting.",
+      "url": "https://www.investors.com/news/technology/alzheimers-disease-treatments-eli-lilly-donanemab-amyloid-beta/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/03/TECHpic-brain-040124-shutt.jpg",
+      "publishedAt": "2024-03-28T12:38:09Z",
+      "content": "The quest to treat Alzheimer's disease is heating up as drugmakers Eli Lilly (LLY), Biogen (BIIB) and Roche (RHHBY) blaze new trails. But there are speed bumps up ahead and they've recently rocked El… [+9034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehealthsite.com"
+      },
+      "author": "Editorial Team",
+      "title": "Hardwiring Your Brain: The Neuroscience Of Behaviour Change | TheHealthSite.com - TheHealthSite",
+      "description": "If you want to transform your health and live a long life it is very important to cultivate healthy habits. Read on to know how to do this. TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/body-mind-soul/hardwiring-your-brain-the-neuroscience-of-behaviour-change-1076759/",
+      "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2024/03/hardwiring-you-brain.jpg",
+      "publishedAt": "2024-03-28T12:19:00Z",
+      "content": "Cultivating good habits and having enjoyable hobbies that bring you joy often work towards helping you achieve your best health. \r\nIf you want to transform your health and live a long life, it is ver… [+4577 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "David Oliver",
+      "title": "Osteogenesis imperfecta, OI, brittle bone disease: What is it? - USA TODAY",
+      "description": "Osteogenesis imperfecta is a genetic illness that affects fewer than 50,000 people in the U.S., including \"OI\" Dr. Pamela Smith.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2024/03/28/osteogenesis-imperfecta-brittle-bone-disease/73109709007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/28/USAT/73127303007-easter-2023.jpg?crop=1297,731,x0,y74&width=1297&height=731&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-28T12:13:22Z",
+      "content": "Maybe you heard about it after watching the Samuel L. Jackson movie \"Unbreakable.\" Or maybe after binging Season 11 of \"Grey's Anatomy.\" Or maybe the words \"osteogenesis imperfecta,\" or \"OI,\" don't m… [+5832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Drug Target Review"
+      },
+      "author": null,
+      "title": "Blastoids enable greater understanding of human gastrulation - Drug Target Review",
+      "description": "Stem-cell based blastocyst models have enabled scientists to redefine the molecular signature and timing of the onset of gastrulation.",
+      "url": "https://www.drugtargetreview.com/news/145643/blastoids-enable-greater-understanding-of-human-gastrulation/",
+      "urlToImage": "https://www.drugtargetreview.com/wp-content/uploads/shutterstock_1151948171-1-scaled.jpg",
+      "publishedAt": "2024-03-28T12:01:30Z",
+      "content": "Posted: 28 March 2024 | Drug Target Review | No comments yet\r\nStem-cell based blastocyst models have enabled scientists to redefine the molecular signature and timing of the onset of gastrulation.\r\nR… [+3799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "Dr. Prajakta Banik",
+      "title": "Study reveals novel intervention for diabetic kidney risk - Tech Explorist",
+      "description": "Adiponectin improves diabetic kidney function in mice.",
+      "url": "https://www.techexplorist.com/study-reveals-novel-intervention-diabetic-kidney-risk/82493/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2024/03/Diabetes.jpg",
+      "publishedAt": "2024-03-28T12:01:16Z",
+      "content": "Researchers at the University of Bristol have discovered how a hormone can shield the kidney’s blood arteries from the harm that diabetes causes. By doing this, the group has found a possible early t… [+2977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salt Lake Tribune"
+      },
+      "author": null,
+      "title": "Utah and soda: Does the data show that Utahns drink as much as we think? - Salt Lake Tribune",
+      "description": "The founder of soda shop chain Swig said its Utah customers don’t buy the sugar-sweetened beverage as much as people think, and certainly not compared with folks down South.",
+      "url": "https://www.sltrib.com/news/2024/03/28/dirty-soda-is-utah-fry-sauce-are/",
+      "urlToImage": "https://www.sltrib.com/resizer/srSRhe8ny9yF27H1q9J-4Amn-l4=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/XQKUMWRWW5CTBACIJBO2EY6CLE.jpg",
+      "publishedAt": "2024-03-28T12:00:28Z",
+      "content": "How much soda do people in Utah drink?\r\nI think people think we drink a lot of soda, and were lower on the list than a lot of other states, said Nicole Tanner, founder of the Swig soda shop chain whi… [+4186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "World Health Organization"
+      },
+      "author": null,
+      "title": "Eritrea Observed World TB Day 2024 - WHO | Regional Office for Africa",
+      "description": "World TB Day was commemorated on 24 March 2024 at Orotta Conference Hall in Asmara, capital city of Eritrea. This year’s theme is “Yes, we can end TB,” highlighting the need to ensure equitable access to prevention and care, in line with our drive towards the…",
+      "url": "https://www.afro.who.int/news/eritrea-observed-world-tb-day-2024",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T12:00:00Z",
+      "content": "World TB Day was commemorated on 24 March 2024 at Orotta Conference Hall in Asmara, capital city of Eritrea. This years theme is Yes, we can end TB, highlighting the need to ensure equitable access t… [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Victoria Forster",
+      "title": "Aspirin Shows Promise In Treating Common Liver Disease - Forbes",
+      "description": "Daily low dose aspirin may be an effective treatment for a common type of liver disease, according to a new study.",
+      "url": "https://www.forbes.com/sites/victoriaforster/2024/03/28/aspirin-shows-promise-in-treating-common-liver-disease/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66049843c2133fd9d19a5897/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-03-28T12:00:00Z",
+      "content": "Daily low dose aspirin reduced the amount of fat in the liver according to a new study.\r\ngetty\r\nDaily, low-dose aspirin may be an effective treatment for a common type of liver disease, according to … [+3053 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Katharine Lang",
+      "title": "Brain health: 2 groups of household chemicals linked to cell damage - Medical News Today",
+      "description": "Two groups of chemicals in common household items may harm specialized cells in the brain, increasing the risk of neurological disorders like autism, and multiple sclerosis (MS), a new study finds.",
+      "url": "https://www.medicalnewstoday.com/articles/household-chemicals-may-increase-risk-neurological-conditions-autism-ms",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/03/household-chemicals-bottles-1200-628-facebook.jpg",
+      "publishedAt": "2024-03-28T12:00:00Z",
+      "content": "<ul><li>The prevalence of neurological and neurodevelopmental conditions has increased over the past decade.</li><li>Although some of this increase may be due to better diagnosis, experts suggest tha… [+7101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Global leaders set ambitious targets to end tuberculosis epidemic - News-Medical.Net",
+      "description": "World leaders at the United Nations General Assembly's High-Level Meeting on Tuberculosis have approved a Political Declaration with ambitious new targets for the next five years to advance the global efforts towards ending the TB epidemic.",
+      "url": "https://www.news-medical.net/news/20240328/Global-leaders-set-ambitious-targets-to-end-tuberculosis-epidemic.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Bacterial_infection_tuberculosis.red_cells_in_blue_background.AFB_3%2b_-_toeytoey_b32b49df7608432793064092cdd06996-620x480.jpg",
+      "publishedAt": "2024-03-28T11:51:00Z",
+      "content": "World leaders at the United Nations General Assembly's High-Level Meeting on Tuberculosis have approved a Political Declaration with ambitious new targets for the next five years to advance the globa… [+4399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Health Desk",
+      "title": "Salon session gone wrong! Woman's hair treatment leads to kidney disease - India Today",
+      "description": "The doctors found high levels of creatinine in the woman039s blood which is a sign that her kidneys were not functioning properlyShe had visited the salon three times for a hair-straightening treatment",
+      "url": "https://www.indiatoday.in/health/story/woman-hair-treatment-salon-leads-kidney-damage-disease-2520379-2024-03-28",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/hair-coloring-in-a-beauty-salon-hairdressing-services-285339902-16x9_0.jpg?VersionId=K8zLqu8mLfcyEH7k9B28rOATiDAPzErv",
+      "publishedAt": "2024-03-28T11:48:50Z",
+      "content": "A woman developed kidney damage after undergoing hair-straightening treatments at a salon. The 26-year-old woman, who had no previous health problems, visited a salon to receive hair treatments in Ju… [+2846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DNA India"
+      },
+      "author": "Kajari Goswami",
+      "title": "Ayurvedic remedies for acidity - DNA India",
+      "description": "Ayurvedic remedies for acidity",
+      "url": "https://www.dnaindia.com/web-stories/lifestyle/ayurvedic-remedies-for-acidity-1711625602453",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T11:42:58Z",
+      "content": "Mar 28, 2024, 05:12 PM IST"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DNA India"
+      },
+      "author": "Kajari Goswami",
+      "title": "How early dinner benefits your digestion - DNA India",
+      "description": "How early dinner benefits your digestion",
+      "url": "https://www.dnaindia.com/web-stories/lifestyle/how-early-dinner-benefits-your-digestion-1711622819804",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T11:05:05Z",
+      "content": "Mar 28, 2024, 04:35 PM IST"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "WHO’s Science in 5 : Dengue Fever - 28 March 2024 - World Health Organization (WHO)",
+      "description": "Why is Dengue fever spreading to places it did not exist before? What are the symptoms and treatments? What about vaccines? Dr Raman Velayudhan explains in S...",
+      "url": "https://www.youtube.com/watch?v=V1TPAmsn1us",
+      "urlToImage": "https://i.ytimg.com/vi/V1TPAmsn1us/maxresdefault.jpg",
+      "publishedAt": "2024-03-28T10:39:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Deidre McPhillips",
+      "title": "Mpox cases in the US are on the rise as vaccination rates lag and new threats loom - CNN",
+      "description": "Mpox cases in the United States are twice as high as they were at this time last year, and experts are stressing the importance of improving vaccination coverage as transmission risks rise.",
+      "url": "https://www.cnn.com/2024/03/28/health/mpox-usa-cases-vaccination-rate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1532725654.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-28T10:30:00Z",
+      "content": "Mpox cases in the United States are twice as high as they were at this time last year, and experts are stressing the importance of improving vaccination coverage as transmission risks rise.\r\nThere ha… [+6987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Lifestyle Desk",
+      "title": "Why apple-coconut salad makes for a healthy breakfast - The Indian Express",
+      "description": "This breakfast recipe is designed to be good for your gut health. It mixes grated apple, pomegranate, coconut, lemon juice, black pepper and amchur powder. The coconut provides protein, fiber and minerals, the apple is rich in fiber and antioxidants, and the …",
+      "url": "https://indianexpress.com/article/lifestyle/food-wine/apple-coconut-salad-healthy-breakfast-recipe-gut-benefits-9235838/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/apple-coconut-salad_1600_freepik.jpg",
+      "publishedAt": "2024-03-28T10:05:07Z",
+      "content": "For most people, breakfast is one of the most important meals of the day. Experts opine that it helps our body and mind to work efficiently throughout the day, making it a very significant meal. So, … [+2140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Beethoven's DNA Reveals Musical Genius Just Might Lie in Any of Us - ScienceAlert",
+      "description": "It's one of the biggest questions in science: to what extent are we defined by our genetics? A new analysis of Ludwig van Beethoven's DNA, showing a low predisposition for beat synchronization, hints that we can become much more than our genes suggest.",
+      "url": "https://www.sciencealert.com/beethovens-dna-reveals-musical-genius-just-might-lie-in-any-of-us",
+      "urlToImage": "https://www.sciencealert.com/images/2023/03/Beethoven_stieler_portrait.jpg",
+      "publishedAt": "2024-03-28T09:57:18Z",
+      "content": "It's one of the biggest questions in science: to what extent are we defined by our genetics? A new analysis of Ludwig van Beethoven's DNA, showing a low predisposition for beat synchronization, hints… [+3230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Climate change, tropical diseases: Rural Bihar battle elephantiasis, & more - Business Standard",
+      "description": "Far from the world of scientists studying climate change, the twin whammies of altered rainfall patterns and rising temperatures are being felt every day in villages such as Sher in Bihar where lymphatic filariasis and other neglected tropical diseases lurk i…",
+      "url": "https://www.business-standard.com/health/climate-change-tropical-diseases-rural-bihar-battle-elephantiasis-more-124032800432_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-11/13/full/1699817080-0719.jpg",
+      "publishedAt": "2024-03-28T09:33:08Z",
+      "content": "At the individual level, we tell people to use mosquito repellents and let fumigation gas come indoors... at the societal level, public should support efforts such as fumigation. We are making all th… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Insider India"
+      },
+      "author": "Harsh Rathore",
+      "title": "8 Benefits of drinking hot water every morning - Business Insider India",
+      "description": "8 Benefits of drinking hot water every morning",
+      "url": "https://www.businessinsider.in/science/health/food/webstories/8-benefits-of-drinking-hot-water-every-morning/slidelist/108847442.cms",
+      "urlToImage": "https://www.businessinsider.in/thumb/msid-108847442,width-900,height-1200,resizemode-4/science/health/food/webstories/8-benefits-of-drinking-hot-water-every-morning.jpg",
+      "publishedAt": "2024-03-28T09:31:53Z",
+      "content": "Hydration is essential for overall health, and starting your day with a mug of hot water is a great way to ensure you begin the day hydrated. While cold water can be shocking to the system in the mor… [+117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol",
+      "title": "Diabetes diet: Eat these seeds to lower blood sugar level - Moneycontrol",
+      "description": "Diabetes diet: Amidst a variety of health benefits, seeds like chia and sesame also help promote better blood sugar management",
+      "url": "https://www.moneycontrol.com/health-and-fitness/what-to-eat-to-lower-blood-sugar-how-to-control-blood-sugar-diabetes-diet-what-to-eat-to-control-diabetes-health-benefits-of-chia-seeds-pumpkin-seeds-benefits-sesame-seeds-health-benefits-visual-story-1953874.html",
+      "urlToImage": "https://images.news18.com/webstories/2024/03/Diabetes-diet-1-2024-03-123bfeb1922aca2c858eb68c85942fc2.jpg",
+      "publishedAt": "2024-03-28T09:29:12Z",
+      "content": "Chia Seeds: Renowned for their impressive nutritional profile, chia seeds are rich in fibre, protein, and omega-3 fatty acids. Their high fibre content help slow down digestion and absorption of carb… [+61 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "ANI",
+      "title": "Sedentariness In Childhood Can Accelerate Premature Vascular Damage: Study - Zee News",
+      "description": "What Is Brain Bleeding That Sadhguru Had Suffered From? Causes, Symptoms And Steps To Take The current study is the largest and the longest follow-up accelerometer-measured movement behaviour and arterial stiffness study in the world using the University of B…",
+      "url": "https://zeenews.india.com/health/sedentariness-in-childhood-can-accelerate-premature-vascular-damage-study-2734903",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2024/03/28/1383461-child-liedown-freepik.jpg",
+      "publishedAt": "2024-03-28T08:56:20Z",
+      "content": "According to a new study, increased sedentary time beginning in childhood is related to deteriorating arterial stiffness, a surrogate for premature vascular damage. However, light physical activity m… [+3662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN+Health+Desk, Times Now Digital",
+      "title": "8 Vegan Foods High In Zinc Women Should Add To Their Diet - Times Now",
+      "description": "8 Vegan Foods High In Zinc Women Should Add To Their Diet",
+      "url": "https://www.timesnownews.com/web-stories/health/8-vegan-foods-high-in-zinc-women-should-add-to-their-diet/photostory/108845057.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108845073,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2024-03-28T08:33:48Z",
+      "content": "Legumes such as lentils, chickpeas and beans are a staple in vegan diets, not just for their protein but also for their zinc content."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Neha Yadav",
+      "title": "5 tips to reduce hair loss due to stress - Hindustan Times",
+      "description": "5 tips to reduce hair loss due to stress",
+      "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-tips-to-reduce-hair-loss-due-to-stress-101711567635952.html",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T08:00:15Z",
+      "content": "By Neha YadavPublished Mar 28, 2024\r\nHindustan TimesLifestylePhoto Credits: Unsplash"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Here's How Taking A Hot Shower Can Boost Your Health - NDTV",
+      "description": "Hot showers can be healthy when enjoyed in moderation and with proper precautions.",
+      "url": "https://www.ndtv.com/health/heres-how-taking-a-hot-shower-can-boost-your-health-5326125",
+      "urlToImage": "https://c.ndtvimg.com/2024-01/p9ghlelg_shower_625x300_09_January_24.jpg",
+      "publishedAt": "2024-03-28T07:45:18Z",
+      "content": "The combination of heat and relaxation from a hot shower can help to alleviate tension headaches\r\nTaking a hot shower can offer several health benefits, both physical and mental. Incorporating hot sh… [+3545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thehealthsite.com"
+      },
+      "author": "Ankit Kumar",
+      "title": "Vitamin D Deficiency Symptoms In Women: What Happens To Your Body When There Is a Lack of Vitamin D? | The - TheHealthSite",
+      "description": "In this video we will discuss the causes and symptoms of low vitamin D in women. TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/videos/vitamin-d-deficiency-symptoms-in-women-what-happens-to-your-body-when-there-is-a-lack-of-vitamin-d-1076595/",
+      "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2024/03/00000014-2.jpg",
+      "publishedAt": "2024-03-28T07:31:00Z",
+      "content": "Hair Growth\r\nFood sources such as eating more vitamin D-rich foods, such as fatty fish, egg yolk, fortified milk, juices, yoghurt, etc., may help increase vitamin D levels."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "Unnati Gusain",
+      "title": "Fact-check: Maneka Gandhi debunks calcium content and milk theory; know experts take - News9 LIVE",
+      "description": "BJP leader Maneka Gandhi said that people who intake higher amount of milk have the least amount of calcium. Jinal Patel, a dietician, explained that one should not only drink milk but also have other nutrient-rich foods and maintain an active lifestyle to im…",
+      "url": "https://www.news9live.com/health/health-news/fact-check-maneka-gandhi-debunks-calcium-content-and-milk-theory-know-experts-take-2480543",
+      "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/03/Milk-1.jpg",
+      "publishedAt": "2024-03-28T07:18:54Z",
+      "content": "Is milk the best source for calcium? (Photo credit: Pexels)\r\nNew Delhi: Milk is the richest source of calcium, or is it? We have been taught the drinking milk helps provide enough calcium to your bod… [+2908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thedispatch.com"
+      },
+      "author": "Joseph Polidoro",
+      "title": "The Health Risks of Microplastics, Explained - Joseph Polidoro - The Dispatch",
+      "description": "They are likely harmful, but we need more data.",
+      "url": "http://thedispatch.com/article/the-health-risks-of-microplastics-explained/",
+      "urlToImage": "https://thedispatch.com/wp-content/uploads/2024/03/microplastics.jpg?w=1024",
+      "publishedAt": "2024-03-28T06:43:00Z",
+      "content": "If you consume the news, youre probably aware that you also consume plasticand an uncomfortably significant amount of it. One 2021 study that was amplified in a World Wildlife Fund for Nature report … [+6671 chars]"
     },
     {
       "source": {
@@ -27,6 +742,19 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-108821285,imgsize-1506547,width-900,height-1200,resizemode-6/108821285.jpg",
       "publishedAt": "2024-03-28T06:30:00Z",
       "content": "Allicin, a chemical component, is concentrated in large amounts in garlic. This activates the white blood cells, which are essential for protecting the body from infections and dangerous pathogens. B… [+120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Virtual reality trial helping people with Parkinson's symptoms - BBC.com",
+      "description": "Keith Wilson has launched a trial at Teesside Airport to help reduce the symptoms of the condition.",
+      "url": "https://www.bbc.com/news/articles/c6pklegne29o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3d39/live/e6ae1ae0-ec51-11ee-a475-7d96fa48b732.jpg",
+      "publishedAt": "2024-03-28T06:02:01Z",
+      "content": null
     },
     {
       "source": {
@@ -44,15 +772,80 @@
     {
       "source": {
         "id": null,
-        "name": "Zoom"
+        "name": "Thehealthsite.com"
       },
-      "author": "TN Health Desk",
-      "title": "More Than 15,000 Cases Of Mumps Reported In Kerala; Know The Symptoms And Preventive Measures - Times Now",
-      "description": "Mumps is a contagious illness that’s caused by the mumps virus. Kerala has reported more than 15,000 cases of mumps over the last two months. The state authorities have asked the Central government to replace the current MR vaccine used in the Universal Immun…",
-      "url": "https://www.timesnownews.com/health/more-than-15000-cases-of-mumps-reported-in-kerala-know-the-symptoms-and-preventive-measures-article-108836692",
-      "urlToImage": "https://static.tnn.in/thumb/msid-108836724,thumbsize-31378,width-1280,height-720,resizemode-75/108836724.jpg",
-      "publishedAt": "2024-03-28T04:14:32Z",
-      "content": "'Bhabhi Go Away': On Holi, Crowd Hoots, Throws Water At Couple In Varanasi | Video"
+      "author": "Ankit Kumar",
+      "title": "Vitamin B12 Rich Foods For Hair: Top Vitamin B12 Foods For Strong And Healthy Hair | TheHealthSite.com - TheHealthSite",
+      "description": "To grow healthy and beautiful hair it doesn't only depend on your genetics but also needs some natural vitamins like vitamin B 12. Here are top 5 foods rich in vitamin  B 12 for your hair.\r\n TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/photo-gallery/vitamin-b12-rich-foods-for-hair-top-vitamin-b12-foods-for-strong-and-healthy-hair-1076508/",
+      "urlToImage": "https://www.thehealthsite.com/wp-content/uploads/2024/03/Ahmed-21-2.jpg",
+      "publishedAt": "2024-03-28T05:30:26Z",
+      "content": "Green vegetables are a rich source of vitamins and minerals that are essential for hair growth. Vitamins like A, B, C, and E are present in sufficient amounts in green vegetables that promote good sc… [+154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Experts Confirm First Bird Flu Outbreak in Cows: Is It Safe to Drink Milk? - ScienceAlert",
+      "description": "A \"mysterious\" cow disease in the United States that causes thick and discolored dairy milk has turned out to be the first confirmed outbreak of bird flu among cattle.",
+      "url": "https://www.sciencealert.com/experts-confirm-first-bird-flu-outbreak-in-cows-is-it-safe-to-drink-milk",
+      "urlToImage": "https://www.sciencealert.com/images/2024/03/CowMilkVirus.jpg",
+      "publishedAt": "2024-03-28T05:24:33Z",
+      "content": "A \"mysterious\" cow disease in the United States that causes thick and discolored dairy milk has turned out to be the first confirmed outbreak of bird flu among cattle.\r\nAccording to an official state… [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "Simran Arora",
+      "title": "Alzheimer’s disease diet: Study says THIS regimen can help fight dementia risk - News9 LIVE",
+      "description": "The Mediterranean diet recommends eating lots of fruits, vegetables and olive oil, fatty fish too, and nuts and seeds and it has for long been associated with a healthy heart. But now, despite mixed results, it is said to be effective in keeping dementia at b…",
+      "url": "https://www.news9live.com/health/health-news/alzheimers-disease-diet-study-says-this-regimen-can-help-fight-dementia-risk-2480408",
+      "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/03/pexels-cats-coming-406152-2-scaled.jpg",
+      "publishedAt": "2024-03-28T05:17:17Z",
+      "content": "Research also says that sticking to this diet can help improve mental health in a long run. \r\nNew Delhi: According to a recent study, the Mediterranean diet can work wonders to lower the risk of deme… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Zarafshan Shiraz",
+      "title": "Epilepsy and pregnancy: Managing epilepsy during pregnancy and potential effects - Hindustan Times",
+      "description": "Women with epilepsy face unique challenges during pregnancy due to potential risks associated with seizures and antiepileptic medications. Here's how to manage | Health",
+      "url": "https://www.hindustantimes.com/lifestyle/health/epilepsy-and-pregnancy-managing-epilepsy-during-pregnancy-and-potential-effects-101711598968019.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/28/1600x900/young-couple-expecting-baby-hospital-ward-bed-heal_1711599681499_1711599682684.jpg",
+      "publishedAt": "2024-03-28T04:39:09Z",
+      "content": "Managing epilepsy during pregnancy requires careful planning, monitoring and coordination between the patient, obstetrician and neurologist to ensure the health of both the mother and the unborn chil… [+3440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthshots.com"
+      },
+      "author": "Healthshots",
+      "title": "5 detox tips for weight loss - Health shots",
+      "description": "Detox has become a popular method to kick-start a weight loss journey. While detox diets vary widely, incorporating these 5  habits can support your body's natural cleansing process and boost weight",
+      "url": "https://www.healthshots.com/web-stories/detox-tips-for-weight-loss/",
+      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/03/27170334/herbal-tea.jpg",
+      "publishedAt": "2024-03-28T04:31:47Z",
+      "content": "Detox has become a popular method to kick-start a weight loss journey. While detox diets vary widely, incorporating these 5  habits can support your body's natural cleansing process and boost weight … [+1317 chars]"
     },
     {
       "source": {
@@ -70,28 +863,41 @@
     {
       "source": {
         "id": null,
-        "name": "Chosun.com"
+        "name": "Medical Dialogues"
       },
-      "author": "health chosun",
-      "title": "윤혜진, 살 안 찌는 '샐러드' 레시피 공개… 재료 뭔가 봤더니 - 헬스조선",
-      "description": "占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙(44)占쏙옙 占쌘신몌옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占실몌옙 占쏙옙占쏙옙占쌩댐옙. 占쏙옙占쏙옙 28占쏙옙 占쏙옙튜占쏙옙 채占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙 what see TV占쏙옙...",
-      "url": "https://m.health.chosun.com/svc/news_view.html?contid=2024032801134",
-      "urlToImage": "https://health.chosun.com/site/data/img_dir/2024/03/28/2024032801131_0.jpg",
-      "publishedAt": "2024-03-28T02:32:00Z",
-      "content": "?(44) . 28 what see TV ? !! ssap ? ? . , ? ? ? , , ? , , ? . ?\r\n  95% ? . , ?? . ?, ? . ? . C ? ? , . \r\n ?, ? . ? , , ? . . .\r\n?br&gt;? . (NIH) ? 9 ?? . ‧ . ? ? ? ? LDL ? . \r\n ? 90% ? ? . . MD . . ‧ … [+52 chars]"
+      "author": "Anshika Mishra",
+      "title": "Is longer duration of exclusive breastfeeding associated with decreased risk of childhood cancers? :... - Medical Dialogues",
+      "description": "According to a study published in the journal JAMA Network Open, exclusive breastfeeding for at least 3 months has been associated with decreased risk of childhood hematologic cancers,",
+      "url": "https://medicaldialogues.in/mdtv/obstetrics-gynaecology/videos/is-longer-duration-of-exclusive-breastfeeding-associated-with-decreased-risk-of-childhood-cancers-study-126404",
+      "urlToImage": "https://medicaldialogues.in/h-upload/2024/03/28/235125-smoking-is-not-linked-to-weight-loss-finds-study-3.webp",
+      "publishedAt": "2024-03-28T03:30:00Z",
+      "content": "According to a study published in the journal JAMA Network Open, exclusive breastfeeding for at least 3 months has been associated with decreased risk of childhood hematologic cancers, particularly B… [+2660 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "WLOS"
       },
-      "author": "Sabrina Malhi",
-      "title": "Puerto Rico declares dengue fever an epidemic as cases rise - The Washington Post",
-      "description": "More than 500 cases have been reported from the island.",
-      "url": "https://www.washingtonpost.com/health/2024/03/27/puerto-rico-dengue-fever-epidemic/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JSQIQWG6CDJW7HSHBQZC2TEJE_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-03-28T02:19:00Z",
-      "content": "On Monday, government leaders in Puerto Rico declared a dengue epidemic after a spike in cases of the mosquito-borne disease hit the island.\r\nFrom the start of the year through March 10, there were 5… [+5736 chars]"
+      "author": "Marc Liverman",
+      "title": "Allergies hit earlier and harder, climate change and vegetation to blame, WNC doctor says - WLOS",
+      "description": "Dr. Elise Coulson, an allergist with Allergy Partners, says patients seemed to start feeling the effects of pollen earlier in the season",
+      "url": "https://wlos.com/news/local/allergies-hit-asheville-earlier-and-harder-climate-change-and-new-vegetation-to-blame-dr-elise-coulson-allergy-partners-usda-updated-plant-hardiness-zoning-map",
+      "urlToImage": "https://wlos.com/resources/media/6d0e4d01-da13-49b0-b6e0-20cba445315b-large16x9_PPOLLEN.transfer_frame_7471.jpeg",
+      "publishedAt": "2024-03-28T01:37:38Z",
+      "content": "ASHEVILLE, N.C. (WLOS) If you suffer from seasonal allergies, this might not come as a surprise, but at least one local allergy doctor said patients' symptoms this year are starting earlier and are w… [+1964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ecowas.int"
+      },
+      "author": null,
+      "title": "Boostaro Male Enhancement Scam Alter 2024 || Price & Reviews! - ECOWAS",
+      "description": "Boostaro Male Enhancement Reviews - One debilitated life partner is in many cases the primary explanation a couple is troubled. This is valid for a to...",
+      "url": "https://www.ecowas.int/video/male/boostaro-male-enhancement-scam-alter-2024-price-reviews_416ac9f15.html",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T01:20:10Z",
+      "content": "Boostaro Male Enhancement Reviews - One debilitated life partner is in many cases the primary explanation a couple is troubled. This is valid for a ton of accomplices. Men frequently say they need mo… [+248 chars]"
     },
     {
       "source": {
@@ -122,54 +928,15 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Tracy Swartz",
-      "title": "My doctor thought my pain was simply migraines— it was a brain tumor - New York Post ",
-      "description": "Kirsty Connell, 39, went to her doctor after suffering terrible headaches and frequent feelings of déjà vu.",
-      "url": "https://nypost.com/2024/03/27/lifestyle/doctor-thought-womans-pain-was-migraines-but-it-was-brain-tumor/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/79107850.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-03-28T00:12:00Z",
-      "content": "A UK millennial mom of three says her “out-of-body experiences” turned out to be a brain tumor.\r\nKirsty Connell, 39, went to her doctor after suffering terrible headaches and frequent feelings of déj… [+2509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Common Plastic Additive Linked to Autism And ADHD, Scientists Find - ScienceAlert",
-      "description": "The number of people being diagnosed with autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) has risen sharply in recent decades, and research continues to delve into the factors involved in these conditions.",
-      "url": "https://www.sciencealert.com/common-plastic-additive-linked-to-autism-and-adhd-scientists-find",
-      "urlToImage": "https://www.sciencealert.com/images/2023/10/BPAMoleculeBrightOnDarkBlackground.jpg",
-      "publishedAt": "2024-03-27T23:36:13Z",
-      "content": "The number of people being diagnosed with autism spectrum disorder ( ASD) and attention deficit hyperactivity disorder ( ADHD) has risen sharply in recent decades, and research continues to delve int… [+2819 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sandee LaMotte",
-      "title": "Two brains: One visualizes too much, the other not at all - CNN",
-      "description": "Meet two women with unusual ways of experiencing the world: One cannot revisualize people or events, while the other may imagine too much.",
-      "url": "https://www.cnn.com/2024/03/27/health/aphantasia-hyperphantasia-visualization-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1152157066.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-27T23:31:00Z",
-      "content": "Visualizing a memory is a common occurrence for many people. A whiff of cinnamon and ginger may whisk you back to your childhood kitchen to relive eating freshly baked cookies, while hearing a partic… [+10398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": "Science X",
-      "title": "Prolonged use of certain hormone drugs linked to increased brain tumor risk - Medical Xpress",
-      "description": "Prolonged use of certain progestogen hormone drugs is associated with an increased risk of developing a type of brain tumor known as an intracranial meningioma, finds a study from France published by The BMJ today.",
-      "url": "https://medicalxpress.com/news/2024-03-prolonged-hormone-drugs-linked-brain.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2019/meningiomas.jpg",
-      "publishedAt": "2024-03-27T23:30:02Z",
-      "content": "Prolonged use of certain progestogen hormone drugs is associated with an increased risk of developing a type of brain tumor known as an intracranial meningioma, finds a study from France published by… [+4218 chars]"
+      "title": "Google Street View reveals how built environment correlates with risk of cardiovascular disease - Medical Xpress",
+      "description": "Researchers have used Google Street View to study hundreds of elements of the built environment, including buildings, green spaces, pavements and roads, and how these elements relate to each other and influence coronary artery disease in people living in thes…",
+      "url": "https://medicalxpress.com/news/2024-03-google-street-view-reveals-built.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/google-street-view-rev.jpg",
+      "publishedAt": "2024-03-28T00:10:06Z",
+      "content": "Researchers have used Google Street View to study hundreds of elements of the built environment, including buildings, green spaces, pavements and roads, and how these elements relate to each other an… [+5615 chars]"
     },
     {
       "source": {
@@ -186,29 +953,29 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Medical Dialogues"
       },
-      "author": "ET HealthWorld",
-      "title": "The Future of Ageing: Longevity in Modern Society - ETHealthWorld",
-      "description": "Since one in three Indians will be over 50 by 2050 due to the country's current geriatric growth rate of 41%, it is imperative to comprehend and manage the ageing process if one hopes to influence future lifespan. It makes us think about the kind of life we h…",
-      "url": "https://health.economictimes.indiatimes.com/news/industry/the-future-of-ageing-longevity-in-modern-society/108829836",
-      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-108829836,imgsize-66968,width-1200,height=765,overlay-ethealth/industry/the-future-of-ageing-longevity-in-modern-society.jpg",
-      "publishedAt": "2024-03-27T23:06:47Z",
-      "content": "by Darshit PatelThe ageing phenomenon is as certain as the rising sun. But what exactly is ageing? At its core, ageing represents the gradual process of change that occurs in living organisms. The di… [+4386 chars]"
+      "author": "Dr. Kamal Kant Kohli",
+      "title": "Delirium a 'strong risk factor' for dementia among older people: BMJ - Medical Dialogues",
+      "description": "Delirium is a strong risk factor for dementia and death among older people, finds the largest study of its kind published by The BMJ today.   The findings show that, among hospital patients with",
+      "url": "https://medicaldialogues.in/neurology-neurosurgery/news/delirium-a-strong-risk-factor-for-dementia-among-older-people-bmj-126390",
+      "urlToImage": "https://medicaldialogues.in/h-upload/2024/01/23/230766-dementia-50.webp",
+      "publishedAt": "2024-03-27T22:15:44Z",
+      "content": "Delirium is a strong risk factor for dementia and death among older people, finds the largest study of its kind published by The BMJ today. \r\nThe findings show that, among hospital patients with at l… [+3306 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
+        "id": "newsweek",
+        "name": "Newsweek"
       },
-      "author": "Science X",
-      "title": "More older adults being diagnosed with STIs such as gonorrhea and syphilis - Medical Xpress",
-      "description": "A new research review presented at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024, Barcelona, 27-30 April) will look at how to manage the rise in sexually transmitted infections (STIs) in old…",
-      "url": "https://medicalxpress.com/news/2024-03-older-adults-stis-gonorrhea-syphilis.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/olderadults.jpg",
-      "publishedAt": "2024-03-27T22:10:01Z",
-      "content": "by European Society of Clinical Microbiology and Infectious Diseases \r\nA new research review presented at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious … [+188 chars]"
+      "author": "Robyn White",
+      "title": "Older Americans Now Have Twice As Many STIs as a Decade Ago - Newsweek",
+      "description": "The rise is being put down partly to misconceptions around sexual activity among older adults, research has found.",
+      "url": "https://www.newsweek.com/older-americans-stis-1884175",
+      "urlToImage": "https://d.newsweek.com/en/full/2368901/couple-bed.png",
+      "publishedAt": "2024-03-27T22:01:01Z",
+      "content": "Older Americans now have twice as many sexually transmitted infections (STI) when compared to a decade ago, a new study has found.\r\nNew research to be presented in April at the pre-congress day at th… [+3757 chars]"
     },
     {
       "source": {
@@ -226,6 +993,19 @@
     {
       "source": {
         "id": null,
+        "name": "Aarp.org"
+      },
+      "author": "Rachel Nania",
+      "title": "3 Medical Breakthroughs for Older Adults - AARP",
+      "description": "From a genetically modified kidney transplant from a pig to a blood test for colorectal cancer, learn about these 3 medical breakthroughs.",
+      "url": "https://www.aarp.org/health/conditions-treatments/info-2024/medical-breakthroughs-for-older-adults/",
+      "urlToImage": "https://aarp.widen.net/content/nvb6gaes0d/jpeg/%C2%A0100776_3MedicalBreakthroughs.jpg?crop=true&anchor=0,0&q=80&color=ffffffff&u=mh5igy&w=1140&h=655",
+      "publishedAt": "2024-03-27T21:48:16Z",
+      "content": "3. A skin biopsy for Parkinsons disease\r\nDiagnosing Parkinsons disease isnt as cut-and-dried as diagnosing some other health conditions. Often doctors rely on a patients symptoms, medical history and… [+2149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
@@ -239,32 +1019,6 @@
     {
       "source": {
         "id": null,
-        "name": "Queerty.com"
-      },
-      "author": "David Hudson",
-      "title": "It's National Viagra Day & a new study has just found an unexpected side effect of the little blue pill - Queerty",
-      "description": "And why exactly does World Viagra Day fall on March 27? And why exactly does World Viagra Day fall on March 27?",
-      "url": "https://www.queerty.com/its-national-viagra-day-a-new-study-has-found-an-unexpected-side-effect-of-the-little-blue-pill-20240327",
-      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2021/12/viagra_sildenafil_shutterstock_1652592268.jpg?auto=format&auto=compress&fit=crop&gravity=50p,50p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
-      "publishedAt": "2024-03-27T21:00:00Z",
-      "content": "Posed by model (Photo: Shutterstock)\r\nA recent study has confirmed the findings of earlier research which indicates people who regularly take erectile dysfunction medicationparticularly Viagrahave a … [+3687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "author": "Rich Juzwiak",
-      "title": "Sex and sneezing: Every time I try to have sex I set off a bizarre chain of events - Slate",
-      "description": "It can come across as random... but it isn’t.",
-      "url": "https://slate.com/human-interest/2024/03/sex-sneezing-initiating-advice.html",
-      "urlToImage": "https://compote.slate.com/images/c2b08ddb-f041-4107-b3cf-e0b66ff259bc.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2024-03-27T20:28:00Z",
-      "content": "How to Do It is Slates sex advice column. Have a question? Send it to Jessica and Rich here. Its anonymous!\r\nDear How to Do It,\r\nIm (50s M) a photic sneezer. Moving from a darkened room to bright sun… [+12017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
@@ -274,71 +1028,6 @@
       "urlToImage": "https://www.eatingwell.com/thmb/gUGb_D21Q7XqxjkQXM2VWDN5B_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-Roasted-Chickpea-Cauliflower-Pitas-with-Sundried-Tomato-Sauce-1x1-166-ea7500cb191c4c0e945404bdceecd093.jpg",
       "publishedAt": "2024-03-27T20:10:35Z",
       "content": "Say hello to springtime with these delicious and energizing lunch options that will help keep you fueled and feeling your best. Each of these dishes contains at least 15 grams of protein per serving,… [+10173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsmax"
-      },
-      "author": "Newsmax",
-      "title": "Iodine Deficiency: The Connection to Deadly Disease - Newsmax",
-      "description": null,
-      "url": "https://www.newsmax.com/health/health-news/iodine-deficiency-hormones/2024/03/27/id/1158864/",
-      "urlToImage": null,
-      "publishedAt": "2024-03-27T19:40:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Neurosciencenews.com"
-      },
-      "author": "Neuroscience News",
-      "title": "Diabetes, Pollution, and Alcohol Amplify Dementia Risk - Neuroscience News",
-      "description": "Researchers identified key risk factors and genetic influences impacting a specific brain network vulnerable to aging, schizophrenia, and Alzheimer’s disease.",
-      "url": "https://neurosciencenews.com/diabetes-alcohol-alzheimers-25822/",
-      "urlToImage": "https://neurosciencenews.com/files/2024/03/Diabetes-Pollution-and-Alcohol-Amplify-Dementia-Risk.jpg",
-      "publishedAt": "2024-03-27T19:39:05Z",
-      "content": "Summary: Researchers identified key risk factors and genetic influences impacting a specific brain network vulnerable to aging, schizophrenia, and Alzheimers disease. This ‘weak spot’ in the brain is… [+6088 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Taylor Nicioli",
-      "title": "Ancient teeth rarely have a cavity-causing bacteria commonly seen today. A new study reveals why - CNN",
-      "description": "Rare microbiomes from two 4000-year-old teeth could help scientists further understand the impact dietary changes had on the evolution of a cavity-causing bacteria.",
-      "url": "https://www.cnn.com/2024/03/27/europe/bronze-age-teeth-bacteria-human-diet-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/p1020693.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-27T18:28:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nTwo teeth from a man who lived approximately 4,000 yea… [+5335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Exercise Pills: The Next Blockbuster Drug? | Vantage with Palki Sharma - Firstpost",
-      "description": "Exercise Pills: The Next Blockbuster Drug? | Vantage with Palki SharmaAmerican scientists have created new compounds that can regulate the impact of exercise...",
-      "url": "https://www.youtube.com/watch?v=326CCWgp33M",
-      "urlToImage": "https://i.ytimg.com/vi/326CCWgp33M/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T18:17:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Memory self-test via smartphone can identify early signs of Alzheimer's disease - Science Daily",
-      "description": "Dedicated memory tests on smartphones enable the detection of 'mild cognitive impairment', a condition that may indicate Alzheimer's disease, with high accuracy.",
-      "url": "https://www.sciencedaily.com/releases/2024/03/240327123943.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2024-03-27T18:12:52Z",
-      "content": "Dedicated memory tests on smartphones enable the detection of \"mild cognitive impairment,\" a condition that may indicate Alzheimer's disease, with high accuracy. Researchers from DZNE, the Otto-von-G… [+6752 chars]"
     },
     {
       "source": {
@@ -382,6 +1071,19 @@
     {
       "source": {
         "id": null,
+        "name": "National Institutes of Health"
+      },
+      "author": null,
+      "title": "NIH selects Dr. Kathleen Neuzil as director of the Fogarty International Center and NIH associate director for international research - National Institutes of Health (NIH) (.gov)",
+      "description": "Dr. Neuzil, the first woman to hold the permanent FIC directorship, will begin in early May.",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-kathleen-neuzil-director-fogarty-international-center-nih-associate-director-international-research",
+      "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/kathleen-neuzil-thumb.jpg",
+      "publishedAt": "2024-03-27T18:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox56news.com"
       },
       "author": "Urja Sinha, Alix Martichoux",
@@ -421,6 +1123,19 @@
     {
       "source": {
         "id": null,
+        "name": "KSL.com"
+      },
+      "author": "https://www.facebook.com/kslcom/",
+      "title": "Humans give more viruses to animals than they give us, study finds - KSL.com",
+      "description": "Some of the deadliest diseases to stalk humankind have come from pathogens that jumped from animals to people. A new study shows this exchange has not been a one-way street.",
+      "url": "https://www.ksl.com/article/50962446/humans-give-more-viruses-to-animals-than-they-give-us-study-finds",
+      "urlToImage": "https://img.ksl.com/slc/2981/298167/29816708.JPG?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2024-03-27T17:26:18Z",
+      "content": "WASHINGTON Some of the deadliest diseases to infect humans have come from pathogens that jumped from animals to people. The virus that causes AIDS, for example, crossed over from chimpanzees. Many ex… [+4081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WION"
       },
       "author": "Heena Sharma",
@@ -430,6 +1145,19 @@
       "urlToImage": null,
       "publishedAt": "2024-03-27T17:15:13Z",
       "content": "Homemade lemonade, when prepared without added sugars, can be a low-calorie beverage option compared to many other summer drinks."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newstracklive.com"
+      },
+      "author": "EMMANUAL",
+      "title": "Are grapes the cause of cough these days? Know the real reason of the problem from experts - News Track English",
+      "description": "In recent times, a peculiar rumor has been making the rounds - grapes are causing coughs. But is there any truth to this claim? Let's dive into the facts and consult experts to separate fact from fiction.\r\n\r\nExamining the Claims\r\n\r\nDebunking the Myth\r\n\r\nFirst…",
+      "url": "https://english.newstracklive.com/news/are-grapes-the-cause-of-cough-these-days-know-the-real-reason-of-the-problem-from-experts-sc53-nu371-ta371-1314045-1.html",
+      "urlToImage": "https://media.newstracklive.com/uploads/lifestyle-health/health-tips/Mar/27/big_thumb/fhg_6603f9f4ebddb.jpeg",
+      "publishedAt": "2024-03-27T17:08:47Z",
+      "content": "In recent times, a peculiar rumor has been making the rounds - grapes are causing coughs. But is there any truth to this claim? Let's dive into the facts and consult experts to separate fact from fic… [+5611 chars]"
     },
     {
       "source": {
@@ -446,29 +1174,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Katia Hetter",
-      "title": "Are allergies making you feel sick? Here’s how to find out - CNN",
-      "description": "As spring begins, more people than ever are affected by seasonal allergies that are starting earlier and lasting longer. How do you know if you have them?",
-      "url": "https://www.cnn.com/2024/03/27/health/spring-allergies-pollen-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1902025989-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-27T16:49:12Z",
-      "content": "Sniffling a bit more than usual? Welcome to spring allergy season in the Northern Hemisphere. Even if you dont think you have allergies, its worth paying attention to those sniffles.\r\nMore than 1 in … [+7429 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "title": "Brain size steadily increased for people born after 1930s | Latest English News | WION - WION",
+      "description": "The human brain it's the most sophisticated organ created by nature and now a new study has found it is getting bigger. The increased brain size may lead to ...",
+      "url": "https://www.youtube.com/watch?v=Uc_Kglk0sqo",
+      "urlToImage": "https://i.ytimg.com/vi/Uc_Kglk0sqo/maxresdefault.jpg",
+      "publishedAt": "2024-03-27T16:44:29Z",
+      "content": null
     },
     {
       "source": {
@@ -499,41 +1214,15 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
+        "name": "KSL.com"
       },
-      "author": "Science X",
-      "title": "Making long-term memories requires DNA damage, researchers discover - Medical Xpress",
-      "description": "Just as you can't make an omelet without breaking eggs, scientists at Albert Einstein College of Medicine have found that you can't make long-term memories without DNA damage and brain inflammation. Their surprising findings were published in the journal Natu…",
-      "url": "https://medicalxpress.com/news/2024-03-term-memories-requires-dna.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/making-long-term-memor.jpg",
-      "publishedAt": "2024-03-27T16:00:01Z",
-      "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Education Diary"
-      },
-      "author": "iednewsdesk",
-      "title": "New Study Suggests Promising Early Intervention Approach for Diabetic Patients at Risk of Kidney Disease - India Education Diary",
-      "description": "Researchers at the University of Bristol have uncovered a mechanism by which a hormone can protect the blood vessels in the kidneys from the damage caused by diabetes. In doing so, the team has identified a potential early treatment strategy to preve",
-      "url": "https://indiaeducationdiary.in/new-study-suggests-promising-early-intervention-approach-for-diabetic-patients-at-risk-of-kidney-disease/",
-      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/diabeticglomerulus-article.jpg",
-      "publishedAt": "2024-03-27T15:56:42Z",
-      "content": "Researchers at the University of Bristol have uncovered a mechanism by which a hormone can protect the blood vessels in the kidneys from the damage caused by diabetes. In doing so, the team has ident… [+3410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MedPage Today"
-      },
-      "author": "Mike Bassett",
-      "title": "Breastfeeding Tied to Reduced Childhood Leukemia Risk - Medpage Today",
-      "description": "Lower pediatric ALL risk in Danish study when mothers exclusively breastfed for 3 months or more",
-      "url": "https://www.medpagetoday.com/hematologyoncology/leukemia/109376",
-      "urlToImage": "https://assets.medpagetoday.net/media/images/109xxx/109376.jpg",
-      "publishedAt": "2024-03-27T15:53:50Z",
-      "content": "Longer duration of exclusive breastfeeding was associated with a reduced risk of childhood B-cell precursor acute lymphoblastic leukemia (BCP-ALL), according to results from a Danish population-based… [+4363 chars]"
+      "author": "https://www.facebook.com/kslcom/",
+      "title": "Regular exercise is associated with less insomnia, study shows - KSL.com",
+      "description": "Tired from a restless night spent awake? One of the most helpful things to do might be to get some exercise, according to a new study.",
+      "url": "https://www.ksl.com/article/50962736/regular-exercise-is-associated-with-less-insomnia-study-shows",
+      "urlToImage": "https://img.ksl.com/slc/2981/298171/29817159.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2024-03-27T15:50:12Z",
+      "content": "ATLANTA Tired from a restless night spent awake? One of the most helpful things to do might be to get some exercise, according to a new study.\r\n\"Physically active people have a lower risk of insomnia… [+4631 chars]"
     },
     {
       "source": {
@@ -554,25 +1243,25 @@
         "name": "YouTube"
       },
       "author": null,
+      "title": "Your metabolism: How it changes as we age, how to give it a boost - TODAY",
+      "description": "From the foods we eat to the amount of sleep we get, lots of things can affect your metabolism. NBC medical contributor Dr. Tara Narula joins TODAY to explai...",
+      "url": "https://www.youtube.com/watch?v=QIsUxe_XBXQ",
+      "urlToImage": "https://i.ytimg.com/vi/QIsUxe_XBXQ/maxresdefault.jpg",
+      "publishedAt": "2024-03-27T15:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
       "title": "Surgeons Transplant Pigs Kidney Into Human Body For The First Time Ever - MIRROR NOW",
       "description": "Surgeons in Boston have transplanted a genetically engineered pig’s kidney into an ailing 62-year-old man.If successful, the breakthrough offers hope to pati...",
       "url": "https://www.youtube.com/watch?v=TzsW5wGoC-I",
       "urlToImage": "https://i.ytimg.com/vi/TzsW5wGoC-I/maxresdefault.jpg",
       "publishedAt": "2024-03-27T15:26:46Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Malay Mail"
-      },
-      "author": "Malay Mail",
-      "title": "There’s no time like Easter to enjoy the many health benefits of chocolate - Malay Mail",
-      "description": "NEW YORK, March 27 — With Easter just around the corner, chocolate is inevitably on the menu. And while indulging in chocolate eggs, rabbits and other seasonal treats is often...",
-      "url": "https://www.malaymail.com/news/life/2024/03/27/theres-no-time-like-easter-to-enjoy-the-many-health-benefits-of-chocolate/125916",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/03/27/thumbs/400x400/197996.jpg",
-      "publishedAt": "2024-03-27T15:25:14Z",
-      "content": "NEW YORK, March 27 With Easter just around the corner, chocolate is inevitably on the menu. And while indulging in chocolate eggs, rabbits and other seasonal treats is often viewed as a guilty pleasu… [+3232 chars]"
     },
     {
       "source": {
@@ -603,704 +1292,15 @@
     {
       "source": {
         "id": null,
-        "name": "Thehealthsite.com"
-      },
-      "author": "Kinkini Gupta",
-      "title": "What Happens To Your Body When You Quit Eating Ultra-Processed Foods? | TheHealthSite.com - TheHealthSite",
-      "description": "Here are 5 reasons why you should quit eating ultra-processed foods today! TheHealthSite.com",
-      "url": "https://www.thehealthsite.com/photo-gallery/what-happens-to-your-body-when-you-quit-eating-ultra-processed-foods-1076581/",
-      "urlToImage": "https://www.thehealthsite.com/wp-content/uploads/2024/03/pexels-robin-stickel-70497-6.jpg",
-      "publishedAt": "2024-03-27T15:00:36Z",
-      "content": "If there is any kind of diet that is equal to eating poison, it would be eating ultra-processed foods. These food types essentially include processed meat, packaged food, refined wheat and some and a… [+117 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Kristen Rogers",
-      "title": "A new photo series highlights the diverse experiences of breast cancer patients - CNN",
-      "description": "The new photography project “Marks of Majesty” diversifies typical narratives of breast cancer by featuring models who vary in age, race and gender expression.",
-      "url": "https://www.cnn.com/2024/03/27/style/breast-cancer-diversity-marks-of-majesty-photos-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/comita-230430-mom-vanessa-045-final-3x2.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-27T14:57:00Z",
-      "content": "For many people, being diagnosed with breast cancer, and undergoing surgery, brings about a period of grief for the loss of their figure as theyve known it among other things.\r\nBut Vanessa Gonzalez f… [+7610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
+        "name": "UPI.com"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": "Kajari Goswami",
-      "title": "Superfoods that are rich in vitamin D - DNA India",
-      "description": "Superfoods that are rich in vitamin D",
-      "url": "https://www.dnaindia.com/web-stories/lifestyle/superfoods-that-are-rich-in-vitamin-d-1711550199483",
-      "urlToImage": null,
-      "publishedAt": "2024-03-27T14:48:35Z",
-      "content": "Mar 27, 2024, 08:18 PM IST"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WWLP.com"
-      },
-      "author": "Ashley Shook",
-      "title": "Massachusetts ranks highest in U.S. with cases of life-threatening Powassan virus in ticks - WWLP.com",
-      "description": "UMass Amherst researchers detected the emerging Powassan virus using real-time testing during a tick survey in parts of Massachusetts.",
-      "url": "https://www.wwlp.com/news/massachusetts/massachusetts-ranks-highest-in-u-s-with-cases-of-life-threatening-powassan-virus-in-ticks/",
-      "urlToImage": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/08/AP23116559426832.jpg?w=1280",
-      "publishedAt": "2024-03-27T14:36:32Z",
-      "content": "AMHERST, Mass. (WWLP) – UMass Amherst researchers detected the emerging Powassan virus using real-time testing during a tick survey in parts of Massachusetts.\r\nAccording to the CDC, many people infec… [+2260 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Endpoints News"
-      },
-      "author": "Lei Lei Wu",
-      "title": "With GIP, obesity research is at odds - Endpoints News",
-      "description": "Over a decade ago, a group of researchers led by two diabetes experts, Richard DiMarchi and Matthias Tschöp, published a landmark paper in mice that suggested a new way to treat obesity and diabetes. The drug in the study activated two gut hormone receptors —…",
-      "url": "https://endpts.com/with-gip-obesity-research-is-at-odds/",
-      "urlToImage": "https://endpts.com/wp-content/uploads/2024/02/GLPs-shutterstock-1.jpg",
-      "publishedAt": "2024-03-27T14:30:00Z",
-      "content": "Over a decade ago, a group of re­searchers led by two di­a­betes ex­perts, Richard Di­Marchi and Matthias Tschöp, pub­lished a land­mark pa­per in mice that sug­gest­ed a new way to treat obe­si­ty a… [+492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Imaging Technology News"
-      },
-      "author": null,
-      "title": "Siemens Healthineers Announces FDA Clearance of MAGNETOM Terra.X 7-Tesla Magnetic Resonance Scanner - Imaging Technology News",
-      "description": "March 27, 2024 — Siemens Healthineers announces the Food and Drug Administration (FDA) clearance of the MAGNETOM Terra.X, a second-generation clinical 7-tesla magnetic resonance imaging scanner that",
-      "url": "https://www.itnonline.com/content/siemens-healthineers-announces-fda-clearance-magnetom-terrax-7-tesla-magnetic-resonance",
-      "urlToImage": "http://www.itnonline.com/sites/default/files/MAGNETOM%20Terra.X.jpg",
-      "publishedAt": "2024-03-27T14:17:04Z",
-      "content": "March 27, 2024  Siemens Healthineers announces the Food and Drug Administration (FDA) clearance of the MAGNETOM Terra.X, a second-generation clinical 7-tesla magnetic resonance imaging scanner that d… [+2275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Science X",
-      "title": "Scientists discover first-ever mineral-based treatment for widespread disease using the structure of crystals - Medical Xpress",
-      "description": "In a groundbreaking discovery, scientists at the Natural History Museum of Los Angeles County and pharmaceutical firm AstraZeneca have published the first-ever mineral-based treatment for a widespread disease.",
-      "url": "https://medicalxpress.com/news/2024-03-scientists-mineral-based-treatment-widespread.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/nhm-scientists-discove.jpg",
-      "publishedAt": "2024-03-27T14:15:08Z",
-      "content": "This article has been reviewed according to Science X's \r\n editorial process\r\n and policies.\r\n Editors have highlighted\r\n the following attributes while ensuring the content's credibility:\r\nfact-chec… [+2375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Parkinson's News Today"
-      },
-      "author": "Patricia Inácio, PhD",
-      "title": "Syn-One test can detect alpha-synuclein clumps, may aid... - Parkinson's News Today",
-      "description": "The test uses skin biopsies and could detect the phosphorylated alpha-synuclein protein in over 90% of patients in a NIH-sponsored trial.",
-      "url": "https://parkinsonsnewstoday.com/news/syn-one-test-detect-alpha-synuclein-clumps-may-aid-parkinsons-diagnosis/",
-      "urlToImage": "https://parkinsonsnewstoday.com/wp-content/uploads/2023/11/ClinicalTrials-1.png",
-      "publishedAt": "2024-03-27T14:13:06Z",
-      "content": "A test that uses skin biopsies was able to detect the form of alpha-synuclein protein that causes toxic clumps in the brain of people with Parkinsons disease and similar conditions in more than 90% o… [+4041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Cancer-busting vaccines are coming: here's how they work - nature video",
-      "description": "Most vaccines work by teaching the immune system to recognize harmful viruses or bacteria before a person gets infected and becomes unwell. A few cancer vacc...",
-      "url": "https://www.youtube.com/watch?v=SpvhJSGddL0",
-      "urlToImage": "https://i.ytimg.com/vi/SpvhJSGddL0/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T14:00:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Philippe B. Wilson, Samuel J. White",
-      "title": "Honey is said to help with hay fever symptoms – here's what the research says about this claim - The Conversation",
-      "description": "Honey has long been used as a natural remedy for many ailments.",
-      "url": "https://theconversation.com/honey-is-said-to-help-with-hay-fever-symptoms-heres-what-the-research-says-about-this-claim-225728",
-      "urlToImage": "https://images.theconversation.com/files/584039/original/file-20240325-22-41zped.jpg?ixlib=rb-1.1.0&rect=34%2C163%2C5716%2C2854&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-03-27T13:27:00Z",
-      "content": "Honey has a long history as a revered natural remedy across many cultures. Ancient civilisations recognised its therapeutic potential, employing it for various medicinal purposes. The ancient Egyptia… [+4607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thehealthsite.com"
-      },
-      "author": "Kinkini Gupta",
-      "title": "Avocados For Men's Health: 6 Reasons Why Men Should Eat This Superfood Everyday | TheHealthSite.com - TheHealthSite",
-      "description": "Why is it recommended for men to eat avocados daily?  TheHealthSite.com",
-      "url": "https://www.thehealthsite.com/photo-gallery/avocados-for-mens-health-6-reasons-why-men-should-eat-this-superfood-everyday-1076516/",
-      "urlToImage": "https://www.thehealthsite.com/wp-content/uploads/2024/03/pexels-foodie-factor-557659-1.jpg",
-      "publishedAt": "2024-03-27T13:00:00Z",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Policy. \r\nReject allAcce… [+13 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Soumya Pillai",
-      "title": "Fasting, feasting: The science behind intermittent fasting - Hindustan Times",
-      "description": "Once touted to be the wonder drug for weight loss and healthy living, the method has recently faced flak for raising the risk of cardiovascular disease",
-      "url": "https://www.hindustantimes.com/health/fasting-feasting-the-science-behind-intermittent-fasting-101711542652578.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/27/1600x900/intermittent_fasting_1677595133845_1711542800057.jpg",
-      "publishedAt": "2024-03-27T12:46:19Z",
-      "content": "While the findings of the study are being examined, health experts in India are divided over the long-term impacts of intermittent fasting. Some insist that when done correctly, under the guidance of… [+5258 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kritika Pushkarna",
-      "title": "Can drinking salt water in the morning eliminate water retention? Here's what the experts say - The Times of India",
-      "description": "Discover the truth behind drinking salt water in the morning to eliminate water retention. Find expert opinions on the effectiveness and safety of this method, along with tips for managing water retention safely.",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/effectiveness-of-drinking-salt-water-for-water-retention-expert-opinions/articleshow/108823455.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-108824033,width-1070,height-580,imgsize-74974,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-03-27T12:44:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Alexander Olawaiye",
-      "title": "Cancer often requires more than one treatment − an oncologist explains why some patients like Kate Middleton receive both chemotherapy and surgery - The Conversation",
-      "description": "There are many approaches to treating cancer. Which ones work best is determined on an individual basis and informed by each tumor.",
-      "url": "https://theconversation.com/cancer-often-requires-more-than-one-treatment-an-oncologist-explains-why-some-patients-like-kate-middleton-receive-both-chemotherapy-and-surgery-226466",
-      "urlToImage": "https://images.theconversation.com/files/584520/original/file-20240326-28-t6obtc.jpg?ixlib=rb-1.1.0&rect=19%2C0%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-03-27T12:37:43Z",
-      "content": "When Kate Middleton, the princess of Wales, announced in March 2024 that she was receiving preventive chemotherapy following abdominal surgery, many wondered what that entails. Formally known as adju… [+5400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Multiple Sclerosis News Today"
-      },
-      "author": "Marisa Wexler, MS",
-      "title": "MS, other disorders with myelin impairment linked to chemical exposure - Multiple Sclerosis News Today",
-      "description": "Exposure to chemicals commonly found in household products like disinfectants and furniture can disrupt the development of oligodendrocytes.",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2024/03/27/ms-other-disorders-with-myelin-impairment-linked-chemical-exposure/",
-      "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2022/05/DamagedMyelin.png",
-      "publishedAt": "2024-03-27T12:25:00Z",
-      "content": "Two types of chemicals in household disinfectants and furniture can disrupt the development of oligodendrocytes, the brain cells chiefly responsible for making myelin, a new study shows.\r\nThe finding… [+4568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Ankita Upadhyay",
-      "title": "Can drinking milk lower your calcium levels and weaken your bones? Here’s the truth behind Maneka Gandhi video - The Indian Express",
-      "description": "Dr Priyanka Rohatgi, Chief Nutritionist, Apollo Hospitals, busts an online myth and explains why milk is still needed for a balanced diet",
-      "url": "https://indianexpress.com/article/health-wellness/drinking-milk-lower-calcium-levels-weak-bones-maneka-gandhi-9236518/",
-      "urlToImage": "https://images.indianexpress.com/2024/03/health-milk-myth.jpg",
-      "publishedAt": "2024-03-27T12:16:07Z",
-      "content": "Is drinking milk depleting you of calcium instead of building its reserves? A recent video of BJP leader Maneka Gandhi, where she can be heard saying that people who drink the most milk have the leas… [+3458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Vladimir Hedrih",
-      "title": "19% of antidepressant users report sexual problems connected to the treatment - PsyPost",
-      "description": "A study published in the Journal of Affective Disorders Reports found that 19% of antidepressant users without prior sexual problems experienced sexual dysfunction related to their medication, highlighting the impact of side effects on treatment continuation …",
-      "url": "https://www.psypost.org/19-of-antidepressant-users-report-sexual-problems-connected-to-the-treatment/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/03/prescription-pill-bottle.jpg",
-      "publishedAt": "2024-03-27T12:04:27Z",
-      "content": "A study examining patients who use antidepressants revealed that 19% of individuals without prior sexual issues reported encountering sexual problems related to the usage of at least one antidepressa… [+5350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Shethepeople.tv"
-      },
-      "author": "Pratibha Narain",
-      "title": "Navigating Menopause: A Guide To Facing Challenges Times Ahead - SheThePeople",
-      "description": "Menopause may seem a tad bit frightening. But this journey can be made easier by gaining the right knowledge and proactively managing your discomforts.",
-      "url": "https://www.shethepeople.tv/menopause/guide-to-surviving-menopause-india-4423476",
-      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/shethepeople/media/media_files/R7o21fQnImmSWkCUxvhc.jpg",
-      "publishedAt": "2024-03-27T11:55:54Z",
-      "content": "As you cross the bridge to this new phase in your life, menopause, it's natural to feel a mix of emotions. Some women may find it liberating, a sign of freedom from monthly cycles and reproductive co… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": "Priyanjana Pramanik, MSc.",
-      "title": "ADHD medication proves most effective in treating symptoms, new study finds - News-Medical.Net",
-      "description": "A comprehensive overview of treatment options available for ADHD for children and adolescent individuals.",
-      "url": "https://www.news-medical.net/news/20240327/ADHD-medication-proves-most-effective-in-treating-symptoms-new-study-finds.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_775673_17115402183443677.jpg",
-      "publishedAt": "2024-03-27T11:52:00Z",
-      "content": "In a recent review article published in Pediatrics, researchers provided a comprehensive overview of treatment options available for attention-deficit/hyperactivity disorder (ADHD) for children and a… [+6384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "News18",
-      "title": "5 Key Nutrients To Manage Thyroid Health - News18",
-      "description": "Having a balanced diet is key to managing thyroid health. Here are some key ingredients you should incorporate in your diet to manage thyroid health.",
-      "url": "https://www.news18.com/web-stories/lifestyle/5-key-nutrients-to-manage-thyroid-health-1951112/",
-      "urlToImage": "https://images.news18.com/webstories/2024/03/cropped-regulates-thyroid-hormone-production-2024-03-fb4828df01e683257e6b85a8a7cfdc84.jpg",
-      "publishedAt": "2024-03-27T11:50:23Z",
-      "content": "Producer: Mehak PalEditor: Mohit Bisht"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol",
-      "title": "Exercise tips: Don't make these fitness mistakes, avoid injury - Moneycontrol",
-      "description": "Fitness tips: Feeling a burning sensation during exercise is normal and often signifies your muscles working hard. However, don’t ignore sharp, stabbing, or persistent pain",
-      "url": "https://www.moneycontrol.com/health-and-fitness/exercises-common-exercise-mistakes-how-to-avoid-injuries-exercise-tips-exercise-and-fitness-tips-how-to-exercise-correctly-right-posture-in-gym-visual-story-1950935.html",
-      "urlToImage": "https://images.news18.com/webstories/2024/03/Best-exercise-tips-12-2024-03-66d15c22423c4d174ae655fbd99fd534.jpg",
-      "publishedAt": "2024-03-27T11:16:58Z",
-      "content": "Remember, it’s normal to feel a burning sensation during exercise. It often signifies your muscles are working hard. But, beware if its a sharp, stabbing, or persistent pain. Stop, assess the situati… [+52 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "What Is An Ideal Diet For Diabetes? | Medicine Box | N18V | CNBC TV18 - CNBC-TV18",
-      "description": "'Cut off processed food completely if you are diabetic' says Dr Vishakha Shivdasani, Disease Reversal & Longevity Specialist in conversation with Ekta Batra ...",
-      "url": "https://www.youtube.com/watch?v=aVH5pRR9RCg",
-      "urlToImage": "https://i.ytimg.com/vi/aVH5pRR9RCg/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T10:56:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Parmita Uniyal",
-      "title": "Dairy products to eat and avoid for better heart health - Hindustan Times",
-      "description": "When it comes to heart health, dairy consumption must be approached carefully. Here are best and worst dairy products for cardiovascular health. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/dairy-products-to-eat-and-avoid-for-better-heart-health-101711535297505.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/27/1600x900/dairy_products_1711535496466_1711535511050.jpg",
-      "publishedAt": "2024-03-27T10:36:13Z",
-      "content": "Dairy products are considered an important part of a balanced meal and are packed with essential nutrients like calcium, phosphorus, B vitamins, potassium and vitamin D, which are important at variou… [+2865 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Alex Knapp",
-      "title": "How eGenesis Created A Pig Kidney That Was Transplanted Into A Human - Forbes",
-      "description": "Biotech startup eGenesis developed a gene-edited kidney that was successfully transplanted into a living patient last week. Its CEO says the company is just getting started.",
-      "url": "https://www.forbes.com/sites/alexknapp/2024/03/27/the-startup-behind-the-first-pig-human-kidney-transplant-is-targeting-hearts-and-livers-next/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660323936484b494f075724c/0x0.jpg?format=jpg&crop=2400,1350,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-03-27T10:30:00Z",
-      "content": "Surgeons perform the worlds first genetically modified pig kidney transplant into a living human at Massachusetts General Hospital.\r\nMASSACHUSETTS GENERAL HOSPITAL\r\nLast Thursday, surgeons at Massach… [+9434 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Virginia Heffernan",
-      "title": "Elie Hassenfeld Q&A: ‘$5,000 to Save a Life Is a Bargain’ - WIRED",
-      "description": "Here’s Elie Hassenfeld, your high school EA crush. As effective altruism spirals into self-doubt, the idealist quant is still at it, helping Silicon Valley richies give away hundreds of millions each year.",
-      "url": "https://www.wired.com/story/elie-hassenfeld-givewell-ea/",
-      "urlToImage": "https://media.wired.com/photos/65ef718d161cdb99119aefc7/191:100/w_1280,c_limit/Hassenfeld_jchou_wired_8047_fnl_web.jpg",
-      "publishedAt": "2024-03-27T10:00:00Z",
-      "content": "Sometimes donors expect that they can save a life for much less than $5,000, and theyre surprised to encounter our estimate. But most come to share my belief that $5,000 to save a life is a bargain. … [+2599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Publictv.in"
-      },
-      "author": "admin",
-      "title": "Study finds how colorectal cancer gene is associated in broad range of solid tumors - Public TV English",
-      "description": "Washington , March 25 (ANI): A gene linked to colorectal cancer appears to play a role in the development of other solid tumours, according to a study.A study of over 350,000 patient biopsy samples conducted by researchers from the Johns Hopkins Kimmel Cancer…",
-      "url": "https://english.publictv.in/study-finds-how-colorectal-cancer-gene-is-associated-in-broad-range-of-solid-tumors/",
-      "urlToImage": "https://i0.wp.com/english.publictv.in/wp-content/uploads/2024/03/ANI-20240325172135.jpg",
-      "publishedAt": "2024-03-27T09:46:09Z",
-      "content": "WASHINGTON : A gene linked to colorectal cancer appears to play a role in the development of other solid tumours, according to a study.\r\nA study of over 350,000 patient biopsy samples conducted by re… [+3484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foodingredientsfirst.com"
-      },
-      "author": null,
-      "title": "Debate on sweetener safety and health effects continues with new research on weight loss support - Food Ingredients First",
-      "description": "27 Mar 2024 --- New research presented at the upcoming European Congress on Obesity (ECO 2024) on May 12–15 suggests that replacing sugar-sweetened F&B with low- or no-calorie-sweetened products can support weight management for at least one year after fast w…",
-      "url": "https://www.foodingredientsfirst.com/news/debate-on-sweetener-safety-and-health-effects-continues-with-new-research-on-weight-loss-support.html",
-      "urlToImage": "https://article.innovamarketinsights360.com/articleimgs/article_images/638471285764159959Group_of_people_are_watching_a_movie._Friend_girls_eat_popcorn_and_drink_soda_1339252179_5472x3648.jpg",
-      "publishedAt": "2024-03-27T09:33:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Idiva.com"
-      },
-      "author": "Tanvi Nalin Shrivastava",
-      "title": "8 Superfoods That Are Rich In Vitamin B12 - iDiva.com",
-      "description": "",
-      "url": "https://www.idiva.com/ampstories/health-wellness/diet-detox/cheese-eggs-and-other-healthy-foods-that-are-high-in-vitamin-b12/18076365",
-      "urlToImage": "https://im.idiva.com/content/2024/Mar/social_6603e0c46b7d7.jpg",
-      "publishedAt": "2024-03-27T09:10:22Z",
-      "content": "Vegetables like kale, spinach, and collard greens are good sources of vitamins C, B12 and E."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Deadly Strep Infection Cases On The Rise In Japan | IN18V | CNBC TV18 - CNBC-TV18",
-      "description": "The Japanese health authority has issued a warning regarding a surge in potentially deadly strep throat infections. The number of cases reported in Tokyo is ...",
-      "url": "https://www.youtube.com/watch?v=hGjIkh9MMWA",
-      "urlToImage": "https://i.ytimg.com/vi/hGjIkh9MMWA/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T09:01:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zoom"
-      },
-      "author": "Pallavi+Mehra",
-      "title": "10 Detox Tips For Weight Loss - Times Now",
-      "description": "Detoxification, when done in a healthy and balanced manner, can support weight loss by helping to rid the body of toxins, reducing inflammation, and improving overall health. Here are some detox tips that may aid in weight loss.",
-      "url": "https://www.timesnownews.com/web-stories/health/10-detox-tips-for-weight-loss/photostory/108815501.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-108815543,width-900,height-1200,resizemode-6.cms",
-      "publishedAt": "2024-03-27T09:00:00Z",
-      "content": "Incorporate detoxifying foods such as leafy greens, cruciferous vegetables (e.g., broccoli, cabbage, kale), garlic, ginger, turmeric, and green tea into your diet. These foods contain compounds that … [+51 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Nivedita",
-      "title": "Menopause: Vitamins, iron and calcium in daily diet is crucial to manage mood swings, hot flashes, weight... - Moneycontrol",
-      "description": "Menopause: Nutritional choices made during early stages of life can have profound effects on women's health and fitness post-menopause. Adequate intake of essential nutrients, combined with a balanced diet and healthy lifestyle habits, lays the foundation for…",
-      "url": "https://www.moneycontrol.com/health-and-fitness/menopause-mood-swings-weight-gain-hot-flashes-vitamins-iron-and-calcium-in-daily-diet-is-crucial-to-manage-hormonal-changes-in-women-article-12530181.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/02/Perimenopause-770x433.jpg",
-      "publishedAt": "2024-03-27T08:31:30Z",
-      "content": "As women transition through various stages of life, from adolescence to adulthood and eventually menopause, their nutritional needs undergo significant changes. While proper nutrition is crucial at a… [+2832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Women Should Add These Zinc-Rich Foods To Their Diet For Better Health - NDTV",
-      "description": "Below we share the many benefits of consuming zinc-rich foods for women.",
-      "url": "https://www.ndtv.com/health/women-should-add-these-zinc-rich-foods-to-their-diet-for-better-health-5319591",
-      "urlToImage": "https://c.ndtvimg.com/2020-06/jrqkh7s_zinc_625x300_26_June_20.jpg",
-      "publishedAt": "2024-03-27T08:30:56Z",
-      "content": "For optimal health benefits, it's important to consume a varied and balanced diet\r\nIncorporating zinc-rich foods into the diet is important for overall health, particularly for women, as zinc plays a… [+3402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inshorts.com"
-      },
-      "author": "Dr Shailesh Singh",
-      "title": "4 Tips for Maintaining a Healthy Weight | Tap to know more | Inshorts - Inshorts",
-      "description": "4 Tips for healthy heart and maintaining a healthy weight 1. Don't overeat. Control your portion sizes. 2. Hav",
-      "url": "https://inshorts.com/en/news/4-tips-for-maintaining-a-healthy-weight-1711514029758",
-      "urlToImage": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/03_mar/27_wed/img_1711513882030_500.jpg?",
-      "publishedAt": "2024-03-27T07:49:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAYonline"
-      },
-      "author": null,
-      "title": "Japan warns on surge in potentially deadly strep throat cases - TODAY",
-      "description": "TOKYO — Japanese health authorities have warned about a jump in potentially deadly strep throat infections, with cases running about three times higher than last year in Tokyo.",
-      "url": "https://www.todayonline.com/world/japan-warns-surge-potentially-deadly-strep-throat-cases-2392056",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Imq-T47n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:tdy:watermark:2021-10:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-03-26t140632z_1_lynxnpek2p0lg_rtroptp_3_new-year-japan-shrine.jpg?itok=3lXdbr-T",
-      "publishedAt": "2024-03-27T07:48:14Z",
-      "content": "TOKYO  Japanese health authorities have warned about a jump in potentially deadly strep throat infections, with cases running about three times higher than last year in Tokyo.\r\nAcross the country, in… [+909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "sahas, Buzz Staff",
-      "title": "21-Year-Old Student Succumbs To Bird Flu In Vietnam; Should You Be Concerned? - News18",
-      "description": "The 21-year-old student succumbed to the H5N1 subtype of the virus on March 23, 2024.",
-      "url": "https://www.news18.com/viral/21-year-old-student-succumbs-to-bird-flu-in-vietnam-should-you-be-concerned-8829661.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/untitled-design-2024-03-27t125547.683-2024-03-3438753ee01dd32d04a0af0136a5ae8b-16x9.png?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-03-27T07:46:56Z",
-      "content": "In Vietnam, a 21-year-old student tragically became the countrys first documented human casualty of avian influenza, commonly referred to as bird flu. The Vietnams Ministry of Health verified the fat… [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Khushi Pal",
-      "title": "5 low-calorie fruits to help you lose weight in summers - Hindustan Times",
-      "description": "Here are five low-calorie fruits to help you lose weight.",
-      "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-low-calorie-fruits-to-help-you-lose-weight-in-summers-101711519607959.html",
-      "urlToImage": null,
-      "publishedAt": "2024-03-27T07:30:07Z",
-      "content": "By Khushi PalPublished Mar 27, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ankita Shukla",
-      "title": "These kitchen ingredients can stop hair fall instantly - The Times of India",
-      "description": "These simple kitchen ingredients can stop your hair fall.",
-      "url": "https://timesofindia.indiatimes.com/life-style/beauty/web-stories/these-kitchen-ingredients-can-stop-hair-fall-instantly/photostory/108812674.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-108812717,imgsize-24540,width-900,height-1200,resizemode-6/108812717.jpg",
-      "publishedAt": "2024-03-27T07:30:00Z",
-      "content": "Hair fall can have various underlying causes, and addressing them requires a holistic approach. Here are 10 kitchen ingredients that are commonly believed to stop hair fall."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Sabah"
-      },
-      "author": "Reuters",
-      "title": "Humans transmit twice as many viruses to animals as they receive | Daily Sabah - Daily Sabah",
-      "description": "Some of the deadliest diseases to stalk humankind have come from pathogens that jumped from animals to people. The virus that causes AIDS, for example,...",
-      "url": "https://www.dailysabah.com/life/humans-transmit-twice-as-many-viruses-to-animals-as-they-receive/news",
-      "urlToImage": "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/03/27/thumbs/800x531/321280.jpg",
-      "publishedAt": "2024-03-27T06:57:23Z",
-      "content": "Some of the deadliest diseases to stalk humankind have come from pathogens that jumped from animals to people. The virus that causes AIDS, for example, crossed over from chimpanzees. And many experts… [+3970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthshots.com"
-      },
-      "author": "Healthshots",
-      "title": "5 health benefits of zucchini - Health shots",
-      "description": "Zucchini is a popular and nutritious vegetable. Packed with essential nutrients, including vitamins C, K, and B6, minerals like potassium, manganese, and folate, it can offer these 5 health benefits.",
-      "url": "https://www.healthshots.com/web-stories/5-health-benefits-of-zucchini/",
-      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/03/27121516/1.jpg",
-      "publishedAt": "2024-03-27T06:47:22Z",
-      "content": "Zucchini, also known as courgette, is a popular and nutritious vegetable. Packed with essential nutrients, including vitamins C, K, and B6, as well as minerals like potassium, manganese, and folate, … [+1354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thehealthsite.com"
-      },
-      "author": "saumya pandey",
-      "title": "Unveiling Hidden Risks: Brain Changes Linked To Heart Conditions | TheHealthSite.com - TheHealthSite",
-      "description": "The revelation of hidden brain changes in individuals with heart conditions underscores the intricate interplay between cardiovascular health and neurological well-being. TheHealthSite.com",
-      "url": "https://www.thehealthsite.com/diseases-conditions/unveiling-hidden-risks-brain-changes-linked-to-heart-conditions-1076316/",
-      "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2024/03/male-medical-figure-with-front-brain-highlighted-2.jpg",
-      "publishedAt": "2024-03-27T05:57:00Z",
-      "content": "Brain imaging in individuals with heart disease to identify and mitigate these silent threats.\r\nThe revelation of hidden brain changes in individuals with heart conditions underscores the intricate i… [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Neha Yadav",
-      "title": "5 yoga asanas to promote healthy hair - Hindustan Times",
-      "description": "5 yoga asanas to promote healthy hair",
-      "url": "https://www.hindustantimes.com/web-stories/lifestyle/5-yoga-asanas-to-promote-healthy-hair-101711510918395.html",
-      "urlToImage": null,
-      "publishedAt": "2024-03-27T05:42:19Z",
-      "content": "By Neha YadavPublished Mar 27, 2024\r\nHindustan TimesLifestylePhoto Credits: Pexels"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Public urged to consult doctors before undertaking intermittent fasting | ANC - ANC 24/7",
-      "description": "Dateline Philippines: If you're fasting because of holy week or to just become healthier, here's a guide on how to do it right.Join ANC PRESTIGE to get acces...",
-      "url": "https://www.youtube.com/watch?v=h365mMlKRxA",
-      "urlToImage": "https://i.ytimg.com/vi/h365mMlKRxA/maxresdefault.jpg",
-      "publishedAt": "2024-03-27T04:59:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The News Minute"
-      },
-      "author": "TNM",
-      "title": "Apollo Cancer Centres Pioneers A New Era In Breast Cancer Surgery - The News Minute",
-      "description": "Robotic breast surgery performed in the state-of-the-art Da Vinci Xi, enabling high precisionHelps maintain the shape and contour of the breastImproved preserva",
-      "url": "https://www.thenewsminute.com/product/apollo-cancer-centres-pioneers-a-new-era-in-breast-cancer-surgery",
-      "urlToImage": "https://media.assettype.com/thenewsminute%2F2024-03%2Fbb8f7fc8-d5d2-4896-9361-36c5f1dfbbfa%2F050A4225.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2024-03-27T04:14:59Z",
-      "content": "<ul><li>Robotic breast surgery performed in the state-of-the-art Da Vinci Xi, enabling high precision\r\n</li><li>Helps maintain the shape and contour of the breast\r\n</li><li>Improved preservation of n… [+5347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KETV Omaha"
-      },
-      "author": "Bill Schammert",
-      "title": "Nebraska Medicine rolls out new heart procedure for AFib - KETV Omaha",
-      "description": "Nebraska Medicine was the first facility in an eight-state region to start a new ablation procedure.",
-      "url": "https://www.ketv.com/article/nebraska-medicine-rolls-out-new-heart-procedure-for-afib/60312536",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nebraska-med-image-66036f714a52b.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "publishedAt": "2024-03-27T03:30:00Z",
-      "content": "OMAHA, Neb. —When Doris McCann awoke from her anesthesia at Nebraska Medicine on March 11, she couldn't believe what she was feeling. \r\nNothing. \r\n\"I felt normal like did they do anything?\" she said.… [+3271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EurekAlert"
-      },
-      "author": null,
-      "title": "PolyU researchers invent non-invasive diagnostic device Smart-CKD for advancing clinical management of chronic kidney disease - EurekAlert",
-      "description": "<p>Efficient clinical management of chronic kidney disease (CKD) is crucial for public health, as it is a progressive condition that affects 10% of the global population. Early diagnosis and active monitoring play a vital role in effectively treating and prog…",
-      "url": "https://www.eurekalert.org/news-releases/1039070",
-      "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/86adb3f7-26a7-4c19-83c1-2e273de99b60/Rendition/thumbnail/Content/Public",
-      "publishedAt": "2024-03-27T02:02:19Z",
-      "content": "image: PolyU researchers invent non-invasive diagnostic device Smart-CKD for advancing clinical management of chronic kidney disease\r\nview more \r\nCredit: © 2024 Research and Innovation Office, The Ho… [+7378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Jeroen van Boxtel, Jovana Acevska, Pratik Raul",
-      "title": "'Noisy' autistic brains seem better at certain tasks. Here's why neuroaffirmative research matters - The Conversation Indonesia",
-      "description": "‘Neural noise’ isn’t the sounds you hear, but rather the variability of responses in your brain. Autistic people are thought to have greater variance that can be a disadvantage or a strength.",
-      "url": "https://theconversation.com/noisy-autistic-brains-seem-better-at-certain-tasks-heres-why-neuroaffirmative-research-matters-225180",
-      "urlToImage": "https://images.theconversation.com/files/582749/original/file-20240319-24-qstvmi.jpg?ixlib=rb-1.1.0&rect=108%2C594%2C5808%2C2899&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2024-03-27T01:24:00Z",
-      "content": "Autism is a neurodevelopmental difference associated with specific experiences and characteristics. \r\nFor decades, autism research has focused on behavioural, cognitive, social and communication diff… [+5984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Tracy Swartz",
-      "title": "Migraines an 'important' warning sign for strokes in young adults: new research - New York Post ",
-      "description": "“These findings are significant because most of our attention has been focused on traditional risk factors” for strokes, said the study’s lead author.",
-      "url": "https://nypost.com/2024/03/26/lifestyle/migraines-an-important-warning-sign-for-strokes-in-young-adults-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-176r1y9zt-1711495745642.jpg?quality=75&strip=all&1711481381&w=1024",
-      "publishedAt": "2024-03-27T00:37:00Z",
-      "content": "Here’s another headache for millennials and Gen Zers if they suffer from migraines, they may face an increased risk of stroke, new research finds.\r\nThe study authors found that nontraditional stroke … [+3610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC4 WCMH-TV"
-      },
-      "author": "Cierra Johnson",
-      "title": "Measles outbreak prompts health warning - NBC4 WCMH-TV",
-      "description": "COLUMBUS, Ohio (WCMH) – The number of U.S. measles cases in the first three months of 2024 has already equaled all of the cases for 2023. This is sparking a health alert from local, state, and federal health agencies. Health officials in the Dayton area are w…",
-      "url": "https://www.nbc4i.com/news/local-news/columbus/measles-outbreak-prompts-health-warning/",
-      "urlToImage": "https://www.nbc4i.com/wp-content/uploads/sites/18/2024/02/measles-on-child.png?w=1280",
-      "publishedAt": "2024-03-27T00:30:00Z",
-      "content": "COLUMBUS, Ohio (WCMH) The number of U.S. measles cases in the first three months of 2024 has already equaled all of the cases for 2023.\r\nThis is sparking a health alert from local, state, and federal… [+1202 chars]"
+      "title": "Lack of adequate sleep may increase risk of blood pressure - UPI News",
+      "description": "A major review of data confirms that getting less than the recommended amount of sleep each night is a risk factor for high blood pressure.",
+      "url": "https://www.upi.com",
+      "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/4441711547105/2024/1/17115495648676/v1.5/Lack-of-adequate-sleep-may-increase-risk-of-blood-pressure.jpg",
+      "publishedAt": "2024-03-27T14:53:24Z",
+      "content": "A major review of data confirms that getting less than the recommended amount of sleep each night is a risk factor for high blood pressure.\r\nData collected in 16 studies conducted from 2000 through 2… [+2487 chars]"
     }
   ]
 }
