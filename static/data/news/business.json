@@ -1,45 +1,734 @@
 {
   "status": "ok",
-  "totalResults": 132,
+  "totalResults": 152,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Jon Christian",
+      "title": "Microsoft and OpenAI Reportedly Building $100 Billion Secret Supercomputer to Train Advanced AI - Futurism",
+      "description": "Microsoft and OpenAI are reportedly working on a $100 billion supercomputer, codenamed Stargate, to train advanced new AI.",
+      "url": "https://futurism.com/the-byte/microsoft-openai-supercomputer",
+      "urlToImage": "https://wp-assets.futurism.com/2024/03/microsoft-openai-supercomputer.jpg",
+      "publishedAt": "2024-03-30T18:11:03Z",
+      "content": "That's \"billion\" with a \"b.\"\r\nMicrosoft Sam\r\nIt's no secret that OpenAI and its chief financier Microsoft are charging ahead in a bid to make AI the next big thing in computing.\r\nBut a new scoop puts… [+1928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US regulator issues highest alert for heart pump linked to 49 deaths - BBC.com",
+      "description": "The device, which is used to temporarily support a patient's heart, remains on the market in the US.",
+      "url": "https://www.bbc.com/news/world-latin-america-68698626",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE9A/production/_133049784_gettyimages-1032111798.jpg",
+      "publishedAt": "2024-03-30T17:19:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "AT&T confirms data breach and resets millions of customer passcodes - The Verge",
+      "description": "AT&T says more than 7.6 million current customers and 65 million former customers were affected by a data leak exposing social security numbers, passcodes, and other information.",
+      "url": "https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JekL02kevmRw0VXfJyaADG9mZII=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24785180/STK158_ATT_01.jpg",
+      "publishedAt": "2024-03-30T17:01:11Z",
+      "content": "AT&amp;T confirms data breach and resets millions of customer passcodes\r\nAT&amp;T confirms data breach and resets millions of customer passcodes\r\n / A file containing data including passcodes and soc… [+1804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anjalee Khemlani",
+      "title": "Walgreens CEO: 'We are on a mission to achieve provider status for our pharmacists' - Yahoo Finance",
+      "description": "Walgreens is in the middle of a turnaround strategy. CEO Tim Wentworth sat down with Yahoo Finance to discuss the company's new focus.",
+      "url": "https://finance.yahoo.com/news/walgreens-ceo-we-are-on-a-mission-to-achieve-provider-status-for-our-pharmacists-170023016.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Bera71qcQJwhf6MpzIadTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/227923f0-ed13-11ee-a6ff-585ae1f89478",
+      "publishedAt": "2024-03-30T17:00:23Z",
+      "content": "Walgreens Boots Alliance (WBA) CEO Tim Wentworth is changing the way the retail pharmacy chain operates in a bid to become a more clinically oriented brand though without the clinics.\r\n\"We like where… [+4235 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ahjané Forbes",
+      "title": "Passengers injured after United Airlines flight from Israel diverted to NY over turbulence - USA TODAY",
+      "description": "A United Airlines flight from Israel was diverted to New York on Friday after the plane experienced severe turbulence. Several passengers were hurt.",
+      "url": "https://www.usatoday.com/story/travel/airline-news/2024/03/30/united-airlines-flight-diverted-new-york-turbulence/73154521007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/30/USAT/73154573007-usatsi-22888444.jpg?crop=2999,1688,x0,y86&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-30T16:07:23Z",
+      "content": "A United Airlines flight from Israel made an emergency landing in New York on Friday after the plane experienced severe turbulence that required several passengers to seek medical attention.\r\nThe fli… [+2139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Economist",
+      "title": "Sam Bankman-Fried’s downfall is complete | Mint - Mint",
+      "description": "The erstwhile crypto king is convicted of seven counts of fraud",
+      "url": "https://www.livemint.com/companies/people/sam-bankman-fried-s-downfall-is-complete-11711814079114.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Bankman-Fried-FTX-1_1711814254664_1711814272659.jpg",
+      "publishedAt": "2024-03-30T16:00:50Z",
+      "content": "IT TOOK A jury just four hours to deliberate on the seven, complicated charges of financial fraud facing Sam Bankman-Fried, the founder of FTX, a cryptocurrency exchange. They had to parse what would… [+13355 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "NDTV News"
       },
       "author": null,
-      "title": "US Techies Claim IT Firm Gave Their Jobs To Indians On H1-B Visas: Report - NDTV",
-      "description": "A group of American professionals has levelled serious allegations against Indian tech giant Tata Consultancy (TCS) in the latest twist to the ongoing debate over the US visa program for skilled foreign workers.",
-      "url": "https://www.ndtv.com/business-news/us-techies-allege-tcs-fired-them-to-hire-indians-on-h-1b-visas-report-5337925",
-      "urlToImage": "https://c.ndtvimg.com/2024-03/9qq70s9c_tech-office-generic_625x300_30_March_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240316.08",
-      "publishedAt": "2024-03-30T05:36:32Z",
-      "content": "New Delhi: A group of American professionals has levelled serious allegations against Indian tech giant Tata Consultancy (TCS) in the latest twist to the ongoing debate over the US visa program for s… [+2328 chars]"
+      "title": "Anand Mahindra Backs Elon Musk's Call For Celebrating Heroes Of Manufacturing - NDTV",
+      "description": "Mahindra Group Chairman Anand Mahindra, known for his influential presence on social media, recently opened up about his early days in his career and also talked about his humble beginnings.",
+      "url": "https://www.ndtv.com/feature/anand-mahindra-backs-elon-musks-call-for-celebrating-heroes-of-manufacturing-5341210",
+      "urlToImage": "https://c.ndtvimg.com/2023-06/9m9456ho_anand-mahindra-_625x300_05_June_23.jpg",
+      "publishedAt": "2024-03-30T15:57:51Z",
+      "content": "\"Couldn't agree more @elonmusk,\" Mr Mahindra wrote in response to Mr Musk's tweet.\r\nMahindra Group Chairman Anand Mahindra, known for his influential presence on social media, recently opened up abou… [+2883 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Business Desk",
+      "title": "Businesses have responsibility to build stronger, more inclusive India: Mukesh Ambani - The Times of India",
+      "description": "India Business News: Mukesh Ambani praises the gems and diamonds sector's progress at a GJEPC event, emphasizing collaboration opportunities and Shloka Mehta's role. The i",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/businesses-have-responsibility-to-build-stronger-more-inclusive-india-mukesh-ambani/articleshow/108903779.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108904041,width-1070,height-580,imgsize-1570983,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-30T15:00:00Z",
+      "content": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The pr… [+486 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters.com",
+      "title": "Texas federal judge blocks updated fair lending rules - Reuters.com",
+      "description": null,
+      "url": "https://www.reuters.com/business/finance/texas-federal-judge-blocks-updated-fair-lending-rules-2024-03-30/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T14:44:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Chocolate prices to keep rising as West Africa’s cocoa crisis deepens - Al Jazeera English",
+      "description": "Top growers in Ivory Coast and Ghana are facing catastrophic harvests, resulting in record-high cocoa prices.",
+      "url": "https://www.aljazeera.com/gallery/2024/3/30/chocolate-prices-to-keep-rising-as-west-africas-cocoa-crisis-deepens",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-28T130347Z_255422067_RC2AA6A6179P_RTRMADP_3_WESTAFRICA-COCOA-1711805084.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-30T14:33:45Z",
+      "content": "Long the worlds undisputed cocoa powerhouses, accounting for more than 60 percent of global supply, Ghana and its West African neighbour Ivory Coast are both facing catastrophic harvests this season.… [+2200 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "News18"
+        "name": "Kstp.com"
       },
-      "author": "Shahrukh Shah",
-      "title": "Hyundai Alcazar Facelift Spied in South Korea, Check Top Upcoming Updates - News18",
-      "description": "It has been reported that the vehicle might hit the market somewhere in mid-2024. However, the company has not shared any official details about the same as yet.",
-      "url": "https://www.news18.com/auto/hyundai-alcazar-facelift-spied-in-south-korea-check-top-upcoming-updates-8833350.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/new-project-1-2-2024-03-30t104116.279-2024-03-17e6c9c68b753b9be6df3277874e2fc8-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-03-30T05:20:30Z",
-      "content": "After sucesfully releasing the facelift avatar of Creta, Hyundai is now preparing to release the facelift version of elder sibling Alcazar. Ahead of the official launch, the vehicle has been spied on… [+1838 chars]"
+      "author": "Morgan Reddekopp",
+      "title": "Rival rideshare companies prepare for Twin Cities as Uber and Lyft threaten to leave - KSTP",
+      "description": "Two rideshare cooperatives say they’re getting ready to hit the streets of the Twin Cities as Uber and Lyft prepare to stop their services in the area.",
+      "url": "https://kstp.com/kstp-news/top-news/rival-rideshare-companies-prepare-for-twin-cities-as-uber-and-lyft-threaten-to-leave/",
+      "urlToImage": "https://kstp.com/wp-content/uploads/2024/03/RIDESHARE-COOP_PKG_00.01.12.22.jpg",
+      "publishedAt": "2024-03-30T14:19:34Z",
+      "content": "Two rideshare cooperatives say theyre getting ready to hit the streets of the Twin Cities as Uber and Lyft prepare to stop their services in the area.\r\nFriday afternoon, the Minnesota Uber Lyft Drive… [+1781 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
+        "name": "Fox Business"
       },
-      "author": "Vivian Chow",
-      "title": "Southern California winner of $1.08 billion Powerball jackpot revealed - KTLA Los Angeles",
-      "description": "The Southern California winner of last summer’s $1.08 billion Powerball jackpot has been revealed on Friday. The winning ticket was purchased in July 2023 by Yanira Alvarez at the Las Palmitas Mini Market located at 1205 Wall Street in downtown Los Angeles ne…",
-      "url": "https://ktla.com/news/local-news/california-winner-of-1-08-billion-powerball-jackpot-revealed/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/07/Powerball-1-2-1-1.jpg?w=1280",
-      "publishedAt": "2024-03-30T05:19:10Z",
-      "content": "The Southern California winner of last summers $1.08 billion Powerball jackpot has been revealed on Friday.\r\nThe winning ticket was purchased in July 2023 by Yanira Alvarez at the Las Palmitas Mini M… [+1778 chars]"
+      "author": "Erica Lamberg",
+      "title": "Six moves you’re making that can ruin your credit score - Fox Business",
+      "description": "Even people with favorable credit scores and those who practice sound money habits can sometimes make foolish choices when it comes to their credit scores.",
+      "url": "https://www.foxbusiness.com/personal-finance/six-moves-youre-making-that-can-ruin-your-credit-score",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/man-at-desk-with-coffee.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-30T14:03:00Z",
+      "content": "One of the most important lessons regarding your finances to understand is to preserve and protect your credit score, as it can affect many directions and decisions throughout your life.\r\n\"Your credi… [+4449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOMO News"
+      },
+      "author": "DEE-ANN DURBIN AP Business Writer",
+      "title": "What's keeping egg prices high for Easter? It's not just inflation - KOMO News",
+      "description": "It's the second year in a row consumers have faced sticker shock ahead of Easter and Passover, both occasions in which eggs play prominent roles.",
+      "url": "https://komonews.com/news/nation-world/easter-eggs-holiday-inflation-sticker-shock-easter-passover-food-agribusiness-avian-flu-outbreak-chickens-europe-africa-asia-north-america",
+      "urlToImage": "https://komonews.com/resources/media/073fdcdc-a022-4779-8da4-6f62dd738b1c-large16x9_AP24085620622174.jpg",
+      "publishedAt": "2024-03-30T14:02:19Z",
+      "content": "Egg prices are at near-historic highs in many parts of the world as the spring holidays approach, reflecting a market scrambled by disease, high demand and growing costs for farmers.\r\nIts the second … [+4957 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "GDP set to grow 8% or more in Jan-March quarter: FM Nirmala Sitharaman - The Economic Times",
+      "description": "Nirmala Sitharaman projects 8% GDP growth for India in Q4 and 2023/24, focusing on inflation management and macroeconomic stability. The Reserve Bank of India governor is optimistic, foreseeing growth closer to 8%.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/gdp-set-to-grow-8-or-more-in-jan-march-quarter-fm-nirmala-sitharaman/articleshow/108902315.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108902525,width-1200,height-630,imgsize-63640,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-30T13:22:18Z",
+      "content": "India's gross domestic product (GDP) will grow by 8% or more in the fourth quarter of current fiscal year, Finance Minister Nirmala Sitharaman said on Saturday.Sitharaman said that the economy is exp… [+1270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TwinCities.com-Pioneer Press"
+      },
+      "author": "Joe Soucheray",
+      "title": "Joe Soucheray: Kathy Cargill had me at ‘McLaren’ … - St. Paul Pioneer Press",
+      "description": "Kathy Cargill had me at McLaren, which distinguishes her from 99.99 percent of all other Minnesotans who are looking for their stolen Kias.",
+      "url": "https://www.twincities.com/2024/03/30/joe-soucheray-kathy-cargill-had-me-at-mclaren/",
+      "urlToImage": "https://www.twincities.com/wp-content/uploads/2018/04/wpid-20131217__soucheray_column_mug.jpg?w=599&h=336",
+      "publishedAt": "2024-03-30T13:20:45Z",
+      "content": "Kathy Cargill had me at McLaren, which distinguishes her from 99.99 percent of all other Minnesotans who are looking for their stolen Kias. McLarens are British super cars that can cost millions. Car… [+3946 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETtech",
+      "title": "TCS layoffs: US techies allege Indian IT major of employment discrimination - The Economic Times",
+      "description": "According to a report in the Wall Street Journal, more than 20 employees have filed complaints against TCS, alleging preferential treatment towards individuals on H-1B visas.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/a-look-at-tcs-recruitment-glitches-as-us-techies-allege-it-major-of-employment-discrimination/articleshow/108902168.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108902180,width-1200,height-630,imgsize-93832,overlay-ettech/photo.jpg",
+      "publishedAt": "2024-03-30T13:13:53Z",
+      "content": "A group of tech professionals working with TCS in the US have accused the IT major of employment discrimination. They alleged that TCS terminated their employment on brief notice and replaced many of… [+3516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hayden Field, Kif Leswing",
+      "title": "Generative AI 'FOMO' is driving tech heavyweights to invest billions of dollars in startups - CNBC",
+      "description": "Tech giants are backing artificial intelligence startups, often investing huge sums in exchange for access to the technology.",
+      "url": "https://www.cnbc.com/2024/03/30/fomo-drives-tech-heavyweights-to-invest-billions-in-generative-ai-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107336444-1700489877002-107336444-1700489069138-107336444-1700488990843-gettyimages-1778707567-js1_7818_bjti3i4c.jpg?v=1711661393&w=1920&h=1080",
+      "publishedAt": "2024-03-30T13:00:01Z",
+      "content": "Microsoft CEO Satya Nadella, right, greets OpenAI CEO Sam Altman during the OpenAI DevDay event in San Francisco on Nov. 6, 2023.\r\nTech giants aren't doing much acquiring these days, due mostly to an… [+8370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Nikita Prasad",
+      "title": "Monthly SIPs, gift fund & more: Edelweiss' Radhika Gupta's guide to investment plans for children | Mint - Mint",
+      "description": "Radhika Gupta of Edelweiss says parents should create a bank account and start monthly SIPs for children in order to plan correctly for their higher education expenses.",
+      "url": "https://www.livemint.com/money/personal-finance/monthly-sips-bank-account-heres-edelweiss-radhika-guptas-guide-to-investment-plans-for-children-11711801503405.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/2-0-1301857139-Radhika-Gupta4-0_1679590305502_1711801514420.JPG",
+      "publishedAt": "2024-03-30T12:50:28Z",
+      "content": "With the rising expenses of higher education in India, financial planning for parents has become a priority, in order to provide quality education for their children. Early planning in terms of where… [+5971 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "A dermatologist explains how red light therapy works - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/videos/life/health-wellness/self-improved/2024/03/30/how-red-light-therapy-works-on-your-skin/73142435007/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T12:35:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph",
+      "title": "Bitcoin price edges toward Q2 at $70K with all-time highs a key focus - Cointelegraph",
+      "description": null,
+      "url": "https://cointelegraph.com/news/bitcoin-price-q2-70k-all-time-highs-focus",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T12:06:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Samantha Delouya",
+      "title": "The Realtors settlement is already changing the way some Americans buy and sell homes - CNN",
+      "description": "The seismic settlement announced by the National Association of Realtors earlier this month has not yet been approved, but it is already sending shockwaves through the real estate industry.",
+      "url": "https://www.cnn.com/2024/03/30/economy/nar-settlement-home-buyers-and-sellers/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1417037963.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-30T12:00:00Z",
+      "content": "The seismic settlement announced by the National Association of Realtors earlier this month has not yet been approved, but it is already sending shockwaves through the real estate industry.\r\nThe mere… [+5265 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Powerball jackpot nears $935 million after months with no winner - CBS News",
+      "description": "No one has won Powerball's top prize since New Year's Day.",
+      "url": "https://www.cbsnews.com/news/powerball-drawing-nears-935-million-jackpot-after-months-with-no-winner/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/30/6ec8ebf9-e5b4-4962-a31e-bcee9bf552c8/thumbnail/1200x630/6e1c071088cc15b698b127979a315fcd/ap23333845117099.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+      "publishedAt": "2024-03-30T11:57:49Z",
+      "content": "Lottery players will have another shot Saturday night at a $935 million Powerball jackpot that has been growing larger and larger since the last winner nearly three months ago.\r\nNo one has won Powerb… [+1315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Josh Schafer",
+      "title": "Stocks just had their best first quarter in 5 years — here's where strategists think the market is headed - Yahoo Finance",
+      "description": "With stocks off to their best start in five years, many strategists on Wall Street still make a case for the S&P 500 to keep chugging higher.",
+      "url": "https://finance.yahoo.com/news/stocks-just-had-their-best-first-quarter-in-5-years--heres-where-strategists-think-the-market-is-headed-113742174.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZHBDSOK3faSabg0tc4m4Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/bb85d470-ed0a-11ee-bffb-678a3cc23422",
+      "publishedAt": "2024-03-30T11:37:42Z",
+      "content": "Stocks ripped higher in the first three months of the year amid investor bets that the US economy remains on solid footing.\r\nNow, the key debate on Wall Street entering the second quarter is whether … [+4863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Bharti Hexacom IPO, first in 2024-25 fiscal, opens for subscription on this date - Hindustan Times",
+      "description": "Bharti Hexacom IPO: The IPO comprises an offer-for-sale of 7.5 crore equity shares, indicating a 15 per cent stake by Telecommunications Consultants India Ltd",
+      "url": "https://www.hindustantimes.com/business/bharti-hexacom-ipo-first-in-2024-25-fiscal-opens-for-subscription-on-this-date-101711796885903.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/30/1600x900/initial_public_offering_1711796912285_1711796912460.jpg",
+      "publishedAt": "2024-03-30T11:16:21Z",
+      "content": "Bharti Hexacom, the arm of Bharti Airtel, will open its initial public offering (IPO) for subscription on April 3. The company has fixed a price band of 542-570 per share for its 4,275 crore IPO. \r\nA… [+1925 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "PAUL WISEMAN",
+      "title": "Economy: Consumers unhappy as prices, inflation remain high - The Associated Press",
+      "description": "Many Americans are in a sour mood about the economy for one main reason: Prices feel too high. Maybe they’re not rising as fast as they had been, but average prices are still painfully above where they were before the pandemic. And they’re mostly heading high…",
+      "url": "https://apnews.com/article/inflation-deflation-prices-economy-eggs-cars-consumers-e3c816373344d54b2e6bdb4be5ed999a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a488579/2147483647/strip/true/crop/3090x1738+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2Fbf%2F06f215604e95a45b49ab0b3c434a%2F081c19c58a9249b78f6dd6ddc554d8ca",
+      "publishedAt": "2024-03-30T11:12:00Z",
+      "content": "WASHINGTON (AP) Many Americans are in a sour mood about the economy for one main reason: Prices feel too high. \r\nMaybe theyre not rising as fast as they had been, but average prices are still painful… [+5131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "San Francisco Chronicle",
+      "title": "California insurers are dropping homes due to 'density' - San Francisco Chronicle",
+      "description": null,
+      "url": "https://www.sfchronicle.com/california/article/home-insurance-density-renewal-19361963.php",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T11:01:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Devesh Kumar",
+      "title": "Amazon, Tata Steel, Barclays among 200 companies conduct placements at IIM Rohtak, offer up to ₹37.25 LPA | Mint - Mint",
+      "description": "Sales and Marketing were the top two domains, where companies were most interested, IIM Rohtak said in a statement",
+      "url": "https://www.livemint.com/news/india/amazon-tata-steel-barclays-among-200-companies-conduct-placements-at-iim-rohtak-offer-up-to-rs-37-25-lpa-11711793960571.html",
+      "urlToImage": "https://images.livemint.com/img/2024/03/30/1600x900/9_1711794842936_1711794846742.jpg",
+      "publishedAt": "2024-03-30T10:51:50Z",
+      "content": "Indian Institute of Management (IIM) Rohtak concluded the final round of placements for the 13th batch of their flagship Post Graduate Programme (PGP). The business school informed that more than 200… [+6003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph",
+      "title": "U.K. court freezes £6M of Craig Wright's assets amid Bitcoin creator claim - Cointelegraph",
+      "description": null,
+      "url": "https://cointelegraph.com/news/u-k-court-freezes-6m-of-craig-wright-s-assets-amid-bitcoin-creator-claim",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T10:43:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Greg Robb",
+      "title": "Powell doesn't see interest rates going back to ultralow financial-crisis-era levels - MarketWatch",
+      "description": "Follow the release of the personal consumption expenditures price index, the Federal Reserve's preferred inflation measure, on Friday morning, as well as remarks due later from Fed Chair Jerome Powell.",
+      "url": "https://www.marketwatch.com/livecoverage/pce-report-march-2024-key-inflation-reading-powell-remarks-awaited/card/powell-doesn-t-see-rates-going-back-to-ultra-low-post-2008-levels-znQqbochWkUiPvtp3L1O",
+      "urlToImage": "https://images.mktw.net/im-53314661/social",
+      "publishedAt": "2024-03-30T10:42:53Z",
+      "content": "Back to TopIntraday Data provided by FACTSET and subject to terms of use. Historical and current end-of-day data provided by FACTSET. All quotes are in local exchange time. Real-time last sale data f… [+136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Etnownews.com"
+      },
+      "author": "ET Now Digital",
+      "title": "Suzlon share price target 2024: Rs 260 crore IT penalties slapped - Buy, Sell OR Hold - ET Now",
+      "description": "Suzlon share price target 2024: Suzlon Energy informed the bourses it received an order for two penalties from the Income Tax Department.  Should you Buy, Sell or Hold ?",
+      "url": "https://www.etnownews.com/markets/suzlon-share-price-target-2024-rs-260-crore-it-penalties-slapped-buy-sell-or-hold-article-108897195",
+      "urlToImage": "https://etstatic.tnn.in/thumb/msid-108897195,width-1280,height-720,resizemode-75/108897195.jpg",
+      "publishedAt": "2024-03-30T10:17:35Z",
+      "content": "Suzlon Energy shares have a 52-week range of Rs 50.72 - Rs 7.06 on the BSE. \r\n(Image: istock/ET Now News)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fci Academy"
+      },
+      "author": "The Columbus Dispatch",
+      "title": "Spirit announces daily flights to 2 new destinations from Columbus: Here's where you can go - The Columbus Dispatch",
+      "description": null,
+      "url": "https://www.dispatch.com/story/news/local/2024/03/30/spirit-announces-new-daily-flights-to-boston-newark-from-john-glenn-columbus-international-airport/73147367007/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T10:06:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kayla Jimenez",
+      "title": "Full hotels, emergency plans: Cities along eclipse path brace for chaos - USA TODAY",
+      "description": "Several city officials told USA TODAY that they've been planning for years for the massive crowds that are set to descend along the path of totality.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/03/30/cities-along-eclipse-path-brace-for-chaos/73044896007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/16/PROC/73000898007-dsc-08050.jpg?crop=2047,1151,x0,y0&width=2047&height=1151&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-30T10:03:39Z",
+      "content": "Tens of thousands of stargazers will crowd downtown Dallas to witness April's total solar eclipse. Campground lodging and local hotels are nearly sold out in Erie, Pennsylvania. Indianapolis is hosti… [+4582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Robin Hartill",
+      "title": "This Is the Average Social Security Benefit for Age 62 - The Motley Fool",
+      "description": "Is this enough for retirement?",
+      "url": "https://www.fool.com/retirement/2024/03/30/this-is-the-average-social-security-benefit-for-ag/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/770600/getty-age-62-social-security-birthday-retirement.jpg",
+      "publishedAt": "2024-03-30T10:00:00Z",
+      "content": "You can start collecting Social Security benefits as early as 62. But you won't be eligible for your full benefit until you reach full retirement age, which is 67 for anyone born in 1960 or later.\r\nC… [+3612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Arshdeep kaur",
+      "title": "Tech layoffs continue unabated in March 2024: Apple, IBM, Dell among IT majors that cut jobs | Mint - Mint",
+      "description": "Tech layoffs continue unabated in March 2024: The downsizing of the company size is mostly being attributed to ‘cost-cutting’",
+      "url": "https://www.livemint.com/technology/tech-news/tech-layoffs-continue-unabated-in-march-2024-apple-ibm-dell-among-it-majors-that-cut-jobs-11711791233360.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/pexels-photo-4226215_1711792265563_1711792324868.jpeg",
+      "publishedAt": "2024-03-30T09:57:46Z",
+      "content": "As the Information Technology industry struggles with its challenges, major tech giants have been on a layoff spree in March this year. The downsizing of the company size is mostly being attributed t… [+6740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Asit Manohar",
+      "title": "₹1.20 to ₹28.25: Reliance ADAG penny stock gives 2250% return in four years. More steam left? | Mint - Mint",
+      "description": "Multibagger penny stock: Anil Ambani-backed company is in the news these days for raising  ₹425 crore fund through borrowing",
+      "url": "https://www.livemint.com/market/stock-market-news/rs-1-20-to-rs-28-25-reliance-adag-penny-stock-reliance-power-gives-2250-return-in-four-years-more-steam-left-11711791456931.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Reliance_Power_share_Multibagger_penny_stock_1711792026354_1711792027571.jpg",
+      "publishedAt": "2024-03-30T09:51:08Z",
+      "content": "Reliance Power shares are in the news these days for sharp upside movement in the last fortnight of FY24. After remaining in the base building mode from January 10, 2024, to March 13, 2024, this Reli… [+3951 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Bailey Schulz",
+      "title": "The Visa, Mastercard settlement and what it means for your credit card - USA TODAY",
+      "description": "Visa and Mastercard came to a settlement with U.S. merchants and agreed to roll back swipe rates. What does it mean for credit card users?",
+      "url": "https://www.usatoday.com/story/money/2024/03/30/visa-mastercard-settlement-impact-rewards/73150086007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/29/USAT/73150363007-20100222-t-120000-z-1935441166-gm-1-e-62-m-0-prg-01-rtrmadp-3-creditcards.JPG?crop=2761,1554,x3,y237&width=2761&height=1554&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-30T09:15:07Z",
+      "content": "Visa and Mastercard earlier this week agreed to a settlement with U.S. merchants, promising to lower the fees stores have to pay to process credit card payments at least in the near term.\r\nThe settle… [+5279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motoroctane.com"
+      },
+      "author": "Swaraj Acharekar",
+      "title": "New Tata Safari Rival Spotted Testing! Launching soon? - MotorOctane",
+      "description": "Tata launched the updated Safari last year and now a new competitior that is the Hyundai Alcazar facelift is coming to take on it",
+      "url": "https://motoroctane.com/news/269658-new-tata-safari-rival-spotted-testing-launching-soon",
+      "urlToImage": "https://motoroctane.com/wp-content/uploads/2024/03/new-safari-rival.jpg",
+      "publishedAt": "2024-03-30T09:12:41Z",
+      "content": "Tata went hard at the segment by giving everything on the Safari facelift. To counter that, Mahindra launched the updated XUV700. Now another rival is gearing up to update itself to take on the compe… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "RBI MPC to be cautious about risk from food inflation, likely to keep repo rate unchanged - Moneycontrol",
+      "description": "Goldman's analysts forecast 5.2 percent headline inflation for Q1CY24, driven by food inflation",
+      "url": "https://www.moneycontrol.com/news/business/markets/rbi-mpc-to-be-cautious-about-risk-from-food-inflation-likely-to-keep-repo-rate-unchanged-12546021.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/05/398767544-770x433.jpg",
+      "publishedAt": "2024-03-30T08:41:27Z",
+      "content": "While core inflation has softened, the central bank will remain cautious about an upside risk to food inflation, according to a report from Goldman Sachs.\r\nGoldman's analysts expect the Reserve Bank … [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Malaya Rout",
+      "title": "Fly high because the sky is forgiving - The Times of India",
+      "description": "The deep tech vs. consumer tech debate is quite hot among Indians today. This is a good debate regarding where India stands today in the generative AI space. Have we missed the bus in developing...",
+      "url": "https://timesofindia.indiatimes.com/blogs/data-science-vibes/fly-high-because-the-sky-is-forgiving/",
+      "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/11/Malaya-Rout.png",
+      "publishedAt": "2024-03-30T08:17:51Z",
+      "content": "The deep tech vs. consumer tech debate is quite hot among Indians today. This is a good debate regarding where India stands today in the generative AI space. Have we missed the bus in developing our … [+5029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Team-BHP"
+      },
+      "author": null,
+      "title": "2024 Kia Sonet Facelift Review - Page 12 - Team-BHP",
+      "description": "2024 Kia Sonet Facelift Review",
+      "url": "https://www.team-bhp.com/forum/official-new-car-reviews/275573-2024-kia-sonet-facelift-review-12.html",
+      "urlToImage": "http://www.team-bhp.com/themes/bhp/images/team-bhp-logo.png",
+      "publishedAt": "2024-03-30T08:04:56Z",
+      "content": "Rumour: Kia Sonet to get new entry-level variants with sunroofAccording to a media report, the Kia Sonet will soon get two new entry-level variants. Both variants are likely to be equipped with a sun… [+741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InStyle"
+      },
+      "author": "https://www.facebook.com/InStyle",
+      "title": "Hurry! Levi's, Adidas, and CeraVe Are Up to 76% Off at Amazon - InStyle",
+      "description": "Amazon is overflowing with fashion and beauty deals this weekend, and these are the 50 Amazon deals worth shopping. Snag items from Adidas, Levi’s, CeraVe, L’Oréal and more for up to 76 percent off.",
+      "url": "https://www.instyle.com/best-amazon-weekend-deals-03-30-24-8621857",
+      "urlToImage": "https://www.instyle.com/thmb/s9movF9sJDVknQ-ZdEkqWMDBcdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/032824-Amazon-Soc-cd97a90429d94908a37c3dfe79ab552a.jpg",
+      "publishedAt": "2024-03-30T08:00:00Z",
+      "content": "I blinked, and suddenly spring has sprung. The end of March is already here, but were just getting started with this seasons savings; Amazon is brimming with spring-perfect deals for up to 79 percent… [+8390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Express"
+      },
+      "author": null,
+      "title": "India’s forex reserves hit historic high of $642.63 billion, indicates growing investor confidence - The Financial Express",
+      "description": "The previous peak was achieved in September 2021, when India's foreign exchange reserves peaked at $642.453 billion.",
+      "url": "https://www.financialexpress.com/policy/economy-indias-forex-reserves-continue-to-rise-for-fifth-consecutive-week-3441369/",
+      "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2023/12/RBI-4.jpg",
+      "publishedAt": "2024-03-30T07:48:43Z",
+      "content": "India’s foreign exchange reserves surged by $140 million to reach a historic high of $642.631 billion as of March 22, the Reserve Bank of India said. This marks the fifth consecutive week of a notabl… [+2955 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETMarkets.com",
+      "title": "Stock picks of the week: 4 stocks with consistent score improvement and upside potential of up to 38 % - The Economic Times",
+      "description": "After remaining under pressure for the first three weeks of March, there was some recovery at least in the broader market indices in the last two trading sessions of FY 24. It might be too early to call it a recovery, because if one looks at the market breadt…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-picks-of-the-week-4-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-38-/articleshow/108895119.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108895146,width-1070,height-580/photo.jpg",
+      "publishedAt": "2024-03-30T07:43:31Z",
+      "content": "SynopsisAfter remaining under pressure for the first three weeks of March, there was some recovery at least in the broader market indices in the last two trading sessions of FY 24. It might be too ea… [+768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Asit Manohar",
+      "title": "Stock market holidays in April 2024: NSE, BSE to remain shut on these two days | Mint - Mint",
+      "description": "Stock market holidays in April 2024: Trading activities at the NSE and BSE will remain suspended on the 11th and 17th date of the next month",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-april-2024-nse-bse-to-remain-shut-on-these-two-days-11711782610391.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Stock_market_holidays_2024_Stock_market_news_1711782889637_1711782889893.jpg",
+      "publishedAt": "2024-03-30T07:21:23Z",
+      "content": "Stock market holidays in April 2024: After the end of a truncated week, the Indian stock market is all set to enter the new financial year on Monday. Monday next week will be the first trade session … [+2914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Informalnewz.com"
+      },
+      "author": "Shyamu Maurya",
+      "title": "Bank Holiday: Banks will remain open today and tomorrow, RBI issued order - informalnewz",
+      "description": "RBI has instructed agency banks to remain open on both 30th and 31st March. Due to the end of the financial year, these banks will complete the work related to government receipts and payments. Banks open today: The current financial year 2023-24 ends on 31 M…",
+      "url": "https://www.informalnewz.com/bank-holiday-banks-will-remain-open-today-and-tomorrow-rbi-issued-order/",
+      "urlToImage": "https://www.informalnewz.com/wp-content/uploads/2022/08/3RD-1024x825-1-300x242-1.png",
+      "publishedAt": "2024-03-30T07:15:54Z",
+      "content": "RBI has instructed agency banks to remain open on both 30th and 31st March. Due to the end of the financial year, these banks will complete the work related to government receipts and payments.\r\nBank… [+2581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "My best investment was in Shark Tank Judge Ghazal Alagh’s Mamaearth: Shilpa Shetty Kundra | Mint - Mint",
+      "description": "Not just a numbers game, Bollywood actor and Entrepreneur Shilpa Shetty Kundra said at the Mint India Investment Summit 2024 that investing in startups is more of an instinctive thing for her.",
+      "url": "https://www.livemint.com/industry/my-best-investment-was-in-shark-tank-judge-ghazal-alagh-s-mamaearth-shilpa-shetty-kundra-11711781657898.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/IMG20240329194339_1711790853949_1711790900300.jpg",
+      "publishedAt": "2024-03-30T07:15:25Z",
+      "content": "The proudest money decision Ive made was to invest in Mamaearth, said Bollywood actor and Entrepreneur Shilpa Shetty Kundra at the Mint India Investment Summit 2024, on Friday. Kundra, who has a numb… [+6429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Temu U-turns on terms of cash 'giveaway' offer - BBC.com",
+      "description": "The retailer changes what it can do with customer data after privacy concerns were raised.",
+      "url": "https://www.bbc.com/news/technology-68675652",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB3C/production/_133042165_gettyimages-1507823481.jpg",
+      "publishedAt": "2024-03-30T06:38:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Asit Manohar",
+      "title": "Shares to buy in FY25: Mid-cap, small-cap indices rebound from 3-month low. Top 5 stocks to buy for long-term | Mint - Mint",
+      "description": "Shares to buy in FY25: Experts have recommended five stocks to buy for the long term from the mid-cap and the small-cap segment — Tata Chemicals, Indus Tower, IREDA, Mahindra Lifespaces, and Shakti Pumps",
+      "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-in-fy25-mid-cap-small-cap-indices-rebound-from-3-month-low-top-5-stocks-to-buy-for-longterm-11711778824696.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Stocks_to_buy_today_Shares_to_buy_today_Buy_or_sel_1711779824393_1711779824743.jpg",
+      "publishedAt": "2024-03-30T06:30:48Z",
+      "content": "Stocks to buy in FY25: After touching a three-month low in mid-March 2024, the small-cap and mid-cap indices witnessed strong upside in the last fortnight of FY24. This has created a buzz in these se… [+5392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Carwale.com"
+      },
+      "author": "Haji Chakralwale",
+      "title": "Mahindra XUV700 EV (XUV.e8) spied testing again - CarWale",
+      "description": "Mahindra is actively testing multiple models including the XUV400 facelift, XUV300 facelift, XUV700 EV, and the five-door Thar. Among the upcoming models, the XUV700 EV or the XUV.e8 was recently spotted on a test run revealing more details of the upcoming Ta…",
+      "url": "https://www.carwale.com/news/mahindra-xuv700-ev-xuve8-spied-testing-again/",
+      "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/173915/mahindra-xuve8-left-front-three-quarter1.jpeg?isig=0&art=1&q=80",
+      "publishedAt": "2024-03-30T06:14:43Z",
+      "content": "<ul><li>To get redesigned fascia with new headlamps</li><li>To debut later this year</li></ul>Mahindra is actively testing multiple models including the XUV400 facelift, XUV300 facelift, XUV700 EV, a… [+1387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "USB Charger Scam Rampant In India: Here's What It Is And How To Stay Safe - NDTV",
+      "description": "The Centre has warned citizens against using phone charging portals at public places such as airports, cafes, hotels, and bus stands.",
+      "url": "https://www.ndtv.com/india-news/centre-warns-citizens-not-to-use-public-phone-charging-stations-heres-why-5338388",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/68sf4ha8_phone-charging_625x300_30_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240316.08",
+      "publishedAt": "2024-03-30T06:09:21Z",
+      "content": "Representational Image\r\nThe Centre has warned citizens against using phone charging portals at public places such as airports, cafes, hotels, and bus stands.\r\nIt has asked people to be cautious of th… [+1363 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Gourab Das",
+      "title": "Amrut: Investors want to raise a toast amid single malt whiskey wave and global cheers - The Economic Times",
+      "description": "Amrut Distilleries, a key player in the Indian single malt whiskey industry, is seeing increased interest from investors but remains focused on organic growth. With plans to boost exports and expand market share, Amrut aims to capitalise on the rising demand …",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/amrut-investors-want-to-raise-a-toast-amid-single-malt-whiskey-wave-and-global-cheers/articleshow/108891648.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108892431,width-1200,height-630,imgsize-65994,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-30T06:02:36Z",
+      "content": "Amrut Distilleries has seen investment interests from many but it has not considered to tinker with shareholding at a time when Indian single malt whiskey business is on an upswing amid a premiumisat… [+5767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "https://www.facebook.com/thehackernews",
+      "title": "Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros - The Hacker News",
+      "description": "Secret backdoor found in XZ Utils compression library used by major Linux distros, like Fedora, Kali Linux, and openSUSE.",
+      "url": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8OvVhdiTdk2NbTJsUGaqbgK7i_8BjH3PDOE82ZGtXY9ujMOhhEpGLtuTEG3WoVJ1MJgVEWPHnbjxP5Mfht0vJ5TZlavsH_-pWYynkeWSBy9A0t67AFfjy-tVi-2-J9tXdeWoOHIJeOtlpsYHmZVzIXw9fbi1XULyODudi4x7P4ZPmFJTZif57sWKdpsX/s728-rw-e365/linux.jpg",
+      "publishedAt": "2024-03-30T05:23:00Z",
+      "content": "RedHat on Friday released an \"urgent security alert\" warning that two versions of a popular data compression library called XZ Utils (previously LZMA Utils) have been backdoored with malicious code d… [+2503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Rakesh Patil",
+      "title": "Market near to record high on FII support; rupee ends flat - Moneycontrol",
+      "description": "The Indian rupee ended flat at 83.40 against the US dollar in the week ended March 28 against its March 22 closing 83.42.",
+      "url": "https://www.moneycontrol.com/news/photos/business/markets/market-near-to-record-high-on-fii-support-rupee-ends-flat-12545361.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/bse_nse_stockmarket_nifty_sensex-5-770x433.jpg",
+      "publishedAt": "2024-03-30T04:47:13Z",
+      "content": "Indian equity indices posted solid gains in the truncated week ended March 28 and went closer to their record amid levels on the final session on the financial year 2024 amid mixed global markets, FI… [+2441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Gold and silver prices Today on 30-03-2024: Check latest rates in your city | Mint - Mint",
+      "description": "Gold And Silver Prices Today:10 gm of 24 carat gold was at Rs.69135.0 in Delhi whereas 1 kg of silver was Rs.77800.0 in Delhi.",
+      "url": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-on-30-03-2024-check-latest-rates-in-your-city-11711773918859.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/20/1600x900/Gold_Silver_1695188117170_1695188150826.webp",
+      "publishedAt": "2024-03-30T04:45:18Z",
+      "content": "Gold And Silver Prices Today: Gold prices saw a slight decrease on Saturday.The cost of 24 carat gold is Rs.6913.5 per gm down by Rs.269.0.The cost of 22 carat gold is Rs.6332.8 per gm down by Rs.246… [+2875 chars]"
     },
     {
       "source": {
@@ -57,41 +746,54 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Katherine Donlevy, Patrick Reilly",
-      "title": "6 hospitalized after Newark-bound United Airlines flight diverts to NY airport due to 'high winds': officials - New York Post ",
-      "description": "Six people aboard a United Airlines flight traveling from Israel to Newark were hospitalized after the plane was forced to divert to a New York airport Friday due to high winds.",
-      "url": "https://nypost.com/2024/03/29/us-news/6-hospitalized-after-newark-bound-united-airlines-flight-diverts-to-ny-airport-due-to-high-winds/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/several-hurt-newark-bound-plane-79220229.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-03-30T04:29:00Z",
-      "content": "Six people aboard a United Airlines flight traveling from Israel to Newark were hospitalized after the plane was forced to divert to a New York airport Friday due to high winds, officials said.\r\nUnit… [+1075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cardekho.com"
-      },
-      "author": "Rohit",
-      "title": "Tata Curvv vs Citroen Basalt Vision: Exterior Design Explained In Images - CarDekho",
-      "description": "With both featuring a coupe-like sloping roofline, the two models are vowing to make SUV-coupe offerings a more mainstream choice among compact SUV buyers  Like many elements previously limited to the luxury segments, the mass-market automotive space in India…",
-      "url": "https://www.cardekho.com/india-car-news/tata-curvv-vs-citroen-basalt-vision-exterior-design-explained-in-images-32276.htm",
-      "urlToImage": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/32275/1711773004653/GeneralNew.jpg",
-      "publishedAt": "2024-03-30T04:00:00Z",
-      "content": "With both featuring a coupe-like sloping roofline, the two models are vowing to make SUV-coupe offerings a more mainstream choice among compact SUV buyers\r\nLike many elements previously limited to th… [+3568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Livemint"
       },
-      "author": "Asit Manohar",
-      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 1st April | Mint - Mint",
-      "description": "Buy or sell stocks: Sumeet Bagadia has recommended three stocks to buy on Monday — Bajaj Finserv, Power Grid Corpporation, and Divi's Lab",
-      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-1st-april-11711769530445.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Buy_or_sell_stock_Stocks_to_buy_today_Nifty_50_1711769620247_1711769620563.jpg",
-      "publishedAt": "2024-03-30T03:51:02Z",
-      "content": "Buy or sell stocks: After moving into a narrow range movement in the last few sessions, the Indian stock market witnessed a decisive intraday upside breakout on Thursday. The Nifty 50 index gained 20… [+5744 chars]"
+      "author": "Livemint",
+      "title": "OpenAI unveils its voice cloning tool ‘Voice Engine’; restricts it to testers only: Here's why | Mint - Mint",
+      "description": "OpenAI unveils Voice Engine for voice replication, emphasizing responsible deployment and ethical guidelines. Limited release to early testers to mitigate risks of misuse. Poised to compete in speech recognition market, shaping future human-computer interacti…",
+      "url": "https://www.livemint.com/technology/tech-news/openai-unveils-its-voice-cloning-tool-voice-engine-restricts-it-to-testers-only-heres-why-11711771748018.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/OPENAI-EXECUTIVES--0_1711772187010_1711772206501.JPG",
+      "publishedAt": "2024-03-30T04:19:31Z",
+      "content": "OpenAI, the renowned artificial intelligence company, has ventured into the realm of voice assistants, showcasing its latest innovation known as Voice Engine. This cutting-edge technology is designed… [+6219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sarah Rumpf-Whitten",
+      "title": "Caesars Palace slot player wins jackpot three times in a row in one night, over $600K in prizes - Fox Business",
+      "description": "A player on the slot machines at Caesars Palace in Las Vegas took home the jackpot three times in one 24-hour period bringing home more than 600K.",
+      "url": "https://www.foxbusiness.com/lifestyle/caesars-palace-slot-player-wins-jackpot-three-times-row-one-night-over-600k-prizes",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/ceasars-palace-hotel-casino-02.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-30T04:16:00Z",
+      "content": "A guest at Caesars Palace in Las Vegas won the jackpot on a slot machine three times in one night.\r\nOfficials with Caesars Entertainment announced the big win in a press release, obtained by KVVU.\r\nT… [+808 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Rejimon Kuttappan",
+      "title": "‘Pure veg fleet’: How Indian food app Zomato sparked a caste, purity debate - Al Jazeera English",
+      "description": "Delivery workers worry that vegetarian-only fleets today could pave the way for caste-based delivery systems tomorrow.",
+      "url": "https://www.aljazeera.com/news/2024/3/30/pure-veg-fleet-how-indian-food-app-zomato-sparked-a-caste-purity-debate",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-07-13T112109Z_1600613984_RC2LJO9FBJ1B_RTRMADP_3_ZOMATO-IPO-1711731894.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-30T04:09:02Z",
+      "content": "Rajesh Jatavad*, a delivery rider for Zomato, a food delivery app in southern India, is worried about his full name being displayed for customers on the platform because his last name reveals that he… [+8068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox5sandiego.com"
+      },
+      "author": "Jason Sloss",
+      "title": "California Public Utilities Commission proposes to cut electricity rates - FOX 5 San Diego",
+      "description": "Paying the electric bill is a year-round struggle for many people in San Diego. But now, there’s a proposal at the state level to drastically slash rates.",
+      "url": "https://fox5sandiego.com/news/local-news/california-public-utilities-commission-proposes-to-cut-electricity-rates/",
+      "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2024/03/snapshot-2024-03-29T210342.811.jpg?w=1280",
+      "publishedAt": "2024-03-30T04:07:51Z",
+      "content": "SAN DIEGO (FOX 5/KUSI) — Paying the electric bill is a year-round struggle for many people in San Diego. But now, theres a proposal at the state level to drastically slash rates.\r\nThe California Publ… [+1260 chars]"
     },
     {
       "source": {
@@ -108,6 +810,19 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "Microsoft and ChatGPT maker OpenAI plan $100 billion AI supercomputer ‘Stargate’ - The Times of India",
+      "description": "TECH NEWS News: Microsoft and OpenAI collaborate on a $100 billion project for AI supercomputer Stargate. The initiative, exceeding $115 billion costs, involves five",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-and-chatgpt-maker-openai-plan-100-billion-ai-supercomputer-stargate/articleshow/108889439.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108889428,width-1070,height-580,imgsize-1964221,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-30T03:09:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Hindustan Times"
       },
@@ -121,6 +836,32 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sumantra Bibhuti Barooah, ET Auto",
+      "title": "Hyundai aims to make the former GM-owned Talegaon plant to be among ‘world’s best’, adopts new steps t.. - ETAuto",
+      "description": "The combined annual installed production capacity of the Chennai and Talegaon plants of Hyundai India is 9.54 lakh units. With new approaches Hyundai will enhance it to a million units. Some of the practices, and new approaches adopted in its Chennai plant wi…",
+      "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/hyundai-aims-to-make-the-former-gm-owned-talegaon-plant-to-be-among-worlds-best-adopts-new-steps-to-raise-efficiency/108888814",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-108888814,imgsize-49682,width-1200,height=765,overlay-etauto/passenger-vehicle/hyundai-aims-to-make-the-former-gm-owned-talegaon-plant-to-be-among-worlds-best-adopts-new-steps-to-raise-efficiency.jpg",
+      "publishedAt": "2024-03-30T02:16:10Z",
+      "content": "Hyundai completed its acquisition formalities in January this year. \r\nChennai: Gopala Krishnan CS, Chief Manufacturing Officer, Hyundai Motor India, and his team would know a thing or two about drivi… [+6931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "What should investors do with Canara Bank, Bajaj Finance, Eicher Motors on Monday? - Moneycontrol",
+      "description": "Bajaj Finance extended uptrend for seventh consecutive session. With last Thursday's strong run, the stock firmly got back above all key moving averages and formed long bullish candlestick pattern on the daily timeframe with robust volumes.",
+      "url": "https://www.moneycontrol.com/news/business/markets/what-should-investors-do-with-canara-bank-bajaj-finance-eicher-motors-on-monday-12544901.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/stocks5-770x433.jpg",
+      "publishedAt": "2024-03-30T02:14:06Z",
+      "content": "The Nifty 50 had a strong finish for the monthly F&amp;O expiry session, climbing above the falling resistance trendline from record-high levels. This has raised hopes for a promising start to the Ap… [+3325 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Cardekho.com"
       },
@@ -131,6 +872,19 @@
       "urlToImage": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/32274/1711765865985/Weeklywrap-up.jpg",
       "publishedAt": "2024-03-30T02:01:00Z",
       "content": "Apart from new unveils and teasers, we also received an update on the debut date of Mahindras bigger version of the Thar\r\nIn the last full week of March, we finally got a hint when Mahindras 5-door T… [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Christopher Mims",
+      "title": "The AI Industry Is Steaming Toward A Legal Iceberg - The Wall Street Journal",
+      "description": "Legal scholars, lawmakers and at least one Supreme Court justice agree that companies will be liable for the things their AIs say and do—and that the lawsuits are just beginning.",
+      "url": "https://www.wsj.com/tech/ai/the-ai-industry-is-steaming-toward-a-legal-iceberg-5d9a6ac1",
+      "urlToImage": "https://images.wsj.net/im-942851/social",
+      "publishedAt": "2024-03-30T02:00:00Z",
+      "content": "If your company uses AI to produce content, make decisions, or influence the lives of others, its likely you will be liable for whatever it doesespecially when it makes a mistake.\r\nThis also applies … [+254 chars]"
     },
     {
       "source": {
@@ -160,6 +914,19 @@
     },
     {
       "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI holds back public release of tech that can clone someone's voice in 15 seconds due to safety concerns - Fortune",
+      "description": "The AI firm will preview the tool with early testers but won't release it widely because of the potential for misuse ahead of the election.",
+      "url": "https://fortune.com/2024/03/29/openai-tech-clone-someones-voice-safety-concerns/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/03/GettyImages-1933965269_19006c-e1711758106194.jpg?resize=1200,600",
+      "publishedAt": "2024-03-30T00:24:00Z",
+      "content": "ChatGPT-maker OpenAI is getting into the voice assistant business and showing off new technology that can clone a persons voice, but says it wont yet release it publicly due to safety concerns.The ar… [+1550 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -174,54 +941,15 @@
     {
       "source": {
         "id": null,
-        "name": "Ambcrypto.com"
+        "name": "San Francisco Chronicle"
       },
-      "author": "Victor Olanrewaju",
-      "title": "BNB’s new ATH – How close or how far is it really? - AMBCrypto News",
-      "description": "While a retracement may occur, the coin looks set to produce more than an 11.22% increase.",
-      "url": "https://ambcrypto.com/why-bnbs-new-ath-may-become-a-reality-soon/",
-      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/03/bnb-binance-coin-price-news-1-1000x600.webp",
-      "publishedAt": "2024-03-30T00:03:26Z",
-      "content": "<ul><li>Volume in the derivatives market increased, suggesting a significant appreciation.</li><li>A thorough price analysis indicated that BNB might hit $694.</li></ul>After AMBCrypto published pred… [+2879 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alex Heath",
-      "title": "Amazon builds Olympus AI model to compete with Anthropic, OpenAI - The Verge",
-      "description": "Amazon is pushing to be a leading player in the AI wars by aggressively investing $ billion in the OpenAI rival Anthropic, even as it quietly works to build a competing AI model codenamed Olympus.",
-      "url": "https://www.theverge.com/2024/3/29/24116056/amazon-ai-race-anthropic-olympus-claude",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b2iztOt4x8HNy9dUYmajX1YcHsI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24720534/Command_Line_Site_Post_Andy_Jassy.jpg",
-      "publishedAt": "2024-03-29T23:45:46Z",
-      "content": "Amazon scrambles for its place in the AI race\r\nAmazon scrambles for its place in the AI race\r\n / With its multibillion-dollar bet on Anthropic and its forthcoming Olympus model, Amazon is pushing har… [+2065 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emilia David",
-      "title": "OpenAI's voice cloning AI model only needs a 15-second sample to work - The Verge",
-      "description": "OpenAI has revealed its Voice Generation model, which can generate new audio using someone’s voice based on just a short clip.",
-      "url": "https://www.theverge.com/2024/3/29/24115701/openai-voice-generation-ai-model",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QCdO_oKAdBIZCodEUT2WCBFgQSo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
-      "publishedAt": "2024-03-29T23:10:15Z",
-      "content": "OpenAIs voice cloning AI model only needs a 15-second sample to work\r\nOpenAIs voice cloning AI model only needs a 15-second sample to work\r\n / Called Voice Generation, the model has been in developme… [+3222 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "Huawei Bounces Back From U.S. Sanctions as Profit Doubles - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/huaweis-2023-net-profit-more-than-doubled-as-revenue-rose-b1b6d971",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T22:36:00Z",
-      "content": null
+      "author": "Eli Rosenberg",
+      "title": "Oakland Airport proposes adding 'San Francisco' to name to spur growth - San Francisco Chronicle",
+      "description": "The name change is a bid to spur growth at the airport, which hasn’t yet rebounded to pre-pandemic travel levels, by highlighting its Bay Area location.",
+      "url": "https://www.sfchronicle.com/eastbay/article/oakland-airport-proposes-adding-san-19375782.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/36/66/65/24866145/3/rawImage.jpg",
+      "publishedAt": "2024-03-29T23:01:10Z",
+      "content": "The name change is a bid to spur growth at the airport, which hasnt yet rebounded to pre-pandemic travel levels, by raising awareness among travelers unfamiliar with Oaklands location in the Bay Area… [+4565 chars]"
     },
     {
       "source": {
@@ -239,32 +967,6 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Marc Sternfield",
-      "title": "California’s fast food minimum wage boost: Who gets raises and who doesn’t? - KTLA Los Angeles",
-      "description": "Starting Monday, April 1, fast food restaurants in California will be required to pay their workers at least $20 an hour as Assembly Bill 1228 finally takes effect. The polarizing law, which has been praised by advocates for low-income workers and blasted by …",
-      "url": "https://ktla.com/news/california/californias-fast-food-minimum-wage-hike-takes-effect-monday-who-gets-raises-and-who-doesnt/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/GettyImages-1201513910.jpg?w=1280",
-      "publishedAt": "2024-03-29T22:21:13Z",
-      "content": "Starting Monday, April 1, fast food restaurants in California will be required to pay their workers at least $20 an hour as Assembly Bill 1228 finally takes effect.\r\nThe polarizing law, which has bee… [+4322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "Tesla's tough quarter has investors anxious - Fox Business",
-      "description": "Tesla is expected to announce sluggish sales figures to cap a difficult first quarter of 2024, which has seen its stock slide nearly 30% amid tough competition with Chinese EV makers.",
-      "url": "https://www.foxbusiness.com/markets/teslas-tough-quarter-has-investors-anxious",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Tesla-Shanghai.jpg?ve=1&tl=1",
-      "publishedAt": "2024-03-29T21:36:00Z",
-      "content": "Tesla's first-quarter delivery figures\r\n that are expected to be released next week are forecast to be relatively soft amid intensifying competition and lagging demand — a dynamic that has investors … [+4514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Vox"
       },
       "author": "Nicole Narea",
@@ -278,41 +980,28 @@
     {
       "source": {
         "id": null,
-        "name": "WSOC Charlotte"
+        "name": "DailyFX"
       },
-      "author": "Joe Bruno",
-      "title": "17-year-old employee killed inside northwest Charlotte restaurant, police say - WSOC Charlotte",
-      "description": "A homicide investigation is underway after an employee at a Charlotte fast food restaurant was killed, according to the Charlotte-Mecklenburg Police Department on Friday.",
-      "url": "https://www.wsoctv.com/news/local/police-investigating-homicide-near-northwest-charlotte-businesses/FLO4GIETENAFHLL5AETCKJ4CAM/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/NQqLBZCmpYyuCm1wy0zqjrglX_8=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/HDS2TZUMC5GJDNZBI5EEI5K6HE.jpg",
-      "publishedAt": "2024-03-29T21:17:00Z",
-      "content": "CHARLOTTE — A homicide investigation is underway after an employee at a Charlotte fast food restaurant was killed, according to the Charlotte-Mecklenburg Police Department on Friday.\r\nCMPD said at ab… [+1468 chars]"
+      "author": "Diego Colman",
+      "title": "Gold, Silver Q2 Technical Forecast: Key Resistance in Focus as Markets Get Stretched - DailyFX",
+      "description": "This article thoroughly examines the second quarter technical outlook for gold and silver, delving into the nuances of current price action dynamics and market sentiment to uncover potential trends.",
+      "url": "https://www.dailyfx.com/news/xau-usd-gold-silver-q2-technical-forecast-key-resistance-in-focus-as-markets-get-stretched-20240329.html",
+      "urlToImage": "https://a.c-dn.net/b/1ANfE3/gold_bearish_bullish.jpg",
+      "publishedAt": "2024-03-29T21:00:00Z",
+      "content": "This article provides an in-depth exploration of the technical outlook for gold and silver prices, offering valuable insights into price action dynamics and sentiment. For a holistic view that includ… [+3668 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "San Francisco Chronicle"
+        "name": "CarBuzz"
       },
-      "author": "Michael Cabanatuan",
-      "title": "United flight from SFO to Paris with engine trouble forced to land in Denver - San Francisco Chronicle",
-      "description": "A United Airlines flight that departed SFO for Paris turned around just short of the Canadian border Thursday night with engine trouble and landed in Denver.",
-      "url": "https://www.sfchronicle.com/bayarea/article/united-flight-from-sfo-engine-trouble-diverted-19375799.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/36/53/33/24819395/3/rawImage.jpg",
-      "publishedAt": "2024-03-29T21:01:10Z",
-      "content": "Two United Airlines Boeing 737s are parked at the gate at the Fort Lauderdale-Hollywood International Airport in Fort Lauderdale, Fla., July 7, 2022. A United Airlines flight that departed SFO for Pa… [+2306 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Corinne Ramey, James Fanelli",
-      "title": "What Sam Bankman-Fried's Long Stretch in Prison Might Look Like - The Wall Street Journal",
-      "description": "FTX founder could finish serving his sentence by age 50",
-      "url": "https://www.wsj.com/us-news/law/sam-bankman-fried-prison-dee47f9b",
-      "urlToImage": "https://images.wsj.net/im-943300/social",
-      "publishedAt": "2024-03-29T20:52:44Z",
-      "content": null
+      "author": "Nicole Wakelin",
+      "title": "Over 40,000 Fisker Reservations Canceled - CarBuzz",
+      "description": "The hits keep coming as the EV startup struggles to survive.",
+      "url": "https://carbuzz.com/40000-fisker-reservations-canceled/",
+      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/03/fisker-ocean-front-light-blue.jpg",
+      "publishedAt": "2024-03-29T20:31:00Z",
+      "content": "Key Takeaways\r\n<ul><li>\r\n Over 40,000 pre-orders have been canceled since November 2019.\r\n </li><li>\r\n Reservations are being lost at a rate of 70 to 80 units every day.\r\n </li><li>\r\n The timing coul… [+1980 chars]"
     },
     {
       "source": {
@@ -330,28 +1019,15 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "WCNC.com"
       },
-      "author": "Reuters",
-      "title": "Microsoft, OpenAI planning $100B data center to house AI supercomputer - New York Post ",
-      "description": "The project would be 100 times more costly than some of the biggest current data centers, The Information reported.",
-      "url": "https://nypost.com/2024/03/29/business/microsoft-openai-planning-100b-data-center-to-house-ai-supercomputer/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/2024-capping-decade-stunning-growth-75901311_5dadaf.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-03-29T19:50:36Z",
-      "content": "Microsoft and ChatGPT parent OpenAI are working on plans for a data-center project that could cost as much as $100 billion and include an artificial intelligence supercomputer called “Stargate” set t… [+2490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Jessica Goodman, Cox Media Group National Content Desk",
-      "title": "Same player wins jackpot 3 times in 1 night at Caesars Palace in Las Vegas - WSB Atlanta",
-      "description": "Winner winner! A lucky player on the slot machines at Caesars Palace took home the jackpot not just one, but three times this week.",
-      "url": "https://www.wsbtv.com/news/trending/same-player-wins-jackpot-3-times-1-night-caesars-palace-las-vegas/52QBOJEYF5CM7FY2TUSYYAOMAM/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C_L7ztJUMrSz6O3pkas0Fwsm1d4=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/YJXSJ2XSQBEEVENGTJO63ISXHI.jpg",
-      "publishedAt": "2024-03-29T19:15:48Z",
-      "content": "LAS VEGAS — Winner winner! A lucky player on the slot machines at Caesars Palace took home the jackpot not just one, but three times this week.\r\n&gt;&gt; Read more trending news\r\nAround 9:30 p.m. on … [+491 chars]"
+      "author": "Hank Lee",
+      "title": "17-year-old Jack in the Box employee shot, killed at work - WCNC.com",
+      "description": "The incident happened near a Jack in the Box restaurant off Brookshire Boulevard around 2:30 p.m. on Friday.",
+      "url": "https://www.wcnc.com/article/news/crime/homicide-investigation-northwest-charlotte-hoskins-road/275-ef73e47a-5024-4b5d-89ae-ce7804302907",
+      "urlToImage": "https://media.wcnc.com/assets/WCNC/images/acda0825-9bce-46a3-acf8-e30f929e9e12/acda0825-9bce-46a3-acf8-e30f929e9e12_1140x641.jpg",
+      "publishedAt": "2024-03-29T18:56:00Z",
+      "content": "CHARLOTTE, N.C. A 17-year-old Jack in the Box employee was killed in northwest Charlotte on Friday afternoon, police said. \r\nThe shooting happened around 2:30 p.m. inside a Jack in the Box restaurant… [+2838 chars]"
     },
     {
       "source": {
@@ -371,39 +1047,52 @@
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Elisabeth Buchwald",
-      "title": "Fed Chair Jerome Powell signals rate cuts aren’t imminent - CNN",
-      "description": "The Federal Reserve has been keen on paying attention to investors’ expectations on interest rates. But the Fed is prepared to ignore Wall Street’s hope for a rate cut in June if it feels the economy isn’t ready yet.",
-      "url": "https://www.cnn.com/2024/03/29/business/jerome-powell-interest-rates-federal-reserve/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24080692217474.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-29T18:39:00Z",
-      "content": "The Federal Reserve has been keen on paying attention to investors expectations on interest rates. But the Fed is prepared to ignore Wall Streets hope for a rate cut in June if it feels the economy i… [+2756 chars]"
+      "author": "Nathaniel Meyersohn, Anna Bahney",
+      "title": "The home insurance market is crumbling. These owners are paying the price - CNN",
+      "description": "The home insurance market is crumbling in New Orleans, leaving Alfredo Herrera with few options for coverage — and skyrocketing insurance premiums.",
+      "url": "https://www.cnn.com/2024/03/29/economy/home-insurance-prices-climate-change/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1233489713.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-29T18:48:00Z",
+      "content": "The home insurance market is crumbling in New Orleans, leaving Alfredo Herrera with few options for coverage and skyrocketing insurance premiums.\r\nHerrera, 35, works in finance for a local bank. He b… [+7524 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Futurism"
       },
-      "author": "Aislinn Murphy",
-      "title": "Tesla has new competition with a Chinese EV priced lower than Model 3 - Fox Business",
-      "description": "Tesla is getting some more electric vehicle competition in China with Xiaomi's release of the SU7 sedan this week, according to Barron's.",
-      "url": "https://www.foxbusiness.com/markets/tesla-has-new-competition-chinese-ev-priced-lower-model-3",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/xiaomi-logo.jpg?ve=1&tl=1",
-      "publishedAt": "2024-03-29T18:39:00Z",
-      "content": "Tesla is getting some more EV competition in China.\r\nIt is coming from Xiaomi, a Chinese consumer electronics company that officially introduced its electric SU7 sedan during a Thursday event involvi… [+2353 chars]"
+      "author": "Victor Tangermann",
+      "title": "Reddit's Stock Is Already Collapsing - Futurism",
+      "description": "Reddit shares are cratering right now, plunging almost 25 percent in just two days, less than a week following its IPO.",
+      "url": "https://futurism.com/the-byte/reddits-stock-already-collapsing",
+      "urlToImage": "https://wp-assets.futurism.com/2024/03/reddits-stock-already-collapsing.jpg",
+      "publishedAt": "2024-03-29T18:20:43Z",
+      "content": "Shares slipped almost 25 percent in just two days.\r\nBoom and Bust\r\nIt was only a matter of time.\r\nReddit shares are cratering right now, plunging almost 25 percent in just two days, as CNBC reports.\r… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ashutosh Shyam and Shally Mohile",
+      "title": "March could see the electric bike rally swelling to a record - The Economic Times",
+      "description": "Vehicle registration count is a proxy for retail sales. It touched 111,964 units for electric two-wheelers on March 29 - the highest for any month - according to data from Vahan, the government's repository of all vehicle registrations in India.  The previous…",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/march-could-see-the-electric-bike-rally-swelling-to-a-record/articleshow/108884247.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108884297,width-1200,height-630,imgsize-14170,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-29T18:12:37Z",
+      "content": "Mumbai: Electric two-wheeler registrations in India are set for a record high in March, topping 100,000 units for the second time in less than a year, as the rush to buy before a possible price incre… [+2888 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Decrypt"
+        "name": "Thenationaldesk.com"
       },
-      "author": "Jason Nelson",
-      "title": "$7.4 Million of Craig Wright's Assets Frozen Following Bitcoin Creator Trial - Decrypt",
-      "description": "After being declared not to be Bitcoin’s pseudonymous creator, a UK court is locking down his assets until his legal remedies are exhausted.",
-      "url": "https://decrypt.co/224122/bitcoin-creator-trial-craig-wright-freeze-assets-copa",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/04/IMG_1766-scaled-gID_7.jpg",
-      "publishedAt": "2024-03-29T18:18:02Z",
-      "content": "Concerned that computer scientist Craig Wright might attempt to evade the financial judgment levied against him after a UK court determined that he is not the creator of Bitcoin, the judge issued an … [+2492 chars]"
+      "author": "COURTNEY RAU | The National Desk",
+      "title": "Fact Check Team: EU launches non-compliance investigations into Apple, Meta, Alphabet - KOMO News",
+      "description": "The European Commission, the regulatory branch of the European Union, opened five non-compliance investigations into Apple, Meta and Alphabet.",
+      "url": "https://thenationaldesk.com/news/fact-check-team/eu-launches-non-compliance-investigations-into-apple-meta-alphabet-european-union-digital-markets-act-gatekeepers-regulations-fairness-competition-antitrust-penalty-streaming-service-fines-android-united-states-doj",
+      "urlToImage": "https://komonews.com/resources/media/6063ff77-a2df-4ebb-baf3-ce7f667542b0-large16x9_AP24032603618226.jpg",
+      "publishedAt": "2024-03-29T18:01:41Z",
+      "content": "WASHINGTON (TND) The European Commission the regulatory branch of the European Union opened five non-compliance investigations into Apple, Meta, and Alphabet under the new Digital Markets Act that we… [+2428 chars]"
     },
     {
       "source": {
@@ -420,16 +1109,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Todd Campbell",
-      "title": "Analyst who correctly forecast Palantir's stock rally updates outlook - TheStreet",
-      "description": "Here's what may happen to Palantir's shares next.",
-      "url": "https://www.thestreet.com/technology/analyst-who-correctly-forecast-palantirs-stock-rally-updates-outlook",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA1MzY0ODQxMzE2MDk5NTgy/peter-thiel-visits-fox--friends.jpg",
-      "publishedAt": "2024-03-29T17:33:00Z",
-      "content": "The artificial intelligence boom has helped many tech stocks, including Palantir Technologies, produce market-beating returns.\r\nWhile the S&amp;P 500's 10% first-quarter return is nothing to sneeze a… [+5290 chars]"
+      "author": "Saul Elbein",
+      "title": "Texas AG Paxton probes Boeing supplier, takes aim at DEI practices - The Hill",
+      "description": "Texas Attorney General Ken Paxton (R) is investigating a major supplier of aerospace company Boeing, whose flagship 737 MAX aircraft has been linked to a series of deadly accidents since 2018. “The potential risks associated with certain airplane models are d…",
+      "url": "https://thehill.com/business/4563766-texas-ag-paxton-boeing-supplier-spirit-aerosystems-investigation-dei-practices/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/02/paxtonken_022324gn07_w.jpg?w=1280",
+      "publishedAt": "2024-03-29T17:48:00Z",
+      "content": "Skip to content\r\nTexas Attorney General Ken Paxton (R) is investigating a major supplier of aerospace company Boeing, whose flagship 737 MAX aircraft has been linked to a series of deadly accidents s… [+5242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "Boeing faces 'pivotal moment,' new airplane chief says - Fox Business",
+      "description": "Boeing Commercial Airplanes CEO Stephanie Pope told staff in a letter this week that the company is facing a \"pivotal moment\" as it tries to rebuild its reputation.",
+      "url": "https://www.foxbusiness.com/lifestyle/boeing-faces-pivotal-moment-new-airplane-chief-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/GettyImages-1258841715_1.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-29T17:43:00Z",
+      "content": "Stephanie Pope, Boeing's newest airplane chief, told staff that the company faces a \"pivotal moment\" as it tries to ease concerns from regulators and rebuild its reputation following the 737 Max cris… [+2704 chars]"
     },
     {
       "source": {
@@ -447,28 +1149,41 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
+        "name": "Livemint"
       },
-      "author": "Tony Kurzweil",
-      "title": "This major LAX project has been delayed again - KTLA Los Angeles",
-      "description": "Another delay in a long-anticipated project at Los Angeles International Airport may keep travelers wanting to avoid the busy traffic loop waiting until 2025. The Automated People Mover system is 96% complete but increasing construction delays and a “strained…",
-      "url": "https://ktla.com/news/local-news/this-major-lax-project-has-been-delayed-again/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/Copy-of-mugshot-background-14-3.png?w=1280",
-      "publishedAt": "2024-03-29T17:13:16Z",
-      "content": "Another delay in a long-anticipated project at Los Angeles International Airport may keep travelers wanting to avoid the busy traffic loop waiting until 2025.\r\nThe Automated People Mover system is 96… [+1111 chars]"
+      "author": "Livemint",
+      "title": "Fed need not be in hurry to cut rates, inflation data within expectations: Jerome Powell | Mint - Mint",
+      "description": "Powell said earlier this month that it would likely be appropriate to ease policy ‘at some point this year.’ But policymakers have made clear that they are in no rush given the resilience of the economy",
+      "url": "https://www.livemint.com/economy/fed-need-not-be-in-hurry-to-cut-rates-inflation-data-within-expectations-jerome-powell-11711729439565.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/pow_1711729475129_1711729475410.jpg",
+      "publishedAt": "2024-03-29T16:54:22Z",
+      "content": "US Federal Reserve Chair Jerome Powell said that the US central bank is in no hurry to cut interest rates and that the fresh inflation data released on Friday is 'pretty much in line with expectation… [+8469 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Fox Business"
       },
-      "author": "Megan Leonhardt",
-      "title": "Powell Speech Today: Fed Chief Talks Rates, Inflation, and More - Barron's",
-      "description": "Fed Chair Jerome Powell spoke at the San Francisco Federal Reserve Bank’s Macroeconomics and Monetary Policy Conference. The discussion covered a number of topics including inflation and interest rates.",
-      "url": "https://www.barrons.com/livecoverage/fed-jerome-powell-speech-live-today",
-      "urlToImage": "https://images.barrons.com/im-25761349/social",
-      "publishedAt": "2024-03-29T17:05:00Z",
-      "content": "Although last years banking crisis seemed to catch regulators off-guard, Powell said he believes the U.S. system is now sound and there are lessons that can be applied.\r\nI would say the banking syste… [+1326 chars]"
+      "author": "Kristen Altus",
+      "title": "Restaurant owner fears California minimum wage law is 'a silent tax' on consumers, 'collapsing' businesses - Fox Business",
+      "description": "Restaurants are being forced to lay off employees and charge $26 for a burger meal due to California's Gavin Newsom-approved minimum wage, which goes into effect Monday.",
+      "url": "https://www.foxbusiness.com/politics/restaurant-owner-fears-california-minimum-wage-law-silent-tax-consumers-collapsing-businesses",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/NEWSOM-WAGE-GETTY-FND.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-29T16:54:00Z",
+      "content": "One Los Angeles-based restaurant owner is voicing her concerns over customers – and employees – having to eat up the costs of California’s soon-to-be enacted fast food minimum wage.\r\n\"We are the ones… [+2897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pib.gov.in"
+      },
+      "author": null,
+      "title": "Press Information Bureau - PIB",
+      "description": "Government of India through Designated Officer, Ministry of Mines issued the Notice Inviting Tender",
+      "url": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=2016685",
+      "urlToImage": "https://164.100.158.168/images/indian-emblem.png",
+      "publishedAt": "2024-03-29T16:50:00Z",
+      "content": "Posted On:\r\n 29 MAR 2024 10:20PM by PIB Delhi\r\nGovernment of India through Designated Officer, Ministry of Mines issued the Notice Inviting Tender dated 29 November 2023 under Tranche I of e-auction … [+2078 chars]"
     },
     {
       "source": {
@@ -485,16 +1200,29 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "Business Standard"
       },
-      "author": "Sydney Dunlap",
-      "title": "After TSA screens 2.8M passengers Thursday, it warns of crowded airports over weekend - The Hill",
-      "description": "The TSA encouraged travelers to get to the airport early as Easter weekend started, after it recorded its 10th-busiest day ever on Thursday.  TSA agents screened about 2.79 million individuals, the agency said Friday on X, formerly Twitter, making it the firs…",
-      "url": "https://thehill.com/policy/transportation/4563609-tsa-warning-spring-break/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/AP24078673876418-e1711726093901.jpg?w=1280",
-      "publishedAt": "2024-03-29T16:28:00Z",
-      "content": "Skip to content\r\nThe TSA encouraged travelers to get to the airport early as Easter weekend started, after it recorded its 10th-busiest day ever on Thursday. \r\nTSA agents screened about 2.79 million … [+1003 chars]"
+      "author": "Press Trust of India",
+      "title": "NBFC major L&T Finance Holdings receives approval for name change from RoC - Business Standard",
+      "description": "The name of L&T Finance Holdings (LTFH) has been changed to L&T Finance Ltd following approval from the Registrar of Companies (RoC), the company said in a statement on Friday.",
+      "url": "https://www.business-standard.com/companies/news/l-t-finance-holdings-receives-approval-for-name-change-from-roc-124032900460_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-07/08/thumb/fitandfill/400X400/1499470653-6578.jpg",
+      "publishedAt": "2024-03-29T16:27:10Z",
+      "content": "In December 2023, the company had successfully completed the merger of its subsidiaries -- L&amp;T Finance, L&amp;T Infra Credit, and L&amp;T Mutual Fund Trustee, with itself\r\nRepresentational Image\r… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Isabelle Lee",
+      "title": "Bullish Stocks Narrative Seen as Intact After US Inflation Data - Bloomberg",
+      "description": "A cooldown in the Federal Reserve’s preferred gauge of underlying inflation last month, coupled with a rebound in household spending, failed to shift the Wall Street consensus that has lifted stocks to records in the first quarter.",
+      "url": "https://www.bloomberg.com/news/articles/2024-03-29/bullish-stocks-narrative-seen-as-intact-after-us-inflation-data",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVsZZfHlEF.s/v1/1200x800.jpg",
+      "publishedAt": "2024-03-29T16:10:11Z",
+      "content": "A cooldown in the Federal Reserves preferred gauge of underlying inflation last month, coupled with a rebound in household spending, failed to shift the Wall Street consensus that has lifted stocks t… [+238 chars]"
     },
     {
       "source": {
@@ -512,15 +1240,15 @@
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "KRON4"
       },
-      "author": "Livemint",
-      "title": "US inflation rises moderately at 0.3% in February, consumer spending jumps; Fed rate cuts on table | Mint - Mint",
-      "description": "US PCE index: The personal consumption expenditures price index rose 0.3 per cent--lower than Street estimates, showed data released by the US Commerce Department on Friday",
-      "url": "https://www.livemint.com/economy/us-pce-index-us-inflation-rises-moderately-at-0-3-in-february-consumer-spending-jumps-fed-june-rate-cut-likely-ahead-11711726419479.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/im-904360_1703479314398_1711726511837.jpg",
-      "publishedAt": "2024-03-29T15:48:04Z",
-      "content": "US inflation increased moderately in February 2024 and the cost of services outside housing slowed considerably, keeping a June interest rate cut from the US Federal Reserve on the table. The persona… [+8285 chars]"
+      "author": "Morgan Whitley, Ryan Mense",
+      "title": "Engine issues cause Boeing plane from SFO to divert to Denver - KRON4",
+      "description": "DENVER (KDVR / KRON) — A United flight that took off from San Francisco International Airport was diverted to Denver after crews reported an issue with an engine. United Airlines confirmed to KRON that a flight from SFO to Paris had to land at Denver Internat…",
+      "url": "https://www.kron4.com/news/bay-area/engine-issues-cause-boeing-plane-from-sfo-to-divert-to-denver/",
+      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2024/03/65aefcefc9fe89.13657232.jpeg?w=1280",
+      "publishedAt": "2024-03-29T15:40:38Z",
+      "content": "DENVER (KDVR / KRON) A United flight that took off from San Francisco International Airport was diverted to Denver after crews reported an issue with an engine.\r\nUnited Airlines confirmed to KRON tha… [+2165 chars]"
     },
     {
       "source": {
@@ -538,6 +1266,32 @@
     {
       "source": {
         "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Abhishek Kumar",
+      "title": "AMCs outline riders to exit small, midcap MFs in case of market crisis - Business Standard",
+      "description": "Redemption gating, cap on employee withdrawal among measures",
+      "url": "https://www.business-standard.com/markets/news/mutual-funds-likely-to-restrict-redemptions-in-case-of-market-crisis-124032900447_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/29/thumb/fitandfill/400X400/1711736809-2029.jpg",
+      "publishedAt": "2024-03-29T14:58:16Z",
+      "content": "Redemption gating, cap on employee withdrawal among measures\r\nAbhishek KumarMumbai\r\nSmall and midcap schemes may impose restrictions on redemptions, cap employee withdrawals, and increase the exit lo… [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Maulik M",
+      "title": "Mutual fund KYC March 31 deadline: Existing investors get some relief - Moneycontrol",
+      "description": "Mutual fund investors no longer need to re-do the KYC for their existing MF folios. Earlier, failure to do so would have blocked them from transactions from April 1, 2024.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/mutual-fund-kyc-march-31-deadline-existing-investors-get-some-relief-12544461.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/03/Mutual-funds-653x435.jpg",
+      "publishedAt": "2024-03-29T14:57:26Z",
+      "content": "With only two days left for the earlier March 31, 2024, re-KYC deadline to end, mutual fund (MF) investors have been granted some relief.\r\nMF investors  no longer need to re-do the KYC (know your cus… [+3817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
       "author": "Daniella Genovese",
@@ -547,760 +1301,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Kia-Telluride-2022-1.jpg?ve=1&tl=1",
       "publishedAt": "2024-03-29T14:55:00Z",
       "content": "Kia is recalling more than 427,000 vehicles in the U.S. that have the potential to move while they are in park. \r\nThe warning, posted by the National Highway Traffic Safety Administration, covers all… [+1354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GaadiWaadi.com"
-      },
-      "author": "Surendhar M",
-      "title": "Tata Nexon AMT Base Trim Launched At Rs. 10 L - Rs. 1.7 L Cheaper - GaadiWaadi.com",
-      "description": "Tata has added five new variants to the Nexon compact SUV's lineup, equipped with the six-speed AMT transmission",
-      "url": "https://gaadiwaadi.com/tata-nexon-amt-base-trim-launched-at-rs-10-l-rs-1-7-l-cheaper/",
-      "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/09/2023-tata-nexon-facelift-12.jpg",
-      "publishedAt": "2024-03-29T14:26:45Z",
-      "content": "Tata Motors introduced the facelifted Nexon in September 2023 and now its range has been expanded with the inclusion of new variants, equipped with AMT transmission. The AMT-spec Tata Nexon now costs… [+1914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "MintGenie Team",
-      "title": "Here are the latest interest rates of PPF, NSC, KVP, SSY and other small savings schemes from April 1 onwards | Mint - Mint",
-      "description": "Within fixed-income instruments, small savings schemes such as PPF, SSY, NSC, and KVP are quite popular among investors thanks to the fixed and assured returns they offer.",
-      "url": "https://www.livemint.com/money/personal-finance/here-are-interest-rates-of-ppf-nsc-kvp-ssy-and-other-small-savings-schemes-from-april-1-11711712892712.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/savings-Towfiqu_Barbhuiya_unsplash_1711713156511_1711713165230.jpg",
-      "publishedAt": "2024-03-29T14:24:56Z",
-      "content": "While investors with a high-risk appetite are savouring the high returns of 30 per cent given by Nifty50 in the fiscal year 2024, there are millions of conservative investors who remain content with … [+8563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Charles Asisi",
-      "title": "Why regulating Big Tech is often pointless - Hindustan Times",
-      "description": "The ministry of corporate affairs (MCA) released a draft of the Digital Competition Bill to identify anti-competitive practices of tech companies last month",
-      "url": "https://www.hindustantimes.com/business/why-regulating-big-tech-is-often-pointless-101711721123831.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/29/1600x900/-Representative-Photo-_1711721075720.jpg",
-      "publishedAt": "2024-03-29T14:05:23Z",
-      "content": "Mumbai: There are moves afoot to regulate Big Tech in India along the lines of what the EU is doing, and the most recent developments in the US where Apple was sued for abusing its dominant position.… [+4199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Vaamanaa Sethi",
-      "title": "Gold glitters: Jewellers bet big on Gudi Padwa, Akshay Tritya and wedding season to drive demand despite rising prices | Mint - Mint",
-      "description": "India is one of the largest markets for gold, and growing affluence is driving demand, says the World Gold Council.",
-      "url": "https://www.livemint.com/market/commodities/demand-for-gold-jewellery-to-surge-in-india-despite-rising-prices-say-jewellers-11711717389194.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/Gold_1711720729137_1711720729429.JPG",
-      "publishedAt": "2024-03-29T14:01:17Z",
-      "content": "Gold prices in India continued to sparkle throughout the fiscal year 2023-2024, propelled by escalating geopolitical tensions globally. The yellow metal exhibited significant volatility, primarily in… [+4498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bea.gov"
-      },
-      "author": null,
-      "title": "Gross Domestic Product by State and Personal Income by State, 4th Quarter 2023 and Preliminary 2023 | U.S - Bureau of Economic Analysis",
-      "description": "Real gross domestic product (GDP) increased in all 50 states and the District of Columbia in the fourth quarter of 2023, with the percent change ranging from 6.7 percent in Nevada to 0.2 percent in Nebraska (table 1), according to statistics released today by…",
-      "url": "https://www.bea.gov/news/2024/gross-domestic-product-state-and-personal-income-state-4th-quarter-2023-and-preliminary",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T14:00:00Z",
-      "content": "Resources\r\n<ul><li>Stay informed about BEA developments by reading The BEA Wire, signing up for BEA's email subscription service, or following @BEA_News on X, formerly known as Twitter.</li><li>Histo… [+8013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ForexLive"
-      },
-      "author": "Adam Button",
-      "title": "US dollar dips in thin trade after PCE data - ForexLive",
-      "description": "I would be careful taking any signals from today's FX market moves but the US dollar dip after the PCE report is probably the right one.",
-      "url": "https://www.forexlive.com/news/us-dollar-dips-in-thin-trade-after-pce-data-20240329/",
-      "urlToImage": "https://images.forexlive.com/images/USDJPY%2010%20mins%20d_id_f73ddf9c-4bbe-4c74-9aee-a4cc4022ea60_size975.jpg",
-      "publishedAt": "2024-03-29T13:56:00Z",
-      "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Paul Davidson",
-      "title": "PCE inflation report watched closely by Fed ticks higher in February - USA TODAY",
-      "description": "The PCE inflation measure, followed closely by the Federal Reserve crept up in February. A core reading stayed elevated. What it means for rate cuts.",
-      "url": "https://www.usatoday.com/story/money/2024/03/29/pce-inflation-report-february-fed-rate-impact/73133579007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2022/09/25/USATODAY/usatsports/imageForEntry2-yPs.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
-      "publishedAt": "2024-03-29T13:41:15Z",
-      "content": "An annual inflation measure watched closely by the Federal Reserve crept higher in February, its first rise in five months and a sign the central bank could remain wary about cutting interest rates t… [+5611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mercomindia.com"
-      },
-      "author": null,
-      "title": "ALMM Reimposed from April, No Exemptions for Open Access Solar Projects - Mercom India",
-      "description": "The Ministry of New and Renewable Energy (MNRE) has notified the implementation of the Approved List of Models and Manufacturers (ALMM) regulation effective April 1, 2024. The new notification,...",
-      "url": "https://mercomindia.com/almm-reimposed-april-no-exemptions-open-access-solar",
-      "urlToImage": "https://d382rz2cea0pah.cloudfront.net/wp-content/uploads/2024/03/ALMM-Reimposed-from-April-No-Exemptions-for-Open-Access-Solar-Projects.jpg",
-      "publishedAt": "2024-03-29T13:40:57Z",
-      "content": "The Ministry of New and Renewable Energy (MNRE) has notified the implementation of the Approved List of Models and Manufacturers (ALMM) regulation effective April 1, 2024. The new notification, howev… [+1964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FX Empire"
-      },
-      "author": "Christopher Lewis",
-      "title": "Gold Price Forecast – Gold Waits For Monday - FX Empire",
-      "description": "The gold markets weren’t open on Friday, but the massive movement on Thursday already tells us a lot of what the market wants us to know.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-gold-waits-for-monday-1419842",
-      "urlToImage": "https://responsive.fxempire.com/v7/_fxempire_/2024/03/shutterstock_471770783-1-3.jpg?func=cover&q=70&width=700",
-      "publishedAt": "2024-03-29T13:39:00Z",
-      "content": "The gold markets had rallied rather significantly during the day on Thursday as we broke to a fresh new high. All things being equal, this is a market that is in its own world, and it is ready to tru… [+877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Jose Najarro, The Motley Fool",
-      "title": "Nvidia Continues to Dominate the Artificial Intelligence (AI) Market, but This Semiconductor Company Believes It's a Great Alternative - Yahoo Finance",
-      "description": "Nvidia just posted benchmark results for several of its AI chips, including the H100, H200, and Grace-Hopper Superchip GH200.",
-      "url": "https://www.fool.com/investing/2024/03/29/nvidia-continues-to-dominate-the-artificial-intell/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v51cp4Jb6Dg8kj6DWbRmcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/522390d99e6123d61da79f668b254735",
-      "publishedAt": "2024-03-29T13:30:40Z",
-      "content": "In today's video, I discuss recent updates affecting Nvidia (NASDAQ: NVDA). Check out the short video to learn more, consider subscribing, and click the special offer link below.\r\n*Stock prices used … [+1547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "Ninja, Digital, Prime: TCS to offer jobs to freshers under three categories; check salary package and... - Moneycontrol",
-      "description": "The IT firm has asked for applications from BTech, BE, MCA, MSc and MS batch of 2024",
-      "url": "https://www.moneycontrol.com/news/business/companies/ninja-digital-prime-tcs-to-offer-jobs-to-freshers-under-three-categories-check-salary-package-and-eligibility-details-12544201.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/01/Jobs-639x435.jpg",
-      "publishedAt": "2024-03-29T13:16:13Z",
-      "content": "Indias largest information and technology services company Tata Consultancy Services (TCS) announced on March 29 that it has started a hiring program for freshers, bringing relief to young engineerin… [+2276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "India's forex reserves rise for fifth straight week to hit fresh record high of $642.63 billion: RBI Data | Mint - Mint",
-      "description": "India's foreign currency assets, the biggest component of the forex reserves, though, declined by $123 million to $568.264 billion, the central bank's weekly statistical data showed",
-      "url": "https://www.livemint.com/economy/indias-forex-reserves-rise-for-fifth-straight-week-to-hit-fresh-record-high-of-642-63-billion-rbi-data-11711715608140.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/LiveMint_1711715622919_1711715623186.jpg",
-      "publishedAt": "2024-03-29T12:56:06Z",
-      "content": "India's foreign exchange reserves rose for the fifth straight week to hit a fresh all-time high of $642.631 billion in the week ending on March 22, as per the latest data released by the Reserve Bank… [+6202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bea.gov"
-      },
-      "author": null,
-      "title": "Personal Income and Outlays, February 2024 | U.S - Bureau of Economic Analysis",
-      "description": "Personal income increased $66.5 billion (0.3 percent at a monthly rate) in February, according to estimates released today by the Bureau of Economic Analysis (tables 2 and 3). Disposable personal income (DPI), personal income less personal current taxes, incr…",
-      "url": "https://www.bea.gov/news/2024/personal-income-and-outlays-february-2024",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T12:30:00Z",
-      "content": "Personal income increased $66.5 billion (0.3 percent at a monthly rate) in February, according to estimates released today by the Bureau of Economic Analysis (tables 2 and 3). Disposable personal inc… [+6122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Amit Rahi",
-      "title": "Best deals on Amazon: Top 10 energy efficient ACs to keep your home cool this summer, grab up to 42% discount | Mint - Mint",
-      "description": "Discover the top 5 Star ACs for energy efficiency and cooling performance. Find the best value and overall product to beat the summer heat.",
-      "url": "https://www.livemint.com/technology/gadgets/best-deals-on-amazon-top-10-energy-efficient-acs-to-keep-your-home-cool-this-summer-grab-up-to-42-discount-11711710107407.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/5_star_ac_1711711573928_1711711583670.jpg",
-      "publishedAt": "2024-03-29T12:04:40Z",
-      "content": "As the highly anticipated Amazon Sale 2024 approaches, now is the ideal time to consider upgrading to a more energy-efficient air conditioning unit. 5 Star ACs are renowned for their superior energy … [+21983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Etnownews.com"
-      },
-      "author": "ET Now Digital",
-      "title": "Tata Group Stock that has ZOOMED over 50000% gets BUY rating - Do you own? - ET Now",
-      "description": "Titan share price target 2024: In terms of financial performance, Titan reported a jump of the revenue to Rs 13,052 crore in Q3 FY24, up 11% Q-o-Q from Rs 11,660 crore in Q2 FY24. Net profit of Titan also jumped to Rs 1,040 crore with an EPS of Rs 11.73 in Q3…",
-      "url": "https://www.etnownews.com/markets/tata-group-stock-that-has-zoomed-over-50000-gets-buy-rating-do-you-own-article-108876947",
-      "urlToImage": "https://etstatic.tnn.in/thumb/msid-108876947,width-1280,height-720,resizemode-75/108876947.jpg",
-      "publishedAt": "2024-03-29T11:59:53Z",
-      "content": "53:07\r\nD-Street Volatility To Rise Ahead Of The F&amp;O Expiry? | Nifty Tops 22,100 | Closing Trades"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Steven Greenhut",
-      "title": "California Won't Let Homeowners Insurance Companies Raise Rates, so They're Leaving the State Instead - Yahoo! Voices",
-      "description": "Giving the state control over insurance rates turned pricing into a Byzantine regulatory process.",
-      "url": "https://www.yahoo.com/news/california-wont-let-homeowners-insurance-113015400.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p3jDkkEi3KeIrOP3Z0At1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/reason_com_245/d7824843a5c68fda0e41a5a3b8540f18",
-      "publishedAt": "2024-03-29T11:30:15Z",
-      "content": "Reading insurance trade magazines isn't everyone's idea of a great time, but every Californian should pay attention to the latest news in that arcane world. \"State Farm to pull out of 72,000 Californ… [+5401 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Pauleen Le",
-      "title": "As Uber and Lyft threaten Minneapolis exit, driver-owned rideshare cooperative set to enter - CBS Minnesota",
-      "description": "A rideshare co-op is launching services in Minneapolis in the coming weeks.",
-      "url": "https://www.cbsnews.com/minnesota/news/drivers-cooperative-minneapolis-rideshare-uber-lyft/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/14/95064771-dae0-4317-b9db-4337bbf12737/thumbnail/1200x630/37ba1196fbd88167aa65efa0a89d8e67/10p-pkg-rideshare-lates-wcco50lo.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
-      "publishedAt": "2024-03-29T11:20:00Z",
-      "content": "MINNEAPOLIS — A rideshare co-op is launching services in Minneapolis in the coming weeks. \r\nThe Driver's Cooperative, founded in New York City in 2021, touts itself as the world's first driver-owned … [+1185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Deepsekhar Choudhury",
-      "title": "Indian EVs were blowing up because of cheap laptop chips in battery: NXP tech chief Lars Reger - Moneycontrol",
-      "description": "NXP chief technology officer Lars Reger opens up about India's growing heft in chip design, EVs catching fire because of wrong chips, how Wall Street hyped up autonomous vehicles, and more",
-      "url": "https://www.moneycontrol.com/news/technology/indian-evs-were-blowing-up-because-of-cheap-laptop-chips-in-battery-nxp-tech-chief-lars-reger-12543731.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/Lars-Reger-NXP-Semiconductor-770x433.jpg",
-      "publishedAt": "2024-03-29T11:19:22Z",
-      "content": "When you think about the connection between a European high-tech company and India, the intuitive assumption would the vast market potential offered by India's status as the fastest-growing major eco… [+6716 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Francisco Chronicle"
-      },
-      "author": "Kellie Hwang",
-      "title": "Renting versus buying a home: Has the math changed for today's Bay Area real estate market? - San Francisco Chronicle",
-      "description": "Is it better to rent or buy a home right now? Here’s what the math shows for San Francisco, Oakland, San Jose and Fremont.",
-      "url": "https://www.sfchronicle.com/realestate/article/rent-versus-buy-calculator-19372394.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/35/41/47/24517105/6/rawImage.jpg",
-      "publishedAt": "2024-03-29T11:16:46Z",
-      "content": "Home prices across the Bay Area have been rising, while rents are on the decline.\r\nCarlos Avila Gonzalez/The Chronicle\r\nSpring is a popular time to buy and sell homes. But with a recent report out sh… [+6345 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Gabija Palšytė",
-      "title": "31 Infuriating Pics For People Who've Had About Enough Of Tipping Culture - Bored Panda",
-      "description": "“Tipping culture has gone out of control.” How many times have we heard this about the service industry? Especially when talking about America. Customers get demands to tip when picking up takeout, at self-service checkouts, and even in the elevator.",
-      "url": "https://www.boredpanda.com/shameless-tipping-culture/",
-      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/03/shameless-tipping-culture-fb-6606d72f1f36d__700-png.jpg",
-      "publishedAt": "2024-03-29T11:02:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Lee Moran",
-      "title": "Seth Meyers Bursts Trump Supporters' Bubble With 1 Line From Truth Social Filing - HuffPost",
-      "description": "The \"Late Night\" comedian brutally summed up the former president's media company.",
-      "url": "https://www.huffpost.com/entry/seth-meyers-donald-trump-truth-social_n_66068f53e4b05c3d072a1dd3",
-      "urlToImage": "https://img.huffingtonpost.com/asset/66069e8b2300006b23551266.png?cache=ZH8YztfV7a&ops=1200_630",
-      "publishedAt": "2024-03-29T10:58:22Z",
-      "content": "The share price of Donald Trumps newly Nasdaq-traded Trump Media &amp; Technology Group may currently be soaring.\r\nBut Seth Meyers predicted on Thursday that theres a good chance the bubble may burst… [+3397 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Spotlight",
-      "title": "A century of colours: Berger Paints celebrates an era of success and innovation - The Economic Times",
-      "description": "Berger Paints' century-long journey showcases resilience and innovation, with ambitious plans for doubling revenue by 2028-2029. The brand's success lies in transforming living spaces with innovative products like Berger Easy Clean and Berger Dampstop.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/paints/a-century-of-colours-berger-paints-celebrates-an-era-of-success-and-innovation/articleshow/108876506.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108878069,width-1200,height-630,imgsize-556746,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-03-29T10:56:46Z",
-      "content": "Berger Paints has leveraged the spirit of innovation to bring in a century of success with its suite of products. From colouring the landscapes of peoples lives to transforming the way they interact … [+2338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Sanya Jain",
-      "title": "First Starbucks in Varanasi draws huge crowd: ‘Nobody will buy Rs 300 coffee?’ - Moneycontrol",
-      "description": "Starbucks in Varanasi: The first Starbucks store in Varanasi saw huge crowds after its inauguration on March 22, possibly silencing naysayers who said the coffee chain would not survive in smaller cities of India.",
-      "url": "https://www.moneycontrol.com/news/trends/first-starbucks-in-varanasi-draws-huge-crowd-nobody-will-buy-rs-300-coffee-12543631.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/MixCollage-29-Mar-2024-04-09-PM-8700-770x433.jpg",
-      "publishedAt": "2024-03-29T10:42:35Z",
-      "content": "Naysayers who said coffee chains like Starbucks will not survive in smaller Indian cities may want to take a look at a video that is currently going viral online. The video has emerged on social medi… [+1361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "fox8.com"
-      },
-      "author": "Danielle Langenfeld",
-      "title": "Winning Powerball tickets sold in Ohio: Here’s where - WJW FOX 8 News Cleveland",
-      "description": "A lucky handful of Powerball players in Ohio could be holding tickets worth tens of thousands of dollars.",
-      "url": "https://fox8.com/news/winning-powerball-tickets-sold-in-ohio-heres-where/",
-      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/03/GettyImages-503900992-1.jpg?w=1280",
-      "publishedAt": "2024-03-29T10:33:59Z",
-      "content": "(WJW) – A lucky handful of Powerball players in Ohio could be holding tickets worth tens of thousands of dollars.\r\nThe Powerball jackpot has skyrocketed to nearly $1 billion. No one was lucky enough … [+788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Vimal Chander Joshi",
-      "title": "Best mutual funds: These top performing equity funds gave over 40 per cent return in fiscal 2024 | Mint - Mint",
-      "description": "These are the best equity mutual funds across market capitalisation i.e., large, mid and small caps in the financial year 2024 which is set to end on March 31",
-      "url": "https://www.livemint.com/mutual-fund/best-mutual-funds-fiscal-2024-these-top-performing-equity-funds-delivered-over-40-per-cent-return-in-past-one-year-11711702193814.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/mutual_funds_4_1711702521989_1711702529785.jpg",
-      "publishedAt": "2024-03-29T10:18:48Z",
-      "content": "As the financial year (FY) comes to a close, mutual fund investors are assessing the returns on the investments they made . Those investors who invested heavily in small and mid-cap funds have earned… [+8092 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Allan Sloan",
-      "title": "Boeing's shakeup and GE's collapse: 2 more black eyes for Jack Welch's legacy - Yahoo Finance",
-      "description": "One common thread runs between Boeing CEO Dave Calhoun's departure and the death knell for GE next week: Jack Welch. Veteran financial journalist Allan Sloan...",
-      "url": "https://finance.yahoo.com/news/boeings-shakeup-and-ges-fall-2-more-black-eyes-for-jack-welchs-legacy-100047645.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZI_n3eoFw3c.EBoG_5q2KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzI-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/a00194f0-ed32-11ee-bff3-35037410df3a",
-      "publishedAt": "2024-03-29T10:00:47Z",
-      "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+4620 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Nathaniel Meyersohn and Anna Bahney, CNN",
-      "title": "The home insurance market is crumbling. These owners are paying the price - Yahoo Finance",
-      "description": "The home insurance market is crumbling in New Orleans, leaving Alfredo Herrera with few options for coverage — and skyrocketing insurance premiums.",
-      "url": "https://www.cnn.com/2024/03/29/economy/home-insurance-prices-climate-change?cid=external-feeds_iluminar_yahoo",
-      "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/42974d9fca0847956abd22710d41d98d",
-      "publishedAt": "2024-03-29T10:00:26Z",
-      "content": "The home insurance market is crumbling in New Orleans, leaving Alfredo Herrera with few options for coverage and skyrocketing insurance premiums.\r\nHerrera, 35, works in finance for a local bank. He b… [+8144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sanantonioreport.org"
-      },
-      "author": "Tracy Idell Hamilton",
-      "title": "Texas preps for solar eclipse's expected $1.4B economic impact - San Antonio Report",
-      "description": "Many Hill Country communities started planning for the big business accompanying the April 8 total solar eclipse years in advance.",
-      "url": "http://sanantonioreport.org/hill-country-texas-eclipse-economy-total-solar-april-8-planning-economic-impact/",
-      "urlToImage": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2017/08/ScottBall_Eclipse_San_Antonio_Scobee_Planetarium_SAC_San_Antonio_College_8-21-2017-9.jpg?fit=2040%2C1360&ssl=1",
-      "publishedAt": "2024-03-29T10:00:00Z",
-      "content": "Given its location smack-dab in the center of the path of totality, the city of Kerrville, like other Hill Country communities, started planning for the April 8 total solar eclipse years in advance.\r… [+4922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "F&O update: NSE revises lot size of derivative contracts for 54 stocks - Moneycontrol",
-      "description": "The change will come into effect on April 26 for May 2024 and later expiries",
-      "url": "https://www.moneycontrol.com/news/business/stocks/fo-update-nse-revises-lot-size-of-derivative-contracts-for-54-stocks-12543221.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/11/nse-rep-770x433.jpg",
-      "publishedAt": "2024-03-29T09:50:49Z",
-      "content": "National Stock Exchange (NSE) announced revision of market lot of derivative contracts of 54 individual stocks. Out of 182 stocks that have derivative contracts, NSE has changed lot size of 54 stocks… [+1428 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Navdeep Singh",
-      "title": "Shapoorji Pallonji Group’s flagship firm, Afcons Infrastructure, files DRHP to raise Rs 7,000 crore via IP - The Economic Times",
-      "description": "According to the draft papers, the IPO, with a face value of Rs 10 per equity share, is a mix of fresh issue of shares of Rs 1,250 crore and an offer for sale of up to Rs 5,750 crore by Goswami Infratech Private Limited.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shapoorji-pallonji-groups-flagship-firm-afcons-infrastructure-files-drhp-to-raise-rs-7000-crore-via-ipo/articleshow/108874467.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108874459,width-1200,height-630,imgsize-25892,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-03-29T09:43:48Z",
-      "content": "Shapoorji Pallonji Groups flagship infrastructure engineering and Construction firm, Afcons Infrastructure Limited (AIL), has filed its draft red herring prospectus (DRHP) with the market regulator, … [+4346 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Getty Images",
-      "title": "Nifty 50 Outperformers: Top stocks that gained over 80% in FY24 - Strong Finish - The Economic Times",
-      "description": "Benchmark equity indices ended on a buoyant note on the last trading day of the financial year 2023-24 against the backdrop of a positive trend in the global market. For the fiscal year 2023-24, Sensex and Nifty delivered strong gains. The Sensex rose 28.6%, …",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-50-outperformers-top-stocks-that-gained-over-80-in-fy24/strong-finish/slideshow/108874144.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108874144,width-1070,height-580,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-03-29T09:36:38Z",
-      "content": "Benchmark equity indices ended on a buoyant note on the last trading day of the financial year 2023-24 against the backdrop of a positive trend in the global market. For the fiscal year 2023-24, Sens… [+796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Bijin Jose",
-      "title": "Tech layoffs 2024: Sacked employees take to LinkedIn to share woes and hopes - The Indian Express",
-      "description": "Tech layoffs have impacted over 56,000 people this year. Here is a look at the human side of job cuts, its impact and way forward.",
-      "url": "https://indianexpress.com/article/technology/tech-layoffs-2024-linkedin-employee-stories-9239975/",
-      "urlToImage": "https://images.indianexpress.com/2024/03/Layoff-1.jpg",
-      "publishedAt": "2024-03-29T09:21:15Z",
-      "content": "The end of March is here, and so far, over 200 companies have laid off close to 56,000 employees this year. Perhaps the biggest round of layoffs this month was carried out by American tech giant Dell… [+8016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Anand Mahindra echoes Elon Musk's call for celebrating manufacturing heroes on silver screen | Mint - Mint",
-      "description": "Anand Mahindra echoes Elon Musk's belief that manufacturing heroes deserve recognition on the silver screen. Mahindra quoted the Dogecoin designer's tweet about the lack of movies depicting high-volume manufacturing challenges.",
-      "url": "https://www.livemint.com/companies/news/anand-mahindra-echoes-elon-musks-call-for-celebrating-manufacturing-heroes-on-silver-screen-11711700201497.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/PTI01-08-2024-000141A-0_1708695879867_1711701593286.jpg",
-      "publishedAt": "2024-03-29T09:17:41Z",
-      "content": "Industrialist and Mahindra Group Chairman Anand Mahindra, known for his influential presence on social media, has reignited a conversation about the unsung heroes of the manufacturing world. Backing … [+6369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "RBI Will Not Accept Or Exchange Rs 2,000 Notes On April 1: Here's Why - NDTV",
-      "description": "The Reserve Bank of India (RBI) has announced that it will not be exchanging or accepting Rs 2000 notes on April 1 due to the annual closing of accounts.",
-      "url": "https://www.ndtv.com/business-news/rbi-will-not-accept-or-exchange-rs-2-000-notes-on-april-1-heres-why-5333157",
-      "urlToImage": "https://c.ndtvimg.com/2023-05/dqj1lulo_2000-note-pti_625x300_23_May_23.jpg",
-      "publishedAt": "2024-03-29T08:55:36Z",
-      "content": "The facility will resume from April 2, the RBI said.\r\nThe Reserve Bank of India (RBI) has announced that it will not be exchanging or accepting Rs 2,000 notes on April 1 due to the annual closing of … [+1132 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Akash Podishetti",
-      "title": "Rs 70000 crore pipeline awaits IPO market in FY25, featuring some household names - The Economic Times",
-      "description": "Companies raised Rs 62,000 crore through initial share sales in fiscal 2024 and the pipeline looks equally strong. As much as Rs 70,000 crore worth of offerings are expected to hit the markets next fiscal with some big names in the mix.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-70000-crore-pipeline-awaits-ipo-market-in-fy25-featuring-some-household-names/articleshow/108872722.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108872721,width-1200,height-630,imgsize-51214,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-03-29T08:36:00Z",
-      "content": "The primary market is witnessing a tremendous surge in activity with high liquidity and enhanced investor appetite for new issue launches irrespective of the market sentiments.Companies raised Rs 62,… [+4278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Kate Kozuch",
-      "title": "5 coolest cars we saw at the New York Auto Show 2024 - Tom's Guide",
-      "description": "These EVs seriously impressed",
-      "url": "https://www.tomsguide.com/vehicle-tech/evs/5-coolest-cars-we-saw-at-the-new-york-auto-show-2024",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tLdzETzgANV8WZ76v8kYgU-1200-80.jpg",
-      "publishedAt": "2024-03-29T08:30:16Z",
-      "content": "There's never been a more exciting time in the EV space. Not only are EV-first brands pushing the boundaries of what a car can do, but almost all the major manufacturers have introduced some version … [+4225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GaadiWaadi.com"
-      },
-      "author": "Surendhar M",
-      "title": "Two Confirmed Car Launches In Early April 2024 - Toyota & Skoda - GaadiWaadi.com",
-      "description": "In early April, Toyota will debut the Urban Cruiser Taisor while the old-gen Skoda Superb will also make a comeback to India",
-      "url": "https://gaadiwaadi.com/two-confirmed-car-launches-in-early-april-2024-toyota-skoda/",
-      "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/11/2024-Toyota-Yaris-Cross-Side.jpg",
-      "publishedAt": "2024-03-29T08:29:43Z",
-      "content": "Toyota and Skoda are planning to introduce new models next week in India. The former will bring in its compact SUV coupe, the Taisor, while the latter will announce the prices of the returning Superb… [+1900 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "LIC, private insurers, banks, tax department open this Saturday, Sunday: Transactions you can do. Details here - Hindustan Times",
-      "description": "March 31 marks the end of the financial year and falls on a Sunday this year owing to which this decision was taken by the insurance body.",
-      "url": "https://www.hindustantimes.com/business/lic-private-insurers-banks-tax-department-open-this-saturday-sunday-transactions-you-can-do-details-here-101711695167558.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/29/1600x900/seen-exterior-view-mumbai-lic-is-headquarters_1202d684-acfe-11e8-abd2-5c322fa89f61_1711699742319.jpg",
-      "publishedAt": "2024-03-29T08:14:32Z",
-      "content": "The Insurance Regulatory and Development Authority of India advised insurance companies to keep their offices open on March 30 and March 31 to avoid any distress to policyholders, the regulator said … [+1900 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Sustainable packaging startup Bambrew raises $7 million in funding led by Blume Ventures - The Economic Times",
-      "description": "Bambrew said the funds will be used to expand into primary packaging for consumer goods, food and beverages product categories, expanding manufacturing capabilities, research and development and building a team",
-      "url": "https://economictimes.indiatimes.com/tech/funding/sustainable-packaging-startup-bambrew-raises-7-million-led-by-blume-ventures/articleshow/108871944.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108872043,width-1200,height-630,imgsize-85582,overlay-ettech/photo.jpg",
-      "publishedAt": "2024-03-29T08:13:39Z",
-      "content": "Bambrew, a cleantech startup operating in the sustainable packaging space, on Friday said it has raised Rs 60 crore (about $7 million) in Series A funding round led by Blume Ventures.The funding was … [+2550 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "Huawei Profit Surges as It Takes Share From Apple and Alibaba - Bloomberg",
-      "description": "Huawei Technologies Co. sustained its run of strong quarterly profit growth, building on the resurgence of its consumer business against Apple Inc.’s iPhone and the rise of its cloud division against incumbent Alibaba Group Holding Ltd.",
-      "url": "https://www.bloomberg.com/news/articles/2024-03-29/huawei-profit-surges-as-it-takes-share-from-apple-and-alibaba",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igz.o_bLK6Ns/v1/1200x800.jpg",
-      "publishedAt": "2024-03-29T08:09:27Z",
-      "content": "Huawei Technologies Co. sustained its run of strong quarterly profit growth, building on the resurgence of its consumer business against Apple Inc.s iPhone and the rise of its cloud division against … [+304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Sangeeta Ojha",
-      "title": "Mutual Fund investors alert! Your transaction will be blocked if you don't do this by March 31. Here's why | Mint - Mint",
-      "description": "If your mutual fund KYC is not based on an officially recognised document as specified by CAMS and KFintech, you'll need to complete your KYC again by March 31, 2024",
-      "url": "https://www.livemint.com/money/personal-finance/mutual-fund-investors-alert-your-transaction-will-be-blocked-if-you-dont-do-this-by-31st-march-2024-heres-why-11711694266746.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/Mutual_fuind_rekyc_1711696694371_1711696702188.JPG",
-      "publishedAt": "2024-03-29T07:50:11Z",
-      "content": "The approaching deadline of March 31, 2024, serves as a loud alarm for mutual fund holders to be prepared. One significant change impacting mutual fund investors is the requirement to undergo Know Yo… [+7039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Debangana Ghosh",
-      "title": "Top Indian crypto exchanges see a 207% surge in trading volumes in March as Bitcoin soars - Moneycontrol",
-      "description": "The top three exchanges, including WazirX, CoinDCX, and Zebpay, have collectively surpassed trading volumes of over $584 million in March, compared to $189.91 million at the end of February.",
-      "url": "https://www.moneycontrol.com/news/technology/top-indian-crypto-exchanges-see-a-207-surge-in-trading-volumes-in-march-as-bitcoin-soars-12542271.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-18-Sep-2023-01-20-PM-9200-770x433.jpg",
-      "publishedAt": "2024-03-29T07:50:04Z",
-      "content": "Crypto trading volumes across top Indian exchanges have cumulatively jumped by over 207 percent month-on-month (MoM) between February and March 25, reflecting a significant increase in trading activi… [+5002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Inside Sam Bankman-Fried's Multi-Billion Dollar FTX Fraud - NDTV",
-      "description": "Former cryptocurrency billionaire Sam Bankman-Fried, 32, has been sentenced to 25 years in prison for his involvement in a major financial scam related to the collapse of the FTX crypto exchange.",
-      "url": "https://www.ndtv.com/world-news/inside-sam-bankman-frieds-multi-billion-dollar-ftx-fraud-5332133",
-      "urlToImage": "https://c.ndtvimg.com/2024-02/95eeh5i_-sam-bankmanfried_625x300_28_February_24.jpeg",
-      "publishedAt": "2024-03-29T07:44:46Z",
-      "content": "Sam Bankman-Fried got into the world of cryptocurrency at the age of 25. (File)\r\nFormer cryptocurrency billionaire Sam Bankman-Fried, 32, has been sentenced to 25 years in prison for his involvement … [+2769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Reuters",
-      "title": "Xiaomi Launches SU7 Electric Car in China as Smartphone Maker Takes Aim at EV Giant Tesla - Gadgets 360",
-      "description": "Chinese smartphone maker Xiaomi launched a sporty electric car on Thursday with styling cues drawn from Porsche and priced below Tesla's Model 3, highlighting the stiff competition from new entrants in an already crowded EV market in China.",
-      "url": "https://www.gadgets360.com/auto/news/xiaomi-su7-electric-car-launched-china-tesla-competition-5332677",
-      "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_su7_reuters_1711350977704.jpg?",
-      "publishedAt": "2024-03-29T07:18:49Z",
-      "content": "Chinese smartphone maker Xiaomi launched a sporty electric car on Thursday with styling cues drawn from Porsche and priced below Tesla's Model 3, highlighting the stiff competition from new entrants … [+3842 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Axis Bank credit card users impacted by fraudulent transactions: How did it happen? How many are impacted? - Hindustan Times",
-      "description": "Axis Bank official said that there has been \"no data breach\" at the bank's end and the scale of fraudulent transactions is very limited.",
-      "url": "https://www.hindustantimes.com/business/axis-bank-credit-card-users-impacted-by-fraudulent-transactions-how-did-it-happen-how-many-are-impacted-101711691690813.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/29/1600x900/INDIA-BANKS--1_1711637572062_1711693394252.JPG",
-      "publishedAt": "2024-03-29T06:27:48Z",
-      "content": "Multiple Axis Bank credit cards' customers have been impacted by fraudulent overseas transactions, a senior official from the third largest private sector lender said. Customers witnessed unauthorise… [+1906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Gold and silver prices Today on 29-03-2024: Check latest rates in your city | Mint - Mint",
-      "description": "Gold And Silver Prices Today:10 gm of 24 carat gold was at Rs.69404.0 in Delhi whereas 1 kg of silver was Rs.77600.0 in Delhi.",
-      "url": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-on-29-03-2024-check-latest-rates-in-your-city-11711687520456.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/20/1600x900/Gold_Silver_1695188117170_1695188150826.webp",
-      "publishedAt": "2024-03-29T04:45:20Z",
-      "content": "Gold And Silver Prices Today: Gold prices saw a slight increase on Friday. The cost of 24 carat gold is Rs.6940.4 per gm up by Rs.832.0. The cost of 22 carat gold is Rs.6357.4 per gm up by Rs.762.0. … [+2875 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Now",
-      "title": "Gurmeet Chadha on 2 investment themes he is betting on in FY25 - The Economic Times",
-      "description": "Gurmeet Chadha discusses market performance, capex cycles, rising retail investment, financial opportunities in HDFC, Kotak, NBFCs, and energy stocks like Power Grid, emphasizing the shift towards equity ownership. He believes In fact, this $3-billion SIP boo…",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/gurmeet-chadha-on-2-investment-themes-he-is-betting-on-in-fy25/articleshow/108851616.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-108851580,width-1200,height-630,imgsize-18470,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-03-29T04:30:00Z",
-      "content": "Gurmeet Chadha, Managing Partner, Chief Investment Officer, Complete Circle Consultants, says: Had you taken Nifty 50, you would have made 30% last year. If you would have taken mid and smallcaps, yo… [+6130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Informalnewz.com"
-      },
-      "author": "Shyamu Maurya",
-      "title": "UPI Transactions: Good News! Now UPI transactions can be done in UAE also, the company has partnered with ... - informalnewz",
-      "description": "UPI Transactions: The collaboration is facilitated through Mashreq’s partnership with NPCI International Payments Limited (NIPL). Through this partnership Mashreq has enabled NEOPAY terminals to accept UPI Apps as a payment instrument allowing Indian traveler…",
-      "url": "https://www.informalnewz.com/upi-transactions-good-news-now-upi-transactions-can-be-done-in-uae-also-the-company-has-partnered-with-neopay/",
-      "urlToImage": "https://www.informalnewz.com/wp-content/uploads/2022/08/3RD-1024x825-1-300x242-1.png",
-      "publishedAt": "2024-03-29T03:56:49Z",
-      "content": "UPI Transactions: The collaboration is facilitated through Mashreqs partnership with NPCI International Payments Limited (NIPL). Through this partnership Mashreq has enabled NEOPAY terminals to accep… [+1293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTVU San Francisco"
-      },
-      "author": "Bay City News",
-      "title": "4 big companies to fund $10M plan for downtown Oakland security measures - KTVU FOX 2 San Francisco",
-      "description": "Four major Oakland employers said Thursday they are ponying up to fund a $10 million program to step up security for their employees working downtown.",
-      "url": "https://www.ktvu.com/news/4-big-companies-to-fund-10m-plan-for-downtown-oakland-security-measures",
-      "urlToImage": "https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/DF6/B04/1280/720/DF6B0413DE40DFA78EDF78892E1072AF.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=FTzsevGWwJgS1uMUpHz3a6JugpA&ve=1&tl=1",
-      "publishedAt": "2024-03-29T03:56:26Z",
-      "content": "OAKLAND, Calif. - Four major Oakland employers said Thursday they are ponying up to fund a $10 million program to step up security for their employees working downtown.\r\nBlue Shield of California, Th… [+2440 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Manish Singh",
-      "title": "Byju’s founder floats share offer to make peace with estranged investors - TechCrunch",
-      "description": "Founder Byju Raveendran is making a last-ditch attempt to placate the embattled Indian startup's disgruntled investors.",
-      "url": "https://techcrunch.com/2024/03/28/byjus-founder-floats-share-offer-to-make-peace-with-estranged-investors/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1132893022.jpg?resize=1200,800",
-      "publishedAt": "2024-03-29T03:53:00Z",
-      "content": "Byju Raveendran, the founder of embattled edtech group Byju’s, has made a last-ditch attempt to placate the company’s disgruntled investors, who include Prosus Ventures. The company’s board is weighi… [+4009 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "X’s Grok chatbot will soon get an upgraded model, Grok-1.5 - TechCrunch",
-      "description": "Grok-1.5 appears to be a measurable upgrade over its predecessor, Grok-1 — at least judging by the published benchmark results and specs.",
-      "url": "https://techcrunch.com/2024/03/28/xs-grok-chatbot-will-soon-get-an-upgraded-model-grok-1-5/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
-      "publishedAt": "2024-03-29T03:48:00Z",
-      "content": "Elon Musk’s AI startup, X.ai, has revealed its latest generative AI model, Grok-1.5. Set to power social network X’s Grok chatbot in the not-so-distant future (“in the coming days,” per a blog post),… [+2747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Informalnewz.com"
-      },
-      "author": "Shyamu Maurya",
-      "title": "Income Tax Fine: Big News for Bank Customers! Income Tax imposed a fine of Rs 564 crore on this government ... - informalnewz",
-      "description": "Bank of India: After the fine was imposed by the Income Tax Department on behalf of the government bank, it was said that it is in the process of filing an appeal against this order before the Income Tax Commissioner, National Faceless Appeal Center (NFAC). I…",
-      "url": "https://www.informalnewz.com/income-tax-fine-big-news-for-bank-customers-income-tax-imposed-a-fine-of-rs-564-crore-on-this-government-bank-know-the-reason/",
-      "urlToImage": "https://www.informalnewz.com/wp-content/uploads/2022/08/3RD-1024x825-1-300x242-1.png",
-      "publishedAt": "2024-03-29T03:31:08Z",
-      "content": "Bank of India: After the fine was imposed by the Income Tax Department on behalf of the government bank, it was said that it is in the process of filing an appeal against this order before the Income… [+2169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Aparna Deb",
-      "title": "Petrol, Diesel Fresh Prices Announced On March 29: Know Fuel Rates In Your City - News18",
-      "description": "Petrol, and Diesel prices in Chennai, Kolkata, Bengaluru, Lucknow, Noida, and Gurugram on March 29, 2023",
-      "url": "https://www.news18.com/business/petrol-diesel-fresh-prices-announced-on-march-29-know-fuel-rates-in-your-city-8832019.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/02/jpg-2-2024-02-c05685af5b7ae38714c7b03c1c3e1aa2-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-03-29T02:47:51Z",
-      "content": "Petrol and Diesel Prices Today On March 29, 2024: Changes in the prices of petrol and diesel affect the pocket of the common man. Recently, the prices of petrol and diesel were revised by the governm… [+3925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bar & Bench - Indian Legal News"
-      },
-      "author": "Prashant Jha",
-      "title": "Delhi High Court to examine whether terms of Google Ads bar advertisers from arbitration in India - Bar & Bench - Indian Legal News",
-      "description": "The Delhi High Court recently said that it will examine whether the terms of Google’s Advertising Program bar an advertiser from availing legal remedies or fili",
-      "url": "https://www.barandbench.com/news/delhi-high-court-examine-whether-terms-google-ads-bar-advertisers-arbitration-india",
-      "urlToImage": "https://media.assettype.com/barandbench%2F2022-10%2F7275ae7a-5e62-46cb-b165-3dfc50b8c09f%2F13.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2024-03-29T02:38:56Z",
-      "content": "Startupwala moved the High Court under Section 9 of the Arbitration and Conciliation Act, 1996 seeking a direction to Google India to maintain status quo by reinstating all digital ads of the company… [+833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Hiral Thanawala",
-      "title": "The Money Calendar 2024-25: Keep up with investments, taxes, lenders and more - Moneycontrol",
-      "description": "Come April 1, we hope you have a happy new financial year! Be sure to download our calendar and keep track of your portfolio, your tax filing dates, your life and health insurance policies, and Valentine's Day, among other things. The Money Calendar 2024-25 h…",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/the-money-calendar-2024-25-keep-up-with-investments-taxes-lenders-and-more-12484831.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/12/Event-calendar-770x433.jpg",
-      "publishedAt": "2024-03-29T02:16:18Z",
-      "content": "April 1 marks the beginning of a new financial year. Its time to make new beginnings, take stock of your moneybox, do a thorough review, and plan for the year ahead.\r\nPlan your investments\r\nSo far, 2… [+4062 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters.com",
-      "title": "Texas judge transfers lawsuit over card fees to Washington, D.C. - Reuters.com",
-      "description": null,
-      "url": "https://www.reuters.com/legal/texas-judge-transfers-lawsuit-over-card-fees-washington-dc-2024-03-28/",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T01:35:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Asit Manohar",
-      "title": "Indian stock market holiday: NSE, BSE shut today on account of Good Friday | Mint - Mint",
-      "description": "After Good Friday, the next stock market holiday will fall on 11th April for Ramadan Eid 2024",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-holiday-nse-bse-shut-today-on-account-of-good-friday-2024-11711674500331.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/Stock_market_holidays_Stock_market_today_News_1711675095697_1711675096064.jpg",
-      "publishedAt": "2024-03-29T01:24:10Z",
-      "content": "Stock market holiday: On account of Good Friday 2024, trading at BSE (Bombay Stock Exchange) and NSE (National Stock Exchange) will remain closed on 29th March 2024 i.e. today. So, the Indian stock m… [+2686 chars]"
     }
   ]
 }

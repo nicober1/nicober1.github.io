@@ -1,45 +1,461 @@
 {
   "status": "ok",
-  "totalResults": 217,
+  "totalResults": 248,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "LatestLY"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "author": "PTI",
-      "title": "World News - LatestLY",
-      "description": "Get latest articles and stories on World at LatestLY.   Stars like the Sun are remarkably constant. They vary in brightness by only 0.1% over years and decades, thanks to the fusion of hydrogen into helium that powers them. This process will keep the Sun shin…",
-      "url": "https://www.latestly.com/agency-news/world-news-exploding-stars-are-rare-but-emit-torrents-of-radiation-if-one-happened-close-enough-to-earth-it-could-threaten-life-on-the-planet-5856281.html",
-      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-784x441.jpg",
-      "publishedAt": "2024-03-30T03:48:09Z",
-      "content": "Tucson (US), Mar 30 (The Conversation) Stars like the Sun are remarkably constant. They vary in brightness by only 0.1% over years and decades, thanks to the fusion of hydrogen into helium that power… [+7043 chars]"
+      "author": "Leah Sarnoff",
+      "title": "Total solar eclipse April 8, 2024: Path, time and the best places to view - ABC News",
+      "description": "In the U.S., 31 million people already live inside the path of totality.",
+      "url": "https://abcnews.go.com/US/total-solar-eclipse-april-8-2024-path-time/story?id=107977196",
+      "urlToImage": "https://i.abcnewsfe.com/a/5306aa79-bb54-4b83-a3eb-969a4cc1d620/solar-eclipse-nyc-gty-lv-240317-2_1710693807923_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-30T17:03:39Z",
+      "content": "Scroll down to see the list of U.S. cities where the April 8 total solar eclipse will be visible, the duration of the eclipse in those locations and what time totality will begin, according to GreatA… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HODINKEE"
+      },
+      "author": "James Stacey",
+      "title": "Recommended Reading: Earth Is Spinning Faster Than Expected, And We May Have To Subtract A Whole Second From The World's Clocks - HODINKEE",
+      "description": "Melting poles push for a \"negative leap second\" scenario.",
+      "url": "https://www.hodinkee.com/articles/earth-is-spinning-faster-than-expected-and-we-may-have-to-subtract-a-whole-second-from-the-worlds-cl",
+      "urlToImage": "https://hodinkee.imgix.net/uploads/images/14b3e1db-70f9-4b63-ace7-e88e13d610b3/time-slowing-1.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "publishedAt": "2024-03-30T17:00:09Z",
+      "content": "Since the early 70's, it has become standard operating procedure to add a leap second to account for the fact that astronomical time is 2.5ms slower than atomic time. In fact, between 1972 and 2016, … [+278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "James Miller-Jones",
+      "title": "A cosmic 'speed camera' just revealed the staggering speed of neutron star jets in a world first - Phys.org",
+      "description": "How fast can a neutron star drive powerful jets into space? The answer, it turns out, is about one-third the speed of light, as our team has just revealed in a new study published in Nature.",
+      "url": "https://phys.org/news/2024-03-cosmic-camera-revealed-staggering-neutron.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/a-cosmic-speed-camera-1.jpg",
+      "publishedAt": "2024-03-30T16:40:12Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+5450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "5000th comet discovered using space-based Sun observatory - VideoFromSpace",
+      "description": "The ESA/NASA  Solar and Heliospheric Observatory (SOHO) has officially discovered 5000 comets. Comet number 5000 was spotted in SOHO images on March 25, 2024...",
+      "url": "https://www.youtube.com/watch?v=hEoALe0Uc3k",
+      "urlToImage": "https://i.ytimg.com/vi/hEoALe0Uc3k/maxresdefault.jpg",
+      "publishedAt": "2024-03-30T16:00:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "From Theory to Reality: Graviton-like Particles Found in Quantum Experiments - SciTechDaily",
+      "description": "The results, continuing the legacy of late Columbia professor Aron Pinczuk, are a step toward a better understanding of gravity. A team of scientists from Columbia, Nanjing University, Princeton, and the University of Munster, writing in the journal Nature, h…",
+      "url": "https://scitechdaily.com/from-theory-to-reality-graviton-like-particles-found-in-quantum-experiments/",
+      "urlToImage": "https://scitechdaily.com/images/Light-Probing-Chiral-Graviton-Mode.jpg",
+      "publishedAt": "2024-03-30T14:56:15Z",
+      "content": "The interaction and balance of topological vortices not only demonstrate the beauty of mathematics, but also change the way humanity understand nature. Studying topological vortices can greatly expan… [+6217 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Everything you need to know about the April 8 total solar eclipse | The Times of India - The Times of India",
+      "description": "Beyond the path of totality, individuals throughout the contiguous United States will have an opportunity to witness a partial solar eclipse, during which the Moon partially obscures the Sun. (Photo credit: AP)",
+      "url": "https://timesofindia.indiatimes.com/home/science/everything-you-need-to-know-about-the-april-8-total-solar-eclipse/photostory/108903511.cms",
+      "urlToImage": "https://static.toiimg.com/photo/108903637.cms",
+      "publishedAt": "2024-03-30T14:42:38Z",
+      "content": "On Monday, April 8, a complete solar eclipse will traverse North America, casting a temporary twilight across Mexico, the United States, and Canada. During this event, totality will endure for as lon… [+147 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Hindustan Times"
       },
-      "author": "Krishna Priya Pallavi",
-      "title": "Solar Eclipse 2024: Will it be visible in India? When, Where and How to watch First Total Solar Eclipse of 2024 - Hindustan Times",
-      "description": "Solar Eclipse 2024: First Solar Eclipse of 2024 will be Total Solar Eclipse. Know whether the rare celestial event is visible in India, how to watch it and more",
-      "url": "https://www.hindustantimes.com/lifestyle/festivals/solar-eclipse-2024-will-it-be-visible-in-india-when-where-and-how-to-watch-first-total-solar-eclipse-of-2024-101711765904781.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/30/1600x900/SOLAR-ECLIPSE-2024_1711766045014_1711766045709.JPG",
-      "publishedAt": "2024-03-30T02:47:06Z",
-      "content": "Total Solar Eclipse 2024: A rare celestial event is in store for skywatchers next month. A Solar Eclipse will occur in the second week of April. It will be the first Solar Eclipse of 2024, after the … [+3090 chars]"
+      "author": "Khushi Pal",
+      "title": "10 mesmerising images of nebulae captured by NASA’s Hubble Space Telescope - Hindustan Times",
+      "description": "Here is a look at 10 mesmerising images of nebulae shared by NASA.",
+      "url": "https://www.hindustantimes.com/web-stories/in-focus/10-mesmerising-images-of-nebulae-captured-by-nasa-s-hubble-space-telescope-101711799786508.html",
+      "urlToImage": null,
+      "publishedAt": "2024-03-30T14:00:07Z",
+      "content": "By Khushi PalPublished Mar 30, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
     },
     {
       "source": {
         "id": null,
-        "name": "Florida Today"
+        "name": "Phys.Org"
       },
-      "author": "Brooke Edwards, Mara Bellaby",
-      "title": "SpaceX Falcon 9 rocket launch doubleheader coming up on Cape Saturday - Florida Today",
-      "description": "Two SpaceX Falcon 9 rockets could take to the skies over Florida in back-to-back Saturday evening launches.",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2024/03/29/spacex-rocket-launch-doubleheader-cape-canaveral-starlink-delta-iv-heavy-ula-falcon-9/73138596007/",
-      "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/03/28/PBRE/73137828007-crb-032824-delta-16.jpg?crop=3613,2032,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2024-03-30T00:56:41Z",
-      "content": "While the wait to say farewell to the Delta IV Heavy continues, locals and spring breakers are in for a possible double rocket launch show on Saturday.\r\nIf all goes according to plan, two Falcon 9 ro… [+4325 chars]"
+      "author": "Chris Packham",
+      "title": "Saturday Citations: 100-year-old milk, hot qubits and another banger from the Event Horizon Telescope project - Phys.org",
+      "description": "Is the milk sold today similar to the milk available 100 years ago? Here, drink this and give me your results. Also, physicists achieve superconductivity at a temperature slightly higher than 0 degrees Kelvin and slightly lower than 2 degrees Kelvin. The Even…",
+      "url": "https://phys.org/news/2024-03-saturday-citations-year-hot-qubits.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/saturday-citations-100.jpg",
+      "publishedAt": "2024-03-30T13:30:01Z",
+      "content": "At left, the supermassive black hole at the center of the Milky Way Galaxy, Sagittarius A*, is seen in polarized light, the visible lines indicating the orientation of polarization, which is related … [+5189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Fareha Naaz",
+      "title": "'Vampire' neutron star blasts tied to near-light-speed jet phenomenon, scientists find | Mint - Mint",
+      "description": "New research has offered an insight into the puzzle as to what causes astrophysical jets to be launched from neutron stars and how they connect to thermonuclear bursts, that has so far remained a mystery.",
+      "url": "https://www.livemint.com/science/vampire-neutron-star-blasts-tied-to-near-light-speed-jet-phenomenon-scientists-find-11711785753689.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/30/1600x900/Redshift_1711037656977_1711789163089.jpg",
+      "publishedAt": "2024-03-30T13:29:30Z",
+      "content": "New research suggests that scientists could now come closer to a conclusion about the mechanism responsible for the speeds of the steady jets launched from a neutron star, reported Space.com.What is … [+6259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Spaceflight tripleheader - Space.com",
+      "description": "The action starts with a planned liftoff at 5:52 p.m. ET.",
+      "url": "https://www.space.com/spacex-launch-tripleheader-march-2024",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ygEz73stQzeYT9eoG8ExnA-1200-80.jpg",
+      "publishedAt": "2024-03-30T13:00:16Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Matthew Cappucci",
+      "title": "The April 8 solar eclipse will be better than 2017's. Here's why. - The Washington Post - The Washington Post",
+      "description": "On April 8, it will be a longer, darker and more dynamic show.",
+      "url": "https://www.washingtonpost.com/weather/2024/03/23/solar-eclpse-2024-better-2017/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C5Y4TPRUYECSA2GRVEUUWBJMQ4.JPG&w=1440",
+      "publishedAt": "2024-03-30T13:00:00Z",
+      "content": "On Aug. 21, 2017, a total solar eclipse sliced from coast to coast across the Lower 48, darkening skies from Oregon to South Carolina. For up to 2 minutes 40 seconds, the moon extinguished the sun, l… [+6478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "Quantum Interference Holds Potential for Smaller, Faster, and More Energy-Efficient Transistors - India Education Diary",
+      "description": "An international team of researchers from Queen Mary University of London, the University of Oxford, Lancaster University, and the University of Waterloo have developed a new single-molecule transistor that uses quantum interference to control the fl",
+      "url": "https://indiaeducationdiary.in/quantum-interference-holds-potential-for-smaller-faster-and-more-energy-efficient-transistors/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/Quantum-transistor.jpg",
+      "publishedAt": "2024-03-30T12:25:51Z",
+      "content": "An international team of researchers from Queen Mary University of London, the University of Oxford, Lancaster University, and the University of Waterloo have developed a new single-molecule transist… [+3981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lee.net"
+      },
+      "author": "SETH BORENSTEIN  Associated Press",
+      "title": "Faster spinning Earth may force negative leap second in 2029 | Shareable Stories - AppleValleyNewsNow.com",
+      "description": "For the first time in history, world timekeepers may have to consider subtracting a second from our clocks in a few years because the planet is rotating a tad faster.",
+      "url": "https://news.lee.net/tncms/asset/editorial/7a3fee70-ec82-11ee-a310-6beece1ce8ce/",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/applevalleynewsnow.com/content/tncms/assets/v3/editorial/f/30/f3087ed6-7413-51bc-bc0a-498496323394/6605863cf236b.preview.jpg?crop=800%2C420%2C6%2C14&resize=800%2C420&order=crop%2Cresize",
+      "publishedAt": "2024-03-30T11:30:00Z",
+      "content": "Earths changing spin is threatening to toy with our sense of time, clocks and computerized society in an unprecedented way but only for a second.\r\nFor the first time in history, world timekeepers may… [+13063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "NASA's First Artemis Moon Astronauts Will Bring Small Greenhouse to Lunar Surface - Futurism",
+      "description": "The first astronauts to walk the surface of the Moon in almost 50 years will bring a greenhouse to study how crops adapt to the environment.",
+      "url": "https://futurism.com/the-byte/nasa-moon-astronauts-greenhouse-lunar-surface",
+      "urlToImage": "https://wp-assets.futurism.com/2024/03/nasa-moon-astronauts-greenhouse-lunar-surface.jpg",
+      "publishedAt": "2024-03-30T11:00:59Z",
+      "content": "Could we really grow food on the surface of the Moon?\r\nAstronaut Farmers\r\nThe first astronauts to walk the surface of the Moon in almost half a century will be bringing with them a mini-greenhouse to… [+2482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jamie Carter",
+      "title": "Why You Owe It To Yourself To Witness April 8's Total Solar Eclipse - Forbes",
+      "description": "Despite potential traffic, safety, and weather issues, the awe-inspiring experience of a total solar eclipse is worth any effort to get into the path of totality.",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2024/03/30/why-you-owe-it-to-yourself-to-witness-april-8s-total-solar-eclipse/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f71a54ada97009869097fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-03-30T11:00:00Z",
+      "content": "This image combines many exposures of different durations taken to reveal aspects of the ... [+] widely-viewed total solar eclipse of 21 August 2017, which was visible from the United States. In the … [+7903 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erin Blakemore",
+      "title": "Sea horse research gets a boost from volunteer citizen-scientists - The Washington Post",
+      "description": "“Sea horses are very much the sort of fascinating species that benefit from community science,” one researcher said.",
+      "url": "https://www.washingtonpost.com/science/2024/03/30/sea-horse-volunteer-researchers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4D6HDAMRVRDQ3PFJ6BVFTO3GBI.jpg&w=1440",
+      "publishedAt": "2024-03-30T10:36:34Z",
+      "content": "Members of the public are helping to advance research on sea horses, the tiny fish that can be found in coral reefs, shallow waters and estuaries around the world, according to a study.\r\nWhen researc… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Curiosity rover searches for new clues about Mars' ancient water - Phys.org",
+      "description": "NASA's Curiosity rover has begun exploring a new region of Mars, one that could reveal more about when liquid water disappeared once and for all from the Red Planet's surface. Billions of years ago, Mars was much wetter and probably warmer than it is today. C…",
+      "url": "https://phys.org/news/2024-03-curiosity-rover-clues-mars-ancient.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/curiosity-rover-search.jpg",
+      "publishedAt": "2024-03-30T10:27:08Z",
+      "content": "NASA's Curiosity rover has begun exploring a new region of Mars, one that could reveal more about when liquid water disappeared once and for all from the Red Planet's surface. Billions of years ago, … [+4426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "University Of Nottingham: Students Utilize NASA Telescope to Identify Underachieving Black Hole - India Education Diary",
+      "description": "Two undergraduate students from the University of Nottingham are part of an international team who have revealed that a brilliant supermassive black hole is not living up to expectations in a new study using NASA’s Chandra X-ray Observatory.The stude",
+      "url": "https://indiaeducationdiary.in/university-of-nottingham-students-utilize-nasa-telescope-to-identify-underachieving-black-hole/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/CHANDRAh1821image.x2a4fd8e0-1024x1024.jpg",
+      "publishedAt": "2024-03-30T10:21:29Z",
+      "content": "Two undergraduate students from the University of Nottingham are part of an international team who have revealed that a brilliant supermassive black hole is not living up to expectations in a new stu… [+4163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "Breakthrough Research Illuminates Process for Converting CO2 into Sustainable Fuel - India Education Diary",
+      "description": "Researchers have successfully transformed CO2 into methanol by shining sunlight on single atoms of copper deposited on a light-activated material, a discovery that paves the way for creating new green fuels.An international team of researchers from t",
+      "url": "https://indiaeducationdiary.in/breakthrough-research-illuminates-process-for-converting-co2-into-sustainable-fuel/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/CO2-to-fuel-by-light-web.x8ea805f9-1024x1024.jpg",
+      "publishedAt": "2024-03-30T10:20:01Z",
+      "content": "Researchers have successfully transformed CO2 into methanol by shining sunlight on single atoms of copper deposited on a light-activated material, a discovery that paves the way for creating new gree… [+4136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "Amit Malewar",
+      "title": "Largest photon emission enhancement for single T center to date - Tech Explorist",
+      "description": "Study shows promise for advancing quantum networks.",
+      "url": "https://www.techexplorist.com/largest-photon-emission-enhancement-for-single-t-center-to-date/82572/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2024/03/quantum-photonic-chip.jpg",
+      "publishedAt": "2024-03-30T10:13:19Z",
+      "content": "Because of their long-lived ground state electronic spins and telecom band optical transitions, novel T centers in silicon show considerable potential for use in quantum networking applications. Impr… [+2631 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Daryl Austin",
+      "title": "How long does sperm live? And why it matters for having a baby - USA TODAY",
+      "description": "A number of factors can play a role in some couples' inability to conceive. In men, most issues are associated with vitality and quantity of sperm.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2024/03/30/how-long-does-sperm-live/72937836007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/05/19/USAT/598bde72-b5d3-46dc-ad3f-a77260be1921-sperm_donor.jpg?crop=1911,1075,x8,y0&width=1911&height=1075&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-30T10:03:39Z",
+      "content": "A number of factors can play a decisive role in some couples' inability to conceive, which may lead them to turn to fertility treatments like IVF or IUI.\r\nBut before couples get to that point, they o… [+2870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Elizabeth Howell",
+      "title": "1st Boeing Starliner astronauts are ready to launch to the ISS for NASA (exclusive) - Space.com",
+      "description": "\"I've jokingly said I could do a barrel roll around the space station.\"",
+      "url": "https://www.space.com/1st-boeing-starliner-astronauts-crew-flight-test-iss-launch-ready",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SKs27W72D6HJ6GoCYvwDCQ-1200-80.jpg",
+      "publishedAt": "2024-03-30T10:00:20Z",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Camera World"
+      },
+      "author": "Jamie Carter",
+      "title": "Astrophotography in April 2024: what to shoot in the night sky this coming month - Digital Camera World",
+      "description": "From comet views to a total solar eclipse, here's everything you need to know about what’s happening in the sky this month.",
+      "url": "https://www.digitalcameraworld.com/features/astrophotography-in-april-2024-what-to-shoot-in-the-night-sky-this-coming-month",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z4FrzAuG8fAkUfeRd7JBtE-1200-80.jpg",
+      "publishedAt": "2024-03-30T09:35:10Z",
+      "content": "There are no prizes for guessing what the main celestial sight will be in North American skies this month. On April 8, a much anticipated 2024 total solar eclipse\r\n will be visible from within a narr… [+5272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "Amit Malewar",
+      "title": "Distant secondary craters: The largest new crater to have formed on Mars - Tech Explorist",
+      "description": "This crater created its own field of \"secondary\" craters.",
+      "url": "https://www.techexplorist.com/distant-secondary-craters-largest-new-crater-formed-mars/82565/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2024/03/Distant-Secondary-Craters-scaled.jpg",
+      "publishedAt": "2024-03-30T09:03:19Z",
+      "content": "A massive impact crater with a diameter of about 150 meters formed on Mars on December 24, 2021. This is the largest newly discovered crater discovered in the era of frequent spacecraft observation.\r… [+1132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Still Hungry After a Big Meal? The Trigger Could Be in The Brain - ScienceAlert",
+      "description": "New research reveals how our impulses to eat, even when we're not hungry, might be triggered by a specific part of the brain rather than the usual hunger pangs from our stomachs – a finding that could be important in the future treatment of eating...",
+      "url": "https://www.sciencealert.com/still-hungry-after-a-big-meal-the-trigger-could-be-in-the-brain",
+      "urlToImage": "https://www.sciencealert.com/images/2024/03/EatingDoughnut.jpg",
+      "publishedAt": "2024-03-30T09:03:16Z",
+      "content": "New research reveals how our impulses to eat, even when we're not hungry, might be triggered by a specific part of the brain rather than the usual hunger pangs from our stomachs a finding that could … [+2878 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ayurella Horn-Muller",
+      "title": "Why some clouds vanish during solar eclipses - CNN",
+      "description": "While watching the upcoming solar eclipse, see if you can spy any puffy, shallow clouds before the marvelous natural phenomenon wipes them from the sky.",
+      "url": "https://www.cnn.com/2024/03/30/world/clouds-vanish-solar-eclipse-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24059848022708.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-30T09:00:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIts midday, and the sun is high in the sky, a natural … [+9696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Harry Baker",
+      "title": "Where does the solar system end? - Livescience.com",
+      "description": "The location of the solar system's outer boundary is a point of contention among astronomers. There are three possible candidates, which \"all have merit.\" But which one is best?",
+      "url": "https://www.livescience.com/space/astronomy/where-does-the-solar-system-end",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RHiYURLf7bwv2TrTshqpic-1200-80.jpg",
+      "publishedAt": "2024-03-30T09:00:00Z",
+      "content": "The solar system is an enormous place. Our cosmic neighborhood includes eight planets, around half a dozen dwarf planets, several hundred moons and millions of asteroids and comets, all spinning arou… [+6932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN Science Desk",
+      "title": "Water On Mars? NASA's Curiosity Rover Hunts For Clues To Earth-Like Past - Times Now",
+      "description": "NASA says that the Curiosity rover has arrived at an area on Mars that may show evidence liquid water flowed for much longer than previously thought.",
+      "url": "https://www.timesnownews.com/technology-science/water-on-mars-nasas-curiosity-rover-hunts-for-clues-to-earth-like-past-article-108896004",
+      "urlToImage": "https://static.tnn.in/thumb/msid-108895978,thumbsize-49702,width-1280,height-720,resizemode-75/108895978.jpg",
+      "publishedAt": "2024-03-30T08:29:25Z",
+      "content": "New Income Tax Rules From April 1: Check Changes In Tax Slabs, Deduction, Rebates, and More"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Caroline Delbert",
+      "title": "Physicists Found the Ghost Haunting the World's Most Famous Particle Accelerator - AOL",
+      "description": "An invisible force has long eluded detection within the halls of the world’s most famous particle accelerator—until now.",
+      "url": "https://www.popularmechanics.com/science/a60321105/physicists-found-the-ghost-haunting-the-worlds-most-famous-particle-accelerator/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Fwfux0OjtANtnzUSDpYL6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_popular_mechanics_812/a5573ae7bf808b474a23a1199434e767",
+      "publishedAt": "2024-03-30T08:26:25Z",
+      "content": "Physicists Found the Ghost Haunting CERNratpack223 - Getty Images\r\n\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\n<ul><li>CERNs Super Proton Synchrotr… [+4307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "High-Speed Protein Movies to Facilitate Drug Design - India Education Diary",
+      "description": "Researchers from the University of Southampton have developed technology to help scientists observe proteins in motion. Understanding how proteins move will allow novel drugs to be designed.X-ray crystallography is a scientific method which produces",
+      "url": "https://indiaeducationdiary.in/high-speed-protein-movies-to-facilitate-drug-design/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/Crystals-grown-in-droplets.jpg",
+      "publishedAt": "2024-03-30T07:11:23Z",
+      "content": "Researchers from the University of Southampton have developed technology to help scientists observe proteins in motion. Understanding how proteins move will allow novel drugs to be designed.\r\nX-ray c… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "Rice University's Nuclear Physics Team to Lead $15 Million Large Hadron Collider Upgrade Project - India Education Diary",
+      "description": "A team of physicists at Rice University led by Wei Li has been awarded a five-year, $15.5 million grant from the U.S. Department of Energy (DOE) Office of Nuclear Physics, marking a significant leap forward in the realm of high-energy nuclear physics",
+      "url": "https://indiaeducationdiary.in/rice-universitys-nuclear-physics-team-to-lead-15-million-large-hadron-collider-upgrade-project/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/540_1.jpg",
+      "publishedAt": "2024-03-30T06:33:01Z",
+      "content": "A team of physicists at Rice University led by Wei Li has been awarded a five-year, $15.5 million grant from the U.S. Department of Energy (DOE) Office of Nuclear Physics, marking a significant leap … [+3183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dtnext.in"
+      },
+      "author": "PTI",
+      "title": "Species in 17 mountains worldwide face extinction risk due to global warming: Study - DTNEXT",
+      "description": "In their study, the researchers found these mountain regions to have the highest climate velocity, or the rate at which \"species must move to stay within their survivable habitats\".",
+      "url": "https://www.dtnext.in/lifestyle/wellbeing/species-in-17-mountains-worldwide-face-extinction-risk-due-to-global-warming-study-777073",
+      "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2024/03/30/812921-untitled1.jpg",
+      "publishedAt": "2024-03-30T06:30:10Z",
+      "content": "NEW DELHI: Species living in 17 mountains around the world may be facing the risk of extinction due to the rapid rate at which the planet is warming, new research published in the journal Nature has … [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Education Diary"
+      },
+      "author": "iednewsdesk",
+      "title": "Groundbreaking Rice Research Shows Promise in Advancing Quantum Networks - India Education Diary",
+      "description": "Rice University engineers have demonstrated a way to control the optical properties of atomic imperfections in silicon material known as T centers, paving the way toward leveraging these point defects for building quantum nodes for large-scale quantu",
+      "url": "https://indiaeducationdiary.in/groundbreaking-rice-research-shows-promise-in-advancing-quantum-networks/",
+      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/240320_Songtao-Chen-Nat-Comms_Gustavo-1000-1024x516.jpg",
+      "publishedAt": "2024-03-30T06:18:49Z",
+      "content": "Rice University engineers have demonstrated a way to control the optical properties of atomic imperfections in silicon material known as T centers, paving the way toward leveraging these point defect… [+4390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sciencefriday.com"
+      },
+      "author": "Emma Gometz",
+      "title": "A Short History Of Umbraphile Marvels And Mishaps - Science Friday",
+      "description": "For some people, seeing an eclipse is a chance encounter. For umbraphiles, it’s a lifestyle. It doesn’t always work out.",
+      "url": "http://www.sciencefriday.com/articles/umbraphile-eclipse-chaser-history/",
+      "urlToImage": "https://www.sciencefriday.com/wp-content/uploads/2024/03/russo-moonmail3-fb.jpg",
+      "publishedAt": "2024-03-30T04:01:16Z",
+      "content": "Dr. Kate Russo views a 2019 total solar eclipse from the border area of Argentina and Chile with a group of around 10 of her eclipse chaser friends. Credit: © Dr. Kate Russo, Being in the Shadow\r\nIn … [+3505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "THE WEEK"
+      },
+      "author": "PTI",
+      "title": "Exploding stars are rare but emit torrents of radiation − if one happened close enough to Earth it could threaten life on the planet - The Week",
+      "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+      "url": "https://www.theweek.in/wire-updates/international/2024/03/30/fgn7-exploding-stars.html",
+      "urlToImage": "https://www.theweek.in/etc/designs/week/img/logo-main.png",
+      "publishedAt": "2024-03-30T03:56:02Z",
+      "content": "By Chris Impey, University of ArizonaTucson (US), Mar 30 (The Conversation) Stars like the Sun are remarkably constant. They vary in brightness by only 0.1% over years and decades, thanks to the fusi… [+6638 chars]"
     },
     {
       "source": {
@@ -57,15 +473,15 @@
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "AZFamily"
       },
-      "author": null,
-      "title": "Solar eclipse viewing requires protective eyewear - here's what you need to know - NBC10 Boston",
-      "description": "There's a lot of excitement around the solar eclipse, but you can do real damage if you don't have the proper eyewear to view it.Follow NBC10 Boston on...Ins...",
-      "url": "https://www.youtube.com/watch?v=0KR4V6r_vck",
-      "urlToImage": "https://i.ytimg.com/vi/0KR4V6r_vck/maxresdefault.jpg",
-      "publishedAt": "2024-03-29T22:38:05Z",
-      "content": null
+      "author": "Ben Bradley",
+      "title": "Gov. Hobbs signs bill making Pluto Arizona’s official state planet - Arizona's Family",
+      "description": "Rep. Justin Wilmeth introduced legislation to turn the dwarf planet into the state planet earlier this year.",
+      "url": "https://www.azfamily.com/2024/03/29/gov-hobbs-signs-bill-making-pluto-arizonas-official-state-planet/",
+      "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/CWIRTHWZTBAS3C4SJOT474WGIQ.jpg?auth=c234a80df544a543e4ab9df971a433ae3333c0a70a9e385ece9ecafa63b4afd5&width=1200&height=600&smart=true",
+      "publishedAt": "2024-03-29T23:37:00Z",
+      "content": "PHOENIX (AZFamily) For decades, Pluto was recognized as the ninth planet in the solar system before it was ultimately reclassified as a dwarf planet. Regardless of its lesser status, its now the offi… [+1656 chars]"
     },
     {
       "source": {
@@ -83,15 +499,28 @@
     {
       "source": {
         "id": null,
+        "name": "Dailymotion.com"
+      },
+      "author": null,
+      "title": "Pillars of Creation Seen In 4K Via James Webb Space Telescope - video Dailymotion - Dailymotion",
+      "description": "The James Webb Space Telescope has observed the iconic Pillars of Creation and the view is spectacular! Travel 6,500 light-years away in this zoom into the epic new imagery. Also, see a comparison with the Hubble Space Telescope's view.  Credit: Space.com | N…",
+      "url": "https://www.dailymotion.com/video/x8w0gos",
+      "urlToImage": "https://s2.dmcdn.net/v/W2PHy1c1tvZgCL76h/x720",
+      "publishedAt": "2024-03-29T21:03:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Courier & Press"
       },
-      "author": "Jon Webb",
+      "author": "Courier & Press",
       "title": "The eclipse won't be the only rare event in the Evansville sky April 8 - Courier & Press",
-      "description": "On the same day as the total solar eclipse, another rare event will shine above the Evansville sky. You could see it, if you know where to look.",
+      "description": null,
       "url": "https://www.courierpress.com/story/news/local/2024/03/28/the-eclipse-wont-be-the-only-rare-event-in-the-evansville-sky-april-8/73097673007/",
-      "urlToImage": "https://www.courierpress.com/gcdn/authoring/authoring-images/2024/03/11/USAT/72936161007-vpc-devil-comet-brit-astronomy-assoc.png?crop=1918,1077,x0,y0&width=1918&height=1077&format=pjpg&auto=webp",
+      "urlToImage": null,
       "publishedAt": "2024-03-29T20:58:30Z",
-      "content": "EVANSVILLE The total solar eclipse wont be the only rare celestial event shining above Evansville on April 8.\r\nThat same day will include the arrival of The Devils Comet: a heavenly glob of dust and … [+2365 chars]"
+      "content": null
     },
     {
       "source": {
@@ -109,6 +538,19 @@
     {
       "source": {
         "id": null,
+        "name": "Thedebrief.org"
+      },
+      "author": "Micah Hanks, Micah Hanks",
+      "title": "Quantum Mechanics Hack Could Lead to “Unbreakable” Metals by Leveraging Weird Distortion of Atoms - The Debrief",
+      "description": "A new method of materials testing allows predictions to be made that could lead to the creation of virtually “unbreakable” metals.",
+      "url": "https://thedebrief.org/quantum-mechanics-hack-could-lead-to-unbreakable-metals-by-leveraging-weird-distortion-of-atoms/",
+      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2024/03/unbreakable-metals.jpg",
+      "publishedAt": "2024-03-29T20:35:45Z",
+      "content": "Scientists say they have created a new method of testing materials that allows predictions to be made about their ductility, which could lead to the production of virtually unbreakable metals for use… [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Live Science"
       },
       "author": "Jennifer Nalewicki",
@@ -122,15 +564,15 @@
     {
       "source": {
         "id": null,
-        "name": "NASA"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "Unveiling the Sun: NASA's Open Data Approach to Solar Eclipse Research - Science@NASA",
-      "description": "As the world eagerly anticipates the upcoming total solar eclipse on April 8, 2024, NASA is preparing for an extraordinary opportunity for scientific discovery, open collaboration, and public engagement. At the heart of the agency’s approach to this unusual e…",
-      "url": "https://science.nasa.gov/directorates/smd/solar-eclipse-open-data/",
-      "urlToImage": "https://science.nasa.gov/wp-content/uploads/2023/08/eclipse2017.jpg?w=640",
-      "publishedAt": "2024-03-29T19:17:23Z",
-      "content": "NASA is committed to open science and making scientific data available to everyone. Following each solar eclipse, the agency shares the data collected with the global community. Through publicly avai… [+351 chars]"
+      "title": "Watching a SpaceX launch from NASA mission control in Houston - Raw video - VideoFromSpace",
+      "description": "Space.com's Elizabeth Howell was inside mission control at NASA's Johnson Space Center during a SpaceX launch. Full Story: https://www.space.com/spacex-missi...",
+      "url": "https://www.youtube.com/watch?v=IGPPeR2asj4",
+      "urlToImage": "https://i.ytimg.com/vi/IGPPeR2asj4/maxresdefault.jpg",
+      "publishedAt": "2024-03-29T19:09:38Z",
+      "content": null
     },
     {
       "source": {
@@ -173,29 +615,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Weather Channel"
-      },
-      "author": "The Weather Channel",
-      "title": "Top April Celestial Events Other Than The Eclipse | Weather.com - The Weather Channel",
-      "description": "There’s a lot of buzz surrounding the April 8 solar eclipse, but the month has a lot more to offer skywatchers. Here are the celestial events you can’t miss this April. - Articles from The Weather Channel | weather.com",
-      "url": "https://weather.com/science/space/news/2024-03-29-space-events-other-than-solar-eclipse-april",
-      "urlToImage": "https://s.w-x.co/lyrids_0.jpg",
-      "publishedAt": "2024-03-29T17:53:23Z",
-      "content": "At a Glance\r\n<ul><li>Some celestial events will coincidentally overlap with the total solar eclipse.</li><li>A Halley-like comet sometimes referred to as the mother of dragons will pass near Earth th… [+3213 chars]"
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Jackie Wattles",
-      "title": "An Everest-size volcano hiding in plain sight on Mars? New research make waves in the science community - CNN",
-      "description": "A massive volcano may be hiding in plain sight on Mars, according to a report from two researchers that’s making waves in the planetary science community.",
-      "url": "https://www.cnn.com/2024/03/29/world/mars-volcano-glacier-noctis-labyrinthus-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pia13655-large.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-03-29T17:52:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists may have pinpointed a massive, oddly shaped… [+7635 chars]"
+      "author": "",
+      "title": "Scientists discover Everest-sized volcano that was right under their noses - CNN",
+      "description": "Scientists may have pinpointed a massive, oddly shaped volcano taller than Mount Everest on the surface of Mars and it has been hiding in plain sight for decades, according to new research. CNN correspondent Tom Foreman has more.",
+      "url": "https://www.cnn.com/videos/world/2024/03/29/volcano-discovery-mars-foreman-cnc-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240315173405-mars-beauty-shot.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-29T18:14:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "A high-efficiency photocatalyst for converting carbon dioxide into environmentally friendly energy using sunlight - Phys.org",
+      "description": "DGIST Professor In Su-il's research team has developed a high-efficiency photocatalyst that utilizes sunlight to convert carbon dioxide (CO2), the primary cause of global warming, into methane (CH4) fuel. The research team expects that this environmentally fr…",
+      "url": "https://phys.org/news/2024-03-high-efficiency-photocatalyst-carbon-dioxide.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/a-high-efficiency-phot.jpg",
+      "publishedAt": "2024-03-29T18:14:03Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+3041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymotion.com"
+      },
+      "author": null,
+      "title": "Bus-Size Asteroid Flew Closer Than The Moon - Watch The Orbit Animation - video Dailymotion - Dailymotion",
+      "description": "Asteroid 2024 DW flew about 139,000 miles (224,000 km) away from Earth. The space rock was estimated to be about 43 feet wide (13 m).   Credit: Space.com | animation: NASA/JPL-Caltech | edited by Steve Spaleta Music: Black Bullet by Deskant / courtesy of Epid…",
+      "url": "https://www.dailymotion.com/video/x8w05ic",
+      "urlToImage": "https://s2.dmcdn.net/v/W2Lla1c1zPvpcfzex/x720",
+      "publishedAt": "2024-03-29T18:02:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Starwatch: A comet may be visible in the sky this weekend - WATE 6 On Your Side",
+      "description": "WATE Storm Team Meteorologist Victoria Cavaliere has what you can look for in the sky this weekend.Stay informed about what's happening in East Tennessee. Fi...",
+      "url": "https://www.youtube.com/watch?v=fBiHVDWZBPI",
+      "urlToImage": "https://i.ytimg.com/vi/fBiHVDWZBPI/maxresdefault.jpg",
+      "publishedAt": "2024-03-29T18:00:04Z",
+      "content": null
     },
     {
       "source": {
@@ -212,16 +680,16 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": null,
-      "title": "Andromeda galaxy to cosmic cliffs: 10 stellar images taken by Nasa telescopes - The Times of India",
-      "description": "This picture is from Nasa's Galaxy Evolution Explorer and shows the big Andromeda galaxy, also known as Messier 31. It's the heaviest galaxy in our local group, which includes our own Milky Way. (Photo credit: Nasa)",
-      "url": "https://timesofindia.indiatimes.com/home/science/andromeda-galaxy-to-cosmic-cliffs-10-stellar-images-taken-by-nasa-telescopes/photostory/108881796.cms",
-      "urlToImage": "https://static.toiimg.com/photo/108882111.cms",
-      "publishedAt": "2024-03-29T17:32:56Z",
-      "content": "Nasa's Hubble Space Telescope snapped a picture of a giant cloud of cold gas and dust in the Carina Nebula, located 7,500 light-years away in the Carina constellation. This cloud, shaped like a pilla… [+314 chars]"
+      "author": "Renata Solan",
+      "title": "Researchers reveal evolutionary path of important proteins - Phys.org",
+      "description": "New research from the University of Wisconsin–Madison decodes the evolutionary pathway of regulatory proteins, the molecules that help control gene expression.",
+      "url": "https://phys.org/news/2024-03-reveal-evolutionary-path-important-proteins.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/dna-protein.jpg",
+      "publishedAt": "2024-03-29T17:34:51Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4605 chars]"
     },
     {
       "source": {
@@ -239,12 +707,12 @@
     {
       "source": {
         "id": null,
-        "name": "WVTM13"
+        "name": "KETV Omaha"
       },
       "author": null,
-      "title": "105-year-old eclipse chaser shares passion spanning six decades - WVTM13 Birmingham",
+      "title": "105-year-old eclipse chaser shares passion spanning six decades - KETV Omaha",
       "description": "His love for the rare celestial event has taken him places he never would've visited otherwise.",
-      "url": "https://www.wvtm13.com/article/eclipse-chaser-105-year-old/60343786",
+      "url": "https://www.ketv.com/article/eclipse-chaser-105-year-old/60343786",
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/lavernebiser0328-jpg-6606f68b3fd0d.jpg?crop=1.00xw:0.767xh;0,0&resize=1200:*",
       "publishedAt": "2024-03-29T17:25:00Z",
       "content": "FORT WORTH, Texas —From Texas to Brazil, a 105-year-old eclipse chaser from Texas has witnessed 12 solar eclipses in his life and he's ready to watch his 13th on April 8.\r\nIt all started in 1963, whe… [+2047 chars]"
@@ -252,15 +720,15 @@
     {
       "source": {
         "id": null,
-        "name": "NASA"
+        "name": "The Journal News | LoHud.com"
       },
-      "author": "Tiernan P. Doyle",
-      "title": "How to Watch Upcoming Total Solar Eclipse with NASA from Anywhere - NASA",
-      "description": "On Monday, April 8, most of North America will have the chance to see the Moon pass in front of the Sun during a solar eclipse. NASA is inviting the public to",
-      "url": "https://www.nasa.gov/news-release/how-to-watch-upcoming-total-solar-eclipse-with-nasa-from-anywhere/",
-      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/03/eclipse-map-2024-notext-1920.png",
-      "publishedAt": "2024-03-29T17:10:45Z",
-      "content": "On Monday, April 8, most of North America will have the chance to see the Moon pass in front of the Sun during a solar eclipse. NASA is inviting the public to participate with in-person events, oppor… [+3392 chars]"
+      "author": "Nancy Cutler",
+      "title": "Solar eclipse viewing in Rockland: Haverstraw Bay Park to host county event - The Journal News",
+      "description": "Rockland County will provide protective solar eclipse viewing glasses and parks personnel will be on hand to help with information.",
+      "url": "https://www.lohud.com/story/news/local/rockland/2024/03/29/solar-eclipse-viewing-event-in-rockland-county-ny-at-haverstraw-bay-park-in-new-york-metro-area/73142945007/",
+      "urlToImage": "https://www.lohud.com/gcdn/authoring/authoring-images/2024/03/27/PWES/73118674007-jm-032624-eclipse-planetarium-115.jpg?crop=2999,1688,x0,y144&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-29T17:00:35Z",
+      "content": "HAVERSTRAW Rockland County will host an eclipse viewing event at Haverstraw Bay Park during the April 8 solar phenomenon.\r\nWhile the metro area, including Rockland, aren't in the \"path of totality\" o… [+2172 chars]"
     },
     {
       "source": {
@@ -278,15 +746,15 @@
     {
       "source": {
         "id": null,
-        "name": "Zoom"
+        "name": "Slate Magazine"
       },
-      "author": "TN Science Desk",
-      "title": "NASA Tracks Massive 170-Foot Asteroid Moving Towards Earth At 13798 KMPH - Times Now",
-      "description": "The latest set of asteroid batches includes a massive 170-foot asteroid which is all set to make a closer approach towards the Earth tomorrow. Here is what NASA has revealed about this asteroid.",
-      "url": "https://www.timesnownews.com/technology-science/nasa-tracks-massive-170-foot-asteroid-moving-towards-earth-at-13798-kmph-article-108883086",
-      "urlToImage": "https://static.tnn.in/thumb/msid-108883352,thumbsize-69762,width-1280,height-720,resizemode-75/108883352.jpg",
-      "publishedAt": "2024-03-29T16:49:34Z",
-      "content": "Samsung Galaxy M55, Galaxy M15 Launch In India Confirmed: Check Design, Specs, Features, More"
+      "author": "Jamilah Lemieux",
+      "title": "Family advice: My niece is being forced to replace her dad. I can't let this happen. - Slate",
+      "description": "They're trying to erase him.",
+      "url": "https://slate.com/human-interest/2024/03/niece-replacing-father-sister-parenting-advice.html",
+      "urlToImage": "https://compote.slate.com/images/d2ec73ad-e452-4b28-a72d-74df36df9d05.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-03-29T16:56:00Z",
+      "content": "Slate Plus members get more Care and Feeding every week. Have a question about kids, parenting, or family life? Submit it here!\r\nDear Care and Feeding, \r\nMy sister had a contentious relationship with… [+3494 chars]"
     },
     {
       "source": {
@@ -304,6 +772,19 @@
     {
       "source": {
         "id": null,
+        "name": "Universe Today"
+      },
+      "author": "Scott Alan Johnston",
+      "title": "Astronomers Catch a Supernova Explode Almost in Realtime - Universe Today",
+      "description": "Catching a supernova in action is tricky business. There is no way to predict them, and they don’t occur very often. Within the Milky Way they only occur about once a century, and the last one was observed in 1604. Of course, supernovae occur in other galaxie…",
+      "url": "https://www.universetoday.com/166380/astronomers-catch-a-supernova-explode-almost-in-realtime/",
+      "urlToImage": "https://www.universetoday.com/wp-content/uploads/2024/03/12848.jpg",
+      "publishedAt": "2024-03-29T16:33:49Z",
+      "content": "Catching a supernova in action is tricky business. There is no way to predict them, and they dont occur very often. Within the Milky Way they only occur about once a century, and the last one was obs… [+3821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Sarah Stanley",
@@ -313,6 +794,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/arecibo-observatory-te.jpg",
       "publishedAt": "2024-03-29T16:30:01Z",
       "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -343,19 +837,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Science X",
-      "title": "Chickadees have unique neural 'barcodes' for memories of stashing away food - Phys.org",
-      "description": "Black-capped chickadees have extraordinary memories that can recall the locations of thousands of morsels of food to help them survive the winter. Now scientists at Columbia's Zuckerman Institute have discovered how the chickadees can remember so many details…",
-      "url": "https://phys.org/news/2024-03-chickadees-unique-neural-barcodes-memories.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/chickadees-have-unique.jpg",
-      "publishedAt": "2024-03-29T15:42:49Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+5523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "YouTube"
       },
       "author": null,
@@ -364,6 +845,19 @@
       "url": "https://www.youtube.com/watch?v=Bz2k_sD9oxc",
       "urlToImage": "https://i.ytimg.com/vi/Bz2k_sD9oxc/maxresdefault.jpg",
       "publishedAt": "2024-03-29T15:30:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Big Think"
+      },
+      "author": "Stephen Johnson",
+      "title": "Stephen Hawking's famous voice belonged to this pioneering MIT scientist - Big Think",
+      "description": "Dennis Klatt developed trailblazing text-to-speech systems before losing his own voice to cancer.",
+      "url": "https://bigthink.com/high-culture/this-mit-scientist-gave-his-voice-to-stephen-hawking/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2023/05/Maxomatic_Freethink_VoiceMod_Opener-FINAL.jpg?resize=1200,630",
+      "publishedAt": "2024-03-29T15:30:00Z",
       "content": null
     },
     {
@@ -382,15 +876,67 @@
     {
       "source": {
         "id": null,
-        "name": "WDSU New Orleans"
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Scientists discover a key quality-control mechanism in DNA replication - Phys.org",
+      "description": "When cells in the human body divide, they must first make accurate copies of their DNA. The DNA replication exercise is one of the most important processes in all living organisms and is fraught with risks of mutation, which can lead to cell death or cancer.",
+      "url": "https://phys.org/news/2024-03-scientists-key-quality-mechanism-dna.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/3-dna.jpg",
+      "publishedAt": "2024-03-29T15:00:02Z",
+      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aps.org"
       },
       "author": null,
-      "title": "A faster spinning Earth may cause timekeepers to subtract a second from world clocks - WDSU New Orleans",
-      "description": "It's a complicated situation that involves physics, global power politics, climate change, technology and two types of time.",
-      "url": "https://www.wdsu.com/article/a-faster-spinning-earth-may-cause-timekeepers-to-subtract-second-from-world-clocks/60335717",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26605fb51da7a3.jpg?crop=1.00xw:0.847xh;0,0.0671xh&resize=1200:*",
-      "publishedAt": "2024-03-29T14:23:00Z",
-      "content": "Earth's changing spin is threatening to toy with our sense of time, clocks and computerized society in an unprecedented way but only for a second.\r\nRelated video above Daylight Saving Time: How did w… [+5736 chars]"
+      "title": "Nuclear Physics from Particle Physics - Physics",
+      "description": "A new theoretical analysis connects the results of high-energy particle experiments at the Large Hadron Collider with three-proton correlations inside nuclei.",
+      "url": "https://physics.aps.org/articles/v17/s42",
+      "urlToImage": "https://physics.aps.org/assets/618a46cc-0c4d-488c-8c29-d6ecb08d1017/e42_1_thumb.png",
+      "publishedAt": "2024-03-29T14:55:43Z",
+      "content": "How triplets of protons and neutrons behave is an important ingredient in theories of dense nuclear matter. Directly observing that behavior is beyond the reach of terrestrial labs. However, Alejandr… [+2842 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Julie Jargon",
+      "title": "A Snapchat Feature Is Feeding Teens' Deepest Insecurities - The Wall Street Journal",
+      "description": "Drama, hurt feelings and heartbreak can result when teens see where they are in friends’ Snapchat+ solar systems",
+      "url": "https://www.wsj.com/tech/personal-tech/new-snapchat-feature-teen-insecurity-754ebae0",
+      "urlToImage": "https://images.wsj.net/im-943245/social",
+      "publishedAt": "2024-03-29T14:12:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Santa Barbara Edhat"
+      },
+      "author": "sbrobert",
+      "title": "Famed Neuroscientist Christof Koch Speaks on Consciousness - Santa Barbara Edhat",
+      "description": "BACKGROUND Despite all of my articles, I really have very few things that interest me. Actually, just two things: What is the nature of reality. And, what is the nature of consciousness. I am privileged to have an inside track on both of these pursuits at UC …",
+      "url": "https://www.edhat.com/news/famed-neuroscientist-christof-koch-speaks-on-consciousness/",
+      "urlToImage": "https://www.edhat.com/wp-content/uploads/2024/03/20240307-055-730x400-1.jpg",
+      "publishedAt": "2024-03-29T14:07:00Z",
+      "content": "BACKGROUND\r\nDespite all of my articles, I really have very few things that interest me. Actually, just two things: What is the nature of reality. And, what is the nature of consciousness.\r\nI am privi… [+15035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": "Abby Graf",
+      "title": "Mars Audio Log #8 - NASA",
+      "description": "On episode 329, the CHAPEA crew checks in on their eighth month in a Mars simulated habitat and a NASA biostatistician discusses the process of analysis, interpretation, and presentation of scientific data.",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/mars-audio-log-8/",
+      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/03/chapea-featured-img.png",
+      "publishedAt": "2024-03-29T14:00:52Z",
+      "content": "From Earth orbit to the Moon and Mars, explore the world of human spaceflight with NASA each week on the official podcast of the Johnson Space Center in Houston, Texas. Listen to in-depth conversatio… [+62037 chars]"
     },
     {
       "source": {
@@ -423,19 +969,6 @@
         "id": null,
         "name": "Phys.Org"
       },
-      "author": "Science X",
-      "title": "'Shear sound waves' provide the magic for linking ultrasound and magnetic waves - Phys.org",
-      "description": "A team led by researchers from the RIKEN Center for Emergent Matter Science in Japan has succeeded in creating a strong coupling between two forms of waves—magnons and phonons—in a thin film. Importantly, they achieved this at room temperature, opening the wa…",
-      "url": "https://phys.org/news/2024-03-magic-linking-ultrasound-magnetic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/shear-sound-waves-prov.jpg",
-      "publishedAt": "2024-03-29T13:40:20Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+2943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
       "author": "David Appell",
       "title": "Gravitational waves may have made human life possible - Phys.org",
       "description": "Could it be that human existence depends on gravitational waves? Some key elements in our biological makeup may come from astrophysical events that occur because gravitational waves exist, a research team headed by John R. Ellis of Kings College London sugges…",
@@ -447,15 +980,15 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Mechanics"
+        "name": "Fast Company"
       },
-      "author": "Caroline Delbert",
-      "title": "Physicists Found the Ghost Haunting the World's Most Famous Particle Accelerator - Yahoo Life",
-      "description": "An invisible force has long eluded detection within the halls of the world’s most famous particle accelerator—until now.",
-      "url": "https://www.popularmechanics.com/science/a60321105/physicists-found-the-ghost-haunting-the-worlds-most-famous-particle-accelerator/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7yCbqYD9mWeIX_plr98.VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/popular_mechanics_642/a5573ae7bf808b474a23a1199434e767",
-      "publishedAt": "2024-03-29T13:15:00Z",
-      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\n<ul><li>CERNs Super Proton Synchrotron will turn 50 in 2026and it has a resonant ghost.\r\n</li><li>Using… [+4240 chars]"
+      "author": "Fast Company",
+      "title": "This staggering visualization shows the true power of Elon Musk - Fast Company",
+      "description": null,
+      "url": "https://www.fastcompany.com/91071061/this-staggering-visualization-shows-the-true-power-of-elon-musk",
+      "urlToImage": null,
+      "publishedAt": "2024-03-29T13:12:07Z",
+      "content": null
     },
     {
       "source": {
@@ -473,19 +1006,6 @@
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Khushi Pal",
-      "title": "10 stunning images of space captured by NASA telescopes - Hindustan Times",
-      "description": "Let's take a look at 10 stunning images of space captured by NASA telescopes.",
-      "url": "https://www.hindustantimes.com/web-stories/in-focus/10-stunning-images-of-space-captured-by-nasa-telescopes-101711707829846.html",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T13:00:02Z",
-      "content": "By Khushi PalPublished Mar 29, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Elizabeth Howell",
@@ -495,19 +1015,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7XPGoMsJA6UJJxZPkmtzV9-1200-80.jpg",
       "publishedAt": "2024-03-29T12:59:26Z",
       "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fibre2fashion.com"
-      },
-      "author": "F2F News Desk",
-      "title": "Researchers Illuminate path to sustainable fuel from CO2 - Fibre2fashion.com",
-      "description": "Textiles\r\n\r\nResearchers Illuminate path to sustainable fuel from CO2\r\n\r\n        \r\n            29 Mar '24\r\n        \r\n        \r\n            4 min read\r\n        \r\n    \r\n    \r\n\r\n     \r\n    Pic: University of Nottingham\r\n\r\n\r\n\r\n    \r\n        \r\n    \r\n    \r\n        \r…",
-      "url": "https://www.fibre2fashion.com/news/textile-news/researchers-illuminate-path-to-sustainable-fuel-from-co2-294152-newsdetails.htm",
-      "urlToImage": "https://static.fibre2fashion.com/Newsresource/images/294/light_305740.jpg",
-      "publishedAt": "2024-03-29T12:27:20Z",
-      "content": "Researchers have successfully transformed CO2 into methanol by shining sunlight on single atoms of copper deposited on a light-activated material, a discovery that paves the way for creating new gree… [+4618 chars]"
     },
     {
       "source": {
@@ -590,19 +1097,6 @@
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Hindustan Times"
       },
       "author": "Mohammad Rehan Khan",
@@ -655,6 +1149,19 @@
     {
       "source": {
         "id": null,
+        "name": "Thequantuminsider.com"
+      },
+      "author": "Matt Swayne",
+      "title": "New Single-Molecule Transistor That Uses Quantum Interference Could Lead to Smaller, Faster, More Energy-Efficient Transistors - The Quantum Insider",
+      "description": "Researchers developed a new single-molecule transistor that uses quantum interference to control the flow of electrons.",
+      "url": "https://thequantuminsider.com/2024/03/29/new-single-molecule-transistor-that-uses-quantum-interference-could-lead-to-smaller-faster-more-energy-efficient-transistors/",
+      "urlToImage": "https://thequantuminsider.com/wp-content/uploads/2024/03/6297146.jpg",
+      "publishedAt": "2024-03-29T09:48:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -667,16 +1174,16 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "[Removed]"
       },
-      "author": "TOI World Desk",
-      "title": "'Colossal asteroid strike on Mars leaves behind two billion craters' - The Times of India",
-      "description": "Science News: Groundbreaking discovery of massive asteroid impact on Mars in Elysium Planitia, creating Corinto crater and vast secondary craters. Rare event reshap",
-      "url": "https://timesofindia.indiatimes.com/home/science/colossal-asteroid-strike-on-mars-leaves-behind-two-billion-craters/articleshow/108873248.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-108873669,width-1070,height-580,imgsize-122822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-03-29T09:16:00Z",
-      "content": null
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -694,6 +1201,19 @@
     {
       "source": {
         "id": null,
+        "name": "WION"
+      },
+      "author": null,
+      "title": "Largest meteorite in history fell in India 4,000 years ago? Huge crater hints so - WION",
+      "description": "Scientists in a new discovery have suggested that a 1.8-kilometre-wide depression, which is called Luna structure, may have been created by the impact of the largest meteorite to have hit Earth in the last 50,000 years. \n\nThe meteorite, which is like a fireba…",
+      "url": "https://www.wionews.com/science/largest-meteorite-in-history-fell-in-india-4000-years-ago-huge-crater-hints-so-704782",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/27/421190-pic-75.png",
+      "publishedAt": "2024-03-29T05:36:15Z",
+      "content": "Scientists in a new discovery have suggested that a 1.8-kilometre-wide depression, which is called Luna structure, may have been created by the impact of the largest meteorite to have hit Earth in th… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "News18"
       },
       "author": "sahas, Buzz Staff",
@@ -703,19 +1223,6 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/03/img-2-2024-03-29t105613.506-2024-03-45ab770b2f2b285afa00140f20c35693-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-03-29T05:29:25Z",
       "content": "The world is set to observe Solar Eclipse on April 8. Citizens of North America and beyond will be able to experience this historic phenomenon which reportedly coincides with the peak of the Suns 11-… [+1858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DNA India"
-      },
-      "author": "Pravrajya Suruchi",
-      "title": "10 best images captured by NASA James Webb Space Telescope - DNA India",
-      "description": "Images captured by NASA James Webb Space Telescope",
-      "url": "https://www.dnaindia.com/web-stories/viral/10-best-images-captured-by-nasa-james-webb-space-telescope-1711687650992",
-      "urlToImage": null,
-      "publishedAt": "2024-03-29T05:17:45Z",
-      "content": "Star-forming region NGC 604 contains more than 200 of the hottest, most massive kinds of stars (B-type and O-type stars), all in the early stages of their lives."
     },
     {
       "source": {
@@ -733,19 +1240,6 @@
     {
       "source": {
         "id": null,
-        "name": "India Today"
-      },
-      "author": "India Today Science Desk",
-      "title": "Total Solar Eclipse: When astronauts saw a ghostly shadow over Earth in 1999 - India Today",
-      "description": "This image captured on August 11 1999 shows the Moon039s shadow casting a dark circle over Earth",
-      "url": "https://www.indiatoday.in/science/story/total-solar-eclipse-when-astronauts-saw-a-ghostly-shadow-over-earth-in-1999-2520458-2024-03-29",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/total-solar-eclipse-281014642-16x9_0.jpg?VersionId=8iowvKdhmCCYfgWEOIo95_twEMC0Cvdn",
-      "publishedAt": "2024-03-29T04:59:10Z",
-      "content": "As the world prepares to witness a Total Solar Eclipse, a photograph captured from the now-decommissioned Mir space station shows a ghostly appearance as seen from space. \r\nThis image captured on Aug… [+1779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "NASA"
       },
       "author": "Jet Propulsion Laboratory",
@@ -755,19 +1249,6 @@
       "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/03/1-pia26246-curiosity-arrives-at-upper-gediz-vallis.png",
       "publishedAt": "2024-03-29T04:08:39Z",
       "content": "The rover has arrived at an area that may show evidence liquid water flowed on this part of Mars for much longer than previously thought.\r\nNASAs Curiosity rover has begun exploring a new region of Ma… [+4545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Cal Jeffrey",
-      "title": "Astronomers capture the most captivating and detailed image yet of the Milky Way's black hole - TechSpot",
-      "description": "On Wednesday, a team of 150 astronomers snapped the most detailed and beautiful image of Sagittarius A* (SgrA*), the supermassive black hole at the center of the...",
-      "url": "https://www.techspot.com/news/102434-astronomers-capture-most-captivating-detailed-image-milky-way.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-28-image-17.jpg",
-      "publishedAt": "2024-03-29T01:08:00Z",
-      "content": "Cool: Black holes are fascinating celestial objects. We can't see them because nothing can escape their gravitational force, not even light. However, astronomers can identify them with radio telescop… [+2208 chars]"
     },
     {
       "source": {
@@ -801,19 +1282,6 @@
         "name": "VOA News"
       },
       "author": "VOA Learning English",
-      "title": "Study of 'Twin' Stars Suggests Many Planets Might Be Exiles - VOA Learning English",
-      "description": "Researchers studied 91 pairs of similar stars. They found eight percent had likely “eaten” a planet. The study suggested that there are more planets outside of normal orbits than had once been thought.",
-      "url": "https://learningenglish.voanews.com/a/study-of-twin-stars-suggests-many-planets-might-be-exiles/7537238.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-17d8-08dc4ab4281d_cx0_cy45_cw0_w1200_r1.jpg",
-      "publishedAt": "2024-03-28T21:55:00Z",
-      "content": "A new study involving stars that formed together shows how lucky Earth is to be in a normal planetary system.\r\nResearchers studied 91 pairs of stars that formed together and were similar in size and … [+3919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VOA News"
-      },
-      "author": "VOA Learning English",
       "title": "Study Describes More Details on Asteroid’s Crash with Spacecraft - VOA Learning English",
       "description": "A new study confirms results of an earlier study suggesting the crash of a spacecraft into an asteroid changed the shape of the targeted object. The research says the reason it was reshaped was because the strike changed the composition of the asteroid and al…",
       "url": "https://learningenglish.voanews.com/a/study-describes-more-details-on-asteroid-s-crash-with-spacecraft/7538604.html",
@@ -833,474 +1301,6 @@
       "urlToImage": "https://s.w-x.co/GettyImages-1893382816.jpg",
       "publishedAt": "2024-03-28T21:18:05Z",
       "content": "Sign up for the Morning Brief email newsletter to get weekday updates from The Weather Channel and our meteorologists.\r\nEl Niño last year led to global sea level rise equivalent to dumping one quarte… [+2781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Courtney Babbitt",
-      "title": "Comprehensive study explores influence of gene expression on primate brain evolution - Phys.org",
-      "description": "An interdisciplinary team of researchers led by biologists at the University of Massachusetts Amherst recently published the results of a first-of-its-kind study investigating the links between gene expression and brain evolution across 18 primate species.",
-      "url": "https://phys.org/news/2024-03-comprehensive-explores-gene-primate-brain.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/broadest-ever-study-of-1.jpg",
-      "publishedAt": "2024-03-28T21:00:22Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Andrew Jones",
-      "title": "China appears to be trying to save stricken spacecraft from lunar limbo - SpaceNews",
-      "description": "China appears to be trying to save stricken spacecraft from lunar limbo Tracking data appears to show China is attempting to salvage spacecraft initially intended for the moon but left stranded by a rocket stage malfunction.",
-      "url": "https://spacenews.com/china-appears-to-be-trying-to-save-stricken-spacecraft-from-lunar-limbo/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2018/12/ChangE5T1-2014-far-side-moon-earth-CAS-0.jpg",
-      "publishedAt": "2024-03-28T20:58:22Z",
-      "content": "HELSINKI Tracking data appears to show China is attempting to salvage spacecraft initially intended for the moon but left stranded by a rocket stage malfunction.\r\nThe small DRO-A and B spacecraft lau… [+3911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Whitney Clavin",
-      "title": "Magnetic avalanche triggered by quantum effects: 'Barkhausen noise' detected for first time - Phys.org",
-      "description": "Iron screws and other so-called ferromagnetic materials are made up of atoms with electrons that act like little magnets. Normally, the orientations of the magnets are aligned within one region of the material but are not aligned from one region to the next. …",
-      "url": "https://phys.org/news/2024-03-magnetic-avalanche-triggered-quantum-effects.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/magnetic-avalanche-tri-1.jpg",
-      "publishedAt": "2024-03-28T20:48:53Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+5982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Sharmila Kuthunur",
-      "title": "Life as we know it could exist on Venus, new experiment reveals - Space.com",
-      "description": "\"I think we are just more happy than anything that this latest result adds one more 'yes' for the possibility of life on Venus.\"",
-      "url": "https://www.space.com/building-blocks-life-venus-experiment",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xq4m3CYQVB4KMTfZCu6Wh-1200-80.jpg",
-      "publishedAt": "2024-03-28T20:00:30Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jennifer Ouellette",
-      "title": "Astronomers have solved the mystery of why this black hole has the hiccups - Ars Technica",
-      "description": "Blame it on a smaller orbiting black hole repeatedly punching through the accretion disk.",
-      "url": "https://arstechnica.com/science/2024/03/astronomers-have-solved-the-mystery-of-why-this-black-hole-has-the-hiccups/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hiccup1-760x380.jpg",
-      "publishedAt": "2024-03-28T19:56:50Z",
-      "content": "Enlarge/ Scientists have found a large black hole that hiccups, giving off plumes of gas. \r\n23\r\nIn December 2020, astronomers spotted an unusual burst of light in a galaxy roughly 848 million light-y… [+4090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Michael Sheetz",
-      "title": "Investing in Space: Boeing takes backup role in flying NASA astronauts - CNBC",
-      "description": "Boeing's Starliner program finally feels close to flying people in space for the first time.",
-      "url": "https://www.cnbc.com/2024/03/28/investing-in-space-boeing-takes-backup-role-in-flying-nasa-astronauts.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394478-1711654669686-KSC-20240131-PH-AJN01_0010large.jpg?v=1711654743&w=1920&h=1080",
-      "publishedAt": "2024-03-28T19:49:58Z",
-      "content": "CNBC's Investing in Space newsletter offers a view into the business of space exploration and privatization, delivered straight to your inbox. CNBC's Michael Sheetz reports and curates the latest new… [+5717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "Giant Mars asteroid impact creates vast field of destruction with 2 billion craters - Space.com",
-      "description": "An asteroid struck Mars 2.3 million years ago, throwing debris across a region of the planet equal to four times the length of the Grand Canyon.",
-      "url": "https://www.space.com/mars-asteroid-impact-billion-craters-ejecta",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pRUNfZ3qdEKGSxtB2rZ9R8-1200-80.png",
-      "publishedAt": "2024-03-28T19:00:01Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Teslarati"
-      },
-      "author": "Richard Angle",
-      "title": "SpaceX conducts another static fire of Ship 29 - TESLARATI",
-      "description": "Ship 29 roared to life once again yesterday afternoon at Starbase, moving another step forward to the fourth flight test for SpaceX.",
-      "url": "https://www.teslarati.com/spacex-conducts-another-static-fire-of-ship-29/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/03/Screenshot-2024-03-28-103413.jpg",
-      "publishedAt": "2024-03-28T18:18:21Z",
-      "content": "Ship 29 roared to life once again yesterday afternoon at Starbase, moving another step forward to the fourth flight test for SpaceX.\r\nSpaceX lit a single Raptor engine at 1:30 pm CT, this time fuelin… [+2348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Science X",
-      "title": "Faintest known star system orbiting the Milky Way discovered - Phys.org",
-      "description": "A team of astronomers led by the University of Victoria and Yale University has detected an ancient star system traveling around our galaxy named Ursa Major III / UNIONS 1 (UMa3/U1)—the faintest and lowest-mass Milky Way satellite ever discovered, and possibl…",
-      "url": "https://phys.org/news/2024-03-faintest-star-orbiting-milky.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/faintest-known-star-sy.jpg",
-      "publishedAt": "2024-03-28T18:13:18Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+4898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Sharmila Kuthunur",
-      "title": "365 days of satellite images show Earth's seasons changing from space (video) - Space.com",
-      "description": "A NOAA satellite has captured a stunning view of our planet's seasons changing — from the vantage point of space.",
-      "url": "https://www.space.com/satellite-images-seasons-changing-from-space",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zCB4dFfsMCNi2LhHihYN9S-1200-80.jpg",
-      "publishedAt": "2024-03-28T18:00:53Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Noaa.gov"
-      },
-      "author": null,
-      "title": "NOAA Satellites Detect Severe Solar Storm | NESDIS - nesdis",
-      "description": "From March 23–24, 2024, NOAA’s GOES satellites, and others operated by international partners, observed numerous flares erupt from the sun,",
-      "url": "https://www.nesdis.noaa.gov/news/noaa-satellites-detect-severe-solar-storm",
-      "urlToImage": "https://www.nesdis.noaa.gov2024_03_28_NOAA_Satellites_Detect_Solar_Storm",
-      "publishedAt": "2024-03-28T18:00:12Z",
-      "content": "This CME reached our planet at 10:37 a.m. EDT (1437 GMT) on Sunday, March 24, triggering a severe G4-class geomagnetic storm, marking the most potent solar storm since 2017. However, according to a G… [+3670 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "Still alive! Japan's SLIM moon lander survives its 2nd lunar night (photo) - Space.com",
-      "description": "SLIM continues to buck the odds.",
-      "url": "https://www.space.com/japan-slim-moon-lander-survives-second-lunar-night",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/haghBvzYeEa7dk7TqKzrJQ-1200-80.jpg",
-      "publishedAt": "2024-03-28T17:30:49Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Lobato Felizola",
-      "title": "9000-year-old rock art discovered among dinosaur footprints in Brazil - Livescience.com",
-      "description": "Ancient hunter-gatherers created rock art next to dinosaur footprints in what is now Brazil.",
-      "url": "https://www.livescience.com/archaeology/9000-year-old-rock-art-discovered-among-dinosaur-footprints-in-brazil",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5Lq4nR4fq8Tmve95eSQ3C3-1200-80.jpg",
-      "publishedAt": "2024-03-28T16:13:37Z",
-      "content": "As far back as 9,400 years ago, hunter-gatherers in what is now Brazil created dozens of stunning rock-art designs next to the fossilized footprints of dinosaurs, a new study finds.\r\nResearchers desc… [+3990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Canadian Running Magazine"
-      },
-      "author": "Keeley Milne",
-      "title": "4 best squats for runners to maximize lower body strength - Canadian Running Magazine",
-      "description": "Level up your lower-body strength to stay strong and injury-free as you speed to the finish line",
-      "url": "https://runningmagazine.ca/sections/training/4-best-squats-for-runners-to-maximize-lower-body-strength/",
-      "urlToImage": "https://runningmagazine.ca/wp-content/uploads/2024/03/runner-doing-a-squat.jpg",
-      "publishedAt": "2024-03-28T16:05:38Z",
-      "content": "Want to level up your endurance and structural tolerance? Simple squats can help. Recent studies have shown that adding strength exercises to a running program can improve running economy and boost a… [+4203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Unilad.com"
-      },
-      "author": null,
-      "title": "Every blue-eyed person is a descendant of one single human - UNILAD",
-      "description": "Researchers studied people with blue eyes from a range of countries to reach their conclusion",
-      "url": "https://www.unilad.com/news/health/blue-eyes-descendant-one-single-human-028710-20240326",
-      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/bltcbd630ea6495bf33/660593632a688013ab038c3d/blue-eyes-descended-from-one-human.png",
-      "publishedAt": "2024-03-28T15:57:31Z",
-      "content": "Whether you have blue eyes yourself or just know someone who has them, you can guarantee the trait comes from one person in particular. \r\nThat's because every single one of the 7.8 billion people on … [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LADbible"
-      },
-      "author": null,
-      "title": "Scientist explains how James Webb Space Telescope shows us things ours eyes can't see - LADbible",
-      "description": "Our minds can't comprehend what the telescope allows us to see",
-      "url": "https://www.ladbible.com/news/technology/nasa-james-webb-space-telescope-images-science-132108-20240328",
-      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt6a6a670066861181/66057f9a9f683c641c2c71f4/How_the_James_Webb_Space_Telescope_shows_us_things_ours_eyes_can_t_see.png",
-      "publishedAt": "2024-03-28T15:10:34Z",
-      "content": "NASA leads the way in bringing the wonders of the cosmos back down to Earth. And one of the key instruments to achieving that is the James Webb Space Telescope.\r\nKnown as the JWST or more simply, Web… [+2657 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Tony Bradley",
-      "title": "‘Deep Sky’ Takes Us On A Cinematic Voyage Beyond The Stars - Forbes",
-      "description": "\"Deep Sky\" chronicles the high-stakes global mission that brought the James Webb Space Telescope and the mind-blowing discoveries the mission has revealed so far.",
-      "url": "https://www.forbes.com/sites/tonybradley/2024/03/28/deep-sky-takes-us-on-a-cinematic-voyage-beyond-the-stars/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660580c8d1cc37253e55983e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-03-28T15:00:11Z",
-      "content": "The Tarantula Nebula, as captured by the James Webb Space Telescope.\r\nIMAX / De'Jon Glover\r\nImagine venturing to the beginning of time and space, exploring cosmic landscapes so vast and beautiful tha… [+4859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WION"
-      },
-      "author": null,
-      "title": "NASA`s SOHO mission celebrates milestone as it captures 5,000th comet on its journey around the Sun - WION",
-      "description": "The Solar and Heliospheric Observatory (SOHO), a joint project of the European Space Agency (ESA) and NASA, launched in 1995, is designed to study the Sun, its atmosphere, and the solar wind. It has provided knowledge into the structure of the Sun, including …",
-      "url": "https://www.wionews.com/science/nasas-soho-mission-celebrates-milestone-as-it-captures-5000th-comet-on-its-journey-around-the-sun-705276",
-      "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/03/28/421491-untitled-design-58.png",
-      "publishedAt": "2024-03-28T14:35:22Z",
-      "content": "The Solar and Heliospheric Observatory (SOHO), a joint project of the European Space Agency (ESA) and NASA, launched in 1995, is designed to study the Sun, its atmosphere, and the solar wind. It has … [+2133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ellen Neff",
-      "title": "Researchers find first experimental evidence for a graviton-like particle in a quantum material - Phys.org",
-      "description": "A team of scientists from Columbia, Nanjing University, Princeton, and the University of Munster, writing in the journal Nature, have presented the first experimental evidence of collective excitations with spin called chiral graviton modes (CGMs) in a semico…",
-      "url": "https://phys.org/news/2024-03-experimental-evidence-graviton-particle-quantum.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/researchers-find-first.jpg",
-      "publishedAt": "2024-03-28T14:23:04Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "The Social Benefits of Getting Our Brains in Sync - Quanta Magazine",
-      "description": "Our brain waves can align when we work and play closely together. The phenomenon, known as interbrain synchrony, suggests that collaboration is biological.",
-      "url": "https://www.quantamagazine.org/the-social-benefits-of-getting-our-brains-in-sync-20240328/",
-      "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/03/NeuralSynchrony-byIkerAyestaran-Social.webp",
-      "publishedAt": "2024-03-28T14:11:07Z",
-      "content": "The renowned Polish piano duo Marek and Wacek didnt use sheet music when playing live concerts. And yet onstage the pair appeared perfectly in sync. On adjacent pianos, they playfully picked up vario… [+3265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NASA"
-      },
-      "author": null,
-      "title": "Three-Year Study of Young Stars with NASA's Hubble Enters New Chapter - Science@NASA",
-      "description": "In the largest and one of the most ambitious Hubble Space Telescope programs ever executed, a team of scientists and engineers collected information on almost 500 stars over a three-year period. This effort offers new insights into the stars’ formation, evolu…",
-      "url": "https://science.nasa.gov/missions/hubble/three-year-study-of-young-stars-with-nasas-hubble-enters-new-chapter/",
-      "urlToImage": "https://science.nasa.gov/wp-content/uploads/2023/07/41156165560-4438592e93-o.jpg?w=640",
-      "publishedAt": "2024-03-28T14:04:09Z",
-      "content": "The Hubble Space Telescope has been operating for over three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of… [+458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sorae.info"
-      },
-      "author": null,
-      "title": "3つ？の銀河。相互作用銀河「Arp-Madore 2339-661」【今日の宇宙画像】 - sorae 宇宙へのポータルサイト",
-      "description": "Source Image Credit: ESA/Hubble & NASA, J. Dalcanton, Dark Energy Survey/DOE/FNAL/NOIRLab/NSF/AU",
-      "url": "https://sorae.info/newslink/20240328-sapod",
-      "urlToImage": "https://sorae.info/wp-content/uploads/2023/10/peculiar-galaxies-AM-2339-661-Hubble-ESA-potw2343a.jpg",
-      "publishedAt": "2024-03-28T14:00:43Z",
-      "content": "SAPODsorae\r\n(sorae )\r\n<ul><li>Image Credit: ESA/Hubble &amp; NASA, J. Dalcanton, Dark Energy Survey/DOE/FNAL/NOIRLab/NSF/AURA, Acknowledgement: L. Shatz</li><li>sorae - 23 </li></ul>\r\nsorae20231027Ar… [+93 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Verywellmind.com"
-      },
-      "author": "https://www.facebook.com/verywell",
-      "title": "Mastering Self-Control: The Power of Urge Surfing - Verywell Mind",
-      "description": "Visualizing your cravings as a wave that rises then falls can help you not give in to habits that don't serve you. Learn everything you need to know about urge surfing.",
-      "url": "https://www.verywellmind.com/urge-surfing-8608272",
-      "urlToImage": "https://www.verywellmind.com/thmb/FdbBWaunT69aVXVNQEI7CLJxPGc=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1158867843-ff77059dc034484289401cf575ad5bef.jpg",
-      "publishedAt": "2024-03-28T13:48:17Z",
-      "content": "The desire to do something we know isn't ideal for us can be strong, and the inevitable cycle of having a craving, fighting it, giving in, then feeling guilty can be a miserable experience. But what … [+8591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lokmattimes.com"
-      },
-      "author": "Lokmat English Desk",
-      "title": "Comet 12P/Pons-Brooks set to mesmerize skywatchers - Lokmat Times",
-      "description": "Devil's comet will make rare appearance after 71 yearsChhatrapati Sambhajinagar: The residents and skywatchers have a rare opportunity to witness 'Comet 12P/Pons-Brooks', also known as the ‘Devil's Comet,’ for the first time in 71 years. The comet, visible wi…",
-      "url": "https://www.lokmattimes.com/aurangabad/comet-12ppons-brooks-set-to-mesmerize-skywatchers/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/686x514/aurangabad_202009112995.jpg",
-      "publishedAt": "2024-03-28T13:33:01Z",
-      "content": "Devil's comet will make rare appearance after 71 years\r\nChhatrapati Sambhajinagar: The residents and skywatchers have a rare opportunity to witness 'Comet 12P/Pons-Brooks', also known as the Devil's … [+1158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Khushi Pal",
-      "title": "10 mesmerising images of Earth from space shared by NASA - Hindustan Times",
-      "description": "Here are 10 mesmerising pics of Earth and its landscapes shared by NASA.",
-      "url": "https://www.hindustantimes.com/web-stories/in-focus/10-mesmerising-images-of-earth-from-space-shared-by-nasa-101711623438223.html",
-      "urlToImage": null,
-      "publishedAt": "2024-03-28T13:30:12Z",
-      "content": "By Khushi PalPublished Mar 28, 2024\r\nHindustan TimesIn FocusPhoto Credits: Instagram/nasaearth"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "How Is Flocking Like Computing? - Quanta Magazine",
-      "description": "Birds flock. Locusts swarm. Fish school. From chaotic assemblies of life, order somehow emerges. In this episode, co-host Steven Strogatz interviews the evolutionary ecologist Iain Couzin about how and why collective behaviors arise.",
-      "url": "https://www.quantamagazine.org/how-is-flocking-like-computing-20240328/",
-      "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/03/JoY-S3E5-Flocking-byPeterGreenwood-Social-LOGO.webp",
-      "publishedAt": "2024-03-28T13:19:37Z",
-      "content": "Birds flock. Locusts swarm. Fish school. Within assemblies of organisms that seem as though they could get chaotic, order somehow emerges. The collective behaviors of animals differ in their details … [+39957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Express"
-      },
-      "author": null,
-      "title": "The mystery behind Gujarat’s ‘Luna Structure’: Could a giant meteorite have shaped Kutch’s landscape 50,000 years ago? - The Financial Express",
-      "description": "The crater, known as the Luna Structure is 1.8-kilometer-wide and the locals are quite familiar with it.",
-      "url": "https://www.financialexpress.com/life/science-the-mystery-behind-gujarats-luna-structure-could-a-giant-meteorite-have-shaped-kutchs-landscape-50000-years-ago-3439713/",
-      "urlToImage": "https://www.financialexpress.com/wp-content/uploads/2024/03/crater.jpg",
-      "publishedAt": "2024-03-28T13:17:04Z",
-      "content": "Scientists have revealed that a mysterious crater in Gujarat’s Kutch could have formed due to one of the largest meteorites crash on Earth in the last 50,000 years. It is believed that during impact,… [+1823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PetaPixel"
-      },
-      "author": "Pesala Bandara",
-      "title": "Astronaut Thought He Photographed Mt. Fuji, But it Was Actually a Tool Bag - PetaPixel",
-      "description": "Is that Mount Fuji? No, it's space junk.",
-      "url": "https://petapixel.com/2024/03/28/astronaut-thought-he-photographed-mt-fuji-but-it-was-actually-a-tool-bag/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2023/11/Toolbag.jpg",
-      "publishedAt": "2024-03-28T12:26:01Z",
-      "content": "Japanese astronaut Satoshi Furukawa took this photo of the errant tool bag as he was trying to take a shot of Mount Fuji while onboard the ISS. | www.eol.jsc.nasa.gov\r\nA SpaceX Crew 7 astronaut revea… [+2500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "India Today Science Desk",
-      "title": "European probe clicks stunning pictures to mark 25,000 orbits around Mars - India Today",
-      "description": "Since its arrival in late 2003 Mars Express has changed our understanding of Mars offering unprecedented insights into its atmosphere surface and moons",
-      "url": "https://www.indiatoday.in/science/story/european-probe-clicks-stunning-pictures-to-mark-25000-orbits-around-mars-2520050-2024-03-28",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/mars-express-picture-274849319-16x9_0.jpg?VersionId=UlJ3fR0uY6c0ldFxe.khZqXLLLnKFRdS",
-      "publishedAt": "2024-03-28T11:20:59Z",
-      "content": "The European Space Agency's (ESA) Mars Express orbiter has completed its 25,000th orbit around Mars, capturing a breathtaking high-altitude view of the planet to commemorate the achievement. \r\nSince … [+1659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Firstpost"
-      },
-      "author": "Mehul Reuben Das, Mehul Reuben Das",
-      "title": "Mars had more water for longer than previously thought, shows NASA's Curiosity Rover - Firstpost",
-      "description": "NASA’s Curiosity Rover has found evidence that suggests Mars may have had much more water and for much longer than what the scientific community had previously thought. The discoveries prompt reconsideration of Mars’ environmental conditions",
-      "url": "https://www.firstpost.com/tech/mars-had-more-water-for-longer-than-previously-thought-shows-nasas-curiosity-rover-13753730.html",
-      "urlToImage": "https://images.firstpost.com/uploads/2024/03/Mars-may-had-more-water-for-longer-than-previously-thought-shows-NASAs-Curiosity-Rover-2024-03-0c0e3e366ca8d37ccf5e902311473999-1200x675.jpg?im=FitAndFill=(1200,675)",
-      "publishedAt": "2024-03-28T11:20:05Z",
-      "content": "For over a decade, NASA’s Curiosity rover has been traversing Mars’ Gale Crater, scrutinizing its surface minerals. Recent findings by an international team, led by Imperial College London, suggest t… [+1588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ExtremeTech"
-      },
-      "author": "ExtremeTech",
-      "title": "James Webb Space Telescope Snaps Its First Image of a Protoplanetary Disk - ExtremeTech",
-      "description": null,
-      "url": "https://www.extremetech.com/science/james-webb-space-telescope-snaps-its-first-image-of-a-protoplanetary-disk",
-      "urlToImage": null,
-      "publishedAt": "2024-03-28T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Azoquantum.com"
-      },
-      "author": null,
-      "title": "CSIRO Telescope Becomes Stellar 'Speed Camera' in World-First Measurement - AZoQuantum",
-      "description": "In a world first, researchers have measured the jets of neutron stars to be moving at 114,000km per second – one-third the speed of light.",
-      "url": "https://www.azoquantum.com/News.aspx?newsID=10182",
-      "urlToImage": "https://dwg31ai31okv0.cloudfront.net/images/news/ImageForNews_10182_17116204074669209.jpg",
-      "publishedAt": "2024-03-28T10:08:00Z",
-      "content": "Mar 28 2024Reviewed by Lexie Corner\r\nIn a world first, researchers have measured the jets of neutron stars to be moving at 114,000km per second – one-third the speed of light. \r\nThis artist’s impress… [+2556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Education Diary"
-      },
-      "author": "iednewsdesk",
-      "title": "First Detection of a Gamma-Ray Source in a Microquasar Unveiled - India Education Diary",
-      "description": "Some 18,000 light-years from Earth, in our own galaxy, lies SS 433. This acronym stands for a pair of stars and a black hole. While this system has long been known to astronomers through the emission of light in the X-ray and radio bands, this is the",
-      "url": "https://indiaeducationdiary.in/first-detection-of-a-gamma-ray-source-in-a-microquasar-unveiled/",
-      "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/03/image-microquasar-gamma.jpg",
-      "publishedAt": "2024-03-28T10:07:49Z",
-      "content": "Some 18,000 light-years from Earth, in our own galaxy, lies SS 433. This acronym stands for a pair of stars and a black hole. While this system has long been known to astronomers through the emission… [+2238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biospectrumasia.com"
-      },
-      "author": "SCI Knowledge Interlinks",
-      "title": "Breakthrough antibiotic by Singapore shows promise against obstinate mycobacterial infections - BSA bureau",
-      "description": "BioSpectrum is an integrated B2B media platform for the healthcare and bioscience industry in the Asia Pacific region.",
-      "url": "https://www.biospectrumasia.com/news/98/24007/breakthrough-antibiotic-by-singapore-shows-promise-against-obstinate-mycobacterial-infections.html",
-      "urlToImage": "https://www.biospectrumasia.com/bundles/interlinksapp/app/app-asia/images/logo1.jpg",
-      "publishedAt": "2024-03-28T10:05:00Z",
-      "content": "ENGENDERING INCLUSIVITY &amp; DIVERSITY IN LIFE SCIENCESWe are celebrating International Women's Day this time around by spotlighting women's roles and challenges in life sciences, spanning leadershi… [+334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Elizabeth Howell",
-      "title": "Future Mars plane could help solve Red Planet methane mystery (exclusive) - Space.com",
-      "description": "MAGGIE, an early-stage concept at the moment, could search for elusive traces of life in the Martian atmosphere.",
-      "url": "https://www.space.com/mars-plane-maggie-methane-mystery",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fzhs4VWFNSVXTf4jx6eJuj-1200-80.jpg",
-      "publishedAt": "2024-03-28T10:00:15Z",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "From Cosmic Speck to Colossal Galaxy: Webb Reveals the Early Universe's Giant - SciTechDaily",
-      "description": "Detailed pictures of one of the first galaxies show growth in the early Universe was much faster than first thought. Astronomers are currently enjoying a fruitful period of discovery, investigating the many mysteries of the early Universe. The successful laun…",
-      "url": "https://scitechdaily.com/from-cosmic-speck-to-colossal-galaxy-webb-reveals-the-early-universes-giant/",
-      "urlToImage": "https://scitechdaily.com/images/Ancient-Galaxy-Art-Concept.jpg",
-      "publishedAt": "2024-03-28T08:53:18Z",
-      "content": "ByDr. Kit Boyett, University of MelbourneMarch 28, 2024Recent observations by the James Webb Space Telescope have uncovered Gz9p3, an ancient galaxy from the Universe’s toddler years, revealing it to… [+7698 chars]"
     }
   ]
 }
