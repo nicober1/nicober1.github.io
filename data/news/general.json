@@ -1,123 +1,682 @@
 {
   "status": "ok",
-  "totalResults": 94,
+  "totalResults": 86,
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Natasha Bertrand, Alex Marquardt",
+      "title": "New US military aid package to Ukraine expected to be worth around $1 billion - CNN",
+      "description": "The Biden administration is preparing a new aid package for Ukraine that is expected to be worth around $1 billion, multiple sources familiar with the matter told CNN, and is set to be approved by President Joe Biden after the Senate passes a new foreign aid …",
+      "url": "https://www.cnn.com/2024/04/23/politics/us-ukraine-military-aid-package/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714170843-atacms-file-2021.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-23T18:03:00Z",
+      "content": "The Biden administration is preparing a new aid package for Ukraine that is expected to be worth around $1 billion, multiple sources familiar with the matter told CNN, and is set to be approved by Pr… [+3782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Joseph Choi",
+      "title": "UnitedHealth says ‘substantial proportion’ of Americans’ information hit by cyberattack, confirms ransom payment - The Hill",
+      "description": "The cyberattack on Change Healthcare in February targeted the data of “a substantial proportion of people in America,” UnitedHealth Group (UHG) said this week, with the company confirming it paid a ransom in an effort to protect patient information. “Based on…",
+      "url": "https://thehill.com/policy/healthcare/4615377-unitedhealth-says-substantial-proportion-of-americans-information-hit-by-cyberattack-confirms-ransom-payment/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/64b14a178b1b90.08264088-e1713892561670.jpeg?w=1280",
+      "publishedAt": "2024-04-23T17:16:00Z",
+      "content": "Skip to content\r\nThe cyberattack on Change Healthcare in February targeted the data of “a substantial proportion of people in America,” UnitedHealth Group (UHG) said this week, with the company confi… [+2604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Nasa’s Voyager-1 sends usable data from deep space | BBC News - BBC News",
+      "description": "The US space agency says its Voyager-1 probe is once again sending usable information back to Earth after months of spouting gibberish.  The Nasa spacecraft ...",
+      "url": "https://www.youtube.com/watch?v=hE2Mnd9Qgjs",
+      "urlToImage": "https://i.ytimg.com/vi/hE2Mnd9Qgjs/maxresdefault.jpg",
+      "publishedAt": "2024-04-23T17:00:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Kuo: Apple cuts Vision Pro shipments, now 'reviewing and adjusting' headset strategy - 9to5Mac",
+      "description": "Apple has slashed its shipping estimates for Vision Pro, according to a new Ming-Chi Kuo analyst report. Kuo says that...",
+      "url": "https://9to5mac.com/2024/04/23/kuo-vision-pro-shipping-delays/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Vision-Pro-demand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-23T16:47:00Z",
+      "content": "Apple has slashed its shipping estimates for Vision Pro, according to a new Ming-Chi Kuo analyst report. Kuo says that Apple is now targeting shipments between 400,000 and 450,000 units for Vision Pr… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tierney Sneed, Holmes Lybrand",
+      "title": "Trump co-defendant in classified documents case was told he’d be pardoned in a second term, notes in FBI interview say - CNN",
+      "description": "Donald Trump’s valet Walt Nauta was told that if he was charged with lying to the FBI, the former president would pardon him when he won a second term in 2024, according to notes from an interview with a witness in the federal classified documents investigati…",
+      "url": "https://www.cnn.com/2024/04/22/politics/nauta-classified-documents-trump-pardon-second-term/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-08-10t140844z-959715940-rc22l2a1ata3-rtrmadp-3-usa-trump-documents.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-23T16:44:00Z",
+      "content": "Donald Trumps valet Walt Nauta was told that if he was charged with lying to the FBI, the former president would pardon him when he won a second term in 2024, according to notes from an interview wit… [+1903 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "2024 NFL Draft: Four potential surprise first-rounders - NFL.com",
+      "description": "Thursday night will likely begin with a run on quarterbacks, but which prospects will fill the back end of Round 1? Tom Pelissero identifies four potential surprise first-round picks, including one key player from the reigning national champion Michigan W",
+      "url": "https://www.nfl.com/news/2024-nfl-draft-four-potential-surprise-first-rounders",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/zryrlxadv5ouui5esm5f",
+      "publishedAt": "2024-04-23T16:41:00Z",
+      "content": "As my colleague Daniel Jeremiah noted recently, this isnt a good year to need off-ball linebackers. But if one player at that position sneaks into Round 1, it might be the 21-year-old Colson, who led… [+1144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan and Kirsten Korosec",
+      "title": "Tesla earnings week spotlights EV price cuts, ‘balls to the wall’ autonomy push - TechCrunch",
+      "description": "Tesla investors, digesting a 43% drop in share price since the beginning of the year, are gearing up for unimpressive Q1 financial results.",
+      "url": "https://techcrunch.com/2024/04/23/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1232815520.jpeg?resize=1200,800",
+      "publishedAt": "2024-04-23T16:30:00Z",
+      "content": "Tesla investors, still digesting a 43% drop in share price since the beginning of the year, are gearing up for what will likely be unimpressive financial results for the first quarter and a shift in … [+4450 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Nicole Mitchell: Minnesota state senator arrested on burglary charge - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/news/nation/2024/04/22/minnesota-senator-burglary-arrest-nicole-mitchell/73419507007/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-23T16:17:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Sumanti Sen",
+      "title": "Over 130 people arrested overnight during pro-Palestinian protests at New York University - Hindustan Times",
+      "description": "Student demonstrations have begun to intensify across the United States amid the ongoing Israel-Hamas conflict",
+      "url": "https://www.hindustantimes.com/world-news/us-news/over-130-people-arrested-overnight-during-pro-palestinian-protests-at-new-york-university-101713888404442.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/US_1713888700717_1713888701000.jpg",
+      "publishedAt": "2024-04-23T16:14:53Z",
+      "content": "Over 130 people were arrested overnight during the pro-Palestinian protests at the New York University campus overnight. Student demonstrations have begun to intensify across the United States amid t… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Zoe Guy",
+      "title": "Why 'Baby Reindeer' Creator Condemns Search for Real Martha - Vulture",
+      "description": "‘Baby Reindeer’ creator Richard Gadd doesn’t want you looking for real-life Martha and Darrien. ‘Please don’t speculate on who any of the real life people could be,’ he shared. ‘That’s not the point of our show.’",
+      "url": "http://www.vulture.com/article/baby-reindeer-true-story-real-martha.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/371/834/1a0b0da9a1d13f640c097a1388177fee8b-richard-gadd-jessica-gunning.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-04-23T16:11:57Z",
+      "content": "Baby Reindeer creator and star Richard Gadd didnt make the show based on his life for you to play a game of Guess Who. Following intense speculation over characters real-life counterparts, which even… [+1243 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Samsung's new glare-free OLED TV is receiving its first discount - The Verge",
+      "description": "The 2024 Samsung OLED S95D TV lineup is on sale. You can buy the 55-inch starting at $2,299.99 while the 75-inch is $4,299.99.",
+      "url": "https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uLOyYKPCHPHoD8fPVxCi6Jm23lw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25210956/DSCF6002.jpg",
+      "publishedAt": "2024-04-23T15:59:42Z",
+      "content": "Samsungs new glare-free OLED TV is receiving its first discount\r\nSamsungs new glare-free OLED TV is receiving its first discount\r\n / All configurations are on sale, with the 55-inch starting at $2,29… [+1359 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Adela Suliman",
+      "title": "Australia's PM Albanese calls Elon Musk 'arrogant billionaire' in spat - The Washington Post - The Washington Post",
+      "description": "Australia’s Anthony Albanese lashed out at the Tesla chief in a dispute about whether videos from a Sydney church stabbing should be shown on X.",
+      "url": "https://www.washingtonpost.com/world/2024/04/23/elon-musk-albanese-twitter-church/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WNZHKMKGCERTUUUVLHNEMWLKQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-04-23T15:56:42Z",
+      "content": "Australian Prime Minister Anthony Albanese lashed out at tech mogul Elon Musk on Tuesday, labeling him an arrogant billionaire over an ongoing dispute about whether videos from a church stabbing in S… [+4532 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Natalie Neysa Alund",
+      "title": "Police search for Elias Huizar, Amber Alert issued for Roman Huizar - USA TODAY",
+      "description": "Police said Roman Huizar age 1, disappeared Monday. Elias Huizar, 39, is wanted in connection to the murders of his ex-wife and girlfriend.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/04/23/amber-alert-elias-huizar-roman-murders/73423856007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/23/USAT/73424599007-elias-and-roman.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "publishedAt": "2024-04-23T15:48:25Z",
+      "content": "Authorities in Washington state have issued an Amber Alert for a 1-year-old boy after police said a former police officer reportedly killed two women his wife and ex-girlfriend and allegedly kidnappe… [+2996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Jairam Ramesh on PM's mangalsutra remark: 'Narendra Modi is Vish Guru, never respected…' - Hindustan Times",
+      "description": "Jairam Ramesh claimed that Prime Minister Narendra Modi had adopted the path of polarization because he was nervous. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/jairam-ramesh-on-pms-mangalsutra-remark-narendra-modi-is-vish-guru-never-respected-101713886353719.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/Congress-Campaign-20_1713886452482_1713886486160.jpg",
+      "publishedAt": "2024-04-23T15:44:58Z",
+      "content": "In a vitriolic attack on Prime Minister Narendra Modi, Congress general secretary Jairam Ramesh on Tuesday said the former was a \"Vish Guru\", not Vishwa Guru.\r\nCongress leader Jairam Ramesh during a … [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lauren Said-Moorhouse, Max Foster",
+      "title": "Prince Louis photo released to mark sixth birthday - CNN",
+      "description": "Britain’s Prince and Princess of Wales have released a new photo of Prince Louis to mark his sixth birthday on Tuesday, the first image to be released by the family since a photo-editing scandal erupted last month.",
+      "url": "https://www.cnn.com/2024/04/23/europe/prince-louis-photo-birthday-intl-scli-gbr/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/440363979-842669081021355-5522715801705526086-n-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-23T15:19:00Z",
+      "content": "Britains Prince and Princess of Waleshave released a new photo of Prince Louis to mark his sixth birthday on Tuesday, the first image to be released by the family since a photo-editing scandal erupte… [+4023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "Nomad debuts exclusive Glow 2.0 Apple Watch Sport Band and iPhone Case, but you'll have to act quick - 9to5Mac",
+      "description": "Last year Nomad launched a fun limited edition Glow in the Dark Sport Band for Apple Watch. It ended up...",
+      "url": "https://9to5mac.com/2024/04/23/limited-edition-nomad-glow-2-apple-watch-sport-band-iphone-case/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/nomad-limited-edition-glow-iphone-sport-case-apple-watch-band.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-04-23T15:16:00Z",
+      "content": "Last year Nomad launched a fun limited edition Glow in the Dark Sport Band for Apple Watch. It ended up selling out in the first day. Now the company is back with a new and improved Glow 2.0 Sport Ba… [+2254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Daisy Dobrijevic",
+      "title": "Rare quadruple eruption from sun caught on camera (video) - Space.com",
+      "description": "The quadruple eruption was captured by NASA's Solar Dynamics Observatory.",
+      "url": "https://www.space.com/4-solar-flares-erupt-from-sun-same-time-rare-event-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/56pLS2rcHHYrpVG4tk9PXf-1200-80.gif",
+      "publishedAt": "2024-04-23T15:08:31Z",
+      "content": "The sun put on quite the show this morning (April 23), blasting out not one, not two, but four solar flares in near-perfect harmony. And NASA's space-based Solar Dynamics Observatory (SDO) caught it … [+3164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Apple Event on May 7 Has Six Artistic Logos as Tim Cook Hints at New Apple Pencil - MacRumors",
+      "description": "Apple is promoting its upcoming \"Let loose\" event using six artistic logos amid the expectation that a new Apple Pencil is to be announced.  ...",
+      "url": "https://www.macrumors.com/2024/04/23/apple-event-has-six-artistic-logos/",
+      "urlToImage": "https://images.macrumors.com/t/hK1rPmLtFo55-06VHUQMokNzzSY=/2925x/article-new/2024/04/5.7.24-Logos-Feature.jpg",
+      "publishedAt": "2024-04-23T15:05:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Road to VR"
+      },
+      "author": "Ben Lang",
+      "title": "Oculus Founder Reacts to Horizon OS News: “Hopefully it isn’t too late” - Road to VR",
+      "description": "Meta dropped a major announcement yesterday, saying it plans to allow select partners to build third-party headsets that will run Horizon OS (formerly Quest OS). The news is prompting significant discussion within the XR industry, including from Oculus founde…",
+      "url": "https://www.roadtovr.com/oculus-founder-palmer-luckey-horizon-os-quest-reaction/",
+      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/04/palmer-luckey.jpg",
+      "publishedAt": "2024-04-23T15:01:26Z",
+      "content": "Meta dropped a major announcement yesterday, saying it plans to allow select partners to build third-party headsets that will run Horizon OS (formerly Quest OS). The news is prompting significant dis… [+2566 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ARNIE MELENDREZ STAPLETON",
+      "title": "Jamal Murray sinks shot at buzzer to cap 20-point comeback and lead Nuggets past Lakers 101-99 - The Associated Press",
+      "description": "Jamal Murray sank a 15-foot step-back jumper at the buzzer and the Denver Nuggets wiped out a 20-point second-half deficit to stun the Los Angeles Lakers 101-99 Monday night and take a 2-0 lead in their Western Conference playoff series. Murray’s fadeaway, fa…",
+      "url": "https://apnews.com/article/denver-nuggets-los-angeles-lakers-score-c6101ac1b716a0dfde2b851993b80057",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17afefa/2147483647/strip/true/crop/2410x1356+0+125/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F9a%2Faa229d986dd540e34bc376eb6e30%2F8b5e68d799be40d48a37562d2c628887",
+      "publishedAt": "2024-04-23T15:01:00Z",
+      "content": "DENVER (AP) Jamal Murray didnt even see the biggest basket of his career. At least not live, he didnt.\r\nMurray swished a step-back 15-footer over Anthony Davis at the buzzer Monday night, giving the … [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "\"Finally\": India Star Yashasvi Jaiswal Comes Running Towards Brian Lara After 100, WI Great Does Thi.. - NDTV Sports",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3Nwb3J0cy5uZHR2LmNvbS9pcGwtMjAyNC9maW5hbGx5LWluZGlhLXN0YXIteWFzaGFzdmktamFpc3dhbC1jb21lcy1ydW5uaW5nLXRvd2FyZHMtYnJpYW4tbGFyYS1hZnRlci0xMDAtd2ktZ3JlYXQtZG9lcy10aGlzLXdhdGNoLTU1MDcwNTXSAZYBaHR0cHM6Ly9zcG9ydHMubmR0di5jb20vaXBsLTIwMjQvZmluYWxseS1pbmRpYS1zdGFyLXlhc2hhc3ZpLWphaXN3YWwtY29tZXMtcnVubmluZy10b3dhcmRzLWJyaWFuLWxhcmEtYWZ0ZXItMTAwLXdpLWdyZWF0LWRvZXMtdGhpcy13YXRjaC01NTA3MDU1L2FtcC8x",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2024-04-23T14:54:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Anjishnu Das",
+      "title": "Royals, bribery charges, mystery withdrawals: In unopposed Lok Sabha poll wins, a familiar script - The Indian Express",
+      "description": "As BJP’s Mukesh Dalal wins from Surat unopposed, a look back at similar wins since 1952; including first, when also the Congress was left red faced",
+      "url": "https://indianexpress.com/article/political-pulse/unopposed-lok-sabha-poll-wins-9286878/",
+      "urlToImage": "https://images.indianexpress.com/2024/04/mukesh-dalal.jpg",
+      "publishedAt": "2024-04-23T14:43:15Z",
+      "content": "With a month-and-a-half to go for the results of the Lok Sabha polls to be announced on June 4, the BJP has already won its first seat. On Monday, a day after the nomination of the Congress candidate… [+5739 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Iran threatens to annihilate Israel should it launch a major attack - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/middle-east/iran-threatens-annihilate-israel-should-it-launch-major-attack-2024-04-23/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-23T14:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Neha Yadav",
+      "title": "10 dreamy images of space captured by NASA - Hindustan Times",
+      "description": "10 dreamy images of space captured by NASA",
+      "url": "https://www.hindustantimes.com/web-stories/in-focus/10-dreamy-images-of-space-captured-by-nasa-101713867905783.html",
+      "urlToImage": null,
+      "publishedAt": "2024-04-23T14:00:01Z",
+      "content": "By Neha YadavPublished Apr 23, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Realme Narzo 70 5G, Narzo 70x 5G set to launch in India tomorrow: Everything we know so far | Mint - Mint",
+      "description": "Realme will unveil Narzo 70x 5G and Narzo 70 5G alongside Narzo 70 Pro 5G. Both offer budget-friendly options with features similar to the Pro model. Narzo 70x 5G stands out with 45W charging and expected sub- ₹12,000 price.",
+      "url": "https://www.livemint.com/technology/gadgets/realme-narzo-70-5g-narzo-70x-5g-set-to-launch-in-india-tomorrow-everything-we-know-so-far-11713879966769.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/23/1600x900/realme_narzo_70_1713880334124_1713880343966.jpg",
+      "publishedAt": "2024-04-23T13:57:19Z",
+      "content": "Realme has announced that it will unveil two new smartphones, the Narzo 70x 5G and the Narzo 70 5G, at an event scheduled for tomorrow. The launch event will start at 12 p.m., with these two models j… [+2162 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Lim Hui Jie",
-      "title": "Asia markets extend gains as investors assess business activity figures from around the region - CNBC",
-      "description": "Purchasing managers index figures are released for Australia, Japan and India for March, as well as inflation figures for Singapore",
-      "url": "https://www.cnbc.com/2024/04/23/asia-markets-live-updates-australia-japan-and-india-pmi-data.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107404794-1713827234248-gettyimages-2133942471-jhangiani-indiaram240405_npaDr.jpeg?v=1713827255&w=1920&h=1080",
-      "publishedAt": "2024-04-23T08:00:00Z",
-      "content": "Shares of Chinese bubble tea chain Chabaidao, officially listed as Sichuan Baicha Baidao Industrial, opened 10% lower in early trade on its trading debut in Hong Kong, before plunging more than 30%.\r… [+605 chars]"
+      "author": "Sarah Min",
+      "title": "Stocks rise for a second day as earnings season ramps up, Dow up more than 100 points: Live updates - CNBC",
+      "description": "U.S. stocks rose on Tuesday as the corporate earnings season picked up steam, and investors looked to build on the strong gains from the previous session.",
+      "url": "https://www.cnbc.com/2024/04/22/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369706-1707240585351-gettyimages-1988475057-ms2_5755_xzzgmlaz.jpeg?v=1713820846&w=1920&h=1080",
+      "publishedAt": "2024-04-23T13:48:00Z",
+      "content": "U.S. stocks rose on Tuesday as the corporate earnings season picked up steam, and investors looked to build on the strong gains from the previous session.\r\nThe Dow Jones Industrial Average climbed 25… [+1329 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "indy100"
+        "name": "Healthshots.com"
       },
-      "author": "Harriet Brewis",
-      "title": "Ulas family that walks on all fours 'shouldn't exist', say scientists - indy100",
-      "description": "All families have their own quirks and habits, but one group of relatives has such a unique trait that scientists have branded them a total anomaly of the human species.The Ulas family has been the subject of evolutionary fascination for years after they were…",
-      "url": "https://www.indy100.com/science-tech/ulas-family-walk-on-all-fours-2667850206",
-      "urlToImage": "https://www.indy100.com/media-library/remote-village-where-people-walk-on-all-fours-60-minutes-australia.png?id=35740294&width=1200&height=600&coordinates=0%2C85%2C0%2C25",
-      "publishedAt": "2024-04-23T07:53:00Z",
-      "content": "All families have their own quirks and habits, but one group of relatives has such a unique trait that scientists have branded them a total anomaly of the human species.\r\nThe Ulas family has been the… [+5084 chars]"
+      "author": "Tanya Shree",
+      "title": "Best biotin powders: 6 top choices to improve your hair health - Health shots",
+      "description": "Are you looking for ways to improve your hair growth? Then, check out this list of the best biotin powders",
+      "url": "https://www.healthshots.com/beauty/hair-care/best-biotin-powders-for-hair/",
+      "urlToImage": "https://images.healthshots.com/healthshots/en/uploads/2024/04/23165838/best-biotin-powders.jpg",
+      "publishedAt": "2024-04-23T13:30:36Z",
+      "content": "Long, lustrous, and strong hair requires extra care. While following a healthy hair care routine is essential to maintain the health of your strands, making positive changes in your diet can also be … [+6647 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Divya Bhati",
-      "title": "Lava ProWatch Zn smartwatch launched in India, priced at Rs 2,599 for limited time - India Today",
-      "description": "Lava expands its portfolio with the launch of ProWatch Zn and Vn smartwatches in India  The company is offering these smartwatches at special launch prices and they come with impressive features like AMOLED display health monitoring sensors and water resistan…",
-      "url": "https://www.indiatoday.in/technology/news/story/lava-prowatch-zn-smartwatch-launched-in-india-priced-at-rs-2599-for-limited-time-2530601-2024-04-23",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202404/lava-prowatch-zn-233928979-16x9_0.jpg?VersionId=X.U_m4SRSR_wy5aBPHlKo0RY7tkkPl9m",
-      "publishedAt": "2024-04-23T07:50:01Z",
-      "content": "Lava has been quite active with back-to-back smartphone launches and is now expanding its portfolio of smart devices with the launch of the new ProWatch Zn and Vn smartwatch in India. The homegrown c… [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Our Bureau",
-      "title": "Roche partners VinCense to monitor non-communicable diseases in Madurai - BusinessLine",
-      "description": "Roche partners with VinCense for digital health monitoring in Madurai, Tamil Nadu, focusing on NCD screening and management.",
-      "url": "https://www.thehindubusinessline.com/news/national/roche-partners-vincense-to-monitor-non-communicable-diseases-in-madurai/article68097170.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/f7lw2e/article68097252.ece/alternates/LANDSCAPE_1200/IMG_iStock-475021008_2_1_MGBCD1BJ.jpg",
-      "publishedAt": "2024-04-23T07:43:06Z",
-      "content": "Roche has inked a partnership with VinCense, a digital health monitoring product from MedIoTek Health Systems, to implement three programmes for the monitoring and management of non-communicable dise… [+1963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Divyanshi Sharma",
-      "title": "Xiaomi launches Redmi Pad SE, Redmi Buds 5A and more in India, price starts from Rs 12,999 - India Today",
-      "description": "Xiaomi hosted the Smarter Living event today and introduced the Redmi Pad SE Redmi Earbuds 5A Robot Vacum Cleaner S10 and a handheld garment steamer The price of the Redmi Pad SE starts from Rs 12999",
-      "url": "https://www.indiatoday.in/technology/news/story/xiaomi-launches-redmi-pad-se-redmi-buds-5a-and-more-in-india-price-starts-from-rs-12999-2530586-2024-04-23",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202404/redmi-232835422-16x9_0.png?VersionId=8hzbkb1R_0HexmSRtjbteEX97zOIUUS8",
-      "publishedAt": "2024-04-23T07:29:19Z",
-      "content": "Xiaomi has just launched a couple of new devices in the market and the same will go on sale soon. The brand, during the live-streamed event called Smarter Living, introduced us to the Redmi Pad SE, R… [+5516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nanowerk"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
       "author": null,
-      "title": "Researchers pioneer nanosensor multiplexing for real-time decoding of different plant stresses - Nanowerk",
-      "description": "This is the first highly selective nanosensor for salicylic acid - a plant hormone key in mediating plant stress response and adaptation - that has been validated in living plants.",
-      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=65079.php",
-      "urlToImage": "https://www.nanowerk.com/nanotechnology-news3/id65079.jpg",
-      "publishedAt": "2024-04-23T07:25:13Z",
-      "content": "Nanowerk Newsletter\r\nGet our daily Nanotechnology News to your inbox!"
+      "title": "5 die trying to cross English Channel, reports say - The Associated Press",
+      "description": "French authorities say five people, including a child, died while trying to cross the English Channel. It occurred just hours after the British government approved a migrant bill to deport some of those who entered the country illegally to Rwanda. Authorities…",
+      "url": "https://apnews.com/article/france-migrants-death-english-channel-uk-00d73287212405d70fdb513cd791fcbd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a4b451f/2147483647/strip/true/crop/3072x1728+0+160/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2d%2Fe7%2F1ae22289673f51504f3d6cd28a36%2F6f76494b93944984bb75280e8623e5f0",
+      "publishedAt": "2024-04-23T13:28:00Z",
+      "content": "PARIS (AP) Five people, including a child, died while trying to cross the English Channel from France to the U.K., French authorities said Tuesday, just hours after the British government approved a … [+1880 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Chris Pandolfo, Michael Dorgan",
+      "title": "NYC riots: Anti-Israel agitators hurl bottles at NYPD, form human chain amid mass arrests - Fox News",
+      "description": "NYPD Deputy Commissioner of Operations Kaz Daughtry posted a video to X showing several bottles being flung at police during anti-Israel protests at New York University's (NYU) Monday.",
+      "url": "https://www.foxnews.com/us/nyc-riots-anti-israel-agitators-hurl-bottles-nypd-form-human-chain-mass-arrests",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/NYU-protest2.jpg",
+      "publishedAt": "2024-04-23T13:22:00Z",
+      "content": "Anti-Israel protests at New York University's (NYU) campus turned violent Monday night when demonstrators hurled bottles at police officers who were sent to the scene to disperse a large unruly crowd… [+4232 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deccan Herald"
+        "name": "Eos"
       },
-      "author": "DH Web Desk",
-      "title": "Believed to be the source of Ebola, this Kenya cave could be ground zero for the next pandemic - Deccan Herald",
+      "author": "Meghie Rodrigues",
+      "title": "What's Next for the Anthropocene? - Eos",
+      "description": "Researchers weigh in on the meaning and aftermath of the decision to reject designating “Anthropocene” as an official geological epoch.",
+      "url": "http://eos.org/articles/whats-next-for-the-anthropocene",
+      "urlToImage": "https://eos.org/wp-content/uploads/2024/04/technofossil.jpg",
+      "publishedAt": "2024-04-23T13:20:03Z",
+      "content": "In late March, the International Union of Geological Sciences (IUGS) issued a statement: The voting process that had rejected identifying the Anthropocene as a formal geological epoch a few weeks ear… [+5452 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Earth Week underway as UN committee debates plastics and microplastics. Here's why. - USA TODAY",
       "description": null,
-      "url": "https://www.deccanherald.com/world/believed-to-be-the-source-of-ebola-this-kenya-cave-could-be-ground-zero-for-the-next-pandemic-2990212",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-04%2F7f58e91d-7f7e-4978-adf7-1b125adc9e0a%2F973px_Kitum_Cave.jpg?rect=0%2C0%2C973%2C511&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2024-04-23T07:24:36Z",
-      "content": "But the Frenchman wasn't alone: seven years later, the Kitum Cave took its second victim, this time, a Danish school boy who died of a related hemorrhagic virus.\r\nFollowing the 1980s incidents, the U… [+1118 chars]"
+      "url": "https://www.usatoday.com/story/news/nation/2024/04/23/earth-week-2024-plastic-treaty-talks-begin/73418114007/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-23T13:18:12Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Hardik Pandya subtly targeted for 'smile and repeat nonsense' act as Dale Steyn wants 'honesty' on MI's scrappy show - Hindustan Times",
+      "description": "Dale Steyn took indirect shots at Pandya for constantly smiling in post-match talk despite the results not going in their favour. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/hardik-pandya-subtly-targeted-for-smile-and-repeat-nonsense-act-as-dale-steyn-wants-honesty-on-mi-scrappy-show-101713876480319.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/PTI04-11-2024-000345B-0_1713877017671_1713877257534.jpg",
+      "publishedAt": "2024-04-23T13:14:26Z",
+      "content": "Veteran South Africa pacer Dale Steyn has fired indirect shots at Hardik Pandya for his diplomatic reactions after Mumbai Indians' poor performances this season. Under Hardik's leadership, MI have fa… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Nikita Prasad",
+      "title": "Tata Consumer Products Q4 Results: Net profit drops 22% to ₹267 crore, revenue down 8.5% YoY; dividend declared | Mint - Mint",
+      "description": "Tata Consumer Products Q4 Results: The Tata Group-company's revenue from operations in the fourth quarter of current fiscal rose 8.5 per cent to  ₹3,927 crore, compared to  ₹3,619 crore in the year-ago period.",
+      "url": "https://www.livemint.com/companies/company-results/tata-consumer-products-q4-results-net-profit-drops-22-to-rs-267-crore-revenue-down-8-5-yoy-11713871343148.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/23/1600x900/tata_1713871766231_1713871766435.jpg",
+      "publishedAt": "2024-04-23T13:01:19Z",
+      "content": "Tata Consumer Products Q4 Results: Tata Consumer announced its January-March quarter results for fiscal 2023-24 (Q4FY24) on Tuesday, April 23, reporting a drop of 22.5 per cent in its net profit at 2… [+4157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "MintGenie Team",
+      "title": "Indians can now stay in 29 European countries for up to 2 years on Schengen visa - Mint",
+      "description": "Under the cascade regime, you can stay in Switzerland, Amsterdam, and/ or any other European countries such as Austria, Hungary, Poland, Belgium, Germany, France, among others, for as long as two years without any hiccups.",
+      "url": "https://www.livemint.com/news/india/indians-can-now-stay-in-switzerland-amsterdam-for-up-to-2-years-like-visa-free-nationals-check-details-11713872670152.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/23/1600x900/travel_1713873661625_1713873670662.jpg",
+      "publishedAt": "2024-04-23T12:45:36Z",
+      "content": "With European Union (EU) adopting favourable Schengen visa rules for Indians, the strength of Indian passport is arguably set to grow with travel to 29 European countries getting seamless and hassle-… [+3426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sandip Chakraborty",
+      "title": "Redmi Pad SE with 8000mAh battery, 90Hz display launched in India, Redmi Buds 5A also debut - Moneycontrol",
+      "description": "The Redmi Pad SE will be available from April 24 at a starting price of Rs 11,999 after offers. Redmi Buds have an introductory price of Rs 1,499",
+      "url": "https://www.moneycontrol.com/news/technology/redmi-pad-se-with-8000mah-battery-90hz-display-launched-in-india-redmi-buds-5a-also-debut-12704881.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/Redmi-Pad-SE.jpg",
+      "publishedAt": "2024-04-23T12:41:23Z",
+      "content": "Xiaomis sub-brand Redmi has announced the Redmi Pad SE and Redmi Buds 5A in India. The Redmi Pad SE has been available globally for quite some time now and offers great specifications at budget prici… [+1812 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
       },
       "author": null,
-      "title": "World Malaria Day 2024: Prevention Tips To Keep You And Your Family Safe - NDTV",
-      "description": "World Malaria Day 2024: Below we share prevention tips to help reduce your risk of getting malaria.",
-      "url": "https://www.ndtv.com/health/world-malaria-day-2024-prevention-tips-to-keep-you-and-your-family-safe-5503556",
-      "urlToImage": "https://i.ndtvimg.com/i/2018-04/world-malaria-day_650x400_51524553304.jpg",
-      "publishedAt": "2024-04-23T06:51:58Z",
-      "content": "World Malaria Day 2024: We can utilise this day to help understand and prevent it\r\nMalaria is a serious and sometimes fatal mosquito-borne infectious disease caused by parasites of the Plasmodium gen… [+3691 chars]"
+      "title": "Mistrial declared in case of Arizona rancher accused of fatally shooting Mexican migrant near border - CBS News",
+      "description": "The decision came after jurors failed to reach a unanimous decision after more than two full days of deliberation.",
+      "url": "https://www.cbsnews.com/news/mistrial-rancher-george-alan-kelly-fatally-shoots-gabriel-cuen-buitimea-arizona/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/23/211c0153-b1ce-4270-9049-a8b06299e531/thumbnail/1200x630/cea67cbd139f25446f720e070368b1b3/ap24109751881364.jpg?v=57e8fa9efcf044a821348136ff26ed69",
+      "publishedAt": "2024-04-23T12:38:14Z",
+      "content": "An Arizona judge declared a mistrial Monday in the case of a rancher accused of fatally shooting a Mexican man on his property near the U.S.-Mexico border. The decision came after jurors failed to re… [+3798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Chris Willman",
+      "title": "‘Tortured Poets Department’ Breaks Record for Weekly Vinyl Sales in Just Three Days, as Taylor Swift Sells 700,000 LPs Over a Weekend - Variety",
+      "description": "Taylor Swift's 'Tortured Poets Department' didn't need seven days to set a record for most vinyl sales in a week; it did it in three, with 700,000.",
+      "url": "https://variety.com/2024/music/news/vinyl-tortured-poets-department-breaks-record-weekly-sales-1235978774/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/04/taylor-tortured-poets-department-vinyl.jpg?w=1000&h=562&crop=1",
+      "publishedAt": "2024-04-23T12:30:00Z",
+      "content": "It feels potentially unlucky to talk about “breaking records” when the subject is actual LPs, but there’s no way around combining these terms when we’re talking Taylor Swift, the modern queen of viny… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Delhi rains, strong winds provide welcome relief from sweltering heat - Hindustan Times",
+      "description": "Delhi rains, strong winds provide welcome relief from sweltering heat | Latest News Delhi",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-rains-provide-welcome-relief-from-sweltering-heat-101713875030742.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/rain_1713878553251_1713878553467.jpeg",
+      "publishedAt": "2024-04-23T12:26:46Z",
+      "content": "Delhi rains: On Tuesday, residents of Delhi found relief from the sweltering heat as rains and strong winds lashed parts of the city.\r\nRainbow seen over India Gate at Kartavaya Path after sudden stro… [+2444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Chandra R Srikanth",
+      "title": "Gukesh win historic, India will dominate chess for many years like Russia: WestBridge Capital’s Sandeep... - Moneycontrol",
+      "description": "Sandeep Singhal and Viswanathan Anand together set up the WestBridge Anand Chess Academy four years ago, which is today a fountainhead of chess talent in India. WestBridge is also Gukesh’s sponsor.",
+      "url": "https://www.moneycontrol.com/news/technology/gukesh-win-historic-india-will-dominate-chess-for-many-years-like-russia-westbridge-capitals-sandeep-singhal-12705061.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/WhatsApp-Image-2024-04-23-at-4.56.31-PM.jpeg",
+      "publishedAt": "2024-04-23T12:15:11Z",
+      "content": "It wasnt a flight that Sandeep Singhal, the co-founder and managing partner at WestBridge planned to take but it turned out to be one that delivered extraordinary returns.\r\nHe saw 17-year-old Indian … [+7563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News9live.com"
+      },
+      "author": "Aditya Madanapalle",
+      "title": "Schoolbus-sized asteroid to zip past Earth, distance, speed details inside - News9 LIVE",
+      "description": "Asteroids that are around the same distance from the Sun as the Earth frequently make close approaches to the planet. There is no cause for concern among the general public. There are no major asteroid impacts expected for the next few centuries.",
+      "url": "https://www.news9live.com/science/schoolbus-sized-asteroid-to-zip-past-earth-distance-speed-details-inside-2509288",
+      "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/04/Asteroid-Close-Approach-Alert-1-2.jpg",
+      "publishedAt": "2024-04-23T12:10:10Z",
+      "content": "An illustration of a near Earth asteroid. (Image Credit: Bing Image Creator). \r\nNew Delhi: A tiny, schoolbus sized asteroid is scheduled for a close encounter with the Earth on 25 April, 2024. The sp… [+1827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Christin Mathew Philip",
+      "title": "Pannian Ravindran: Thiruvananthapuram's Left candidate who's lived in party office for 40 years - Moneycontrol",
+      "description": "The CPI candidate who dropped out of school due to poverty stands in contrast to his rivals - Congress party's sitting MP Shashi Tharoor and Union Minister of state Rajeev Chandrasekhar",
+      "url": "https://www.moneycontrol.com/elections/lok-sabha-election/pannian-ravindran-thiruvananthapurams-left-candidate-whos-lived-in-party-office-for-40-years-article-12703271.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/Pannyan-Raveendran.jpg",
+      "publishedAt": "2024-04-23T12:00:52Z",
+      "content": "Pannian Ravindran, the 78-year-old veteran communist leader - tall and lanky with shoulder-length hair - is quite a contrast to his two rivals contesting the Lok Sabha election from Kerala's capital … [+9174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Watch Rocket Lab launch new NASA solar sail tech to orbit today - Space.com",
+      "description": "Liftoff is scheduled for 6 p.m. ET tonight (April 23).",
+      "url": "https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/C6abNS8umo7TTCRJ5DAEU4-1200-80.jpg",
+      "publishedAt": "2024-04-23T12:00:34Z",
+      "content": "New NASA solar-sailing technology will make its way to orbit this evening (April 23), if all goes according to plan, and you can watch the action live.\r\nThe agency's Advanced Composite Solar Sail Sys… [+3357 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Kevin Pelton",
+      "title": "What history can tell us about the future of the Mavericks-Clippers series - ESPN",
+      "description": "Clippers-Mavericks Game 1 painted a very different picture than how each team finished the regular season. What can history tell us about teams peaking -- or fading -- post All-Star break, and what does it mean for the playoffs?",
+      "url": "https://www.espn.com/nba/insider/story/_/id/39999394/what-history-tell-us-future-mavericks-clippers-series",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0422%2Fr1322984_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-04-23T12:00:00Z",
+      "content": "The LA Clippers had the Western Conference's 11th-best record after the All-Star break at 15-14, trailing not only the other nine teams to make the postseason but also the Houston Rockets. Meanwhile,… [+1190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "TOI Sports Desk",
-      "title": "'Rohit Sharma is my captain': Irfan Pathan dissects Akash Madhwal's action amid Hardik Pandya's captaincy - The Times of India",
-      "description": "Cricket News: Former Indian all-rounder Irfan Pathan analyzed Mumbai Indians' Akash Madhwal favouring Rohit Sharma's advice over Hardik Pandya's in a crucial IPL 20",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-is-my-captain-irfan-pathan-dissects-akash-madhwals-action-amid-hardik-pandyas-captaincy-woes-for-mumbai-indians/articleshow/109521830.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109523262,width-1070,height-580,imgsize-47868,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-23T06:47:00Z",
+      "author": "etimes.in",
+      "title": "Hepatitis prevention: Importance of vaccination and safe practices to prevent liver infections - The Times of India",
+      "description": "Prioritizing liver health through vaccination, safe practices, and education is vital in combating hepatitis. Vaccination stands as one of the most ef",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/hepatitis-prevention-importance-of-vaccination-and-safe-practices-to-prevent-liver-infections/articleshow/109519039.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109519002,width-1070,height-580,imgsize-615333,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-23T11:30:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Technical View: 22,500 crucial for further upside in Nifty, India VIX at 9-month low - Moneycontrol",
+      "description": "The monthly options data suggested that the Nifty may face hurdle at 22,400-22,500 levels on the higher side, with crucial support at 22,000 level.",
+      "url": "https://www.moneycontrol.com/news/business/markets/technical-view-22500-crucial-for-further-upside-in-nifty-india-vix-at-9-month-low-12704281.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/stocks_market-stock_stock-770x433.jpg",
+      "publishedAt": "2024-04-23T11:17:53Z",
+      "content": "The Nifty 50 ended a rangebound and volatile session moderately higher on April 23, continuing its northward journey for three days in a row. The index continued higher tops, higher bottoms formation… [+3009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Salman Khan house firing: Mumbai cops recover 2 pistols, 13 bullets from Gujarat's Tapi river - Hindustan Times",
+      "description": "Salman Khan house firing: A team of 12 officials, including 'encounter specialist' senior police inspector Daya Nayak, began the search in Tapi River on Monday. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/salman-khan-house-firing-mumbai-cops-recover-2-pistols-13-bullets-from-gujarats-tapi-river-101713866201095.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/PTI04-22-2024-RPT106B-0_1713866673366_1713867019179.jpg",
+      "publishedAt": "2024-04-23T11:14:56Z",
+      "content": "The Mumbai Police Crime Branch on Tuesday recovered two pistols, 13 bullets, and three magazines from the Tapi River in Gujarat. According to the police, the recovered weapons were allegedly used for… [+2219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Emily Crane",
+      "title": "Chilling video shows screaming woman begging for help at stranger's house before being kidnapped - New York Post ",
+      "description": "A terrified woman was captured on a doorbell camera begging for help just moments before a bearded man suddenly came up behind and kidnapped her, police said.",
+      "url": "https://nypost.com/2024/04/23/us-news/video-shows-woman-screaming-for-help-before-being-kidnapped/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-tggao8djd-1713874000640.jpg?quality=75&strip=all&1713859776&w=1024",
+      "publishedAt": "2024-04-23T11:12:27Z",
+      "content": "Chilling doorbell footage caught a terrified woman begging for help at a stranger’s front door just moments before a bearded man came up and kidnapped her, police said. \r\nThe horrifying footage showe… [+1648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCGamesN"
+      },
+      "author": "Ed Smith",
+      "title": "Fallout London may be “forced” into launch despite Fallout 4 next gen - PCGamesN",
+      "description": "Fallout London is a transformative mod that was previously delayed, but the dev says it may be forced to launch despite Fallout 4 next gen.",
+      "url": "https://www.pcgamesn.com/fallout-london/launch-change",
+      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/04/fallout-london-release-date-fallout-4-mod-bethesda-rpg-games-1.jpg",
+      "publishedAt": "2024-04-23T10:51:56Z",
+      "content": "With Starfield DLC and The Elder Scrolls 6 still in the works, Fallout London feels like the closest thing to a genuine Fallout 5 that we could see for a while. A gigantic mod that relocates Bethesda… [+3117 chars]"
     },
     {
       "source": {
@@ -125,50 +684,11 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Rishi Sunak's Rwanda bill to become law after late-night showdown - BBC.com",
-      "description": "Parliamentary stand-off ends, opening the way for asylum seekers to be sent to the African country.",
-      "url": "https://www.bbc.com/news/uk-politics-68840441",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89B3/production/_133215253_sunak_getty.jpg",
-      "publishedAt": "2024-04-23T06:29:46Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ben Golliver",
-      "title": "Knicks steal Game 2 from 76ers with miraculous 8-0 closing flourish - The Washington Post",
-      "description": "Sixers Coach Nick Nurse wanted a timeout during the chaotic closing sequence but the refs didn’t grant him one. Instead, the 76ers go home down 2-0 in the series.",
-      "url": "https://www.washingtonpost.com/sports/2024/04/22/knicks-sixers-wild-finish-nurse-maxey/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4XYPP4EEROEZ526E5JL5TXIFU.jpg&w=1440",
-      "publishedAt": "2024-04-23T06:27:40Z",
-      "content": "The Philadelphia 76ers appeared headed home with a split at Madison Square Garden before the New York Knicks delivered a miraculous closing flourish that will go down in Gotham lore.\r\nUsing an 8-0 pu… [+4622 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "On cam: High Precision Strike Destroys Kharkiv TV Tower Hours After Putin Annexes Donetsk Village - The Times of India",
-      "description": "A high precision strike by Russian forces hit a large TV tower located in Ukraine’s KharkIv. The TV tower, once the tallest building in the city, toppled just like a pack of cards as a projectile hit it. According to pro-Russian locals, Kyiv’s milita",
-      "url": "https://timesofindia.indiatimes.com/videos/international/on-cam-high-precision-strike-destroys-kharkiv-tv-tower-hours-after-putin-annexes-donetsk-village/videoshow/109522331.cms",
-      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-109522331,imgsize-124212.cms",
-      "publishedAt": "2024-04-23T06:24:40Z",
-      "content": "Apr 23, 2024, 11:54AM ISTSource: TOI.inA high precision strike by Russian forces hit a large TV tower located in Ukraines KharkIv. The TV tower, once the tallest building in the city, toppled just li… [+293 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI News Desk",
-      "title": "Supreme Court says Patanjali apology in newspapers should be same size as its advertisements - The Times of India",
-      "description": "India News: Mukul Rohatgi, appearing for Ramdev, said that an apology has been published in newspapers. But the Supreme Court reprimanded him on why the apology w",
-      "url": "https://timesofindia.indiatimes.com/india/supreme-court-says-patanjali-apology-in-newspapers-should-be-same-size-as-its-advertisements/articleshow/109521055.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109522082,width-1070,height-580,imgsize-1315763,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-23T06:23:00Z",
+      "title": "Arvind Kejriwal: Diabetic Delhi leader finally gets insulin jab in jail - BBC.com",
+      "description": "Chief Minister Arvind Kejriwal, who was detained in mid-March, said he had repeatedly ask for insulin.",
+      "url": "https://www.bbc.com/news/world-asia-india-68879403",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5F79/production/_133214442_gettyimages-1139291025.jpg",
+      "publishedAt": "2024-04-23T10:51:08Z",
       "content": null
     },
     {
@@ -176,39 +696,143 @@
         "id": null,
         "name": "Livelaw.in"
       },
-      "author": "Amisha Shrivastava",
-      "title": "Breaking | Bombay High Court Upholds Syedna Mufaddal Saifuddin's Position As 53rd Spiritual Leader Of... - Live Law - Indian Legal News",
-      "description": "After a ten-year long legal battle, the Bombay High Court has upheld Syedna Mufaddal Saifuddin's position as “Dai-al-Mutlaq” or the religious leader of the Dawoodi Bohra community, dismissing his...",
-      "url": "https://www.livelaw.in/top-stories/bombay-high-court-syedna-mufaddal-dai-dawoodi-bohra-community-255842",
-      "urlToImage": "https://www.livelaw.in/h-upload/2023/04/05/466954-syedna-taher-fakruddin-and-syedna-mufaddal-saifuddin.webp",
-      "publishedAt": "2024-04-23T06:17:15Z",
-      "content": "After a ten-year long legal battle, the Bombay High Court has upheld Syedna Mufaddal Saifuddin's position as Dai-al-Mutlaq or the religious leader of the Dawoodi Bohra community, dismissing his nephe… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "NICK PERRY, DAVE COLLINS, MICHELLE L. PRICE",
-      "title": "Pro-Palestinian protests sweep US college campuses following mass arrests at Columbia - The Associated Press",
-      "description": "Columbia University canceled in-person classes and police arrested dozens of students at New York University and Yale as tensions over Israel's war with Hamas continue to grow on U.S. college campuses. The moves at the Ivy League schools came hours before Mon…",
-      "url": "https://apnews.com/article/columbia-yale-israel-palestinians-protests-56c3d9d0a278c15ed8e4132a75ea9599",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a5d6718/2147483647/strip/true/crop/1800x1013+0+94/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F37%2F942b382d25464cf966ee688e7ac9%2F95be58d878d34c4a98f0cd010f4ad73c",
-      "publishedAt": "2024-04-23T06:01:00Z",
-      "content": "NEW YORK (AP) Columbia canceled in-person classes, dozens of protesters were arrested at New York University and Yale, and the gates to Harvard Yard were closed to the public Monday as some of the mo… [+8029 chars]"
+      "author": "Debby Jain",
+      "title": "Patanjali Case : Supreme Court Questions Ayush Ministry Letter Asking States To Not Act Against Ads Of... - Live Law - Indian Legal News",
+      "description": "During the hearing of the contempt case against Patanjali over the publication of misleading advertisements, the Supreme Court on Tuesday (April 23) asked the Union Government why a letter was...",
+      "url": "https://www.livelaw.in/top-stories/patanjali-case-supreme-court-questions-ayush-ministry-letter-asking-states-to-not-act-against-ads-of-ayurvedic-unani-siddha-drugs-255897",
+      "urlToImage": "https://www.livelaw.in/h-upload/2024/04/23/535497-ayush-ministry-and-sc.webp",
+      "publishedAt": "2024-04-23T10:29:55Z",
+      "content": "During the hearing of the contempt case against Patanjali over the publication of misleading advertisements, the Supreme Court on Tuesday (April 23) asked the Union Government why a letter was issued… [+3589 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "ET Bureau",
-      "title": "Vi shares jump nearly 6% a day after Rs 18,000 crore FPO sails through - The Economic Times",
-      "description": "Last week, Vi had raised Rs 5400 crore from 74 anchor investors by allotting 4.91billion shares at Rs 11 apiece.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vi-shares-jump-nearly-6-a-day-after-rs-18000-crore-fpo-sails-through/articleshow/109521615.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-109521579,width-1200,height-630,imgsize-65354,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-04-23T05:59:47Z",
+      "author": "ANI",
+      "title": "top IPOs: Look, how India's 10 biggest IPOs & FPOs have fared over years - Large Issues - The Economic Times",
+      "description": "Here's a look at how the biggest fundraises by Indian companies in the form of IPOs and FPOs have fared. (Source: Capitaline | ET Bureau) ​Large Issues",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/look-how-indias-10-biggest-ipos-amp-fpos-have-fared-over-years/large-issues/slideshow/109531073.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-109531073,width-1070,height-580,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-04-23T10:25:40Z",
+      "content": "Apr 23, 2024, 03:50:30 PM IST\r\nHere's a look at how the biggest fundraises by Indian companies in the form of IPOs and FPOs have fared. (Source: Capitaline | ET Bureau)\r\nIssue Size: Rs 20,557 croreYe… [+751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Republic World"
+      },
+      "author": "Apoorva Shukla",
+      "title": "This is Why BJP Dropped Ladakh Sitting MP Jamyang Tsering Namgyal? - Republic World",
+      "description": "New Delhi: Ending the long-standing suspense over its candidate from Ladakh, the Bharatiya Janata Party on Tuesday, April 23, announced its candidate for the upcoming Lok Sabha elections. The BJP has dropped its sitting MP Jamyang Tsering Namgyal and has fiel…",
+      "url": "https://www.republicworld.com/elections/lok-sabha-elections-2024/bjp-drops-sitting-ladakh-mp-jamyang-tsering-namgyal-fields-tashi-gyalson-for-lok-sabha-elections",
+      "urlToImage": "https://img.republicworld.com/rimages/untitleddesign-2024-04-23t152722.495-171386626931816_9.webp",
+      "publishedAt": "2024-04-23T10:15:00Z",
+      "content": "New Delhi: Ending the long-standing suspense over its candidate from Ladakh, the Bharatiya Janata Party on Tuesday, April 23, announced its candidate for the upcoming Lok Sabha elections. The BJP has… [+1069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Baby Reindeer: Richard Gadd asks viewers to stop speculating - BBC.com",
+      "description": "The Netflix series depicts the true story of a stalker who harassed Gadd over a number of years.",
+      "url": "https://www.bbc.com/news/articles/c4n187n8rlvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1e55/live/1f056010-0142-11ef-8369-47dc4454b972.jpg",
+      "publishedAt": "2024-04-23T10:08:23Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Sumedha Kirti, Reethu M",
+      "title": "'Promised Her on the Grave...': Neha Hiremath's Father Apologises to Karnataka Govt - News18",
+      "description": "Niranjan Hiremath demanded that a law be formulated to deal with cases like his daughter's, and the 'fast-track court be named after Neha Hiremath'.",
+      "url": "https://www.news18.com/india/neha-hiremath-murder-latest-news-father-says-sorry-to-karnataka-govt-8862803.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/niranjan-hiremath-neha-hubballi-murder-love-jihad-2024-04-f9263147fed96084b8196485859db5a3-16x9.png?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-23T10:06:00Z",
+      "content": "Karnataka Congress corporator Niranjan Hiremath on Tuesday apologised for speaking against the Karnataka government after his 23-year-old daughter, Neha, was killed inside her college campus. He dema… [+2663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Peter",
+      "title": "Lava unveils Prowatch ZN and VN, its first smartwatches - GSMArena.com news - GSMArena.com",
+      "description": "One is round, the other rectangular and both run a proprietary OS. Lava is launching its first smartwatches – the company starts off with two models, one...",
+      "url": "https://www.gsmarena.com/lava_unveils_prowatch_zn_and_vn_its_first_smartwatches-news-62563.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/lava-prowatch-zn-vn-announcement/-952x498w6/gsmarena_0000.jpg",
+      "publishedAt": "2024-04-23T10:02:02Z",
+      "content": "Lava is launching its first smartwatches the company starts off with two models, one round and one rectangular, both under the name Prowatch. They will be available in India later this week through t… [+2931 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "Facebook parent Meta to partner with Microsoft, Asus, Lenovo for VR operating system to take on Apple - The Times of India",
+      "description": "TECH NEWS : Meta expands Horizon OS to partners like Microsoft, Asus, Lenovo, focusing on an open computing model. Zuckerberg criticizes Apple's closed model, pro",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/facebook-parent-meta-to-partner-with-microsoft-asus-lenovo-for-vr-operating-system-to-take-on-apple/articleshow/109529904.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109529860,width-1070,height-580,imgsize-29288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-23T09:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Ban On MDH, Everest Masala: India Seeks Details From Singapore, Hong Kong Food Regulators - NDTV",
+      "description": "India, the world's largest producer, consumer and exporter of spices, has sought details from food safety regulators of Singapore and Hong Kong, which has banned certain spices of Indian brands MDH and Everest.",
+      "url": "https://www.ndtv.com/india-news/ban-on-mdh-everest-masala-india-seeks-details-from-singapore-hong-kong-food-regulators-5504481",
+      "urlToImage": "https://c.ndtvimg.com/2024-04/btqj1nk8_mdh-everest-masala-_625x300_22_April_24.jpg",
+      "publishedAt": "2024-04-23T09:48:59Z",
+      "content": "India sought details from food safety regulators of Singapore and Hong Kong over MDH and Everest masala\r\nNew Delhi: India, the world's largest producer, consumer and exporter of spices, has sought de… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koimoi"
+      },
+      "author": "Joginder Tuteja",
+      "title": "Do Aur Do Pyaar Box Office Collections Day 4: Collects 50 Lakhs On 1st Monday - Koimoi",
+      "description": "Do Aur Do Pyaar certainly deserves better than what it’s getting because it does have merits to find a larger audience count at the urban multiplexes.",
+      "url": "https://www.koimoi.com/box-office/do-aur-do-pyaar-box-office-collections-day-4-collects-50-lakhs-on-1st-monday/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2024/04/box-office-do-aur-do-pyaar-collects-50-lakhs-on-monday-01.jpg",
+      "publishedAt": "2024-04-23T09:27:13Z",
+      "content": "Do Aur Do Pyaar Box Office Collections Day 4: Collects 50 Lakhs On 1st Monday ( Photo Credit Instagram )\r\nAfter bringing in 80 lakhs on Monday and then growing to 3.43 crores over the weekend, Do Aur… [+1563 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "From a grand entry to flower shower fight with fiancé Dipak Chauhan, fun moments with brother Krushna and more: Arti Singh’s extravagant Haldi ceremony - The Times of India",
+      "description": "On April 22, 2024, Arti Singh's family organized a haldi ceremony for her. Numerous photos and videos from the event have become popular on social media. From fun moments to dhol and nagada, her Haldi event was truly a dreamy affair. The actress gave a sneak …",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/from-a-grand-entry-to-flower-shower-fight-with-fianc-dipak-chauhan-fun-moments-with-brother-krushna-and-more-arti-singhs-extravagant-haldi-ceremony/photostory/109528104.cms",
+      "urlToImage": "https://static.toiimg.com/photo/109528138.cms",
+      "publishedAt": "2024-04-23T08:04:16Z",
+      "content": "The Bigg Boss 13 star was spotted dancing with his fiancé, Dipak Chauhan, on the song 'Mehendi laga ke Rakhna'. To make the moment extra special for his partner, he lifted her up and danced. The coup… [+201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Editorji.com"
+      },
+      "author": "Editorji News Desk",
+      "title": "Mumps cases continue to rise in other states and Delhi-NCR, know symptoms and precautions - Editorji",
+      "description": "People who are not immune to the virus through vaccination or prior infection are at risk of contracting mumps when exposed to an infected individual.",
+      "url": "https://www.editorji.com/lifestyle-news/health/mumps-cases-continue-to-rise-in-other-states-and-delhi-ncr-know-symptoms-and-precautions-1713854021763",
+      "urlToImage": "https://cdn.editorji.com/cBaTK5amE3.jpg",
+      "publishedAt": "2024-04-23T06:33:41Z",
+      "content": "After Kerala, Maharashtra, Telangana and Andhra Pradesh, more and more cases of mumps are rising in Delhi-NCR.\r\nAccording to government data, 15,637 cases of mumps were reported till March this year.… [+1236 chars]"
     },
     {
       "source": {
@@ -226,19 +850,6 @@
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT News Desk",
-      "title": "Lok Sabha Election 2024 LIVE: Modi wishes Hanuman Jayanti during rally in Tonk - Hindustan Times",
-      "description": "Lok Sabha elections 2024: Prime Minister Narendra Modi is scheduled to conduct election rallies in Rajasthan's Tonk and Sawai Madhopur today.",
-      "url": "https://www.hindustantimes.com/india-news/lok-sabha-election-2024-live-updates-narendra-modi-rahul-gandhi-bjp-congress-india-2024-latest-april-22-tmc-rjd-sp-101713832598980.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/550x309/INDIA-ELECTION-RELIGION-MODI-0_1713846210159_1713846236277.JPG",
-      "publishedAt": "2024-04-23T05:11:10Z",
-      "content": "Lok Sabha elections 2024 LIVE: After the initial round of polling for the general elections held on April 19, the second phase is slated for April 26. During the first phase of the Lok Sabha polls, s… [+6088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PINKVILLA"
       },
       "author": "Jatinder Singh",
@@ -248,110 +859,6 @@
       "urlToImage": "https://www.pinkvilla.com/images/2024-04/1282399646_ghilli-3.jpg",
       "publishedAt": "2024-04-23T04:56:46Z",
       "content": "Ghilli (re-release) demonstrated an outstanding hold on its first working day yesterday, grossing Rs. 1.70 crore approx in Tamil Nadu, which represents a mere 50 per cent dip from its Sunday business… [+1726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Shankhyaneel Sarkar, News Desk",
-      "title": "Iran Proxy Hezbollah Fires Missile Barrage At Israeli Army Headquarters As Middle East Tensions Simmer, IDF - News18",
-      "description": "Hezbollah claims it struck the headquarters of the 3rd Infantry Brigade of the 91st Division at Ein Zeitim Base.",
-      "url": "https://www.news18.com/world/hezbollah-says-it-fired-dozens-of-rockets-at-israel-army-hq-8862489.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/idf-arzoun-strike-before-after-combo-2024-04-8424373dc85ee1b958888e8ca9b7e852-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-04-23T04:51:00Z",
-      "content": "Hamas ally and Iranian proxy Hezbollah on Monday in a statement said it fired dozens of Katyusha rockets at an army headquarters in northern Israel. The Lebanese militants said it was a retaliatory m… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Sports Desk",
-      "title": "Gavaskar to 'Mumbai boy' Yashasvi Jaiswal on live TV after RR beat MI: 'Can't you score these centuries against others?' - Hindustan Times",
-      "description": "Sunil Gavaskar asked Yashasvi Jaiswal a question that we're sure every Mumbaikar had on their mind. | Cricket",
-      "url": "https://www.hindustantimes.com/cricket/gavaskar-to-mumbai-boy-yashasvi-jaiswal-on-live-tv-after-rr-beat-mi-cant-you-score-these-centuries-against-others-101713846999808.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/gavaskar-jaiswal-getty-ani_1713847370316_1713847375502.jpg",
-      "publishedAt": "2024-04-23T04:47:36Z",
-      "content": "Yashasvi Jaiswal has finally arrived in IPL 2024. After a string of low scores, the Rajasthan Royals opener pummelled the second century of his Indian Premier League career to take his team to victor… [+2911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "M&M Finance tanks 8% as co defers board meet after Rs 150 cr fraud detected at a North East branch - Moneycontrol",
-      "description": "The fraud involved forgery of KYC documents related to retail vehicle loans, resulting in the misappropriation of company funds.",
-      "url": "https://www.moneycontrol.com/news/business/markets/mm-finance-postpones-earnings-announcement-due-to-fraud-uncovered-in-north-east-branch-12697431.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/AI-for-fraud-detection-1-770x433.jpg",
-      "publishedAt": "2024-04-23T04:35:52Z",
-      "content": "Shares of M&amp;M Financial Services plunged 8 percent in early trade on April 23 after the company postponed its scheduled board meeting, originally planned for today, to discuss its fourth-quarter … [+1613 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "China's Economy Is 'Failing,' U.S. Indo-Pacific Commander Says - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/world/asia/chinas-economy-is-failing-u-s-indo-pacific-commander-says-b747f3af",
-      "urlToImage": null,
-      "publishedAt": "2024-04-23T04:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Coolie Teaser: Behold The Glory Of Rajinikanth In Thalaivar 171 - NDTV Movies",
-      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
-      "url": "https://www.ndtv.com",
-      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
-      "publishedAt": "2024-04-23T04:17:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Aaron Katersky, Julia Reinstein, Olivia Rubin, Peter Charalambous, Lucien Bruggeman",
-      "title": "Top 4 takeaways from Day 5 of Trump's hush money trial - ABC News",
-      "description": "Attorneys delivered opening statements Monday in Trump's trial in New York.",
-      "url": "https://abcnews.go.com/US/top-4-takeaways-day-5-trumps-hush-money/story?id=109505914",
-      "urlToImage": "https://i.abcnewsfe.com/a/38d8026b-1f80-4328-b5d9-723bd2c17a8c/trump10-ap-ml-240422_1713796028109_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2024-04-23T04:07:30Z",
-      "content": "Day 5 of Donald Trump's criminal hush money trial was also the first day of legal arguments before jurors.\r\nProceedings lasted little more than three hours on Monday, but both parties delivered openi… [+4110 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Andy Carey, Tim Lister",
-      "title": "‘Our artillery is starving:’ Ukraine holds its breath as US set to approve $60bn of military aid - CNN",
-      "description": "Ukraine looks forward to new US military aid, but challenges remain",
-      "url": "https://www.cnn.com/2024/04/22/europe/ukraine-awaits-us-military-aid-intl-cmd/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2147974805.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-23T04:01:00Z",
-      "content": "Soldiers on the front lines in Ukraine say the prospect of final approval in the US Congress of a $60 billion military aid package for Kyiv will serve as a giant morale boost as Russia looks to step … [+6562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Australian PM calls Elon Musk an 'arrogant billionaire' in row over attack footage - BBC.com",
-      "description": "Anthony Albanese's comments come amid a feud over X's reluctance to remove footage of a stabbing.",
-      "url": "https://www.bbc.com/news/world-australia-68878967",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13971/production/_133214208_b1f5018d0c801b3128dc56aa7b0d1290700f7cb50_60_5500_30941000x563.jpg",
-      "publishedAt": "2024-04-23T03:44:45Z",
-      "content": null
     },
     {
       "source": {
@@ -368,237 +875,16 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "JON GAMBRELL",
-      "title": "Satellite photos suggest Iran air defense radar struck in Isfahan during apparent Israeli attack - The Associated Press",
-      "description": "New satellite photos suggest an apparent Israeli retaliatory strike targeting Iran’s central city of Isfahan hit a radar system for a Russian-made air defense battery, contradicting repeated denials by officials in Tehran of any damage in the assault. The str…",
-      "url": "https://apnews.com/article/iran-israel-s300-radar-hit-isfahan-attack-ce6719d3df8ebf5af08b035427ee215c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a69bec6/2147483647/strip/true/crop/2009x1130+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F7e%2Fb9cc1dba7b7c02c9d3e0bdb904df%2F607c9af1e3984e5bb39f48ce7c461380",
-      "publishedAt": "2024-04-23T03:20:00Z",
-      "content": "JERUSALEM (AP) Satellite photos taken Monday suggest an apparent Israeli retaliatory strike targeting Irans central city of Isfahan hit a radar system for a Russian-made air defense battery, contradi… [+4855 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Entertainment Desk",
-      "title": "Salman Khan house firing: Mumbai police recover gun and cartridges from Tapi river in Surat - Deets insid - TOI Etimes",
-      "description": "The Mumbai police have launched a search operation in the Tapi river in Surat to locate the gun believed to have been used by two individuals in a sho",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-house-firing-mumbai-police-recover-gun-and-cartridges-from-tapi-river-in-surat-deets-inside/articleshow/109517131.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-109517131,width-1070,height-580,imgsize-19704,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-23T03:14:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "The Cut"
       },
-      "author": null,
-      "title": "Arvind Kejriwal Administered Insulin In Tihar Jail After Sugar Levels Soar - NDTV",
-      "description": "Arvind Kejriwal was on Monday night administered insulin at Tihar jail after his blood sugar level soared, reaching 320. The AAP chief yesterday accused the Tihar jail administration of not providing him with insulin despite repeated requests.",
-      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-administered-insulin-in-tihar-jail-after-sugar-levels-soar-5502344",
-      "urlToImage": "https://c.ndtvimg.com/2024-04/hb1ndiok_arvind-kejriwal-pti_625x300_12_April_24.jpeg",
-      "publishedAt": "2024-04-23T03:08:58Z",
-      "content": "New Delhi: Delhi Chief Minister Arvind Kejriwal was on Monday night administered insulin at Tihar jail after his blood sugar level soared, reaching 320. The AAP chief yesterday accused the Tihar jail… [+2718 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Arrowhead Pride"
-      },
-      "author": "Pete Sweeney",
-      "title": "Chiefs News: KC reportedly signs Andy Reid, GM Brett Veach through 2029 - Arrowhead Pride",
-      "description": "Head coach Andy Reid and general manager Brett Veach reportedly signed contracts through the 2029 season. Team president Mark Donovan also received an extension.",
-      "url": "https://www.arrowheadpride.com/2024/4/22/24137912/chiefs-news-andy-reid-brett-veach-mark-donovan-2029",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/crVfD0zWa54rxYgGX72MBapXy7I=/0x150:3155x1802/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25413359/usa_today_19998756.jpg",
-      "publishedAt": "2024-04-23T03:00:00Z",
-      "content": "On Monday evening, the Kansas City Chiefs announced contract extensions for head coach Andy Reid and their top front office executives, general manager Brett Veach and team president Mark Donovan. \r\n… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech Times"
-      },
-      "author": "Isaiah Richard",
-      "title": "NASA Dragonfly Mission: $3.35 B Saturn Moon ‘Titan’ Exploration Now Approved - Tech Times",
-      "description": "NASA approves the Dragonfly mission to explore Saturn's Titan moon with a $3.35 billion budget.",
-      "url": "https://www.techtimes.com/articles/303873/20240422/nasa-dragonfly-mission-3-35-b-saturn-moon-titan-exploration.htm",
-      "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/446215/dragonfly.png",
-      "publishedAt": "2024-04-23T02:46:11Z",
-      "content": "Last week, NASA officially approved and confirmed the Dragonfly mission, which has a $3.35 billion budget for the entire mission. The mission will explore Saturn's moon Titan.\r\n The project was first… [+3263 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Natalie Neysa Alund",
-      "title": "The Lyrid meteor shower will peak on April 21, April 22: What to know - USA TODAY",
-      "description": "The Lyrid meteor shower will peak starting in the late evening hours of Sunday April 21 through dawn on Monday April 22.",
-      "url": "https://www.usatoday.com/story/news/nation/2024/04/21/lyrid-meteor-shower-2024-peak-april/73326426007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/15/USAT/73325072007-1220044658.jpg?crop=5897,3317,x0,y614&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2024-04-23T02:10:44Z",
-      "content": "Get ready for another show in the sky, space fans. This time it will be a shooting star show.\r\nThe Lyrid meteor shower will peak in 2024 starting late Sunday night on April 21 and last through dawn o… [+2111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Oindrila Mukherjee, Aman Sharma",
-      "title": "Lok Sabha Polls: How Surat 'Miracle' Got BJP to Win its First LS Seat Uncontested - News18",
-      "description": "The last time a candidate won a regular Lok Sabha election uncontested, was 1989 with the National Conference for the Srinagar seat. The Congress has won uncontested on 22 such occasions till 1977",
-      "url": "https://www.news18.com/elections/lok-sabha-polls-how-surat-miracle-got-bjp-to-win-its-first-lok-sabha-seat-uncontested-8862376.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-32-2024-04-a8a7f01ae3cce5957417684294b436a2-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-04-23T02:08:00Z",
-      "content": "A total of 15 candidates filed nominations, eight of them withdrew, six other nominations, including those of two Congress candidates and a BSP candidate were rejected, and the BJPs Mukeshkumar Chand… [+2237 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "POLITICO",
-      "title": "Republicans are starting to worry about RFK Jr. - POLITICO",
-      "description": null,
-      "url": "https://www.politico.com/news/2024/04/22/republicans-are-starting-to-worry-about-rfk-jr-00153763",
-      "urlToImage": null,
-      "publishedAt": "2024-04-23T02:02:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Christian Arnold",
-      "title": "Zach Wilson's mom Lisa, family celebrate QB's 'fresh start' with Broncos after Jets trade - New York Post ",
-      "description": "Lisa shared several posts on her Instagram story reacting to the news, which included sharing a photoshopped image of Wilson in a Broncos jersey.",
-      "url": "https://nypost.com/2024/04/22/sports/zach-wilsons-mom-celebrates-qbs-fresh-start-with-broncos/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-031rkvbo9-1713833856803.jpg?quality=75&strip=all&1713819606&w=1024",
-      "publishedAt": "2024-04-23T01:57:00Z",
-      "content": "The only person more excited about Zach Wilsons trade to the Broncos than the QB himself might just be his mother, Lisa Wilson. \r\nThe now-former Jets quarterback was traded Monday, a little less than… [+1970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Rinku Ghosh, Anonna Dutt",
-      "title": "Is your masala pack upping your cancer risk? FSSAI to test samples of MDH, Everest spice mixes after Hong Kong, Singapore withdraw them over contaminant - The Indian Express",
-      "description": "FSSAI doesn’t permit use of ethylene oxide in any food product. Nutritionist explains how it harms the body.",
-      "url": "https://indianexpress.com/article/health-wellness/masala-cancer-risk-fssai-test-mdh-everest-spice-mixes-hong-kong-singapore-contaminant-9285419/",
-      "urlToImage": "https://images.indianexpress.com/2024/04/spice.jpg",
-      "publishedAt": "2024-04-23T01:51:29Z",
-      "content": "Do the spice mixes that you pick up from the shop shelf contain cancer-causing chemicals that may harm your health in the long run? This is the big question that the countrys apex food regulator, the… [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Indian stock market: 6 key things that changed for market overnight - Gift Nifty, Tesla shares to Reliance Q4 results | Mint - Mint",
-      "description": "Indian stock market: Gift Nifty was trading around the 22,415 level, a premium of nearly 55 points from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-6-key-things-that-changed-for-market-overnight-gift-nifty-japan-pmi-to-reliance-q4-results-11713835722828.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/23/1600x900/a533786c6e704a418a6000_1713836091964_1713836092154.jpg",
-      "publishedAt": "2024-04-23T01:37:01Z",
-      "content": "Indian stock market: The domestic equity market indices, Nifty 50 and Sensex, are expected to open higher following positive global market cues amid improved sentiment. Asian markets traded higher, w… [+4086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Garena Free Fire Max redeem codes for April 23, 2024: Win free diamonds, skins and more | Mint - Mint",
-      "description": "Garena Free Fire Max redeem codes for April 23, 2024: Free Fire Max redeem codes for today are now available and can be used by the gamers to get access to many premium in-game items for free.",
-      "url": "https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-april-23-2024-win-free-diamonds-skins-and-more-11713832843033.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/23/1600x900/gg_1668573752178_1713834304386.png",
-      "publishedAt": "2024-04-23T01:30:24Z",
-      "content": "Garena Free Fire Max redeem codes for April 23, 2024: Garena Free Fire Max rose to prominence after the ban on its predecessor Garena Free Fire by the Indian government in 2022. Since then, the battl… [+2338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Gadgets 360 Staff",
-      "title": "Realme Narzo 70X 5G: Launch Date, Expected Price in India, Features, Specifications, and More - Gadgets 360",
-      "description": "Realme is all set to launch a new budget champ from its Narzo series. Here's everything you need to know.",
-      "url": "https://www.gadgets360.com/mobiles/features/realme-narzo-70x-5g-roundup-price-in-india-features-launch-date-5497280",
-      "urlToImage": "https://i.gadgets360cdn.com/large/2_1713781297140.png",
-      "publishedAt": "2024-04-23T01:30:01Z",
-      "content": "Realme is all set to launch a new budget-centric smartphone under its Narzo series, known as Realme Narzo 70x 5G. The upcoming Realme smartphone will be a direct successor to the Realme Narzo 60x 5G,… [+3734 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "\"It Was Election Fraud\": Trump Accused Of Paying Hush Money To Porn Star - NDTV",
-      "description": "Prosecutors launched the hush-money trial of Donald Trump by revealing new details Monday about how they seek to prove the former president corrupted the 2016 election to bury a sex scandal.",
-      "url": "https://www.ndtv.com/world-news/it-was-election-fraud-trump-accused-of-paying-hush-money-to-porn-star-5501982",
-      "urlToImage": "https://c.ndtvimg.com/2024-04/m8r7012g_donald-trump-afp-_625x300_23_April_24.jpeg?ver-20240422.08",
-      "publishedAt": "2024-04-23T01:17:02Z",
-      "content": "The trial takes place as Trump, 77, seeks to return to the White House\r\nProsecutors launched the hush-money trial of Donald Trump by revealing new details Monday about how they seek to prove the form… [+5586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Old Windows print spooler bug is latest target of Russia's Fancy Bear gang - The Register",
-      "description": "Putin's pals use 'GooseEgg' malware to launch attacks you can defeat with patches or deletion",
-      "url": "https://www.theregister.com/2024/04/23/russia_fancy_bear_goose_egg/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/22/bear_shutterstock.jpg",
-      "publishedAt": "2024-04-23T01:15:00Z",
-      "content": "Russian spies are exploiting a years-old Windows print spooler vulnerability and using a custom tool called GooseEgg to elevate privileges and steal credentials across compromised networks, according… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "James Powel",
-      "title": "Cybertruck recall shows how Tesla is faring in electric truck race - USA TODAY",
-      "description": "The Cybertruck recall offered analysts an opportunity to see how Elon Musk's pet project is faring in the electric truck market. See how it stacks up.",
-      "url": "https://www.usatoday.com/story/money/cars/2024/04/22/tesla-cybertruck-recall-electric-truck-sales/73416419007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/22/USAT/73418889007-usatsi-23032756.jpg?crop=2999,1688,x0,y83&width=2999&height=1688&format=pjpg&auto=webp",
-      "publishedAt": "2024-04-23T00:50:14Z",
-      "content": "A recall from Tesla allowed a rare look under the hood of the electric vehicle balance sheet.\r\nNearly 4,000 Cybertrucks were recalled Wednesday over a defect with the accelerator causing it to get st… [+4302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Katje",
-      "title": "Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2 - Yahoo Finance",
-      "description": "Leading electric vehicle company Tesla Inc (NASDAQ:TSLA) reports first-quarter financial results after market close Tuesday, April 23. Here are the key...",
-      "url": "https://finance.yahoo.com/news/tesla-q1-earnings-preview-ev-003232959.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/8be6b7d663924d59e8b411c5beb93b73",
-      "publishedAt": "2024-04-23T00:32:00Z",
-      "content": "Tesla Q1 Earnings Preview: Is EV Giant No Longer A 'Growth Stock?' Analysts Cautious, Want Answers About Robotaxis, Model 2\r\nLeading electric vehicle company Tesla Inc (NASDAQ:TSLA) reports first-qua… [+6207 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ashley Strickland",
-      "title": "Voyager 1 is sending data back to Earth for the first time in 5 months - CNN",
-      "description": "Engineers finally received a status update from the most distant spacecraft from Earth, after identifying the cause of the aging probe’s five-month communication issue.",
-      "url": "https://www.cnn.com/2024/04/22/world/voyager-1-communication-issue-cause-fix-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/1-voyager-2-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-22T23:13:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFor the first time in five months, NASA engineers have… [+6214 chars]"
+      "author": "Emily Leibert",
+      "title": "Eva Evans, New York TikTok Star, Dies at 29 - The Cut",
+      "description": "News of the beloved content creator’s death was met with an outpouring of love from friends and fans alike, including Julia Fox, Lo Bosworth, and cinematographer Sonja Tsypin.",
+      "url": "http://www.thecut.com/article/eva-evans-new-york-tiktok-star-dies-at-29.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/001/372/88ffed7b68cdfdc0928c02e77a5044fc5e-eva-evans-04222024.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-04-23T00:57:31Z",
+      "content": "Eva Evans, the 29-year-old content creator and filmmaker, has died, according to her sister Lila Joy Baumgardner. The beloved TikToker amassed over 300,000 followers on the platform, winning over fri… [+2721 chars]"
     },
     {
       "source": {
@@ -611,150 +897,33 @@
       "url": "https://arstechnica.com/science/2024/04/concern-grows-as-bird-flu-spreads-further-in-us-cows-32-herds-in-8-states/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1229694264-760x380.jpeg",
       "publishedAt": "2024-04-22T22:24:46Z",
-      "content": "Enlarge/ Greylag geese sit on a field and rest while a cow passes by in the background. \r\n35\r\nResearchers around the world are growing more uneasy with the spread of highly pathogenic avian influenza… [+5150 chars]"
+      "content": "94\r\nResearchers around the world are growing more uneasy with the spread of highly pathogenic avian influenza (H5N1) in US dairy cows as the virus continues to make its way into new herds and states.… [+5060 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "YouTube"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "title": "Doctor Warns about Dangers of Off-Market Weight Loss Drugs - FOX Carolina News",
+      "description": "A doctor gives warning about the dangers of off-market weight loss drugs.   For more Local News from WHNS:  https://www.foxcarolina.com/ For more YouTube Con...",
+      "url": "https://www.youtube.com/watch?v=05_iqh0Kz_0",
+      "urlToImage": "https://i.ytimg.com/vi/05_iqh0Kz_0/maxresdefault.jpg",
+      "publishedAt": "2024-04-22T21:36:33Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Curtis M. Wong",
-      "title": "Dominic West Admits Lily James Photo Scandal Was 'Horrible' For His Wife, Family - HuffPost",
-      "description": "In 2020, West and James drew heated speculation after being photographed on what appeared to be an intimate lunch date in Italy.",
-      "url": "https://www.huffpost.com/entry/dominic-west-2020-photos-lily-james-wife-reaction_n_66268a14e4b08151cacb02a5",
-      "urlToImage": "https://img.huffingtonpost.com/asset/66268a38220000be2bfc7215.jpeg?cache=pCDDc98VRx&ops=1200_630",
-      "publishedAt": "2024-04-22T21:39:40Z",
-      "content": "Dominic West and his wife, Catherine FitzGerald, have learned to laugh about the 2020 media frenzy that ensued after photos of The Crown actor kissing former co-star Lily James emerged. \r\nIts been ne… [+4264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Andre Gee",
-      "title": "Drake Mostly Made Himself Look Bad on His Latest Diss - Rolling Stone",
-      "description": "Drake’s use of AI-generated Snoop and Tupac vocals sets a terrible precedent for the music industry",
-      "url": "http://www.rollingstone.com/music/music-features/drake-ai-generated-diss-bad-1235008595/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/04/drake-latest-diss.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2024-04-22T21:29:49Z",
-      "content": "The long-awaited showdown between Kendrick Lamar and Drake has been bogged down by Instagram Story trolling, X bots, and artificial intelligence. While the rap world awaits Kendrick’s response to Dra… [+8142 chars]"
-    },
-    {
-      "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
-      },
-      "author": "Elizabeth Pratt",
-      "title": "Being treated by a female physician linked to lower risk of death - Medical News Today",
-      "description": "Researchers say people treated by female doctors tend to have better health outcomes than people treated by male physicians. They say there are a number of potential reasons for the difference.",
-      "url": "https://www.medicalnewstoday.com/articles/people-treated-by-female-doctors-tend-to-have-better-health-outcomes-study-finds",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/04/female-doctor-talking-patient-1200-628-facebook.jpg",
-      "publishedAt": "2024-04-22T21:12:06Z",
-      "content": "<ul><li>Research published this week suggests that men and women have better outcomes when they are treated by a female physician.</li><li>The study adds to a growing body of research that patients c… [+6203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chess.com"
-      },
-      "author": "Colin McGourty",
-      "title": "9 Things We Learned — 2024 FIDE Candidates Tournament - Chess.com",
-      "description": "17-year-old Gukesh has become the youngest-ever world chess championship challenger in history. What else did we learn from the Candidates?",
-      "url": "https://www.chess.com/news/view/9-things-we-learned-2024-fide-candidates-tournament",
-      "urlToImage": "https://images.chesscomfiles.com/uploads/v1/news/1376263.d8b2d228.5000x5000o.beba9d3f1b69.png",
-      "publishedAt": "2024-04-22T20:35:00Z",
-      "content": "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caru… [+17958 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "ASUS Teaming With Meta to Develop a Performance Gaming VR Headset - IGN",
-      "description": "ASUS' Republic of Gamers brand is partnering with Meta to create a new third-party gaming headset running on the Quest operating system.",
-      "url": "https://www.ign.com/articles/asus-teaming-with-meta-to-develop-a-performance-gaming-vr-headset",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/22/439026169-1097360154884667-8578043667114033780-n-1713815953648.png?width=1280",
-      "publishedAt": "2024-04-22T20:32:29Z",
-      "content": "Meta says it's ushering in \"a new era for Mixed Reality,\" as the tech company announced today that it is teaming up with ASUS to create a new third-party gaming headset. \r\nIn a blog post, Meta reveal… [+2326 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Isaiah Colbert",
-      "title": "Ryan Reynolds Says Bizarre Deadpool & Wolverine Trailer Coincidence Was Unplanned: 'I Swear to Marvel Jesus' - IGN",
-      "description": "Today's Deadpool & Wolverine trailer drop coincedes with the anniversary of the day Madonna's Like a Prayer began its run atop the Billboard charts, although Ryan Reynolds \"swear(s) to Marvel Jesus\" that it's just a wild coincidence.",
-      "url": "https://www.ign.com/articles/ryan-reynolds-says-bizarre-deadpool-wolverine-trailer-coincidence-was-unplanned-i-swear-to-marvel-jesus",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/22/deadpoolandwolverinetrailer-ign-blogroll1-1713791361071.jpg?width=1280",
-      "publishedAt": "2024-04-22T20:20:18Z",
-      "content": "Like most Marvel movie trailers, the Deadpool &amp; Wolverine trailer includes a wealth ofblink-and-youll-miss-it comic book and movie references and big reveals\r\n that will have diehard fans deciphe… [+2117 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ann E. Marimow, Reis Thebault",
-      "title": "Supreme Court appears divided over Oregon anti-camping homeless law - The Washington Post",
-      "description": "The decision in an Oregon homelessness case, to be released in June, could be the most far-reaching judgment on the rights of the unhoused in decades.",
-      "url": "https://www.washingtonpost.com/politics/2024/04/22/supreme-court-homelessness-camping-ban-oregon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQUD4C5DVC2OLZKOIPLLB6N7PM_size-normalized.JPG&w=1440",
-      "publishedAt": "2024-04-22T20:16:00Z",
-      "content": "Supreme Court justices expressed concern on Monday about punishing homeless people for sleeping outside when they have nowhere else to go, while also struggling with how to ensure local and state lea… [+9073 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Anker's 8-in-1 charging station is matching its lowest price to date - The Verge",
-      "description": "Anker’s MagGo Magnetic Charging Station (8-in-1) is going for $30 off right now. You can also save on the 13-inch M3 MacBook Air, Roborock’s Q5 Pro, and the Fitbit Versa 4.",
-      "url": "https://www.theverge.com/2024/4/22/24137089/anker-qi2-maggo-magnetic-charging-station-macbook-air-13-deal-sale",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u_4NcD8sabXum-1aKQHibxmd7jI=/0x0:3200x2126/1200x628/filters:focal(1600x1063:1601x1064)/cdn.vox-cdn.com/uploads/chorus_asset/file/25212720/Anker_Qi2_handson_1.jpg",
-      "publishedAt": "2024-04-22T20:03:23Z",
-      "content": "Ankers 8-in-1 charging station is matching its lowest price to date\r\nAnkers 8-in-1 charging station is matching its lowest price to date\r\n / The M3-powered MacBook Air and Roborocks Q5 Pro robovac ar… [+3933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Science X",
-      "title": "NASA's Voyager 1 resumes sending engineering updates to Earth - Phys.org",
-      "description": "For the first time since November, NASA's Voyager 1 spacecraft is returning usable data about the health and status of its onboard engineering systems. The next step is to enable the spacecraft to begin returning science data again. The probe and its twin, Vo…",
-      "url": "https://phys.org/news/2024-04-nasa-voyager-resumes-earth.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/nasas-voyager-1-resume.jpg",
-      "publishedAt": "2024-04-22T19:26:41Z",
-      "content": "For the first time since November, NASA's Voyager 1 spacecraft is returning usable data about the health and status of its onboard engineering systems. The next step is to enable the spacecraft to be… [+2954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "AFP",
-      "title": "Taiwan hit with magnitude-6.0 quake after day of tremors - Hindustan Times",
-      "description": "The quake is the latest in the series of earthquakes that had been shaking the island since Monday afternoon. | World News",
-      "url": "https://www.hindustantimes.com/world-news/taiwan-hit-with-magnitude-6-0-quake-after-day-of-tremors-101713812174540.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/23/1600x900/TAIWAN-EARTHQUAKE-2_1713840481314_1713840496141.jpg",
-      "publishedAt": "2024-04-22T18:57:29Z",
-      "content": "Taiwan's capital was hit by a series of earthquakes overnight into the early hours of Tuesday, with the Central Weather Administration saying the strongest was a magnitude-6.3 tremor originating in e… [+2378 chars]"
+      "author": "Rachel Grumman Bender",
+      "title": "Do women make better physicians? New study finds patients with female doctors have a lower risk of death and hospital readmission rates. - Yahoo Life",
+      "description": "Although women in particular do better under the care of a female doctor, the research revealed that both men and women with female physicians have better...",
+      "url": "https://www.yahoo.com/lifestyle/women-better-physicians-study-finds-210006678.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/28ZWP8jB0IyNh3eDLxX32g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/faf65d30-fde2-11ee-a7af-85a09646d915",
+      "publishedAt": "2024-04-22T21:00:06Z",
+      "content": "Are patients in better hands if theyre being treated by female physicians? Yes, according to one new study. Although the positive impact was greater in female patients particularly those who were sev… [+8667 chars]"
     },
     {
       "source": {
@@ -772,97 +941,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Meredith Garofalo",
-      "title": "Earth Day 2024: Witness our changing planet in 12 incredible satellite images - Space.com",
-      "description": "This Earth Day, take a look at our blue marble from above.",
-      "url": "https://www.space.com/earth-day-2024-noaa-satellite-12-images-changing-planet",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rjdGi9hmMPhbd6Z7f3rcdT-1200-80.png",
-      "publishedAt": "2024-04-22T18:30:05Z",
-      "content": "Happy Earth Day 2024! Every year on April 22, we celebrate Earth Day. This annual event is a time to focus on the environmental issues we have across the planet and highlight the efforts being made s… [+5075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Florida Today"
-      },
-      "author": "Rick Neale",
-      "title": "SpaceX delays Starlink launch attempt to Tuesday night amid windy, cloudy Cape forecast - Florida Today",
-      "description": "The Space Force's 45th Weather Squadron had only forecast 30% odds of favorable weather during the early stages of Monday's now-scrapped launch window.",
-      "url": "https://www.floridatoday.com/story/tech/science/space/2024/04/22/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/73381245007/",
-      "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/04/17/PBRE/73362811007-crb-041724-spacex-10.jpg?crop=2335,1314,x0,y239&width=2335&height=1314&format=pjpg&auto=webp",
-      "publishedAt": "2024-04-22T17:37:30Z",
-      "content": "Facing a cloudy, windy Monday forecast, SpaceX is pushing back its Falcon 9 rocket launch attempt roughly 24 hours to target a Tuesday night window at Cape Canaveral Space Force Station, navigational… [+2471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Шахтар – Зоря. АУДІО онлайн трансляція матчу 25-го туру чемпіонату України - UA-FOOTBALL",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/watch?v=QiUvPNnsopQ",
-      "urlToImage": null,
-      "publishedAt": "2024-04-22T17:18:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vibhor Mohan",
-      "title": "Rally to mark World Liver Day at RBU - The Times of India",
-      "description": "Rayat Bahra University's World Liver Day rally stressed 'No Liver, No Life,' addressing global liver disease factors, with a focus on public health co",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/rally-to-mark-world-liver-day-at-rbu/articleshow/109509578.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-04-22T17:16:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Asif Iqbal Shaik",
-      "title": "Apple to bring on-device AI to iPhones with iOS 18 to differ from Samsung - SamMobile - Samsung news",
-      "description": "Samsung introduced several AI-powered features with the Galaxy S24. Samsung called the Galaxy S24 its first AI Phone. It is ...",
-      "url": "https://www.sammobile.com/news/apple-iphone-ios-18-on-device-ai-different-approach-samsung/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/09/Apple-iPhone-14-Pro-OLED-720x405.jpg",
-      "publishedAt": "2024-04-22T16:33:00Z",
-      "content": "Samsung introduced several AI-powered features with the Galaxy S24. Samsung called the Galaxy S24 its first AI Phone. It is the first smartphone brand to go big with AI, seeing the AI boom. And Apple… [+1699 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "WYATTE GRANTHAM-PHILIPS, ANNE D'INNOCENZIO",
-      "title": "Retailer Express files for bankruptcy, announces store closures - The Associated Press",
-      "description": "Express Inc. has filed for Chapter 11 bankruptcy protection and the fashion retailer is seeking to sell the majority of its stores. Columbus, Ohio-based Express is also the parent of Bonbons and Upwest brands. It said Monday it planned to close 95 of its Expr…",
-      "url": "https://apnews.com/article/express-bankruptcy-filing-store-closures-618b8c65b1d1b6bb21629b269aecf645",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f2c5e35/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fb9%2F39f3fa60405576ba38e68bfe36f1%2Fdbeaa758d8484a33b1f7e77dbdca1c5a",
-      "publishedAt": "2024-04-22T16:25:00Z",
-      "content": "NEW YORK (AP) Express Inc once a trendsetter of casual office attire that has struggled to compete with the likes of Zara and H&amp;M has filed for Chapter 11 bankruptcy protection.\r\nThe retailer bas… [+3801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "YouTube"
       },
       "author": null,
@@ -871,149 +949,6 @@
       "url": "https://www.youtube.com/watch?v=QylG5y_Vf7g",
       "urlToImage": "https://i.ytimg.com/vi/QylG5y_Vf7g/maxresdefault.jpg",
       "publishedAt": "2024-04-22T16:00:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Look for Lyrid meteors, International Space Station in the night sky - CBS Boston",
-      "description": "Leftovers from the Lyrid meteor shower, and a long flyby of the International Space Station could be visible to Massachusetts stargazers Monday night.",
-      "url": "https://www.youtube.com/watch?v=An8MyIBA9Cs",
-      "urlToImage": "https://i.ytimg.com/vi/An8MyIBA9Cs/maxresdefault.jpg",
-      "publishedAt": "2024-04-22T15:58:35Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crictracker.com"
-      },
-      "author": "CricTracker Staff",
-      "title": "IPL 2024: Match 39, CSK vs LSG Match Prediction – Who will win today’s IPL match between CSK vs LSG? - CricTracker",
-      "description": "PreviewThe 39th match of the IPL 2024 (Indian Premier League) will witness Chennai Super Kings (CSK) locking horns with Lucknow Super Giants (LSG) at the iconic MA Chidambaram Stadium in Che",
-      "url": "https://www.crictracker.com/cricket-match-predictions/ipl-2024-match-39-csk-vs-lsg-match-prediction-who-will-win-todays-ipl-match-between-csk-vs-lsg/",
-      "urlToImage": "https://media.crictracker.com/media/attachments/1713117918096_Chennai-Super-Kings.jpeg",
-      "publishedAt": "2024-04-22T15:45:00Z",
-      "content": "Preview\r\nThe 39th match of the IPL 2024 (Indian Premier League) will witness Chennai Super Kings (CSK) locking horns with Lucknow Super Giants (LSG) at the iconic MA Chidambaram Stadium in Chennai, o… [+3861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WBOY.com"
-      },
-      "author": "Sam Kirk",
-      "title": "First measles case confirmed in West Virginia since 2009 - WBOY.com",
-      "description": "A patient of WVU Medicine in Monongalia County has tested positive for measles.",
-      "url": "https://www.wboy.com/news/monongalia/case-of-measles-confirmed-in-monongalia-county-west-virginia/",
-      "urlToImage": "https://www.wboy.com/wp-content/uploads/sites/43/2024/01/measles_choi_012724_AdobeStock.jpg?w=1280",
-      "publishedAt": "2024-04-22T15:37:10Z",
-      "content": "This story has been updated with information from the Monongalia County Health Department.\r\nMORGANTOWN, W.Va. (WBOY) A patient of WVU Medicine in Monongalia County has tested positive for measles. \r\n… [+1390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Oppo K12 will be unveiled on April 24 as a rebranded OnePlus Nord CE4 - GSMArena.com news - GSMArena.com",
-      "description": "All of the specs teased so far line up perfectly. The Oppo K12 first surfaced at the end of March, when a leak claimed that it would be nothing but a...",
-      "url": "https://www.gsmarena.com/oppo_k12_will_be_unveiled_on_april_24_as_a_rebranded_oneplus_nord_ce4-news-62552.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/oppo-k12-teasers-launch-date/-952x498w6/gsmarena_0000.jpg",
-      "publishedAt": "2024-04-22T15:07:02Z",
-      "content": "The Oppo K12first surfaced at the end of March, when a leak claimed that it would be nothing but a rebranded OnePlus Nord CE4, a phone that was announced at the beginning of this month. Today, Oppo h… [+1037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Padma awards 2024: Venkaiah Naidu, Mithun Chakraborty, Ram Naik receive prestigious honour from President Droupadi Murmu | Mint - Mint",
-      "description": "Padma awards 2024 ceremony witnessed attendance from several high-profile individuals including Vice-President Jagdeep Dhankhar, Prime Minister Narendra Modi, Union Home Minister Amit Shah",
-      "url": "https://www.livemint.com/news/india/former-vice-president-venkaiah-naidu-padma-vibhushan-president-droupadi-murmu-andhra-pradesh-konidela-chiranjeevi-11713790629565.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/22/1600x900/PTI01-26-2024-000755B-0_1713790721081_1713790741734.jpg",
-      "publishedAt": "2024-04-22T13:00:22Z",
-      "content": "Padma awards 2024: President Droupadi Murmu on Monday conferred the prestigious Padma awards on former vice president M Venkaiah Naidu, founder of Sulabh International Bindeshwar Pathak, Actor Mithun… [+2273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Aliens May Be ''Hitching Rides'' To Other Planets On Meteors, New Study Suggests - NDTV",
-      "description": "It's all to do with the idea of \"panspermia\"  a fringe theory which suggests that life forms can move from planet to planet by 'hitching rides' on meteors.",
-      "url": "https://www.ndtv.com/science/aliens-may-be-hitching-rides-to-other-planets-on-meteors-new-study-suggests-5496434",
-      "urlToImage": "https://c.ndtvimg.com/2024-04/jrrtii18_meteor_625x300_22_April_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738?ver-20240422.08",
-      "publishedAt": "2024-04-22T10:05:49Z",
-      "content": "Some 5,000 confirmed exoplanets are the most likely places lifeforms other than ours to exist\r\nAliens and the search for life in the universe have always been a source of intrigue and curiosity for h… [+2398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zoom"
-      },
-      "author": "TN Science Desk",
-      "title": "NASA Alert: 240-foot Asteroid Moving Towards Earth At 33204 Kmph - Know The Threat - Times Now",
-      "description": "NASA has alerted that a giant spacecraft-sized asteroid is racing towards Earth today to make a close approach. Here is what NASA has revealed.",
-      "url": "https://www.timesnownews.com/technology-science/science/nasa-alert-240-foot-asteroid-moving-towards-earth-at-33204-kmph-know-the-threat-article-109499461",
-      "urlToImage": "https://static.tnn.in/thumb/msid-109499528,thumbsize-106690,width-1280,height-720,resizemode-75/109499528.jpg",
-      "publishedAt": "2024-04-22T09:47:07Z",
-      "content": "'Why Does Hardik Pandya Bring..', Former India Cricketer Questions MI Skipper's Batting Position"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Neha Yadav",
-      "title": "NASA's 10 starry 'Astronomy Pictures of the Day' - Hindustan Times",
-      "description": "NASA's 10 starry 'Astronomy Pictures of the Day'",
-      "url": "https://www.hindustantimes.com/web-stories/in-focus/nasas-10-starry-astronomy-pictures-of-the-day-101713768183713.html",
-      "urlToImage": null,
-      "publishedAt": "2024-04-22T09:00:10Z",
-      "content": "By Neha YadavPublished Apr 22, 2024\r\nHindustan TimesIn FocusPhoto Credits: Gianni Lacroce/NASA"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Intruder arrested after breaking in to Getty House, official residence of Los Angeles Mayor Karen Bass - KABC-TV",
-      "description": "The 29-year-old Los Angeles man was booked for burglary, LAPD says.",
-      "url": "https://abc7.com/break-in-getty-house-official-residence-los-angeles-mayor-karen-bass/14710462/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/14711531_getty-house-new.jpg?w=1600",
-      "publishedAt": "2024-04-22T06:44:58Z",
-      "content": "LOS ANGELES (KABC) -- An intruder was arrested after breaking in to the Los Angeles mayor's official residence early Sunday morning, officials say.\r\nThe break-in was reported around 6:40 a.m. at the … [+2512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Can Tales of Kenzara: Zau unlock a new world of video game stories? - BBC.com",
-      "description": "Abubakar Salim set up his own studio to tell a personal tale of grief inspired by his Kenyan heritage.",
-      "url": "https://www.bbc.com/news/newsbeat-68790072",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17ADE/production/_133209969_dsc_7310-2.jpg",
-      "publishedAt": "2024-04-22T04:49:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Can touchless tech create 'equitable' gaming? - BBC.com",
-      "description": "Click reporter Paul Carter has a go at playing Minecraft with his eyes.",
-      "url": "https://www.bbc.com/news/articles/cyxen4v97dro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ae5/live/b2975290-fcd1-11ee-a9f7-4d961743aa47.png",
-      "publishedAt": "2024-04-21T23:13:21Z",
       "content": null
     },
     {
@@ -1041,19 +976,6 @@
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2024/04/chopping-and-prepping-vegetables-healthy-meal-1200x628-facebook.jpg",
       "publishedAt": "2024-04-20T09:29:41Z",
       "content": "Dr. Michael L. Glickman, MD, explains that success on a GLP-1 medication is considered a body weight loss of more than 5% after three months of treatment.\r\nHowever, ideally in clinical practice, we h… [+10228 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": null,
-      "title": "Nuggets 101-99 Lakers (Apr 22, 2024) Final Score - ESPN",
-      "description": "Game summary of the Denver Nuggets vs. Los Angeles Lakers NBA game, final score 101-99, from April 22, 2024 on ESPN.",
-      "url": "https://www.espn.com/nba/game/_/gameId/401655082/lakers-nuggets",
-      "urlToImage": "http://s.espncdn.com/stitcher/sports/basketball/nba/events/401655082.png?templateId=espn.com.share.1",
-      "publishedAt": "2024-04-17T06:03:50Z",
-      "content": ""
     }
   ]
 }
