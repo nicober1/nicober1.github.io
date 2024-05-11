@@ -1,58 +1,396 @@
 {
   "status": "ok",
-  "totalResults": 132,
+  "totalResults": 124,
   "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Apple Will Revamp Siri to Catch Up to Its Chatbot Competitors - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTAvYnVzaW5lc3MvYXBwbGUtc2lyaS1haS1jaGF0Z3B0Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T18:00:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Anthony Wood",
+      "title": "100 Days Later, Neuralink’s First Human Patient Is Now Using His Brain Implant to Play Slay the Spire - IGN",
+      "description": "The first human recipient of a Neuralink brain-computer interface has used the link to play Slay the Spire, and a number of other games during his time off, though the implant suffered a temporary drop in performance after a number of electrode-studded thread…",
+      "url": "https://www.ign.com/articles/100-days-later-neuralinks-first-human-patient-is-now-using-his-brain-implant-to-play-slay-the-spire",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/10/screenshot-2024-05-10-162724-1715354879521.png?width=1280",
+      "publishedAt": "2024-05-10T15:31:22Z",
+      "content": "The first human Neuralink implant recipient is playing Slay the Spire, Old School RuneScape, and a range of other popular games by using the implant to translate his neural signals.\r\nElon Musks neuro… [+5412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Madison Mills",
+      "title": "OpenAI could launch new AI search engine on Monday: Reuters - Yahoo Finance",
+      "description": "OpenAI may potentially unveil its new AI-powered search engine as soon as Monday, Reuters reports. Questions about how the new platform could compete with...",
+      "url": "https://finance.yahoo.com/video/openai-could-launch-ai-search-151221556.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gkUYR8MUgBFRsjfs3vK6yA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/a8a24f40-0edf-11ef-bf9b-6a44ea07e3b0",
+      "publishedAt": "2024-05-10T15:12:21Z",
+      "content": "OpenAI may potentially unveil its new AI-powered search engine as soon as Monday, Reuters reports. Questions about how the new platform could compete with Google's (GOOG, GOOGL) search engine are gro… [+4919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Oscar Gonzalez",
+      "title": "Nintendo Doesn't Want to Deal With X/Twitter Either - Gizmodo",
+      "description": "This hardly used Switch feature is getting dropped.",
+      "url": "https://gizmodo.com/nintendo-doesnt-want-to-deal-with-x-twitter-either-1851469160",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/215bbb563acf603d041663e0b31b7b3f.jpg",
+      "publishedAt": "2024-05-10T14:55:00Z",
+      "content": "For those who used their Nintendo Switch to send out tweets and screenshots, that feature is going away soon, so you might want to invest in a phone instead. \r\nNintendo added a new support page on Th… [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Steam Users Are Positively Review-Bombing Hi-Fi Rush Now Microsoft Has Closed Tango Gameworks - IGN",
+      "description": "Steam users are leaving positive reviews for Hi-Fi Rush following Microsoft’s shock decision to close its developer, Tango Gameworks.",
+      "url": "https://www.ign.com/articles/steam-users-are-positively-review-bombing-hi-fi-rush-now-microsoft-has-closed-tango-gameworks",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/25/hi-fi-rush4-1674679039990.jpg?width=1280",
+      "publishedAt": "2024-05-10T14:30:29Z",
+      "content": "Steam users are leaving positive reviews for Hi-Fi Rush following Microsofts shock decision to close its developer, Tango Gameworks.\r\nMicrosoft announced the closure of Tango Gameworks as well as Red… [+3666 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "WYATTE GRANTHAM-PHILIPS",
+      "title": "Technology crushing human creativity? Apple's new iPad ad has struck a nerve online - The Associated Press",
+      "description": "A newly released ad promoting Apple’s new iPad Pro has struck quite a nerve online. The ad shows a hydraulic press crushing just about every creative instrument artists and consumers have used over the years — from a piano and record player, to piles of paint…",
+      "url": "https://apnews.com/article/apple-ipad-ad-social-media-reaction-12e7fbd335feb4875d94c31b87379359",
+      "urlToImage": "https://dims.apnews.com/dims4/default/af4eaba/2147483647/strip/true/crop/2432x1368+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F0a%2F44472bffc3727543a73b5ba1e0f4%2F3dae61a77ffa42eabb36b850341d7bff",
+      "publishedAt": "2024-05-10T14:07:00Z",
+      "content": "NEW YORK (AP) A newly released ad promoting Apples new iPad Pro has struck quite a nerve online.\r\nThe ad, which was released by the tech giant Tuesday, shows a hydraulic press crushing just about eve… [+3589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Lawrence Richard",
+      "title": "Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We’re sorry' - Fox Business",
+      "description": "A new iPad Pro ad caused a stir on social media, with several users responding critically, forcing Apple to apologize.",
+      "url": "https://www.foxbusiness.com/technology/apple-forced-apologize-new-ipad-pro-ad-sparks-controversy-online-missed-mark-sorry",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/GettyImages-1445281649.jpg?ve=1&tl=1",
+      "publishedAt": "2024-05-10T14:01:00Z",
+      "content": "Apple has apologized after a new iPad Pro ad was met with wide and sharp criticism.\r\nThe ad, titled \"Crush!,\" debuted earlier this week. It shows a hydraulic press crushing instruments like a piano a… [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The Oura Ring will soon be able to gauge how “old” your heart is - The Verge",
+      "description": "Oura is introducing two new metrics: cardiovascular age and cardiovascular capacity (VO2 Max). Both aim to give insights into longer-term health.",
+      "url": "https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FGyMeOXqIhmZ3QcmDLcUAM1AF8A=/0x0:2008x1158/1200x628/filters:focal(1004x579:1005x580)/cdn.vox-cdn.com/uploads/chorus_asset/file/25440512/BOTH_FEATURES_UI.png",
+      "publishedAt": "2024-05-10T14:00:00Z",
+      "content": "The Oura Ring will soon be able to gauge how old your heart is\r\nThe Oura Ring will soon be able to gauge how old your heart is\r\n / Cardiovascular age and cardiovascular capacity are meant to help you… [+3523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Nintendo Believes Successor Announcement Will Have \"Zero Impact\" On Switch Sales - Nintendo Life",
+      "description": "\"We recognize that it is becoming more challenging to maintain momentum\"",
+      "url": "https://www.nintendolife.com/news/2024/05/nintendo-acknowledges-that-successor-announcement-may-impact-switch-sales",
+      "urlToImage": "https://images.nintendolife.com/0767f6af0f424/1280x720.jpg",
+      "publishedAt": "2024-05-10T13:40:00Z",
+      "content": "I'm getting increasingly concerned about the games coming in the latter half of the year. He says, \"We will release new titles this fiscal year,\" which is obvious, but I feel like they usually say so… [+2249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Put a 512GB Google Pixel 7 Pro in Your Pocket for Just $479 Today - CNET",
+      "description": "It might not be the latest model but this Google Pixel 7 Pro isn't far off and right now it's yours for just $479 with a whopping 512GB of storage.",
+      "url": "https://www.cnet.com/deals/put-a-512gb-google-pixel-7-pro-in-your-pocket-for-just-479-today/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d8fa40854fd6c0d9dfec1367d0f23eee6ac34288/hub/2024/04/22/8cc990a2-6c00-475e-8c3c-447ce945eea2/5-3.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-10T13:30:00Z",
+      "content": "The Pixel 8 Pro might be the latest flagship device to come out of Google but the Pixel 7 Pro is still an excellent phone for people who want the features of a flagship phone without paying flagship … [+1586 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "YouTube"
       },
       "author": null,
-      "title": "realme GT 6T Unboxing & First Look Ft. GT Neo 6 SE ⚡SD 7+ Gen 3, 6000nits @₹21K*? - Trakin Tech",
-      "description": "The realme GT series is back in India, and it's bringing the heat with the all-new realme GT 6T!  This phone is built for speed, boasting the powerful Snapdr...",
-      "url": "https://www.youtube.com/watch?v=ZnjcBi_B9ok",
-      "urlToImage": "https://i.ytimg.com/vi/ZnjcBi_B9ok/maxresdefault.jpg",
-      "publishedAt": "2024-05-10T06:24:21Z",
+      "title": "OpenAI set to announce search engine, one day before Google conference • FRANCE 24 English - FRANCE 24 English",
+      "description": "OpenAI will announce plans for a search engine powered by artificial intelligence on Monday May 13, Reuters reports. It's the latest challenge to search king...",
+      "url": "https://www.youtube.com/watch?v=tQb7bumjkIM",
+      "urlToImage": "https://i.ytimg.com/vi/tQb7bumjkIM/maxresdefault.jpg",
+      "publishedAt": "2024-05-10T13:27:14Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Forbes"
       },
-      "author": "Harsh Shivam",
-      "title": "WhatsApp gets a design makeover with new colour palette, icons, and more - Business Standard",
-      "description": "WhatsApp New Update: Now rolling out to Android and iOS platforms, the WhatsApp redesign features more neutral colours and features rounded in-app icons and illustrations",
-      "url": "https://www.business-standard.com/technology/apps/whatsapp-gets-a-design-makeover-with-new-colour-palette-icons-and-more-124051000258_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/10/thumb/featurecrop/400X400/1715318455-6991.png",
-      "publishedAt": "2024-05-10T05:30:25Z",
-      "content": "Now rolling out to Android and iOS platforms, the WhatsApp redesign features more neutral colours and features rounded in-app icons and illustrations\r\nWhatsApp update (Image: WhatsApp)\r\nHarsh ShivamN… [+2038 chars]"
+      "author": "Paul Tassi",
+      "title": "Dunkey's First Game, 'Animal Well,' Is The Best Reviewed PC Game Of 2024 So Far - Forbes",
+      "description": "When YouTuber Dunkey announced he was getting into game production with a new publishing company, most people scoffed, but Animal Well has proven them wrong.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/05/10/dunkeys-first-game-animal-well-is-the-best-reviewed-pc-game-of-2024-so-far/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663e1c1e6a6198354e2f68ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-10T13:13:21Z",
+      "content": "Dunkey\r\nbigmode\r\nWhen YouTuber Dunkey announced he was getting into game production with a new publishing company, most people scoffed, as content creators getting into actual game creation or produc… [+2332 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
+        "name": "9to5google.com"
       },
-      "author": "Diya Sharma",
-      "title": "Garena Free Fire MAX redeem codes for May 10, 2024: Win cool skins, pets, and other rewards - Moneycontrol",
-      "description": "The codes can significantly enhance gameplay and assist players in progressing through levels and defeating others in the game",
-      "url": "https://www.moneycontrol.com/technology/garena-free-fire-max-redeem-codes-for-may-10-2024-win-exciting-rewards-daily-like-cool-skins-pets-and-more-article-12718943.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240510044515_garena2.jpg",
-      "publishedAt": "2024-05-10T04:50:16Z",
-      "content": "111 Dots Studio, the developer of Garena Free Fire MAX, has just released new redeem codes for today, Friday, May 10, 2024. Players looking to unlock exclusive items can access these codes on the off… [+1408 chars]"
+      "author": "Abner Li",
+      "title": "I/O 2024 preview: How does Google become the AI-first company - 9to5Google",
+      "description": "At I/O 2016 and 2017, Sundar Pichai said Google was moving from “mobile first to AI first.” This involved “rethinking...",
+      "url": "http://9to5google.com/2024/05/10/google-io-2024-preview/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/google-mobile-ai-first.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-10T13:00:00Z",
+      "content": "At I/O 2016 and 2017, Sundar Pichai said Google was moving from mobile first to AI first. This involved rethinking all [its] products and applying machine learning, with search in Photos and Smart Re… [+5805 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "9to5google.com"
       },
-      "author": "Divyanshi Sharma",
-      "title": "OpenAI might unveil its Google Search competitor a day before Google I/O, all you need to know - India Today",
-      "description": "ChatGPT parent OpenAI is reportedly planning to venture into the online search space potentially posing a challenge to Google The company039s new AI-powered search product could be announced as early as next week a day before Google IO",
-      "url": "https://www.indiatoday.in/technology/news/story/openai-might-unveil-its-google-search-competitor-a-day-before-google-io-all-you-need-to-know-2537377-2024-05-10",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/chatgpt-google-104450695-16x9_0.png?VersionId=NcwE3Acw8dd_c1qyWA8pju9XGkkbFbZf",
-      "publishedAt": "2024-05-10T03:45:07Z",
-      "content": "When it comes to artificial intelligence (AI), most people would say that they got interested in the concept after the launch of OpenAI's ChatGPT. The chatbot, with its human-like answers and too-goo… [+2479 chars]"
+      "author": "Damien Wilde",
+      "title": "YouTube for Android TV gets new sidebar animation and section outlines - 9to5Google",
+      "description": "YouTube for Android TV has added a new animation when accessing the menu sidebar alongside new section pills to highlight this UI.",
+      "url": "http://9to5google.com/2024/05/10/youtube-android-tv-sidebar-animation/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/YouTube-for-Android-TV-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-10T12:42:00Z",
+      "content": "YouTube for Android TV has added a new animation when accessing the menu sidebar with updated highlighted pills when navigating the streaming platform.\r\nIt’s unclear just how widely this has rolled o… [+1815 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani, Brandon Widder",
+      "title": "Apple's AirPods Max are receiving a rare $100 discount at Amazon - The Verge",
+      "description": "Amazon is currently offering $100 off Apple’s high-end AirPods Max, which matches the steepest discount we’ve seen on noise-canceling headphones this year.",
+      "url": "https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/p5rjM1jodnJRLP-zcyb70pmWhow=/0x0:2040x1282/1200x628/filters:focal(1020x641:1021x642)/cdn.vox-cdn.com/uploads/chorus_asset/file/22173543/IMG_6828_3.jpg",
+      "publishedAt": "2024-05-10T12:20:39Z",
+      "content": "Apples AirPods Max are receiving a rare $100 discount at Amazon\r\nApples AirPods Max are receiving a rare $100 discount at Amazon\r\n / You can currently save $100 on Apples luxe noise-canceling headpho… [+1625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Vivo V30e vs Oppo F25 Pro Camera Test I Best Camera Phone🔥! - 91mobiles",
+      "description": "Vivo V30e vs Oppo F25 Pro Camera Test: In this video, we will compare the latest Vivo V30e and the Oppo F25 Pro cameras. Let's see who is the best in this ca...",
+      "url": "https://www.youtube.com/watch?v=PhL2VCu84T4",
+      "urlToImage": "https://i.ytimg.com/vi/PhL2VCu84T4/maxresdefault.jpg",
+      "publishedAt": "2024-05-10T12:17:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "EA wants to place ads in full-price games, again - TechSpot",
+      "description": "Speaking during the company's latest earnings briefing, EA CEO Andrew Wilson said in-game advertising could become a meaningful driver of growth for the firm.",
+      "url": "https://www.techspot.com/news/102950-ea-looking-placing-ads-full-price-games-again.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/05/2024-05-10-image-5.jpg",
+      "publishedAt": "2024-05-10T11:55:00Z",
+      "content": "Facepalm: It seems EA is suffering from the kind of insanity described by Far Cry 3's Vaas Montenegro. The gaming giant is considering placing ads in its full-price AAA games, again, and presumably e… [+2606 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Xbox Exec Suggests Call of Duty 2024 Will Launch Straight Into Game Pass - IGN",
+      "description": "Xbox president Sarah Bond has indicated Microsoft will launch 2024’s Call of Duty game straight into Game Pass.",
+      "url": "https://www.ign.com/articles/xbox-exec-suggests-call-of-duty-2024-will-launch-straight-into-game-pass",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/10/cod-1715338694129.jpg?width=1280",
+      "publishedAt": "2024-05-10T11:02:16Z",
+      "content": "Xbox president Sarah Bond has indicated Microsoft will launch 2024s Call of Duty game straight into Game Pass.\r\nEarlier this week, The Verge reported that Microsoft was still debating whether to rele… [+3153 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9to5Mac",
+      "title": "Microsoft iOS app store launches in July; website rather than app - 9to5Mac",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vOXRvNW1hYy5jb20vMjAyNC8wNS8xMC9taWNyb3NvZnQtaW9zLWFwcC1zdG9yZS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T11:02:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "OpenAI could unveil its Google search competitor on Monday - The Verge",
+      "description": "OpenAI is reportedly planning to announce an AI-powered search product ahead of Google’s I/O event that threatens to dethrone the search giant’s market dominance.",
+      "url": "https://www.theverge.com/2024/5/10/24153421/openai-chatgpt-google-search-competitor-service-io",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/R_qKUT4ouArFjS7OyDcddkfKk5o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg",
+      "publishedAt": "2024-05-10T10:14:33Z",
+      "content": "OpenAI could unveil its Google search competitor on Monday\r\nOpenAI could unveil its Google search competitor on Monday\r\n / The AI-powered search product is reportedly launching on the eve of Googles … [+2830 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Allison Morrow",
+      "title": "Welcome to the AI dystopia no one asked for, courtesy of Silicon Valley - CNN",
+      "description": "A couple of weeks ago, I rewatched Jurassic Park for probably the 10th time since the movie came out 30 years ago. (As an aside, it really holds up — 10/10, no notes.)",
+      "url": "https://www.cnn.com/2024/05/10/business/ai-dystopia-silicon-valley-nightcap/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screen-shot-2024-05-09-at-6-33-49-pm.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-10T10:00:00Z",
+      "content": "Editors Note: A version of this story appeared in CNN Business Nightcap newsletter. To get it in your inbox, sign up for free, here.\r\nA couple of weeks ago, I rewatched Jurassic Park for probably the… [+5965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Tom Pritchard",
+      "title": "iPhone 16 could get a major AI boost thanks to the M2 Ultra chip — what you need to know - Tom's Guide",
+      "description": "But this also means the AI may rely on the cloud",
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-16-could-get-a-major-ai-boost-thanks-to-the-m2-ultra-chip-what-you-need-to-know",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CuF2xLWotirBaduW548DpJ-1200-80.jpg",
+      "publishedAt": "2024-05-10T09:41:14Z",
+      "content": "This year is set to be the year the iPhone goes hard on AI. Rumors say that not only will the iPhone 16 come with a range of AI-powered features, iOS 18 will also reportedly have a heavy emphasis on … [+3372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Abhijeet Mishra",
+      "title": "Samsung Galaxy S21 gets One UI 6.1 update in European countries - SamMobile - Samsung news",
+      "description": "The day Galaxy S21 owners outside South Korea have been waiting for is finally here. Samsung has released the One ...",
+      "url": "https://www.sammobile.com/news/galaxy-s21-one-ui-6-1-update-global-rollout/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/02/Galaxy-S21-review-6-720x404.jpg",
+      "publishedAt": "2024-05-10T08:53:00Z",
+      "content": "The day Galaxy S21 owners outside South Korea have been waiting for is finally here. Samsung has released the One UI 6.1 update to the Galaxy S21 series outside its home country, indicating that a wi… [+1098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "Google fixes fifth Chrome zero-day exploited in attacks this year - BleepingComputer",
+      "description": "​Google has released a security update for the Chrome browser to fix the fifth zero-day vulnerability exploited in the wild since the start of the year.",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg",
+      "publishedAt": "2024-05-10T08:08:12Z",
+      "content": "​Google has released a security update for the Chrome browser to fix the fifth zero-day vulnerability exploited in the wild since the start of the year.\r\nThe high-severity issue tracked as CVE-2024-4… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mysmartprice.com"
+      },
+      "author": null,
+      "title": "[Exclusive] Vivo X Fold 3 Pro Set For India Debut Next Month: Durability Details Revealed - MySmartPrice",
+      "description": "We have got to know that the Vivo X Fold 3 will have a hinge with Carbon Fiber Keel component.",
+      "url": "https://www.mysmartprice.com/gear/mobiles/mobiles-news/vivo-x-fold-3-pro-india-debut-next-month-durability-details-exclusive/",
+      "urlToImage": "https://assets.mspimages.in/gear/wp-content/uploads/2024/05/Untitled-design-2024-05-10T131641.335.jpg",
+      "publishedAt": "2024-05-10T08:02:58Z",
+      "content": "Vivo recently unveiled its latest foldables, the X Fold 3 and X Fold 3 Pro, in its home market. The company is preparing for the India launch launch of the X Fold 3 Pro. An industry source has reveal… [+1190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Microsoft says its Play Store rival launches in July, won't be an app - Android Authority",
+      "description": "Microsoft has confirmed that it'll launch a mobile games store in July, and it'll differ from Apple and Google in a significant way.",
+      "url": "https://www.androidauthority.com/microsoft-xbox-mobile-game-store-3441719/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/08/blu-g90-pro-review-preinstalled-apps-bloatware-candy-crush-soda.jpg",
+      "publishedAt": "2024-05-10T08:01:11Z",
+      "content": "<ul><li>Microsoft has announced plans to launch a mobile games store in July.</li><li>This will be a web-based store that initially launches with Microsofts own games.</li></ul>\r\nMicrosoft has long s… [+1307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insider-gaming.com"
+      },
+      "author": "Tom Henderson",
+      "title": "Sarah Bond Confirms Every First Party Game Will Still Launch on Game Pass - Including Call of Duty - Insider Gaming",
+      "description": "In a new interview with Bloomberg, Sarah Bond has confirmed that every first party game, including Call of Duty, will launch on Game Pass.",
+      "url": "https://insider-gaming.com/call-of-duty-game-pass-release/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/01/XboxGamePass.jpg",
+      "publishedAt": "2024-05-10T07:23:43Z",
+      "content": "In a new interview with Bloomberg, Sarah Bond has confirmed that every first party game, including Call of Duty, will still launch on Game Pass. \r\nThe new interview with Bloomberg’s Dina Bass discuss… [+1577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets360.com"
+      },
+      "author": "Reuters",
+      "title": "Apple Apologises for iPad Pro 'Crush' Ad After Video Sparks Criticism, Ad Age Says - Gadgets 360",
+      "description": "Apple on Thursday apologised for an advertisement of the company's latest iPad Pro (2024) model, after heavy criticism from several users online. The company's ad showed an animation of musical instruments and other symbols of creativity being crushed, result…",
+      "url": "https://www.gadgets360.com/tablets/news/apple-ipad-pro-2024-crush-ad-apology-report-5630712",
+      "urlToImage": "https://i.gadgets360cdn.com/large/ipad_pro_2024_apple_1715092014412.jpg",
+      "publishedAt": "2024-05-10T06:46:17Z",
+      "content": "Apple apologized on Thursday after an advertisement for its latest iPad Pro model sparked criticism by showing an animation of musical instruments and other symbols of creativity being crushed, Ad Ag… [+1610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "4gamer.net"
+      },
+      "author": "Aetas Inc.",
+      "title": "PC版「Ghost of Tsushima」に対応する「GeForce 552.44 Driver」リリース - 4Gamer.net",
+      "description": "鐃緒申鐃銃刻申鐃緒申鐃徤024年5鐃緒申9鐃緒申鐃緒申NVIDIA鐃熟￥申鐃緒申鐃緒申鐃叔随申鐃叔ワ申鐃緒申侫鐃緒申奪鐃緒申鐃緒申疋薀わ申弌鐃忪eForce 552.44 Driver鐃竣わ申鐃所ー鐃緒申鐃緒申鐃緒申鐃緒申WHQL鐃緒申Windows Hardware Quality Labs鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申眠鐃緒申任箸覆鐃緒申椒弌鐃緒申鐃緒申鐃緒申蓮鐃徰鐃緒申16鐃緒申鐃祝ワ申蝓種申鐃粛緒申鐃塾誌申鐃緒申爛・申鐃緒申鐃緒申鐃緒申鐃忪host of Tsushima DIRECTOR'S CU…",
+      "url": "https://www.4gamer.net/games/022/G002210/20240510045/",
+      "urlToImage": "https://www.4gamer.net/games/022/G002210/20240510045/SS/001.jpg",
+      "publishedAt": "2024-05-10T06:45:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Cambridge Experts Warn: AI “Deadbots” Could Digitally “Haunt” Loved Ones From Beyond the Grave - SciTechDaily",
+      "description": "According to researchers at the University of Cambridge, artificial intelligence that allows users to hold text and voice conversations with lost loved ones runs the risk of causing psychological harm and even digitally “haunting” those left behind without de…",
+      "url": "https://scitechdaily.com/cambridge-experts-warn-ai-deadbots-could-digitally-haunt-loved-ones-from-beyond-the-grave/",
+      "urlToImage": "https://scitechdaily.com/images/Robot-Artificial-Intelligence-Red-Particles.jpg",
+      "publishedAt": "2024-05-10T02:58:48Z",
+      "content": "Cambridge researchers warn of the psychological dangers of ‘deadbots,’ AI that mimics deceased individuals, urging for ethical standards and consent protocols to prevent misuse and ensure respectful … [+7414 chars]"
     },
     {
       "source": {
@@ -60,38 +398,51 @@
         "name": "9to5Mac"
       },
       "author": "Filipe Espósito",
-      "title": "Controversial new iPad Pro ad might have been inspired by LG ad - 9to5Mac",
-      "description": "During its “Let Loose” event on Tuesday, Apple introduced the new M4 iPad Pro. However, the product was unveiled with...",
-      "url": "https://9to5mac.com/2024/05/09/controversial-ipad-pro-crush-ad-lg/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/lg-apple-ad-ipad-pro-crush.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-10T02:52:00Z",
-      "content": "During its Let Loose event on Tuesday, Apple introduced the new M4 iPad Pro. However, the product was unveiled with a rather intriguing and controversial ad, which shows things like musical instrumen… [+1548 chars]"
+      "title": "WhatsApp rolling out refreshed design for iOS and Android - 9to5Mac",
+      "description": "WhatsApp on Thursday announced that it is officially releasing an update that introduces a refreshed design for both iOS and...",
+      "url": "https://9to5mac.com/2024/05/09/whatsapp-officially-rolling-out-update-with-refreshed-design-for-ios-and-android/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/whatsapp-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-10T02:26:00Z",
+      "content": "WhatsApp on Thursday announced that it is officially releasing an update that introduces a refreshed design for both iOS and Android apps. Users will notice a new color palette and other changes that… [+2151 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "Hindustan Times"
       },
-      "author": "Livemint",
-      "title": "OpenAI to launch AI-powered search engine, challenging Google's dominance | Mint - Mint",
-      "description": "Reports from Bloomberg and the Information indicate that the Microsoft-backed OpenAI has been developing a search tool aimed at competing not only with Alphabet’s Google, but also with Perplexity, a promising AI search startup.",
-      "url": "https://www.livemint.com/companies/news/openai-to-launch-ai-powered-search-engine-challenging-googles-dominance-11715302968926.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/10/1600x900/Openai_1712925465851_1715303377686.jpg",
-      "publishedAt": "2024-05-10T02:21:09Z",
-      "content": "OpenAI is poised to announce a new artificial intelligence-driven search product this coming Monday, sources close to the development revealed. The launch date, while tentative, marks a significant s… [+2752 chars]"
+      "author": "Mallika Soni",
+      "title": "Elon Musk's brain chip plan fails? Update on Neuralink’s first implant in a human - Hindustan Times",
+      "description": "Neuralink has not shared why the device partly retracted from Noland Arbaugh’s brain. Here's what we know so far",
+      "url": "https://www.hindustantimes.com/business/elon-musks-brain-chip-plan-fails-update-on-neuralink-s-first-implant-in-a-human-101715305571205.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/10/1600x900/BB1kfrXk_1710986605236_1715305775741.jpeg",
+      "publishedAt": "2024-05-10T01:59:34Z",
+      "content": "Neuralinks first chip implant in a human beings skull hit a major setback as the device began to detach from the patients brain, the company revealed. Noland Arbaugh- the patient- underwent surgery i… [+1741 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Forbes"
       },
-      "author": "Ben Schoon",
-      "title": "Report: OpenAI to launch its AI-powered search engine a day before Google I/O - 9to5Google",
-      "description": "According to a new report, OpenAI plans to launch its Google Search competitor on May 13, the day before Google I/O.",
-      "url": "http://9to5google.com/2024/05/09/open-ai-google-search-report/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/openai-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-10T00:47:00Z",
-      "content": "It’s been clear for some time now that OpenAI is planning to launch a search engine enhanced by AI and, according to a new report, the company plans to do that by attempting to upstage Google I/O 202… [+1935 chars]"
+      "author": "Jonathan Reichental, PhD",
+      "title": "4 Lessons From Sonos' App Upgrade Fiasco - Forbes",
+      "description": "The Sonos community eagerly anticipated the promise of a completely new app with an easier interface. However, the upgrade arrived and missed the mark by a long way.",
+      "url": "https://www.forbes.com/sites/jonathanreichental/2024/05/09/4-lessons-from-sonos-app-upgrade-fiasco/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663d6eda779d4acb77bf4e60/0x0.jpg?format=jpg&crop=1371,771,x0,y34,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-10T00:52:39Z",
+      "content": "Sonos released its much-anticipated app controller upgrade on Tuesday. It promised to provide a new look and feel that would make using Sonos audio equipment easier and provide a more personalized ex… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "M4 iPad Pro lacks always-on display despite OLED panel with variable refresh rate - 9to5Mac",
+      "description": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an...",
+      "url": "https://9to5mac.com/2024/05/09/m4-ipad-pro-always-on-display-oled/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-vs-m2-conclusion.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-10T00:16:00Z",
+      "content": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an iPad. Although the technology has been around for a while in the iPhone and Apple Watch, previous iPads … [+2106 chars]"
     },
     {
       "source": {
@@ -111,6 +462,32 @@
         "id": "ign",
         "name": "IGN"
       },
+      "author": "Alex Stedman",
+      "title": "Microsoft Is Launching Its Mobile Game Store Rivaling Apple and Google in July - IGN",
+      "description": "Xbox President Sarah Bond revealed that Microsoft plans to launch its mobile game store rivaling Apple and Google this July.",
+      "url": "https://www.ign.com/articles/microsoft-is-launching-its-mobile-game-store-rivaling-apple-and-google-in-july",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/09/candy-crush-1642539652618-1715298213465.jpg?width=1280",
+      "publishedAt": "2024-05-09T23:47:52Z",
+      "content": "We previously learned that Microsoft has plans to launch a mobile game store at some point this year, and now the company has shed even more light on when that storefront might launch.\r\nBloomberg rep… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "WhatsApp gets a new, fresher look and a darker dark mode - GSMArena.com news - GSMArena.com",
+      "description": "There are many subtle changes all over. Today WhatsApp has made its latest design official. This has been rolling out in stages already, adding a native...",
+      "url": "https://www.gsmarena.com/whatsapp_gets_a_new_fresher_look_and_a_darker_dark_mode-news-62801.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/whatsapp-new-look/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-05-09T22:59:02Z",
+      "content": "Today WhatsApp has made its latest design official. This has been rolling out in stages already, adding a native bottom navigation bar on Android. The app has also received a fresh coat of paint, wit… [+640 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
       "author": "Ryan McCaffrey",
       "title": "Phil Spencer and the Battle for Xbox’s Soul - IGN",
       "description": "Has the rapid growth of Xbox made the ship too heavy? Following the closures of Tango Gameworks, Arkane Austin, and Roundhouse, we explore what the future of Xbox could look like.",
@@ -121,29 +498,16 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Ana Altchek",
-      "title": "Google CEO claps back at Microsoft CEO's we made them dance' remark - Business Insider",
-      "description": "Google CEO Sundar Pichai said the company dances to its own music — it doesn't listen to \"noise.\"",
-      "url": "https://www.businessinsider.com/google-sundar-pichai-response-microsoft-ceo-satya-nadella-dance-ai-2024-5",
-      "urlToImage": "https://i.insider.com/663d33e9f27898f532d5e520?width=1200&format=jpeg",
-      "publishedAt": "2024-05-09T22:39:00Z",
-      "content": "Microsoft CEO Satya Nadella once said he hopes the \"new Bing\" will make Google \"come out and show that they can dance.\"\r\n\"And I want people to know that we made them dance, and I think that'll be a g… [+3264 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Cecilia D'Anastasio, Dina Bass",
-      "title": "Microsoft to Launch Mobile Game Store, Vying With Apple, Google - Bloomberg",
-      "description": "Microsoft Corp. will launch its own online store for mobile-game consumables in July, creating an alternative to Apple Inc. and Google’s app stores and their fees.",
-      "url": "https://www.bloomberg.com/news/articles/2024-05-09/microsoft-to-launch-mobile-game-store-vying-with-apple-google",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6z5vO12H_1Y/v1/1200x800.jpg",
-      "publishedAt": "2024-05-09T22:32:38Z",
-      "content": "Microsoft Corp. will launch its own online store for mobile-game consumables in July, creating an alternative to Apple Inc. and Googles app stores and their fees. \r\nThe browser-based store will debut… [+256 chars]"
+      "author": "Jason Schreier, Bloomberg",
+      "title": "Microsoft employees stunned after it shuttered multiple Xbox video-game studios - Fortune",
+      "description": "These cuts at Xbox come amid a wider contraction in the video-game industry due to economic shifts following a period of rapid growth during the pandemic.",
+      "url": "https://fortune.com/2024/05/09/microsoft-employees-xbox-games-layoffs/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1778706507-e1715293608313.jpg?resize=1200,600",
+      "publishedAt": "2024-05-09T22:30:00Z",
+      "content": "The sudden closure of several video-game studios at Microsoft Corp.s Xbox division was the result of a widespread cost-cutting initiative that still isnt finished. This week, Xbox began offering volu… [+4968 chars]"
     },
     {
       "source": {
@@ -157,6 +521,19 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
       "publishedAt": "2024-05-09T22:13:15Z",
       "content": "Apple plans to use M2 Ultra chips in the cloud for AI\r\nApple plans to use M2 Ultra chips in the cloud for AI\r\n / The company reportedly plans to divert complex AI queries to servers and keep simple t… [+1731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "New Sonos app breaks accessibility for visually impaired users, here's what this advocate recommends - 9to5Mac",
+      "description": "The new Sonos app launched today and was met with swift and intense backlash for removing many features and capabilities...",
+      "url": "https://9to5mac.com/2024/05/09/new-sonos-app-breaks-accessibility-for-visually-impaired/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Sonos-App-Redesign-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-09T22:04:00Z",
+      "content": "The new Sonos app launched today and was met with swift and intense backlash for removing many features and capabilities that long-standing customers value. While the company made an official stateme… [+2343 chars]"
     },
     {
       "source": {
@@ -186,32 +563,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "Limited Run Says Hi-Fi Rush Physical Edition Is Still a Go After Tango Gameworks Closure - IGN",
-      "description": "Despite Microsoft shutting down Tango Gameworks, Limited Run Games has confirmed that a physical edition of Hi-Fi Rush is still planned.",
-      "url": "https://www.ign.com/articles/limited-run-says-hi-fi-rush-physical-edition-is-still-a-go-after-tango-gameworks-closure",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/04/11/hifirushtangoremixtrailer-ign-blogroll-1681224996611.jpg?width=1280",
-      "publishedAt": "2024-05-09T21:15:42Z",
-      "content": "After Microsoft unexpectedly announced it closed Hi-Fi Rush developer Tango Gameworks, some wondered whether the previously announced physical version of the game would ever see the light of day. But… [+2145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "What's New With the iPad Pro Magic Keyboard - MacRumors",
-      "description": "With the iPad Pro, Apple introduced an overhauled version of the Magic Keyboard to add new features that make using an iPad Pro feel more like using...",
-      "url": "https://www.macrumors.com/2024/05/09/ipad-pro-magic-keyboard/",
-      "urlToImage": "https://images.macrumors.com/t/3CtHsQoE8qjLFkvO4e1W3F_GQyQ=/1600x/article-new/2024/05/magic-keyboard-1.jpg",
-      "publishedAt": "2024-05-09T20:44:00Z",
-      "content": "With the iPad Pro, Apple introduced an overhauled version of the Magic Keyboard to add new features that make using an ‌iPad Pro‌ feel more like using a Mac. If youre thinking about buying one of the… [+1864 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -222,6 +573,19 @@
       "urlToImage": "https://media.wired.com/photos/663cfc33758c8de6616e56e9/191:100/w_1280,c_limit/Neuralink%E2%80%99s%20Brain%20Implant%20_GettyImages-1258889171.jpg",
       "publishedAt": "2024-05-09T20:10:09Z",
       "content": "Rather than building a device from the ground up, Synchron and Paradromics have taken inspiration from previous medical devices. Paradromics design, for instance, is based on the Utah array but makes… [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Someone just got Android running on the Rabbit R1 [Video] - 9to5Google",
+      "description": "Someone already put a real version of Android on the Rabbit R1, sort of, opening he door to some real utility.",
+      "url": "http://9to5google.com/2024/05/09/rabbit-r1-android-lineageos/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/rabbit-r1-lineageos-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-05-09T20:08:00Z",
+      "content": "The Rabbit R1 is a cute little AI device that, by all accounts, seems to be really bad at everything it tries to do. Now, someone has figured out how to run full Android on the Rabbit R1 using the po… [+2040 chars]"
     },
     {
       "source": {
@@ -264,81 +628,42 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Omgubuntu.co.uk"
       },
-      "author": "Aisha Malik",
-      "title": "WhatsApp's latest update streamlines navigation and adds a ‘darker dark mode’ - TechCrunch",
-      "description": "WhatsApp is updating its mobile apps for a fresh and more streamlined look, while also introducing a new “darker dark mode.\"",
-      "url": "https://techcrunch.com/2024/05/09/whatsapp-streamlining-navigation-darker-dark-mode/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/English_WhatsApp_UI-Refresh_Timeline.png?resize=1200,544",
-      "publishedAt": "2024-05-09T18:00:00Z",
-      "content": "WhatsApp is updating its mobile apps for a fresh and more streamlined look, while also introducing a new darker dark mode, the company announced on Thursday. The messaging app says that over the year… [+1140 chars]"
+      "author": "Joey Sneddon",
+      "title": "Use Google Gemini AI on Ubuntu with this GNOME Extension - OMG! Ubuntu!",
+      "description": "If you use Ubuntu 22.04 LTS or later and want to access the Google Gemini AI chatbot straight from your desktop outside of a web browser, you’re in luck! The Gemini AI ChatBot GNOME Shell [&h...",
+      "url": "https://www.omgubuntu.co.uk/2024/05/gemini-ai-gnome-shell-extension",
+      "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2024/05/gemini-ai-gnome-extension-1.jpg",
+      "publishedAt": "2024-05-09T17:06:55Z",
+      "content": "If you use Ubuntu 22.04 LTS or later and want to access the Google Gemini AI chatbot straight from your desktop outside of a web browser, you’re in luck!\r\nThe Gemini AI ChatBot GNOME Shell extension … [+4099 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "6 Practical Tips for Using Anthropic's Claude Chatbot - WIRED",
+      "description": "Anthropic recently launched an iOS app for its Claude chatbot. We asked the company’s head of product design how to get the most out of the AI helper.",
+      "url": "https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/",
+      "urlToImage": "https://media.wired.com/photos/663bebcc89124d013b288e25/191:100/w_1280,c_limit/Claude-Advice-Business.jpg",
+      "publishedAt": "2024-05-09T16:00:00Z",
+      "content": "Joel Lewenstein, a head of product design at Anthropic, was recently crawling beneath his new house to adjust the irrigation system when he ran into a conundrum: The devices knobs made no sense. Inst… [+5741 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GSMArena.com"
       },
-      "author": "Vlad",
-      "title": "vivo X100 Ultra camera details leak - GSMArena.com news - GSMArena.com",
-      "description": "This will be a monster cameraphone, the likes of which the mobile world hasn't seen yet. vivo's X100 Ultra is getting official on Monday, May 13, and it's...",
-      "url": "https://www.gsmarena.com/vivo_x100_ultra_camera_details_leak-news-62795.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/vivo-x100-ultra-camera-details/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-05-09T17:51:01Z",
-      "content": "vivo's X100 Ultra is getting official on Monday, May 13, and it's been quite the hypebeast recently, seeing as how a vivo exec said it would be a \"professional camera that can also make calls\". Today… [+2121 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Dave LeClair",
-      "title": "Nintendo Switch 2 leaks just revealed specs and potential release window - Tom's Guide",
-      "description": "Nintendo fans have been doing some digging",
-      "url": "https://www.tomsguide.com/gaming/nintendo/nintendo-switch-2-leaks-just-revealed-specs-and-potential-release-window",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7rmYTrFt8RkEB8NdVyezb8-1200-80.jpg",
-      "publishedAt": "2024-05-09T17:45:52Z",
-      "content": "We know that a Nintendo Switch 2 is coming, with Nintendo confirming plans to release a Switch follow-up in 2025. And now we have more details about what to expect from the Switch 2, thanks fo a seri… [+2639 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Brian Heater",
-      "title": "Google I/O 2024: How to watch - TechCrunch",
-      "description": "The keynote kicks off at 10 a.m. PT on Tuesday and will offer glimpses into the latest versions of Android, Wear OS and Android TV.",
-      "url": "https://techcrunch.com/2024/05/09/google-i-o-2024-how-to-watch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-956088114.jpg?w=1024",
-      "publishedAt": "2024-05-09T17:08:18Z",
-      "content": "Google I/O kicks off on Tuesday with a 10 a.m. PT keynote. As ever, the presentation will offer glimpses into the latest versions of the companys software platforms, including Android, Wear OS and An… [+731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "10 Reasons to Wait for Next Year's iPhone 17 - MacRumors",
-      "description": "Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive...",
-      "url": "https://www.macrumors.com/2024/05/09/10-reasons-to-wait-iphone-17/",
-      "urlToImage": "https://images.macrumors.com/t/v-r2P4S9LIQkwm29DvTDzcGKC14=/2500x/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg",
-      "publishedAt": "2024-05-09T16:00:00Z",
-      "content": "Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive ‌iPhone‌ models concurrently, which is why we sometim… [+5728 chars]"
+      "author": "Yordan",
+      "title": "Poco F6 Pro is identical to Redmi K70, Xiaomi accidentally reveals - GSMArena.com news - GSMArena.com",
+      "description": "Both phones have the same internal codenames, public update reveals. Xiaomi is working on a Poco F6 Pro and issued a public update for the phone despite it...",
+      "url": "https://www.gsmarena.com/poco_f6_pro_is_redmi_k70_xiaomi_accidentally_reveals-news-62793.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/11/xiaomi-redmi-k70-k70pro-ofic/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2024-05-09T15:57:01Z",
+      "content": "Xiaomi is working on a Poco F6 Pro and issued a public update for the phone despite it not being launched yet.\r\nThe interesting part is the file also includes the phone's codename, which is Vermeer. … [+714 chars]"
     },
     {
       "source": {
@@ -356,67 +681,15 @@
     {
       "source": {
         "id": null,
-        "name": "Android Police"
+        "name": "PhoneArena"
       },
-      "author": "Chethan Rao",
-      "title": "Google Photos could push forward with its confusing redesign - Android Police",
-      "description": "A redesign that nobody asked for",
-      "url": "https://www.androidpolice.com/google-photos-collections-tab-wider-testing-android/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/google-photos-psychedelic-hero.jpg",
-      "publishedAt": "2024-05-09T15:17:00Z",
-      "content": "Summary\r\n<ul><li> Google Photos began testing a new Collections tab to replace the existing Library tab last month. </li><li> The Photos app is now gradually bringing this Collections tab to more use… [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Abhijeet Mishra",
-      "title": "Galaxy Z Fold 4 and Z Flip 4 already getting first post-One UI 6.1 update - SamMobile - Samsung news",
-      "description": "Last weekend, Samsung initiated a surprise rollout of the One UI 6.1 update for flagship Galaxy S and Galaxy Z ...",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-4-flip-4-first-post-one-ui-6-1-update/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Samsung-Galaxy-Z-Fold-5-software-update-720x404.jpg",
-      "publishedAt": "2024-05-09T14:45:00Z",
-      "content": "Last weekend, Samsung initiated a surprise rollout of the One UI 6.1 update for flagship Galaxy S and Galaxy Z smartphones that were launched in 2021 and 2022. Today, the company is already rolling o… [+1223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Abhijeet Mishra",
-      "title": "May 2024 update rolling out to the Galaxy S24, S24+, and S24 Ultra - SamMobile - Samsung news",
-      "description": "Samsung is rolling out a new software update for its latest flagship phone lineup. The Galaxy S24, Galaxy S24+, and ...",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-may-2024-security-update-usa/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Galaxy-S24-software-update-2-720x405.jpg",
-      "publishedAt": "2024-05-09T14:40:00Z",
-      "content": "Samsung is rolling out a new software update for its latest flagship phone lineup. The Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra started getting the May 2024 security update earlier today.\r\nSamsu… [+982 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "David Kirton, Brenda Goh",
-      "title": "Exclusive: Huawei's new phone uses more China-made parts, memory chip - Reuters",
-      "description": "Huawei's latest high-end phone features more Chinese suppliers, including a new flash memory storage chip and an improved chip processor, a teardown analysis showed, pointing to the progress China is making towards technology self-sufficiency.",
-      "url": "https://www.reuters.com/technology/huaweis-new-phone-uses-more-china-made-parts-memory-chip-2024-05-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/NURHHTBOTJNW5GD53YYG7IRNDA.jpg?auth=91d3550ea9c6e65f4abd3d14e9e709fd670f54567492ca57caa8eb04749d9aa9&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-05-09T14:26:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Mike Straw",
-      "title": "Suicide Squad Cost Warner Bros. $200 Million In Revenue - Insider Gaming",
-      "description": "During its Q1 2024 earnings call, Warner Bros. said that Suicide Squad: Kill the Justice League cost the company $200 million in revenue",
-      "url": "https://insider-gaming.com/suicide-squad-cost-warner-bros-200-million-in-revenue/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/02/SuicideSquadFeatured.jpg",
-      "publishedAt": "2024-05-09T14:17:26Z",
-      "content": "The launch and performance of Suicide Squad: Kill the Justice League cost Warner Bros. $200 million in revenue. The revelation came during the company’s Q1 earnings report.\r\nIn its report, Warner Bro… [+1309 chars]"
+      "author": "Adrian Diaconescu",
+      "title": "New Q1 2024 report shows two winners for one big market, as well as major Apple progress - PhoneArena",
+      "description": "Counterpoint Research is today crowning Samsung as India's smartphone value champion and Vivo as the market's volume winner for Q1 2024, with Apple showing great progress in the region as well.",
+      "url": "https://www.phonearena.com/news/india-smartphone-market-q1-2024-report-two-winners-samsung-vivo-apple_id158163",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/158163-wide-two_1200/New-Q1-2024-report-shows-two-winners-for-one-big-market-as-well-as-major-Apple-progress.jpg",
+      "publishedAt": "2024-05-09T15:16:04Z",
+      "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
     },
     {
       "source": {
@@ -424,25 +697,12 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "ANIMAL WELL – Launch Trailer – Nintendo Switch - Nintendo of America",
-      "description": "ANIMAL WELL is available now on Nintendo Switch: https://ninten.do/6058YpUi0  Hatch from your flower and spelunk through the beautiful and sometimes haunting...",
-      "url": "https://www.youtube.com/watch?v=dbamBO7BWwY",
-      "urlToImage": "https://i.ytimg.com/vi/dbamBO7BWwY/maxresdefault.jpg",
-      "publishedAt": "2024-05-09T14:00:21Z",
+      "title": "We Tested the Most Expensive Racing Simulators | WIRED - WIRED",
+      "description": "We're putting two of the world's most luxurious racing simulators head-to-head: the ultra-premium $2 million Dynisma racing simulator against the more access...",
+      "url": "https://www.youtube.com/watch?v=PoXSmeHUMzE",
+      "urlToImage": "https://i.ytimg.com/vi/PoXSmeHUMzE/maxresdefault.jpg",
+      "publishedAt": "2024-05-09T14:06:53Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "iPad Air vs. iPad Pro Buyer's Guide: 30+ Differences Compared - MacRumors",
-      "description": "The iPad Air is now available in two size options, just like the iPad Pro. Yet after a significant update to the iPad Pro that introduces a thinner...",
-      "url": "https://www.macrumors.com/guide/ipad-air-vs-ipad-pro/",
-      "urlToImage": "https://images.macrumors.com/t/JWaB0kGQqNXlAZjF0aBgc8d_Dqc=/2500x/article-new/2024/05/iPad-Pro-2024-vs-iPad-Air-2024-Feature.jpg",
-      "publishedAt": "2024-05-09T14:00:00Z",
-      "content": "The iPad Air is now available in two size options, just like the iPad Pro. Yet after a significant update to the ‌iPad Pro‌ that introduces a thinner design and OLED displays, how different are the t… [+4942 chars]"
     },
     {
       "source": {
@@ -456,19 +716,6 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/_08Kb4hVFtRSiDuT5dflEWCxoD4=/0x0:5464x4700/1200x628/filters:focal(2732x2350:2733x2351)/cdn.vox-cdn.com/uploads/chorus_asset/file/25413635/Sonos_App_Redesign___Roam.jpg",
       "publishedAt": "2024-05-09T13:51:03Z",
       "content": "Sonos says its controversial app redesign took courage\r\nSonos says its controversial app redesign took courage\r\n / The company hears what customers are saying but insists the new app was necessary ev… [+4611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
     },
     {
       "source": {
@@ -498,55 +745,42 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Wesley Yin-Poole",
-      "title": "Suicide Squad: Kill the Justice League Flop Leads to $200 Million Impairment Charge, Warner Bros. Confirms - IGN",
-      "description": "Suicide Squad: Kill the Justice League has disappointed Warner Bros. Discovery, owner of developer Rocksteady, to the tune of a $200 million hit to revenue.",
-      "url": "https://www.ign.com/articles/suicide-squad-kill-the-justice-league-flop-leads-to-200-million-impairment-charge-warner-bros-confirms",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/12/08/suicide-squad-1702002302912.jpg?width=1280",
-      "publishedAt": "2024-05-09T13:15:49Z",
-      "content": "Suicide Squad: Kill the Justice League has disappointed Warner Bros. Discovery, owner of developer Rocksteady, to the tune of a $200 million hit to revenue.\r\nReporting its Q1 financial results, Warne… [+2247 chars]"
+      "author": "Paul Tassi",
+      "title": "Despite PSN Reversal, 177 Delisted 'Helldivers 2' Regions Remain In Limbo - Forbes",
+      "description": "But it does not appear to be “Mission Accomplished” after all, as those 177 regions, for some reason, are still in limbo. They still cannot buy Helldivers 2 again.",
+      "url": "https://www.forbes.com/sites/paultassi/2024/05/09/despite-psn-reversal-177-delisted-helldivers-2-regions-remain-in-limbo/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c8f038ae99f8af94254fa3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-05-09T13:16:14Z",
+      "content": "Helldivers 2\r\nSony\r\nHelldivers 2 players are celebrating the defeat of Sony, having complained enough to force PlayStation to retract its demand that new and existing players would have to link their… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Motorola's midrange stylus phone gets wireless charging and a glow-up - The Verge",
+      "description": "With a vegan leather finish, built-in stylus, and fun colors like scarlet wave, the 2024 Motorola Stylus 5G looks pretty good on paper.",
+      "url": "https://www.theverge.com/2024/5/9/24152089/motorola-moto-g-stylus-5g-2024-screen-charging-price-specs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/O2AfYrATj53nGrZItbSht_eEK4I=/0x0:2000x1500/1200x628/filters:focal(1000x750:1001x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/25439460/Lifestyle___caramel___scarlet.jpg",
+      "publishedAt": "2024-05-09T13:00:00Z",
+      "content": "Motorolas midrange stylus phone gets wireless charging and a glow-up\r\nMotorolas midrange stylus phone gets wireless charging and a glow-up\r\n / Boring rectangles are out, fun colors are in.\r\nByAllison… [+2177 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Gadgets360.com"
       },
-      "author": "James Batchelor",
-      "title": "Nintendo: No Switch 2 before April 2025 - GamesIndustry.biz",
-      "description": "Nintendo has suggested that the successor to the Switch will not arrive before March 31, 2025, indicating an April rele…",
-      "url": "https://www.gamesindustry.biz/nintendo-no-switch-2-before-april-2025",
-      "urlToImage": "https://assetsio.gnwcdn.com/shuntaro-furukawa-and-switch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-05-09T13:10:05Z",
-      "content": "Nintendo has suggested that the successor to the Switch will not arrive before March 31, 2025, indicating an April release at the very earliest.\r\nIn the Q&amp;A transcript of this week's earnings cal… [+3403 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Sandip Chakraborty",
-      "title": "Amazon launches new Fire TV Stick 4K with HDR10 Plus, Dolby Vision, and more - Moneycontrol",
-      "description": "The 2024 Fire TV Stick 4K has been priced at Rs 5,999 and is now available for pre-order on Amazon India with sales scheduled to commence from May 13.",
-      "url": "https://www.moneycontrol.com/technology/amazon-launches-new-fire-tv-stick-4k-with-hdr10-plus-dolby-vision-and-more-article-12718576.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/05/20240509130716_Fire-TV-Stick-4K-is-Amazons-most-powerful-streaming-stick-in-India-2.jpg",
-      "publishedAt": "2024-05-09T13:07:49Z",
-      "content": "Amazon has launched its latest Fire TV Stick 4K in India. The streaming stick supports 4K content with UltraHD picture quality. It has Dolby Vision and HDR10+ support. Moreover, the streaming stick s… [+1352 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Divya Bhati",
-      "title": "Apple iPhone 15 Pro vs iPhone 16 Pro: Biggest upgrades expected in the 2024 flagship - India Today",
-      "description": "Apple039s iPhone 16 Pro series expected to launch in 2024 is rumoured to bring substantial upgrades from the iPhone 15 Pro series including larger display advanced A18 chip and significant camera improvements",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-iphone-15-pro-vs-iphone-16-pro-biggest-upgrades-expected-in-the-2024-flagship-2537214-2024-05-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/iphone-15-pro-max-291834181-16x9_1.png?VersionId=im5vfgahpFZM8AQuVyY4fRxbRYNDlNb1",
-      "publishedAt": "2024-05-09T12:43:26Z",
-      "content": "Apple recently introduced its new, faster, and better iPad lineup, and next in line is the iPhone 16 series. Though the launch is still months away, Apple's highly anticipated iPhone 16 Pro and iPhon… [+4461 chars]"
+      "author": "Sucharita Ganguly, Siddharth Suvarna",
+      "title": "Tecno Camon 30 Series India Launch Officially Teased; Confirmed to Feature Sony Cameras - Gadgets 360",
+      "description": "Tecno Camon 30 series will be unveiled in India soon. The company has confirmed the launch of the lineup in the country. However, it has not been revealed which models will see an India launch. The series includes four models - Tecno Camon 30, Camon 30 5G, Ca…",
+      "url": "https://www.gadgets360.com/mobiles/news/tecno-camon-30-series-india-launch-official-teaser-sony-cameras-5624388",
+      "urlToImage": "https://i.gadgets360cdn.com/large/tecno_camon_30_series_tecno_1_1715246638648.jpg",
+      "publishedAt": "2024-05-09T12:03:33Z",
+      "content": "Tecno Camon 30 series will be unveiled in India soon. The company has confirmed the launch of the lineup in the country. However, Tecno has not revealed which models will see an India launch. The ser… [+2448 chars]"
     },
     {
       "source": {
@@ -577,32 +811,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "CNBCTV18.COM",
-      "title": "BMW unveils track-focused car M4 CS: Explore speed and features - CNBCTV18",
-      "description": "BMW expands its ‘Competition Sport’ line-up with the global unveiling of the M4 CS. This track-focused car boasts more power, less weight, and a reworked chassis.",
-      "url": "https://www.cnbctv18.com/webstories/auto/bmw-unveils-track-focused-car-m4-cs-explore-speed-and-features-20178.htm",
-      "urlToImage": "https://images.news18.com/webstories/uploads/2024/05/cropped-BMW-M4-CS_10-2024-05-06c2460ce39d094f213cac507c2e3ec2.jpg",
-      "publishedAt": "2024-05-09T11:33:50Z",
-      "content": "MW has globally unveiled the M4 CS, a new addition to its CS or Competition Sport line-up of track-focused cars."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GSMArena.com"
       },
       "author": "Yordan",
@@ -616,80 +824,41 @@
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "TrueAchievements"
       },
-      "author": "Ankita Chakravarti",
-      "title": "Motorola Edge 50 Fusion to launch in India in May: Check price, specifications and more - India Today",
-      "description": "Motorola is set to launch the Edge 50 Fusion in India on May 16th The new phone from the Edge 50 series has already been launched globally and will be available on Flipkart",
-      "url": "https://www.indiatoday.in/technology/news/story/motorola-edge-50-fusion-to-launch-in-india-in-may-check-price-specifications-and-more-2537133-2024-05-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/motorola-edge-50-pro-035026833-16x9.jpg?VersionId=i.ry9yloS2S8kSy39IME6FBQsqueNXyx",
-      "publishedAt": "2024-05-09T10:44:26Z",
-      "content": "Motorola is all set to launch a new phone in the Edge 50 series. The Edge 50 Fusion is going to be the new phone in the line up. Motorola has now confirmed the launch date of the phone in India and i… [+2591 chars]"
+      "author": null,
+      "title": "Free Play Days features four free Xbox games this weekend - TrueAchievements",
+      "description": "Xbox Free Play Days gives Xbox Game Pass Ultimate and Core subscribers four games they can play for free this weekend, including Crime Boss: Rockay City.",
+      "url": "https://www.trueachievements.com/news/free-play-days-games-may-9",
+      "urlToImage": "https://www.trueachievements.com/imgs/148776/free-play-days-features-four-free-xbox-games-this-weekend.jpg",
+      "publishedAt": "2024-05-09T09:37:27Z",
+      "content": "Microsoft has announced this weekend's free Xbox games with Free Play Days. Xbox Game Pass Ultimate and Xbox Game Pass Core subscribers can now play Crime Boss: Rockay City, Cities: Skylines Remaster… [+1204 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Rock Paper Shotgun"
+        "name": "GSMArena.com"
       },
-      "author": "Nic Reuben",
-      "title": "More Xbox studio cuts likely to follow Tango and Arkane Austin, and Game Pass looks like the culprit - Rock Paper Shotgun",
-      "description": "More studio cuts could follow Hi-Fi Rush studio Tango and Redfall devs Arkane Austin, report Bloomberg",
-      "url": "https://www.rockpapershotgun.com/more-xbox-studio-cuts-likely-to-follow-tango-and-arkane-austin-and-game-pass-looks-like-the-culprit",
-      "urlToImage": "https://assetsio.gnwcdn.com/90415_2_1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2024-05-09T09:34:36Z",
-      "content": "Like us, you’re probably still reeling from Tuesday’s news that Hi-Fi Rush studio Tango and Prey’s Arkane Austin are getting shuttered by Microsoft. According to Bloomberg, these closures were just a… [+2620 chars]"
+      "author": "Michail",
+      "title": "Realme GT Neo6 announced with SD 8s Gen 3 and up to 1TB storage - GSMArena.com",
+      "description": "Realme's latest flagship killer is going on open sale in China from May 15. Realme’s latest GT series phone is here with the GT Neo6 and it offers flagship...",
+      "url": "https://www.gsmarena.com/realme_gt_neo6_announced_-news-62788.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/realme-gt-neo6-ofic/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2024-05-09T09:17:01Z",
+      "content": "Realmes latest GT series phone is here with the GT Neo6 and it offers flagship territory specs at a fraction of the price. It features Qualcomms recently announced Snapdragon 8s Gen 3 chipset at the … [+1007 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gadgets360.com"
+        "name": "Tom's Guide"
       },
-      "author": "David Delima",
-      "title": "Instagram Testing Support for Cross-Posting Images to Threads: Report - Gadgets 360",
-      "description": "Instagram Threads cross posting could soon be introduced by the company. According to a report, the ability to cross post content to Threads while uploading images on Instagram is being tested with some users. The new opt-in feature is reportedly in testing v…",
-      "url": "https://www.gadgets360.com/apps/news/threads-instagram-cross-posting-feature-testing-report-5624285",
-      "urlToImage": "https://i.gadgets360cdn.com/large/threads_reuters_1689050644182.jpg",
-      "publishedAt": "2024-05-09T09:18:44Z",
-      "content": "Threads Meta's microblogging service that competes with X (formerly Twitter) could add support for cross-posting content from Instagram. According to a report, some accounts have been updated with an… [+1827 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "WiiM announces two new wireless audiophile streamers — one with a touchscreen - The Verge",
-      "description": "WiiM adds two new hi-fi wireless streaming boxes to its lineup, the Ultra and the Amp Pro, both with support for streaming standards like AirPlay 2 and Chromecast.",
-      "url": "https://www.theverge.com/2024/5/9/24152014/wiim-ultra-amp-pro-streaming-airplay-2-chromecast",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3G11kleRaGp2SuUq2AZtvLrgFms=/0x0:2050x1207/1200x628/filters:focal(1025x604:1026x605)/cdn.vox-cdn.com/uploads/chorus_asset/file/25439381/WiiM_Ultra_and_Pro.png",
-      "publishedAt": "2024-05-09T09:00:00Z",
-      "content": "WiiM announces two new wireless audiophile streamers one with a touchscreen\r\nWiiM announces two new wireless audiophile streamers one with a touchscreen\r\n / The WiiM Ultra and WiiM Amp Pro add to the… [+1636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Prakruti Mishra",
-      "title": "Pixel 8a: How 2024 affordable Google phone compares to Pixel 7a, Pixel 8 - Business Standard",
-      "description": "A significant upgrade over the Pixel 7a, the Pixel 8a has several features from the Pixel 8 and Pixel 8 Pro such as Google Gemini AI and gesture-driven Circle to Search",
-      "url": "https://www.business-standard.com/technology/tech-news/pixel-8a-how-2024-affordable-google-phone-compares-to-pixel-7a-pixel-8-124050900468_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/09/thumb/fitandfill/400X400/1715241288-1887.png",
-      "publishedAt": "2024-05-09T08:16:33Z",
-      "content": "A significant upgrade over the Pixel 7a, the Pixel 8a has several features from the Pixel 8 and Pixel 8 Pro such as Google Gemini AI and gesture-driven Circle to Search\r\nPixel\r\nPrakruti MishraNew Del… [+3232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "India Today Tech",
-      "title": "Vivo V30e is now available for purchase in India: Check price and specifications - India Today",
-      "description": "Vivo039s slimmest smartphone the Vivo V30e is now available for purchase in India The phone boasts a 50MP Sony IMX882 OIS Main Camera a 5500mAh battery and an ultra-slim 3D curved display",
-      "url": "https://www.indiatoday.in/technology/news/story/vivo-v30e-is-now-available-for-purchase-in-india-check-price-and-specifications-2537044-2024-05-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/vivo-v30e-5g-023750589-16x9.jpg?VersionId=5HINwPBYlrv7WNwP5CZvdRt7pc2CuGxT",
-      "publishedAt": "2024-05-09T07:49:46Z",
-      "content": "Vivo’s slimmed phone, the Vivo V30e is now available for purchase in India.The recently launched vivo V30e is India’s slimmest smartphone to house a 5,500mAh battery. The device comes with a segment-… [+2217 chars]"
+      "author": "Philip Michaels",
+      "title": "This Galaxy Z Fold 6 rumor has me convinced Samsung is gunning for its foldable phone rivals - Tom's Guide",
+      "description": "Can Samsung regain the top spot among foldable phones?",
+      "url": "https://www.tomsguide.com/phones/samsung-phones/this-galaxy-z-fold-6-rumor-has-me-convinced-samsung-is-gunning-for-its-foldable-phone-rivals",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bd2vHeJhkaLeHCqG7vtha9-1200-80.jpg",
+      "publishedAt": "2024-05-09T08:30:44Z",
+      "content": "When it comes to the best foldable phones, Samsung isn't used to playing second fiddle to anyone, having essentially invented the category with its own lineup of foldable devices. But that was before… [+4347 chars]"
     },
     {
       "source": {
@@ -707,32 +876,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "David Delima",
-      "title": "Google's Android 14 May Security Update Rolls Out, Pixel 8 Gets Camera Bug Fix: How to Download - Gadgets 360",
-      "description": "Google Pixel 8 and other supported Pixel models are now receiving the Android 14 May security update. The company has fixed Pixel 8 a bug that affects camera performance on the Pixel 8 series, while improving the stability or performance for Bluetooth Low Ene…",
-      "url": "https://www.gadgets360.com/mobiles/news/google-pixel-8-android-14-update-may-security-patches-bug-fixes-how-to-download-5623243",
-      "urlToImage": "https://i.gadgets360cdn.com/large/pixel_8_pro_1710759682607.jpg",
-      "publishedAt": "2024-05-09T07:12:38Z",
-      "content": "Google has rolled out the Android 14 May security update for supported Pixel smartphones. Earlier this week, the company announced that its latest updates for Pixel phones and the Pixel Tablet bring … [+1989 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "SamMobile, Asif Iqbal Shaik",
-      "title": "Android 15 could bring better third-party camera apps to Galaxy phones - SamMobile - Samsung news",
-      "description": "While Android is more open than iOS and iPadOS, there is one area where Android apps have always lagged: third-party ...",
-      "url": "https://www.sammobile.com/news/android-15-better-third-party-camera-apps/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/04/Galaxy-S24-Ultra-camera-720x405.jpg",
-      "publishedAt": "2024-05-09T06:55:00Z",
-      "content": "While Android is more open than iOS and iPadOS, there is one area where Android apps have always lagged: third-party camera apps. The Android ecosystem has struggled because third-party apps can't ac… [+2133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Android Authority"
       },
       "author": null,
@@ -742,6 +885,19 @@
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/06/motorola-razr-plus-cover-screen-laying-down.jpg",
       "publishedAt": "2024-05-09T04:52:29Z",
       "content": "<ul><li>The price and colorways of the Motorola Razr Plus (2024), aka the Motorola Razr 50 Ultra, have leaked.</li><li>The phone could cost the same as last year with a welcome storage and RAM upgrad… [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Quint"
+      },
+      "author": "Raajwrita Dutta",
+      "title": "Garena Free Fire MAX Redeem Codes for Today, 9 May 2024: How To Win Freebies - The Quint",
+      "description": "The Garena Free Fire MAX redeem codes for today, Thursday, 9 May 2024, are updated on reward.ff.garena.com. Read the steps here to claim the active codes and win freebies.",
+      "url": "https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-max-redeem-codes-today-know-how-to-win-freebies-and-rewards-latest-details",
+      "urlToImage": "https://images.thequint.com/thequint%2F2024-05%2F36dae464-7a0b-4e79-a741-2c9e2272eabe%2Fgarena.jpg?rect=0%2C0%2C1440%2C756",
+      "publishedAt": "2024-05-09T04:39:04Z",
+      "content": "Registered players can start using the new set of Garena Free Fire MAX redeem codes for today, Thursday, 9 May 2024. One should note that the active codes are present on the redemption website - rewa… [+648 chars]"
     },
     {
       "source": {
@@ -759,41 +915,15 @@
     {
       "source": {
         "id": null,
-        "name": "Omgubuntu.co.uk"
+        "name": "Hindustan Times"
       },
-      "author": "Joey Sneddon",
-      "title": "Add Gemini AI to Ubuntu Desktop with this GNOME Extension - OMG! Ubuntu!",
-      "description": "If you use Ubuntu 22.04 LTS or later and want to access the Google Gemini AI chatbot straight from your desktop outside of a web browser, you’re in luck! The Gemini AI ChatBot GNOME Shell [&h...",
-      "url": "https://www.omgubuntu.co.uk/2024/05/gemini-ai-gnome-shell-extension",
-      "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2024/05/gemini-ai-gnome-extension-1.jpg",
-      "publishedAt": "2024-05-09T02:59:36Z",
-      "content": "If you use Ubuntu 22.04 LTS or later and want to access the Google Gemini AI chatbot straight from your desktop outside of a web browser, you’re in luck!\r\nThe Gemini AI ChatBot GNOME Shell extension … [+4256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Taylor Lyles",
-      "title": "Microsoft Debating Call of Duty on Game Pass Along With Another Price Hike - Report - IGN",
-      "description": "A new report from The Verge claims that Microsoft has been having \"ongoing\" internal debates as to whether or not it wants to add new Call of Duty installments on Game Pass.",
-      "url": "https://www.ign.com/articles/microsoft-debating-call-of-duty-on-game-pass-along-with-another-price-hike-report",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/01/black-ops-cold-war-1603212446209-1714587818707.jpg?width=1280",
-      "publishedAt": "2024-05-08T20:54:19Z",
-      "content": "After Microsoft purchased Activision Blizzard, many wondered whether the tech giant would follow its current precedent of putting its first-party games on Game Pass on the same day as their official … [+2287 chars]"
+      "author": "HT News Desk",
+      "title": "Doctors in Chennai hospital use Apple Vision Pro headset for surgeries - Hindustan Times",
+      "description": "Dr R Parthasarathy of GEM Hospitals said with introduction of Apple Vision Pro headset, task of performing surgeries has become much easier. | Latest News India",
+      "url": "https://www.hindustantimes.com/cities/doctors-in-chennai-hospital-use-apple-vision-pro-headset-for-surgeries-101715213153098.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/09/1600x900/Screenshot_2024-05-09_054337_1715213624724_1715213633363.jpg",
+      "publishedAt": "2024-05-09T01:13:18Z",
+      "content": "Surgeons at Chennai's GEM Hospital are now equipped with Apple Vision Pro mixed reality headsets to carry out laparoscopic surgeries ranging from gall bladder procedures to surgery to treat stomach c… [+2731 chars]"
     },
     {
       "source": {
@@ -807,136 +937,6 @@
       "urlToImage": "https://www.yankodesign.com/images/design_news/2024/05/the-new-apple-pencil-pro-is-a-death-sentence-for-wacom/apple_pencil_pro_wacom_hero.jpg",
       "publishedAt": "2024-05-08T20:45:37Z",
       "content": "Wacom was once an industry leader in the sketching tablet PC market. However, it’s no match for the deadly combo of the new iPad Pro M4 and the Apple Pencil Pro. Announced at the iPad keynote yesterd… [+5396 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "John Timmer",
-      "title": "DeepMind adds a diffusion engine to latest protein-folding software - Ars Technica",
-      "description": "Major under-the-hood changes let AlphaFold handle protein-DNA complexes and more.",
-      "url": "https://arstechnica.com/science/2024/05/deepmind-adds-a-diffusion-engine-to-latest-protein-folding-software/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-2.54.53 PM-760x380.png",
-      "publishedAt": "2024-05-08T19:45:12Z",
-      "content": "Enlarge/ Prediction of the structure of a coronavirus Spike protein from a virus that causes the common cold.\r\n22\r\nMost of the activities that go on inside cellsthe activities that keep us living, br… [+4228 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google brings a variation on 'Circle to Search' to iPhone users - TechCrunch",
-      "description": "The Action Button allows users to customize the functionality of the iPhone’s side button to their own needs.",
-      "url": "https://techcrunch.com/2024/05/08/google-brings-a-variation-on-circle-to-search-to-iphone-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/android-circle-to-search.jpeg",
-      "publishedAt": "2024-05-08T17:53:15Z",
-      "content": "Google has found a way to bring a variation of its clever Circle to Search gesture to iPhone users. The new interaction, launched in January, allows Android users to search from anywhere on their dev… [+2454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "New AI Tools Predict How Life’s Building Blocks Assemble - Quanta Magazine",
-      "description": "Google DeepMind’s AlphaFold3 and other deep learning algorithms can now predict the shapes of interacting complexes of protein, DNA, RNA and other molecules, better capturing cells’ biological landscapes.",
-      "url": "https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/",
-      "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/05/AI_Biomolecule-byAdamNickel-Social.webp",
-      "publishedAt": "2024-05-08T17:46:58Z",
-      "content": "Proteins are the molecular machines that sustain every cell and organism, and knowing what they look like will be critical to untangling how they function normally and malfunction in disease. Now res… [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Samsung Galaxy Z Fold 6 leak hints at wider outer display and sharper design, report | Mint - Mint",
-      "description": "Recent leaks reveal a possible design evolution for the Samsung Galaxy Z Fold 6, drawing inspiration from the Galaxy S24 Ultra. Changes include a wider outer display and sharper corners, but concerns persist about the camera quality and aspect ratio compared …",
-      "url": "https://www.livemint.com/technology/tech-news/samsung-galaxy-z-fold-6-leak-hints-at-wider-outer-display-and-sharper-design-report-11715189271279.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/08/1600x900/fold_2_1690373799092_1715189528661.jpg",
-      "publishedAt": "2024-05-08T17:36:06Z",
-      "content": "A recent leak from US-based case maker Thinborne hints at a significant design shift for the upcoming Samsung Galaxy Z Fold 6. This new design, which seems to draw inspiration from the Samsung Galaxy… [+2611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "OnePlus might be preparing more bloatware for your phone - 9to5Google",
-      "description": "According to new code findings, OnePlus may be preparing to push more bloatware apps on its phones in the future.",
-      "url": "http://9to5google.com/2024/05/08/oneplus-bloatware-apps-prep/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/oneplus-12-1-24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-05-08T17:35:00Z",
-      "content": "Bloatware has been a long-time problem for Android devices, but some brands have stood against it for a while. OnePlus, though, seems to be sneaking more bloatware onto its devices as of late.\r\nOnePl… [+2856 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Mike Straw",
-      "title": "Could Rockstar Be Gearing Up For a GTA 6 Announcement? - Insider Gaming",
-      "description": "An update to the game's official website and backend data seems to tease an upcoming announcement for Grand Theft Auto (GTA) 6 from Rockstar.",
-      "url": "https://insider-gaming.com/could-rockstar-be-gearing-up-for-a-gta-6-announcement/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2023/12/GTA-6-Trailer-Protagonist-Robbery.webp",
-      "publishedAt": "2024-05-08T16:18:56Z",
-      "content": "Could Rockstar be preparing for some sort of reveal or announcement for Grand Theft Auto (GTA) 6? According to keen-eyed fans online, that might just be the case.\r\nAll over social media, fans have be… [+1381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Meredith Garofalo",
-      "title": "Private lunar lander to carry 'memory disk' of 275 human languages to the moon in 2024 - Space.com",
-      "description": "ispace will send a time capsule of 275 human languages to the moon as part of its lunar mission later this year.",
-      "url": "https://www.space.com/moon-lander-ispace-hakuto-r-memory-disk-human-languages-unesco",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eDi36ZHc6NBJpK4FWpaQq6-1200-80.jpg",
-      "publishedAt": "2024-05-08T12:59:24Z",
-      "content": "Many of us remember building time capsules to preserve memories from our lives on the ground. Now, on a bigger scale, humanity's languages and culture will get their own safeguards on a mission to th… [+2951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Affiliate Desk",
-      "title": "Samsung 43-inch Smart TVs you can buy today: Top 5 options for you | Mint - Mint",
-      "description": "Looking for the perfect Samsung 43-inch smart TV? Check out our top 5 picks to find the best one for you!",
-      "url": "https://www.livemint.com/technology/gadgets/samsung-43-inch-smart-tvs-you-can-buy-today-top-5-options-for-you-11715155183692.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/08/1600x900/B0BFFHGML2_1367765063264943328_1715155180611.jpg",
-      "publishedAt": "2024-05-08T12:46:17Z",
-      "content": "1. Samsung 43 Inches Crystal 4K UHD Smart TV UA43DUE77AKLXL\r\nThe Samsung UA43DUE77AKLXL is a stunning 43 inch smart TV that boasts crystal clear 4K UHD resolution. With a sleek design and smart featu… [+7045 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft is 'turning everyone into a prompt engineer' with new Copilot AI features - The Verge",
-      "description": "Microsoft has some new Copilot for Microsoft 365 features that are designed to make it easier to use AI prompts. Auto-complete and rewrite are coming soon.",
-      "url": "https://www.theverge.com/2024/5/8/24151847/microsoft-copilot-rewrite-prompt-feature-microsoft-365",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wXWy4m-WvJnPWHKtZasWDuQKsXY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png",
-      "publishedAt": "2024-05-08T12:00:00Z",
-      "content": "Microsoft is turning everyone into a prompt engineer with new Copilot AI features\r\nMicrosoft is turning everyone into a prompt engineer with new Copilot AI features\r\n / Copilot for Microsoft 365 is g… [+3405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "David Delima",
-      "title": "iPad (2022) Price in India Cut After Launch of New iPad Air, iPad Pro Models: Price, Specifications - Gadgets 360",
-      "description": "iPad (2022) price in India has been cut, and the successor to Apple's 2021 iPad model can now be purchased at a lower price in the country. The iPad (10th generation) price in India cut has been introduced after the launch of the new iPad Pro (2024) and iPad …",
-      "url": "https://www.gadgets360.com/tablets/news/ipad-2022-10th-generation-price-india-cut-apple-store-specifications-features-5617513",
-      "urlToImage": "https://i.gadgets360cdn.com/large/iPad_10th-generation_1668676494054.jpg",
-      "publishedAt": "2024-05-08T11:31:05Z",
-      "content": "iPad (2022) price in India has been cut by Apple, following the launch of the new iPad Air (2024) and iPad Pro (2024) models on Tuesday. The successor to the standard iPad that was launched in 2022 c… [+2002 chars]"
     }
   ]
 }
