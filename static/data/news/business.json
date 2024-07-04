@@ -1,123 +1,344 @@
 {
   "status": "ok",
-  "totalResults": 134,
+  "totalResults": 130,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Karen Friar",
-      "title": "Stock market today: S&P 500, Nasdaq close at record highs as Powell touts inflation progress - Yahoo Finance",
-      "description": "Investors cautiously weighed the rate-cut odds ahead of crucial June jobs data, with Powell comments on deck.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-close-at-record-highs-as-powell-touts-inflation-progress-184217556.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0YRAAYvLm6CVA7uh82ifMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/2ec0e2c0-0919-11ef-af57-6967d60bf438",
-      "publishedAt": "2024-07-02T20:17:47Z",
-      "content": "Federal Reserve Chair Jerome Powell spoke publicly on Tuesday for the first time since the Fed's preferred inflation gauge showed prices increased at their slowest pace in more than three years durin… [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Axios",
-      "title": "Eli Lilly's Alzheimer's drug approved by FDA - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2024/07/02/eli-lilly-donanemab-alzheimers-fda-approval",
-      "urlToImage": null,
-      "publishedAt": "2024-07-02T20:12:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Aislinn Murphy",
-      "title": "McDonald's introducing limited-time 'Special Grade Garlic Sauce' to app for dipping - Fox Business",
-      "description": "McDonald's has a limited-time \"Special Grade Garlic Sauce\" hitting the US market soon. Customers will only be able to get it through the fast food chain's app.",
-      "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-introducing-limited-time-special-grade-garlic-sauce-app-dipping",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/McDonalds-Sign.jpg?ve=1&tl=1",
-      "publishedAt": "2024-07-02T19:33:00Z",
-      "content": "McDonald’s has a limited-time garlic dipping sauce hitting the U.S. market soon. \r\nThe fast-food chain said Tuesday customers can start ordering the upcoming Special Grade Garlic Sauce exclusively th… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Google's carbon footprint balloons in its Gemini AI era - The Verge",
-      "description": "Google’s carbon footprint is growing as it focuses on AI, the company’s latest environmental report shows.",
-      "url": "https://www.theverge.com/2024/7/2/24190874/google-ai-climate-change-carbon-emissions-rise",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
-      "publishedAt": "2024-07-02T19:30:27Z",
-      "content": "Googles carbon footprint balloons in its Gemini AI era\r\nGoogles carbon footprint balloons in its Gemini AI era\r\n / Despite the companys climate goals, Googles greenhouse gas emissions are on the rise… [+3010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "FTC sues to block $4B merger of mattress firms - Fox Business",
-      "description": "The Federal Trade Commission voted to file a lawsuit to block the proposed $4 billion merger between Tempur Sealy and Mattress Firm over concerns about its competitive impact.",
-      "url": "https://www.foxbusiness.com/politics/ftc-sues-block-4b-merger-mattress-firms",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Tempur-Sealy-Mattress-Firm.jpg?ve=1&tl=1",
-      "publishedAt": "2024-07-02T19:02:00Z",
-      "content": "The Federal Trade Commission (FTC)\r\n announced Tuesday that it will file a lawsuit to block the proposed $4 billion merger between mattress manufacturer Tempur Sealy and retailer Mattress Firm that w… [+3975 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "Tesla Deliveries Slump but Not as Much as Feared - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/teslas-second-quarter-vehicle-deliveries-fell-4-8-7dea363d",
-      "urlToImage": null,
-      "publishedAt": "2024-07-02T17:37:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
+        "id": "reuters",
+        "name": "Reuters"
       },
       "author": "Reuters",
-      "title": "US to block Tempur Sealy's $4 billion Mattress Firm deal By Reuters - Investing.com",
-      "description": "US to block Tempur Sealy's $4 billion Mattress Firm deal",
-      "url": "https://www.investing.com/news/stock-market-news/us-to-block-tempur-sealys-4-billion-buy-of-retailer-mattress-firm-3505607",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_L.jpg",
-      "publishedAt": "2024-07-02T17:26:15Z",
-      "content": "By Jody Godoy\r\n(Reuters) -The U.S. Federal Trade Commission said on Tuesday it will sue to block the $4 billion merger between mattress manufacturer Tempur Sealy (NYSE:TPX) International Inc and reta… [+1748 chars]"
+      "title": "High-tech cash: Japan launches banknotes with hologram portraits - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/markets/currencies/japans-first-new-banknotes-20-years-use-holograms-defeat-counterfeits-2024-07-03/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-03T06:33:20Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "CNBCTV18"
       },
-      "author": "Camilla Hodgson and Stephen Morris, Financial Times",
-      "title": "Google's greenhouse gas emissions jump 48% in five years - Ars Technica",
-      "description": "Google's 2030 \"Net zero\" target looks increasingly doubtful as AI use soars.",
-      "url": "https://www.ft.com/content/383719aa-df38-4ae3-ab0e-6279a897915e",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/09/IDI_014-640x215.jpg",
-      "publishedAt": "2024-07-02T17:25:45Z",
-      "content": "Cooling pipes at a Google data center in Douglas County, Georgia.\r\n27\r\nGoogles greenhouse gas emissions have surged 48 percent in the past five years due to the expansion of its data centers that und… [+3354 chars]"
+      "author": "Hormaz Fatakia",
+      "title": "Shares of this 'Miniratna' PSU surge over 8% to near record levels after its Q1 business update - CNBCTV18",
+      "description": "MOIL CMD Ajit Kumar Saxena said that he is confident that the company will continue this business momentum in the quarters ahead.",
+      "url": "https://www.cnbctv18.com/market/moil-share-price-near-record-high-q1-business-update-production-sales-best-prices-19437348.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2022/06/stock-market-file-photo-shutterstock.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-03T04:49:19Z",
+      "content": "Shares of Manganese Ore (India) Ltd. or MOIL surged as much as 8.9% on Wednesday to 535 after the company released a record quarterly update on Tuesday evening.The company in an exchange filing on Tu… [+1454 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Food-safety.com"
+        "name": "CNBCTV18"
       },
-      "author": "Food Safety Magazine Editorial Team",
-      "title": "BVO No Longer Authorized for Food Use by FDA - Food Safety Magazine",
-      "description": "<p>Effective August 2, 2024, the U.S. Food and Drug Administration (FDA) has revoked its authorization of the use of brominated vegetable oil (BVO) in food due to studies showing the potential for adverse health effects to humans.</p>",
-      "url": "https://www.food-safety.com/articles/9585-bvo-no-longer-authorized-for-food-use-by-fda",
-      "urlToImage": "https://www.food-safety.com/ext/resources/News/2024/person-drinking-from-soda-bottle.png?height=635&t=1719939286&width=1200",
-      "publishedAt": "2024-07-02T16:56:51Z",
-      "content": "Effective August 2, 2024, the U.S. Food and Drug Administration (FDA) has revoked its authorization of the use of brominated vegetable oil (BVO) in food due to studies showing the potential for adver… [+2271 chars]"
+      "author": "https://www.cnbctv18.com",
+      "title": "Analysts recommend buying Deepak Nitrite, TCS, L&T, Samvardhana Motherson and Persistent Systems - CNBCTV18",
+      "description": "On Wednesday, market tech analysts Soni Patnaik, Mitessh Thakkar and F&O analyst Rajesh Palviya recommended these stocks for the short term.",
+      "url": "https://www.cnbctv18.com/photos/market/deepak-nitrite-tcs-larsen-toubro-samvardhana-motherson-persistent-systems-top-stock-picks-19437260.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2023/04/2020-11-04T074428Z_1843634276_RC27WJ98S4AY_RTRMADP_3_INDIA-STOCKS.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-03T04:08:54Z",
+      "content": "Technical analysts Soni Patnaik of JM Financial Services, Mitessh Thakkar of earningwaves.com, along with Rajesh Palviya, VP-Tech and Derivative Research, Axis Securities share their top stock picks … [+1553 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Business Desk",
+      "title": "Stock market today: BSE Sensex crosses 80,000 for the first time; Nifty50 hits new lifetime high as bulls - The Times of India",
+      "description": "India Business News: Stock market today: BSE Sensex and Nifty50, the Indian equity benchmark indices, scaled new lifetime highs in trade today with the 30-share index cros",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-nifty50-july-03-2024-dalal-street-indian-equities-global-markets/articleshow/111445492.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111445533,width-1070,height-580,imgsize-118558,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-03T03:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Meghna Sen",
+      "title": "Emcure Pharma IPO opens today: GMP rises; should you subscribe to the issue? - CNBCTV18",
+      "description": "Considering the company's strengths, growth trajectory, and the potential for debt reduction post-IPO, most analysts have recommended investors to apply to this IPO with a long-term view.",
+      "url": "https://www.cnbctv18.com/market/emcure-pharma-ipo-subscription-opens-know-gmp-share-price-issue-review-should-you-bid-19437276.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2020/02/paracetamol-medicines-drugs-pharma-pharceuticals-e1587487275172.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-03T03:38:57Z",
+      "content": "The initial public offering (IPO) of Emcure Pharmaceuticals Ltd. opens for bidding on Wednesday, July 3 and can be subscribed till Friday, July 5. The company is offering its shares in the fixed pric… [+5309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "HDFC Bank hits new record high on June shareholding data, potential MSCI boost - Moneycontrol",
+      "description": "With foreign investors' stake below 55 percent in June quarter, analysts expect weighting to double on the MSCI Standard index reshuffle",
+      "url": "https://www.moneycontrol.com/news/business/markets/brokerages-bullish-on-hdfc-bank-as-fii-stake-drops-below-55-eyes-msci-boost-12761091.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/03/HDFC-BANK.jpg",
+      "publishedAt": "2024-07-03T03:35:19Z",
+      "content": "Shares of HDFC Bank surged 3.5 percent to hit an all-time high of Rs 1,791 per share on July 3, following 4 percent rally of its American Depository Receipts (ADRs) overnight to $66.9 apiece post the… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dsij.in"
+      },
+      "author": "Rakesh Deshmukh",
+      "title": "Penny Stock Under Rs 5: DIIs Own 43.25 per cent Stake, Stock Hits Upper Circuit Consecutively for 12 Days, Gains 140 per cent in 1 Month! - Dalal Street Investment Journal",
+      "description": "LIC Backed Multibagger Construction Stock has delivered an impressive multibagger return of 140 per cent in just 1 month.",
+      "url": "https://www.dsij.in/dsijarticledetail/penny-stock-under-rs-5-diis-own-4325-per-cent-stake-stock-hits-upper-circuit-consecutively-for-12-days-gains-140-per-cent-in-1-month",
+      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/39403/image_4148.jpg",
+      "publishedAt": "2024-07-03T03:22:30Z",
+      "content": "LIC Backed Multibagger Construction Stock has delivered an impressive multibagger returns of 140 per cent in just 1 month.\r\nIncorporated in 2004, this company specializes in providing passive telecom… [+1852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Dhanya Nagasundaram",
+      "title": "Vraj Iron and Steel IPO listing date today. Here’s what GMP, expert say on share debut | Stock Market News - Mint",
+      "description": "Vraj Iron and Steel IPO listing date set for today at 10:00 IST. Shares to list in pre-open session on both BSE and NSE. Equity shares to be listed on BSE within ’T’ Group of Securities list.",
+      "url": "https://www.livemint.com/market/ipo/vraj-iron-and-steel-ipo-listing-date-today-here-s-what-gmp-expert-say-on-share-debut-11719975510708.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/03/1600x900/gallery-3_1719458533763_1719976237679.jpg",
+      "publishedAt": "2024-07-03T03:17:48Z",
+      "content": "Vraj Iron and Steel IPO listing date has been scheduled for today (Wednesday, July 3) on the bourses at 10:00 IST. According to details on the BSE website, Vraj Iron and Steel's share price will list… [+3223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Dhanya Nagasundaram",
+      "title": "Buy or sell: Vaishali Parekh recommends three stocks to buy today - July 3 | Stock Market News - Mint",
+      "description": "Buy or sell stocks: Vaishali Parekh has recommended three stocks to buy today — Tata Consumer Products Ltd, Torrent Pharmaceuticals Ltd, and KEC International Ltd.",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-july-3-11719973517422.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/03/1600x900/Buy_or_sell_stocks_to_buy_today_stock_market_today_1698023021624_1719974945334.jpg",
+      "publishedAt": "2024-07-03T02:51:56Z",
+      "content": "Buy or sell stocks for today: On Tuesday, despite mixed global cues, the domestic benchmark indices, the Sensex and the Nifty 50, reached new all-time high levels before finishing flat as a result of… [+3456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "Hormaz Fatakia",
+      "title": "REC, PFC Shares: Love them, hate them, but cannot ignore them, says Bernstein - CNBCTV18",
+      "description": "PFC shares currently trade at a financial year 2025 price-to-earnings multiple of 6.7 times, while REC trades at a multiple of 8.5x.",
+      "url": "https://www.cnbctv18.com/market/rec-pfc-share-price-bernstein-outperform-rating-upside-target-loans-npa-power-capacity-psu-19437248.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2024/06/delhi-power-demand-2024-06-5d3ca7b788c6d5d8411bb50340089428.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-03T02:38:28Z",
+      "content": "Brokerage firm Bernstein has initiated coverage on both REC Ltd. and PFC Ltd., the power financing PSUs with an outperform rating, calling both these stocks as their most preferred plays in India's p… [+1876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Nikita Vashisht",
+      "title": "Stocks to Watch, July 3:HDFC Bank, Zomato, Concor, RVNL, M&M Fin, Britannia - Business Standard",
+      "description": "Stocks to Watch today, July 3, 2024: he latest foreign ownership data, released on Tuesday, July 2, showed FII holding in the private bank falling to 54.83 per cent",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-july-3-hdfc-bank-zomato-concor-rvnl-mm-fin-britannia-124070300060_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/03/thumb/featurecrop/400X400/1696329652-4074.jpg",
+      "publishedAt": "2024-07-03T02:34:16Z",
+      "content": "Stocks to Watch today, July 3, 2024: he latest foreign ownership data, released on Tuesday, July 2, showed FII holding in the private bank falling to 54.83 per cent\r\nHDFC Bank | Image credits: Bloomb… [+2946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Sanya Jain",
+      "title": "Unacademy CEO’s comment on post about startup failure a day before laying off 250 employees - Hindustan Times",
+      "description": "Unacademy founder and CEO Gaurav Munjal commented on a post about startup failure on July 1, a day before his company laid off 250 employees. | Trending",
+      "url": "https://www.hindustantimes.com/trending/unacademy-ceo-gaurav-munjal-comments-on-post-about-startup-failure-day-before-laying-off-250-employees-101719973138626.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/07/03/1600x900/GauravMunjal_1716527801091_1719973455707.webp",
+      "publishedAt": "2024-07-03T02:26:38Z",
+      "content": "Gaurav Munjal-led edtech startup, Unacademy, has laid off 250 staffers in its latest round of restructuring. Unacademy said the layoffs were part of the companys ongoing efforts to streamline operati… [+2065 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kairavi Lukka",
+      "title": "Sebi's levy order likely to erode Rs 2,000 crore from discount brokers' income, hit client base - The Economic Times",
+      "description": "Several brokerage firms, including IIFL Securities and Motilal Oswal Financial Services, saw share declines of 3% to 7% due to the regulatory order affecting brokerages, potentially leading to adjustments in zero-payment plans or increased rates.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fee-great-leveller-for-discount-brokerages/articleshow/111445099.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111445094,width-1200,height-630,imgsize-27712,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-03T02:19:14Z",
+      "content": "The regulatory order to stock exchanges to collect uniform levies could shrink brokerage incomes by more than 2,000 crore, disproportionately affecting discount platforms and dashing popular zero-bro… [+1426 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bhuma Shrivastava, Bei Hu",
+      "title": "Hedge Fund's Secret Adani Short Revealed in Blow-by-Blow Account - Bloomberg",
+      "description": "An activist short-seller, a New York hedge fund, a Mauritius-based investment vehicle and a broker tied to a big Indian bank: All played a role in one of the most-damaging short-seller attacks anywhere in the world.",
+      "url": "https://www.bloomberg.com/news/articles/2024-07-03/hedge-fund-s-secret-adani-short-revealed-in-blow-by-blow-account",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1Qq_uliui88/v0/1200x800.jpg",
+      "publishedAt": "2024-07-03T01:48:00Z",
+      "content": "An activist short-seller, a New York hedge fund, a Mauritius-based investment vehicle and a broker tied to a big Indian bank: All played a role in one of the most-damaging short-seller attacks anywhe… [+292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets360.com"
+      },
+      "author": "Rohan Pal",
+      "title": "Airtel vs Jio vs Vi: Best Prepaid Plans With Up to 365 Days Validity - Gadgets 360",
+      "description": "Airtel, Reliance Jio, and Vodafone Idea have increased the prices of their prepaid plans in India. The new prepaid plans from the operators will go live on July 3. So, if you are wondering which operator offers better pricing and benefits for different validi…",
+      "url": "https://www.gadgets360.com/telecom/features/airtel-vs-jio-vs-vi-best-prepaid-validity-plans-compared-2024-6015856",
+      "urlToImage": "https://i.gadgets360cdn.com/large/airtel_vs_jio_vs_vi_1719902658578.jpg",
+      "publishedAt": "2024-07-03T01:30:01Z",
+      "content": "Ariel, Reliance Jio, and Vodafone Idea have announced price hikes for their prepaid and postpaid plans. Airtel and Jio's revised prepaid plans will be valid from July 3, while Vi recharge plans will … [+4730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Turn to 10"
+      },
+      "author": "NBC 10 NEWS",
+      "title": "All Bob's Stores to close on July 14 - Turn to 10",
+      "description": "The owners of Bob's Stores announced on Monday that it plans to close all locations by July 14.",
+      "url": "https://turnto10.com/news/local/all-bobs-stores-to-close-on-july-14-total-liquidation-of-assets-july-2-2024",
+      "urlToImage": "https://turnto10.com/resources/media/a627c7eb-ed17-42a8-ac98-8fe1b7468b42-large16x9_BOBSSTORECLOSING_0006_frame_33.jpeg",
+      "publishedAt": "2024-07-03T01:23:31Z",
+      "content": "(WJAR) The owners of Bobs Stores announced on Monday that it plans to close all locations by July 14.\r\nThose closings include locations in Cranston and Attleboro.\r\nThe apparel and footwear chain said… [+1194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Josh Kosman",
+      "title": "Shari Redstone reaches preliminary deal to sell controlling stake in Paramount to Skydance Media for $1.75B - New York Post ",
+      "description": "The media heiress reached a preliminary agreement to sell her controlling stake in Paramount Global to  Skydance Media – just weeks after she walked away from a deal between the two sides, accordin…",
+      "url": "https://nypost.com/2024/07/02/business/shari-redstone-reaches-preliminary-deal-to-sell-controlling-stake-in-paramount-to-skydance-media-for-1-75b/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-dt6u0f5a7-1719966966628.jpg?quality=75&strip=all&1719952618&w=1024",
+      "publishedAt": "2024-07-03T00:41:00Z",
+      "content": "Shari Redstone changed her mind, again! \r\nThe media heiress  reached a preliminary agreement to sell her controlling stake in Paramount Global to  Skydance Media just weeks after she walked away from… [+3427 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Alexander Tin",
+      "title": "FDA approves new Alzheimer's treatment, donanemab from Eli Lilly - CBS News",
+      "description": "FDA approval of the new Alzheimer's treatment, which will be branded as Kisunla, follows years of setbacks.",
+      "url": "https://www.cbsnews.com/news/fda-approves-new-alzheimers-treatment-donanemab-eli-lilly/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/17/346a3685-d452-4a57-9056-3d0276b389ef/thumbnail/1200x630/b7058d56275b3f9797db08fdab421175/ap23195650522833.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-03T00:25:21Z",
+      "content": "The Food and Drug Administration approved a new Alzheimer's treatment called donanemab on Tuesday, clearing the way for the third addition to a new class of drugs aimed at slowing the brain's decline… [+6909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Dan Weil",
+      "title": "Veteran fund manager sees world of pain coming for stocks - TheStreet",
+      "description": "The S&P 500 index has gained 15% so far this year.",
+      "url": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-stocks-pain",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk5NDU1OTAxNTQ1OTMyNzUw/doug-kass-nyse.jpg",
+      "publishedAt": "2024-07-02T23:47:00Z",
+      "content": "Stocks have hit the jackpot over the past two years, with the S&amp;P 500 index soaring 44%. It has hit multiple record highs this year.\r\nNow the argument is raging between bulls and bears: will the … [+3769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "How Microsoft and Nvidia bet correctly to leapfrog Apple - BBC.com",
+      "description": "The two tech firms were among the first to see the commercial potential of AI.",
+      "url": "https://www.bbc.com/news/articles/c4nglq80w7eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4074/live/45927c90-3789-11ef-9bca-0db727f63d54.jpg",
+      "publishedAt": "2024-07-02T23:39:19Z",
+      "content": "By Zoe Kleinman, Technology editor\r\nUnder Jensen Huang's leadership Nvidia has seen its share price soar\r\nLife comes at you fast.\r\nLast month, AI chip giant Nvidia briefly became the worlds richest c… [+5749 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "WYATTE GRANTHAM-PHILIPS, HALELUYA HADERO",
+      "title": "Black farmers' association calls for Tractor Supply CEO's resignation after company cuts DEI efforts - The Associated Press",
+      "description": "The National Black Farmers Association is calling on Tractor Supply’s president and CEO to step down, days after the rural retailer announced that it would drop most of its corporate diversity and climate advocacy efforts. The resignation demand on Tuesday em…",
+      "url": "https://apnews.com/article/tractor-supply-dei-black-farmers-bdd23385a21242cfcfcd4c3e0118c853",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a349fd3/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F6f%2Ff316714f456f77d263cbe0a480e5%2F1b3b196e24a9491185827feba78d3c67",
+      "publishedAt": "2024-07-02T23:20:00Z",
+      "content": "NEW YORK (AP) The National Black Farmers Association called on Tractor Supplys president and CEO Tuesday to step down after the rural retailer announced that it would drop most of its corporate diver… [+6613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Mercury News"
+      },
+      "author": "Kyle Martin",
+      "title": "No end in sight to Patelco Credit Union ransomware attack that crippled online banking for 500,000 members - The Mercury News",
+      "description": "After four days, the Dublin-based credit union has no updates on the end of the lockdown it placed on half a million customer accounts.",
+      "url": "https://www.mercurynews.com/2024/07/02/no-end-in-sight-to-patelco-credit-union-security-attack/",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/07/EBT-L-DUBBREACH-0703-1.jpg?w=1024&h=702",
+      "publishedAt": "2024-07-02T23:12:07Z",
+      "content": "​​DUBLIN – Four days after a ransomware attack crippled its systems, Patelco Credit Union remained unable to tell its members when banking operations would return to normal.\r\nThe Dublin-based credit … [+4817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Anthony Alaniz",
+      "title": "Land Rover Defender Octa: This Is It - Motor1 ",
+      "description": "The Land Rover Defender Octa is the most powerful model ever with a twin-turbo V-8 engine, a raised ride height, and a new design.",
+      "url": "https://www.motor1.com/news/725313/land-rover-defender-octa-details-horsepower/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/JOB0YJ/s1/land-rover-defender-octa.jpg",
+      "publishedAt": "2024-07-02T23:01:00Z",
+      "content": "The Land Rover Defender Octa debuts as the models most powerful variant ever. Under the hood is a twin-turbocharged 4.4-liter mild-hybrid V-8 engine making 626 horsepower and up to 590 pound-feet of … [+2840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hakyung Kim",
+      "title": "Stock futures are little changed after S&P 500 closes above 5,500 level: Live updates - CNBC",
+      "description": "The S&P 500 and the Nasdaq Composite closed at fresh records on Tuesday.",
+      "url": "https://www.cnbc.com/2024/07/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432321-17192425682024-06-24t151952z_522040787_rc2ph8a46lyj_rtrmadp_0_usa-stocks.jpeg?v=1719418053&w=1920&h=1080",
+      "publishedAt": "2024-07-02T22:59:00Z",
+      "content": "U.S. stock futures traded near the flatline Tuesday night after the S&amp;P 500 closed above 5,500 for the first time.\r\nFutures tied to the S&amp;P 500 inched down 0.1%. Dow Jones Industrial Average … [+2178 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Rivian says no plans to produce vehicles with VW after media report on early talks - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/business/autos-transportation/rivian-denies-media-report-production-talks-with-vw-2024-07-02/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-02T22:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Hannah Ziegler",
+      "title": "Tesla exceeds expectations as its EV sales start to rebound - The Washington Post",
+      "description": "The maker of electric cars and SUVs sold thousands more vehicles than analysts had forecast in the second quarter.",
+      "url": "https://www.washingtonpost.com/business/2024/07/02/tesla-second-quarter-ev-sales/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CE6PGDZHX5VPSDRWNOSCCOZSYM.jpg&w=1440",
+      "publishedAt": "2024-07-02T22:04:22Z",
+      "content": "Tesla had a better-than-expected second quarter for car sales.\r\nThe company Tuesday said it delivered about 444,000 vehicles to customers in the second quarter, down about 5 percent year-over-year bu… [+2419 chars]"
     },
     {
       "source": {
@@ -134,16 +355,107 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "FXStreet"
+      },
+      "author": "Christian Borjon Valencia",
+      "title": "Gold falls amid falling US yields, soft US Dollar - FXStreet",
+      "description": "Gold price slid during the North American session as market participants digested Federal Reserve (Fed) Chair Jerome Powell’s comments at a European Central Bank (ECB) forum in Portugal.",
+      "url": "https://www.fxstreet.com/news/gold-price-slides-alongside-firm-us-yields-despite-powells-stance-202407021901",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/stack-of-golden-bars-in-the-bank-vault-60756080_Large.jpg",
+      "publishedAt": "2024-07-02T21:51:52Z",
+      "content": "<ul><li>Gold falls 0.28%, reacting to Powell’s ECB forum remarks.</li><li>Powell is cautiously optimistic on disinflation, emphasizes need for more progress before rate cuts.</li><li>US Treasury yiel… [+4924 chars]"
+    },
+    {
+      "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "author": "Reuters",
-      "title": "Novo Nordisk, Lilly must cut US prices of weight-loss drugs, Biden says - Reuters",
+      "author": "Gary Mcwilliams, Marianna Parraga",
+      "title": "Exclusive: Icahn-owned oil refiner CVR bidding in Citgo share auction, sources say - Reuters",
+      "description": "Oil refiner CVR Energy , controlled by billionaire investor Carl Icahn, has submitted a binding offer in an ongoing auction of shares in the parent of Venezuela-owned Citgo Petroleum, according to three people familiar with the matter.",
+      "url": "https://www.reuters.com/business/energy/icahn-owned-oil-refiner-cvr-bidding-citgo-share-auction-sources-say-2024-07-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/N662X2QLUZOQHHETU7LMVRZY6I.jpg?auth=9125bc4b51e34aee3e461f932a86311aa22d25779fabb57ea808fd5310314b01&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-07-02T21:29:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JONEL ALECCIA",
+      "title": "Diamond Shruumz microdosing candies may be linked to a death and nearly 50 illnesses, FDA says - The Associated Press",
+      "description": "Federal health officials are investigating a possible death and dozens of illnesses tied to recalled microdosing candies sold online and at vape shops. All varieties of Diamond Shruumz-brand chocolate bars, cones and gummies have been recalled. The products m…",
+      "url": "https://apnews.com/article/diamond-shruumz-mushroom-microdosing-illness-fda-2016084683306f95f765450a7309134c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2c9406e/2147483647/strip/true/crop/2395x1347+0+237/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F8a%2F09ebe407629abcc881b9eeb13821%2Fdd4d835afa1f4ed284f81f2da243af54",
+      "publishedAt": "2024-07-02T21:12:00Z",
+      "content": "Federal health officials are investigating a possible death and dozens of illnesses tied to recalled microdosing candies laced with a chemical found in mushrooms and sold online and in vape shops nat… [+1595 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "FDA bans soda additive over health concerns - The Hill",
+      "description": null,
+      "url": "https://thehill.com/policy/healthcare/4752640-fda-ban-soda-additive-bvo/",
+      "urlToImage": null,
+      "publishedAt": "2024-07-02T21:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Mary Ann Azevedo, Lorenzo Franceschi-Bicchierai",
+      "title": "Newsletter writer covering Evolve Bank's data breach says the bank sent him a cease and desist letter - TechCrunch",
+      "description": "The situation around a data breach that’s affected an ever-growing number of fintech companies has gotten even weirder.",
+      "url": "https://techcrunch.com/2024/07/02/evolve-bank-sent-a-cease-and-desist-letter-to-a-newsletter-writer-covering-its-data-breach/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1053348900.jpg?resize=1200,797",
+      "publishedAt": "2024-07-02T21:04:29Z",
+      "content": "The situation around a data breach thats affected an ever-growing number of fintechcompanies has gotten even weirder. Evolve Bank &amp; Trust announced last week that it was hacked and confirmed the … [+3467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Julianne Geiger",
+      "title": "Oil Jumps on Significant Crude Inventory Draw - OilPrice.com",
+      "description": "Crude oil inventories in the United States fell this week by 9.163 million barrels for the week ending June 28",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-on-Significant-Crude-Inventory-Draw.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2024-07-02_uuazk60xpe.jpg",
+      "publishedAt": "2024-07-02T20:47:00Z",
+      "content": "Canada's oil sands producers have…\r\nNuScales share price has jumped…\r\nBy Julianne Geiger - Jul 02, 2024, 3:47 PM CDTCrude oil inventories in the United States fell by 9.163 million barrels for the we… [+1479 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters.com",
+      "title": "Novo Nordisk, Lilly must cut US prices of weight-loss drugs, Biden says - Reuters.com",
       "description": null,
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/biden-says-novo-nordisk-must-cut-prices-diabetes-weight-loss-drugs-2024-07-02/",
       "urlToImage": null,
-      "publishedAt": "2024-07-02T16:21:00Z",
+      "publishedAt": "2024-07-02T20:47:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nick Timiraos",
+      "title": "Fed’s Jerome Powell Turns Dial Toward Interest-Rate Cut Later This Year - The Wall Street Journal",
+      "description": "The central bank is trying to pull off a soft landing in which inflation slows without a serious downturn",
+      "url": "https://www.wsj.com/economy/central-banking/powell-says-fed-has-made-a-lot-of-progress-on-inflation-37c2862c",
+      "urlToImage": "https://images.wsj.net/im-975594/social",
+      "publishedAt": "2024-07-02T20:45:00Z",
+      "content": "Federal Reserve Chair Jerome Powell said he was pleased with how inflation had resumed a downtrend following a rebound at the start of the year but said it was too soon to say whether the central ban… [+471 chars]"
     },
     {
       "source": {
@@ -155,8 +467,216 @@
       "description": "The number of available jobs in the US unexpectedly grew in May, signaling there’s still heightened demand for workers.",
       "url": "https://www.cnn.com/2024/07/02/economy/us-jolts-job-openings-layoffs-may/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2159381214.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-07-02T16:20:00Z",
+      "publishedAt": "2024-07-02T20:36:00Z",
       "content": "The number of available jobs in the US unexpectedly grew in May, signaling continued resilience in the nations labor market.\r\nJob openings jumped higher to 8.14 million in May, from a downwardly revi… [+5484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Christine Idzelis",
+      "title": "Stock market’s upcoming earnings season may delay ‘overdue’ pullback for S&P 500 - MarketWatch",
+      "description": "S&P 500 notches record closing high Tuesday",
+      "url": "https://www.marketwatch.com/story/stock-markets-upcoming-earnings-season-may-delay-overdue-pullback-for-s-p-500-says-lpl-b32faad7",
+      "urlToImage": "https://images.mktw.net/im-872419/social",
+      "publishedAt": "2024-07-02T20:33:00Z",
+      "content": "The U.S. stock markets upcoming earnings season should be solid, but expecting growth estimates over the next couple months to increase for the second half of 2024 seems a lot to ask, according to LP… [+3331 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Edward Bolingbroke",
+      "title": "Traders Flock to a Trump-Fueled Bet on Higher US Treasury Yields - Bloomberg",
+      "description": "Traders in the $27 trillion Treasury market are betting on higher long-term bond yields as Wall Street starts to adjust for Donald Trump’s potential return to the White House.",
+      "url": "https://www.bloomberg.com/news/articles/2024-07-02/traders-flock-to-a-trump-fueled-bet-on-higher-us-treasury-yields",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioJ7_divVWxI/v1/1200x800.jpg",
+      "publishedAt": "2024-07-02T20:30:00Z",
+      "content": "Traders in the $27 trillion Treasury market are betting on higher long-term bond yields as Wall Street starts to adjust for Donald Trumps potential return to the White House.\r\nInvestors have been buy… [+217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Josh Lipton",
+      "title": "Nikola stock pops after topping Q2 sales guidance - Yahoo Finance",
+      "description": "Shares of Nikola (NKLA) are trading higher after the company announced it wholesaled 72 Class 8 Nikola hydrogen cell fuel trucks in the second quarter...",
+      "url": "https://finance.yahoo.com/video/nikola-stock-pops-topping-q2-201925706.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GxsrPVXrRhg0C74Sq3055w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/80a5da80-38af-11ef-8fbf-f0a732718700",
+      "publishedAt": "2024-07-02T20:19:25Z",
+      "content": "Shares of Nikola (NKLA) are trading higher after the company announced it wholesaled 72 Class 8 Nikola hydrogen cell fuel trucks in the second quarter, topping the expected 60 units.\r\nJosh Lipton and… [+1234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KXAN.com"
+      },
+      "author": "Kelsey Thompson",
+      "title": "What is an emissions test and which Texans need them? - KXAN.com",
+      "description": "In less than six months’ time, Texans will no longer need to undergo mandatory vehicle inspections each year.",
+      "url": "https://www.kxan.com/news/texas/what-is-an-emissions-test-and-which-texans-need-them/",
+      "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2023/10/IMG-0489.jpg?w=1280",
+      "publishedAt": "2024-07-02T20:03:37Z",
+      "content": "AUSTIN (KXAN) In less than six months’ time, Texans will no longer need to undergo mandatory vehicle inspections each year. \r\nLast year, the state legislature ended the requirement for the annual ins… [+1620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Mark Putrino",
+      "title": "Tesla's Q2 Deliveries Ignite Stock Rally: Will Resistance Level Halt The Climb? - Tesla (NASDAQ:TSLA) - Benzinga",
+      "description": "The Chart of Tesla (TSLA) is a great technical analysis lesson and illustrates a possible exit strategy. Sell at former peaks.",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/24/07/39605521/stock-of-the-day-teslas-q2-deliveries-spark-rally-will-resistance-halt-the-climb",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/musk-tesla-ai6.png?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-02T19:54:47Z",
+      "content": "Wall Street loved the Tesla, Inc. TSLA Q2 deliveries report on Tuesday.\r\nThe stock is ripping higher, and now many traders and investors are wondering how far the rally will go. A simple technical an… [+2185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Aislinn Murphy",
+      "title": "McDonald's introducing limited-time 'Special Grade Garlic Sauce' to app for dipping - Fox Business",
+      "description": "McDonald's has a limited-time \"Special Grade Garlic Sauce\" hitting the US market soon. Customers will only be able to get it through the fast food chain's app.",
+      "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-introducing-limited-time-special-grade-garlic-sauce-app-dipping",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/McDonalds-Sign.jpg?ve=1&tl=1",
+      "publishedAt": "2024-07-02T19:33:00Z",
+      "content": "McDonald’s has a limited-time garlic dipping sauce hitting the U.S. market soon. \r\nThe fast-food chain said Tuesday customers can start ordering the upcoming Special Grade Garlic Sauce exclusively th… [+2441 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ELÉONORE HUGHES",
+      "title": "Brazil data regulator bans Meta from mining data to train AI models - The Associated Press",
+      "description": "Brazil’s national data protection authority determined on Tuesday that Meta cannot use data originating in the country to train its artificial intelligence. Facebook and Instagram parent company Meta Platforms recently updated its privacy policy to enable the…",
+      "url": "https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "publishedAt": "2024-07-02T19:01:00Z",
+      "content": "RIO DE JANEIRO (AP) Brazils national data protection authority determined on Tuesday that Meta, the parent company of Instagram and Facebook, cannot use data originating in the country to train its a… [+3439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InStyle"
+      },
+      "author": "https://www.facebook.com/InStyle",
+      "title": "Levi's, Apple, and Coach Are Up to 80% Off in Amazon's Epic Fourth of July Sale - InStyle",
+      "description": "Amazon’s Fourth of July sale includes major sales on Coach, Apple, Levi’s, Adidas, CeraVe, and more from $7. Shop holiday weekend fashion, beauty, home, and tech discounts for up to 80 percent off.",
+      "url": "https://www.instyle.com/best-amazon-4th-of-july-deals-8672338",
+      "urlToImage": "https://www.instyle.com/thmb/J7V6j1uFiiaxZPi4sA9so4IRjMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/070124-july-4th-best-deals-social-c3bd1443717e4803b49a6a5f658f9152.jpg",
+      "publishedAt": "2024-07-02T18:56:52Z",
+      "content": "Kickstart your Fourth of July shopping with these top Amazon sales. \r\nThe Fourth of July is nearly here; I dont know about you, but Im ready to bask in the sun, down some hotdogs, andmost importantly… [+8227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Nick Pope",
+      "title": "Biden Admin Contracts 1000000 Barrels From Emergency Gasoline Stockpile To 'Lower Prices' Ahead Of July 4th - Daily Caller",
+      "description": "The Biden administration is selling off a million barrels of gasoline from an emergency reserve in an effort to cut prices ahead of the holiday weekend.",
+      "url": "https://dailycaller.com/2024/07/02/biden-million-gasoline-barrels-lower-prices/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-1723105989-scaled-e1719941343336.jpg",
+      "publishedAt": "2024-07-02T17:54:00Z",
+      "content": "The Biden administration is selling off a million barrels of gasoline from an emergency reserve in a deliberate effort to cut prices ahead of the upcoming holiday weekend.\r\nThe Department of Energy (… [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Car dealership losses from CDK software outage could soon reach $1 billion, study finds - New York Post ",
+      "description": "The outage had forced some auto dealers to revert to manual paperwork as the car industry technology and software provider worked to restore systems used by more than 15,000 retail locations across…",
+      "url": "https://nypost.com/2024/07/02/business/car-dealership-losses-from-cdk-software-outage-could-soon-reach-1-billion-study-finds/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-1mnylljfo-1719942184647.jpg?quality=75&strip=all&1719927829&w=1024",
+      "publishedAt": "2024-07-02T17:44:00Z",
+      "content": "Direct losses to the auto dealerships impacted by outages at major software provider CDK Global in recent weeks could reach a collective $1 billion if the problems are not fixed soon, according to ne… [+1700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Etnownews.com"
+      },
+      "author": "Sarmeeli Mallick",
+      "title": "Multibagger defence stock: Over 1000% returns in 3 years - Share price jumps from Rs 809 to Rs 2473 in 3 months! - ET Now",
+      "description": "Multibagger defence stock: The project is valued at approximately $21 million, and GRSE is targeting to complete it within a time period of around 24 months. The project will be on a design, build, and deliver basis, meaning that GRSE will be responsible for …",
+      "url": "https://www.etnownews.com/markets/multibagger-defence-stock-over-1000-returns-in-3-years-share-price-jumps-from-rs-809-to-rs-2473-in-3-months-article-111439269",
+      "urlToImage": "https://etstatic.tnn.in/thumb/msid-111439269,width-1280,height-720,resizemode-75/111439269.jpg",
+      "publishedAt": "2024-07-02T17:25:45Z",
+      "content": "The PSU stock, a component of BSE SmallCap index, is Garden Reach Shipbuilders &amp; Engineers Ltd (GRSE) and boosts a market cap of Rs 27,541.16 crore."
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Joshua Rodriguez",
+      "title": "Should you put $10000 in a 3-year CD this July? Here's what experts think. - CBS News",
+      "description": "Are you thinking about depositing $10,000 into a 3-year CD? Here's what experts think about doing so.",
+      "url": "https://www.cbsnews.com/news/should-you-put-10000-in-a-3-year-cd-this-july-heres-what-experts-think/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/02/e68ef90e-d437-46a9-bba0-0c28da00eb75/thumbnail/1200x630/0792c408f0c70e2e5db32284a2d4d2a7/gettyimages-1251168379.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-02T17:19:22Z",
+      "content": "A certificate of deposit may be a good way to earn more on your money. \r\nGetty Images/iStockphoto\r\nReturns on certificates of deposit (CDs) are high at the moment. You can lock in APYs as high as 4.6… [+4060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sabina Graves",
+      "title": "Six Flags and Knott's Mega Merger Has the Chance to Create a New Theme Park Superpower - Gizmodo",
+      "description": "Six Flags' newly expanded Fright Fest for 2024 includes the Conjuring films, Stranger Things, and DC Comics.",
+      "url": "https://gizmodo.com/six-flags-knotts-cedar-fair-merger-wb-ip-theme-parks-1851571616",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d64fa593f1d955b4e3fc7adbdb947b08.jpg",
+      "publishedAt": "2024-07-02T17:00:00Z",
+      "content": "July 1 marked the official merger day between Six Flags and Cedar Fair into Six Flags Entertainment Corporation, a process set in motion after last years $8 billion deal. The Hollywood Reporter confi… [+3535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Erica Kollmann",
+      "title": "What's Going On With Chewy Stock Today? - Chewy (NYSE:CHWY) - Benzinga",
+      "description": "Chewy shares are trading lower Tuesday amid increased volatility after Keith Gill, also known as Roaring Kitty, disclosed a 6.6% stake in the company. Here's a look at what's going on:",
+      "url": "https://www.benzinga.com/news/24/07/39601962/whats-going-on-with-chewy-stock-today",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/dog-7330712-1920.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-02T16:45:50Z",
+      "content": "Chewy, Inc.CHWY shares are trading lower Tuesday amid increased volatility after Keith Gill, also known as Roaring Kitty, disclosed a 6.6% stake in the company. \r\nWhat To Know:\r\nTraders began circula… [+2303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Etnownews.com"
+      },
+      "author": "Anubhav Maurya",
+      "title": "Wipro Share Price Target 2024: Rs 800-mark coming soon? Brokerage's hot tip ahead of Q1 FY25 results - ET Now",
+      "description": "Wipro Share Price Target 2024: Wipro's consolidated net profit fell 8% year on year (YoY) to Rs 2,835 crore in the March quarter of 2024. The previous year's quarter saw a total of Rs 3,074 crore.",
+      "url": "https://www.etnownews.com/markets/wipro-share-price-target-2024-rs-800-mark-coming-soon-brokerages-hot-tip-ahead-of-q1-fy25-results-article-111438736",
+      "urlToImage": "https://etstatic.tnn.in/thumb/msid-111438736,width-1280,height-720,resizemode-75/111438736.jpg",
+      "publishedAt": "2024-07-02T16:37:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -173,68 +693,94 @@
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": null,
+        "name": "Economictimes.com"
       },
-      "author": "Balazs Koranyi, Howard Schneider",
-      "title": "Fed's Powell says US on 'disinflationary path,' but more data needed before rate cuts - Reuters",
-      "description": "The U.S. is back on a \"disinflationary path,\" Federal Reserve Chair Jerome Powell said on Tuesday, but policymakers need more data before cutting interest rates to verify that recent weaker inflation readings provide an accurate picture of the economy.",
-      "url": "https://www.reuters.com/markets/us/feds-powell-says-more-evidence-falling-inflation-needed-before-rate-cuts-2024-07-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/CC56DSFCGRK63CZWJ22EM4RQZY.jpg?auth=e4b99396c70d92745a2fe57d5b5e0c63174aafc739f399667f064d65c39324e6&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-07-02T16:18:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Akash Podishetti",
-      "title": "YES Bank Q1 Update: Advances rise 15% YoY to Rs 2.29 lakh cr, deposits grow 21% - The Economic Times",
-      "description": "The bank's credit-to-deposit ratio for the first quarter was 86.4%, down from 91.3% in the same quarter last year. During the April-June 2024 period, the liquidity coverage ratio improved to 137.8%.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-update-advances-rise-15-yoy-to-rs-2-29-lakh-cr-deposits-grow-21/articleshow/111438153.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-111438147,width-1200,height-630,imgsize-22086,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-07-02T15:41:54Z",
-      "content": "Leading private lender YES Bank reported 15% year-on-year growth in loans and advances for the first quarter ended June 2024. The company's loans stood at Rs 2.29 lakh crore in the reporting quarter,… [+1807 chars]"
+      "author": "ETMarkets.com",
+      "title": "Market Trading Guide: Jyothy Labs, Safari Industries among 4 stock recommendations for Wednesday - Stock Ideas - The Economic Times",
+      "description": "D-Street benchmark indices Sensex and Nifty hit fresh lifetime high levels before closing flat due to profit-taking in select banking and telecom shares amid mixed global cues on Tuesday. The 30-share index declined 34.74 points or 0.04 per cent to settle at …",
+      "url": "https://m.economictimes.com/markets/stocks/news/market-trading-guide-jyothy-labs-safari-industries-among-4-stock-recommendations-for-wednesday/stock-ideas/slideshow/111438396.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111438396,width-1070,height-580,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-02T16:09:51Z",
+      "content": "After the downward correction amidst a range movement of the last few weeks, the stock price has shifted into a decisive upside breakout so far this week. We observe an upside breakout of triangle ty… [+410 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Michael Wayland",
-      "title": "GM reports best U.S. quarterly sales since 2020 - CNBC",
-      "description": "Electric vehicle deliveries increased 40% compared to a year earlier to 21,930 units. Still, EVs made up only 3.2% of GM's total second-quarter sales.",
-      "url": "https://www.cnbc.com/2024/07/02/gm-q2-2024-auto-sales.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431363-1718909257983-gettyimages-2158470387-l1073322copy_nejuxqbs.jpeg?v=1719937045&w=1920&h=1080",
-      "publishedAt": "2024-07-02T15:04:49Z",
-      "content": "DETROIT General Motors reported its best quarterly sales in more than three years, including notable increases in full-size pickup trucks and all-electric vehicles.\r\nThe Detroit automaker on Tuesday … [+2753 chars]"
+      "author": "James Archer",
+      "title": "Best Anti-Prime Day 2024 PC gaming deals - Rock Paper Shotgun",
+      "description": "You don't need Amazon to save on PC hardware this Prime Day. Here, we're gathering all the best Anti-Prime Day deals from non-Amazon retailers.",
+      "url": "https://www.rockpapershotgun.com/best-anti-prime-day-pc-gaming-deals-2024",
+      "urlToImage": "https://assetsio.gnwcdn.com/Anti-Prime-Day-deals.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2024-07-02T15:59:47Z",
+      "content": "Prime Day 2024 will, no doubt, be rich with deep discounts on PC gaming hardware. But when it gets fully underway across July 16th and 17th, it won’t be the only deals game in town. Not by a long sho… [+4704 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBCTV18"
+        "name": "Ftc.gov"
       },
-      "author": "Jomy Jos Pullokaran",
-      "title": "IEX reports 24.7% growth in June electricity volume as India's energy consumption rises - CNBCTV18",
-      "description": "For the first quarter of fiscal year 2025, IEX recorded an electricity volume of 28,178 MU, rising 19% year-on-year. Shares of Indian Energy Exchange Ltd ended at ₹185.00, down by ₹4.25, or 2.25%, on the BSE.",
-      "url": "https://www.cnbctv18.com/market/stocks/iex-reports-24-7-pc-growth-in-june-electricity-volume-as-india-energy-consumption-rises-19437169.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2024/07/iex-july-2-2024-07-f7638ca3c6e78142766fef5591e90136.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-07-02T14:53:07Z",
-      "content": "The Indian Energy Exchange (IEX) on Tuesday (July 2) reported robust growth in electricity trading volumes for June 2024, marking a significant year-on-year (YoY) increase of 24.7%.\r\nThe exchange ach… [+1585 chars]"
+      "author": null,
+      "title": "FTC Moves to Block Tempur Sealy's Acquisition of Mattress Firm - Federal Trade Commission News",
+      "description": "The Federal Trade Commission voted unanimously to block Tempur Sealy International, Inc.’s (Tempur Sealy) proposed $4 billion acquisition of Mattress Firm Group Inc. (Mattress Firm).",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-moves-block-tempur-sealys-acquisition-mattress-firm",
+      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+      "publishedAt": "2024-07-02T15:39:05Z",
+      "content": "The Federal Trade Commission voted unanimously to block Tempur Sealy International, Inc.s (Tempur Sealy) proposed $4 billion acquisition of Mattress Firm Group Inc. (Mattress Firm).\r\nThe Commission i… [+4913 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MarketWatch"
+        "name": "Benzinga"
       },
-      "author": "Philip van Doorn",
-      "title": "Nvidia may be appealing, but one fund manager has a warning about some AI stocks - MarketWatch",
-      "description": "Ken Laudan of Buffalo Funds has changed his opinion about how long it will take for ‘AI adopters’ to make the technology useful",
-      "url": "https://www.marketwatch.com/story/nvidia-may-be-appealing-but-one-fund-manager-has-a-warning-about-some-ai-stocks-6be81768",
-      "urlToImage": "https://images.mktw.net/im-78053437/social",
-      "publishedAt": "2024-07-02T14:43:00Z",
-      "content": "As Nvidia Corp. has maintained a streak of hitting quarterly revenue and profit numbers out of the park, what might be lost to investors is that so much of the action around generative artificial int… [+5913 chars]"
+      "author": "Piero Cingari",
+      "title": "Oil Prices Near 3-Month High At $84 As US Travel Demand Hits Record, Hurricane Season Impacts Supply - United States Oil Fund (ARCA:USO), Hertz Global Holdings (NASDAQ:HTZ) - Benzinga",
+      "description": "Oil prices up on record U.S. travel and demand, supply issues from hurricanes and tensions in Middle East. Record car, air, and cruise travel projected.",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/24/07/39600380/oil-prices-near-3-month-high-at-84-as-record-us-travel-demand-hurricane-season-impact-supply",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/cars-driving-ai.png?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-02T15:38:21Z",
+      "content": "Oil prices are experiencing their fourth consecutive week of gains, driven by seasonal demand and record-breaking U.S. travel for the Fourth of July holiday.\r\nAdditionally, crude has faced supply iss… [+2905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Amritha Pillay",
+      "title": "Rs 35,000 crore Saudi Aramco order biggest ever, say L&T executives - Business Standard",
+      "description": "Firm clarifies it is part of existing order book, not new",
+      "url": "https://www.business-standard.com/companies/news/l-t-clarifies-on-saudi-aramco-order-win-stock-ends-higher-2-74-124070201105_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/13/thumb/featurecrop/400X400/1686645718-7795.jpg",
+      "publishedAt": "2024-07-02T15:22:25Z",
+      "content": "Firm clarifies it is part of existing order book, not new\r\nAmritha PillayMumbai\r\nSenior executives from engineering conglomerate Larsen &amp; Toubro (L&amp;T) on Tuesday clarified on news reports of … [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "author": "Shubhayan Bhattacharya",
+      "title": "Yes Bank Q1 Business Update: Gross Advances Up Nearly 15% To Rs 2.29 Lakh Crore - NDTV Profit",
+      "description": "The bank reported an advance of 20.8% in deposits at Rs 2.64 lakh crore in the first quarter.",
+      "url": "https://www.ndtvprofit.com/economy-finance/yes-bank-q1-business-update-gross-advances-up-nearly-15-to-rs-229-lakh-crore",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-01%2Fc4c9e7ad-eb8e-4eb2-aabc-683a79a12eb5%2FWhatsApp_Image_2022_07_18_at_11_04_04_AM.jpeg?rect=0%2C60%2C1600%2C840&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2024-07-02T15:14:52Z",
+      "content": "Yes Bank Ltd.'s gross advances rose 14.8% on a yearly basis to Rs 2.29 lakh crore in the AprilJune quarter, according to provisional quarterly business updates filed with stock exchanges on Tuesday.\r… [+591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Priyanka Gawande",
+      "title": "Grace marks for Byju’s: Karnataka High Court sets aside NCLT order halting second rights issue - Mint",
+      "description": "The high court has asked NCLT to consider the matter afresh, which means Byju’s will have to wait longer to use the funds raised from its first and second rights issues that it desperately needs to keep its operations running.",
+      "url": "https://www.livemint.com/companies/byjus-karnataka-high-court-sets-aside-nclt-order-halting-second-rights-issue-11719927603703.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/BYJU-S-23_1686288128858_1719932268030.jpg",
+      "publishedAt": "2024-07-02T15:01:12Z",
+      "content": "The Karnataka High Court on Tuesday set aside a National Company Law Tribunal ruling of 12 June restraining Byjus from using the funds raised from its second rights issue, but the money is still out … [+2441 chars]"
     },
     {
       "source": {
@@ -248,32 +794,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6683f718203b78677172995f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2024-07-02T14:39:14Z",
       "content": "The Paris bid to host the 2024 Olympic Games is seen on the Arc de Triomphe in Paris on February 9, 2016. (Photo by LIONEL BONAVENTURE)\r\nAFP via Getty Images\r\nHosting the 2024 Summer Olympics in Pari… [+3826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Kevin Breuninger",
-      "title": "Trump Media announces $105 million raised from DJT warrants - CNBC",
-      "description": "Shares of Trump Media had dropped sharply after whipsawing on the day after former President Donald Trump's first debate with President Joe Biden.",
-      "url": "https://www.cnbc.com/2024/07/02/trump-media-djt-stock-cash-warrants-truth-social.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107399429-1712771497332-gettyimages-2144465419-omarques_09042024_phone_tech-10.jpeg?v=1713532316&w=1920&h=1080",
-      "publishedAt": "2024-07-02T14:38:41Z",
-      "content": "Shares of Trump Media dipped at the opening bell Tuesday after the company, whose majority owner is former President Donald Trump, said it collected more than $105 million through the cash exercise o… [+2036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Vaamanaa Sethi",
-      "title": "Nithin Kamath says Zerodha may end zero brokerage structure for equity delivery trades after Sebi order; Details here | Stock Market News - Mint",
-      "description": "Nithin Kamath of Zerodha said on Tuesday that the brokerage may need to reconsider its zero brokerage model or potentially raise brokerage fees for F&O (futures and options) trades.",
-      "url": "https://www.livemint.com/market/stock-market-news/nithin-kamath-says-zerodha-may-end-zero-brokerage-structure-for-equity-delivery-trades-after-sebi-order-details-here-11719930117733.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/Nithin_Kamath_1719930873901_1719930874300.jpg",
-      "publishedAt": "2024-07-02T14:38:12Z",
-      "content": "Zerodha's co-founder Nithin Kamath, in a post on social media platform X on Tuesday, said that the brokerage may need to reconsider its zero brokerage model or potentially raise brokerage fees for F&… [+2929 chars]"
     },
     {
       "source": {
@@ -291,15 +811,15 @@
     {
       "source": {
         "id": null,
-        "name": "Deccan Chronicle"
+        "name": "Loudwire"
       },
-      "author": "Michael Gonsalves",
-      "title": "Mahindra Scorpio N-SUV Now Gets New Features - Deccan Chronicle",
-      "description": "The new features to the three top variants include ventilated seats, an auto-dimming IRVM, wireless charger (with active cooling) and a high-gloss center console, all contributing to a stylish...",
-      "url": "https://www.deccanchronicle.com/business/mahindra-scorpio-n-now-gets-new-features-1309160",
-      "urlToImage": "https://www.deccanchronicle.com/h-upload/2024/07/02/1101111-screenshot2024-07-02at80010pm.webp",
-      "publishedAt": "2024-07-02T14:32:57Z",
-      "content": "Pune: Mahindra, the SUV specialist, on Tuesday updated the top three trims of its popular Scorpio N SUV the Z8 Select, Z8 and Z8 L - with a starting price of Rs 17.10 lakh at the Mumbai showroom.\r\nTh… [+1099 chars]"
+      "author": "laurynschaffner",
+      "title": "Ticketmaster Hacked - What Victims of Data Breach Should Know - Loudwire",
+      "description": "Check your emails.",
+      "url": "https://loudwire.com/ticketmaster-hack-data-breach/",
+      "urlToImage": "https://townsquare.media/site/366/files/2024/07/attachment-ticketmaster_hack.jpg?w=1200&q=75&format=natural",
+      "publishedAt": "2024-07-02T14:31:36Z",
+      "content": "Ticketmaster officially confirmed that their system has been hacked, so here's what victims of the recent data breach should know.\r\nFans on social media shared screenshots of an email they received f… [+2344 chars]"
     },
     {
       "source": {
@@ -330,15 +850,15 @@
     {
       "source": {
         "id": null,
-        "name": "India Today"
+        "name": "Zee Business"
       },
-      "author": "Ankita Garg",
-      "title": "Jio vs Airtel vs Vi: Prices hiked, here is full list of new plans - India Today",
-      "description": "After months of rumours Reliance Jio Airtel and Vodafone Idea Vi have finally announced price hikes across their prepaid and postpaid plans The new plans are effective from July 3 for Jio and Airtel and July 4 for Vi Here is the full list of new plans from Ji…",
-      "url": "https://www.indiatoday.in/technology/news/story/jio-vs-airtel-vs-vi-prices-hiked-here-is-full-list-of-new-2024-prepaid-plans-2561351-2024-07-02",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/airtel--jio-and-vi-021538485-16x9_2.jpg?VersionId=nYHfB2iLSh3d4LLZ9UUT6qf_9K1H9J6K",
-      "publishedAt": "2024-07-02T14:15:00Z",
-      "content": "After months of rumours, Reliance Jio, Airtel, and Vodafone Idea (Vi) have finally announced price hikes across their prepaid and postpaid plans. While this might be disappointing news for many budge… [+5663 chars]"
+      "author": "Bhawna Gupta",
+      "title": "Stocks to buy: Axis Securities recommends buying these 3 stocks for up to 18% gains; check targets - Zee Business",
+      "description": "The 30-share BSE Sensex fell 34.74 points, or 0.04 per cent, to 79,441.45 in a turbulent trading. During the day, it increased 379.68 points, or 0.47 per cent, to a record high of 79,855.87.",
+      "url": "https://www.zeebiz.com/markets/stocks/photo-gallery-stocks-to-buy-tomorrow-axis-securities-suggests-cie-automotive-westlife-foodworld-j-kumar-infraprojects-check-targets-share-price-nse-bse-stock-market-news-299412",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/07/02/302803-pexels-photo-6770610.jpeg",
+      "publishedAt": "2024-07-02T14:15:18Z",
+      "content": "The 30-share BSE Sensex fell 34.74 points, or 0.04 per cent, to 79,441.45 in a turbulent trading. During the day, it increased 379.68 points, or 0.47 per cent, to a record high of 79,855.87."
     },
     {
       "source": {
@@ -355,42 +875,42 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "News On 6"
       },
-      "author": "Neal Riley",
-      "title": "Bob's Stores is closing all locations - see the full list of store closures - CBS Boston",
-      "description": "Bob's Stores, a discount clothing retailer with locations in Massachusetts and Connecticut, is going out of business.",
-      "url": "https://www.cbsnews.com/boston/news/bobs-stores-closing-list-locations-connecticut-massachusetts/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/02/688bb0d7-63fe-4d66-afde-57ab1a2e3be6/thumbnail/1200x630/128da8838a1148896846b71e813bc56e/bobs-stores-sign.jpg?v=57e8061b2038d609da26e467de5ddfb8",
-      "publishedAt": "2024-07-02T14:06:00Z",
-      "content": "Consumers turn to store brands amid inflation \r\nConsumers turning to store brands amid inflation03:58\r\nMIDDLETOWN, Conn. - Bob's Stores, a discount clothing and shoe retailer with several locations i… [+2360 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "John Fritze, Devan Cole",
-      "title": "Supreme Court to review FDA’s power to regulate e-cigarettes and hear First Amendment case on age limits for porn sites - CNN",
-      "description": "The Supreme Court agreed Tuesday to review strict regulations for e-cigarettes, a multibillion-dollar industry",
-      "url": "https://www.cnn.com/2024/07/02/politics/supreme-court-grants-e-cigarrettes-fda-texas-porn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2024-07-02t041201z-649662640-rc2om8ah8q1r-rtrmadp-3-usa-trump-immunity.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-07-02T14:05:00Z",
-      "content": "The Supreme Court agreed Tuesday to review the US Food and Drug Administrations strict regulations for e-cigarettes, a multibillion-dollar industry that has come under scrutiny for its popularity amo… [+4798 chars]"
+      "author": "CBS News",
+      "title": "Walgreens To Close Up To A Quarter Of Its Roughly 8,600 U.S. Stores, Including Oklahoma Locations - News On 6",
+      "description": "Walgreens Boots Alliance will close a significant portion of its roughly 8,600 U.S. stores as the pharmacy chain seeks to turn around its struggling business, which has been hit by inflation-weary customers paring their spending.",
+      "url": "https://www.newson6.com/story/667dc91a204db70b530b1321/walgreens-to-close-up-to-a-quarter-of-its-roughly-8600-us-stores-including-oklahoma-locations",
+      "urlToImage": "https://hot-town-images.s3.amazonaws.com/kotv/production/2024/June/27/walgreens-generic-.1719519471025.jpeg",
+      "publishedAt": "2024-07-02T14:09:12Z",
+      "content": "Walgreens Boots Alliance will close a significant portion of its roughly 8,600 U.S. stores as the pharmacy chain seeks to turn around its struggling business, which has been hit by inflation-weary cu… [+3911 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Moneycontrol"
       },
-      "author": "Investor's Business Daily",
-      "title": "Rivian Deliveries Top Company's Expectations As EV Startup Maintains Guidance - Investor's Business Daily",
-      "description": "Rivian stock advanced 30% last week.",
-      "url": "https://www.investors.com/news/rivian-stock-deliveries-top-expectations/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/03/Stock-RivianR3-02-Company.jpg",
-      "publishedAt": "2024-07-02T13:44:00Z",
-      "content": "Rivian (RIVN) second-quarter vehicle deliveries came in above its own forecasts as the EV startup kept full-year production guidance steady. RIVN stock advanced early Tuesday.\r\nXNOW PLAYINGIf Tesla I… [+3367 chars]"
+      "author": "Moneycontrol News",
+      "title": "FIIs net sell equities worth Rs 2,000 crore, DIIs net buy shares worth Rs 648 crore - Moneycontrol",
+      "description": "According to provisional data from NSE, DIIs bought Rs 14,203.40 crore worth of shares and sold shares worth Rs 13,555.15 crore. Meanwhile, FIIs picked up Rs 14,551.15 crore in shares and offloaded equities worth Rs 16,551.27 crore during today's session",
+      "url": "https://www.moneycontrol.com/news/business/markets/fiis-net-sell-equities-worth-rs-2000-crore-diis-net-buy-shares-worth-rs-648-crore-12760890.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/07/20240702091603_volatile_market.jpg",
+      "publishedAt": "2024-07-02T14:03:26Z",
+      "content": "On July 2, domestic institutional investors were net buyers of shares worth Rs 648 crore. On the other hand, foreign investors were net sellers of shares worth Rs 2,000 crore.\r\nAccording to provision… [+1517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "MarketWatch",
+      "title": "Rivian’s stock rallies after EV deliveries beat by wide margin - MarketWatch",
+      "description": null,
+      "url": "https://www.marketwatch.com/story/rivians-stock-rallies-after-ev-deliveries-beat-by-wide-margin-f1a41ac2",
+      "urlToImage": null,
+      "publishedAt": "2024-07-02T13:56:00Z",
+      "content": null
     },
     {
       "source": {
@@ -408,15 +928,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Hindustan Times"
       },
-      "author": "Scott Cohn",
-      "title": "Insurance crisis that started in Florida, California is spreading. Your state could be next - CNBC",
-      "description": "Insurers are fleeing coastal states like Florida and California after floods and fires, and premiums are skyrocketing. More states face this climate crisis.",
-      "url": "https://www.cnbc.com/2024/07/02/florida-california-insurance-crisis-spreading-your-state-next.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108000386-1719850422294-gettyimages-2156815047-AA_14062024_1727226.jpeg?v=1719850452&w=1920&h=1080",
-      "publishedAt": "2024-07-02T13:15:19Z",
-      "content": "An insurance crisis that has sent premiums skyrocketing and caused carriers to flee coastal states like Florida and California is spreading, and it is fundamentally changing the real estate market in… [+5582 chars]"
+      "author": "HT News Desk",
+      "title": "Puravankara acquires 7-acre land parcel in Bengaluru to develop housing project worth ₹900 crore - Hindustan Times",
+      "description": "Bengaluru-based Puravankara Ltd has acquired a 7.26-acre land parcel in Bengaluru to construct a luxury housing project worth ₹900 crore",
+      "url": "https://www.hindustantimes.com/real-estate/puravankara-acquires-7-acre-land-parcel-in-bengaluru-to-develop-housing-project-worth-rs-900-crore-101719924937373.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/07/02/1600x900/photo-1584265788512-62430315517f_1719925199613_1719925212208.jpg",
+      "publishedAt": "2024-07-02T13:11:10Z",
+      "content": "Bengaluru-based real estate developer Puravankara Ltd has acquired a 7.26-acre land parcel in the Hebbagodi suburb of Bengaluru to develop a luxury residential project worth over 900 crore, the realt… [+2074 chars]"
     },
     {
       "source": {
@@ -434,80 +954,28 @@
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Benzinga"
       },
-      "author": null,
-      "title": "Shop 50 of the Best Early July 4th Sales With Up to 70% Off - CNET",
-      "description": "Save big and pick up Independence Day deals now on tech, appliances, mattresses, furniture and more.",
-      "url": "https://www.cnet.com/deals/best-4th-of-july-sales-2024-07-02/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8768ba9a9824b4fb5fb9170bf2ce8a841dccf12c/hub/2024/06/26/86e16dca-e9aa-4d81-aeb1-488a09e84f4c/promo-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-07-02T12:36:00Z",
-      "content": "Independence Day is just a few days away, and tons of top retailers have already begun their July Fourth sales. Considering there are not many big sales events left in 2024, this one is worth taking … [+7180 chars]"
+      "author": "Benzinga India Staff",
+      "title": "Indian Energy Exchange Registers 25% Growth In June 2024 Electricity Volume - Benzinga India",
+      "description": "The Indian Energy Exchange (IEX) experienced a 25% year-on-year surge in electricity volume for June 2024, as per a media release.",
+      "url": "https://in.benzinga.com/content/39593489/indian-energy-exchange-registers-25-growth-in-june-2024-electricity-volume",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/03/Group-Silhouette-Of-Transmission-Towers-.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-02T12:03:17Z",
+      "content": "The Indian Energy Exchange (IEX) experienced a 25% year-on-year surge in electricity volume for June 2024, as per a media release.\r\nWhat Happened: IEX disclosed on Tuesday that it reached an electric… [+1580 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Zee Business"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Michael Bloom",
-      "title": "Tuesday's analyst calls like Nvidia on Wall Street - CNBC",
-      "description": "Here are Tuesday's biggest calls on Wall Street.",
-      "url": "https://www.cnbc.com/2024/07/02/tuesdays-analyst-calls-like-nvidia-on-wall-street.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107134468-16656992842022-10-11t164525z_1772142506_rc23zw9srq35_rtrmadp_0_retail-holidayshopping-amazon.jpeg?v=1687375915&w=1920&h=1080",
-      "publishedAt": "2024-07-02T12:27:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Pilar Arias",
-      "title": "Costco flushable wipes settlement has wholesale giant agree to $2M payout - Fox Business",
-      "description": "Costco has agreed to pay out $2 million to resolve a false advertising class action lawsuit over flushable wipes, while not admitting to any wrongdoing.",
-      "url": "https://www.foxbusiness.com/retail/costco-flushable-wipes-settlement-wholesale-giant-2m-payout",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/coscto-evening-storefront.jpg?ve=1&tl=1",
-      "publishedAt": "2024-07-02T12:13:00Z",
-      "content": "People who purchased Kirkland Signature Moist Flushable Wipes from Costco in the past may be eligible for a piece of a $2 million class action lawsuit settlement.\r\nThe payments are for consumers who … [+2680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "Daniel Kline",
-      "title": "Another popular beer brand files Chapter 11 bankruptcy - TheStreet",
-      "description": "It's a bad time to be a fan of craft beers as the past year has not been kind to companies that make them.",
-      "url": "https://www.thestreet.com/restaurants/another-popular-beer-brand-files-chapter-11-bankruptcy",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTkxMTQ4ODgzNjk3NzM5MTE4/on-tap-beer.jpg",
-      "publishedAt": "2024-07-02T11:45:00Z",
-      "content": "Before the Covid pandemic, beer was having a moment. It seemed like every city was adding multiple craft brewers and that everyone understood the language of the popular drink.\r\nIt wasn't abnormal to… [+4092 chars]"
+      "author": "ZeeBiz WebTeam",
+      "title": "HDFC Bank UPI services to be unavailable for 240 minutes on this date; check out timings, other key details - Zee Business",
+      "description": "HDFC Bank will temporarily suspend its UPI services on July 13 while it transitions from its current core banking system (CBS) to a newly engineered platform. The countrys largest private sector bank aims to enhance performance, capacity, and reliability thro…",
+      "url": "https://www.zeebiz.com/personal-finance/banking/news-hdfc-bank-to-temporarily-stop-upi-services-on-this-date-check-out-timings-other-key-details-299355",
+      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/07/02/302744-upitransaction.jpg",
+      "publishedAt": "2024-07-02T11:34:03Z",
+      "content": "HDFC Bank has said that some of its services are set to be halted temporarily on July 13 as the private sector lender migrates from its core banking system (CBS) to a newly engineered platform. HDFC … [+3911 chars]"
     },
     {
       "source": {
@@ -515,12 +983,12 @@
         "name": "Yahoo Entertainment"
       },
       "author": "Yahoo Finance Video",
-      "title": "BYD closing gap behind Tesla, Oil jumps on hurricane and Middle East concerns - Yahoo Finance",
+      "title": "BYD closing gap behind Tesla, oil jumps on Hurricane Beryl - Yahoo Finance",
       "description": "Chinese EV maker BYD (BYDDY) spiked over 20% in its second quarter EV sales, closing the gap behind Tesla (TSLA). Barclays estimates an 11% drop in second...",
       "url": "https://finance.yahoo.com/video/byd-closing-gap-behind-tesla-113041898.html",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pYBYEcDK1sX_ZE425k3w8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2019-09/1af93af0-db18-11e9-bff7-e34690b9be52",
       "publishedAt": "2024-07-02T11:30:41Z",
-      "content": "Chinese EV maker BYD (BYDDY) spiked over 20% in its second quarter EV sales, closing the gap behind Tesla (TSLA). Barclays estimates an 11% drop in second-quarter deliveries for Tesla, potentially lo… [+882 chars]"
+      "content": "Chinese EV maker BYD (BYDDY) spiked over 20% in its second quarter EV sales, closing the gap behind Tesla (TSLA). Barclays estimates an 11% drop in second-quarter deliveries for Tesla, potentially lo… [+941 chars]"
     },
     {
       "source": {
@@ -528,7 +996,7 @@
         "name": "BusinessLine"
       },
       "author": "BL Chennai Bureau",
-      "title": "Capgemini to invest ₹1000 crore in its new facility in Chennai - BusinessLine",
+      "title": "Capgemini to invest ₹1,000 crore in its new facility in Chennai - BusinessLine",
       "description": "Capgemini invests ₹1,000 crore in Chennai facility to attract top talent, featuring advanced labs and customer experience centers.",
       "url": "https://www.thehindubusinessline.com/info-tech/capgemini-to-invest-1000-crore-in-its-new-facility-in-chennai/article68359059.ece",
       "urlToImage": "https://bl-i.thgim.com/public/incoming/gb3ucn/article68359081.ece/alternates/LANDSCAPE_1200/2024-02-09T150520Z_146228931_RC2YY5AWK7A6_RTRMADP_3_FRANCE-CAPGEMINI.JPG",
@@ -550,16 +1018,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Livemint"
       },
-      "author": "JOSH BOAK",
-      "title": "Biden administration provides $504 million to support 12 technology hubs nationwide - The Associated Press",
-      "description": "The Biden administration says it's providing $504 million in implementation grants for a dozen technology hubs in Ohio, Montana, Nevada and Florida, among other locations. The Democratic administration tries to encourage more technological innovation across t…",
-      "url": "https://apnews.com/article/biden-raimondo-tech-hubs-commerce-02f1c351579532dab6d7157709349dfe",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dfc1563/2147483647/strip/true/crop/5454x3068+0+284/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F2d%2Fef3767eafefc98af8e0ae8b95780%2Fda13db84e9bf44fbbcae53890a4f90b3",
-      "publishedAt": "2024-07-02T11:08:00Z",
-      "content": "WASHINGTON (AP) The Biden administration said Tuesday that it was providing $504 million in implementation grants for a dozen technology hubs in Ohio, Montana, Nevada and Florida, among other locatio… [+1820 chars]"
+      "author": "Dhanya Nagasundaram",
+      "title": "Bansal Wire Industries IPO opens tomorrow: GMP, issue details, 10 key things to know before subscribing to the issue | Stock Market News - Mint",
+      "description": "Bansal Wire Industries IPO opens on Wednesday, July 3 with a price band of  ₹243 to  ₹256 per equity share. The company aims to fund ongoing projects and business activities through the IPO proceeds. The issue is a fresh offer of 29,101,562 equity shares.",
+      "url": "https://www.livemint.com/market/ipo/bansal-wire-industries-ipo-opens-tomorrow-gmp-issue-details-10-key-things-to-know-before-subscribing-to-the-issue-11719914670283.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/2-1_1719917392750_1719917408110.png",
+      "publishedAt": "2024-07-02T11:19:38Z",
+      "content": "Bansal Wire Industries IPO opens for subscription on tomorrow (Wednesday, July 3). In three main categorieshigh carbon steel wire, mild steel wire (low carbon steel wire), and stainless steel wirethe… [+4836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Sunil Shankar Matkar",
+      "title": "Technical View: Nifty may see consolidation with support at 24,000, Bank Nifty charts hint at caution - Moneycontrol",
+      "description": "Experts expect such consolidation to continue given the tiredness at the top after a consistent upward journey. However, as long as it holds 24,000, the levels of 24,400-24,500 can't be ruled out post-likely consolidation.",
+      "url": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-may-see-consolidation-with-support-at-24000-bank-nifty-charts-hint-at-caution-12760741.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/10/trading-market.jpg",
+      "publishedAt": "2024-07-02T11:17:16Z",
+      "content": "The Nifty 50 surpassed the much-awaited 24,200 level in the morning but could not sustain it due to profit-taking, closing the volatile session moderately lower on July 2. Experts expect such consoli… [+2726 chars]"
     },
     {
       "source": {
@@ -590,28 +1071,28 @@
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
+        "name": "Livemint"
       },
-      "author": "Moneycontrol News",
-      "title": "Gainers & losers: Stocks and sectors that moved the most on July 2 - Moneycontrol",
-      "description": "After a positive start at fresh highs, the Sensex as well as the Nifty 50 oscillated between gains and losses in the first half. However, extended selling in the second half dragged both the benchmarks to end the session largely flat, sharply off the record h…",
-      "url": "https://www.moneycontrol.com/news/photos/business/markets/gainers-losers-stocks-and-sectors-that-moved-the-most-on-july-2-12760340.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/07/20240701102458_stock-market-6.jpg",
-      "publishedAt": "2024-07-02T10:14:07Z",
-      "content": null
+      "author": "Livemint",
+      "title": "Top Gainers and Losers today on 2 July, 2024: Larsen & Toubro, Wipro, Shriram Finance, Bharti Airtel among most active stocks; Check full list here | Stock Market News - Mint",
+      "description": "Top Gainers and Losers Today : The Sensex lost 34.74 points, or -0.04, to settle at 79476.19, while the Nifty lost 18.1 points, or -0.07, to close at 24141.95.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-and-losers-today-on-2-july-2024-larsen-toubro-wipro-shriram-finance-bharti-airtel-among-most-active-stocks-check-full-list-here-11719916401391.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/20/1600x900/Top_Gainer_Loser_1695188517120_1695188522963.webp",
+      "publishedAt": "2024-07-02T10:33:20Z",
+      "content": "Top Gainers and Losers Today : The Nifty closed at 24141.95, down by 0.07% today. Throughout the day, the Nifty reached a high of 24236.35 and a low of 24056.4. The Sensex traded between 79855.87 and… [+3533 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Colorado Sun"
+        "name": "CNBCTV18"
       },
-      "author": "Michael Booth, Tamara Chuang",
-      "title": "Colorado wins $40.5 million federal quantum hub grant - The Colorado Sun",
-      "description": "CU Boulder, businesses will benefit as Colorado becomes one of 12 new federal technology hubs as part of a funding sprint in emerging ideas",
-      "url": "http://coloradosun.com/2024/07/02/colorado-quantum-technology-40-million-grant-federal/",
-      "urlToImage": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/maybell-quantum-os-15-scaled.jpg?fit=2560%2C1706&quality=70&ssl=1",
-      "publishedAt": "2024-07-02T10:08:00Z",
-      "content": "Colorado won a $40.5 million quantum technology grant from the federal government to help turn the state into a worldwide hub in the emerging field, Gov. Jared Polis announced Monday, as one of 12 aw… [+3642 chars]"
+      "author": "Hormaz Fatakia",
+      "title": "Explained — Why shares of IREDA surged over 6% in the final minutes of trade - CNBCTV18",
+      "description": "IREDA had gone public in November last year, selling shares in its Initial Public Offer at ₹32 apiece.",
+      "url": "https://www.cnbctv18.com/market/ireda-share-price-block-deal-sharp-surge-in-trade-buyer-seller-fpo-record-high-19436984.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2024/06/stock-market-jun26-2024-06-770d7987593a23289ac0906c76596ccf.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-02T10:28:29Z",
+      "content": "Shares of Indian Renewable Energy Development Agency Ltd. (IREDA) hit a record high on Wednesday, surpassing its previous record high of 214, which it had hit just after a few days of listing. The st… [+1524 chars]"
     },
     {
       "source": {
@@ -641,42 +1122,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Bar & Bench - Indian Legal News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Meera Emmanuel",
-      "title": "Karnataka High Court sets aside NCLT stay on second rights issue by Byju's - Bar & Bench - Indian Legal News",
-      "description": "The Karnataka High Court on Tuesday set aside a June 12 interim order passed by the National Company Law Tribunal (NCLT), Bangalore which had&nbsp;restrained ed",
-      "url": "https://www.barandbench.com/news/karnataka-high-court-sets-aside-nclt-stay-second-rights-issue-byjus",
-      "urlToImage": "https://media.assettype.com/barandbench%2F2024-06%2Fb39d2644-ff1a-4a85-a784-3ef790dedf15%2FKARNATAKA%20%20WEB%20PAGE%201600x900.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2024-07-02T09:52:40Z",
-      "content": "Justice SR Krishna Kumar pronounced the decision this afternoon, after having reserved orders in the matter last week. \r\nThe judge told today that the order has been passed on merits and that the mat… [+1023 chars]"
+      "author": "The Wall Street Journal",
+      "title": "Boeing Calls Time on the Great American Outsourcing - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/airlines/boeing-calls-time-on-the-great-american-outsourcing-e5391563",
+      "urlToImage": null,
+      "publishedAt": "2024-07-02T09:49:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Benzinga"
+        "name": "Carwale.com"
       },
-      "author": "Ananthu C U",
-      "title": "CDSL Approves 1:1 Bonus Issue, Announces Record Date For Dividend - Benzinga India",
-      "description": "Central Depository Services approved 1:1 bonus share issuance and announced record date for dividends.",
-      "url": "https://in.benzinga.com/content/39590693/cdsl-approves-1-1-bonus-issue-announces-record-date-for-dividend",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/Bonus-Share-Key.jpeg?width=1200&height=800&fit=crop",
-      "publishedAt": "2024-07-02T09:38:07Z",
-      "content": "Central Depository Services' board approved the issuance of bonus shares for the company's investors. The board also announced the record date for its dividend.\r\nWhat Happened: The company approved t… [+1167 chars]"
+      "author": "Haji Chakralwale",
+      "title": "Mahindra Scorpio N gets new features! - CarWale",
+      "description": "Mahindra has rejigged the features of its rugged SUV, the Scorpio-N. With the new update, the model now benefits from new features.",
+      "url": "https://www.carwale.com/news/mahindra-scorpio-n-gets-new-features/",
+      "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/181239/mahindra-scorpio-n-right-front-three-quarter1.jpeg?isig=0&art=1&q=80",
+      "publishedAt": "2024-07-02T09:47:45Z",
+      "content": "<ul><li>Top-spec variants benefit from new features</li><li>Midnight Black colour option now available in all Z8 variants</li></ul>Mahindra has rejigged the features of its rugged SUV, the Scorpio N.… [+1231 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Heena Ojha",
-      "title": "Shark Tanks Namita Thapar Will Gain This Much From Emcure Pharma IPO - NDTV Profit",
-      "description": "Thapar stands to achieve a 293-fold return on her initial investment at the upper end of the price band.",
-      "url": "https://www.ndtvprofit.com/business/shark-tanks-namita-thapar-will-gain-this-much-from-emcure-pharma-ipo",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-07%2F64e95a95-7d47-4d4c-b797-e9a97d966272%2FNamita_Thapar.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2024-07-02T09:31:21Z",
-      "content": "Shark Tank India judge, Namita Thapar, is set to reap substantial returns following her decision to partially divest her stake in Emcure Pharmaceuticals Ltd., where she is an executive director. Thap… [+649 chars]"
+      "author": "Nishtha Awasthi",
+      "title": "CDSL board announces 1:1 bonus share issue, stock down 1.2% - The Economic Times",
+      "description": "Central Depository Services (CDSL) celebrates its 25-year silver jubilee with a special dividend and a landmark 1:1 bonus share issue for shareholders. The company's market capitalization surpasses 1 lakh crores, signaling robust growth and shareholder value …",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cdsl-board-announces-11-bonus-share-issue-stock-down-1-2/articleshow/111429165.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111429151,width-1200,height-630,imgsize-12010,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-02T09:28:26Z",
+      "content": "Central Depository Services (CDSL), in its board meeting held today, announced a bonus issue of shares for eligible shareholders in the ratio of 1:1.This means that for each share of the company held… [+1871 chars]"
     },
     {
       "source": {
@@ -693,19 +1174,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "USA TODAY",
-      "title": "Are grocery stores open on July 4th? Hours and details on Costco, Kroger, Publix, Aldi, more - USA TODAY",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS8yMDI0LzA3LzAyL2dyb2Nlcnktc3RvcmVzLW9wZW4tY2xvc2VkLWp1bHktNHRoLTIwMjQvNzQyNzAwNTMwMDcv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-02T09:22:13Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Motley Fool"
       },
@@ -716,19 +1184,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X4BZRoTqeY9ehB9BFLaUgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/45fa41536142c8c6ab7b27b0867ce3b8",
       "publishedAt": "2024-07-02T09:20:00Z",
       "content": "Nike's (NYSE: NKE) stock sank 20% to a four-year low on June 28 after the company posted its latest earnings report. For the fourth quarter of fiscal 2024, which ended on May 31, the footwear and ath… [+5912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenni Reid",
-      "title": "Euro zone inflation eases to 2.5% as core print misses estimate - CNBC",
-      "description": "Economists polled by Reuters expected the headline rate to come in at 2.5%.",
-      "url": "https://www.cnbc.com/2024/07/02/euro-zone-inflation-june-2024.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108000700-1719915292949-gettyimages-2156473169-AA_11062024_1723373.jpeg?v=1719915303&w=1920&h=1080",
-      "publishedAt": "2024-07-02T09:07:13Z",
-      "content": "Headline inflation in the euro area dipped to 2.5% in June, the European Union's statistics agency said Tuesday, while the closely watched core and services prints held steady.\r\nThe headline figure w… [+2831 chars]"
     },
     {
       "source": {
@@ -759,6 +1214,19 @@
     {
       "source": {
         "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Benzinga India Staff",
+      "title": "Nephro Care IPO Day 3: Subscription At 715 Times, GMP Jumps - Benzinga India",
+      "description": "Nephro Care India IPO aims to raise ₹41.26 crores. The IPO is open for subscription from June 28, 2024, and will close today, July 2, 2024.",
+      "url": "https://in.benzinga.com/content/39589760/nephro-care-ipo-day-3-subscription-at-363-times-check-latest-gmp",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/IPO-allotment-status.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-02T08:22:51Z",
+      "content": "Nephro Care India IPO aims to raise 41.26 crores. The IPO is open for subscription from June 28, 2024, and will close today, July 2, 2024.\r\nOn the final day of bidding, the Nephro Care India IPO has … [+2562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Etnownews.com"
       },
       "author": "Varun Yadav",
@@ -774,78 +1242,13 @@
         "id": null,
         "name": "Livemint"
       },
-      "author": "Pranati Deva",
-      "title": "IREDA: Up over 500% from IPO price, ICICI Direct chooses it has ‘high conviction pick’ – 3 key reasons why | Stock Market News - Mint",
-      "description": "IREDA, at the inflection point of the renewable revolution in India, is favored by ICICI Direct for its positive long-term growth prospects. The stock has seen significant performance fluctuations but has surged over 509% since its IPO in 2023.",
-      "url": "https://www.livemint.com/market/stock-market-news/ireda-stock-price-up-over-500-from-ipo-price-icici-direct-chooses-it-has-high-conviction-pick-3-key-reasons-why-11719904608646.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/A-public-sector-enterprises-under-Ministry-of-New-_1688209997816_1719904879147.jpg",
-      "publishedAt": "2024-07-02T07:56:45Z",
-      "content": "Giving positive returns for 3 straight months till June, the Indian Renewable Energy Development Agency (IREDA) has been chosen as a high conviction pick by ICICI Direct. It said that IREDA is at the… [+5436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "Hormaz Fatakia",
-      "title": "What is the road ahead for paper stocks like JK Paper, West Coast and peers - CNBCTV18",
-      "description": "Shares of JK Paper are now up 50% so far in 2024.",
-      "url": "https://www.cnbctv18.com/market/paper-stocks-outlook-jk-paper-west-coast-ruchira-tnpl-orient-share-price-volume-debt-19436852.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2022/08/paper-shutterstock.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-07-02T07:49:29Z",
-      "content": "Shares of paper companies like JK Paper Ltd., and its peers like West Coast Paper Ltd., Orient Paper Ltd. and Ruchira Paper Ltd. among other paper stocks are trading with gains between 4% and 12% in … [+1624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
       "author": "Asit Manohar",
-      "title": "Sakuma Exports declares 4:1 bonus shares. Record date, other details here | Stock Market News - Mint",
-      "description": "Sakuma Exports board approved raising of funds through the QIP",
-      "url": "https://www.livemint.com/market/stock-market-news/sakuma-exports-declares-4-1-bonus-shares-record-date-other-details-here-11719905764748.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/Sakuma_Exports_Bonus_shares_2024_Stock_market_news_1719905909403_1719905909644.jpg",
-      "publishedAt": "2024-07-02T07:48:00Z",
-      "content": "Bonus shares 2024: The Board of Directors of Sakuma Exports Ltd has declared bonus shares in a 4:1 ratio. This means four bonus shares will be issued as a reward to the eligible shareholders for hold… [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Ankit Gohel",
-      "title": "Q1 results preview: From TCS to HCL Tech, IT sector revenue growth expected to improve sequentially | Company Business News - Mint",
-      "description": "Q1 results preview: IT sector Q1 results are expected to be a mixed bag with sluggish revenue growth and improving operating margins. Revenues are likely to recover as the ramp-up of large cost-takeout deals could drive growth for large-caps in a seasonally s…",
-      "url": "https://www.livemint.com/companies/company-results/q1-results-preview-from-tcs-to-hcl-tech-it-sector-revenue-growth-expected-to-improve-sequentially-11719902999405.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/dd_1719904202044_1719904202280.jpg",
-      "publishedAt": "2024-07-02T07:17:27Z",
-      "content": "IT sector companies will kick off the earnings season for the first quarter of FY25, with Tata Consultancy Services (TCS), Infosys, Wipro, and others leading the way in announcing their Q1FY25 result… [+5574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Ananthu C U",
-      "title": "HDFC Bank, Coal India, HCLTech Among Axis Securities' Top Picks - Benzinga India",
-      "description": "Axis Securities added HDFC Bank and HCLTech to top picks basket with a bull case target of 27,000 for Nifty 50 by March 2025 driven by private capex, policy stability and interest rate cuts from US.",
-      "url": "https://in.benzinga.com/content/39589303/hdfc-bank-coal-india-hcltech-among-axis-securities-top-picks",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/Bull.png?width=1200&height=800&fit=crop",
-      "publishedAt": "2024-07-02T07:12:41Z",
-      "content": "Axis Securities added HDFC Bank and HCLTech to its basket of top picks with a bull-case target of 27,000 for Nifty 50 by March 2025. \r\nWhat Happened: Axis Securities said it has added HDFC Bank and H… [+2519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Informalnewz.com"
-      },
-      "author": "Shyamu Maurya",
-      "title": "UPI Service Close: Bank Customers of this bank will not be able to use these services of the bank includin ... - informalnewz",
-      "description": "HDFC Bank UPI Update: A big update has come from the bank for HDFC customers. Due to system upgrade, customers will not be able to use some services including UPI on July 13. Check the details. UPI Service Close: Big update for HDFC customers, HDFC System Upg…",
-      "url": "https://www.informalnewz.com/upi-service-close-bank-customers-of-this-bank-will-not-be-able-to-use-these-services-of-the-bank-including-upi-on-this-day/",
-      "urlToImage": "https://www.informalnewz.com/wp-content/uploads/2022/08/3RD-1024x825-1-300x242-1.png",
-      "publishedAt": "2024-07-02T07:04:12Z",
-      "content": "HDFC Bank UPI Update: A big update has come from the bank for HDFC customers. Due to system upgrade, customers will not be able to use some services including UPI on July 13. Check the details.\r\nUPI … [+2564 chars]"
+      "title": "Allied Blenders and Distillers shares dip after positive debut on Dalal Street. Buy, sell or hold? | Stock Market News - Mint",
+      "description": "Allied Blenders and Distillers share price opened on BSE at  ₹318.10 per equity share whereas it listed on the NSE at  ₹320 apiece",
+      "url": "https://www.livemint.com/market/stock-market-news/allied-blenders-and-distillers-shares-dip-after-positive-debut-on-dalal-street-buy-sell-or-hold-11719903107847.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/Allied_Blenders_and_Distillers_share_price_NSE_1719903569019_1719903581276.jpeg",
+      "publishedAt": "2024-07-02T07:04:33Z",
+      "content": "Despite weak sentiments in the Indian stock market, Allied Blenders and Distillers shares debited positively in a special per-open session on Tuesday. Allied Blenders and Distillers share price opene… [+2846 chars]"
     },
     {
       "source": {
@@ -863,45 +1266,6 @@
     {
       "source": {
         "id": null,
-        "name": "Dsij.in"
-      },
-      "author": "Praveenkumar Yadav",
-      "title": "Rs 4.76 trillion order book and DIIs increase stake: This multibagger construction company bags new orders of about Rs 2,500 crore from ONGC! - Dalal Street Investment Journal",
-      "description": "Shares of the company have gained more than 40 per cent in the last one year.",
-      "url": "https://www.dsij.in/dsijarticledetail/rs-476-trillion-order-book-and-diis-increase-stake-this-multibagger-construction-company-bags-new-orders-of-about-rs-2500-crore-from-ongc-39428",
-      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/39428/image_1392.jpg",
-      "publishedAt": "2024-07-02T07:01:38Z",
-      "content": "Shares of the company have gained more than 40 per cent in the last one year.\r\nLarsen &amp; Toubro (L&amp;T) has secured a significant offshore order from Oil &amp; Natural Gas Corporation (ONGC) for… [+2843 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Washington Examiner"
-      },
-      "author": "Zachary Halaschak",
-      "title": "Drug stores are closing up shop in droves. Here’s why - Washington Examiner",
-      "description": "Walgreens, CVS, and Rite Aid have closed up thousands of brick-and-mortar stores in recent years, a trend that is being driven by a few different factors.",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/3066440/drug-stores-closing-shop-droves-heres-why/",
-      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/walgreens-closing-stores.webp",
-      "publishedAt": "2024-07-02T07:00:00Z",
-      "content": "Walgreens, CVS, and Rite Aid are closing up or have already shut down thousands of brick-and-mortar stores in recent years, a trend being driven by a few different factors.\r\nThis past week, the CEO o… [+4986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mobilityoutlook.com"
-      },
-      "author": "Desirazu Venkat",
-      "title": "Kia Ups Style Quotient For Seltos And Sonet X Line - Mobility Outlook",
-      "description": "The automaker has also added a new GTX variant for both cars",
-      "url": "https://www.mobilityoutlook.com/news/kia-ups-style-quotient-for-seltos-and-sonet-x-line/",
-      "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/181213/generic-data0.png?isig=0&art=8&q=80",
-      "publishedAt": "2024-07-02T06:56:55Z",
-      "content": "Six months and one month respectively after they were launched, Kia has silently added minor updates for the Sonet and Seltos. Both cars get new a shade for their top-spec X-Line trim while also addi… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Livemint"
       },
       "author": "A Ksheerasagar",
@@ -914,29 +1278,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Hindustan Times"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Hindustantimes",
-      "title": "Liquor company brings pandit onstage for stock market debut: ‘It happens only in India’ - Hindustan Times",
-      "description": "Allied Blenders and Distillers made its stock market debut in the presence of a pandit (Hindu priest) at the listing ceremony on Tuesday, July 2. | Trending",
-      "url": "https://www.hindustantimes.com/trending/allied-blenders-and-distillers-brings-pandit-onstage-for-stock-market-debut-only-in-india-101719901684019.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/07/02/1600x900/GRdHueLb0AQswfZ_1719902393707_1719902415412.jpg",
-      "publishedAt": "2024-07-02T06:42:13Z",
-      "content": "Allied Blenders and Distillers made its stock market debut in the presence of a pandit (Hindu priest) at the listing ceremony on Tuesday, July 2.\r\nA pandit onstage during the listing ceremony of Alli… [+1551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Asit Manohar",
-      "title": "Akiko Global Services shares hit lower circuit after listing at 27% premium | Stock Market News - Mint",
-      "description": "Akiko Global Services share price listed on NSE at  ₹98 apiece,  ₹21 higher from the upper price band of  ₹77 per equity share",
-      "url": "https://www.livemint.com/market/stock-market-news/akiko-global-services-shares-hit-lower-circuit-after-listing-at-27-premium-11719899181102.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/Akiko_Global_Services_share_price_NSE_1719900816217_1719900845581.jpeg",
-      "publishedAt": "2024-07-02T06:25:17Z",
-      "content": "Despite weakness in the Indian stock market, Akiko Global Services shares are listed on the NSE at a substantial premium. Akiko Global Services share price opened on the NSE SME Emerge platform at 98… [+2278 chars]"
+      "author": "Nishtha Awasthi",
+      "title": "Nomura turns bullish on Indian IT sector, highlights Infosys, Coforge as top picks - The Economic Times",
+      "description": "Nomura bullish on Indian IT sector with top picks Infosys and Coforge, upgrades ratings for Wipro and HCL Technologies. Anticipates GenAI adoption boosting cloud services demand.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-turns-bullish-on-indian-it-sector-highlights-infosys-coforge-as-top-picks/articleshow/111422891.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111423457,width-1200,height-630,imgsize-32540,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-02T06:26:01Z",
+      "content": "Given the bottoming out of revenue growth rate and an expectation of the EPS downgrade cycle to end, global brokerage firm Nomura turned bullish on the Indian IT sector with Infosys and Coforge as it… [+1925 chars]"
     },
     {
       "source": {
@@ -950,357 +1301,6 @@
       "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/07/02/1600x900/pexels-photo-2635038_1719899368695_1719899405001.jpeg",
       "publishedAt": "2024-07-02T06:08:42Z",
       "content": "Mumbai-based real estate developer Godrej Properties has sold over 2,000 homes worth more than 3,150 crore at a project in Bengalurus Whitefield, the company said in a regulatory filing on July 2.\r\nM… [+2238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zee Business"
-      },
-      "author": "ZeeBiz WebTeam",
-      "title": "Anil Singhvi says buy Patanjali Foods shares for 2 years; here is why - Zee Business",
-      "description": "Baba Ramdev-led Patanjali Ayurved has decided to sell its home and personal care business to listed group firm Patanjali Foods Ltd for Rs 1,100 crore.",
-      "url": "https://www.zeebiz.com/markets/stocks/news-patanjali-foods-share-price-nse-bse-anil-singhvi-view-acquisition-news-baba-ramdev-299233",
-      "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2024/07/02/302631-patanjali-foods-shares.jpg",
-      "publishedAt": "2024-07-02T06:02:07Z",
-      "content": "Patanjali Foods shares traded lower on Wednesday (July 2) after Patanjali Ayurved to sell home, and personal care business to group firm Patanjali Foods for Rs 1,100 crore. \r\nAt around 11:17 a.m., sh… [+2240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Six Flags completes $8 billion merger with Knott's Berry Farm owner Cedar Fair - KABC-TV",
-      "description": "Theme park giants Six Flags and Cedar Fair officially completed their $8 billion merger.",
-      "url": "https://abc7.com/post/flags-completes-8-billion-merger-knotts-berry-farm/15018565/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15018608_six-flags-img.jpg?w=1600",
-      "publishedAt": "2024-07-02T05:58:11Z",
-      "content": "CHARLOTTE, N.C. (KABC) -- Theme park giants Six Flags and Cedar Fair officially completed their $8 billion merger on Monday.\r\nThe deal was finalized after the stock market closed.\r\nStarting Tuesday, … [+698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Danny Vena",
-      "title": "Nvidia's 1 Killer Advantage Will Produce a \"Cash Gusher\" for Shareholders in the Wake of Its 10-for-1 Stock Split, According to 1 Wall Street Analyst. - The Motley Fool",
-      "description": "Nvidia investors could be in for a windfall over the next few years.",
-      "url": "https://www.fool.com/investing/2024/07/02/nvidias-1-killer-advantage-will-produce-a-cash-gus/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/782363/nvidia-gb200-grace-blackwell-superchip.jpg",
-      "publishedAt": "2024-07-02T05:35:12Z",
-      "content": "Nvidia investors could be in for a windfall over the next few years.There's no denying that Nvidia(NVDA -1.31%) has been on fire since early last year. The stock has soared more than 750% as of this … [+4809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "Meghna Sen",
-      "title": "'Kalki 2898 AD' is not enough — PVR Inox gets a price target cut and may remain rangebound - CNBCTV18",
-      "description": "UBS projects a likely difficult first half of the financial year 2025, citing the film 'Kalki 2898 AD' alone isn't enough to help the company deliver positive EBITDA in the first quarter of this fiscal.",
-      "url": "https://www.cnbctv18.com/market/pvr-inox-share-price-kalki-2898-ad-is-not-enough-stock-gets-price-target-cut-remain-rangebound-19436739.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2024/05/pvr-ice-kopa-mall-2024-05-1566bcd646da79a97e4c43126d26dc2a.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-07-02T05:34:18Z",
-      "content": "Shares of PVR Inox Ltd. declined as much as 2% in Tuesday's trade after global brokerage firm UBS expected the stock to remain range bound in the near term.UBS maintained a 'Buy' rating on the PVR In… [+1457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Hilton Metal Forging, Visaman Global Sales & others hit 52 week low today ;Check the full list here? | Stock Market News - Mint",
-      "description": "Following shares hit their 52 week low today - Hilton Metal Forging, Visaman Global Sales, Repro India",
-      "url": "https://www.livemint.com/market/hilton-metal-forging-visaman-global-sales-others-hit-52-week-low-today-check-the-full-list-here-11719898202920.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/08/1600x900/bear_1707406651838_1707406668147.png",
-      "publishedAt": "2024-07-02T05:30:02Z",
-      "content": "Shares of Hilton Metal Forging, Visaman Global Sales, Repro India hit their fresh 52 wk lows today. Nifty 50 was up by 1.8(0.01%) points and Sensex was up by 53.48(0.07%) points at 02 Jul 2024 10:59:… [+704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dneg.com"
-      },
-      "author": "Caroline Bisson",
-      "title": "DNEG Group agrees $200 million investment from UASG - DNEG",
-      "description": "The DNEG Group announced today that United Al Saqer Group (UASG) is to invest $200 million in the DNEG Group. This investment enables the DNEG Group to accelerate its strategy of innovation and diversification to evolve from a pure services provider to a cont…",
-      "url": "https://www.dneg.com/dneg-group-agrees-200-million-investment-from-uasg/",
-      "urlToImage": "https://www.dneg.com/wp-content/uploads/2024/07/DUN2-38301r.jpg",
-      "publishedAt": "2024-07-02T05:23:37Z",
-      "content": "This investment enables the DNEG Group to accelerate its strategy of innovation and diversification to evolve from a pure services provider to a content production and AI-powered technology partner, … [+2631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Dhanya Nagasundaram",
-      "title": "Divine Power Energy share price makes a blockbuster debut, stock opens with 288% premium at ₹155 apiece on NSE SME | Stock Market News - Mint",
-      "description": "Divine Power Energy share price opened at  ₹155, which is 287.5% higher than the issue price of  ₹40. Divine Power IPO, opened for subscription until June 27 at a price band of  ₹36 to  ₹40 per share. The firm manufactures winding wires/strips for transformer…",
-      "url": "https://www.livemint.com/market/ipo/divine-power-energy-share-price-makes-a-blockbuster-debut-stock-opens-with-288-premium-at-rs-155-apiece-on-nse-sme-11719892466342.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/07/02/1600x900/Divine_Power_1719298287877_1719893098067.png",
-      "publishedAt": "2024-07-02T04:40:07Z",
-      "content": "Divine Power Energy share price made a bumper debut on NSE SME today. Divine Power Energy share price opened at 155, which is 287.5% higher than the issue price of 40. However, the stock slipped into… [+2967 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETMarkets.com",
-      "title": "U-Turn: Sensex, Nifty erase gains after hitting record highs - The Economic Times",
-      "description": "From the Sensex pack, Infosys, HCL Tech, TCS, and Bharti Airtel opened higher, while Tata Motors, Kotak Mahindra Bank, Bajaj Finance, and ICICI Bank opened in the red.Shares of Kotak Mahindra dropped 2% after US short-seller Hindenburg said that the lender cr…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-sensex-nifty-erase-gains-after-hitting-record-highs/articleshow/111419755.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-111419724,width-1200,height-630,imgsize-451012,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-07-02T04:31:42Z",
-      "content": "Benchmark indices retracted from all-time high levels, with Sensex falling over 600 points from the day's high of 79,855 to 79,236, while Nifty50 dropped to 24,100 after scaling 24,200 levels in the … [+3114 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Utkarsh Roshan",
-      "title": "Tata Motors Shares Slip As June Sales Miss Analyst Estimates - Benzinga India",
-      "description": "The Tata Group company's total sales for the month of June came in at 75,604, down around 7.4% from the 81,673 units it sold in June 2023.",
-      "url": "https://in.benzinga.com/content/39588256/tata-motors-shares-slip-as-june-sales-miss-analyst-estimates",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/02/Tata-Motors-Jamshedpur-scaled.jpeg?width=1200&height=800&fit=crop",
-      "publishedAt": "2024-07-02T04:08:39Z",
-      "content": "Tata Motors share price slumped on Tuesday morning as the companys sales data for June disappointed investors.\r\nWhat Happened: The Tata Group companys total sales for the month of June came in at 75,… [+1716 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inshorts.com"
-      },
-      "author": "Pragya Swastik",
-      "title": "Chicken Soup for the Soul Entertainment goes bankrupt | Chicken Soup company was founded in 1993 in US | Inshorts - Inshorts",
-      "description": "Self-help, consumer goods and media company Chicken Soup for the Soul Entertainment filed for bankruptcy in De",
-      "url": "https://inshorts.com/en/news/chicken-soup-for-the-soul-entertainment-goes-bankrupt-1719833264278",
-      "urlToImage": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2024/07_jul/1_mon/img_1719832028271_890.jpg?",
-      "publishedAt": "2024-07-02T03:50:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Kaitlin Lewis",
-      "title": "Dog, Cat Food Recall Sparks Nationwide Warning to Pet Owners - Newsweek",
-      "description": "The online subscription company Viva Raw has recalled several products over the possibility of listeria contamination.",
-      "url": "https://www.newsweek.com/dog-cat-food-recall-sparks-nationwide-warning-pet-owners-1919912",
-      "urlToImage": "https://d.newsweek.com/en/full/2420621/dog-cat-food-recall-sparks-nationwide-warning.jpg",
-      "publishedAt": "2024-07-02T03:26:51Z",
-      "content": "A nationwide recall has been issued by online pet food subscription site Viva Raw for several of its products over the risk of bacteria contamination.\r\nThe Hillsborough, North Carolina, company is re… [+4399 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Anna Commander",
-      "title": "Supreme Court 'Wreaks Havoc' With Ruling, Ketanji Brown Jackson Warns - Newsweek",
-      "description": "Supreme Court Justice Ketanji Brown Jackson warned of potential \"havoc\" in her dissent of a ruling on Monday.",
-      "url": "https://www.newsweek.com/supreme-court-wreaks-havoc-ruling-ketanji-brown-jackson-warns-1919907",
-      "urlToImage": "https://d.newsweek.com/en/full/2420609/ketanji-brown-jackson.jpg",
-      "publishedAt": "2024-07-02T03:10:28Z",
-      "content": "The U.S. Supreme Court'sruling on debit card fees Monday sparked Justice Ketanji Brown Jackson to push back, saying in her dissent that the decision \"wreaks havoc\" on businesses, the government and s… [+3715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": "Ortenca Aliaj, Antoine Gara, Chris Kay",
-      "title": "Indian regulators allege Hindenburg's Adani report 'indulged in unfair trade practices' - Financial Times",
-      "description": "‘Show cause’ notice reveals short seller worked with US hedge fund Kingdon Capital Management",
-      "url": "https://www.ft.com/content/ae104fce-0576-4ff0-a7ec-a0eed7849e97",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F819fd2ea-fbee-4d01-881e-b679c10fa4ba.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2024-07-02T03:06:51Z",
-      "content": "Indias markets regulator has alleged Hindenburg Researchs report on Indian billionaire Gautam Adani indulged in unfair trade practices and said the short seller worked with a New York hedge fund to m… [+3690 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Hannah Sampson",
-      "title": "Summer storms, airport crowds make July the worst time to fly - The Washington Post",
-      "description": "July often has the greatest number of extreme-weather delays — and some of the highest numbers of passengers getting screened by TSA.",
-      "url": "https://www.washingtonpost.com/travel/2024/07/01/july-weather-delays-flying-airlines/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2QLXZMJDFCC3HGANYFJTWAXC4.jpg&w=1440",
-      "publishedAt": "2024-07-02T03:05:13Z",
-      "content": "Buckle up, air travelers. The skies might be unfriendly for a while.\r\nIf history is any indication, we are about to enter the time of year with the most delays caused by extreme weather as well as so… [+5120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WCVB Boston"
-      },
-      "author": null,
-      "title": "Sizzling out? As peak barbecue season begins, fewer Americans are buying grills - WCVB Boston",
-      "description": "It's not just the big brands — local stores that sell grills and other backyard cooking gear are similarly reporting demand slacking off.",
-      "url": "https://www.wcvb.com/article/fewer-americans-buying-grills/61463918",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhh6nww2cwuwmdazm2i2anpvz29uzhfw-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsehq5m3ftnjawmg42m3aynxzndtdubja-jpg-66836e386bc1b.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
-      "publishedAt": "2024-07-02T03:05:00Z",
-      "content": "To BBQ or not to BBQ? That is one question on Americans' minds heading toward July 4 as grills are not as hot of an item as they once were.\r\nVideo above: What it takes to grill the perfect burger\r\nTh… [+7689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Seattle Times"
-      },
-      "author": "Dominic Gates",
-      "title": "After steering major deal, Shanahan, CEO of Boeing supplier, could be next Boeing boss - The Seattle Times",
-      "description": "Spirit AeroSystems CEO Pat Shanahan, who engineered the deal to to split Spirit AeroSystems between Boeing and Airbus, is positioned to be a top Boeing CEO candidate.",
-      "url": "https://www.seattletimes.com/business/boeing-aerospace/after-steering-major-deal-spirit-ceo-shanahan-could-be-next-boeing-boss/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/07/07012024_Shanahan_tzr_133346.jpg?d=1200x630",
-      "publishedAt": "2024-07-02T02:01:06Z",
-      "content": "The complex three-way deal announced late Sunday night to split Spirit AeroSystems between Boeing and Airbus, returning to Boeing huge manufacturing facilities that it sold off two decades ago, was e… [+7217 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Nikki DeMentri, Bill Seiders, Wakisha Bailey",
-      "title": "Philadelphia International Airport sees more delays, cancellations after latest round of severe weather - CBS News",
-      "description": "Philadelphia International Airport is seeing more delays and cancellations after another round of severe weather moved through the area Sunday night.",
-      "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-airport-delays-severe-weather/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/01/62db09f6-9550-4ab0-8286-e12153e467d0/thumbnail/1200x630/093ad9cf1db760c3511f668a9adea687/phl-travel-troubles.jpg?v=57e8061b2038d609da26e467de5ddfb8",
-      "publishedAt": "2024-07-02T01:24:23Z",
-      "content": "PHILADELPHIA (CBS) — Severe weather over the weekend is causing more troubles at Philadelphia International Airport as travelers are trying to get home for the Fourth of July. The airport is dealing … [+2182 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Akash Podishetti",
-      "title": "Stocks in news: Patanjali Foods, IOL Chemicals, Carysil, Tata Steel, Coal India - The Economic Times",
-      "description": "Coal India's coal production rose 8% to 189.3 million tonnes in the first quarter. Patanjali Foods approved the acquisition of the home and personal care business. DCX Systems received a Rs 1,250 crore order.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-patanjali-foods-iol-chemicals-carysil-tata-steel-coal-india/articleshow/111417571.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-111417595,width-1200,height-630,imgsize-29898,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-07-02T01:12:49Z",
-      "content": "Domestic markets opened on a flat note but soon bulls took over and brought some gains to start the week on a high. In today's trade, shares of Patanjali Foods, IOL Chemicals, Carysil, Tata Steel, Co… [+1089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scroll.in"
-      },
-      "author": "Tabassum Barnagarwala",
-      "title": "Why India’s food norms fail to detect pesticide in spices - Scroll.in",
-      "description": "Indian laws do not mandate that spices sold in domestic market be tested for any pesticide residue, unless there are special directions, experts told Scroll.",
-      "url": "https://scroll.in/article/1070032/why-indias-food-norms-fail-to-detect-pesticide-in-spices",
-      "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/201839-jwzlsceebg-1719834689.jpg",
-      "publishedAt": "2024-07-02T01:00:00Z",
-      "content": "On April 5, Hong Kongs food safety department flagged the presence of a carcinogen in two spice mixes imported from India.\r\nTraces of ethylene oxide were found in Everests fish curry masala powder an… [+9456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Our Bureaus",
-      "title": "India Inc hit by acute shortage of blue collar workforce - BusinessLine",
-      "description": "India faces a shortage of skilled blue-collar workers, impacting industries like construction, delivery, and healthcare, leading to challenges in project execution.",
-      "url": "https://www.thehindubusinessline.com/news/national/labour-shortage-plagues-india-as-demand-for-skilled-workers-spike/article68355123.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/cw3boc/article68355410.ece/alternates/LANDSCAPE_1200/2013-12-27T035822Z_15497546_GM1E9CR0WVP01_RTRMADP_3_INDIA-ECONOMY-INFLATION.JPG",
-      "publishedAt": "2024-07-02T00:35:55Z",
-      "content": "At the labour chowk in Noida, where contractors and homeowners often hire plumbers, carpenters, painters, and masons, finding a skilled worker is becoming fairly difficult. Though the chowk is full o… [+5044 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Dr Devi Shetty floats ₹1 cr health plan for ₹10k/year - The Times of India",
-      "description": "Dr Devi Shetty's Narayana Health introduces Aditi, a health insurance product offering comprehensive coverage at an affordable premium. The plan aims to simplify the insurance process and provide peace of mind during medical emergencies. Learn more about this…",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dr-devi-shetty-launches-1-crore-health-plan-for-10kyear/articleshow/111416850.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111422064,width-1070,height-580,imgsize-19084,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-01T23:52:00Z",
-      "content": "Unforgettable train journeys across Indias best landscape"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decrypt"
-      },
-      "author": "Ryan Ozawa",
-      "title": "Lawsuit Against GameStop Trader Roaring Kitty Dismissed Just Days After Being Filed - Decrypt",
-      "description": "The case was dropped as Keith Gill was issued a summons to respond to it.",
-      "url": "https://decrypt.co/238008/gamestop-lawsuit-roaring-kitty-keith-gill-dismissed",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/05/roaring-kitty-1-gID_7.png",
-      "publishedAt": "2024-07-01T23:14:06Z",
-      "content": "On Friday, a class action lawsuit was brought against Keith Gill, a.k.a. Roaring Kitty, claiming that his massively popular social media activities drove up the price of GameStop (GME) stock for his … [+2324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "Analysts have a bleak outlook for car dealers after CDK cyberattack - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/automotive/analysts-bleak-outlook-car-dealers-cdk-cyberatttack",
-      "urlToImage": null,
-      "publishedAt": "2024-07-01T23:03:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chattanooga Times Free Press"
-      },
-      "author": null,
-      "title": "Jury fines BlueCross for firing worker over COVID-19 vaccine mandate - Chattanooga Times Free Press",
-      "description": "A Tennessee jury has awarded a former research scientist at BlueCross BlueShield of Tennessee $687,000 in back pay and damages after she was fired in 2021 for refusing to take the COVID-19 vaccine.",
-      "url": "https://www.timesfreepress.com/news/2024/jul/01/jury-fines-bluecrosss-for-firing-worker-over/",
-      "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/news/tease/2024/07/02/103291212_100121-Edge-Generational-Te--2-_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-      "publishedAt": "2024-07-01T22:06:00Z",
-      "content": "A Tennessee jury has awarded a former research scientist at BlueCross BlueShield of Tennessee $687,000 in back pay and damages after she was fired in 2021 for refusing to take the COVID-19 vaccine.\r\n… [+6501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Texas Tribune"
-      },
-      "author": "By Kayla Guo",
-      "title": "Texas to double $5 billion state fund aimed at expanding the power grid - The Texas Tribune",
-      "description": "The announcement came soon after a new prediction by the state’s main grid operator that power demands will nearly double by 2030",
-      "url": "https://www.texastribune.org/2024/07/01/texas-power-grid-energy-fund/",
-      "urlToImage": "https://thumbnails.texastribune.org/r3hJ9-vJLYTvrRnnGdbOmZpHD38=/1200x630/filters:quality(95)/static.texastribune.org/media/files/efb045b4e273471820a1896bbbce891c/Vistra%20Midlothian%20Power%20ST%20TT%2015.jpg",
-      "publishedAt": "2024-07-01T22:05:54Z",
-      "content": "Were testing using AI-powered tools to provide an audio version of this story. While this audio recording is machine-generated, the story was written by human journalists. Read more on our AI policy.… [+2404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Mercury News"
-      },
-      "author": "Kyle Martin",
-      "title": "Half a million Patelco members locked out of credit union accounts due to security breach - The Mercury News",
-      "description": "Members of the credit union, which the company estimates at 500,000, were simultaneously locked out of their online accounts, barring them from checking their statement balances, sending or receivi…",
-      "url": "https://www.mercurynews.com/2024/07/01/half-a-million-patelco-members-locked-out-of-credit-union-accounts-due-to-security-breach/",
-      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/07/EBT-L-DUBBREACH-0703-1.jpg?w=1024&h=702",
-      "publishedAt": "2024-07-01T21:34:44Z",
-      "content": "DUBLIN — Half a million people on Monday were still locked out of their Patelco Credit Union accounts after a security breach on Saturday shut down bank operations with no clear resolution in sight.\r… [+3535 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elizabeth Lopatto",
-      "title": "Silvergate Bank didn't adequately monitor $1 trillion in crypto transactions, SEC says - The Verge",
-      "description": "Silvergate Bank and several members of its c-suite were sued for fraud in a Manhattan court. Silvergate, the CEO and the chief risk officer settled, the SEC says.",
-      "url": "https://www.theverge.com/2024/7/1/24190255/silvergate-sec-fraud-ftx-crypto-bank",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KRAfrCeSILLhzfpkLERiItogdcc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23641763/acastro_220614_5290_0001.jpg",
-      "publishedAt": "2024-07-01T20:23:27Z",
-      "content": "Silvergate Bank didnt adequately monitor $1 trillion in crypto transactions, SEC says\r\nSilvergate Bank didnt adequately monitor $1 trillion in crypto transactions, SEC says\r\n / The FTX fallout contin… [+3713 chars]"
     }
   ]
 }
