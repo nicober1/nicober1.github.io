@@ -1,71 +1,448 @@
 {
   "status": "ok",
-  "totalResults": 62,
+  "totalResults": 66,
   "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Deadline",
+      "title": "NBC Picks Up 'Suits: L.A.' & ‘Grosse Pointe Garden Society’ To Series; Releases First-Look Photos - Deadline",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA3L25iYy1waWNrcy11cC1zdWl0cy1sLWEtYW1wLWdyb3NzZS1wb2ludGUtZ2FyZGVuLXNvY2lldHktdG8tc2VyaWVzLXJlbGVhc2VzLWZpcnN0LWxvb2stcGhvdG9zLTEyMzYwMTU5NDMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T20:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Page Six",
+      "title": "Angelina Jolie’s daughter Shiloh takes out newspaper ad announcing she’s dropping Brad Pitt’s last name - Page Six",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3BhZ2VzaXguY29tLzIwMjQvMDcvMTkvcGFyZW50cy9hbmdlbGluYS1qb2xpZXMtZGF1Z2h0ZXItc2hpbG8tYW5ub3VuY2VzLXNoZXMtZHJvcHBpbmctYnJhZC1waXR0cy1sYXN0LW5hbWUtdmlhLW5ld3NwYXBlci1hZC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T19:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hollywood Reporter",
+      "title": "Would You Do It Again? A Year After Strike, Hollywood Reckons With the Aftermath - Hollywood Reporter",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL2FjdG9ycy13cml0ZXJzLXN0cmlrZXMtb25lLXllYXItbGF0ZXItMTIzNTk1MDQxOC_SAW5odHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy9hY3RvcnMtd3JpdGVycy1zdHJpa2VzLW9uZS15ZWFyLWxhdGVyLTEyMzU5NTA0MTgvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T19:32:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Entertainment Weekly News",
+      "title": "'The Acolyte' star Amandla Stenberg reacts to Oshamir dark side romance - Entertainment Weekly News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZXcuY29tL3RoZS1hY29seXRlLWFtYW5kbGEtc3RlbmJlcmctb3NoYW1pci1kYXJrLXNpZGUtcm9tYW5jZS04NjgwNjc40gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T18:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hollywood Reporter",
+      "title": "Hollywood Fears of a Major Hack Are Growing - Hollywood Reporter",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9idXNpbmVzcy9idXNpbmVzcy1uZXdzL2Rpc25leS1oYWNrLXN0cmVhbWluZy1zZWN1cml0eS1yaXNrLTEyMzU5NTMxMjgv0gFsaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL2J1c2luZXNzL2J1c2luZXNzLW5ld3MvZGlzbmV5LWhhY2stc3RyZWFtaW5nLXNlY3VyaXR5LXJpc2stMTIzNTk1MzEyOC9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T18:29:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Harper's BAZAAR",
+      "title": "Miley Cyrus Throws Star-Studded Pool Party with Gucci at LA's Chateau Marmont - Harper's BAZAAR",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmhhcnBlcnNiYXphYXIuY29tL2NlbGVicml0eS9sYXRlc3QvYTYxNjQ4NTgzL2tlbmRhbGwtamVubmVyLXNhbG1hLWhheWVrLW1pbGV5LWN5cnVzLWd1Y2NpLXBhcnR5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T18:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "National Oceanic and Atmospheric Administration",
+      "title": "'Twisters' movie: NOAA tornado science and staff behind the scenes - National Oceanic and Atmospheric Administration",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5vYWEuZ292L3R3aXN0ZXJzLW5vYWEtdG9ybmFkby1zY2llbmNlLWJlaGluZC10aGUtc2NlbmVz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T17:54:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Aaron Katersky",
+      "title": "Harvey Weinstein set to be retried on sex crime charges Nov. 12 - ABC News",
+      "description": "The judge said he was open to an earlier trial date.",
+      "url": "https://abcnews.go.com/US/harvey-weinstein-set-retried-sex-crime-charges-nov/story?id=112107596",
+      "urlToImage": "https://i.abcnewsfe.com/a/69d7b63e-0109-4b4d-a9e6-ef0097e7d56e/weinstein-ap-ml-240719_1721410725781_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-07-19T17:44:00Z",
+      "content": "These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "USA TODAY",
+      "title": "'Hello Kitty is not a cat': Fans in denial after creators reveal she's 'a little girl' - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS8yMDI0LzA3LzE5L2hlbGxvLWtpdHR5LW5vdC1hLWNhdC83NDQ2OTIwMzAwNy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T17:41:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Santa Fe New Mexican",
+      "title": "Santa Fe chosen as one of six finalist cities to host Sundance Film Festival - Santa Fe New Mexican",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5zYW50YWZlbmV3bWV4aWNhbi5jb20vbmV3cy9sb2NhbF9uZXdzL3NhbnRhLWZlLWNob3Nlbi1hcy1vbmUtb2Ytc2l4LWZpbmFsaXN0LWNpdGllcy10by1ob3N0LXN1bmRhbmNlLWZpbG0tZmVzdGl2YWwvYXJ0aWNsZV9lMGQ4NzRmYS00NWYwLTExZWYtYmNlMi05ZjAxMmMzMGE4ZTUuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T17:38:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Kim Kardashian reacts to Ivanka Trump’s Taylor Swift-themed birthday cake - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE5L2VudGVydGFpbm1lbnQva2ltLWthcmRhc2hpYW4tcmVhY3RzLXRvLWl2YW5rYS10cnVtcHMtdGF5bG9yLXN3aWZ0LXRoZW1lZC1jYWtlL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T16:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Ethan Shanfeld",
+      "title": "Bruce Springsteen Is Now a Billionaire, Forbes Estimates - Variety",
+      "description": "After becoming music's voice of the working class, Bruce Springsteen is officially a billionaire.",
+      "url": "https://variety.com/2024/music/news/bruce-springsteen-billionaire-forbes-1236078180/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/07/bruce-springsteen-billionaire-e1721401221249.png?w=843&h=561&crop=1",
+      "publishedAt": "2024-07-19T15:00:00Z",
+      "content": "The Boss is officially a billionaire.\r\nBruce Springsteen, who, with songs like Badlands, Hungry Heart and My Hometown became rock n rolls voice of the working class, is now worth $1.1 billion, accord… [+2041 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lisa Respers France",
+      "title": "Kate Hudson says she could ‘smell’ Matthew McConaughey ‘from a mile’ - CNN",
+      "description": "Years ago, Matthew McConaughey shared that while he and Kate Hudson were filming “Fool’s Gold” in 2008, she made a hygienic request of him.",
+      "url": "https://www.cnn.com/2024/07/19/entertainment/kate-hudson-matthew-mcconaughey/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240719-kate2.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-19T14:35:00Z",
+      "content": "Years ago, Matthew McConaughey shared that while he and Kate Hudson were filming Fools Gold in 2008, she made a hygienic request of him.\r\nShe always brings a salt rock, which is some natural deodoran… [+710 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Padma Lakshmi pays tribute to ‘Top Chef Masters’ star Naomi Pomeroy after freak river tubing accident - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE5L2VudGVydGFpbm1lbnQvdG9wLWNoZWYtbWFzdGVycy1uYW9taS1wb21lcm95LWRlYWQtcGFkbWEtbGFrc2htaS1yZWFjdHMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T14:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS News",
+      "title": "Shannen Doherty's divorce from Kurt Iswarienko was finalized one day before her death - CBS News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc2hhbm5lbi1kb2hlcnR5cy1kaXZvcmNlLWZpbmFsaXplZC1vbmUtZGF5LWJlZm9yZS1kZWF0aC1jYW5jZXIta3VydC1pc3dhcmllbmtvL9IBcGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3NoYW5uZW4tZG9oZXJ0eXMtZGl2b3JjZS1maW5hbGl6ZWQtb25lLWRheS1iZWZvcmUtZGVhdGgtY2FuY2VyLWt1cnQtaXN3YXJpZW5rby8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T14:04:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "'Deadpool & Wolverine' reveals X-23 first look: Dafne Keen talks return (exclusive) - Entertainment Weekly News",
+      "description": "Dafne Keen is back as her 'Logan' character X-23! The 'Deadpool & Wolverine' surprise star opens up exclusively to EW about reuniting with Hugh Jackman.",
+      "url": "https://ew.com/deadpool-and-wolverine-dafne-keen-laura-x-23-first-look-hugh-jackman-reunion-exclusive-8680283",
+      "urlToImage": "https://ew.com/thmb/kmHejA32rK682dxwgkY6E9_xCkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Deadpool-and-Wolverine-071924-9c9bcd9cb8ed43a0a3303ad19e7273c7.jpg",
+      "publishedAt": "2024-07-19T14:00:00Z",
+      "content": "Old Man Logan's feral lil' ass-kicking surrogate daughter is officially back! Only she's not quite so lil' anymore.\r\nOne week out from Deadpool &amp; Wolverine hitting theaters, Disney and Marvel dro… [+5358 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Forbes",
+      "title": "‘Cobra Kai’ Season 6 Part 1 Hits Netflix, Broken Into Three Parts, For Some Reason - Forbes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3BhdWx0YXNzaS8yMDI0LzA3LzE5L2NvYnJhLWthaS1zZWFzb24tNi1wYXJ0LTEtaGl0cy1uZXRmbGl4LWJyb2tlbi1pbnRvLXRocmVlLXBhcnRzLWZvci1zb21lLXJlYXNvbi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T13:55:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Rolling Stone",
+      "title": "The 50 Worst Album Covers of All Time - Rolling Stone",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbGlzdHMvd29yc3QtYWxidW0tY292ZXJzLTEyMzUwNDQxNDEv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T13:49:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Associated Press",
+      "title": "Spectacle, spires and romance: The 'real suspense' behind Netflix doc ‘Skywalkers: A Love Story’ - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NreXdhbGtlcnMtYS1sb3ZlLXN0b3J5LW5ldGZsaXgtZmlsbS0wZjQyOTBkZmIxNTg0MzQ1YWMwZTJlODg3NDRlNjE4ZtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T12:54:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Erich Richter",
+      "title": "Ingrid Andress’ music is taking off after drunk national anthem debacle - New York Post ",
+      "description": "Botched national anthem singer Ingrid Andress is failing upwards.",
+      "url": "https://nypost.com/2024/07/19/sports/ingrid-andress-music-is-taking-off-after-drunk-national-anthem-debacle/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/ingrid-andress-had-to-cancel-all-concerts-after-singing-the-national-anthem-drunk.jpg?quality=75&strip=all&1721376124&w=1024",
+      "publishedAt": "2024-07-19T12:54:00Z",
+      "content": "Botched national anthem singer Ingrid Andress is failing upwards. \r\nAfter a horrific performance singing the Star-Spangled Banner at last Mondays Home Run Derby, where Andress later admitted she was … [+1874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Scoop Harrison",
+      "title": "Tenacious D's Kyle Gass Deletes Donald Trump Apology Post - Consequence",
+      "description": "Tenacious D's Kyle Gass has removed an Instagram post apologizing for a joke he made about Donald Trump's attempted assassination.",
+      "url": "https://consequence.net/2024/07/tenacious-d-kyle-gass-deletes-donald-trump-apology-post/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2023/05/Tenacious-D.jpg",
+      "publishedAt": "2024-07-19T12:32:35Z",
+      "content": "Tenacious Ds Kyle Gass has removed an Instagram post apologizing for a joke he made about Donald Trumps attempted assassination.\r\nThe apology was posted in the immediate aftermath of Tenacious Ds con… [+1923 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Big Brother Network",
+      "title": "Big Brother 26 Live Feeds Week 1: Thursday Night Highlights - Big Brother Network",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYmlnYnJvdGhlcm5ldHdvcmsuY29tL2JpZy1icm90aGVyLTI2LWxpdmUtZmVlZHMtaGlnaGxpZ2h0cy1uaWdodC0yMDI0LTA3LTE4L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T12:04:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "Bigg Boss OTT 3’s Payal Malik says she is going to divorce husband Armaan; says, “He can stay with Kritik - The Times of India",
+      "description": "Payal Malik, a reality show contestant, has announced plans to divorce her husband Armaan due to the negativity and hate she has faced. She expressed",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-ott-3s-payal-malik-says-she-is-going-to-divorce-husband-armaan-says-he-can-stay-with-kritika-and-ill-take-care-of-the-kids/articleshow/111863929.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111863906,width-1070,height-580,imgsize-45064,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-19T11:55:00Z",
+      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "What if Ambanis were middle class and Anant-Radhika had a simple Indian wedding à la Vivah. Watch AI generated pics - Hindustan Times",
+      "description": "What if Radhika Merchant asked Anant Ambani, ‘Jal lenge?’ Take a look at these AI generated pics of the newlywed couple inspired by the film Vivah. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/what-if-ambanis-were-middle-class-and-anant-radhika-had-a-simple-indian-wedding-a-la-vivah-watch-ai-generated-pics-101721386461714.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/19/1600x900/ambani_1721386965251_1721386965675.jpg",
+      "publishedAt": "2024-07-19T11:33:41Z",
+      "content": "Anant Ambani and Radhika Merchant's grand wedding celebrations last week were the talk of the town. From extravagant designer outfits to a star-studded baraat and live performances from noted singers… [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Jess Lander",
+      "title": "This movie about Champagne is the best wine flick since ‘Sideways’ - San Francisco Chronicle",
+      "description": "A new film about Champagne winery Veuve Clicquot is the best wine movie to hit theaters in 20 years.",
+      "url": "https://www.sfchronicle.com/food/wine/article/widow-clicquot-wine-movie-19577160.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/40/70/60/25398287/3/rawImage.jpg",
+      "publishedAt": "2024-07-19T11:13:26Z",
+      "content": "Haley Bennett in Widow Clicquot, the best wine movie to hit theaters in 20 years.\r\nProvided by Vertical\r\nWidow Clicquot might be the best wine film since Sideways, the indie comedy starring Paul Giam… [+5638 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Priscilla Presley claims she was robbed of $1M, sues former associates for 'abhorrent' financial elder abuse - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL255cG9zdC5jb20vMjAyNC8wNy8xOS9lbnRlcnRhaW5tZW50L3ByaXNjaWxsYS1wcmVzbGV5LWNsYWltcy1zaGUtd2FzLXJvYmJlZC1vZi0xbS1zdWVzLWZvcm1lci1hc3NvY2lhdGVzLWZvci1hYmhvcnJlbnQtZmluYW5jaWFsLWVsZGVyLWFidXNlL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T11:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Billie Schwab Dunn",
+      "title": "Melania Trump's Reaction To Kid Rock's RNC Performance Goes Viral - Newsweek",
+      "description": "The rapper and ardent Trump supporter performed his hit song American Bad Ass, which he tailored to the November election.",
+      "url": "https://www.newsweek.com/melania-trump-kid-rock-reaction-rnc-performance-viral-1927476",
+      "urlToImage": "https://d.newsweek.com/en/full/2432467/melania-trump-kid-rock.jpg",
+      "publishedAt": "2024-07-19T09:39:20Z",
+      "content": "Videos of Melania Trump reacting to Kid Rock's performance at the Republican National Convention have gone viral onlineand in one clip, it looks like she's trying not to laugh.\r\nKid Rockwhose given n… [+3468 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Kate Middleton’s Wimbledon ovation is likely last public outing for foreseeable future: author - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE5L2VudGVydGFpbm1lbnQvd2h5LWthdGUtbWlkZGxldG9uLWlzLXJldHJlYXRpbmctZnJvbS10aGUtcHVibGljLWV5ZS1hZnRlci13aW1ibGVkb24v0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T09:20:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "India Today"
       },
       "author": "India Today Entertainment Desk",
-      "title": "'Kalki' box office Week 3: Prabhas's film is Rs 600 crore strong in India - India Today",
-      "description": "039Kalki 2898 AD039 has entered its fourth weekend at the box office in style The Prabhas-starrer is now looking at facing 039Bad Newz039 in the Hindi market",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kalki-2898-ad-box-office-week-3-detailed-report-prabhas-film-rs-600-crore-strong-india-enters-4th-weekend-2568906-2024-07-19",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/kalki-box-office-week-3-prabhass-film-is-rs-600-crore-strong-in-india-191443601-16x9_0.jpg?VersionId=2aulD7_l6gJiga125nUfATc1y5Mmq2l8",
-      "publishedAt": "2024-07-19T05:17:19Z",
-      "content": "'Kalki 2898 AD' has entered its fourth weekend at the box office. The film collected almost Rs 600 crore nett in India by the end of its third week. Starring Prabhas, Deepika Padukone and Amitabh Bac… [+1643 chars]"
+      "title": "Ram Charan to be awarded at Indian Film Festival of Melbourne - India Today",
+      "description": "Telugu superstar Ram Charan will be honoured at the Indian Film Festival of Melbourne He will be awarded the Ambassador for Indian Art and Culture",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-to-be-awarded-at-indian-film-festival-of-melbourne-2569085-2024-07-19",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/ram-charan-195046710-16x9_0.jpg?VersionId=EigcLc8_GROHVdCK5JNbF5Zd9BYb0JDn",
+      "publishedAt": "2024-07-19T08:56:58Z",
+      "content": "Tollywood superstar Ram Charan will be honoured with the Ambassador for Indian Art and Culture at the 15th edition of the Indian Film Festival of Melbourne (IFFM). He will become the first Indian to … [+1490 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Telugu360.com"
+        "name": "Billboard"
       },
-      "author": "Nethra",
-      "title": "Kalki 2898 AD Team slaps Legal Notices for Fake Tweets - Telugu360",
-      "description": "Kalki 2898 AD team legal notices over fake tweets two bollywood critics Sumit Kadel and Rohit Jaiswal",
-      "url": "https://www.telugu360.com/kalki-2898-ad-team-slaps-legal-notices-for-fake-tweets/",
-      "urlToImage": "https://www.telugu360.com/wp-content/uploads/2024/07/Kalki-2898-AD-8.jpg",
-      "publishedAt": "2024-07-19T04:37:37Z",
-      "content": "The team of Kalki 2898 AD has sent legal notices against Bollywood critics Sumit Kadel and Rohit Jaiswal for their misleading tweets on the box-office numbers of the film. They admitted that the numb… [+940 chars]"
+      "author": "Jessica Lynch",
+      "title": "Stray Kids Enlist Hugh Jackman and Ryan Reynolds for ‘Chk Chk Boom’ Video - Billboard",
+      "description": "Stray Kids have unveiled their latest single \"Chk Chk Boom,\" featuring a music video with Hugh Jackman and Ryan Reynolds.",
+      "url": "http://www.billboard.com/music/pop/stray-kids-hugh-jackman-ryan-reynolds-chk-chk-boom-1235734932/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/05/Stray-Kids-cr-JYP-Entertainment-press-2024-a-billboard-1548.jpg?w=1024",
+      "publishedAt": "2024-07-19T08:31:33Z",
+      "content": "K-pop stars Stray Kids have unveiled their latest single Chk Chk Boom, featuring a star-studded music video with Hollywood heavyweights Hugh Jackman and Ryan Reynolds. \r\nSee latest videos, charts and… [+1914 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The New York Times",
-      "title": "Founder of Fandango, J. Michael Cline, Dies After Plunge From Manhattan Hotel - The New York Times",
+      "author": "Forbes",
+      "title": "Trump Likens Migrants To ‘Late Great Hannibal Lecter’ In RNC Speech—A Comparison He’s Used Before - Forbes",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTgvbnlyZWdpb24vZmFuZGFuZ28tai1taWNoYWVsLWNsaW5lLWRlYWQuaHRtbNIBAA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NpbGFkaXR5YXJheS8yMDI0LzA3LzE5L3RydW1wLWxpa2Vucy1taWdyYW50cy10by1sYXRlLWdyZWF0LWhhbm5pYmFsLWxlY3Rlci1pbi1ybmMtc3BlZWNoLWEtY29tcGFyaXNvbi1oZXMtdXNlZC1tYW55LXRpbWVzLWJlZm9yZS_SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-19T04:18:00Z",
+      "publishedAt": "2024-07-19T07:48:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koimoi"
+      },
+      "author": "Jishika Madaan",
+      "title": "Kalki 2898 AD Box Office (North America): 150 Crore Milestone Unlocked, Only 33 Crores Away From Beating The Beast Baahubali 2 - Koimoi",
+      "description": "Prabhas led Kalki 2898 AD is pacing towards beating Baahubali 2 at the North American box office. Read updates!",
+      "url": "https://www.koimoi.com/box-office/kalki-2898-ad-box-office-north-america-150-crore-milestone-unlocked-only-33-crores-away-from-beating-the-beast-baahubali-2/",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2024/07/kalki-2898-ad-box-office-north-america-updates-01.jpg",
+      "publishedAt": "2024-07-19T07:27:47Z",
+      "content": "Kalki 2898 AD At The North American Box Office (22 Days) ( Photo Credit Instagram )\r\nKalki 2898 AD is a force to reckon with in the North American markets. In 22 days, the epic dystopian film has sur… [+1987 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Yahoo Entertainment",
-      "title": "Kid Rock’s RNC Performance Roasted by Baffled Viewers: ‘Republicans May Be a Bit Over Confident’ - Yahoo Entertainment",
+      "author": "YourTango",
+      "title": "The 3 Zodiac Signs Most Affected By The Powerful Full Moon From July 22 - 28, 2024 - YourTango",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2tpZC1yb2NrLXJuYy1wZXJmb3JtYW5jZS1yb2FzdGVkLTAzMTAzODcwNC5odG1s0gEA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnlvdXJ0YW5nby5jb20vMjAyNDM3NjU2Ny96b2RpYWMtc2lnbnMtbW9zdC1hZmZlY3RlZC1mdWxsLW1vb24td2Vla2x5LWhvcm9zY29wZS1qdWx5LTIyLTI4LTIwMjTSAW5odHRwczovL3d3dy55b3VydGFuZ28uY29tLzIwMjQzNzY1Njcvem9kaWFjLXNpZ25zLW1vc3QtYWZmZWN0ZWQtZnVsbC1tb29uLXdlZWtseS1ob3Jvc2NvcGUtanVseS0yMi0yOC0yMDI0P2FtcA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-19T03:10:00Z",
+      "publishedAt": "2024-07-19T07:07:31Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Deadline"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Bruce Haring",
-      "title": "Cheng Pei-pei Dies: Co-Star In ‘Crouching Tiger, Hidden Dragon’ And ‘Mulan’ Was 78 - Deadline",
-      "description": "Cheng Pei-pei, who built a solid career as an action film star, has died at 78.",
-      "url": "http://deadline.com/2024/07/cheng-pei-pei-dead-crouching-tiger-hidden-dragon-obituary-1236015300/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/Cheng-Pei-pei.jpg?w=1024",
-      "publishedAt": "2024-07-19T03:05:00Z",
-      "content": "Cheng Pei-pei, who memorably starred in Ang Lees Oscar-nominated film, Crouching Tiger, Hidden Dragon, died Thursday at 78 in the San Francisco Bay Area from a degenerative brain disease. \r\nCheng was… [+1726 chars]"
+      "author": "Shalinee Mishra",
+      "title": "Amitabh Bachchan's cryptic post sparks speculation on Abhishek and Aishwarya's relationship - The Economic Times",
+      "description": "Amitabh Bachchan's reflective post on social media hints at family bonds amidst rumors of Abhishek and Aishwarya's separation. The veteran actor emphasizes the importance of parental guidance and resilience during challenging times.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/amitabh-bachchans-cryptic-post-sparks-speculation-on-abhishek-and-aishwaryas-relationship/articleshow/111854545.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-111855802,width-1200,height-630,imgsize-1812470,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-07-19T06:28:25Z",
+      "content": "In a time when rumors can spread like wildfire, one of the most talked-about topics in recent days has been the rumored separation between Bollywood power couple Abhishek Bachchan and Aishwarya Rai B… [+2581 chars]"
     },
     {
       "source": {
@@ -77,47 +454,60 @@
       "description": null,
       "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTgvdXMvcG9saXRpY3MvaHVsay1ob2dhbi1ybmMtc3BlZWNoLXRydW1wLmh0bWzSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-19T02:39:44Z",
+      "publishedAt": "2024-07-19T06:19:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollywood Hungama"
+      },
+      "author": "Bollywood Hungama",
+      "title": "Dune: Prophecy: Tabu takes on the role of Sister Francesca in second teaser in the world 10,000 years before Paul Atreides rise to power, watch - Bollywood Hungama",
+      "description": "HBO has unleashed the second official teaser for its highly anticipated series, Dune: Prophecy. This epic saga, co-produced with Legendary Television, promises to delve deep into the origins of the legendary Bene Gesserit sisterhood, 10,000 years before Paul …",
+      "url": "https://www.bollywoodhungama.com/news/international/dune-prophecy-tabu-takes-role-sister-francesca-second-teaser-world-10000-years-paul-atreides-rise-power-watch/",
+      "urlToImage": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/07/Dune-Prophecy-Tabu-takes-on-the-role-of-Sister-Francesca-in-second-teaser-in-the-world-10000-years-before-Paul-Atreides-rise-to-power-watch-1.jpg",
+      "publishedAt": "2024-07-19T05:12:43Z",
+      "content": "HBO has unleashed the second official teaser for its highly anticipated series, Dune: Prophecy. This epic saga, co-produced with Legendary Television, promises to delve deep into the origins of the l… [+2934 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Hindustan Times"
       },
-      "author": "Devansh Sharma",
-      "title": "Raghav Chadha wishes sister-in-law Priyanka Chopra on birthday with unseen family portrait - Hindustan Times",
-      "description": "Aam Aadmi Party leader Raghav Chadha, who married Priyanka Chopra's cousin Parineeti Chopra last year, shared a picture of the Chopra family. | Bollywood",
-      "url": "https://www.hindustantimes.com/entertainment/bollywood/raghav-chadha-wishes-sister-in-law-priyanka-chopra-on-birthday-unseen-family-portrait-nick-jonas-parineeti-chopra-malti-101721354051993.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2024/07/19/1600x900/chopra_fam_1721354443697_1721354460831.jpg",
-      "publishedAt": "2024-07-19T02:38:57Z",
-      "content": "When Aam Aadmi Party leader Raghav Chadha married actor Parineeti Chopra last year, the internet was amazed at how the Chopra family has enabled a crossover between AAP and American actor-popstar Nic… [+2444 chars]"
+      "author": "Sanya",
+      "title": "Kim Kardashian can't get enough of Aishwarya Rai: Check out all their photos together from Ambani wedding in Mumbai - Hindustan Times",
+      "description": "Kim Kardashian clicked a selfie with ‘queen’ Aishwarya Rai at the Ambani wedding; now more photos of the two as well as Aaradhya Bachchan are out. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/kim-kardashian-cant-take-her-eyes-off-aishwarya-rai-at-ambani-wedding-in-mumbai-new-pics-aaradhya-bachchan-101721363077559.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/19/1600x900/Kim_Kardashian_Ambani_wedding_pics_Aishwarya_Rai_1721363368583_1721363368794.jpg",
+      "publishedAt": "2024-07-19T04:42:50Z",
+      "content": "Kim Kardashian and her sister Khloe Kardashian were in Mumbai to attend the lavish wedding of billionaire heir Anant Ambani and Radhika Merchant on July 12. Apart from her striking desi looks, Kim al… [+2048 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Billboard",
+      "title": "Jimin of BTS’ Second Solo Album ‘MUSE’ Is Here to Inspire You: Stream It Now - Billboard",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJpbGxib2FyZC5jb20vbXVzaWMvbXVzaWMtbmV3cy9qaW1pbi1idHMtc2Vjb25kLXNvbG8tYWxidW0tbXVzZS1oYXMtYXJyaXZlZC1saXN0ZW4tMTIzNTczNDYwNS_SAW5odHRwczovL3d3dy5iaWxsYm9hcmQuY29tL211c2ljL211c2ljLW5ld3MvamltaW4tYnRzLXNlY29uZC1zb2xvLWFsYnVtLW11c2UtaGFzLWFycml2ZWQtbGlzdGVuLTEyMzU3MzQ2MDUvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-19T04:01:29Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "123telugu.com"
+        "name": "India Today"
       },
-      "author": null,
-      "title": "Darling’s Hindi satellite and OTT rights are with this production banner - 123telugu",
-      "description": "Telugu cinema news, Movie reviews, OTT News, OTT Release dates, Latest Movie reviews in Telugu, telugu movie reviews, Box office collections",
-      "url": "https://www.123telugu.com/mnews/darlings-hindi-satellite-and-ott-rights-are-with-this-production-banner.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2024-07-19T02:30:00Z",
-      "content": "Darling, featuring Nabha Natesh and Priyadarshi as the leading pair, hit the big screens today. Hanu-Man producers K. Niranjan Reddy and Chaitanya Reddy backed this flick, directed by Aswin Raam.\r\nWe… [+562 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Matt Schudel",
-      "title": "Bob Newhart, who went from standup comedy to sitcom star, dies at 94 - The Washington Post",
-      "description": "After his “Button-Down Mind” album hit No. 1 on the Billboard chart, he starred in two hit sitcoms and influenced a generation of comedians.",
-      "url": "https://www.washingtonpost.com/obituaries/2024/07/18/bob-newhart-dead/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JHUT3BQ5NDCFKOZJMEBQURK7E.jpg&w=1440",
-      "publishedAt": "2024-07-19T02:16:36Z",
-      "content": "Bob Newhart was still living with his parents when he was 30. He was a balding, slouch-eyed former accountant who talked in a calculated, halting stammer. He was no ones idea of a superstar.\r\nYet, wi… [+10701 chars]"
+      "author": "India Today Entertainment Desk",
+      "title": "Actor R Madhavan shares secret to body turnaround after 'Rocketry' - India Today",
+      "description": "Actor R Madhavan described his detailed weight loss regime on social media after a user questioned his quick body transformation after his 2022 film Rocketry",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-r-madhavan-shares-secret-to-body-turnaround-after-rocketry-2568872-2024-07-19",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/madhavan-weight-loss-19245618-16x9_0.jpg?VersionId=46df6j0dLNTNhfuzpjU5E1vxD3tuuMd.",
+      "publishedAt": "2024-07-19T03:25:36Z",
+      "content": "Actor R Madhavan underwent a significant weight gain for his role as scientist Nambi Narayanan in the 2022 film 'Rocketry: The Nambi Effect' and later made great efforts to shed the extra kilos. Howe… [+2312 chars]"
     },
     {
       "source": {
@@ -137,64 +527,38 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Deadline",
-      "title": "‘Twisters’ Breaking Out With Around $7M In Previews – Box Office Early Look - Deadline",
+      "author": "Page Six",
+      "title": "Kyle Richards removes ‘wife’ from Instagram bio after Mauricio Umansky kisses mystery woman in Mykonos - Page Six",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvYm94LW9mZmljZS10d2lzdGVycy0xMjM2MDE1MTI3L9IBQGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvYm94LW9mZmljZS10d2lzdGVycy0xMjM2MDE1MTI3L2FtcC8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3BhZ2VzaXguY29tLzIwMjQvMDcvMTgvZW50ZXJ0YWlubWVudC9reWxlLXJpY2hhcmRzLXJlbW92ZXMtd2lmZS1mcm9tLWluc3RhZ3JhbS1hZnRlci1tYXVyaWNpby11bWFuc2t5LWtpc3Nlcy1teXN0ZXJ5LXdvbWFuL9IBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-19T01:34:00Z",
+      "publishedAt": "2024-07-19T01:31:37Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "123telugu.com"
+        "name": "YourTango"
       },
-      "author": null,
-      "title": "Maharaja soars on the Netflix global charts - 123telugu",
-      "description": "Telugu cinema news, Movie reviews, OTT News, OTT Release dates, Latest Movie reviews in Telugu, telugu movie reviews, Box office collections",
-      "url": "https://www.123telugu.com/mnews/maharaja-soars-on-the-netflix-global-charts.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2024-07-19T01:30:00Z",
-      "content": "Maharaja marks the 50th film of Makkal Selvan Vijay Sethupathi. After receiving an overwhelmingly positive response for its storytelling during its theatrical run, the movie has recently landed on Ne… [+728 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "YourTango",
+      "author": "Kate Rose",
       "title": "Love Horoscope For Each Zodiac Sign On July 19, 2024 - YourTango",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnlvdXJ0YW5nby5jb20vMjAyNDM3NjUyNS9sb3ZlLWhvcm9zY29wZS1qdWx5LTE5LTIwMjQtZWFjaC16b2RpYWMtc2lnbtIBVWh0dHBzOi8vd3d3LnlvdXJ0YW5nby5jb20vMjAyNDM3NjUyNS9sb3ZlLWhvcm9zY29wZS1qdWx5LTE5LTIwMjQtZWFjaC16b2RpYWMtc2lnbj9hbXA?oc=5",
-      "urlToImage": null,
+      "description": "Mars in Taurus aligns with Neptune in Pisces helping you act from a place of deep intuition as you become more aware of the sacrifices that true love may ask you to make.",
+      "url": "https://www.yourtango.com/2024376525/love-horoscope-july-19-2024-each-zodiac-sign",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-07/love-horoscope-july-19-2024-each-zodiac-sign.png",
       "publishedAt": "2024-07-19T01:07:30Z",
-      "content": null
+      "content": "In the love horoscopes for July 19, 2024, Mars in Taurus aligns with Neptune in Pisces, both in the very last degrees of their signs. You will intuitively know what needs to be released to make space… [+6759 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Rolling Stone"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Alan Sepinwall",
+      "author": "Rolling Stone",
       "title": "‘Lady in the Lake’ Intertwines Two Tales of Tormented Women. One of Them Is Great - Rolling Stone",
-      "description": "The 'Black Swan' Oscar-winner and 'Queen's Gambit' breakout Moses Ingram star in a mid crime drama about race, class, and murder in 1960s Baltimore.",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-reviews/lady-in-the-lake-review-natalie-portman-1235060854/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/07/Lady_In_The_Lake_Photo_010301.jpg?w=1600&h=900&crop=1",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vdHYtbW92aWVzL3R2LW1vdmllLXJldmlld3MvbGFkeS1pbi10aGUtbGFrZS1yZXZpZXctbmF0YWxpZS1wb3J0bWFuLTEyMzUwNjA4NTQv0gEA?oc=5",
+      "urlToImage": null,
       "publishedAt": "2024-07-19T01:00:00Z",
-      "content": "You think every story is your story, Maddie Morgansterns son Seth bitterly argues late in the Apple TV+ miniseries Lady in the Lake. This is a common accusation other characters level at Maddie (Nata… [+5281 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "WJW FOX 8 News Cleveland",
-      "title": "Shannen Doherty finalized divorce hours before her death - WJW FOX 8 News Cleveland",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZm94OC5jb20vbmV3cy9zaGFubmVuLWRvaGVydHktZmluYWxpemVkLWRpdm9yY2UtaG91cnMtYmVmb3JlLWhlci1kZWF0aC_SAVNodHRwczovL2ZveDguY29tL25ld3Mvc2hhbm5lbi1kb2hlcnR5LWZpbmFsaXplZC1kaXZvcmNlLWhvdXJzLWJlZm9yZS1oZXItZGVhdGgvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-19T00:24:43Z",
       "content": null
     },
     {
@@ -202,38 +566,12 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": null,
-      "title": "뉴진스 '버블검' 표절 의혹…영국 밴드 측 '사용 중단' 요구 #소셜픽 / JTBC 아침& - JTBC News",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://news.google.com/rss/articles/CCAiC1JhdmRCM3BtY1pzmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T23:59:43Z",
-      "content": "403.\r\nThats an error.\r\nWe're sorry, but you do not have access to this page. \r\nThats all we know."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Mara Siegler",
-      "title": "Jennifer Lopez dined at new Hamptons hotspot without Ben Affleck on their second anniversary - Page Six",
-      "description": "A source tells us they spotted the trio dining on the terrace on spaghetti with tomato and basil, calamari and a plate of cannoli for dessert.",
-      "url": "https://pagesix.com/2024/07/18/celebrity-news/jennifer-lopez-dined-at-new-hamptons-hotspot-without-ben-affleck-on-their-second-anniversary/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85667053.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-07-18T23:56:00Z",
-      "content": "Jennifer Lopez spent her second wedding anniversary without the groom, Page Six hears, dining with her son, Max, and an assistant at the new Arthur &amp; Sons in Bridgehampton. \r\nAmid mounting specul… [+2182 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Eurogamer",
-      "title": "Paramount+'s divisive Halo TV series cancelled after two seasons - Eurogamer",
+      "author": "Engadget",
+      "title": "The live-action Halo show has been canceled at Paramount+ - Engadget",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmV1cm9nYW1lci5uZXQvcGFyYW1vdW50cy1kaXZpc2l2ZS1oYWxvLXR2LXNlcmllcy1jYW5jZWxsZWQtYWZ0ZXItdHdvLXNlYXNvbnPSAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS90aGUtbGl2ZS1hY3Rpb24taGFsby1zaG93LWhhcy1iZWVuLWNhbmNlbGVkLWF0LXBhcmFtb3VudC0yMzA2MTI0NzIuaHRtbNIBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-18T23:55:45Z",
+      "publishedAt": "2024-07-18T23:06:13Z",
       "content": null
     },
     {
@@ -241,39 +579,39 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Entertainment Tonight",
-      "title": "Travis Kelce and Taylor Swift Wrap Arms Around Each Other During Night 2 of Eras Tour in Gelsenkirchen - Entertainment Tonight",
+      "author": "Ars Technica",
+      "title": "Witness the rise of the Bene Gesserit in new Dune: Prophecy teaser - Ars Technica",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS90cmF2aXMta2VsY2UtYW5kLXRheWxvci1zd2lmdC13cmFwLWFybXMtYXJvdW5kLWVhY2gtb3RoZXItZHVyaW5nLW5pZ2h0LTItb2YtZXJhcy10b3VyLWluLTIyOTM3MtIBfGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS90cmF2aXMta2VsY2UtYW5kLXRheWxvci1zd2lmdC13cmFwLWFybXMtYXJvdW5kLWVhY2gtb3RoZXItZHVyaW5nLW5pZ2h0LTItb2YtZXJhcy10b3VyLWluLTIyOTM3Mj9hbXA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2N1bHR1cmUvMjAyNC8wNy90YW50YWxpemluZy10ZWFzZXItZm9yLWR1bmUtcHJvcGhlY3ktcHJvbWlzZXMtcGxlbnR5LW9mLXBvbGl0aWNhbC1pbnRyaWd1ZS_SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-18T22:20:00Z",
+      "publishedAt": "2024-07-18T21:48:52Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Eonline.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": null,
-      "title": "Hello Kitty Is Not a Cat and We're Not OK - E! NEWS",
-      "description": "In honor of Hello Kitty&rsquo;s 50th anniversary, the character&rsquo;s flagship company Sanrino made a surprising distinction about the cartoon.&nbsp;",
-      "url": "https://www.eonline.com/news/1405144/hello-kitty-is-not-a-cat-and-were-not-ok",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024618/rs_1200x1201-240718123733-hellokitty.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2024-07-18T20:32:00Z",
-      "content": "Goodbye, Kitty. \r\nAmid celebrations for Hello Kittys 50th anniversarywhich officially occurs November 1fans of the popular cartoon character created by Yuko Shimizu were shocked to learn that she is … [+826 chars]"
+      "author": "Ayushi Srivastava",
+      "title": "Triptii Dimri casts a spell with her latest look in an ethereal white cutout bodycon dress - The Times of India",
+      "description": "Triptii Dimri made heads turn in a white bandage dress for the promotions of her film 'Bad Newz'.",
+      "url": "https://timesofindia.indiatimes.com/life-style/fashion/web-stories/triptii-dimri-casts-a-spell-with-her-latest-look-in-an-ethereal-white-cutout-bodycon-dress/photostory/111845520.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111845542,imgsize-29674,width-900,height-1200,resizemode-6/111845542.jpg",
+      "publishedAt": "2024-07-18T21:30:00Z",
+      "content": "For her glam makeup, Triptii opted for winged eyeliner, blushed cheeks, feathery eyebrows, kohled eyes, mascara-laden lashes, bronze eyeshadow and a shade of matte pink lipstick."
     },
     {
       "source": {
-        "id": null,
-        "name": "123telugu.com"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": null,
-      "title": "Double Ismart-A Massive event being planned in Bollywood - 123telugu",
-      "description": "Telugu cinema news, Movie reviews, OTT News, OTT Release dates, Latest Movie reviews in Telugu, telugu movie reviews, Box office collections",
-      "url": "https://www.123telugu.com/mnews/double-ismart-a-massive-event-being-planned-in-bollywood.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2024-07-18T19:30:00Z",
-      "content": "Double Ismart is Puri Jagans latest film featuring Ram Pothineni and Kavya Thapar as the main leads. The action drama will hit the screens on August 15, 2024.\r\nWell, as the film is also being release… [+496 chars]"
+      "author": "Ars Technica",
+      "title": "Space colonizers battle ultimate killing machines in Alien: Romulus trailer - Ars Technica",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2N1bHR1cmUvMjAyNC8wNy9maW5hbC1hbGllbi1yb211bHVzLXRyYWlsZXItYnJpbmdzLXRoZS1mYWNlLWh1Z2dpbmctY2hlc3QtYnVyc3RpbmctaG9ycm9yL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-18T20:28:12Z",
+      "content": null
     },
     {
       "source": {
@@ -287,32 +625,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66996a500dbae8242e65296b/0x0.jpg?format=jpg&crop=2822,1587,x345,y225,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2024-07-18T19:22:14Z",
       "content": "Donald Glovers fifth and final album under his stage name, Childish Gambino, titled Bando Stone &amp; the New World, releases at midnight and will mark the end of the rapper persona that launched Glo… [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "‘My Spy The Eternal City’ Star Chloe Coleman on Becoming Best Friends With Dave Bautista and Wanting to Do a Marvel Movie - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvY2hsb2UtY29sZW1hbi1teS1zcHktZXRlcm5hbC1jaXR5LWRhdmUtYmF1dGlzdGEtbWFydmVsLWRyZWFtcy0xMjM2MDcxODY1L9IBcGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvY2hsb2UtY29sZW1hbi1teS1zcHktZXRlcm5hbC1jaXR5LWRhdmUtYmF1dGlzdGEtbWFydmVsLWRyZWFtcy0xMjM2MDcxODY1L2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T19:22:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Tamantha Ryan",
-      "title": "Why Kate Middleton is retreating from the public eye after Wimbledon - Page Six",
-      "description": "The Princess of Wales — who announced her cancer diagnosis in March — will be taking a break from public outings for the rest of the summer.",
-      "url": "https://pagesix.com/2024/07/18/royal-family/why-kate-middleton-is-retreating-from-the-public-eye-after-wimbledon/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85654399.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-07-18T18:40:00Z",
-      "content": "Kate Middleton is going back into her shell.\r\nA source told us that she will not be at any more public events for the rest of the summer after her appearance at Wimbledon last weekend.\r\nWimbledon, wh… [+2436 chars]"
     },
     {
       "source": {
@@ -333,38 +645,12 @@
         "name": "Hindustan Times"
       },
       "author": "Dr J.N Pandey",
-      "title": "Virgo Daily Horoscope Today, July 19, 2024 predicts academic revenue - Hindustan Times",
-      "description": "Read Virgo daily horoscope for July 19, 2024 to know your astrological predictions. Utilize the wealth to meet the desires. Stay healthy today. | Horoscope",
-      "url": "https://www.hindustantimes.com/astrology/horoscope/virgo-daily-horoscope-today-july-19-2024-predicts-academic-revenue-101721319940053.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2024/07/18/1600x900/Virgo_freepik_1716402299759_1721320055112.jpg",
-      "publishedAt": "2024-07-18T18:35:12Z",
-      "content": "Virgo (23rd August to 22nd September)\r\nDaily Horoscope Prediction says, discipline is what makes you\r\nVirgo Daily Horoscope Today, July 19, 2024: Be careful to settle the disputes in the love affair.… [+2347 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Inverse",
-      "title": "'The Acolyte' Director: We \"Really Had to Fight For\" That Big Yoda Cameo - Inverse",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmludmVyc2UuY29tL2VudGVydGFpbm1lbnQvYWNvbHl0ZS1lcGlzb2RlLTgtZmluYWxlLWRpcmVjdG9yLWludGVydmlldy1oYW5lbGxlLWN1bHBlcHBlci15b2RhLXBsYWd1ZWlzLW9zaGFtaXLSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T18:30:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "IATSE Ratifies New Three-Year Deal, Despite AI Worries - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvaWF0c2UtcmF0aWZpZXMtY29udHJhY3QtYW1wdHAtMTIzNjA2ODk0MC_SAVBodHRwczovL3ZhcmlldHkuY29tLzIwMjQvZmlsbS9uZXdzL2lhdHNlLXJhdGlmaWVzLWNvbnRyYWN0LWFtcHRwLTEyMzYwNjg5NDAvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T18:22:00Z",
-      "content": null
+      "title": "Libra Daily Horoscope Today, July 19, 2024 predicts turmoil at workplace - Hindustan Times",
+      "description": "Read Libra daily horoscope for July 19, 2024 to know your astrological predictions. Despite multiple issues in the love affair, it will go strong. | Horoscope",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/libra-daily-horoscope-today-july-19-2024-predicts-turmoil-at-workplace-101721320158925.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/18/1600x900/libra_freepik_1716402567976_1721320258659.jpg",
+      "publishedAt": "2024-07-18T18:36:12Z",
+      "content": "Libra - (23rd September to 22nd October)\r\nDaily Horoscope Prediction says, You never give up\r\nExplore the best moments in the relationship &amp;keep the lover in good spirits. Look for opportunities … [+2455 chars]"
     },
     {
       "source": {
@@ -384,25 +670,12 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Hollywood Reporter",
-      "title": "Glen Powell Reveals the Bill Paxton Acting Trick He Used in ‘Twisters’ - Hollywood Reporter",
+      "author": "E! NEWS",
+      "title": "Ben Affleck and Jennifer Lopez Didn’t Acknowledge Their Anniversary—Here’s What They Did Instead - E! Online - E! NEWS",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9nbGVuLXBvd2VsbC1iaWxsLXBheHRvbi1hY3RpbmctdHJpY2stdHdpc3RlcnMtMTIzNTk1MjA5OS_SAXFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbW92aWVzL21vdmllLW5ld3MvZ2xlbi1wb3dlbGwtYmlsbC1wYXh0b24tYWN0aW5nLXRyaWNrLXR3aXN0ZXJzLTEyMzU5NTIwOTkvYW1wLw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5lb25saW5lLmNvbS9uZXdzLzE0MDUxMzQvYmVuLWFmZmxlY2stYW5kLWplbm5pZmVyLWxvcGV6LWRpZG50LWFja25vd2xlZGdlLXRoZWlyLWFubml2ZXJzYXJ5LWhlcmVzLXdoYXQtdGhleS1kaWQtaW5zdGVhZNIBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-18T16:40:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "‘The Boys’ Actor Claudia Doumit on Victoria Neuman’s ‘Twisted’ Finale Shocker - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3RoZS1ib3lzLXZpY3RvcmlhLW5ldW1hbi1kZWF0aC1kaWVzLWNsYXVkaWEtZG91bWl0LTEyMzYwNzU4Mjkv0gFjaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L3R2L25ld3MvdGhlLWJveXMtdmljdG9yaWEtbmV1bWFuLWRlYXRoLWRpZXMtY2xhdWRpYS1kb3VtaXQtMTIzNjA3NTgyOS9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T16:00:00Z",
+      "publishedAt": "2024-07-18T17:10:00Z",
       "content": null
     },
     {
@@ -411,64 +684,38 @@
         "name": "The Times of India"
       },
       "author": "TOI Entertainment Desk",
-      "title": "When Govinda recalled the time he was rejected for a job because he couldn't speak English: 'They said I - TOI Etimes",
-      "description": "Despite being the son of a filmmaker, Govinda had a modest upbringing. His father, Arun Kumar Ahuja, faced financial hardship after a film failure in",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-recalled-the-time-he-was-rejected-for-a-job-because-he-couldnt-speak-english-they-said-i-am-not-confident/articleshow/111842355.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111842355,width-1070,height-580,imgsize-22372,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-18T15:11:00Z",
-      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "‘Dune: Prophecy’ Trailer: The Bene Gesserit Are Created in Prequel Series Set 10,000 Years Before ‘Dune,’ November Release Set - Variety",
-      "description": "HBO has released its first trailer for \"Dune: Prophecy,\" a new television series set 10,000 years before the events of \"Dune.\"",
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di90cmFpbGVycy9kdW5lLXByb3BoZWN5LXRyYWlsZXItcHJlcXVlbC1zZXJpZXMtMTIzNTk0NDg0NC_SAVlodHRwczovL3ZhcmlldHkuY29tLzIwMjQvdHYvdHJhaWxlcnMvZHVuZS1wcm9waGVjeS10cmFpbGVyLXByZXF1ZWwtc2VyaWVzLTEyMzU5NDQ4NDQvYW1wLw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T15:00:00Z",
-      "content": null
+      "title": "Priyanka Chopra’s brother Siddharth Chopra shares lovely throwback photos as he wishes her on her birthda - TOI Etimes",
+      "description": "Priyanka Chopra celebrates her birthday with family and friends. Siddharth Chopra shares lovely throwback photos and wishes her. Parineeti Chopra and Raghav Chadha also send their wishes. Priyanka is currently filming for 'The Bluff' in Australia.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-brother-siddharth-chopra-shares-lovely-throwback-photos-as-he-wishes-her-on-her-birthday-calls-her-a-rockstar-see-post/articleshow/111842761.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111842761,width-1070,height-580,imgsize-54392,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-18T15:45:00Z",
+      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+2411 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "DNA India"
+        "name": "IndiaGlitz.com"
       },
-      "author": "Manisha Chauhan",
-      "title": "Is this superstar reason behind rift between Aishwarya Rai and Bachchans? Netizens tell Abhishek Bachchan to... - DNA India",
-      "description": "During Radhika Merchant and Anant Ambani's wedding event, Bachchans and Aishwarya arrived separately which again sparked speculations about tensions between the actress and her in-laws.",
-      "url": "https://www.dnaindia.com/bollywood/report-is-superstar-reason-behind-rift-between-aishwarya-rai-and-bachchans-netizens-tell-abhishek-bachchan-to-3097380",
-      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2024/07/18/2641546-fotojet-2024-07-18t204430.365-1.jpg",
-      "publishedAt": "2024-07-18T14:21:00Z",
-      "content": "During Radhika Merchant and Anant Ambani's wedding event, Bachchans and Aishwarya arrived separately which again sparked speculations about tensions between the actress and her in-laws. Aishwarya Rai… [+1622 chars]"
+      "author": "IndiaGlitz",
+      "title": "Official: Director Mari Selvaraj's next film release date announced! - Telugu Cinema - IndiaGlitz",
+      "description": "Renowned Kollywood filmmaker Mari Selvaraj previously directed 'Vaazhai,' a poignant small-scale film. The movie is now set for a theatrical debut. The makers announced the release date today.",
+      "url": "https://www.indiaglitz.com/director-mari-selvaraj-next-movie-release-date-announced-vaazhai-official-update-first-single-tamil-news-357264",
+      "urlToImage": "https://1847884116.rsc.cdn77.org/tamil/news/mariselvaraj18-faf.jpg",
+      "publishedAt": "2024-07-18T15:30:09Z",
+      "content": "Renowned Kollywood filmmaker Mari Selvaraj is currently directing the highly anticipated sports drama 'Bison,' starring Dhruv Vikram and Anupama Parameshwaran. Known for his critically acclaimed work… [+1032 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "cleveland.com",
-      "title": "Famous comedian, musician dropped by agent after controversial comment about Trump assassination attempt - cleveland.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5jbGV2ZWxhbmQuY29tL25hdGlvbi8yMDI0LzA3L2ZhbW91cy1jb21lZGlhbi1tdXNpY2lhbi1kcm9wcGVkLWJ5LWFnZW50LWFmdGVyLWNvbnRyb3ZlcnNpYWwtY29tbWVudC1hYm91dC10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQuaHRtbNIBpAFodHRwczovL3d3dy5jbGV2ZWxhbmQuY29tL25hdGlvbi8yMDI0LzA3L2ZhbW91cy1jb21lZGlhbi1tdXNpY2lhbi1kcm9wcGVkLWJ5LWFnZW50LWFmdGVyLWNvbnRyb3ZlcnNpYWwtY29tbWVudC1hYm91dC10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T14:09:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "KRITIKA SEHGAL, NDTV Lifestyle Desk",
-      "title": "Raashii Khanna's Backless Green Bodycon Dress Sets \"High Standards\" For Stylish Date Nights - NDTV Swirlster",
-      "description": "Raashii Khanna's fashion game got better than before in this backless green dress",
-      "url": "https://swirlster.ndtv.com/style/raashii-khannas-backless-green-bodycon-dress-sets-high-standards-for-stylish-date-nights-6133137",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/scs3i62o_raashii-khanna_625x300_18_July_24.jpg",
-      "publishedAt": "2024-07-18T13:49:22Z",
-      "content": "Raashii Khanna has been making waves in the fashion circuit with her impressive wardrobe collection. At the IIFA Utsavam Press Conference in Hyderabad, the actress once again filled our cups with her… [+1430 chars]"
+      "author": "Piyali Bhadra",
+      "title": "All the looks of Nita Ambani from Anant-Radhika's Wedding - The Times of India",
+      "description": "Let's take a look at all the wedding looks of Nita Ambani.",
+      "url": "https://timesofindia.indiatimes.com/life-style/fashion/web-stories/all-the-looks-of-nita-ambani-from-anant-radhikas-wedding/photostory/111810356.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111810420,imgsize-1949791,width-900,height-1200,resizemode-6/111810420.jpg",
+      "publishedAt": "2024-07-18T14:30:00Z",
+      "content": "For the couples sangeet ceremony, Nita Ambani dazzled in a pink and silver lehenga by Falguni Shane Peacock. The outfit, adorned with hints of emeralds, rubies, and diamonds, highlighted her sophisti… [+11 chars]"
     },
     {
       "source": {
@@ -488,39 +735,13 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": null,
-      "title": "장례식 내내 살뜰했던 사위가…'장인 살인범'으로 체포됐다 / JTBC 사건반장 - JTBC News",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://news.google.com/rss/articles/CCAiCzdGMDVXaGhRM25VmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T12:50:35Z",
-      "content": "403.\r\nThats an error.\r\nWe're sorry, but you do not have access to this page. \r\nThats all we know."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "Francis Ford Coppola, Grateful Dead, Bonnie Raitt and More to Receive Kennedy Center Honors - Variety",
+      "author": "ComicBook.com",
+      "title": "Beetlejuice Beetlejuice Gets a Second Trailer and New Poster - ComicBook.com",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvZnJhbmNpcy1mb3JkLWNvcHBvbGEtZ3JhdGVmdWwtZGVhZC1ib25uaWUtcmFpdHQta2VubmVkeS1jZW50ZXItaG9ub3JzLTEyMzYwNzY3Mjgv0gF4aHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2ZpbG0vbmV3cy9mcmFuY2lzLWZvcmQtY29wcG9sYS1ncmF0ZWZ1bC1kZWFkLWJvbm5pZS1yYWl0dC1rZW5uZWR5LWNlbnRlci1ob25vcnMtMTIzNjA3NjcyOC9hbXAv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vY29taWNib29rLmNvbS9tb3ZpZXMvbmV3cy9iZWV0bGVqdWljZS1iZWV0bGVqdWljZS1nZXRzLWEtc2Vjb25kLXRyYWlsZXItYW5kLW5ldy1wb3N0ZXIv0gEA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-18T12:21:00Z",
+      "publishedAt": "2024-07-18T13:11:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Onmanorama.com"
-      },
-      "author": "Our Correspondent",
-      "title": "Dulquer Salmaan reveals why he isn't doing many Malayalam movies lately | Onmanorama - Onmanorama",
-      "description": "The actor remarked that there is an urge to work in other languages as he isn’t burdened by the tag of being Mammootty’s son there.",
-      "url": "https://www.onmanorama.com/entertainment/entertainment-news/2024/07/18/dulquer-salmaan-malayalam-movies-projects-father-mammootty.html",
-      "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2023/8/21/dulquer-salmaan.jpg",
-      "publishedAt": "2024-07-18T11:20:37Z",
-      "content": "Malayali moviegoers have been wondering why their heartthrob Dulquer Salmaan is rarely seen in Malayalam movies. Meanwhile, clips from Dulquers recent interview with noted movie critic Baradwaj Ranga… [+1358 chars]"
     },
     {
       "source": {
@@ -538,93 +759,15 @@
     {
       "source": {
         "id": null,
-        "name": "Bollywood Life"
-      },
-      "author": "Janhvi Sharma",
-      "title": "Anupamaa serial upcoming twist: Anu breaks down seeing Anuj's state; Aadhya promises to seek revenge from her - Bollywood Life",
-      "description": "In the upcoming episode of Anupamaa, Anu will meet Anuj and feel guilty for his state, while Aadhya will return to seek revenge from her.",
-      "url": "https://www.bollywoodlife.com/photos/anupamaa-serial-upcoming-twist-anu-breaks-down-seeing-anujs-state-aadhya-promises-to-seek-revenge-from-her-celebs-photos-entertainment-news-2942419/",
-      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2024/07/anupamaa4-10.jpg",
-      "publishedAt": "2024-07-18T09:53:44Z",
-      "content": "Rupali Ganguly and Gaurav Khanna's popular television show Anupamaa has undergone a leap. The makers are leaving no stones unturned in keeping audiences hooked to the screens. Fans were waiting for A… [+269 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Wrestling Inc.",
-      "title": "The Rascalz Detail TNA Locker Room's Reaction To WWE NXT Relationship - Wrestling Inc.",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LndyZXN0bGluZ2luYy5jb20vMTYyNTEzNy9yYXNjYWx6LWRldGFpbC10bmEtbG9ja2VyLXJvb21zLXJlYWN0aW9uLXd3ZS1ueHQtcmVsYXRpb25zaGlwL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-18T08:55:38Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scroll.in"
-      },
-      "author": "Nandini Ramnath",
-      "title": "‘Tribhuvan Mishra: CA Topper’ review: Show about sex work is proud to be loud - Scroll.in",
-      "description": "Puneet Krishna’s nine-episode series is out on Netflix.",
-      "url": "https://scroll.in/reel/1070787/tribhuvan-mishra-ca-topper-review-show-about-sex-work-is-proud-to-be-loud",
-      "urlToImage": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/202198-kmnhotgnsy-1721222600.jpg",
-      "publishedAt": "2024-07-18T07:15:00Z",
-      "content": "A chartered accountant in government service piles up unmanageable debt. Noida native Tribhuvan (Manav Kaul) is compelled to put the bedroom prowess that delights his wife Ashoklata (Naina Sareen) to… [+3485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "NDTV News"
       },
       "author": null,
-      "title": "Priyanka Chopra's Birthdays Are Happier With Her Chic Summer Holiday Style - NDTV",
-      "description": "Priyanka Chopra's holiday style is chic and marks the beginning of a very happy birthday indeed",
-      "url": "https://www.ndtv.com/lifestyle/happy-birthday-priyanka-chopra-priyanka-chopras-birthdays-are-happier-with-her-chic-summer-holiday-style-6131107",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/vb3cus3g_priyankahbd7_625x300_18_July_24.jpg",
-      "publishedAt": "2024-07-18T06:22:28Z",
-      "content": "Priyanka Chopra's holiday style is for summer vacations to any destination\r\nPriyanka Chopra and Nick Jonas, have made a wonderful life together. But mostly because of their beautiful holidays that re… [+1760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "HT Entertainment Desk",
-      "title": "Shubman Gill is very cute but unfortunately there's nothing that is happening: Ridhima Pandit amid marriage rumours - Hindustan Times",
-      "description": "Setting the record straight, Ridhima Pandit said that she was 'unfortunately' not dating Shubman Gill. The actor admitted she finds him 'very, very cute'.",
-      "url": "https://www.hindustantimes.com/entertainment/tv/shubman-gill-is-very-cute-ridhima-pandit-amid-marriage-rumours-101721280881214.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2024/07/18/1600x900/Ridhima_Pandit_Shubman_Gill_very_cute_1721281284051_1721281284340.jpg",
-      "publishedAt": "2024-07-18T05:51:40Z",
-      "content": "Reacting to recent buzz that she was getting married to cricketer Shubman Gill in December 2024, TV actor Ridhima Pandit has once again made it clear that there is no truth to such claims. In an inte… [+2780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Onmanorama.com"
-      },
-      "author": "Onmanorama Staff",
-      "title": "Mini reunion: Superhit pair Rambha, Vijay meet after several years | Onmanorama - Onmanorama",
-      "description": "Photos from the small reunion have gone viral, prompting plenty of responses from fans worldwide.",
-      "url": "https://www.onmanorama.com/entertainment/entertainment-news/2024/07/18/minsara-kanna-rambha-vijay-reunion-canada-meeting-family-photos-viral.html",
-      "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/7/18/vijay-rambha.jpg",
-      "publishedAt": "2024-07-18T05:03:34Z",
-      "content": "Actor Rambha, known for playing prominent roles in South Indian movies in the 1990s, met her former Minsara Kanna and Ninaithen Vandhai co-star Vijay recently. Rambha was joined by her family her hus… [+1043 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "etimes.in",
-      "title": "Bigg Boss OTT 3: Sana Makbul tells Ranvir Shorey ‘apni buddhe jaisi aankhein mujhe mat dikhao’ during a t - The Times of India",
-      "description": "Tensions escalate in the Bigg Boss OTT house as Sana Makbul and Ranvir Shorey engage in a heated argument over leadership responsibilities. With fan s",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-ott-3-sana-makbul-tells-ranvir-shorey-apni-buddhe-jaisi-aankhein-mujhe-mat-dikhao-during-a-task/articleshow/111817885.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111817900,width-1070,height-580,imgsize-21472,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-18T02:30:00Z",
-      "content": null
+      "title": "Katrina Kaif Shares A No-Filter Pic After Birthday Celebrations. Bonus - A Thank You Note For Fans - NDTV Movies",
+      "description": "\"Thank you for all your birthday wishes,\" Katrina Kaif wrote",
+      "url": "https://www.ndtv.com/entertainment/katrina-kaif-shares-a-no-filter-pic-after-birthday-celebrations-bonus-a-thank-you-note-for-fans-6130327",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/flc620bo_-katrina-kaif_625x300_18_July_24.jpeg",
+      "publishedAt": "2024-07-18T04:15:29Z",
+      "content": "Katrina Kaif shared this image. (courtesy: katrinakaif)\r\nNew Delhi: Katrina Kaif celebrated her 41st birthday on July 16. The actress, on Wednesday night, shared a no-filter picture on Instagram. The… [+1401 chars]"
     },
     {
       "source": {
@@ -638,136 +781,6 @@
       "urlToImage": "https://www.greatandhra.com/newphotos10/1118179141721269236.jpg",
       "publishedAt": "2024-07-18T02:20:36Z",
       "content": "Anant Ambani and Radhika Merchant's extravagant wedding has been the talk of the town for months.\r\nThe event, attended by numerous celebrities and prominent business figures, also showcased an impres… [+1018 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Astrology",
-      "title": "July 18, 2024 Birthday Forecast; Know what numbers whisper about your next 12 months - The Times of India",
-      "description": "Horoscope(Old) News: Discover what the next 12 months hold for you based on your birth date. Expect positive developments in career, relationships, health, and personal gr",
-      "url": "https://timesofindia.indiatimes.com/astrology/horoscope/july-18-2024-birthday-forecast-know-what-numbers-whisper-about-your-next-12-months/articleshow/111806497.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111806416,width-1070,height-580,imgsize-20480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-07-18T00:30:00Z",
-      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Video | Vicky Kaushal, Triptii Dimri's Movie Passed With U/A Rating After Changes - NDTV",
-      "description": "Anand Tiwari's 'Bad Newz,' starring Vicky Kaushal, Triptii Dimri, and Ammy Virk, has already captivated fans with its vibrant, catchy songs. The film is back in the spotlight as the Censor Board requested modifications to a few intimate scenes. The board sugg…",
-      "url": "https://www.ndtv.com/video/vicky-kaushal-triptii-dimri-s-movie-passed-with-u-a-rating-after-changes-815825",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/cbjubrog_badnewz_640x480_18_July_24.jpg?downsize=600:315",
-      "publishedAt": "2024-07-17T21:21:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "123telugu.com"
-      },
-      "author": null,
-      "title": "Star producer halts his film due to hero’s massive maintenance bills - 123telugu",
-      "description": "Telugu cinema news, Movie reviews, OTT News, OTT Release dates, Latest Movie reviews in Telugu, telugu movie reviews, Box office collections",
-      "url": "https://www.123telugu.com/mnews/star-producer-halts-his-film-due-to-heros-massive-maintenance-bills.html",
-      "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "publishedAt": "2024-07-17T18:30:00Z",
-      "content": "<table><tr><td> Subscribe to our Youtube Channel </td></tr><tr><td></td></tr>\r\n</table>"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
-      },
-      "author": "ABP News Bureau",
-      "title": "Bigg Boss OTT 3: Video Of Armaan Malik Getting Intimate With Kritika Goes Viral, Netizens React - ABP Live",
-      "description": "Bigg Boss OTT 3: A video has surfaced online bringing more controversy on Armaan Malik’s way. In the video, Armaan and Kritika are seen getting intimate under a blanket after the bedroom lights.",
-      "url": "https://news.abplive.com/entertainment/ott/bigg-boss-ott-3-armaan-malik-getting-intimate-with-kritika-video-goes-viral-netizens-say-edited-video-1703495",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/17/cd6d48ffedf55672478d00056388d06b1721226437202410_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "publishedAt": "2024-07-17T14:28:52Z",
-      "content": "Bigg Boss OTT 3: Armaan Malik and his two wives Payal and Kritika Malik were part of Bigg Boss OTT 3. Their participation grabbed a lot of eyeballs inside and outside the house. While Payal is out of… [+2098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Vicky Kaushal On His First Meeting With Wife Katrina Kaif: \"It Was Meant To Be\" - NDTV Movies",
-      "description": "\"The first time we ever spoke to each other was a part of an interview while the cameras were rolling,\" said Vicky Kaushal",
-      "url": "https://www.ndtv.com/entertainment/vicky-kaushal-on-his-first-meeting-with-wife-katrina-kaif-it-was-meant-to-be-6126501",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/p8d6cosg_deepika-_625x300_17_July_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
-      "publishedAt": "2024-07-17T13:12:32Z",
-      "content": "Image was posted on Instagram. (Image courtesy: vickykaushal09)\r\nNew Delhi: Vicky Kaushal, who is at present busy promoting his film Bad Newz, reminisced about their first encounter with his wife Kat… [+1651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Onmanorama.com"
-      },
-      "author": "Onmanorama Staff",
-      "title": "'Manjummel Boys' director Chidambaram all set to make Bollywood debut | Onmanorama - Onmanorama",
-      "description": "Chidambaram who made his debut as a filmmaker with the 2021 film ‘Jan.E.Man’, is celebrated for his distinctive storytelling and nuanced character portrayals.",
-      "url": "https://www.onmanorama.com/entertainment/entertainment-news/2024/07/17/manjummel-boys-director-chidambaram-malayalam-cinema-bollywood-debut.html",
-      "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/7/17/manjummel-boys-chidambaram-hindi.jpg",
-      "publishedAt": "2024-07-17T11:42:56Z",
-      "content": "Mumbai: Malayalam filmmaker Chidambaram who earned critical acclaim for the superhit movie Manjummel Boys is all set to make his debut in Bollywood. The director announced his collaboration with Phan… [+866 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Phir Aayi Hasseen Dillruba New Posters: Taapsee Pannu, Vikrant Massey And Sunny Kaushal In A Twisted Love Triangle - NDTV Movies",
-      "description": "The film is slated to release on August 9",
-      "url": "https://www.ndtv.com/entertainment/phir-aayi-hasseen-dillruba-new-posters-taapsee-pannu-vikrant-massey-and-sunny-kaushal-in-a-twisted-love-triangle-6125311",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/4cuqef08_taapseee_625x300_17_July_24.jpeg",
-      "publishedAt": "2024-07-17T10:37:20Z",
-      "content": "A poster of Phir Aayi Hasseen Dillruba. (courtesy: taapsee)\r\nNew Delhi: The makers of Phir Aayi Hasseen Dillruba released the new posters of the film, on Wednesday afternoon. One of the poster featur… [+1317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Beebom"
-      },
-      "author": "Shashank Shakya",
-      "title": "The Boys Season 4 Episode 8 Release Time and Date (Countdown Timer) - Beebom",
-      "description": "The Boys Season 4 Episode 8 is just about to be released and in this article find out about the release date and time of the finale episode.",
-      "url": "https://beebom.com/the-boys-season-4-episode-8-release-date-time/",
-      "urlToImage": "https://beebom.com/wp-content/uploads/2024/06/Hyperion-The-Boys-Powers-and-Abilities-.jpg",
-      "publishedAt": "2024-07-17T09:09:30Z",
-      "content": "The Boys Season 4 is coming to an end this week with the season finale set to release this Thursday. Episode 7 has given us some itchy cliffhangers whose answers will be delivered to us with this fin… [+2510 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "How ‘Longlegs’ Shocked the Box Office to Become the Summer’s Breakout Horror Hit - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvbG9uZ2xlZ3MtYm94LW9mZmljZS1icmVha291dC1oaXQtaG9ycm9yLTEyMzYwNzI1NTUv0gFaaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2ZpbG0vbmV3cy9sb25nbGVncy1ib3gtb2ZmaWNlLWJyZWFrb3V0LWhpdC1ob3Jyb3ItMTIzNjA3MjU1NS9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-16T14:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "KEZI TV",
-      "title": "Woman drowns in Willamette River near Corvallis, search for body continues - KEZI TV",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5rZXppLmNvbS9uZXdzL3dvbWFuLWRyb3ducy1pbi13aWxsYW1ldHRlLXJpdmVyLW5lYXItY29ydmFsbGlzLXNlYXJjaC1mb3ItYm9keS1jb250aW51ZXMvYXJ0aWNsZV8yMmVlOTc2Mi00MjFjLTExZWYtOWY2Ni1hYjIxNTBhYjBmZDEuaHRtbNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-14T20:03:00Z",
-      "content": null
     }
   ]
 }
