@@ -1,19 +1,357 @@
 {
   "status": "ok",
-  "totalResults": 66,
+  "totalResults": 64,
   "articles": [
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "How sober bars are redefining nightlife - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy91cy9zb2Jlci1iYXJzLW1vY2t0YWlscy1hbGNvaG9sLWZyZWUtd2VsbG5lc3MtY2VjL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI3L3VzL3NvYmVyLWJhcnMtbW9ja3RhaWxzLWFsY29ob2wtZnJlZS13ZWxsbmVzcy1jZWM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T19:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Washington Post staff, Tony Romm, Maeve Reston, Justin Jouvenal, Colby Itkowitz, Hannah Knowles, Patrick Marley, Yvonne Wingett Sanchez, Dylan Wells, Aaron Blake, Reis Thebault, Jonathan Edwards, N. Kirkpatrick, Perry Stein, Arelis R. Hernández, Peter Jamison, Beth Reinhard, Hannah Natanson, Nicole Markus, Patrick Svitek, Laura Meckler, Lori Rozsa",
+      "title": "Election 2024 latest news: Trump to address Bitcoin conference, hold rally with Vance - The Washington Post",
+      "description": "Live updates from the 2024 campaign trail with the latest news on presidential candidates, polls, primaries and more.",
+      "url": "https://www.washingtonpost.com/elections/2024/07/27/election-2024-campaign-updates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PCWSJVSC5QVBFDGRDKH2KSY73E_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-07-27T18:43:44Z",
+      "content": "Former president Donald Trump is scheduled to appear at a Bitcoin conference in Nashville on Saturday. The Republican nominee, who previously called cryptocurrency a disaster waiting to happen, arriv… [+363 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daily Mail",
+      "title": "Boomtown in red state haven where house prices have tripled - but locals fear it's becoming the next San Franc - Daily Mail",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM2MTU4MzkvcmVkLXN0YXRlLWNvdW50eS1ob3VzZS12YWx1ZXMtdHJpcGxlZC1zYW4tZnJhbmNpc2NvLmh0bWzSAW5odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNjE1ODM5L2FtcC9yZWQtc3RhdGUtY291bnR5LWhvdXNlLXZhbHVlcy10cmlwbGVkLXNhbi1mcmFuY2lzY28uaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T16:56:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "Apple agrees to first US labor deal - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9idXNpbmVzcy9hcHBsZS11bmlvbi1sYWJvci1hZ3JlZW1lbnQvaW5kZXguaHRtbNIBR2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjcvYnVzaW5lc3MvYXBwbGUtdW5pb24tbGFib3ItYWdyZWVtZW50?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T16:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Finance",
+      "title": "Why Wall Street is unfazed by Medicare drug pricing threat - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy93aHktd2FsbC1zdHJlZXQtaXMtdW5mYXplZC1ieS1tZWRpY2FyZS1kcnVnLXByaWNpbmctdGhyZWF0LTE1MzExOTIxMS5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T15:31:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox Business",
+      "title": "Guacamole, salsa, recalled in 5 states due to risk of 'sometimes fatal' illness - Fox Business",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvZ3VhY2Ftb2xlLXNhbHNhLXJlY2FsbGVkLTUtc3RhdGVzLWR1ZS1yaXNrLXNvbWV0aW1lcy1mYXRhbC1pbGxuZXNz0gFsaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2xpZmVzdHlsZS9ndWFjYW1vbGUtc2Fsc2EtcmVjYWxsZWQtNS1zdGF0ZXMtZHVlLXJpc2stc29tZXRpbWVzLWZhdGFsLWlsbG5lc3MuYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T15:20:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Gothamist",
+      "title": "Boar's Head meats pulled off NY shelves as listeria investigation continues - Gothamist",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZ290aGFtaXN0LmNvbS9uZXdzL2JvYXJzLWhlYWQtbWVhdHMtcHVsbGVkLW9mZi1ueS1zaGVsdmVzLWFzLWxpc3RlcmlhLWludmVzdGlnYXRpb24tY29udGludWVz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T15:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Newsweek",
+      "title": "Putin's Spiraling War Spending Hammers Economy - Newsweek",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtdWtyYWluZS1lY29ub215LWluZmxhdGlvbi1pbnRlcmVzdC1yYXRlLTE5MzEwNDfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T15:00:51Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
-        "name": "News18"
+        "name": "Dailyexcelsior.com"
+      },
+      "author": "Daily Excelsior",
+      "title": "J&K Govt Approves Additional Subsidy For PM Surya Ghar Scheme - Daily Excelsior",
+      "description": "SRINAGAR, July 27: The Administrative Council, which met here under the chairmanship of Lieutenant Governor, Manoj Sinha, approved additional subsidy from UT budget for implementation of PM Surya Ghar: Muft Bijli Yojana in UT of J&K. Follow the Daily Excelsio…",
+      "url": "https://www.dailyexcelsior.com/jk-govt-approves-additional-subsidy-for-pm-surya-ghar-scheme/",
+      "urlToImage": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2024/07/Lieutenant-Governor-Shri-Manoj-Sinha-chaird-Administrative-Council-meeting-27-scaled.jpeg",
+      "publishedAt": "2024-07-27T14:20:38Z",
+      "content": "SRINAGAR, July 27: The Administrative Council, which met here under the chairmanship of Lieutenant Governor, Manoj Sinha, approved additional subsidy from UT budget for implementation of PM Surya Gha… [+2363 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yuvagalam",
+      "title": "$600 COLA Increase for Social Security Payment, SSA received 463K calls in a day - Yuvagalam",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8veXV2YWdhbGFtLmNvbS82MDAtaW5jcmVhc2Utc3NpLXNzZGktcGF5bWVudC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T14:17:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TheStreet",
+      "title": "Fed meeting will light the path to lower rates - TheStreet",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnRoZXN0cmVldC5jb20vZWNvbm9teS9mZWQtbWVldGluZy13aWxsLWxpZ2h0LXRoZS1wYXRoLXRvLWxvd2VyLXJhdGVz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T14:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "list.metadata.agency",
+      "title": "NTPC Q1 profit grows 12% to over ₹5,500 crore | Company Business News - Mint",
+      "description": "NTPC’s consolidated power generation rose to 114 billion units (BUs) in Q1 FY25 from 104 billion units in Q1 FY24.",
+      "url": "https://www.livemint.com/companies/news/ntpc-q1-profit-grows-12-to-over-rs-5-500-crore-11722085216574.html",
+      "urlToImage": "https://images.livemint.com/img/2024/07/27/1600x900/Screenshot_2024-07-27_184616_1722086228403_1722086235927.png",
+      "publishedAt": "2024-07-27T13:18:44Z",
+      "content": "State-owned NTPC on Saturday posted 12 per cent rise in consolidated net profit at 5,506.07 crore for the June quarter, mainly on the back of higher income.\r\nIn the year-ago period, its net profit st… [+938 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Natalia Kniazhevich, Carmen Reinicke, Alexandra Semenova",
+      "title": "Earnings Derail Stock Rally Over Doubts on AI, Consumer Strength - Bloomberg",
+      "description": "The latest earnings reports are fanning two worries that were already gnawing away at the US stock market: That the euphoria about artificial intelligence had run too far and that — at some point — consumers spending will start to stall.",
+      "url": "https://www.bloomberg.com/news/articles/2024-07-27/earnings-derail-stock-rally-over-doubts-on-ai-consumer-strength",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIA2iKe7X0aI/v1/1200x800.jpg",
+      "publishedAt": "2024-07-27T13:00:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Finance",
+      "title": "Social Security Administration makes change that will impact millions of beneficiaries - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc29jaWFsLXNlY3VyaXR5LWFkbWluaXN0cmF0aW9uLW1ha2VzLWNoYW5nZS10aGF0LXdpbGwtaW1wYWN0LW1pbGxpb25zLW9mLWJlbmVmaWNpYXJpZXMtMTIzMDUyMTc3Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T12:30:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Finance",
+      "title": "Tesla's volume growth will 'have to wait quite a bit': Analyst - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vdmlkZW8vdGVzbGFzLXZvbHVtZS1ncm93dGgtd2FpdC1xdWl0ZS0xMjAwNTI0MTYuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T12:00:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Axios",
+      "title": "The inflation surge looks to be mostly over, putting Fed rate cuts in play - Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzI2L2luZmxhdGlvbi1vdmVyLWZlZC1yYXRlLWN1dHPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T11:59:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Mat Di Salvo",
+      "title": "This Week in Coins: Ethereum ETFs Up, ETH Price Down as Bitcoin and Trump Take Nashville - Decrypt",
+      "description": "Prices have been fairly unimpressive this week—but a lot has happened.",
+      "url": "https://decrypt.co/241728/this-week-in-coins-ethereum-etf-eth-price-bitcoin-trump-nashville",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/07/make-bitcoin-hat-gID_7.png",
+      "publishedAt": "2024-07-27T11:01:02Z",
+      "content": "Illustration by Mitchell Preffer for Decrypt.\r\nAfter an eventful week, with the launch of spot Ethereum exchange-traded funds (ETFs) and Bitcoin 2024 kicking off, prices are surprisingly flat over th… [+1613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Justine Fisher",
+      "title": "Food delivery fees are rising, and everyone's feeling the pinch - CNBC",
+      "description": "Frustrations from both sides of the table have hit services like DoorDash, Grubhub and Uber Eats, which have introduced reduced-fee options.",
+      "url": "https://www.cnbc.com/2024/07/27/food-delivery-fees-are-rising.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107268397-1688752980266-gettyimages-1522774938-dscf4122_zgmqnq0m.jpeg?v=1722022294&w=1920&h=1080",
+      "publishedAt": "2024-07-27T11:00:01Z",
+      "content": "Food from the restaurant of your choosing, delivered right to your door at what cost?\r\nThird-party food delivery is becoming the norm for American consumers, as delivery apps like Grubhub, DoorDash a… [+11381 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bloomberg",
+      "title": "Stellantis CEO Struggles to Sell Jeeps in the Golden Era of SUVs - Bloomberg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTI3L3N0ZWxsYW50aXMtY2VvLXN0cnVnZ2xlcy10by1zZWxsLWplZXBzLWluLXRoZS1nb2xkZW4tZXJhLW9mLXN1dnPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nathaniel Meyersohn",
+      "title": "Big Tobacco may have its biggest new hit since cigarettes - CNN",
+      "description": "Governments around the world have tried to kill the tobacco industry. Zyn, the brand of flavored oral nicotine pouches that comes in small, round containers resembling breath mints, is its latest strategy.",
+      "url": "https://www.cnn.com/2024/07/27/business/zyn-nicotine-philip-morris-tobacco/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1970322966-20240720025751799.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-07-27T10:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Euronews",
+      "title": "Your posts on X are now training its Grok AI model without you knowing - Euronews",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbmV4dC8yMDI0LzA3LzI3L2Vsb24tbXVza3MteC1xdWlldGx5LWNoYW5nZXMtZGVmYXVsdC1zZXR0aW5ncy10by1hbGxvdy1pdC10by10cmFpbi1haS1tb2RlbC1ncm9rLXdpdGgteW91ctIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T10:24:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ABC News",
+      "title": "Why did Delta take days to restore normal service after CrowdStrike outage? Experts weigh in. - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vQnVzaW5lc3MvZGVsdGEtZGF5cy1yZXN0b3JlLW5vcm1hbC1zZXJ2aWNlLWFmdGVyLWNyb3dkc3RyaWtlLW91dGFnZS9zdG9yeT9pZD0xMTIyOTk5NjbSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9CdXNpbmVzcy9kZWx0YS1kYXlzLXJlc3RvcmUtbm9ybWFsLXNlcnZpY2UtYWZ0ZXItY3Jvd2RzdHJpa2Utb3V0YWdlL3N0b3J5P2lkPTExMjI5OTk2Ng?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T09:23:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Miami Herald",
+      "title": "‘Elaborate Ponzi scheme.’ CEO of Miami-area hospitals to get subpoena, part of new probe - Miami Herald",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2hlYWx0aC1jYXJlL2FydGljbGUyOTA0NTUwODkuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2hlYWx0aC1jYXJlL2FydGljbGUyOTA0NTUwODkuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T09:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Amaka Nwaokocha",
+      "title": "Grayscale Ethereum Trust ETF hits historic net outflow of $1.5B - Cointelegraph",
+      "description": "Grayscale’s Ethereum Trust ETF has hit $1.5 billion in outflows, with $356 million withdrawn on July 26.",
+      "url": "https://cointelegraph.com/news/grayscale-ethereum-trust-etf-historic-1-5-billion-outflow",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-07/d5e1bd64-6954-4462-9f56-7899f5b2f955.jpg",
+      "publishedAt": "2024-07-27T08:07:10Z",
+      "content": "Outflows from the Grayscale Ethereum Trust ETF (ETHE) have reached over $1.5 billion, with net outflows of $356 million in a single day on July 26.\r\nAccording to data from SoSo Value, July 26 proved … [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET CONTRIBUTORS",
+      "title": "Custom duty reduction impact: How gold prices may perform in near future - The Economic Times",
+      "description": "Government has slashed customs duties on gold and silver by 6 percent. The basic customs duty has been reduced to 5 percent from 10 percent, and the Agriculture Infrastructure and Development Cess lowered to 1 percent from 5 percent. This decision will effect…",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/views/custom-duty-reduction-impact-how-gold-prices-may-perform-in-near-future/articleshow/112060329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112060299,width-1200,height-630,imgsize-926281,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-27T07:30:27Z",
+      "content": "Domestic gold prices plunged drastically following a sharp cut in import duties in the latest Union budget. Gold prices were hovering above Rs 74,000 per ten grams in the futures market earlier this … [+3103 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Mankind Pharma taps Barclays and Deutsche Bank for Rs 13,630 cr acquisition of Bharat Serums & Vaccines - The Economic Times",
+      "description": "Mankind Pharma has appointed Barclays and Deutsche Bank to arrange financing for its Rs 13,630 crore acquisition of Bharat Serums & Vaccines. The deal will be partly funded through Rs 4,000 crore in internal accruals and the rest via debt. Mankinds board appr…",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/mankind-pharma-taps-barclays-and-deutsche-bank-for-rs-13630-cr-acquisition-of-bharat-serums-vaccines/articleshow/112058969.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112058959,width-1200,height-630,imgsize-109764,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-27T06:24:02Z",
+      "content": "Mankind Pharma has selected Barclays Plc and Deutsche Bank AG to help arrange financing for its proposed Rs 13,630 crore acquisition of Bharat Serums &amp; Vaccines, according to Bloomberg sources.\"T… [+1602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
       },
       "author": null,
-      "title": "Gold, Silver Prices Today: Check Latest Bullion Rates In Your City on July 27 - News18",
-      "description": "Check the latest gold price today across major cities in India. Get detailed city-wise gold rates for 22 carat and 24 carat gold in Delhi, Kolkata, Mumbai, Bangalore, Hyderabad, and more. Stay updated with current prices and market trends at news18.com",
-      "url": "https://www.news18.com/business/savings-and-investments/gold-silver-prices-today-check-latest-bullion-rates-in-your-city-on-july-27-8980382.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/gold-women-new-2024-01-36fa2a9b33adb09015348b9357542d3d-16x9.png?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-07-27T03:43:42Z",
-      "content": "Gold Rate Today In India: On July 27, gold prices in India fell and continued to trade below Rs 70,000 per 10 grams. This rate includes a premium for the highest purity gold, with 24-carat gold price… [+3663 chars]"
+      "title": "Suzuki Motorcycle India Recalls Over 3.8 Lakh 125 cc Scooters In India - NDTV",
+      "description": "Suzuki scooters like the Burgman Street, Avenis 125 and the Access 125 have been recalled over a potentially faulty high tension cord issue. The V-Strom 800 DE has been recalled as well.",
+      "url": "https://www.ndtv.com/auto/suzuki-motorcycle-india-recalls-over-3-8-lakh-125-cc-scooters-in-india-6199325",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/t1r2rgm_suzukiavenis125black_625x300_17_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-07-27T05:34:33Z",
+      "content": null
     },
     {
       "source": {
@@ -33,13 +371,26 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "WCVB Boston",
-      "title": "Grocery store chains close delis for cleaning after meat recall - WCVB Boston",
+      "author": "New York Post ",
+      "title": "Abbott must pay $495M in damages after girl develops dangerous disease from premature infant formula - New York Post ",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LndjdmIuY29tL2FydGljbGUvYmlnLXktc3RvcC1hbmQtc2hvcC1ib2Fycy1oZWFkLWxpc3RlcmlhLXJlY2FsbC1kZWxpcy1jbG9zZWQvNjE3MTE1ODbSAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL255cG9zdC5jb20vMjAyNC8wNy8yNi9idXNpbmVzcy9hYmJvdHQtbXVzdC1wYXktNDk1bS1pbi1kYW1hZ2VzLWFmdGVyLWdpcmwtZGV2ZWxvcHMtZGFuZ2Vyb3VzLWRpc2Vhc2UtZnJvbS1wcmVtYXR1cmUtaW5mYW50LWZvcm11bGEv0gEA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-27T02:16:00Z",
+      "publishedAt": "2024-07-27T01:55:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "Bank Holiday on July 27: Are banks closed today for fourth Saturday? Check details here | Mint - Mint",
+      "description": "Bank Holiday on July 27: All national and private banks in India have at least 12 non-working days in July 2024 — including the second and fourth Saturdays, all Sundays, and for religious holidays and regional festivities.",
+      "url": "https://www.livemint.com/industry/banking/bank-holiday-on-july-27-are-banks-closed-today-fourth-saturday-weekend-sunday-state-bank-of-india-rbi-check-details-here-11722041098645.html",
+      "urlToImage": "https://images.livemint.com/img/2024/07/27/1600x900/bank_holiday_today_july_27_fourth_saturday_1722042038978_1722042039161.jpg",
+      "publishedAt": "2024-07-27T01:05:05Z",
+      "content": "Bank Holiday on July 27: Today, July 27 is the fourth Saturday of the month, which means that it is a non-working day for all banks across India whether public or private, and including the State Ban… [+1971 chars]"
     },
     {
       "source": {
@@ -47,48 +398,9 @@
         "name": "Google News"
       },
       "author": "The Wall Street Journal",
-      "title": "Abbott Ordered to Pay $495 Million in Baby-Formula Verdict - The Wall Street Journal",
+      "title": "CrowdStrike’s CEO Has Known Failure—but Never Like This - WSJ - The Wall Street Journal",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvYWJib3R0LW9yZGVyZWQtdG8tcGF5LTQ5NS1taWxsaW9uLWluLWJhYnktZm9ybXVsYS12ZXJkaWN0LTc3Y2JlMzMx0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-27T01:36:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Aaron Gregg",
-      "title": "Dow surges 650 points as stock market snaps back - The Washington Post",
-      "description": "A favorable inflation report and positive results from manufacturer 3M contributed to the market’s recovery, analysts said.",
-      "url": "https://www.washingtonpost.com/business/2024/07/26/dow-stock-market-rally/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE4DG3EWRYI6TGQW3RKR5JNEHM.jpg&w=1440",
-      "publishedAt": "2024-07-27T01:35:11Z",
-      "content": "Wall Street staged a comeback Friday after a bruising week on some optimistic economic signals.\r\nThe Dow Jones Industrial Average popped 654 points, or 1.6 percent, to close at 40,589, offsetting ste… [+2339 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Sara Chernikoff",
-      "title": "Mega Millions winning numbers for July 26 drawing: Jackpot now worth $306 million - USA TODAY",
-      "description": "Mega Millions players, are you feeling lucky? The winning numbers are in for the July 26 drawing.",
-      "url": "https://www.usatoday.com/story/money/lottery/2024/07/26/mega-millions-winning-numbers/74565363007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/22/USAT/73072171007-usatsi-22816449.jpg?crop=4031,2268,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-07-27T01:02:04Z",
-      "content": "The Mega Millions jackpot for Friday's drawing has climbed to $306 million after no one won the jackpot on Tuesday.\r\nThe winning numbers are scheduled to be drawn just after 11 p.m. ET on Friday and … [+3000 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Wall Street Journal",
-      "title": "Why a Cold-Storage Company Just Delivered the Year’s Hottest IPO - The Wall Street Journal",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvbGluZWFnZS1pcG8tc2VhZm9vZC1wcm9kdWNlLWNvbGQtc3RvcmFnZS1kZWxpdmVyeS1mOWMxZTMwONIBAA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9jcm93ZHN0cmlrZXMtY2VvLWdlb3JnZS1rdXJ0ei1mYWlsdXJlLWdsb2JhbC10ZWNoLW91dGFnZS1taWNyb3NvZnQtd2luZG93cy0wN2QyN2E0YdIBAA?oc=5",
       "urlToImage": null,
       "publishedAt": "2024-07-27T01:00:00Z",
       "content": null
@@ -98,38 +410,51 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The New York Times",
-      "title": "Vivian Jenna Wilson, Elon Musk’s Transgender Daughter, Says He Was ‘Cruel’ and ‘Uncaring’ - The New York Times",
+      "author": "POLITICO",
+      "title": "Apple signs on to Biden’s responsible AI guidelines - POLITICO",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvYnVzaW5lc3MvbWVkaWEvZWxvbi1tdXNrLWRhdWdodGVyLWludGVydmlldy1uYmMuaHRtbNIBAA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjYvYXBwbGUtYmlkZW4tYWktMDAxNzE1MDLSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T23:58:18Z",
+      "publishedAt": "2024-07-27T00:51:04Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rica Bhattacharyya and Lijee Philip",
+      "title": "India is doing a factory reset on the jobs scene - The Economic Times",
+      "description": "India's manufacturing sector has seen a significant job growth over the past two years, surpassing the services sector. This turnaround is driven by govt incentives, increased domestic demand, and companies expanding capacities. The sector is projected to cre…",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/india-is-doing-a-factory-reset-on-the-jobs-scene/articleshow/112050761.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112050775,width-1200,height-630,imgsize-39696,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-07-27T00:00:00Z",
+      "content": "Mumbai: Manufacturing is seeing a turnaround in India and the government's budget boost for factory jobs might just be the catalyst to turn a swell into a wave.The pace of job growth in manufacturing… [+4399 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Financial Times"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "author": "Nicholas Megaw, Eric Platt, Costas Mourselas",
+      "title": "Bill Ackman postpones Pershing Square IPO after scaling back expectations - Financial Times",
+      "description": "Delay marks a setback for the billionaire hedge fund manager who hoped for one of the largest listings in history",
+      "url": "https://www.ft.com/content/0d6426ac-bc58-4973-97a3-48c34087240b",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9915fb56-e81f-493f-beff-a4584c7a2a5e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2024-07-26T22:34:45Z",
+      "content": "Bill Ackman has postponed the initial public offering of his US investment fund Pershing Square USA, days after he acknowledged that it would raise far less money than initially planned and pleaded w… [+3302 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "CNN",
-      "title": "Toyota will put new engines into 100,000 Tundra trucks and Lexus SUVs - CNN",
+      "author": "Yahoo Finance",
+      "title": "Short Sellers Feel Heat After US Charges Andrew Left With Fraud - Yahoo Finance",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNi9idXNpbmVzcy90b3lvdGEtcmVjYWxsLWVuZ2luZS1yZXBsYWNlbWVudC10dW5kcmEtdHJ1Y2tzLWxleHVzLXN1di9pbmRleC5odG1s0gFkaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yNi9idXNpbmVzcy90b3lvdGEtcmVjYWxsLWVuZ2luZS1yZXBsYWNlbWVudC10dW5kcmEtdHJ1Y2tzLWxleHVzLXN1dg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaG9ydC1zZWxsZXJzLWZlZWwtaGVhdC11cy0yMjA1NDMxMzMuaHRtbNIBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T22:29:00Z",
+      "publishedAt": "2024-07-26T22:05:43Z",
       "content": null
     },
     {
@@ -137,90 +462,12 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Fox Business",
-      "title": "Former PepsiCo executive files lawsuit over Flamin' Hot Cheetos origin story - Fox Business",
+      "author": "News 12 Brooklyn",
+      "title": "Zillow report: 28 LI communities have million-dollar starter homes - News 12 Brooklyn",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvZm9ybWVyLXBlcHNpY28tZXhlY3V0aXZlLWZpbGVzLWxhd3N1aXQtZmxhbWluLWhvdC1jaGVldG9zLW9yaWdpbi1zdG9yedIBcGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvZm9ybWVyLXBlcHNpY28tZXhlY3V0aXZlLWZpbGVzLWxhd3N1aXQtZmxhbWluLWhvdC1jaGVldG9zLW9yaWdpbi1zdG9yeS5hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T22:02:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "News 12 Long Island",
-      "title": "Zillow report: 28 LI communities have million-dollar starter homes - News 12 Long Island",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbG9uZ2lzbGFuZC5uZXdzMTIuY29tL3JlcG9ydC0yOC1saS1jb21tdW5pdGllcy1oYXZlLW1pbGxpb24tZG9sbGFyLXN0YXJ0ZXItaG9tZXPSAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYnJvb2tseW4ubmV3czEyLmNvbS9yZXBvcnQtMjgtbGktY29tbXVuaXRpZXMtaGF2ZS1taWxsaW9uLWRvbGxhci1zdGFydGVyLWhvbWVz0gEA?oc=5",
       "urlToImage": null,
       "publishedAt": "2024-07-26T21:52:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Ars Technica",
-      "title": "People are overdosing on off-brand weight-loss drugs, FDA warns - Ars Technica",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyNC8wNy9wZW9wbGUtYXJlLW92ZXJkb3Npbmctb24tb2ZmLWJyYW5kLXdlaWdodC1sb3NzLWRydWdzLWZkYS13YXJucy_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T21:22:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "MarketWatch",
-      "title": "Some of the most popular trades of 2024 are coming undone after reaching ‘stupid’ levels - MarketWatch",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5tYXJrZXR3YXRjaC5jb20vc3Rvcnkvc29tZS1vZi10aGUtbW9zdC1wb3B1bGFyLXRyYWRlcy1vZi0yMDI0LWFyZS1jb21pbmctdW5kb25lLWFmdGVyLXJlYWNoaW5nLXN0dXBpZC1sZXZlbHMtMzQyZjIyZTDSAYUBaHR0cHM6Ly93d3cubWFya2V0d2F0Y2guY29tL2FtcC9zdG9yeS9zb21lLW9mLXRoZS1tb3N0LXBvcHVsYXItdHJhZGVzLW9mLTIwMjQtYXJlLWNvbWluZy11bmRvbmUtYWZ0ZXItcmVhY2hpbmctc3R1cGlkLWxldmVscy0zNDJmMjJlMA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKYT"
-      },
-      "author": "WKYT News Staff, Lucy Bryson",
-      "title": "Produce in FDA recall was shipped to Kentucky - WKYT",
-      "description": "The FDA says a potential listeria contamination in one neighboring distributor is leading them to expand a once-smaller recall.",
-      "url": "https://www.wkyt.com/2024/07/26/produce-fda-recall-was-shipped-kentucky/",
-      "urlToImage": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/v2/26PLOR3QHBGHHKO7I7P7RYLBZU.jpg?auth=7a4df8ed7c5c204a44202cda4a5fac554d69b4ed991b554ed1fcd1e9cf0f0386&width=1200&height=600&smart=true",
-      "publishedAt": "2024-07-26T20:43:00Z",
-      "content": "LEXINGTON, Ky. (WKYT) - Kentuckians, check your produce!\r\nThe FDA says a potential listeria contamination in one neighboring distributor is leading them to expand a once-smaller recall.\r\nThe FDA is r… [+1510 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox Business",
-      "title": "GDP surges by 2.8%, raising expectations for interest rate cuts - Fox Business",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9wZXJzb25hbC1maW5hbmNlL2dkcC1zdXJnZXMtZmVkZXJhbC1mdW5kcy1yYXRlLWN1dNIBUmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9wZXJzb25hbC1maW5hbmNlL2dkcC1zdXJnZXMtZmVkZXJhbC1mdW5kcy1yYXRlLWN1dC5hbXA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:27:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Baltimore Banner",
-      "title": "Maryland education giant files for bankruptcy, but says students won’t notice - The Baltimore Banner",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoZWJhbHRpbW9yZWJhbm5lci5jb20vZWNvbm9teS8ydS1iYW5rcnVwdGN5LW1hcnlsYW5kLVFJM0NXWVhUV0JDS0ZETkVEUVlUNlk1TENBL9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T20:16:00Z",
       "content": null
     },
     {
@@ -238,54 +485,41 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "The Points Guy"
       },
-      "author": "Eater SF",
-      "title": "Four Takeaways From the Bankruptcy Filing Rocking a California Wine Company - Eater SF",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vc2YuZWF0ZXIuY29tLzIwMjQvNy8yNi8yNDIwNjk5NS92aW50YWdlLXdpbmUtZXN0YXRlcy1jYWxpZm9ybmlhLXdpbmVyeS1iYW5rcnVwdGN5LW1hc3MtbGF5b2Zmc9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T19:31:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Points Guy",
+      "author": "Ryan Wilcox",
       "title": "Amex Gold cardmembers: Enroll now for new Resy and Dunkin' benefits - The Points Guy",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhlcG9pbnRzZ3V5LmNvbS9uZXdzL2FtZXgtZ29sZC1jYXJkaG9sZGVycy1lbnJvbGwtbmV3LWJlbmVmaXRzL9IBAA?oc=5",
-      "urlToImage": null,
+      "description": "With the announcement of a refresh to the American Express® Gold Card came a number of (not all bad) changes to one of our favorite cards.",
+      "url": "https://thepointsguy.com/news/amex-gold-cardholders-enroll-new-benefits/",
+      "urlToImage": "https://thepointsguy.freetls.fastly.net/us/originals/2024/04/SOCIAL-IMAGE_PARTNER-OFFERS-TERMS-APPLY_Woman-using-a-smartphone-and-paying-with-a-credit-card-in-a-restaurant_cream_ph_25.jpg",
       "publishedAt": "2024-07-26T19:22:50Z",
-      "content": null
+      "content": "With the announcement of a refresh to the American Express® Gold Card came a number of (not all bad) changes to one of our favorite premium cards, with new statement credits to go along with an incre… [+1680 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Reuters",
-      "title": "Alzheimer's drug from Eisai and Biogen rejected in Europe - Reuters",
+      "author": "The Ledger",
+      "title": "Badcock furniture, rooted in Mulberry, will close all stores. Conn's files for bankruptcy - The Ledger",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9ldS1tZWRpY2luZXMtcmVndWxhdG9yLXJlamVjdHMtZWlzYWktYmlvZ2VuLWFsemhlaW1lcnMtZHJ1Zy0yMDI0LTA3LTI2L9IBAA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoZWxlZGdlci5jb20vc3RvcnkvbmV3cy8yMDI0LzA3LzI2L2JhZGNvY2stZnVybml0dXJlLXJvb3RlZC1pbi1tdWxiZXJyeS13aWxsLWNsb3NlLWFsbC1pdHMtc3RvcmVzLzc0NTU2MDgzMDA3L9IBAA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T18:50:00Z",
+      "publishedAt": "2024-07-26T19:00:52Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Benzinga"
       },
-      "author": "CNBC",
-      "title": "Dexcom shares plunge more than 40% for worst day on record - CNBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjYvZGV4Y29tLXNoYXJlcy1wbHVuZ2UtbW9yZS10aGFuLTQwcGVyY2VudC1hZnRlci1xMi1lYXJuaW5ncy5odG1s0gFjaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMjYvZGV4Y29tLXNoYXJlcy1wbHVuZ2UtbW9yZS10aGFuLTQwcGVyY2VudC1hZnRlci1xMi1lYXJuaW5ncy5odG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T17:43:51Z",
+      "author": "Piero Cingari",
+      "title": "Russell 2000 Notches Third Week Of Gains, Strongest Streak Since August 2022: Small Caps Serve 'As Economic Barometer,' Analyst Says - Benzinga",
+      "description": "Small-cap stocks have been driven by growing investor optimism towards interest rate-sensitive industries and companies, fueled by expected rate cuts and positive economic data. Inflows into small-cap ETFs signal confidence in a solid economic backdrop and at…",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/07/39992214/russell-2000-notches-third-week-of-gains-strongest-streak-since-august-2022-small-c",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/26/bulls-ai2.png?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-26T18:55:08Z",
       "content": null
     },
     {
@@ -299,32 +533,6 @@
       "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vdGhlcG9pbnRzZ3V5LmNvbS9uZXdzL3NvdXRod2VzdC1haXJsaW5lcy1mYXJld2VsbC1vcGVuLXNlYXRpbmcv0gEA?oc=5",
       "urlToImage": null,
       "publishedAt": "2024-07-26T17:34:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Decrypt",
-      "title": "GameStop, Nvidia Short Seller Hit With SEC and Criminal Fraud Charges - Decrypt",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZGVjcnlwdC5jby8yNDE4NzUvZ2FtZXN0b3AtbnZpZGlhLXNob3J0LXNlbGxlci1zZWMtY3JpbWluYWwtZnJhdWQtY2hhcmdlc9IBV2h0dHBzOi8vZGVjcnlwdC5jby8yNDE4NzUvZ2FtZXN0b3AtbnZpZGlhLXNob3J0LXNlbGxlci1zZWMtY3JpbWluYWwtZnJhdWQtY2hhcmdlcz9hbXA9MQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T16:27:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox Business",
-      "title": "United aims to crack down on flight attendants who abuse sick time - Fox Business",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvdW5pdGVkLWFpbXMtY3JhY2stZG93bi1mbGlnaHQtYXR0ZW5kYW50cy13aG8tYWJ1c2Utc2ljay10aW1l0gFmaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL2xpZmVzdHlsZS91bml0ZWQtYWltcy1jcmFjay1kb3duLWZsaWdodC1hdHRlbmRhbnRzLXdoby1hYnVzZS1zaWNrLXRpbWUuYW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T16:25:00Z",
       "content": null
     },
     {
@@ -358,6 +566,19 @@
         "id": "google-news",
         "name": "Google News"
       },
+      "author": "RetailWire",
+      "title": "Chipotle Faced Backlash About Its Burrito Bowl Portion Sizes. How Did It Respond? - RetailWire",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vcmV0YWlsd2lyZS5jb20vY2hpcG90bGUtYnVycml0by1ib3dsLXNpemUtYmFja2xhc2gv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-26T16:05:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
       "author": "Seeking Alpha",
       "title": "Nvidia Stock: I Bought The Dip, Here's Why You Should, Too (NASDAQ:NVDA) - Seeking Alpha",
       "description": null,
@@ -368,120 +589,29 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Quartz",
-      "title": "Taco Bell is turning one of its signature menu items into gelato - Quartz",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vcXouY29tL3RhY28tYmVsbC1iYWphLWJsYXN0LWRlc3NlcnQtZ2VsYXRvLWN1c3RvbWVycy1pbmZsYXRpb24tMTg1MTYwNjExNdIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T15:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "News18"
+        "name": "CNBCTV18"
       },
-      "author": null,
-      "title": "Paytm Receives Govt's Go-Ahead for Payment Aggregator Business; Shares Surge 10% - News18",
-      "description": "Paytm can approach the Reserve Bank of India (RBI) to seek payment aggregator licence which the central bank will evaluate.",
-      "url": "https://www.news18.com/business/markets/paytm-gets-fdi-approval-for-payment-aggregator-business-shares-surge-10-8979540.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/untitled-2024-01-20t090643.813-2024-01-60fa5446821b5433e72c1252c35170ad-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2024-07-26T15:12:33Z",
-      "content": "The government has given its go-ahead to Paytms payment aggregator business licence. Following the report, the shares of One97 Communications, the parent of Paytm, shares surged Rs 46.25 or 10 per ce… [+1211 chars]"
+      "author": "Shilpa Ranipeta",
+      "title": "ITC hotels demerger to be completed in 6 months, could list by the end of 2024: Sanjiv Puri - CNBCTV18",
+      "description": "Addressing the media post the company's AGM, ITC CMD Sanjiv Puri said the listing of the hotel business should happen in the timeframe of 15-18 months that the company alluded to at the time of announcing the demerger last year.",
+      "url": "https://www.cnbctv18.com/market/stocks/itc-hotels-demerger-to-be-completed-in-6-months-could-list-by-the-end-of-2024-sanjiv-puri-19450061.htm",
+      "urlToImage": "https://images.cnbctv18.com/uploads/2023/08/ITC-shutterstockk.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2024-07-26T15:15:51Z",
+      "content": "Diversified conglomerate ITC on Friday (July 26) said the demerger of the hotel business is on track and should be completed in the next six months.Addressing the media post the company's Annual Gene… [+1633 chars]"
     },
     {
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Jalopnik",
-      "title": "Half Of Teslas Q2 Profit Came From Your Taxes - Jalopnik",
+      "author": "The Motley Fool",
+      "title": "Why DexCom Stock Is Crashing Today - The Motley Fool",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vamFsb3BuaWsuY29tL2hhbGYtb2YtdGVzbGFzLXEyLXByb2ZpdC1jYW1lLWZyb20teW91ci10YXhlcy0xODUxNjA2MjAw0gEA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDI0LzA3LzI2L3doeS1kZXhjb20tc3RvY2staXMtY3Jhc2hpbmctdG9kYXkv0gEA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T15:00:00Z",
+      "publishedAt": "2024-07-26T14:42:11Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The White House",
-      "title": "FACT SHEET: Biden-Harris Administration Announces New AI Actions and Receives Additional Major Voluntary Commitment on AI - The White House",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy53aGl0ZWhvdXNlLmdvdi9icmllZmluZy1yb29tL3N0YXRlbWVudHMtcmVsZWFzZXMvMjAyNC8wNy8yNi9mYWN0LXNoZWV0LWJpZGVuLWhhcnJpcy1hZG1pbmlzdHJhdGlvbi1hbm5vdW5jZXMtbmV3LWFpLWFjdGlvbnMtYW5kLXJlY2VpdmVzLWFkZGl0aW9uYWwtbWFqb3Itdm9sdW50YXJ5LWNvbW1pdG1lbnQtb24tYWkv0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T14:22:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Jalopnik",
-      "title": "Stellantis Is In Big Trouble Following Awful First Half Of 2024 - Jalopnik",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vamFsb3BuaWsuY29tL3N0ZWxsYW50aXMtaXMtaW4tYmlnLXRyb3VibGUtZm9sbG93aW5nLWF3ZnVsLWZpcnN0LWhhbGYtMTg1MTYwNTk2NdIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T14:08:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The New York Times",
-      "title": "Automakers Sold Driver Data for Pennies, Senators Say - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvdGVjaG5vbG9neS9kcml2ZXItZGF0YS1zb2xkLWZvci1wZW5uaWVzLmh0bWzSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T14:00:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Barron's",
-      "title": "CrowdStrike Stock Is Rising. It Finally Has Some Good News. - Barron's",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2Nyb3dkc3RyaWtlLXN0b2NrLW1pY3Jvc29mdC1vdXRhZ2UtZml4ZWQtNjFmZDMxNzDSAVZodHRwczovL3d3dy5iYXJyb25zLmNvbS9hbXAvYXJ0aWNsZXMvY3Jvd2RzdHJpa2Utc3RvY2stbWljcm9zb2Z0LW91dGFnZS1maXhlZC02MWZkMzE3MA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T13:47:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo Finance",
-      "title": "Apollo Funds to take IGT Gaming, Everi private in $6.3 billion deal - Yahoo Finance",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hcG9sbG8tZnVuZHMtYWNxdWlyZS1pZ3RzLWdhbWluZy0xMTEwMTU4NDMuaHRtbNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T13:42:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "Pragatti Oberoi",
-      "title": "SBI Card Q1 Results: Profit Up 0.2%, Total Income Rises - NDTV Profit",
-      "description": "The company's standalone net profit increased 0.2% year-on-year to Rs 594 crore for the quarter-ended June.",
-      "url": "https://www.ndtvprofit.com/quarterly-earnings/sbi-card-q1-results-profit-up-02-total-income-rises",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-04%2F0fe06c70-4867-4353-adce-a9f410e09beb%2FSBI_Card_Elite.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2024-07-26T13:38:19Z",
-      "content": "SBI Cards and Payment Services Ltd.'s first-quarter profit rose, but missed analysts' estimates.\r\nThe company's standalone net profit increased 0.2% year-on-year to Rs 594 crore for the quarter-ended… [+121 chars]"
     },
     {
       "source": {
@@ -499,41 +629,15 @@
     {
       "source": {
         "id": null,
-        "name": "Moneycontrol"
+        "name": "Etnownews.com"
       },
-      "author": "Moneycontrol News",
-      "title": "RBI imposes monetary penalty on Manappuram Finance, Ola Financial Services - Moneycontrol",
-      "description": "The central bank has fined Rs 41.50 lakh to Manappuram Finance, Rs 87.55 lakh on Ola Financial Services Pvt. Ltd. and Rs 240.75 lakh on Visa Worldwide Pte. Limited.",
-      "url": "https://www.moneycontrol.com/news/business/rbi-imposes-monetary-penalty-on-manappuram-finance-ola-financial-services-12779724.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/02/rbi.jpeg",
-      "publishedAt": "2024-07-26T13:30:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Financial Times",
-      "title": "People are flipping out about T-bill issuance - Financial Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2YwZjYyZjBiLWZlZTItNDYzYS1hMDc1LTNiOGRhYjMzM2Y0MNIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T13:17:16Z",
-      "content": null
+      "author": "Varun Yadav",
+      "title": "BHEL share price target 2024: Rs 10,000 crore order! BUY, SELL or HOLD? - ET Now",
+      "description": "BHEL share price target 2024: Bharat Heavy Electricals Limited (BHEL) has won an order worth Rs 10,000 crore from Damodar Valley Corporation (DVC). BHEL's Board of Directors will approve the unaudited financial results for the quarter ended June 30, 2024. The…",
+      "url": "https://www.etnownews.com/markets/bhel-share-price-target-2024-rs-10000-crore-order-buy-sell-or-hold-article-112044734",
+      "urlToImage": "https://etstatic.tnn.in/thumb/msid-112044734,width-1280,height-720,resizemode-75/112044734.jpg",
+      "publishedAt": "2024-07-26T13:16:37Z",
+      "content": "The webpage at https://ssc-cms.33across.com/ps/?m=xch&amp;rt=html&amp;id=0013300001hSPhhAAG&amp;us_privacy=&amp;ru=https%3A//cm.mgid.com/m%3Fcdsp%3D796887%26c%3D33XUSERID33X might be temporarily down… [+54 chars]"
     },
     {
       "source": {
@@ -553,26 +657,39 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Benzinga",
-      "title": "Why Is Bristol Myers Squibb Stock Trading Higher On Friday? - Bristol-Myers Squibb (NYSE:BMY) - Benzinga",
+      "author": "Daily Mail",
+      "title": "Southwest Airlines passenger shares terrifying video from Boeing 737 MAX that flew far too low over water - Daily Mail",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5iZW56aW5nYS5jb20vZ2VuZXJhbC9iaW90ZWNoLzI0LzA3LzM5OTgyMjM2L2JyaXN0b2wtbXllcnMtc3F1aWJiLXdpdG5lc3Nlcy1zdHJvbmctZGVtYW5kLWZvci1uZXdlci1kcnVncy1hcy1xMi1lYXJuaW5ncy1iZWF0LWV4cGVjdGF0aW9ucy1yYWnSAQA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM2NzU5OTcvc291dGh3ZXN0LWFpcmxpbmVzLWZsaWdodC13YXRlci1mbG9yaWRhLXZpZGVvLXBhc3Nlbmdlci5odG1s0gFyaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzY3NTk5Ny9hbXAvc291dGh3ZXN0LWFpcmxpbmVzLWZsaWdodC13YXRlci1mbG9yaWRhLXZpZGVvLXBhc3Nlbmdlci5odG1s?oc=5",
       "urlToImage": null,
-      "publishedAt": "2024-07-26T12:08:34Z",
+      "publishedAt": "2024-07-26T12:16:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "WTOP"
+        "name": "Benzinga"
       },
-      "author": "Jack Moore",
-      "title": "74-year-old Bethesda man realizes he’s been scammed out of $1M in gold bar scheme after seeing local news report - WTOP",
-      "description": "A 74-year-old Bethesda, Maryland, man was scammed out of more than $1 million he converted to gold bars and then unwittingly handed over to fraudsters, police in the Montgomery County say.",
-      "url": "https://wtop.com/montgomery-county/2024/07/suspect-charged-after-bethesda-man-converts-1-1m-to-gold-bars-and-unwittingly-hands-them-over-to-fraudsters/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2017/08/081817_gold-e1721179700359.jpg",
-      "publishedAt": "2024-07-26T11:32:42Z",
-      "content": "A 74-year-old Bethesda, Maryland, man was scammed out of more than $1 million he converted to gold bars and then unwittingly handed over to fraudsters, police in Montgomery County say.\r\nIts the lates… [+2492 chars]"
+      "author": "Vandana Singh",
+      "title": "Why Is Bristol Myers Squibb Stock Trading Higher On Friday? - Bristol-Myers Squibb (NYSE:BMY) - Benzinga",
+      "description": "Bristol Myers Squibb reported Q2 revenues of $12.2 billion, surpassing the consensus of $11.55B, driven by its Growth Portfolio and Eliquis. The company's adjusted EPS of $2.07 beat expectations of $1.63. Guidance for 2024 EPS is revised to $0.60-$0.90.",
+      "url": "https://www.benzinga.com/general/biotech/24/07/39982236/bristol-myers-squibb-witnesses-strong-demand-for-newer-drugs-as-q2-earnings-beat-expectations-rai",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/07/26/BristolMeyersSquibb-Courtesyof-02-LVL-Ex_0.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-07-26T12:08:34Z",
+      "content": "Subscribe to Benzingas free daily market updates and get all the major investing news and best stock picks in your inbox every morning!"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Shocking! Over 50% Indian EV owners want to get back to petrol/diesel vehicles: Report - The Times of India",
+      "description": "Cars News: A Park+ survey of 500 electric vehicle owners from Delhi NCR, Mumbai, and Bangalore revealed that 88% suffered from charging anxiety, with maintenance",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/shocking-over-50-indian-ev-owners-want-to-get-back-to-petrol/diesel-vehicles-report/articleshow/112017046.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112044669,width-1070,height-580,imgsize-28598,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-07-26T12:03:00Z",
+      "content": "Your Privacy\r\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used t… [+2093 chars]"
     },
     {
       "source": {
@@ -589,45 +706,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CoinDesk",
-      "title": "Bitcoin Analysts Express Optimism as Price Nears Resistance Level That Stymied It in May - CoinDesk",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jb2luZGVzay5jb20vbWFya2V0cy8yMDI0LzA3LzI2L2JpdGNvaW4tYW5hbHlzdHMtZXhwcmVzcy1vcHRpbWlzbS1hcy1wcmljZS1uZWFycy1yZXNpc3RhbmNlLWxldmVsLXRoYXQtc3R5bWllZC1pdC1pbi1tYXkv0gGJAWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9tYXJrZXRzLzIwMjQvMDcvMjYvYml0Y29pbi1hbmFseXN0cy1leHByZXNzLW9wdGltaXNtLWFzLXByaWNlLW5lYXJzLXJlc2lzdGFuY2UtbGV2ZWwtdGhhdC1zdHltaWVkLWl0LWluLW1heS9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T10:54:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Moscow Times",
-      "title": "Russia’s Central Bank Raises Rates to 18% Amid Inflation Woes - The Moscow Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZW1vc2Nvd3RpbWVzLmNvbS8yMDI0LzA3LzI2L3J1c3NpYXMtY2VudHJhbC1iYW5rLXJhaXNlcy1yYXRlcy10by0xOC1hbWlkLWluZmxhdGlvbi13b2VzLWE4NTgzNtIBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T10:49:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Decrypt",
-      "title": "JP Morgan Built Its Own AI Chatbot That Acts Like a 'Research Analyst': Report - Decrypt",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vZGVjcnlwdC5jby8yNDE4MzQvanAtbW9yZ2FuLWFpLWNoYXRib3QtbGxtLXN1aXRl0gE-aHR0cHM6Ly9kZWNyeXB0LmNvLzI0MTgzNC9qcC1tb3JnYW4tYWktY2hhdGJvdC1sbG0tc3VpdGU_YW1wPTE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T10:46:04Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -641,68 +719,68 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Ndtvprofit.com"
       },
-      "author": "NBC4 WCMH-TV",
-      "title": "Forbes names central Ohio employer as best place for women to work in the country - NBC4 WCMH-TV",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5iYzRpLmNvbS9uZXdzL2RhdGEtZGVzay1vaGlvL2ZvcmJlcy1uYW1lcy1jZW50cmFsLW9oaW8tZW1wbG95ZXItYXMtYmVzdC1wbGFjZS1mb3Itd29tZW4tdG8td29yay1pbi10aGUtY291bnRyeS_SAYABaHR0cHM6Ly93d3cubmJjNGkuY29tL25ld3MvZGF0YS1kZXNrLW9oaW8vZm9yYmVzLW5hbWVzLWNlbnRyYWwtb2hpby1lbXBsb3llci1hcy1iZXN0LXBsYWNlLWZvci13b21lbi10by13b3JrLWluLXRoZS1jb3VudHJ5L2FtcC8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-26T10:30:00Z",
+      "author": "Ananya Grover",
+      "title": "Federal Bank, Bank Of Baroda To Bear The Brunt Of New RBI Liquidity Rules, Analysts Say - NDTV Profit",
+      "description": "Banks with a larger share of retail deposits will see a greater impact, especially the public sector banks, says Bernstein.",
+      "url": "https://www.ndtvprofit.com/markets/federal-bank-bank-of-baroda-idfc-first-bank-to-bear-the-brunt-of-new-rbi-liquidity-rules-analysts-say",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2023-04%2F0d07fa3b-162d-41a4-904b-42d9e514ba09%2Frbi.jpg?rect=0%2C0%2C1600%2C840&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2024-07-26T08:38:59Z",
+      "content": "The Federal Bank Ltd., IDFC First Bank Ltd. and AU Small Finance Bank Ltd. will be the impacted the most among private sector banks by the RBI's draft circular on liquidity management as they have lo… [+996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Broker Research",
+      "title": "Buy Suzlon Energy; target of Rs 73: Geojit Financial Services - Moneycontrol",
+      "description": "Geojit Financial Services is bullish on Suzlon Energy has recommended buy rating on the stock with a target price of Rs 73 in its research report dated July 25, 2024.",
+      "url": "https://www.moneycontrol.com/news/business/stocks/buy-suzlon-energy-target-of-rs-73-geojit-financial-services-12779205.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/Buy_1280x720_3.png",
+      "publishedAt": "2024-07-26T07:02:45Z",
+      "content": "Geojit Financial Services research report on Suzlon Energy\r\nSuzlon energy is a vertically integrated wind turbine manufacturer and O&amp;M service provider with over 20.7GW of installed capacity acro… [+1502 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nishtha Awasthi",
+      "title": "VST Industries shares jump 7% on bonus share announcement, Q1 results - The Economic Times",
+      "description": "VST Industries' shares surged 7.4% after the company announced a 10:1 bonus share issue, despite reporting a 36% YoY decline in PAT for the June quarter. The record date for determining shareholder eligibility is August 30. Shares will be credited by Septembe…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vst-industries-shares-jump-7-on-bonus-share-announcement-q1-results/articleshow/112034440.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112034421,width-1200,height-630,imgsize-4240,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-07-26T06:23:49Z",
+      "content": "Your Privacy\r\nWe process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information wit… [+2411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Trisha Sengupta",
+      "title": "Meet Dr Sundar Pichai. Google CEO, wife Anjali Pichai get top honours from IIT Kharagpur - Hindustan Times",
+      "description": "IIT Kharagpur presented Sundar Pichai with an honorary doctorate. He penned a note thanking his alma mater for putting him on a path to Google. | Trending",
+      "url": "https://www.hindustantimes.com/trending/meet-dr-sundar-pichai-google-ceo-wife-anjali-pichai-get-top-honours-from-iit-kharagpur-101721973995694.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/26/1600x900/Sundar_Pichai_Anjali_IIT_K_Doctorate_Honorary_1721974524754_1721974525084.png",
+      "publishedAt": "2024-07-26T06:08:28Z",
+      "content": "Honorary degrees given by esteemed institutions honour distinguished individuals who have made significant contributions to a field of study or society in general. IIT Kharagpur recently bestowed tha… [+2537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrackr"
+      },
+      "author": "Harsh Upadhyay",
+      "title": "Agritech firm Waycool lays off more than 200 employees - Entrackr",
+      "description": "Agriculture supply chain firm Waycool has laid off over 200 employees across departments as the company eyes profitability.",
+      "url": "https://entrackr.com/2024/07/agritech-firm-waycool-lays-off-more-than-200-employees/",
+      "urlToImage": "https://entrackr.com/storage/2024/07/Waycool-layoff.jpg",
+      "publishedAt": "2024-07-26T05:47:29Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Indianstartupnews.com"
-      },
-      "author": "ISN Team",
-      "title": "Google CEO Sundar Pichai receives honorary doctorate from IIT-Kharagpur - Indian Startup News",
-      "description": "Pichai took to Instagram to share pictures and wrote, 'My parents always hoped I would get my doctorate, I think an honorary one still counts.'",
-      "url": "https://indianstartupnews.com/news/google-ceo-sundar-pichai-receives-honorary-doctorate-from-iit-kharagpur-6704282",
-      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indianstartupnews/media/media_files/hZm5cudRpiCBhUoEzFbe.png",
-      "publishedAt": "2024-07-26T10:03:10Z",
-      "content": "India-born Google CEO Sundar Pichai has received an honorary Doctor of Science degree from his alma mater, IIT Kharagpur.\r\nPichai took to Instagram to share pictures and wrote, \"My parents always hop… [+2063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "Meghna Sen",
-      "title": "IREDA shares may hit ₹330, but you can buy at these levels, as per this analyst - CNBCTV18",
-      "description": "Market expert Ravi Singh recommended investors to consider buying in the range of ₹250-₹260. He advises maintaining a stop loss of ₹240.",
-      "url": "https://www.cnbctv18.com/market/ireda-share-price-may-hit-rs-330-but-one-can-buy-at-these-levels-as-per-analyst-2024-returns-19449573.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2023/04/stocks-e1687419425514.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-07-26T07:22:14Z",
-      "content": "Shares of Indian Renewable Energy Development Agency (IREDA) Ltd. were trading with gains of as much as 3% on Friday, July 26. The multibagger stock has cooled off by 16% from their recent peak of 31… [+2111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Charlotte Yang and Sangmi Cha",
-      "title": "TSMC Joins Global Tech Rout as Trading Resumes After Typhoon - Yahoo Finance",
-      "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. shares fell the most in three months upon trading resumption, joining a global tech rout as investors...",
-      "url": "https://finance.yahoo.com/news/tsmc-joins-global-tech-rout-012223817.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wAECYMPMBXc6I44q7XMs7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/bloomberg_technology_68/f0e4cd0d9e8bfededa848055cc64d67e",
-      "publishedAt": "2024-07-26T07:07:07Z",
-      "content": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. shares fell the most in three months upon trading resumption, joining a global tech rout as investors dramatically soured on the promises of arti… [+2678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgets360.com"
-      },
-      "author": "Shaurya Tomer, David Delima",
-      "title": "Jio Things, MediaTek Unveil 4G Smart Android Digital Cluster, Smart Module for Two-Wheelers EVs in India - Gadgets 360",
-      "description": "Jio Things, in collaboration with MediaTek, announced the launch of the “Made in India” 4G Smart Android Digital Cluster and 4G Smart Module in India on Thursday. The devices are part of Jio Things’ Internet of Things (IoT) solutions for the two-wheeler and e…",
-      "url": "https://www.gadgets360.com/auto/news/jio-things-mediatek-4g-smart-android-digital-cluster-module-launch-in-india-features-6191998",
-      "urlToImage": "https://i.gadgets360cdn.com/large/jio_things_android_cluster_1721975339211.jpg",
-      "publishedAt": "2024-07-26T06:55:57Z",
-      "content": "Jio Things, in collaboration with Taiwanese chipmaker MediaTek, announced the launch of the Made in India 4G Smart Android Digital Cluster and 4G Smart Module in India on Thursday. The devices are pa… [+1636 chars]"
     },
     {
       "source": {
@@ -716,123 +794,6 @@
       "urlToImage": "https://asiatimes.com/wp-content/uploads/2024/07/Modi-Xi-Jinping-China-India.jpg",
       "publishedAt": "2024-07-26T05:26:30Z",
       "content": "Indias Finance Minister Nirmala Sitharaman on July 25 endorsed her economic advisors proposal to open the country to direct investment from China, effectively frozen since the Sino-Indian border clas… [+7551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": "Reema Tendulkar",
-      "title": "Cyient shares top Nifty 500 loser after 9% drop — Explained why - CNBCTV18",
-      "description": "Nuvama termed Cyient's earnings as a \"shocking quarter\" but added that the cheap valuations should limit any potential downside.",
-      "url": "https://www.cnbctv18.com/market/cyient-share-price-top-nifty-500-loser-q1-results-guidance-cut-fy25-engineering-19449482.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2022/08/internet-shutdown-shutterstock.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-07-26T04:42:13Z",
-      "content": "Shares of Cyient Ltd. fell over 9% on Friday and are the top loser on the Nifty 500 index after the company's June quarter results, which were reported after market hours on Thursday.Revenue for the … [+1594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dsij.in"
-      },
-      "author": "Kiran Shroff",
-      "title": "LIC-backed power generation company bags new order worth Rs 13,947.50 crore from Government of Mizoram - Dalal Street Investment Journal",
-      "description": "As of June 2024, the Life Insurance Corporation of India (LIC) owns 2.26 per cent while FIIs & DIIs increased their stake in June 2024 compared to March 2024.",
-      "url": "https://www.dsij.in/dsijarticledetail/lic-backed-power-generation-company-bags-new-order-worth-rs-1394750-crore-from-government-of-mizoram-40193",
-      "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/40193/SJVN.jpg",
-      "publishedAt": "2024-07-26T04:07:30Z",
-      "content": "The stock gave multibagger returns of 175 per cent in just 1 year while the BSE Sensex Index is up by 20 per cent. \r\nSatluj Jal Vidyut Nigam Ltd (SJVN Ltd) has secured a Letter of Intent from the Gov… [+2891 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Lauren Irwin",
-      "title": "California Supreme Court rules Uber, Lyft drivers classified as contractors - The Hill",
-      "description": "The California Supreme Court ruled Thursday that Uber and Lyft drivers are classified as independent contractors instead of employees. The court ruled in favor of upholding a years-old ballot measure, Proposition 22, ending the legal dispute that could have r…",
-      "url": "https://thehill.com/homenews/state-watch/4793801-california-supreme-court-uber-lyft-drivers-contractors/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/10/lyft_uber_gig_airport_istock_1011-e1665522440552.jpeg?w=1280",
-      "publishedAt": "2024-07-26T01:07:00Z",
-      "content": "The California Supreme Court ruled Thursday that Uber and Lyft drivers are classified as independent contractors instead of employees.\r\nThe court ruled in favor of upholding a years-old ballot measur… [+2528 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ruchita Sonawane",
-      "title": "Bank stocks fall for a third day on Q1 slip - The Economic Times",
-      "description": "Major private banks like Kotak, Axis and HDFC have reported their earnings which have not been up to the mark and most missed estimates,  said Shreyansh Shah, Research Analyst, Stoxbox.  Investors have booked profits following the results leading to the decli…",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-fall-for-a-3rd-day-on-q1-slip/articleshow/112028017.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112028019,width-1200,height-630,imgsize-43798,overlay-etmarkets/photo.jpg",
-      "publishedAt": "2024-07-25T23:57:31Z",
-      "content": "Mumbai: Bank shares stretched losses to the third straight day on Thursday, reversing a portion of the recent gains, dragged down by weaker-than-expected first-quarter earnings from these lenders The… [+3158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "TOM KRISHER",
-      "title": "Automakers hit 'significant storm,' as buyers reject lofty prices at time of huge capital outlays - Yahoo Finance",
-      "description": "Investors are punishing automakers' stocks this week after second-quarter earnings reports exposed industrywide issues of slowing sales and high prices, just...",
-      "url": "https://finance.yahoo.com/news/automakers-hit-significant-storm-buyers-201410852.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ts_OAokS4IrmsKqdxgN4xQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7fa178de00113994250d2dbce05d9511",
-      "publishedAt": "2024-07-25T20:14:10Z",
-      "content": "DETROIT (AP) Investors are punishing automakers' stocks this week after second-quarter earnings reports exposed industrywide issues of slowing sales and high prices, just as the companies are having … [+4955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FX Empire"
-      },
-      "author": "Bruce Powers",
-      "title": "Gold Price Forecast: Drops Below Key Levels, Targets Lower Prices - FX Empire",
-      "description": "Gold’s decline continues, breaking key levels and targeting 2,332, with potential further downside if support zones fail.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-drops-below-key-levels-targets-lower-prices-1448873",
-      "urlToImage": "https://responsive.fxempire.com/v7/_fxempire_/2024/07/Gold-Purple-2-4.jpg?func=cover&q=70&width=700",
-      "publishedAt": "2024-07-25T20:14:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Business Standard",
-      "title": "BSNL income up at Rs 21,302 cr in FY24; records lowest debt among telcos - Business Standard",
-      "description": "State-owned BSNL's total income increased by about 3 per cent to Rs 21,302 crore in the financial year 2023-24, Parliament was informed on Thursday.",
-      "url": "https://www.business-standard.com/companies/news/bsnl-income-up-at-rs-21-302-cr-in-fy24-records-lowest-debt-among-telcos-124072501396_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/29/thumb/featurecrop/400X400/1714395503-766.jpg",
-      "publishedAt": "2024-07-25T16:59:57Z",
-      "content": "Govt has approved three revival packages for BSNL and MTNL, comprising Rs 69,000 crore support in 2019, Rs 1.64 trillion in 2022 and Rs 89,000 crore in 2023 for allotment of 4G and 5G spectrum\r\nPhoto… [+1573 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Broker Research",
-      "title": "Buy Bajaj Finance; target of Rs 8300: Sharekhan - Moneycontrol",
-      "description": "Sharekhan is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 8300 in its research report dated July 24, 2024.",
-      "url": "https://www.moneycontrol.com/news/business/buy-bajaj-finance-target-of-rs-8300-sharekhan-12778470.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/01/Buy_1-378x213.jpg",
-      "publishedAt": "2024-07-25T13:09:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Delta News Hub",
-      "title": "July 2024 operation - Delta News Hub",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy5kZWx0YS5jb20vdGFncy9qdWx5LTIwMjQtb3BlcmF0aW9u0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-07-23T13:21:30Z",
-      "content": null
     }
   ]
 }
