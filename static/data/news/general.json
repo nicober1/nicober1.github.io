@@ -1,71 +1,370 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nectar Gan",
+      "title": "China fires ICBM into Pacific Ocean in first such public test in decades as regional tensions flare - CNN",
+      "description": "China says it successfully fired an intercontinental ballistic missile into the Pacific Ocean on Wednesday, a rare public test that comes amid heightened tensions with the United States and its regional allies.",
+      "url": "https://www.cnn.com/2024/09/25/asia/china-icbm-test-pacific-ocean-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1178444529.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-25T07:47:00Z",
+      "content": "China says it successfully fired an intercontinental ballistic missile into the Pacific Ocean on Wednesday, a rare public test that comes amid heightened tensions with the United States and its regio… [+4371 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "KSBY San Luis Obispo News"
+      },
+      "author": "KSBY Staff",
+      "title": "Update: SpaceX successfully launches Falcon 9 on Tuesday evening - KSBY News",
+      "description": "SpaceX plans to launch a Falcon 9 rocket from Vandenberg Space Force Base at 9:01 p.m. on Tuesday, Sept. 24.",
+      "url": "https://www.ksby.com/news/local-news/spacex-planning-rocket-launch-tuesday-evening-at-vandenberg-space-force-base",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/83a599c/2147483647/strip/true/crop/645x339+0+12/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5a%2F18%2Fc486317547d3a73f98b429186975%2Fspacex.png",
+      "publishedAt": "2024-09-25T06:49:44Z",
+      "content": "(Update, 11:48 p.m.) - The Falcon 9 launched as planned from Vandenberg Space Force Base on Tuesday evening.\r\nThe rocket launched at 9:01 p.m.\r\nDespite landing on a drone ship in the Pacific, some re… [+616 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ABBY SEWELL, MELANIE LIDMAN",
+      "title": "Hezbollah fires missile at Tel Aviv in further escalation after heavy Israeli strikes on Lebanon - The Associated Press",
+      "description": "Hezbollah has launched a missile at Tel Aviv in its deepest strike yet into Israel, marking a further escalation after Israeli strikes on Lebanon killed hundreds of people. The Israeli military said it intercepted the projectile, which set off air raid sirens…",
+      "url": "https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2446818/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2F5a%2F583e7031be144f19f459fb9964fe%2Fc1f8ee0cd98d4eb981574fad4dcebf40",
+      "publishedAt": "2024-09-25T06:28:00Z",
+      "content": "BEIRUT (AP) Hezbollah launched a missile at Tel Aviv early Wednesday in its deepest strike yet into Israel, marking a further escalation after Israeli strikes on Lebanon killed hundreds of people.\r\nT… [+6548 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Luc Cohen",
+      "title": "Bankman-Fried's ex-girlfriend Ellison gets two-year sentence over crypto fraud - Reuters",
+      "description": "Former cryptocurrency executive Caroline Ellison was sentenced on Tuesday to two years in prison for her role in her former boyfriend Sam Bankman-Fried's theft of $8 billion in customer funds from the now-bankrupt FTX exchange he founded, even as the judge re…",
+      "url": "https://www.reuters.com/world/us/bankman-frieds-ex-girlfriend-ellison-be-sentenced-over-crypto-fraud-2024-09-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MI4Q2HL5NJOYFPHT4PKVWXHTDM.jpg?auth=380b5fe7e65624c328654717a83d93e291913c3fb4cdaddd19e7df117e7efc6e&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-25T06:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Tom Wilson, Kevin Buckland",
+      "title": "China stocks extend stimulus rally as rest of Asia struggles - Reuters",
+      "description": "Stocks globally slipped on Wednesday, with a continued stimulus-fueled rally in China the one bright spot, while the dollar came under pressure and crude oil retreated from a multi-week high.",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U3PEFRQRPFNXPJZTGGVCJP5P64.jpg?auth=97007a8e56ccc5f795cf7b824e08ba079acab9710b54c4631ca7122ff93c7bec&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-25T05:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Dan Lamothe",
+      "title": "U.S. Navy oil tanker damaged at sea in Middle East - The Washington Post",
+      "description": "The USNS Big Horn was traveling with an aircraft carrier strike group nearby when it suffered an undisclosed “incident” and began to flood.",
+      "url": "https://www.washingtonpost.com/national-security/2024/09/24/navy-big-horn-damaged-middle-east/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVIJ53JRVEUQ5IRQMGHUN6HMIE_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-09-25T05:12:39Z",
+      "content": "The U.S. Navy disclosed Tuesday that one of its oil tankers in the Middle East suffered significant damage while at sea, complicating a fraught deterrence mission as hostilities between Israel and Le… [+3528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Caught cold by UniCredit’s swoop on Commerzbank, Germany will want to avoid a national embarrassment - CNBC",
+      "description": "Italy's UniCredit appears to have caught German authorities off guard with a potential multibillion euro merger of Frankfurt-based Commerzbank.",
+      "url": "https://www.cnbc.com/2024/09/25/german-authorities-caught-cold-by-unicredits-swoop-on-commerzbank.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038292-1727181784625-gettyimages-2170765731-GERMANY_COMMERZBANK.jpeg?v=1727181861&w=1920&h=1080",
+      "publishedAt": "2024-09-25T05:08:53Z",
+      "content": "A protestor holds a placard with a slogan reading \"Stop Merger Horror\" during a union demonstration outside the Commerzbank AG headquarters in Frankfurt, Germany, on Tuesday, Sept. 24, 2024.\r\nItaly's… [+4761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T21:58:00Z",
-      "content": "[Removed]"
+      "title": "Trump campaign says US intelligence warned of Iran assassination threats - BBC.com",
+      "description": "Donald Trump was told of \"real and specific threats from Iran to assassinate him\", his campaign says.",
+      "url": "https://www.bbc.com/news/articles/cd0z2394ey2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d65b/live/d0f82a90-7aec-11ef-a87d-9bd73e08eb81.png",
+      "publishedAt": "2024-09-25T04:36:34Z",
+      "content": "Donald Trump has been briefed by US intelligence on threats from Iran to assassinate him, his campaign said.\r\nThe Republican presidential candidate was briefed \"regarding real and specific threats fr… [+2906 chars]"
     },
     {
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": null,
+        "name": "Hollywood Reporter"
       },
-      "author": "DAVID A. LIEB Associated Press, JIM SALTER Associated Press",
-      "title": "Supreme Court allows Missouri to proceed with the execution of death row inmate Marcellus Williams - ABC News",
-      "description": "The Supreme Court is allowing Missouri to proceed with its plan to execute death row inmate Marcellus Williams",
-      "url": "https://abcnews.go.com/US/wireStory/lawyers-seek-supreme-court-intervention-hours-missouri-inmates-113961065",
-      "urlToImage": "https://i.abcnewsfe.com/a/4e83d56a-fdec-4dab-bb50-5f1d53c242e0/wirestory_8be20e2f252992610a30fa0cfef4185a_16x9.jpg?w=1600",
-      "publishedAt": "2024-09-24T21:45:00Z",
-      "content": "BONNE TERRE, Mo. -- A Missouri man is scheduled to be executed by lethal injection Tuesday evening after the U.S. Supreme Court allowed the state to proceed with its plan to execute him, rejecting a … [+6017 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Dave Michaels, Angel Au-Yeung",
-      "title": "Justice Department Sues Visa, Alleges Illegal Monopoly in Debit-Card Payments - The Wall Street Journal",
-      "description": "Largest card network in U.S. blocked rivals through payments and higher fees levied on merchants, government says",
-      "url": "https://www.wsj.com/finance/regulation/justice-department-sues-visa-alleges-illegal-monopoly-in-debit-card-payments-a9ecd39c",
-      "urlToImage": "https://images.wsj.net/im-318374/social",
-      "publishedAt": "2024-09-24T21:26:00Z",
-      "content": "The Justice Department sued VisaV-5.49%decrease; red down pointing triangle\r\non Tuesday on allegations that it illegally monopolized the market for consumers payments worth trillions of dollars every… [+586 chars]"
+      "author": "Carly Thomas",
+      "title": "Diddy and Kim Porter’s Children Call Claims of a Memoir and Conspiracy Surrounding Her Death “Simply Untrue” - Hollywood Reporter",
+      "description": "Christian (King), D’Lila and Jessie Combs, as well as Quincy Brown — whom Porter shares with Al B. Sure! — slam recent accusations surrounding their late mother: \"We are deeply saddened that the world has made a spectacle of what has been the most tragic even…",
+      "url": "http://www.hollywoodreporter.com/news/general-news/diddy-kim-porter-children-memoir-conspiracy-death-untrue-1236011441/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/09/Kim-Porter-getty-H-2024.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2024-09-25T04:13:04Z",
+      "content": "Kim Porter‘s four children are speaking out, calling claims that their late mother wrote a memoir “simply untrue.”\r\nChristian (King) Combs and twins, D’Lila and Jessie Combs — whom Porter shares with… [+2570 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Allison Morrow, Kara Scannell",
-      "title": "Caroline Ellison, whose testimony helped convict Sam Bankman-Fried, sentenced to two years in prison - CNN",
-      "description": "A federal judge sentenced FTX co-founder Sam Bankman-Fried’s former girlfriend to two years in prison, citing her extensive cooperation with prosecutors that led to the conviction of the former face of the cryptocurrency industry in one of the largest financi…",
-      "url": "https://www.cnn.com/2024/09/24/business/caroline-ellison-sentencing-nightcap/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-11t153611z-429207386-rc2xp3ar20ye-rtrmadp-3-usa-bankmanfried-ellison.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-24T20:48:45Z",
-      "content": "A version of this story appeared in CNN Business Nightcap newsletter. To get it in your inbox, sign up for free, here.\r\nA federal judge sentenced FTX co-founder Sam Bankman-Frieds former girlfriend t… [+4888 chars]"
+      "author": "Mary Gilbert, Amy Simonson, Susannah Cullinane",
+      "title": "Evacuations begin in Florida as the state faces a major hurricane strike from Helene - CNN",
+      "description": "Evacuations are underway and time is running for Floridians to prepare for Helene, which threatens to hit as the strongest storm to make landfall in the United States in over a year.",
+      "url": "https://www.cnn.com/2024/09/24/weather/helene-florida-storm-preparations/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ecmwf-model-wind-storm-snapshot-no-label-092424.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-25T03:31:00Z",
+      "content": "Evacuations are underway and time is running out for Floridians to prepare for Tropical Storm Helene, which threatens to hit as the strongest storm to make landfall in the United States in over a yea… [+7931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "ABC7 Chicago Digital Team",
+      "title": "Northwestern University, University of Chicago and University of Illinois Urbana-Champaign ranked among top 40 schools in US - ABC7 Chicago",
+      "description": "Three Illinois universities are ranked among the top 40 in the nation in U.S. News and World Report's annual list for 2025.",
+      "url": "https://abc7chicago.com/post/northwestern-university-chicago-illinois-urbana-champaign-ranked-among-top-40-schools-us/15351288/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/6197348_051920-wabc-generic-school-college-shutterstock-img.jpg?w=1600",
+      "publishedAt": "2024-09-25T03:29:50Z",
+      "content": "CHICAGO (WLS) -- Three Illinois universities are ranked among the top 40 in the nation in U.S. News and World Report's annual list for 2025.\r\nThe list came out Tuesday.\r\nNorthwestern University shot … [+520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Kim Bellware",
+      "title": "Missouri executes Marcellus Williams despite prosecutors’ objections - The Washington Post",
+      "description": "Felicia “Licia” Gayle was found stabbed to death in her suburban St. Louis home in 1998. Marcellus Williams said he didn’t kill her.",
+      "url": "https://www.washingtonpost.com/politics/2024/09/24/marcellus-williams-execution-missouri-faq/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3JOKAOK6NFWJHWZJIGXXZ5LLQ.jpg&w=1440",
+      "publishedAt": "2024-09-25T03:28:00Z",
+      "content": "Marcellus Williams, who spent more than two decades on Missouris death row convicted of a 1998 murder that he said he did not commit, died by lethal injection Tuesday evening after a lengthy and comp… [+5892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Dylan Svoboda",
+      "title": "Jenn Sterger has no sympathy for Brett Favre after he says he has Parkinson’s disease - New York Post ",
+      "description": "Jenn Sterger doesn’t have any sympathy for Brett Favre’s Parkinson’s disease plight.",
+      "url": "https://nypost.com/2024/09/24/sports/jenn-sterger-has-no-sympathy-for-brett-favre-has-parkinsons-revelation/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-7it36cuqx-1727230746706.jpg?quality=75&strip=all&1727216374&w=1024",
+      "publishedAt": "2024-09-25T02:31:00Z",
+      "content": "Jennifer Sterger seemingly doesnt have any sympathy for Brett Favres Parkinsons disease plight. \r\nSterger, a former Jets host who accused the Pro Football Hall of Fame quarterback of sending her inap… [+2256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Charisma Madarang",
+      "title": "Chappell Roan Clarifies Election Comments: ‘Nuance to What I Say’ - Rolling Stone",
+      "description": "Chappell Roan took to TikTok on Tuesday to clarify statements she made about the 2024 election during an interview with The Guardian last week.",
+      "url": "http://www.rollingstone.com/music/music-news/chappell-roan-clarifies-election-comments-1235111555/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/09/chappell-roan-election.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-09-25T02:26:15Z",
+      "content": "Chappell Roan took to TikTok on Tuesday to clarify statements she made about the 2024 election during an interview with The Guardian last week. In the profile, Roan explained why she has not yet made… [+2593 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Andrew Kaczynski, Em Steck",
+      "title": "Deleted tweets, canceled events, erased endorsements: How Republicans are fleeing from Mark Robinson - CNN",
+      "description": "Republicans running for office in North Carolina and around the country are distancing themselves from Mark Robinson, deleting photos of themselves side-by-side with the embattled Republican nominee for governor and removing any reference to his endorsement f…",
+      "url": "https://www.cnn.com/2024/09/24/politics/mark-robinson-republicans-fleeing/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cstill-20981792-105731-3359-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-25T02:15:00Z",
+      "content": "Republicans running for office in North Carolina and around the country are distancing themselves from Mark Robinson, deleting photos of themselves side by side with the embattled Republican nominee … [+6018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jordan Novet",
+      "title": "OpenAI just launched advanced voice mode for audio chats with ChatGPT. Here's how to use it - CNBC",
+      "description": "If you're a paying customer, ChatGPT will respond to your spoken questions and comments quickly. But there's a limit to how much you can use it in a single day.",
+      "url": "https://www.cnbc.com/2024/09/24/how-to-use-chatgpt-advanced-voice-mode-from-openai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038698-1727224394854-OpenAI_Voice.jpg?v=1727224479&w=1920&h=1080",
+      "publishedAt": "2024-09-25T02:11:00Z",
+      "content": "ChatGPT is ready for more natural audio chats.\r\nOpenAI said Tuesday that its popular chatbot now has an advanced voice feature for people who pay for the premium service. The tool allows for more flu… [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sri Lanka's new president dissolves parliament - BBC.com",
+      "description": "Anura Kumara Dissanayake calls a general election, dissolving the parliament where his party only holds three seats.",
+      "url": "https://www.bbc.com/news/articles/c05gnm05qmdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0a29/live/e7728f30-7aa2-11ef-94ab-2d69b09e523d.jpg",
+      "publishedAt": "2024-09-25T02:10:34Z",
+      "content": "Sri Lanka's new president has dissolved parliament to make way for a snap general election. \r\nAnura Kumara Dissanayake dissolved the 225-member parliament in which his left-leaning National People's … [+2634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Emily Longeretta",
+      "title": "‘Dancing With the Stars’: Hollywood Night Sends Home Two Celebs in First Double Elimination of Season 33 - Variety",
+      "description": "The first two celebrities were eliminated on Season 33 of 'Dancing With the Stars.'",
+      "url": "https://variety.com/2024/tv/news/dancing-with-the-stars-anna-delvey-eliminated-tori-spelling-1236154987/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/174291_EM201002.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-09-25T02:09:00Z",
+      "content": "SPOILER ALERT: This story contains spoilers for the Sept. 24 episode of “Dancing With the Stars.”\r\nAnd then there were 11. The first two celebrities were eliminated during “Oscars Night,” the Tuesday… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "EDITH M. LEDERER",
+      "title": "Ukraine’s president calls for unspecified global ‘action’ to force Russia into peace - The Associated Press",
+      "description": "Ukraine’s president is dismissing the notion of peace talks with Moscow. He called instead for unspecified global “action” to force Russia into peace for invading his country and to comply with the U.N. Charter’s requirement that every country respect the sov…",
+      "url": "https://apnews.com/article/un-ukraine-zelenskyy-russia-peace-territorial-blinken-db3954c29fa826601f42101e05fd6db0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/be2b087/2147483647/strip/true/crop/2816x1584+0+147/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F14%2F7c4bc6f193daac3fdd34b9f8c36d%2F7b0b2208a36a48699e179f418af30b85",
+      "publishedAt": "2024-09-25T01:48:00Z",
+      "content": "UNITED NATIONS (AP) Ukraines president dismissed the notion of peace talks with Moscow on Tuesday, calling instead for unspecified global action to force Russia into peace for invading his country an… [+4514 chars]"
     },
     {
       "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
-      "author": "Zachary Schermele",
-      "title": "Government watchdog blames Education Department leadership for chaotic FAFSA rollout - USA TODAY",
-      "description": "In two damning reports published Tuesday, the Government Accountability Office unraveled what went wrong with college financial aid this year.",
-      "url": "https://www.usatoday.com/story/news/education/2024/09/24/fafsa-gao-reports/75349622007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/24/USAT/75365689007-xxx-20240924-usat-jm-fasf-ahearing-004.JPG?crop=5099,2869,x0,y265&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-09-24T20:45:34Z",
-      "content": "WASHINGTON For many American families, applying for college financial aid this year was hard. On Tuesday, it became shockingly clear just how hard. \r\nA student born in the year 2000, for example, cou… [+6120 chars]"
+      "author": "KiMi Robinson",
+      "title": "Johnny Depp calls Amber Heard defamation trial 'a soap opera' while promoting new film - USA TODAY",
+      "description": "During a press conference for the movie he directed, \"Modi — Three Days on the Wing of Madness,\" Depp mused about his similarities to the character.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/09/24/johnny-depp-amber-heard-trial-comment-soap-opera/75369088007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/24/USAT/75369251007-2174192310.jpg?crop=3999,2250,x0,y207&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-09-25T00:58:46Z",
+      "content": "Two years after Johnny Depp and Amber Heard's defamation trial, the \"Pirates of the Caribbean\" actor is calling the courtroom experience a \"soap opera.\"\r\nThe comment was made Tuesday while musing abo… [+3275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Staff",
+      "title": "Jayden Daniels shines, Bills look scary & Raiders HC calls out his players | McCoy & Van Noy - Yahoo Sports",
+      "description": "6x Pro Bowl DT Gerald McCoy and 2x Super Bowl winner Kyle Van Noy recap their favorite moments from week 3 in the NFL, give their perspective on Antonio...",
+      "url": "https://sports.yahoo.com/jayden-daniels-shines-bills-look-scary--raiders-hc-calls-out-his-players--mccoy--van-noy-004337227.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IiR9NTgYa_igL3xIIm_a.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/941e9770-7aca-11ef-bfdf-577ece376c08",
+      "publishedAt": "2024-09-25T00:43:00Z",
+      "content": "On this episode of McCoy &amp; Van Noy, 6x Pro Bowl DT Gerald McCoy and 2x Super Bowl winner Kyle Van Noy recap their favorite moments from week 3 in the NFL, starting with the two games that just ha… [+1665 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "POLITICO",
+      "title": "Inside the break between the US and Israel over how to handle Hezbollah - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/09/24/us-israel-hezbollah-diplomacy-00180860",
+      "urlToImage": null,
+      "publishedAt": "2024-09-25T00:39:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Michael Voepel, Alexa Philippou, Kevin Pelton",
+      "title": "What's next for the Sparks after Los Angeles, coach Curt Miller part ways? - ESPN",
+      "description": "The factors -- including an unlucky string of illnesses -- that led to a 25-55 record in Miller's two seasons in Los Angeles, and his departure.",
+      "url": "https://www.espn.com/wnba/story/_/id/41425729/wnba-2024-los-angeles-sparks-curt-miller-next-head-coach-reaction",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0924%2Fr1391341_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-09-25T00:17:00Z",
+      "content": "Sep 24, 2024, 08:17 PM ET\r\nAfter just two seasons, the Los Angeles Sparks have parted ways with coach Curt Miller, who previously spent seven seasons with the Connecticut Sun.\r\nThe Sparks had the lea… [+10396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "The science behind the 'mini moon' entering Earth's orbit - BBC.com",
+      "description": "An asteroid is going to circle our planet for two months this autumn before going on its way.",
+      "url": "https://www.bbc.com/reel/video/p0jsl446/the-science-behind-the-mini-moon-entering-earth-s-orbit",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024xn/p0jslj3y.jpg",
+      "publishedAt": "2024-09-25T00:05:04Z",
+      "content": "An asteroid called 2024 PT5 will go around the Earth for two months this autumn. Why is it called a 'mini moon' and can you see it?\r\nVideo by Ellenoor Shameli\r\n9 hours ago"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kathryn Watson",
+      "title": "Biden notes \"remarkable sweep of history\" in his final United Nations address as president - CBS News",
+      "description": "\"I know many look at the world today and see difficulties and react with despair,\" President Biden said before the United Nations General Assemby. \"But I do not.\"",
+      "url": "https://www.cbsnews.com/news/joe-biden-united-nations-general-assembly-final-speech/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/24/3879df0f-f668-47a1-b216-2c1b98927b1c/thumbnail/1200x630g2/5537b0ac2bbe5c25c1f909e15c782db7/ap24268519795358.jpg?v=36448e13600c4b59440e954caff28fc1",
+      "publishedAt": "2024-09-24T23:59:05Z",
+      "content": "President Biden on Tuesday delivered his final speech to the United Nations General Assembly as president — and what could be one of his last speeches on the world stage — capping a decades-long poli… [+5104 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Mashable",
+      "title": "PlayStation State of Play 2024: Everything announced and revealed during the September event - Mashable",
+      "description": null,
+      "url": "https://mashable.com/article/sony-playstation-state-of-play-september-roundup",
+      "urlToImage": null,
+      "publishedAt": "2024-09-24T22:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US accuses Visa of debit card monopoly - BBC.com",
+      "description": "The Department of Justice said Visa's actions had slowed competition and raised prices across the economy.",
+      "url": "https://www.bbc.com/news/articles/c05gn932y38o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fb4d/live/82ea1cd0-7aa8-11ef-9f7d-0bfee4646f5a.jpg",
+      "publishedAt": "2024-09-24T22:27:04Z",
+      "content": "The US has filed a lawsuit against Visa, accusing the financial giant of illegally stifling competition to maintain a monopoly over the debit card market.\r\nIt said Visa had punished companies that wa… [+3201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UploadVR"
+      },
+      "author": "David Heaney",
+      "title": "Walmart Quest 3S Display Reveals Resolution, Controllers, Included Batman: Arkham Shadow - UploadVR",
+      "description": "An early Quest 3S Walmart display reveals the repeatedly leaked headset's resolution and that it comes with controllers and Batman: Arkham Shadow.",
+      "url": "https://www.uploadvr.com/early-quest-3s-in-store-display/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2024/09/Quest-3S-Walmart-in-store-display-leak-1.png",
+      "publishedAt": "2024-09-24T22:18:47Z",
+      "content": "An early Quest 3S in-store display reveals the repeatedly leaked headset's resolution, and that it comes with controllers and Batman: Arkham Shadow.\r\nPhotos of the Quest 3S display in Walmart, seemin… [+1271 chars]"
     },
     {
       "source": {
@@ -83,262 +382,28 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "BBC News"
       },
-      "author": "Oscar Gonzalez",
-      "title": "ChatGPT’s New Voice Assistant Is Here to Creep You Out - Gizmodo",
-      "description": "All paying subscribers should have access this week.",
-      "url": "https://gizmodo.com/chatgpts-new-voice-assistant-is-here-to-creep-you-out-2000502875",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Screenshot-2024-09-24-at-3.24.38 PM-copy.jpg",
-      "publishedAt": "2024-09-24T20:27:04Z",
-      "content": "OpenAI’s much-anticipated ChatGPT voice assistant is rolling out this week to all paying subscribers, and like a lot of features regarding AI, it’s a little creepy in action.\r\nAdvanced Voice Mode (AV… [+2508 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dan Stillman",
-      "title": "How John suddenly exploded into a Category 3 hurricane before striking Mexico’s coast - The Washington Post",
-      "description": "John’s abrupt, unpredicted rapid intensification from a tropical storm to major hurricane was eerily reminiscent of Hurricane Otis.",
-      "url": "https://www.washingtonpost.com/weather/2024/09/24/hurricane-john-pacific-mexico-rapid-intensification/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-24-2024/t_75949ad10a3c4784a293780f5ac7c467_name_1___1920x1080___30p_00_00_14_26291_Still022.jpg&w=1440",
-      "publishedAt": "2024-09-24T20:01:13Z",
-      "content": "Hurricane John was forecast to be a tropical storm, but in just one day, the system suddenly blew up into a powerful Category 3, striking the southern Mexico coast on Monday evening. With peak winds … [+4321 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Live updates: Ozempic and Wegovy drugmaker treating US as its 'cash cow', Sanders says - BBC.com",
+      "description": "Lars Fruergaard Jørgensen, Novo Nordisk's CEO, says his company is working to expand manufacturing to meet the supply shortages.",
+      "url": "https://www.bbc.com/news/live/c04p5916k4xt",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+      "publishedAt": "2024-09-24T18:11:15Z",
+      "content": "Senator Tammy Baldwin asks if Novo Nordisk is shifting focus away from manufacturing insulin - a life-saving drug for those facing Type 1 and Type 2 diabetes - to instead focus on GLP-1, the weight l… [+1075 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "NBC4 WCMH-TV"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T20:00:42Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Eric Levenson",
-      "title": "Woman accuses Sean ‘Diddy’ Combs and bodyguard of drugging and assaulting her in 2001 and filming it - CNN",
-      "description": "A woman accused music mogul Sean “Diddy” Combs and his bodyguard of drugging and assaulting her in 2001 and filming the attack, according to a lawsuit filed Tuesday in a federal court in New York.",
-      "url": "https://www.cnn.com/2024/09/24/entertainment/sean-diddy-combs-bodyguard-lawsuit/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173424500.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-24T19:53:00Z",
-      "content": "Editors Note: This story includes graphic descriptions some readers may find disturbing.\r\nA woman accused music mogul Sean Diddy Combs and his bodyguard of drugging and assaulting her in 2001 and fil… [+3460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Katie Campione",
-      "title": "‘Monsters: The Lyle and Erik Menendez Story’ Tops Netflix Charts In Debut Weekend But Can’t Beat ‘Dahmer’ - Deadline",
-      "description": "'Monsters: The Lyle and Erik Menendez Story' has climbed the Netflix Top 10 charts in its debut weekend on the streamer.",
-      "url": "http://deadline.com/2024/09/monsters-lyle-and-erik-menendez-story-tops-netflix-charts-debut-weekend-dahmer-1236098319/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/Monsters-The-Lyle-and-Erik-Menendez-Story-and-Monster-The-Jeffrey-Dahmer-Story.jpg?w=1024",
-      "publishedAt": "2024-09-24T19:53:00Z",
-      "content": "It shouldn’t come as a shocker that the latest installment of Ryan Murphy‘s Monster anthology has taken over the Netflix charts.\r\nAfter the, well, monster performance that Dahmer put up in 2022, Mons… [+1709 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "This could be the closest presidential election since 1876 - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/538/closest-presidential-election-1876/story?id\\\\u003d113956232",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T19:23:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Rishi Kant",
-      "title": "Smartsheet to go private in $8.4 bln deal with PE firms Vista and Blackstone - Reuters",
-      "description": "Workplace collaboration software maker Smartsheet will be taken private by Vista Equity Partners and Blackstone in a deal worth $8.4 billion, the companies said on Tuesday, in the latest sign that buyout deals were picking up steam after a dull 2023.",
-      "url": "https://www.reuters.com/markets/deals/pe-firms-vista-blackstone-buy-software-maker-smartsheet-84-bln-2024-09-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4H5GIHVVIFJR5DW3KYTJOZ5U34.jpg?auth=c680d3c82f6f0325d6314c56239d3d41db526f925500a7160ec76ea4f3596d91&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-09-24T19:00:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KGW.com"
-      },
-      "author": "Anthony Macuk (KGW)",
-      "title": "Meteor streaks over western Oregon Monday night - KGW.com",
-      "description": "Hundreds of people took to social media to report seeing the bright flash at around 10:45 p.m., and a few videos of the event have surfaced online.",
-      "url": "https://www.kgw.com/article/news/local/meteor-fireball-oregon-portland/283-d9b018ea-aa66-4fb1-b0e7-4b98b1fdc3ce",
-      "urlToImage": "https://media.kgw.com/assets/KGW/images/bc89d386-c143-40a1-ab5b-d2310b721bef/20240924T202633/bc89d386-c143-40a1-ab5b-d2310b721bef_1140x641.jpg",
-      "publishedAt": "2024-09-24T18:48:00Z",
-      "content": "PORTLAND, Ore. Portlanders and other Oregon residents were treated to a rare sighting of a large meteor fireball late Monday night, according to hundreds of comments, posts and videos on social media… [+999 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Axios",
-      "title": "Nebraska governor admits defeat in GOP push for electoral vote reform - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2024/09/24/nebraska-electoral-vote-reform",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T18:17:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "'NEW VIBES! NEW LEGACY!' 🔥 - McAfee's REACTION to Jayden Daniels' MNF debut | The Pat McAfee Show - ESPN",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-09-24T18:03:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Umar Shakir",
-      "title": "How to watch the September PlayStation State of Play livestream - The Verge",
-      "description": "Sony’s holding another PlayStation State of Play livestream on September 24th, 2024, at 6PM ET / 3PM PT, and we expect to hear more about games to play on the PS5 Pro.",
-      "url": "https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tyK6y0BwTvw_c3Aeyl_rKzvqILM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg",
-      "publishedAt": "2024-09-24T17:59:33Z",
-      "content": "How to watch the September PlayStation State of Play livestream\r\nHow to watch the September PlayStation State of Play livestream\r\n / Sonys State of Play broadcast is happening tonight, with more than… [+326 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Kathleen Magramo, Antoinette Radford, Aditi Sangal, Elise Hammond",
-      "title": "Israel strikes Hezbollah targets as conflict intensifies - CNN",
-      "description": "Israeli airstrikes targeting militant group Hezbollah in Lebanon killed nearly 500 people and wounded 1,600 others on Monday — the deadliest day in the country in nearly two decades. Follow for live updates",
-      "url": "https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-24-24-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-24t083513z-2099667105-rc2w6aavvfw4-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-24T17:51:00Z",
-      "content": "Lebanon may be no stranger to conflict. But Monday was the deadliest day the country has seen in a generation.  \r\nIsraels aerial bombardment killed nearly 500 people, including at least 35 children a… [+2230 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Michelle Nichols",
-      "title": "UN chief condemns 'get out of jail free' card on wars - Reuters",
-      "description": "Guterres' speech summed up the state of the world as unsustainable.",
-      "url": "https://www.reuters.com/world/un-chief-condemns-get-out-jail-free-card-wars-2024-09-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SSNIF3LYDVJTHGRMOIM57X3PZQ.jpg?auth=3f24a0deb99f4d9c44f9743100c7bdc17beae757fae2eff331ea546269ffd38b&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-09-24T17:46:46Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Arya Vaishnavi",
-      "title": "Jojo Siwa's bedazzled bulge, nipple top in new magazine cover sparks debate - Hindustan Times",
-      "description": "Siwa's controversial attire featured an embellished corset top featuring nipples and built-in abs. She paired the sparkly top with a matching codpiece",
-      "url": "https://www.hindustantimes.com/entertainment/music/jojo-siwas-bedazzled-bulge-nipple-top-in-new-magazine-cover-sparks-debate-101727192861058.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/09/24/1600x900/JoJo-Siwa-Wears-Bedazzled-Bulge-LADYGUNN-1_1727198181190_1727198196792.webp",
-      "publishedAt": "2024-09-24T17:17:35Z",
-      "content": "Jojo Siwa recently came under fire for a recent photoshoot. In a cover story for LadyGunn, the 21-year-old posed in a bedazzled bulge and top equipped with nipples. Though the Dance Moms alumnus is w… [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "What the Exploding Pager Attack Means for Air Travel - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/lifestyle/travel/what-the-exploding-pager-attack-means-for-air-travel-15675faf",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T16:13:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "Biden reflects on leaving 2024 race, mixed foreign policy legacy in final UNGA address - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/wars-weigh-biden-effort-burnish-foreign-policy-legacy/story?id\\\\u003d113939390",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T15:56:27Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Aislinn Murphy",
-      "title": "Coca-Cola discontinues Spiced flavor months after debut - Fox Business",
-      "description": "Coca-Cola Spiced, which debuted in February, was the first time the company had launched a new permanent flavor in more than three years. It will now discontinue it.",
-      "url": "https://www.foxbusiness.com/lifestyle/coca-cola-discontinues-spiced-flavor-months-after-debut",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/coca-cola-spiced-held.jpg?ve=1&tl=1",
-      "publishedAt": "2024-09-24T15:36:00Z",
-      "content": "Coca-Cola announced it is discontinuing production of its Spiced flavor just months after it was introduced to consumers.\r\nThe company added the flavor to its North America slate of soft drinks in Fe… [+1701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "POLITICO Europe",
-      "title": "Keir Starmer calls for release of Israeli … sausages? - POLITICO Europe",
-      "description": null,
-      "url": "https://www.politico.eu/article/uk-keir-starmer-labour-release-israel-sausage-hostage-hamas/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T15:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News 5 Cleveland"
-      },
-      "author": "News 5 Staff",
-      "title": "Haitian nonprofit in Springfield files criminal charges against Donald Trump, JD Vance - News 5 Cleveland WEWS",
-      "description": "The nonprofit Haitian Bridge Alliance filed charges against former president Donald Trump and his running mate, JD Vance, for the chaos that ensued from a conspiracy theory.",
-      "url": "https://www.news5cleveland.com/news/local-news/haitian-nonprofit-in-springfield-files-criminal-charges-against-donald-trump-jd-vance",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/e27aa56/2147483647/strip/true/crop/1024x538+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ffa%2Faf%2F46cc75c04cf4ada0e4e5e917b03c%2Fap24264240668500.jpg",
-      "publishedAt": "2024-09-24T15:03:38Z",
-      "content": "The leader of the nonprofit Haitian Bridge Alliance filed charges against former president Donald Trump and his running mate, JD Vance, for the chaos that ensued from their uncorroborated statements … [+4088 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Xuan Thai, Anthony Olivieri",
-      "title": "Favre reveals Parkinson's diagnosis at hearing - ESPN",
-      "description": "Hall of Fame quarterback Brett Favre disclosed during a congressional hearing on Tuesday that he was recently diagnosed with Parkinson's disease.",
-      "url": "https://www.espn.com/nfl/story/_/id/41417497/favre-announces-parkinson-diagnosis-congressional-hearing",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0924%2Fr1391165_1296x729_16%2D9.jpg",
-      "publishedAt": "2024-09-24T15:02:00Z",
-      "content": "Sep 24, 2024, 11:02 AM ET\r\nHall of Fame quarterback Brett Favre disclosed during a congressional hearing on Tuesday that he was recently diagnosed with Parkinson's disease, a degenerative nervous sys… [+1718 chars]"
+      "author": "Mark Feuerborn",
+      "title": "Haitian nonprofit files criminal charges against Trump and Vance over Springfield - NBC4 WCMH-TV",
+      "description": "SPRINGFIELD, Ohio (WCMH) — An out-of-state Haitian nonprofit is bringing criminal charges against former president Donald Trump and his running mate, Sen. J.D. Vance of Ohio, stemming from comments about Springfield. In Ohio, the public can file criminal char…",
+      "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/haitian-nonprofit-files-criminal-charges-against-trump-and-vance-over-springfield/",
+      "urlToImage": "https://www.nbc4i.com/wp-content/uploads/sites/18/2024/07/Vance_073024_Photo_Getty.png?w=1280",
+      "publishedAt": "2024-09-24T16:50:12Z",
+      "content": "SPRINGFIELD, Ohio (WCMH) — An out-of-state Haitian nonprofit is bringing criminal charges against former president Donald Trump and his running mate, Sen. J.D. Vance of Ohio, stemming from comments a… [+3992 chars]"
     },
     {
       "source": {
@@ -355,107 +420,55 @@
     },
     {
       "source": {
-        "id": "nfl-news",
-        "name": "NFL News"
+        "id": null,
+        "name": "Sports Illustrated"
       },
-      "author": null,
-      "title": "NFL Power Rankings, Week 4: Bills and Vikings hit top three! Commanders soar, while 49ers plummet - NFL.com",
-      "description": "Another wild week in the NFL produced a grand reshuffling in the Power Rankings, with a whopping 28 teams on the move. Who vaulted from the teens into the top three? Which powerhouse plummeted 10 spots? Eric Edholm ranks all 32 teams entering Week 4.",
-      "url": "https://www.nfl.com/news/nfl-power-rankings-week-4-2024-nfl-season",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/kgi4h1l5pztg4kpzs8yo",
-      "publishedAt": "2024-09-24T14:28:00Z",
-      "content": null
+      "author": "Pat Forde",
+      "title": "Forde-Yard Dash: Georgia-Alabama Rivalry Adds Next Chapter After Nick Saban’s Retirement - Sports Illustrated",
+      "description": "Bulldogs coach Kirby Smart won only one game against the Crimson Tide, but now takes the mantle as the game’s greatest active coach.",
+      "url": "https://www.si.com/college-football/forde-yard-dash-georgia-alabama-rivalry-adds-next-chapter-after-nick-saban-s-retirement",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2484,h_1397,x_0,y_43/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8gprdzdm01s6nh037.jpg",
+      "publishedAt": "2024-09-24T13:00:02Z",
+      "content": "Forty names, games, teams and minutiae making news in college football, where the Pac-12 power play has not gone entirely according to plan. First Quarter: Twelve Angry Men. Second Quarter: Group of … [+4317 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WRAL.com"
+        "name": "The Philadelphia Inquirer"
       },
-      "author": "Jessica Patrick",
-      "title": "At home, no needle: FDA approves first at-home flu shot - WRAL News",
-      "description": "A new weapon against flu is now approved by the Food and Drug Administration (FDA).",
-      "url": "https://www.wral.com/story/at-home-no-needle-fda-approves-first-at-home-flu-shot/21640155/",
-      "urlToImage": "https://images.wral.com/asset/lifestyles/healthteam/2024/09/24/21640127/flu-DMID1-64el0o1dc-640x480.jpg",
-      "publishedAt": "2024-09-24T13:52:08Z",
-      "content": "A new weapon against flu is now approved by the Food and Drug Administration (FDA).\r\nOn Friday the agency gave the green light to an at-home, needle-free version of the flu vaccine. While it wont be … [+1867 chars]"
+      "author": "David Gambacorta",
+      "title": "1 in 3 former NFL players believe they have CTE, according to a new Harvard study - The Philadelphia Inquirer",
+      "description": "Of those who felt they had the incurable brain disease, 25% reported feeling suicidal in the previous two weeks. CTE is caused by repetitive head impacts.",
+      "url": "https://www.inquirer.com/sports/nfl-survey-harvard-cte-concussions-20240923.html",
+      "urlToImage": "https://www.inquirer.com/resizer/ZcqZzLuNS2v0ylsLRrb1GbySA3k=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/HQ6LQOHG6BESPKKFYCT76MWOTI.jpg",
+      "publishedAt": "2024-09-23T20:34:20Z",
+      "content": "Beginning in 2017, nearly 2,000 former NFL players participated in a study that sought to explore sensitive, personal terrain: determining how many believed that they had developed a neurodegenerativ… [+6708 chars]"
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Kenrick Cai",
-      "title": "Google, Volkswagen partner on smartphone AI assistant - Reuters",
-      "description": "Alphabet’s Google is providing key capabilities for an artificial intelligence assistant for Volkswagen drivers in a smartphone app, part of Google's strategy to win business by offering tools to build enterprise AI applications.",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/google-volkswagen-partner-smartphone-ai-assistant-2024-09-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VK7CX7BCDBJUVPQAUSBCZ5SLME.jpg?auth=6e3241f1a06ba8625cda5fae08aea6b325b815a536a86a428710fb98e2e192b2&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-09-24T11:03:35Z",
-      "content": null
+      "author": "Sara Moniuszko",
+      "title": "When should you get the flu shot? A doctor weighs in on best timing, options. - CBS News",
+      "description": "What to know about the \"optimal time\" to get vaccinated against the flu — and how the FluMist nasal spray stacks up to the traditional shot.",
+      "url": "https://www.cbsnews.com/news/when-to-get-flu-shot-2024/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/13/f030900c-e4ed-492b-8c86-e7bd0a005f4e/thumbnail/1200x630/7467ddd9c28fb36121b3d375c81807da/vaccine.jpg?v=36448e13600c4b59440e954caff28fc1",
+      "publishedAt": "2024-09-23T18:15:00Z",
+      "content": "When should you get your flu shot? \r\nFlu season typically starts in December and peaks in February, so the \"optimal time\" to get vaccinated is heading into the season, Dr. Céline Gounder, CBS News me… [+2886 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Annika Kim Constantino",
-      "title": "'Stop ripping us off': Senate grills Novo Nordisk CEO on weight loss drug pricing - CNBC",
-      "description": "Sen. Bernie Sanders argues that Novo Nordisk charges Americans substantially higher prices for its drugs than it does for patients in other countries.",
-      "url": "https://www.cnbc.com/2024/09/24/novo-nordisk-ceo-to-testify-at-senate-over-weight-loss-drug-prices.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038604-1727208609597-gettyimages-2174203728-_s1_1124_cehoitcz.jpeg?v=1727208727&w=1920&h=1080",
-      "publishedAt": "2024-09-24T11:00:01Z",
-      "content": "Novo Nordisk's top executive faced a Senate grilling on Tuesday over the high prices of the company's weight loss drug Wegovy and diabetes treatment Ozempic, as demand for both injections soars in th… [+7379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "‘Popcorn!’ is a battle royale-esque Google Doodle - 9to5Google",
-      "description": "The latest Google Doodle today is an interactive battle royale-esque game that celebrates \"Popcorn!\" The premise...",
-      "url": "http://9to5google.com/2024/09/24/google-doodle-popcorn/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Google-Doodle-Popcorn.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-09-24T11:00:00Z",
-      "content": "The latest Google Doodle today is an interactive battle royale-esque game that celebrates “Popcorn!”\r\nThe premise of this game is that youre a kernel in a circular arena. A stick of butter in the mid… [+712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Astronauts return to Earth after longest stay on ISS - BBC.com",
-      "description": "One Nasa astronaut and two Russian cosmonauts, who spent 374 days in space, were aboard the shuttle.",
-      "url": "https://www.bbc.com/news/videos/ckgnzr1dx73o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b8af/live/cfaa3330-79ee-11ef-b282-4535eb84fe4b.jpg",
-      "publishedAt": "2024-09-23T21:32:43Z",
-      "content": "Two Russian astronauts, Oleg Kononenko and Nikolai Chub, left the International Space Station breaking the record for the longest stay at 374 days. Kononenko also set the record for the longest cumul… [+325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "Astronauts, capsule for SpaceX's Crew-9 mission arrive at Florida launch site (photos) - Space.com",
-      "description": "Crew-9 is scheduled to launch on Thursday (Sept. 26).",
-      "url": "https://www.space.com/astronauts-dragon-capsule-launch-site-spacex-crew-9-mission",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3EK6FFnZSYZhwQaoFhLSMZ-1200-80.jpg",
-      "publishedAt": "2024-09-23T19:30:22Z",
-      "content": "The pieces are in place for SpaceX's Crew-9 astronaut mission, which is set to launch this week.\r\nNASA's Nick Hague and Russian cosmonaut Aleksandr Gorbunov arrived at Kennedy Space Center (KSC) in F… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ashley Strickland",
-      "title": "A space rock is about to become Earth’s new ‘mini-moon’ - CNN",
-      "description": "A temporary “mini-moon” will whirl around Earth for about two months as our planet’s gravity captures a small asteroid named 2024 PT5 in its orbit.",
-      "url": "https://www.cnn.com/2024/09/20/science/earth-asteroid-mini-moon/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240919-mini-moon.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-20T14:25:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nEarth is about to gain a new mini-moon, but it wont st… [+5539 chars]"
+      "author": "William Harwood",
+      "title": "Russian Soyuz brings 3 space station fliers home after record-setting mission - CBS News",
+      "description": "The Soyuz landing in Kazakhstan sets the stage for launch of a SpaceX Crew Dragon flight to the space station Thursday.",
+      "url": "https://www.cbsnews.com/news/russian-soyuz-space-station-crew-home-record-setting-mission/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/23/6bace9c7-5c45-455c-a0fb-2cc2636930e5/thumbnail/1200x630/a3dd2767d2b0c5315486587dc045e014/092324-dyson-flowers.jpg?v=36448e13600c4b59440e954caff28fc1",
+      "publishedAt": "2024-09-23T14:59:00Z",
+      "content": "Cosmonaut Oleg Kononenko, now the world's most experienced spaceman, first-time flier Nikolai Chub and NASA veteran Tracy Dyson undocked from the International Space Station and returned to Earth on … [+6537 chars]"
     }
   ]
 }
