@@ -1,71 +1,370 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Variety"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Chris Morris",
-      "title": "Kris Kristofferson, Country Music Legend and ‘A Star Is Born’ Leading Man, Dies at 88 - Variety",
-      "description": "Kris Kristofferson, a groundbreaking country music singer-songwriter and a Hollywood actor in 'A Star Is Born' and 'Blade,' has died at age 88",
-      "url": "https://variety.com/2024/film/obituaries-people-news/kris-kristofferson-dead-country-music-legend-actor-1236159472/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Kris-Kristofferson-Ocean-2-Mary-Ellen-Mark-e1727649844111.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2024-09-29T22:22:00Z",
-      "content": "Kris Kristofferson, who attained success as both a groundbreaking country music singer-songwriter and a Hollywood film and TV star, died Saturday at home in Maui, Hawaii. No cause of death was given,… [+11786 chars]"
+      "author": null,
+      "title": "Chinese Stocks Soar Most Since 2015, Heading for Bull Market - Bloomberg",
+      "description": "Chinese stocks extended one of their most remarkable turnarounds in history, soaring for a ninth straight day as government stimulus entices investors back to one of the most beaten-down markets worldwide.",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-30/chinese-stocks-head-for-bull-market-as-property-rescue-deepens",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLuwHFi3j_1Y/v0/1200x800.jpg",
+      "publishedAt": "2024-09-30T07:25:52Z",
+      "content": "Chinese stocks extended one of their most remarkable turnarounds in history, soaring for a ninth straight day as government stimulus entices investors back to one of the most beaten-down markets worl… [+355 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Maya Gebeily, Laila Bassam, Muhammad Gebaly",
+      "title": "Israeli strikes kill Hamas leader in Lebanon and three Palestinian leaders in Beirut - Reuters",
+      "description": "The Palestinian militant group Hamas said an Israeli airstrike killed its leader in Lebanon in the city of Tyre on Monday, and another Palestinian organisation said three of its leaders were killed in a strike in central Beirut - the first such hit inside the…",
+      "url": "https://www.reuters.com/world/middle-east/apartment-building-beirut-hit-israel-widens-air-campaign-2024-09-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LISBQCFX25L5BO4VGHZFD6ZZUY.jpg?auth=7f12060e5d3ef929ca0e0b4815bd6279edf527cdd68ed99ea39a6de22fd7f456&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-30T07:17:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ruxandra Iordache",
+      "title": "Dodge-maker Stellantis issues profit warning; shares drop 12% - CNBC",
+      "description": "The conglomerate, known for brands such as Chrysler, Dodge and Jeep, warned of lower-than-expected sales \"across most regions\" in the second half of the year.",
+      "url": "https://www.cnbc.com/2024/09/30/dodge-maker-stellantis-drops-profit-warning.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107105403-1660762860354-gettyimages-1415440120-0j7a6094_1b1758d5-48f8-463f-b1f3-f023f46e79cf.jpeg?v=1727683501&w=1920&h=1080",
+      "publishedAt": "2024-09-30T07:17:21Z",
+      "content": "Stellantis on Monday trimmed its 2024 annual guidance on the back of deteriorating \"global industry dynamics\" and bolstered competition from China, sending Milan-listed shares lower on open.\r\nThe Fre… [+2071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hideyuki Sano and Momoka Yokoyama",
+      "title": "Japanese Stocks Falter as Ishiba’s Win Wrongfoots Easing Bets - Yahoo Finance",
+      "description": "(Bloomberg) -- Japanese stocks tumbled after Shigeru Ishiba’s surprise victory over Sanae Takaichi in the ruling party’s leadership race wrongfooted...",
+      "url": "https://finance.yahoo.com/news/japan-stocks-set-fall-rate-224439187.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-09-30T06:48:37Z",
+      "content": "(Bloomberg) -- Japanese stocks tumbled after Shigeru Ishibas surprise victory over Sanae Takaichi in the ruling partys leadership race wrongfooted investors who had bet on a boost from more monetary … [+3059 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "BINAJ GURUBACHARYA",
+      "title": "Flooding deaths in Nepal reach 193 as recovery work is stepped up - The Associated Press",
+      "description": "The number of people killed by flooding and landslides triggered by heavy rainfall over the weekend in Nepal has reached 193 while recovery and rescue work has been stepped up. Police said 31 people were still missing across the Himalayan nation as of Monday.…",
+      "url": "https://apnews.com/article/nepal-flood-landslide-deaths-94c25dd2a172cdcf51bc558c5df016aa",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1097312/2147483647/strip/true/crop/3375x1898+0+176/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Fb8%2Fcefe04fc3352c2b28f31d147a26a%2Ff7e5851395654319978c6d3c4f66b772",
+      "publishedAt": "2024-09-30T06:46:00Z",
+      "content": "KATHMANDU, Nepal (AP) The number of people killed by flooding and landslides triggered by heavy rainfall over the weekend in Nepal reached 193 while recovery and rescue work stepped up Monday.\r\nMany … [+2428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T06:18:47Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Maxine Joselow",
+      "title": "‘You’ll be okay’: Trump’s message to Hurricane Helene victims sparks controversy - The Washington Post",
+      "description": "After Hurricane Helene, Kamala Harris and her allies argue that Donald Trump would make Americans more vulnerable to extreme weather fueled by climate change.",
+      "url": "https://www.washingtonpost.com/climate-environment/2024/09/29/trump-hurricane-helene-be-okay/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T3PRTT2AWVCHFSBEXRBH7JW6ME.jpg&w=1440",
+      "publishedAt": "2024-09-30T06:01:46Z",
+      "content": "The fallout from the devastation caused by Hurricane Helene is entering the political arena, with former president Donald Trump facing scrutiny for his comment that hurricane victims will be okay and… [+5011 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Howard Schneider",
+      "title": "Fed's Powell set to speak as economists fret about a policy mistake, election risk - Reuters",
+      "description": "A mistake by the U.S. central bank in setting interest rates during the last phase of its inflation battle is the main risk that could undercut the economy over the next year, according to a new survey of economists released as Federal Reserve Chair Jerome Po…",
+      "url": "https://www.reuters.com/markets/us/feds-powell-set-speak-economists-fret-about-policy-mistake-election-risk-2024-09-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/33YILE7K7NI3POX6Q52RVSEL4A.jpg?auth=37ea34b340d369b9a7b82ba6809379af0c066c09568b5a23a90ac8f1f380418f&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-30T05:04:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Jackie Wattles",
-      "title": "SpaceX capsule set to bring home Boeing Starliner astronauts arrives at space station - CNN",
-      "description": "The SpaceX capsule will eventually bring home Butch Wilmore and Suni Williams, the NASA astronauts who piloted the Boeing Starliner test flight.",
-      "url": "https://www.cnn.com/2024/09/29/science/spacex-crew-9-iss-starliner-astronauts/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screen-shot-2024-09-28-at-13-32-27-2-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-29T21:42:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAfter their weeklong journey turned into a monthslong … [+5242 chars]"
+      "author": "CNN",
+      "title": "Biden administration fears Iranian attack and is working with Israel on defenses, US official says - CNN",
+      "description": null,
+      "url": "https://www.cnn.com/2024/09/30/politics/biden-administration-iran-israel-nasrallah-intl-hnk/index.html",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T04:52:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China’s Factory Activity Extends Contraction to Fifth Month - Bloomberg",
+      "description": "China’s factory activity continued to contract while the services sector slowed in September, as policymakers prepared an emergency stimulus blitz to revive an economy facing challenges across the board.",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-30/china-s-factory-activity-extends-contraction-to-fifth-month",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMHsfcVuf7Fk/v1/1200x801.jpg",
+      "publishedAt": "2024-09-30T04:32:00Z",
+      "content": "Chinas factory activity continued to contract while the services sector slowed in September, as policymakers prepared an emergency stimulus blitz to revive an economy facing challenges across the boa… [+258 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "‘Earthquake’: Austria’s far-right Freedom Party wins election - Al Jazeera English",
+      "description": "The far right might struggle to form a coalition because most other parties have said they will not work with it.",
+      "url": "https://www.aljazeera.com/news/2024/9/30/earthquake-austrias-far-right-freedom-party-wins-election",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-29T194233Z_1128909165_RC2JAAABS82Q_RTRMADP_3_AUSTRIA-ELECTION-1727665463.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-30T04:07:30Z",
+      "content": "Austrias far-right Freedom Party (FPO) has topped the countrys national elections in a historic victory but is likely to struggle to find partners that would enable it to form a governing coalition.\r… [+3373 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "BILL BARROW",
+      "title": "What to watch as JD Vance and Tim Walz meet for a vice presidential debate - The Associated Press",
+      "description": "The vice presidential debate between Republican JD Vance and Democrat Tim Walz will bring together undercards who have spent two months going after each other and the top of each ticket. Tuesday's matchup might not carry the same stakes as the Sept. 10 debate…",
+      "url": "https://apnews.com/article/debate-what-to-watch-walz-vance-b5ef720628956789c3373562ddbd0b01",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7793e6f/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fc7%2F3b72f95227893fcfa4695c331fd2%2F1f21c833bd6740a7a476a98f97417a4a",
+      "publishedAt": "2024-09-30T04:03:00Z",
+      "content": "ATLANTA (AP) Republican JD Vance and Democrat Tim Walz will meet Tuesday in the lone vice presidential debate of the 2024 election, bringing together undercards who have spent two months going after … [+7174 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Trump calls for Harris to be 'impeached and prosecuted' at Pennsylvania rally - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Politics/trump-calls-harris-impeached-prosecuted-pennsylvania-rally/story?id\\\\u003d114339363",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T03:56:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Myles Simmons",
+      "title": "Sunday Night Football: Derrick Henry runs for 199, Ravens beat Bills 35-10 - NBC Sports",
+      "description": "Henry took his first handoff for an 87-yard touchdown and Baltimore never looked back to move to 2-2.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-derrick-henry-runs-for-199-ravens-beat-bills-35-10",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/23a851e/2147483647/strip/true/crop/5052x2842+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2Ff6%2F9db883124789be805b2e411fde8c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2175547786",
+      "publishedAt": "2024-09-30T03:26:13Z",
+      "content": "The Ravens produced a Baltimore blowout on Sunday Night Football, defeating the Bills 35-10. \r\nBaltimore jumped out to a 21-3 lead in the first half. Though things got tighter in the third quarter as… [+1852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": null,
+      "title": "Sister Wives : Janelle Brown Calls Out Robyn Brown and Kody Brown for “Poor Parenting” - E! NEWS",
+      "description": "On Sister Wives’ new episode, Janelle Brown said her ex Kody Brown and his wife Robyn Brown “mismanaged” the situation with their youngest daughter, Ariella Brown, early in life.",
+      "url": "https://www.eonline.com/news/1407846/sister-wives-janelle-brown-calls-out-robyn-brown-and-kody-brown-for-poor-parenting",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024826/rs_1200x1200-240926082852-sisterwives.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-09-30T03:00:00Z",
+      "content": "With Robyn there was always a very separateness, Janelle shared in her confessional. My children were always scolded if they opened up Robyns fridge.\r\nAs for Christine, who shares six children with K… [+629 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "POLITICO",
+      "title": "Trump says ‘violent day’ of policing will end crime - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/09/29/trump-violent-day-policing-crime-00181619",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T02:53:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "MLB.com",
+      "title": "Mets-Braves twin bill FAQ: Everything you need to know - MLB.com",
+      "description": null,
+      "url": "https://www.mlb.com/news/mets-braves-face-off-in-doubleheader-with-playoff-implications",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T01:55:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "California governor Gavin Newsom vetoes landmark AI safety bill - BBC.com",
+      "description": "The proposed legislation would have imposed some of the first US regulations on artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/cj9jwyr3kgeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4811/live/4eb86ec0-7ecd-11ef-ab57-61708990aa74.jpg",
+      "publishedAt": "2024-09-30T01:32:54Z",
+      "content": "The governor of California Gavin Newsom has blocked a landmark artificial intelligence (AI) safety bill, which had faced strong opposition from major technology companies.\r\nThe proposed legislation w… [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "NFL Week 4 grades: Eagles get 'F' for blowout loss to Bucs, Commanders earn 'A+' for big win over Cardinals - CBS Sports",
+      "description": "Here are the Week 4 grades for every team",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-eagles-get-f-for-blowout-loss-to-bucs-commanders-earn-a-for-big-win-over-cardinals/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/29/590abd43-1217-4d6a-a57c-5c83b5e820d1/thumbnail/1200x675/65c58c742ff41f2f69b75db10dc69e65/eagles-jpeg.jpg",
+      "publishedAt": "2024-09-30T00:22:00Z",
+      "content": "Welcome to the Week 4 grades!\r\nThe fourth week of the NFL season has been a big one for rookie quarterbacks. During the early window of games, Caleb Williams and Bo Nix both came away with a win. For… [+1536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Diddy Birthday Party Photos Resurface Amid Criminal Case - TMZ",
+      "description": "While Diddy's still behind bars at a nortious NYC jail, photos from his old parties are receiving renewed interest ... including the ones celebrating another turn around the sun for the mogul.",
+      "url": "https://www.tmz.com/2024/09/29/diddy-birthday-party-pictures-resurface/",
+      "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2024/09/29/d708b9147a9c4e1fb8ec5bf67566eceb_xl.jpg",
+      "publishedAt": "2024-09-30T00:18:00Z",
+      "content": "While Diddy's still behind bars at a nortious NYC jail, photos from his old parties are receiving renewed interest ... including the ones celebrating another turn around the sun for the mogul.\r\nCheck… [+1527 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Hannah Sparks",
-      "title": "Man chops-up own penis and stores severed parts in jar of snow after eating ‘magic’ mushrooms - New York Post ",
-      "description": "The patient reportedly amputated his own penis with an axe after ingesting a hefty dose of psychedelic mushrooms.",
-      "url": "https://nypost.com/2024/09/29/lifestyle/man-axes-own-penis-after-eating-magic-mushrooms-in-first-ever-case-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/man-amputates-penis-axe-consuming-90664836.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-09-29T20:45:00Z",
-      "content": "A man in Austria reportedly amputated his own penis with an axe after ingesting a hefty dose of psychedelic mushrooms.\r\nFortunately, doctors in Austria were able to reattach the severed organ.\r\nThe p… [+2910 chars]"
+      "author": "Ronny Reyes, Caitlin McCormack",
+      "title": "SpaceX Crew Dragon arrives at International Space Station where Boeing Starliner astronauts are struck - New York Post ",
+      "description": "SpaceX’s Crew Dragon capsule arrived safely at the International Space Station on Sunday, where it will eventually ferry the two Boeing Strainer astronauts who have been stuck in space for months b…",
+      "url": "https://nypost.com/2024/09/29/us-news/spacex-crew-dragon-arrives-at-international-space-station-where-boeing-starliner-astronauts-are-struck/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90692086.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-09-29T23:45:00Z",
+      "content": "SpaceXs Crew Dragon capsule arrived safely at the International Space Station on Sunday, where it will eventually ferry the two Boeing Strainer astronauts who have been stuck in space for months back… [+2118 chars]"
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": null,
+        "name": "Whitehouse.gov"
       },
-      "author": "https://www.facebook.com/jasonjameslemon/",
-      "title": "Far-Right Set for Austrian Election History 79 Years After Nazis Lost Power - Newsweek",
-      "description": "Projections show the FPÖ winning 28.9 percent compared to the ÖVP's 26.3 percent.",
-      "url": "https://www.newsweek.com/far-right-set-austrian-election-history-79-years-after-nazis-lost-power-1960906",
-      "urlToImage": "https://d.newsweek.com/en/full/2483055/freedom-party-austria.jpg",
-      "publishedAt": "2024-09-29T20:42:12Z",
-      "content": "Austria's Freedom Party (FPÖ) is set to come out on top in the European country's national election on Sunday, according to projections, marking the first-time a far-right party has won since the Naz… [+4444 chars]"
+      "author": "The White House",
+      "title": "FACT SHEET: UPDATE: Biden-Harris Administration’s Continued Response Efforts to Hurricane Helene - The White House",
+      "description": "Under President Biden and Vice President Harris’s leadership, the Administration is continuing to provide robust and well-coordinated Federal support for",
+      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/29/fact-sheet-update-biden-harris-administrations-continued-response-efforts-to-hurricane-helene/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+      "publishedAt": "2024-09-29T23:28:03Z",
+      "content": "Under President Biden and Vice President Harriss leadership, the Administration is continuing to provide robust and well-coordinated Federal support for the ongoing response and recovery efforts to H… [+6388 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "David Jackson",
-      "title": "Donald Trump falsely calls Kamala Harris, Joe Biden 'mentally impaired' again, ramping up attacks - USA TODAY",
-      "description": "Former President Donald Trump again falsely called Vice President Kamala Harris and President Joe Biden \"mentally impaired.\"",
-      "url": "https://www.usatoday.com/story/news/politics/elections/2024/09/29/trump-harris-biden-mentally-impaired/75442272007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/29/USAT/75443668007-20240929-t-192354-z-1350991581-rc-2-jaaaq-7-p-2-h-rtrmadp-3-usaelectiontrump.JPG?crop=1079,607,x0,y72&width=1079&height=607&format=pjpg&auto=webp",
-      "publishedAt": "2024-09-29T20:41:52Z",
-      "content": "WASHINGTON Former President Donald Trump continued to ramp up attacks against Vice President Kamala Harris on Sunday, again falsely describing her and President Joe Biden as \"mentally disabled.\"\r\nBid… [+2213 chars]"
+      "author": "Christian Arnold",
+      "title": "Chiefs get brutal Rashee Rice injury news after he is carted off following Patrick Mahomes collision - New York Post ",
+      "description": "Chiefs wide receiver Rashee Rice had to be carted off the field after he was on the receiving end of a nasty hit by his own teammate.",
+      "url": "https://nypost.com/2024/09/29/sports/chiefs-rashee-rice-exits-after-collision-with-patrick-mahomes/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-tinr2ks1d-1727645700638.jpg?quality=75&strip=all&1727631354&w=1024",
+      "publishedAt": "2024-09-29T23:03:45Z",
+      "content": "The Chiefs lost their top receiver in the first quarter of Sundays game against the Chargers. \r\nWide receiver Rashee Rice had to be carted to the locker room after taking a direct hit to the knee fro… [+2804 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "'The Wild Robot' tops box office, 'Megalopolis' suffers an apocalypse bow - Entertainment Weekly News",
+      "description": "'The Wild Robot' is the king of the box office jungle with $35 million debut, while 'Megalopolis' suffers an apocalypse bow, grossing only $4 million.",
+      "url": "https://ew.com/the-wild-robot-tops-weekend-box-office-with-35-million-debut-8720241",
+      "urlToImage": "https://ew.com/thmb/-MhiTlEr__r-sLfC0MlLP8aXJa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-wild-robot17-03042024-60a189544fb54cd4b1dd52ced6a1e243.jpg",
+      "publishedAt": "2024-09-29T22:53:00Z",
+      "content": "After three weeks ruling the box office,Beetlejuice Beetlejuice was bumped to second place thanks to the charming whimsy ofThe Wild Robot, DreamWorks Animation's adaptation of Peter Brown's beloved, … [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "iPhone 16 vs iPhone 11: 5 reasons to take the leap after 5 years - 9to5Mac",
+      "description": "Apple released the brand new iPhone 16 lineup this month, with bigger batteries, the new Camera Capture button, and more....",
+      "url": "https://9to5mac.com/iphone-16-vs-iphone-11/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Base-iPhone-11-most-popular-US-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-29T22:31:00Z",
+      "content": "Apple released the brand new iPhone 16 lineup this month, with bigger batteries, the new Camera Capture button, and more. The company calls them their first iPhones built for Apple Intelligence. Peop… [+4780 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Stepheny Price",
+      "title": "Hurricane Helene wreaks havoc across Asheville, NC; National Guard deployed, 119 rescued - Fox News",
+      "description": "Rescue efforts are underway across western North Carolina after Hurricane Helene brought unprecedented flooding and landslides to the region over the weekend.",
+      "url": "https://www.foxnews.com/us/hurricane-helene-wreaks-havoc-across-asheville-nc-national-guard-deployed-119-rescued",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/GettyImages-2174269629-scaled.jpg",
+      "publishedAt": "2024-09-29T22:10:00Z",
+      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+7071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-29T21:24:01Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Pixel Buds Pro 2 ‘Noise Control’ now live in Android 15 Volume menu - 9to5Google",
+      "description": "Following the launch of Pixel Buds Pro 2 earlier this week, Google is rolling out Noise Control to the Android 15 Volume menu.",
+      "url": "http://9to5google.com/2024/09/29/pixel-buds-noise-control/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/ANC-toggle-for-Pixel-Buds-Pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-29T21:20:00Z",
+      "content": "Following the launch of Pixel Buds Pro 2 earlier this week, Google is rolling out Noise Control to the Android 15 Volume menu.\r\nAndroid 15 thoroughly redesigns the Volume menu that slides up from the… [+1435 chars]"
     },
     {
       "source": {
@@ -83,58 +382,6 @@
     {
       "source": {
         "id": null,
-        "name": "Ca.gov"
-      },
-      "author": null,
-      "title": "Governor Newsom announces new initiatives to advance safe and responsible AI, protect Californians - Office of Governor Gavin Newsom",
-      "description": null,
-      "url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/",
-      "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2024/09/AI-Regulations-SB-1047.png",
-      "publishedAt": "2024-09-29T20:39:27Z",
-      "content": "The Governor has asked the worlds leading experts on GenAI to help California develop workable guardrails for deploying GenAI, focusing on developing an empirical, science-based trajectory analysis o… [+3753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Reuters",
-      "title": "U.S. East Coast port strike set to start Tuesday, union says - CNBC",
-      "description": "A port strike on the U.S. East Coast and Gulf of Mexico will start Tuesday, which could cause delays and snarl supply chains.",
-      "url": "https://www.cnbc.com/2024/09/29/us-east-coast-port-strike-set-to-start-tuesday-union-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034010-1726242709238-gettyimages-2115669794-cargo396602_h8mmn1zq.jpeg?v=1726244736&w=1920&h=1080",
-      "publishedAt": "2024-09-29T20:35:56Z",
-      "content": "A port strike on the U.S. East Coast and Gulf of Mexico will go ahead starting on Tuesday, the International Longshoremen's Association union said on Sunday, signaling action that could cause delays … [+908 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "The Associated Press",
-      "title": "Interstate is closed outside Atlanta as residents evacuate due to a chemical plant fire - ABC News",
-      "description": "A sprinkler head malfunctioned around 5 a.m. at a Georgia BioLab plant.",
-      "url": "https://abcnews.go.com/US/wireStory/residents-told-evacuate-shelter-after-georgia-chemical-plant-114333211",
-      "urlToImage": "https://i.abcnewsfe.com/a/d8f20f67-c286-42ad-8fb7-13b7aa0b6e07/Chemical-fire-2-ht-jm-240929_1727639938082_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2024-09-29T20:03:45Z",
-      "content": "CONYERS, Ga. -- Some residents east of Atlanta were evacuated while others were told to shelter in place Sunday to avoid contaminants from a chemical plant fire that sent dark, billowing gray smoke i… [+2159 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "STEPHEN GROVES, AAMER MADHANI",
-      "title": "Biden says he'll speak with Israeli leader, vowing all-out war in the Middle East must be avoided - The Associated Press",
-      "description": "President Joe Biden says he will speak with Israeli Prime Minister Benjamin Netanyahu and believes an all-out war in the Middle East has to be avoided. He spoke to reporters as he boarded Air Force One for Washington on Sunday, from Dover Air Force Base. Aske…",
-      "url": "https://apnews.com/article/biden-israel-hezbollah-war-af76d9ff367a9ebbc8685628276c484b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/235e063/2147483647/strip/true/crop/3981x2239+0+210/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2Fc4%2Fcbbab84e8e74b7055c36bbda8b0b%2F221a4713ede54a59957f91c10308dfa6",
-      "publishedAt": "2024-09-29T19:36:00Z",
-      "content": "DOVER AIR FORCE BASE, Del. (AP) President Joe Biden said Sunday he would speak with Israeli Prime Minister Benjamin Netanyahu, and believes that an all-out war in the Middle East must be avoided.\r\nIt… [+2292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KABC-TV"
       },
       "author": "Christina Larson",
@@ -147,159 +394,29 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Space.com"
       },
-      "author": "Caroline Thayer",
-      "title": "'Dancing with the Stars' contestant and convicted felon Anna 'Delvey' rips show as 'predatory': They 'used me' - Fox News",
-      "description": "\"Dancing with the Stars\" contestant and convicted felon Anna \"Delvey\" Sorokin is ripping the show for it's \"predatory\" behavior.",
-      "url": "https://www.foxnews.com/entertainment/dancing-stars-contestant-convicted-felon-anna-delvey-rips-show-predatory-used-me",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/anna-delvey-dancing-with-the-stars.jpg",
-      "publishedAt": "2024-09-29T19:24:00Z",
-      "content": "Former \"Dancing with the Star\" contestant and convicted felon Anna \"Delvey\" Sorokin is speaking out following her week-two elimination, claiming the show was \"predatory\" and cast her solely to garner… [+3866 chars]"
+      "author": "Jamie Carter",
+      "title": "How fast will the annular solar eclipse on Oct. 2 travel? - Space.com",
+      "description": "A \"ring of fire\" annular solar eclipse will flash across the Southern Hemisphere on Oct. 2, 2024.",
+      "url": "https://www.space.com/how-fast-will-the-annular-solar-eclipse-october-2-travel",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v34mY8QTALrZbT6L5Dy98T-1200-80.jpg",
+      "publishedAt": "2024-09-29T15:00:01Z",
+      "content": "On Oct. 2, an annular solar eclipse\r\n will be visible from the Southern Hemisphere. During this event, the moon doesn't completely cover the sun from our perspective on Earth, so it leaves a \"ring of… [+3820 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eonline.com"
+        "name": "Notebookcheck.net"
       },
-      "author": null,
-      "title": "SNL Introduces Its 2024 Presidential Election Cast Playing Kamala Harris, Tim Walz and More - E! Online - E! NEWS",
-      "description": "Saturday Night Live's 50th season opener featured several familiar faces playing Kamala Harris, Tim Walz, Doug Emhoff, Donald Trump and J.D. Vance campaigning for the 2024 presidential election.",
-      "url": "https://www.eonline.com/news/1407946/snl-introduces-its-2024-presidential-election-cast-playing-kamala-harris-tim-walz-and-more",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024829/rs_1200x1200-240929110943-1200-dana-carvey-maya-rudolph-jim-gaffigan-snl-cjh-092824.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2024-09-29T19:23:00Z",
-      "content": "\"We miss Joe Biden, folks,\" Johnson's Trump said. \"What we wouldn't give to have him stand next to me and be old. We had this in the bag, but then they did a switcheroo and they swapped out Biden wit… [+726 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kaia Hubbard",
-      "title": "How Walz and Vance are preparing for the 2024 VP debate - CBS News",
-      "description": "Sen. JD Vance and Minnesota Gov. Tim Walz will face off on Tuesday in the first and only vice presidential debate of the cycle.",
-      "url": "https://www.cbsnews.com/news/jd-vance-tim-walz-debate-preparation-2024/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/27/dab11a2f-e171-4f5b-9cfe-22abd0a15cff/thumbnail/1200x630/35e0069948244f083628d018b7635252/vance-walz-getty2.jpg?v=fa529222a2be3543711c1a879b51e860",
-      "publishedAt": "2024-09-29T19:18:55Z",
-      "content": "Washington — Sen. JD Vance and Minnesota Gov. Tim Walz will face off on Tuesday in the first and only vice presidential debate of the cycle, as the two candidates look to prop up the Republican and D… [+3733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "pgatour.com"
-      },
-      "author": "PGA TOUR",
-      "title": "Presidents Cup Round 5: Recap Sunday's Singles matches - PGA TOUR",
-      "description": "The U.S. Team claimed its 10th straight Presidents Cup Sunday at Royal Montreal. The Americans took an 11-7 lead into Sunday, where each of the 12 players on bo",
-      "url": "https://www.pgatour.com/article/news/latest/2024/09/29/presidents-cup-round-5-sunday-singles-match-recaps-scores-results-today-usa-international-team-royal-montreal",
-      "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2024/09/29/gallery/keegan-fistpump.jpg",
-      "publishedAt": "2024-09-29T19:08:45Z",
-      "content": "The U.S. Team claimed its 10th straight Presidents Cup Sunday at Royal Montreal. The Americans took an 11-7 lead into Sunday, where each of the 12 players on both teams played Singles. Xander Schauff… [+14928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Nancy Tartaglione",
-      "title": "‘The Wild Robot’ Charms $53M WW, ‘Transformers One’ Rises To $72M; Both With Markets To Come -International Box Office - Deadline",
-      "description": "Refresh for latest…: We’re in a bit of a getting going/holdover this weekend at the international box office. There are two animated films continuing to roll out in the marketplace — both of which are highly scored, and performing to differing degrees. And ne…",
-      "url": "http://deadline.com/2024/09/the-wild-robot-charms-53m-ww-transformers-one-rises-to-72m-both-with-markets-to-come-international-box-office-1236102896/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/MixCollage-29-Sep-2024-08-24-PM-3359.jpg?w=1024",
-      "publishedAt": "2024-09-29T18:46:00Z",
-      "content": "Refresh for latest…: We’re in a bit of a getting going/holdover this weekend at the international box office. There are two animated films continuing to roll out in the marketplace — both of which ar… [+1216 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "James Powel",
-      "title": "Power outage map: Swaths of western North Carolina dark after Hurricane Helene - USA TODAY",
-      "description": "Hurricane Helene caused extensive damage in the western part of North Carolina. See the map of power outages caused by the storm.",
-      "url": "https://www.usatoday.com/story/news/nation/2024/09/29/north-carolina-power-outage-map/75442041007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/29/USAT/75442491007-usatsi-24348572.jpg?crop=2392,1345,x7,y0&width=2392&height=1345&format=pjpg&auto=webp",
-      "publishedAt": "2024-09-29T18:40:18Z",
-      "content": "Thousands of people in North Carolina remain without power Sunday as the state begins to grapple with the damage wrought by Hurricane Helene.\r\nState officials were still assessing the damage Sunday m… [+1239 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "China to cut existing mortgage rates by the end of October - Reuters",
-      "description": "China's central bank said on Sunday it would tell banks to lower mortgage rates for existing home loans before Oct. 31, as part of sweeping policies to support the country's beleaguered property market as the economy slows.",
-      "url": "https://www.reuters.com/markets/asia/china-tells-banks-start-cutting-rates-existing-mortgages-2024-09-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ZZPWFIWKM5IIJJPBG6STTIPH5E.jpg?auth=efa0a840327b46f6005edb04d94b8de06d1cf4d0192aa9b0859dc71899971041&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-09-29T18:02:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
+      "author": "Notebookcheck.net",
+      "title": "M4-powered 14-inch MacBook Pro box appears online, confirming base memory upgrade and 10-core CPU - Notebookcheck.net",
+      "description": null,
+      "url": "https://www.notebookcheck.net/M4-powered-14-inch-MacBook-Pro-box-appears-online-confirming-base-memory-upgrade-and-10-core-CPU.895605.0.html",
       "urlToImage": null,
-      "publishedAt": "2024-09-29T17:29:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Julia Gomez",
-      "title": "'Multiple' deaths reported after single-engine plane crashes in North Carolina - USA TODAY",
-      "description": "Four passengers were onboard the plane when it crashed and caught fire, the National Transportation Safety Board said.",
-      "url": "https://www.usatoday.com/story/news/nation/2024/09/29/north-carolina-plane-crash-first-flight-airport/75441141007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/01/USAT/72803887007-getty-images-523999741.jpg?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-09-29T17:09:13Z",
-      "content": "A North Carolina airport is closed Sunday after a single-engine airplane crashed while trying to land, resulting in the deaths of multiple people, according to officials.\r\nOn Saturday at 5:55 p.m. lo… [+1590 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "Razer leans into haptics with a new gaming cushion and vibrating headphones - The Verge",
-      "description": "Razer’s latest products include the Freyja gaming cushion and the Kraken V4 Pro, both equipped with haptic feedback that transmits sound as vibrations.",
-      "url": "https://www.theverge.com/2024/9/29/24257440/razer-freyja-gaming-cushion-kraken-v4-pro-headphones-haptic-feedback",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hfiAErVqgT2XeGSgB9tOhOiRh_g=/0x0:1500x1000/1200x628/filters:focal(750x500:751x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25649359/Razer_Freyja.jpg",
-      "publishedAt": "2024-09-29T17:08:02Z",
-      "content": "Razer leans into haptics with a new gaming cushion and vibrating headphones\r\nRazer leans into haptics with a new gaming cushion and vibrating headphones\r\n / The Razor Freyja haptic gaming cushion is … [+2015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "William Watts",
-      "title": "Stock-market rally faces crucial question: Will jobs data back case for big Fed rate cuts? - MarketWatch",
-      "description": "A very strong September jobs number ‘will definitely spook the equity market’: Komal Sri-Kumar",
-      "url": "https://www.marketwatch.com/story/stock-market-rally-built-on-hopes-for-more-big-fed-rate-cuts-faces-crucial-test-798fe87b",
-      "urlToImage": "https://images.mktw.net/im-25162492/social",
-      "publishedAt": "2024-09-29T16:01:00Z",
-      "content": "Stock-market investors got what they wanted when the Federal Reserve delivered an extra-large September interest rate cut. A risk now is that strong jobs data in the week ahead could prove to be too … [+295 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "NICOLE WINFIELD",
-      "title": "Pope Francis suggests Israel's actions in Gaza and Lebanon are disproportionate and immoral - The Associated Press",
-      "description": "Pope Francis is suggesting that Israel has used an “immoral” and disproportionate response in its attacks in Gaza and Lebanon. He says its military domination is going beyond the rules of war. Francis was asked en route home from Belgium on Sunday about Israe…",
-      "url": "https://apnews.com/article/pope-israel-lebanon-hezbollah-72b592696627d1a671e7419e98e354b6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1635dbc/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F09%2Fcb9f4b9405446eb2916cc600f816%2F26f10e42f08940f0879a24dd4ba4426a",
-      "publishedAt": "2024-09-29T14:31:00Z",
-      "content": "ABOARD THE PAPAL PLANE (AP) Pope Francis suggested Sunday that Israels attacks in Gaza and Lebanon have been immoral and disproportionate, saying its military domination has gone beyond the rules of … [+1719 chars]"
+      "publishedAt": "2024-09-29T13:49:58Z",
+      "content": null
     },
     {
       "source": {
@@ -317,106 +434,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "BBC News"
       },
-      "author": "Danica Creahan",
-      "title": "Sunday Night Football: How to watch the Buffalo Bills vs. Baltimore Ravens game tonight - Yahoo Sports",
-      "description": "Sunday Night Football continues this weekend with the Buffalo Bills at Baltimore Ravens match. Here's how to watch all the action on the field.",
-      "url": "https://sports.yahoo.com/sunday-night-football-how-to-watch-the-buffalo-bills-vs-baltimore-ravens-game-tonight-121549111.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TvzipLGo5Es5v6NpToAy_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/2d2aa9a0-7b9c-11ef-bb4e-f7165aa0a082",
-      "publishedAt": "2024-09-29T12:15:49Z",
-      "content": "QB Josh Allen and the Buffalo Bills play the Baltimore Ravens this Sunday night. (Kevin Sabitus/Getty Images)\r\nIt's Week 4 of the 2024 NFL season. Tonight on Sunday Night Football the Baltimore Raven… [+1961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Arrowhead Pride"
-      },
-      "author": "John Dixon",
-      "title": "Chiefs-Chargers: How to watch Week 4 matchup - Arrowhead Pride",
-      "description": "How to watch the Kansas City Chiefs’ Week 4 game against the Los Angeles Chargers: TV schedule, start time, TV channel, live stream, odds and more.",
-      "url": "https://www.arrowheadpride.com/2024/9/29/24256668/chiefs-chargers-week-4-live-stream-tv-channel-schedule-odds-how-to-watch-online",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lgV4FDw4F5inHO53vKpz8NjnGh0=/0x185:4828x2713/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25647475/1926454674.jpg",
-      "publishedAt": "2024-09-29T12:00:00Z",
-      "content": "The Game\r\nFor the NFLs Week 4, the (3-0) Kansas City Chiefs open their AFC West schedule by visiting Californias So-Fi Stadium to take on the (2-1) Los Angeles Chargers. Kickoff is scheduled for Sund… [+5569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SB Nation"
-      },
-      "author": "Ricky O'Donnell",
-      "title": "10 Knicks-Timberwolves trade winners and losers from stunning Karl-Anthony Towns deal - SB Nation",
-      "description": "Here are 10 winners and losers from the blockbuster trade between the Knicks and the Timberwolves.",
-      "url": "https://www.sbnation.com/nba/2024/9/29/24256860/knicks-timberwolves-trade-winners-and-losers-karl-anthony-towns-julius-randle",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UF8mMeur5l9k33aDZrsy5ZmCGLo=/0x0:5391x2823/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25648770/2155351284.jpg",
-      "publishedAt": "2024-09-29T12:00:00Z",
-      "content": "The NBA was hit with a monster trade between two legitimate championship contenders just days before most of the leagues teams report to training camp for the new season. Karl-Anthony Towns is now a … [+8440 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Israel bombs Lebanon for a seventh day as people forced to sleep on streets - Al Jazeera English",
-      "description": "The Israeli military says it attacked dozens of targets of Hezbollah as fears grow of an all-out war.",
-      "url": "https://www.aljazeera.com/news/2024/9/29/israel-bombs-dozens-of-targets-in-lebanon-after-nasrallahs-assassination",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AFP__20240928__36HA6RH__v1__HighRes__LebanonIsraelPalestinianConflict-1727596647.jpg?resize=1920%2C1440",
-      "publishedAt": "2024-09-29T10:41:15Z",
-      "content": "Israeli jets have continued attacking targets across Lebanon, including the capital, Beirut, for a seventh day, with Lebanese officials saying the nonstop bombardment had left up to a million people … [+5390 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Landon Mion",
-      "title": "Comet visible from Earth for first time in 80,000 years: 'Most anticipated comet of the year' - Fox News",
-      "description": "A comet that has not been seen for more than 80,000 years is expected to be visible from Earth, potentially during two separate time periods in the next month.",
-      "url": "https://www.foxnews.com/science/comet-visible-from-earth-first-time-80000-years-most-anticipated-comet-year",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/comet2024.png",
-      "publishedAt": "2024-09-29T09:17:00Z",
-      "content": "A comet not seen for more than 80,000 years will be visible from Earth, potentially during two separate time periods over the next month.\r\nComet Tsuchinshan-ATLAS, also known as Comet A3, is believed… [+1833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "The Motley Fool",
-      "title": "Super Micro Computer Stock Has Fallen 30%. Before Buying or Selling, Here's What You Need to Know. - The Motley Fool",
-      "description": null,
-      "url": "https://www.fool.com/investing/2024/09/29/supermicro-decline-what-you-need-to-know/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-29T09:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Simone McCarthy, Irene Nasser, Alex  Stambaugh",
-      "title": "Live updates: Hezbollah leader’s killing escalates conflict with Israel - CNN",
-      "description": "Hezbollah has confirmed the death of its leader Hassan Nasrallah, as fears grow of the conflict at the Israel-Lebanon border growing into a wider war. Follow for live news updates.",
-      "url": "https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-29-24/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174109977-20240928172942835.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-29T07:50:00Z",
-      "content": "Hassan Nasrallahs death marks a major moment in recent Middle East history, but the long-term consequences are uncertain. It raises a key question: Do decapitation strikes killing the leaders of terr… [+1919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Alyse Stanley",
-      "title": "iPhone 16 Pro Max vs iPhone 13 Pro Max: Should you upgrade? - Tom's Guide",
-      "description": "Are the upgraded display, performance, and camera setup worth trading in your older iPhone?",
-      "url": "https://www.tomsguide.com/phones/iphones/iphone-16-pro-max-vs-iphone-13-pro-max-should-you-upgrade",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4ZDugqtXueCLDuVDbUVfQC-1200-80.jpg",
-      "publishedAt": "2024-09-28T19:13:54Z",
-      "content": "The iPhone 16 series is finally here, and if you're thinking about upgrading from one of the best iPhones to Apple's newest flagship, there's a lot to consider. Breaking down the biggest iPhone 16 Pr… [+8499 chars]"
+      "author": null,
+      "title": "Marburg virus in Rwanda: Six killed - BBC.com",
+      "description": "Most of the victims are healthcare workers in the intensive care unit, the health minister says.",
+      "url": "https://www.bbc.com/news/articles/c8el1ky2nd6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c744/live/fe6c0300-7e36-11ef-bda7-e1427314c99f.jpg",
+      "publishedAt": "2024-09-29T07:59:56Z",
+      "content": "Six people have died from an outbreak of Marburg virus in Rwanda, the health minister has announced.\r\nSabin Nsanzimana said most of the victims were healthcare workers in the intensive care unit. \r\nT… [+901 chars]"
     },
     {
       "source": {
@@ -434,41 +460,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Slashdot.org"
       },
-      "author": "Juli Clover",
-      "title": "AirPods 4 With ANC vs. AirPods Pro 2 - MacRumors",
-      "description": "Apple last week released the AirPods 4, and one version of the new earbuds has Active Noise Cancellation included. ANC means the AirPods 4 have a...",
-      "url": "https://www.macrumors.com/2024/09/28/airpods-4-vs-airpods-pro-2/",
-      "urlToImage": "https://images.macrumors.com/t/pCRZnw6tV9fwjEfIEcgNIA-dSBk=/2500x/article-new/2024/09/AirPods-4-vs-Pro-2-Thumb-1.jpg",
-      "publishedAt": "2024-09-28T14:02:00Z",
-      "content": "Apple last week released the AirPods 4, and one version of the new earbuds has Active Noise Cancellation included. ANC means the ‌AirPods 4‌ have a feature set that rivals the AirPods Pro 2, so we th… [+1693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AOL"
-      },
-      "author": "Melissa Rudy",
-      "title": "Drinking alcohol is linked to six types of cancer, experts say: ‘It’s toxic’ - AOL",
-      "description": "More than 5% of all cancer cases are caused by drinking alcohol, according to a new report from the American Association for Cancer Research. An addition spe...",
-      "url": "https://www.aol.com/news/drinking-alcohol-linked-six-types-083058321.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z_D4gkho_asLwkfwuJK3ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_news_text_745/7addf94a14a64b43b2fca6512bdcc29d",
-      "publishedAt": "2024-09-28T08:30:58Z",
-      "content": "It's long been known that no amount of alcohol is good for the body and now new research spotlights the potential harm it can cause.\r\nMore than 5% of all cancer cases are caused by drinking alcohol, … [+4729 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "More health-care workers in contact with Missouri bird flu patient report respiratory symptoms - CNN",
-      "description": "Four more health-care workers who tended to a person hospitalized with H5N1 bird flu have revealed that they had respiratory symptoms after their exposures, according to the US Centers for Disease Control and Prevention.",
-      "url": "https://www.cnn.com/2024/09/27/health/health-care-workers-missouri-bird-flu/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/53742466267-756a538fef-o.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-27T23:19:00Z",
-      "content": "Four more health-care workers who tended to a person hospitalized with H5N1 bird flu have revealed that they had respiratory symptoms after their exposures, according to the US Centers for Disease Co… [+3482 chars]"
+      "author": "Slashdot",
+      "title": "A Cheap, Low-Tech Solution For Storing Carbon? Researchers Suggest Burying Wood - Slashdot",
+      "description": null,
+      "url": "https://news.slashdot.org/story/24/09/28/0418244/a-cheap-low-tech-solution-for-storing-carbon-researchers-suggest-burying-wood",
+      "urlToImage": null,
+      "publishedAt": "2024-09-28T15:37:57Z",
+      "content": null
     }
   ]
 }
