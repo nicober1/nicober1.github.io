@@ -1,110 +1,318 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "[Removed]"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-10-01T09:01:00Z",
-      "content": "[Removed]"
+      "author": "Steven Scheer, Maya Gebeily, Parisa Hafezi",
+      "title": "Israel vows response to Iran missile attack as fears of conflict escalation rise - Reuters",
+      "description": "Israeli Prime Minister Benjamin Netanyahu promised that arch foe Iran would pay for its missile attack against Israel on Tuesday, while Tehran said any retaliation would be met with \"vast destruction\", raising fears of a wider war.",
+      "url": "https://www.reuters.com/world/middle-east/israeli-military-has-begun-limited-raids-against-hezbollah-targets-border-area-2024-09-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LMY77HXOWVJULJ4DVPHTPNX4OM.jpg?auth=8cc344934bfaa5c4330b7a55ce580e402540d94602f85ef141892766382de60f&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-10-01T22:10:20Z",
+      "content": null
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Axios",
-      "title": "Powell says the Fed is not on a \"preset course\" to lower interest rates - Axios",
+      "author": "Adam Bernstein",
+      "title": "John Amos, actor in groundbreaking TV roles, dies at 84 - The Washington Post",
+      "description": "He played the stoic patriarch in “Good Times” and the adult Kunta Kinte in the miniseries “Roots.” He was also a fast-food entrepreneur in “Coming to America.”",
+      "url": "https://www.washingtonpost.com/obituaries/2024/10/01/john-amos-dead/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOX7MC2DFFBGPLMKUGWEQ7L3SM_size-normalized.JPG&w=1440",
+      "publishedAt": "2024-10-01T22:02:05Z",
+      "content": "John Amos, a running back turned actor who appeared in scores of TV shows including groundbreaking 1970s programs such as the sitcom Good Times and the epic miniseries Roots and risked his career to … [+10559 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ERIK VERDUZCO, JEFF AMY",
+      "title": "Hurricane Helene’s death toll passes 150 as crews search for survivors - The Associated Press",
+      "description": "Rescuers are scouring the mountains of western North Carolina for anyone still unaccounted for since Hurricane Helene’s remnants caused catastrophic damage to the Southeast. The death toll Tuesday reached 159 people. Residents in the Blue Ridge Mountains of N…",
+      "url": "https://apnews.com/article/helene-asheville-north-carolina-c5ff143de63e31bd345066221f5e4d24",
+      "urlToImage": "https://dims.apnews.com/dims4/default/be5faed/2147483647/strip/true/crop/3850x2166+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F8f%2F350fabc298779710e4f6f1d8f67a%2Fa92b2fe6f2da4ad289ab193462fef66f",
+      "publishedAt": "2024-10-01T22:01:00Z",
+      "content": "SWANNANOA, N.C. (AP) Cadaver dogs and search crews trudged through knee-deep muck and debris in the mountains of western North Carolina on Tuesday looking for victims of Hurricane Helene, days after … [+8791 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Switch emulator Ryujinx shuts down development after “contact by Nintendo” - Ars Technica",
+      "description": "GitHub removal comes months after a Nintendo lawsuit took down the Yuzu emulator.",
+      "url": "https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/ryujinx2-760x380.png",
+      "publishedAt": "2024-10-01T21:37:12Z",
+      "content": "Enlarge/ These copyrighted Switch games shown on Ryujinx's former GitHub page probably didn't curry any favor with Nintendo.\r\n34\r\nPopular open source Nintendo Switch emulator Ryujinx has been removed… [+3109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Rebecca Rubin",
+      "title": "Daniel Day-Lewis Officially Ends Retirement From Acting for Son’s Film ‘Anemone’ - Variety",
+      "description": "Daniel Day-Lewis is coming out of retirement to act in a new movie for the first time since 2017's \"Phantom Thread.\"",
+      "url": "https://variety.com/2024/film/news/daniel-day-lewis-ends-retirement-acting-new-film-1236161489/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/DDL.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-10-01T21:15:00Z",
+      "content": "Daniel Day-Lewis, widely considered one of the greatest actors of his generation, is emerging from retirement after seven years away from the big screen. He’s starring in Focus Features and Plan B’s … [+3152 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "The next iPhone SE may lose the home button, add Face ID and Apple Intelligence - The Verge",
+      "description": "Apple is rumored to be readying the next iPhone SE, complete with Face ID and Apple Intelligence, for manufacturing ahead of a release early next year.",
+      "url": "https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MbjCZjLVIYqaZv9ECL97xwJ_b4w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020915/226270_IPHONE_14_REGULAR_PHO_akrales_0657.jpg",
+      "publishedAt": "2024-10-01T21:01:26Z",
+      "content": "The next iPhone SE may lose the home button, add Face ID and Apple Intelligence\r\nThe next iPhone SE may lose the home button, add Face ID and Apple Intelligence\r\n / Apple will announce its next budge… [+1334 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Paul Gutierrez",
+      "title": "Raiders open to trading WR Adams, sources say - ESPN",
+      "description": "The Raiders have informed other teams that they would \"consider\" trading wide receiver Davante Adams for a package that would include a second-round pick and additional compensation, league sources told ESPN's Adam Schefter.",
+      "url": "https://www.espn.com/nfl/story/_/id/41555473/sources-raiders-open-trading-davante-adams-pick-more",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1001%2Fr1394604_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-10-01T20:52:00Z",
+      "content": "HENDERSON, Nev. -- The Las Vegas Raiders have informed other NFL teams they would \"consider\" trading three-time All-Pro receiver Davante Adams for a package that would include a second-round draft pi… [+3845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "NFL suspends Von Miller four games for violation of Personal Conduct Policy - NBC Sports",
+      "description": "Suspension possibly traces to allegations from December 2023.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-von-miller-four-games-for-violation-of-personal-conduct-policy",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/581dbe0/2147483647/strip/true/crop/4542x2555+0+237/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fd9%2F82eba77841ad89eba29faeb92d4c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2174564362",
+      "publishedAt": "2024-10-01T20:48:25Z",
+      "content": "Bills linebacker Von Miller is off to a strong start in 2024, with three sacks in four games. Hell now miss the next four.\r\nThe NFL announced that Miller has been suspended four games without pay for… [+758 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Still reeling from Helene's aftermath, a new tropical threat develops in the Gulf - ABC News",
       "description": null,
-      "url": "https://www.axios.com/2024/09/30/powell-fed-lower-interest-rates-economy",
+      "url": "https://abcnews.go.com/US/reeling-helenes-aftermath-new-tropical-threat-develops-gulf/story?id\\\\u003d114382318",
       "urlToImage": null,
-      "publishedAt": "2024-10-01T09:00:00Z",
+      "publishedAt": "2024-10-01T20:38:01Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detroit Free Press"
+      },
+      "author": "Jared Ramsey",
+      "title": "Detroit Tigers vs. Astros score today: Live updates, highlights from AL wild-card Game 1 - Detroit Free Press",
+      "description": "The Detroit Tigers face the Houston Astros in Game 1 of the AL wild-card series in MLB playoffs Tuesday. Follow for live updates and highlights.",
+      "url": "https://www.freep.com/story/sports/mlb/tigers/2024/10/01/detroit-tigers-vs-houston-astros-live-score-updates-highlights-channel-mlb-playoffs-wild-card/75467171007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2024/10/01/PDTF/75471379007-2175941193.jpg?crop=2999,1688,x0,y156&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2024-10-01T19:52:30Z",
+      "content": "For the first time since 2014, the Detroit Tigers are playing in a playoff game.\r\nThe Tigers take on the Houston Astros in Game 1 of the American League wild-card series Tuesday afternoon at Minute M… [+8228 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ALI SWENSON, CHRISTINE FERNANDO, JEFFREY COLLINS",
+      "title": "Key swing state faces ‘daunting’ level of uncertainty after storm ravages multiple counties - The Associated Press",
+      "description": "North Carolina election officials say they will do everything in their power to ensure that voters in the crucial presidential swing state will be able to cast their ballots despite the devastation of Hurricane Helene only about a month before the November el…",
+      "url": "https://apnews.com/article/hurricane-helene-north-carolina-voting-ballots-46a7fbecb44464409d796dd687d3cb9d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5c6ce78/2147483647/strip/true/crop/5778x3250+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2Ffd%2F0440c502252dd18345e391f1c5bd%2Fbf84eef65c944883bca23665e9c4a825",
+      "publishedAt": "2024-10-01T19:36:56Z",
+      "content": "ASHEVILLE, N.C. (AP) North Carolina election officials say they will do everything in their power to ensure that voters in the crucial presidential swing state will be able to cast their ballots desp… [+7349 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "6 dead in suspected terror shooting, stabbing in Tel Aviv amid Iran missile attack - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/International/multiple-casualties-reported-suspected-terror-shooting-attack-tel/story?id\\\\u003d114391048",
+      "urlToImage": null,
+      "publishedAt": "2024-10-01T19:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Devan Cole",
+      "title": "Georgia judge signals a need to clarify ‘vague’ new election certification rule - CNN",
+      "description": "A Georgia judge signaled Tuesday that he sees a need to bring clarity to the meaning of a “vague” new election certification rule approved by Donald Trump allies that critics say will inject chaos into the battleground state after Election Day.",
+      "url": "https://www.cnn.com/2024/10/01/politics/georgia-judge-signals-a-need-to-clarify-vague-new-election-certification-rule/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821121713-01-robert-mcburney-082123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-01T19:21:00Z",
+      "content": "A Georgia judge signaled Tuesday that he sees a need to bring clarity to the meaning of a vague new election certification rule approved by Donald Trump allies that critics say will inject chaos into… [+5274 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Chloe Melas, Antonio Planas",
+      "title": "Sean 'Diddy' Combs hit with a wave of 120 new sexual assault allegations - NBC News",
+      "description": "Sean “Diddy” Combs is facing dozens of new allegations of sexual assault in a series of lawsuits set to be filed.",
+      "url": "https://www.nbcnews.com/news/crime-courts/sean-diddy-combs-hit-wave-120-new-sexual-assault-allegations-rcna173474",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241001-sean-combs-diddy-se-150p-8a71b5.jpg",
+      "publishedAt": "2024-10-01T19:05:44Z",
+      "content": "Sean Diddy Combs is facing dozens of new allegations of sexual assault in a series of lawsuits set to be filed.\r\nAt a news conference held Tuesday, Texas-based attorney Tony Buzbee said he is represe… [+4473 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Tracy Swartz",
+      "title": "Breast cancer rising among younger women at ‘troubling’ rate: report - New York Post ",
+      "description": "From 2012 to 2021, the incidence rate increased 1.4% annually among women younger than 50, 2.5% among Asian American women and 2.7% among Pacific Islander women.",
+      "url": "https://nypost.com/2024/10/01/lifestyle/breast-cancer-rising-among-younger-women-new-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/90808531.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-01T18:50:00Z",
+      "content": "The breast cancer death rate continues to decline among US women, a new American Cancer Society report finds, but diagnoses are becoming more common among younger women.\r\nACS researchers said nearly … [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": null,
+      "title": "Jeep recalls 194,000 plug-in hybrid SUVs over fire risk - NPR",
+      "description": "Jeep is recalling more than 194,000 plug-in hybrid SUVs because they can catch fire with the ignition turned off. The automaker says the risk of fire is reduced when the battery charge is depleted.",
+      "url": "https://www.npr.org/2024/10/01/nx-s1-5134998/jeep-recall-plug-in-hybrids-fire-risk-suv",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4479x2519+0+92/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Ff5%2Fec8183fb467fa8d2b2e012cc42f4%2Fap24253496986348.jpg",
+      "publishedAt": "2024-10-01T18:24:20Z",
+      "content": "DETROIT Jeep is recalling more than 194,000 plug-in hybrid SUVs worldwide because they can catch fire with the ignition turned off.\r\nIn addition, Jeep is urging owners not to charge the SUVs and to p… [+724 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "Fantasy football flex rankings: Top 150 RB/WR/TE options in Week 5 of 2024 NFL season - NFL.com",
+      "description": "Pondering some tough flex choices for your fantasy football lineup? Adam Rank sorts through the RBs, WRs and TEs to present his top 150 flex options for Week 5 of the 2024 NFL season.",
+      "url": "https://www.nfl.com/news/fantasy-football-flex-rankings-top-150-rb-wr-te-options-in-week-5-of-2024-nfl-season",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/uer2a91yywopeegilfq1",
+      "publishedAt": "2024-10-01T18:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alexandra Canal",
+      "title": "Stock market today: Nasdaq leads stock declines while oil spikes on Iran attack - Yahoo Finance",
+      "description": "US stocks sold off on Tuesday after Iran fired over 100 ballistic missiles against Israel.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-stock-declines-while-oil-spikes-on-iran-attack-172955360.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_YSjQM_E1BNKXfXyCkyvQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/a1aa1c70-531a-11ef-b1fe-1ba308b20c65",
+      "publishedAt": "2024-10-01T18:05:36Z",
+      "content": "US stocks slid on Tuesday after Iran fired over 100 ballistic missiles at Israel, pushing oil prices for West Texas Intermediate (CL=F) and Brent (BZ=F) to their biggest increases in nearly a year.\r\n… [+11963 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI’s DevDay brings Realtime API and other treats for AI app developers - TechCrunch",
+      "description": "It's been a tumultuous week for OpenAI, full of executive departures and major fundraising developments, but the startup is back at it, trying to convince",
+      "url": "https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778705443.jpg?resize=1200,675",
+      "publishedAt": "2024-10-01T17:15:00Z",
+      "content": "It’s been a tumultuous week for OpenAI, full of executive departures and major fundraising developments, but the startup is back at it, trying to convince developers to build tools with its AI models… [+4716 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MARI YAMAGUCHI",
+      "title": "Japan's new premier vows to push strong defense under Japan-US alliance and boost economy - The Associated Press",
+      "description": "The newly elected Japanese prime minister pledged to stick to the vital Japan-U.S. alliance amid growing tension in the region while calling for it to be more equitable. This comes as the new premier tries to boost a slow economy and regain public trust ahead…",
+      "url": "https://apnews.com/article/japan-cabinet-kishida-ishiba-fa7f80b614a8bf298852b6766dbf6403",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4da0400/2147483647/strip/true/crop/7000x3937+0+365/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F6a%2Fe48c4af254b52fb2c1bd15acc8b1%2F5390006e3e5b4385859985862885661d",
+      "publishedAt": "2024-10-01T16:23:00Z",
+      "content": "TOKYO (AP) The newly elected Japanese prime minister pledged Tuesday night to stick to the vital Japan-U.S. alliance amid growing tension in the region while calling for it to be more equitable. This… [+6197 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Caitlin Yilek",
+      "title": "Tim Walz and JD Vance's 2024 VP debate is tonight. Here's what to know. - CBS News",
+      "description": "The vice presidential showdown on Tuesday, Oct. 1, is expected to be the last debate before the November election.",
+      "url": "https://www.cbsnews.com/news/vp-debate-2024-what-to-know/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/27/d47caf3d-8c74-48b6-962d-6bbffb2112f2/thumbnail/1200x630/1a4e3c1160f31631190a4fa9b5e6fe9a/walz-vance-getty3.jpg?v=fa529222a2be3543711c1a879b51e860",
+      "publishedAt": "2024-10-01T16:16:15Z",
+      "content": "Washington — Sen. JD Vance of Ohio and Minnesota Gov. Tim Walz — both relative newcomers to the national political spotlight — face off Tuesday in the only scheduled vice presidential debate before t… [+3786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Jamie Carter",
+      "title": "How long will the annular solar eclipse on Oct. 2 last? - Space.com",
+      "description": "Here's how long the \"ring of fire\" phase of the annular solar eclipse will last depending on where you're viewing it from.",
+      "url": "https://www.space.com/how-long-will-annular-solar-eclipse-2024-last",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PHEV94UUcy4bpRAPaZHNJc-1200-80.jpg",
+      "publishedAt": "2024-10-01T16:00:01Z",
+      "content": "On Oct. 2, an annular — or \"ring of fire\" — solar eclipse will be visible from parts of the southern Pacific Ocean, Easter Island, southern Chile and Argentina, and the southern Atlantic Ocean. Centr… [+3738 chars]"
     },
     {
       "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "author": "John Geddie, Tim Kelly",
-      "title": "Japan's new PM Ishiba unveils cabinet ahead of snap election - Reuters",
-      "description": "Japan's new Prime Minister Shigeru Ishiba on Tuesday unveiled his cabinet as he seeks to heal party divisions and secure a national mandate with an Oct. 27 snap election.",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-new-pm-ishiba-set-be-formally-anointed-unveil-cabinet-2024-10-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KBXLGGB7KBNSPBQL6T6YERWMBI.jpg?auth=7e023a7138824e9f0b173b719133cc16b4199091d1ebde29cdabb4d9c619aa8d&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-10-01T08:54:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Axios",
-      "title": "Israel begins ground operation in southern Lebanon - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2024/09/30/israel-ground-invasion-lebanon",
-      "urlToImage": null,
-      "publishedAt": "2024-10-01T08:10:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "School bus catches fire outside Bangkok and 25 on board are feared dead, government officials say - The Associated Press",
-      "description": "Officials in Thailand say a bus carrying young students and teachers caught fire outside Bangkok and 23 of those on board are feared dead. The bus was carrying 44 passengers from central Uthai Thani province to Ayutthaya for a school trip when the fire starte…",
-      "url": "https://apnews.com/article/thailand-bus-fire-students-dead-658c09c22d5b24963d2a5cec3f3d5694",
-      "urlToImage": "https://dims.apnews.com/dims4/default/368e26a/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2F68%2F8443a15138b316b70aac27df2a6e%2F7c06472bf9304182b591c6c290c10735",
-      "publishedAt": "2024-10-01T07:30:00Z",
-      "content": "BANGKOK (AP) A bus carrying young students with their teachers caught fire in suburban Bangkok on Tuesday, with more than 20 of those on board feared dead, officials and rescuers said.\r\nThe bus was c… [+1915 chars]"
+      "author": "Doyinsola Oladipo, David Shepardson",
+      "title": "US East Coast dockworkers strike, halting half the nation's ocean shipping - Reuters",
+      "description": "Dockworkers on the U.S. East Coast and Gulf Coast began a strike early on Tuesday, their first large-scale stoppage in nearly 50 years.",
+      "url": "https://www.reuters.com/world/us/us-east-coast-dockworkers-head-toward-strike-after-deal-deadline-passes-2024-10-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6B5LFS624ZN47CMOTWGZYCJRWA.jpg?auth=81f9d850ec66fac423254c2b40181152d91d96adcd3951ad5ccd213bb7870680&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-10-01T15:37:41Z",
+      "content": "NEW YORK, Oct 1 (Reuters) - U.S. East Coast and Gulf Coast dockworkers began a strike on Tuesday, their first large-scale stoppage in nearly 50 years, halting the flow of about half the nation's ocea… [+6499 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "NPR"
       },
       "author": null,
-      "title": "What to know for the Vance v Walz vice-presidential debate - BBC.com",
-      "description": "Tuesday night's head-to-head will be their first and only showdown in the 2024 presidential election cycle.",
-      "url": "https://www.bbc.com/news/articles/c981glp4v1lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/542e/live/797cc480-7fdb-11ef-822c-a50726bfda2e.jpg",
-      "publishedAt": "2024-10-01T07:18:45Z",
-      "content": "The two US vice-presidential candidates are set to face each other on the debate stage, just over a month before the White House election. \r\nOhio Republican Senator JD Vance will square off against M… [+4079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "Dockworkers go on strike at East and Gulf Coast ports - Fox Business",
-      "description": "Dockworkers at seaports on the East and Gulf Coasts went on strike Tuesday after negotiations with port employers over a new contract remained at an impasse.",
-      "url": "https://www.foxbusiness.com/economy/dockworkers-go-strike-east-gulf-coast-ports",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/Port-of-Newark.jpg?ve=1&tl=1",
-      "publishedAt": "2024-10-01T04:17:00Z",
-      "content": "Unionized dockworkers\r\n at 36 East and Gulf Coast ports went on strike early Tuesday amid an impasse in negotiations over a new contract with a group representing port employers.\r\nThe International L… [+3699 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "BILL BARROW, CHARLOTTE KRAMON",
-      "title": "Jimmy Carter and hometown of Plains celebrate the 39th president’s 100th birthday - The Associated Press",
-      "description": "Former president Jimmy Carter celebrates his 100th birthday Tuesday. It is the first time an American president has lived a full century and marks a milestone in a life that took the son of a Depression-era farmer to the White House and across the world as an…",
-      "url": "https://apnews.com/article/jimmy-carter-100th-birthday-1e540c277dea07bd84242d290b4ebcdc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/571218d/2147483647/strip/true/crop/2715x1527+0+141/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F56%2F882ab8eb249aee0b8ff7a585bb91%2F06105e87061e467595360b5050fe5049",
-      "publishedAt": "2024-10-01T04:12:00Z",
-      "content": "ATLANTA (AP) Jimmy Carter is preparing to celebrate his 100th birthday on Tuesday, the first time an American president has lived a full century and the latest milestone in a life that took the son o… [+4449 chars]"
+      "title": "More than 20 students and teachers are feared dead in Thailand school trip bus fire - NPR",
+      "description": "A bus carrying young students and their teachers on a school trip caught fire in suburban Bangkok, leaving more than 20 feared dead, officials and rescuers said.",
+      "url": "https://www.npr.org/2024/10/01/nx-s1-5134804/thailand-school-trip-bus-fire-deaths-bangkok",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5274x2967+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F9f%2Fca2ad7ca455a834848cca1b3d284%2Fap24275274503082.jpg",
+      "publishedAt": "2024-10-01T15:20:34Z",
+      "content": "BANGKOK A bus carrying young students and their teachers on a school trip caught fire in suburban Bangkok on Tuesday, leaving more than 20 feared dead, officials and rescuers said.\r\nThe bus with 45 p… [+3311 chars]"
     },
     {
       "source": {
@@ -112,259 +320,142 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Seattle Seahawks vs. Detroit Lions | 2024 Week 4 Game Highlights - NFL",
+      "title": "NASA's SpaceX Crew-8: Science, Innovation, and Discovery - NASA",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "url": "https://www.youtube.com/",
       "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
-      "publishedAt": "2024-10-01T03:42:41Z",
+      "publishedAt": "2024-10-01T15:00:11Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Phinsider"
-      },
-      "author": "Kevin Nogle",
-      "title": "Titans vs. Dolphins final score, immediate reactions to Monday Night Football Week 4 - The Phinsider",
-      "description": "The Miami Dolphins and Tennessee Titans closed out their Monday Night Football showdown in Week 4. We react to the action.",
-      "url": "https://www.thephinsider.com/2024/9/30/24258909/miami-dolphins-final-score-vs-tennessee-titans-monday-night-football-reactions-recap-week-4-2024",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/odhU8J-I_wYfKeE92zN0QHZG280=/0x272:2737x1705/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25652202/2175787633.jpg",
-      "publishedAt": "2024-10-01T02:45:03Z",
-      "content": "The Miami Dolphins hosted the Tennessee Titans on Monday Night Football tonight, the second straight year Tennessee traveled into South Florida for a Monday game. Last year, the Dolphins dropped that… [+6573 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Britney Spears Shares She Burned Off Hair, Eyelashes and Eyebrows in \"Really Bad\" Fire Accident - E! Online - E! NEWS",
-      "description": "Britney Spears described her painful experience of getting burned by her fireplace six months ago, saying the flames “blew up in her face.”",
-      "url": "https://www.eonline.com/news/1408013/britney-spears-shares-she-burned-off-hair-eyelashes-and-eyebrows-in-really-bad-fire-accident",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024830/cr_1200x1200-240930192706-GettyImages-925654886.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2024-10-01T02:41:00Z",
-      "content": "Britney Spearsis recounting a dangerous experience she had earlier this year that almost sent her to the emergency room.\r\nThe pop singer shared an update Sept. 30 detailing a painful moment from six … [+638 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Louis Casiano",
-      "title": "Trump launches GoFundMe to help Hurricane Helene victims, raises more than $1M - Fox News",
-      "description": "A GoFundMe launched by the Trump campaign raised more than $1 million on Monday after he visited areas of Georgia hit by Hurricane Helene.",
-      "url": "https://www.foxnews.com/us/trump-launches-gofundme-help-hurricane-helene-victims-raises-more-1m",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/Donald-Trump-Valdosta-GA-Sept.-30-2024-scaled.jpg",
-      "publishedAt": "2024-10-01T01:59:00Z",
-      "content": "Former President Trump raised more than $1 million dollars on Monday to benefit victims in the wake of the devastation left by Hurricane Helene.\r\nA GoFundMe page was launched by the Trump campaign fo… [+2105 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dan Lamothe",
-      "title": "U.S. sends more troops, warplanes to Middle East as bulwark against Iran - The Washington Post",
-      "description": "With Israel’s killing of Hezbollah leader Hasan Nasrallah, the Pentagon is bracing for retaliatory action from Tehran’s network of militias and militant groups.",
-      "url": "https://www.washingtonpost.com/national-security/2024/09/30/us-troops-middle-east-israel-iran-hezbollah/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FP2HBEMEQI6ZA4PBT67NHGOHQ.jpg&w=1440",
-      "publishedAt": "2024-10-01T01:53:52Z",
-      "content": "The Pentagon will deploy a few thousand additional U.S. troops and more fighter jets to the Middle East, defense officials said Monday, as part of the Biden administrations scramble to prevent the co… [+3923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Jackie Strause",
-      "title": "‘Veep’ Reunion Fundraiser Brings in $735K for Harris-Walz - Hollywood Reporter",
-      "description": "More than 20,000 fans of the HBO political comedy donated to WisDems to tune into the event — where a highlight was Julia Louis-Dreyfus and Tony Hale's recreation of their iconic bathroom scene in the 2015 episode, \"Crate.\"",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/veep-reunion-fundraiser-totals-harris-walz-1236018501/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2017/04/c2490f7868571c79b356ac6603a85c193101905aaba1f4c0826749d3982f1dfc1f2d9c6f63ae58b0a118eadad167404b-h_2017.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2024-10-01T01:52:48Z",
-      "content": "When the Veep cast reunited on Sunday night, the audience who tuned into the live table read event was warned, “No dogs or cats were eaten during the making of this program.”\r\nThe message — a dig at … [+5440 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Harrison Smith",
-      "title": "Gavin Creel, Tony-winning musical theater star, dies at 48 - The Washington Post",
-      "description": "He was honored for a Broadway revival of “Hello, Dolly!” and won an Olivier Award for “The Book of Mormon.” In July, he was diagnosed with a rare cancer.",
-      "url": "https://www.washingtonpost.com/obituaries/2024/09/30/gavin-creel-dead/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VI4EFOTOMTGLDASJTBE7PCXHTE.jpg&w=1440",
-      "publishedAt": "2024-10-01T01:43:35Z",
-      "content": "Gavin Creel, a Broadway veteran who brought an exuberant energy and sly humor to musical revivals and hit comedies, winning a Tony Award for Hello, Dolly! and an Olivier Award for the London producti… [+6371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "2024 MLB playoffs: 10 bold predictions, including another Shohei Ohtani first and an Astros letdown - CBS Sports",
-      "description": "The postseason officially begins on Tuesday with four Wild Card Series games",
-      "url": "https://www.cbssports.com/mlb/news/2024-mlb-playoffs-10-bold-predictions-including-another-shohei-ohtani-first-and-an-astros-letdown/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/30/4e51627e-fa4c-4995-a22e-c7f5d4f117e7/thumbnail/1200x675/2b5fb4148c9252dca7cdae2dca05d686/astros-getty-2.png",
-      "publishedAt": "2024-10-01T01:23:00Z",
-      "content": "Now that the regular season has (finally) concluded, the 2024 MLB postseason begins Tuesday with the best-of-three Wild Card Series. The Braves and Mets split their makeup doubleheader at Truist Park… [+15932 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "KiMi Robinson",
-      "title": "Sean 'Diddy' Combs appeals judge's denial of his release from jail on $50 million bond - USA TODAY",
-      "description": "After two judges denied Sean Combs' request to be released from Brooklyn's Metropolitan Detention Center, he's taking his appeal to a higher court.",
-      "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/09/30/diddy-appeals-denial-release-from-jail/75459884007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/17/USAT/75268510007-20230502-t-034541-z-1344588676-hp-1-ej-520-ag-3-qc-rtrmadp-3-usametball.JPG?crop=1937,1090,x0,y505&width=1937&height=1090&format=pjpg&auto=webp",
-      "publishedAt": "2024-10-01T01:22:23Z",
-      "content": "Sean \"Diddy\" Combs is taking his bid to be released from jail to a higher court.\r\nCombs' legal team on Monday submitted a notice of appeal to the Second Circuit Court of Appeals in the U.S. District … [+4877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STAT"
-      },
-      "author": "STAT",
-      "title": "Marburg virus outbreak in Rwanda draws concern over possibility of international spread - STAT",
-      "description": null,
-      "url": "https://www.statnews.com/2024/09/30/marburg-virus-outbreak-rwanda-concern-about-spread/",
-      "urlToImage": null,
-      "publishedAt": "2024-09-30T23:51:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Verizon Network Outage: Carrier Says Network Has Been Restored After Long Day Of Issues - CNET",
-      "description": "If you still don't have Verizon service on your phone, the carrier says you may want to restart your device.",
-      "url": "https://www.cnet.com/tech/mobile/verizon-network-outage-carrier-says-network-has-been-restored-after-long-day-of-issues/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/1eb72800e7b2889329abd20449755cf2b1bd4506/hub/2024/07/10/222fbe21-a3bd-4901-a82b-99e0b1bc1cdf/verizon-mobile-internet-phone-9655.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-09-30T23:32:00Z",
-      "content": "If you've had trouble using Verizon's network on Monday, you were not the only one. The carrier has confirmed to CNET that it has been working to fix some problems that have led to a service outage f… [+2704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jonathan Stempel",
-      "title": "Tesla, Musk beat shareholder lawsuit over self-driving promises - Yahoo Finance",
-      "description": "Tesla and its CEO Elon Musk on Monday won the dismissal of a lawsuit accusing them of defrauding shareholders by overstating the effectiveness and safety of ...",
-      "url": "https://finance.yahoo.com/news/tesla-musk-beat-shareholder-lawsuit-220052796.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/18c287c06c32134f99c5e1e594d2513b",
-      "publishedAt": "2024-09-30T22:00:52Z",
-      "content": "By Jonathan Stempel\r\n(Reuters) - Tesla and its CEO Elon Musk on Monday won the dismissal of a lawsuit accusing them of defrauding shareholders by overstating the effectiveness and safety of the autom… [+1773 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Brandon Specktor",
-      "title": "Can you see Earth's new 'minimoon' with the naked eye? - Livescience.com",
-      "description": "On Sunday, Sept. 29, Earth captured a new \"minimoon\" called 2024 PT5. The bus-size asteroid is expected to orbit our planet for 57 days, but is too small to be visible to amateur skywatchers.",
-      "url": "https://www.livescience.com/space/asteroids/can-you-see-earth-s-new-minimoon-with-the-naked-eye",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/A2qXKiGi5HweiWHtWRoUW6-1200-80.jpg",
-      "publishedAt": "2024-09-30T22:00:00Z",
-      "content": "On Sunday (Sept. 29), Earth captured a \"second moon\" that will accompany our planet on its journey around the sun for the next two months.\r\nThe clingy space rock is actually a near-Earth asteroid\r\n n… [+2875 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Josh Fiallo",
-      "title": "Hurricane Helene Turns City Touted as ‘Climate Haven’ Into ‘Apocalyptic’ Disaster Zone - The Daily Beast",
-      "description": "People flocked to western North Carolina to escape the adverse effects of climate change. It still arrived at their front doors.",
-      "url": "https://www.thedailybeast.com/climate-haven-asheville-among-cities-most-devastated-by-hurricane-helene",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_106/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1727721715/GettyImages-2174714706_xxjlbp",
-      "publishedAt": "2024-09-30T21:53:24Z",
-      "content": "An area touted as a climate haven thatd be safe from the adverse effects of global warming is among the most devastated by Hurricane Helene. \r\nThe city of Asheville, North Carolina, has consistently … [+3874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-30T21:49:06Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Allegra Goodwin, Gianluca Mezzofiore",
-      "title": "US-made 2,000-pound bombs likely used in strike that killed Hezbollah chief Nasrallah, CNN analysis shows - CNN",
-      "description": "American-manufactured 2,000-pound bombs were likely used in the Israeli attack that killed Hezbollah’s leader, Hassan Nasrallah, in Beirut on Friday night, according to a review of footage showing the operation and its aftermath by CNN and munitions experts.",
-      "url": "https://www.cnn.com/2024/09/30/middleeast/israel-attack-nasrallah-2000-pound-bombs-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21000923-7482-983-still.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-09-30T20:00:00Z",
-      "content": "American-manufactured 2,000-pound bombs were likely used in the Israeli attack that killed Hezbollahs leader, Hassan Nasrallah, in Beirut on Friday night, according to a review of footage showing the… [+5094 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Scharon Harding",
-      "title": "“So aggravating”: Outdated ads start appearing on PS5 home screen - Ars Technica",
-      "description": "Players are annoyed as new home screen needs work.",
-      "url": "https://arstechnica.com/gaming/2024/09/ps5-home-screen-starts-showing-coming-soon-ads-for-already-released-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2174565984-760x380.jpg",
-      "publishedAt": "2024-09-30T18:54:52Z",
-      "content": "50\r\nUpdate, September 30, 2024, 6:34 p.m. ET: It seems that the new home screen experience that users reported today was the result of a bug that has been fixed. On September 30 at 6 p.m. ET today, t… [+3977 chars]"
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "SARAH PARVINI",
-      "title": "Epic Games sues Google and Samsung over phone settings, accusing them of violating antitrust laws - The Associated Press",
-      "description": "Video game maker Epic Games sued Google and Samsung on Monday, accusing the tech companies of coordinating to block third-party competition in application distribution on Samsung devices. At issue is Samsung’s “Auto Blocker” feature, which only allows for app…",
-      "url": "https://apnews.com/article/epic-games-google-samsung-d5acc9f1412251335a9e9cf08ce3e98c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/72ca6ea/2147483647/strip/true/crop/5006x2816+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F08%2Fa0f80b77896073af4614886429d5%2F8022b6f208314fb5b6343c41816a720a",
-      "publishedAt": "2024-09-30T18:09:00Z",
-      "content": "LOS ANGELES (AP) Video game maker Epic Games sued Google and Samsung on Monday, accusing the tech companies of coordinating to block third-party competition in application distribution on Samsung dev… [+2533 chars]"
+      "author": "ADITHI RAMAKRISHNAN",
+      "title": "NASA's Webb telescope detects traces of carbon dioxide on the surface of Pluto's largest moon - The Associated Press",
+      "description": "NASA’s Webb Space Telescope has identified new clues about the surface of Pluto’s largest moon. It detected for the first time traces of carbon dioxide and hydrogen peroxide on Charon's surface. Previous research, including a 2015 NASA flyby, showed that Char…",
+      "url": "https://apnews.com/article/pluto-moon-charon-nasa-james-webb-d20c542908e32e9c5c7f41538dac4640",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8702b2f/2147483647/strip/true/crop/4464x2511+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fbd%2F79a69754c7be9646f8448a168f5a%2Fb6fca2765320495caf381c7a1de1ec65",
+      "publishedAt": "2024-10-01T15:00:00Z",
+      "content": "NEW YORK (AP) NASAs Webb Space Telescope has identified new clues about the surface of Plutos largest moon.\r\nIt detected for the first time traces of carbon dioxide and hydrogen peroxide on the surfa… [+1483 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Hindustan Times"
       },
-      "author": "Daisy Dobrijevic",
-      "title": "Solar eclipse livestream — Watch the annular eclipse online on Oct. 2 - Space.com",
-      "description": "You can watch the annular solar eclipse live on Oct. 2 with this free livestream. Here's how.",
-      "url": "https://www.space.com/watch-annular-solar-eclipse-2024-online",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HDeQ3WdE69XKq7PLd7xz2G-1200-80.jpg",
-      "publishedAt": "2024-09-30T17:00:01Z",
-      "content": "On Oct. 2, the moon and sun will produce a dazzling \"ring of fire\" in the sky. The annular solar eclipse\r\n is going to be a sight to behold. \r\nHowever, many of us will be nowhere near the path of ann… [+3377 chars]"
+      "author": "Kushal Kumar Jha",
+      "title": "Israel Invasion: Lebanon Minister Reveals Shocking Numbers | Hezbollah | Nasrallah | IDF - Hindustan Times",
+      "description": "Lebanese minister revealed shocking numbers on Oct 1 amid the ongoing Israel's invasion of Lebanon. He warned of 'one of the largest humanitarian crises' worldwide as displacement soared to 1 million after IDF's ground incursion. Watch this video for all the …",
+      "url": "https://www.hindustantimes.com/videos/israel-invasion-lebanon-minister-reveals-shocking-numbers-hezbollah-nasrallah-idf-101727794541296.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/01/1600x900/kjknnk_1727794589933_1727794592806.jpg",
+      "publishedAt": "2024-10-01T14:57:30Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "PBS"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-09-30T15:20:41Z",
-      "content": "[Removed]"
+      "title": "Jimmy Carter celebrates 100th birthday in his hometown of Plains - PBS NewsHour",
+      "description": "Former president Jimmy Carter has reached his 100th birthday. It is the first time an American president has lived a full century and marks a milestone in a life that took the son of a Depression-era farmer to the White House and across the world as an advoca…",
+      "url": "https://www.pbs.org/newshour/politics/jimmy-carter-celebrates-100th-birthday-in-his-hometown-of-plains",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2024-10-01T100018Z_2141368606_RC25N4A0A3QA_RTRMADP_3_PEOPLE-JIMMY-CARTER-1024x683.jpg",
+      "publishedAt": "2024-10-01T14:46:05Z",
+      "content": "ATLANTA (AP) Jimmy Carter reached his 100th birthday Tuesday, the first time an American president has lived a full century and the latest milestone in a life that took the son of a Depression-era fa… [+5187 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "MSNBC",
+      "title": "'Almost a radical decision': Lisa Rubin breaks down judge's ruling on Georgia abortion ban - MSNBC",
+      "description": "A judge in Fulton County, Georgia, struck down the state's six-week abortion ban Monday, allowing the procedure to resume and making it legal up to 22 weeks of pregnancy.",
+      "url": "https://www.msnbc.com/morning-joe/watch/-almost-a-radical-decision-lisa-rubin-breaks-down-judge-s-ruling-on-georgia-abortion-ban-220533317662",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_10/1727779940617_n_mj_georgia_241001_1920x1080-0jqfv5.jpg",
+      "publishedAt": "2024-10-01T14:12:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Isaac Schultz",
+      "title": "Astronomers Discover Planet Orbiting Nearest Single Star to the Sun - Gizmodo",
+      "description": "There's an exoplanet whipping around Barnard's star, and there may be up to three others yet to be detected.",
+      "url": "https://gizmodo.com/astronomers-discover-planet-orbiting-nearest-single-star-to-the-sun-2000505287",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/barnard-star-exoplanet.jpg",
+      "publishedAt": "2024-10-01T12:02:03Z",
+      "content": "The single nearest star to the Sunwhich is to say, the closest star moving independent from a star systemhas at least one exoplanet, according to a team of astronomers that recently scrutinized the h… [+2570 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kim Hjelmgaard, Cybele Mayes-Osterman",
+      "title": "Israel launches ground invasion in Lebanon with 'limited' raids on Hezbollah - USA TODAY",
+      "description": "The ground invasion represents an escalating conflict in the Middle East between Israel and Iran-backed militants.",
+      "url": "https://www.usatoday.com/story/news/world/2024/10/01/israel-lebanon-ground-invasion-hezbollah/75463178007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/01/USAT/75463615007-20241001-t-085318-z-1412625958-rc-2-kbaax-5-lhw-rtrmadp-3-israelpalestinianslebanon.JPG?crop=5494,3088,x6,y538&width=3200&height=1799&format=pjpg&auto=webp",
+      "publishedAt": "2024-10-01T12:00:04Z",
+      "content": "This story has been updated with new information.\r\nIsrael's troops entered Lebanon on Tuesday as part of what the Israeli military called a \"limited, localized and targeted\" ground operation aimed at… [+5618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Davey Winder",
+      "title": "Microsoft Issues New Windows 11 Blue Screen Warning For All Users - Forbes",
+      "description": "The latest Windows 11 update can bring more than the fixes it promised. Microsoft warns it can make your system reboot again and again.",
+      "url": "https://www.forbes.com/sites/daveywinder/2024/10/01/microsoft-issues-new-windows-11-blue-screen-warning-for-all-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66fbba75b64c7f5245273848/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-01T09:21:32Z",
+      "content": "Windows 11 users facing reboot loop after update\r\nNurPhoto via Getty Images\r\nAn update for Windows 11 users that fixed a number of issues, including system freezes when using the Edge web browser, ha… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Denise Chow, Evan Bush",
+      "title": "The science behind how a Florida hurricane ravaged North Carolina - NBC News",
+      "description": "The devastation in North Carolina following Hurricane Helene is the result of a combination of factors related to climate change and the area's mountainous terrain.",
+      "url": "https://www.nbcnews.com/science/environment/science-florida-hurricane-ravaged-north-carolina-rcna173256",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240927-hurricane-helene-se-411p-9d32f9.jpg",
+      "publishedAt": "2024-10-01T09:00:40Z",
+      "content": "Two walnut trees, taller than 100 feet, fell a few dozen feet from Godfreys home. Another tree crunched a neighbors car.\r\nCommunication systems have also fared worse than Godfrey expected. \r\nWe have … [+1581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Marburg virus: Rwanda restricts funeral sizes following outbreak - BBC.com",
+      "description": "Authorities introduce new guidelines as the death toll from the highly contagious virus reaches eight.",
+      "url": "https://www.bbc.com/news/articles/c5y3pxky2lno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ccc/live/ecc3c3d0-7f18-11ef-b266-c1a332524046.jpg",
+      "publishedAt": "2024-10-01T08:50:52Z",
+      "content": "Rwandan authorities have restricted funeral sizes for victims of Marburg virus in an effort to curb an outbreak of the highly contagious disease.\r\nEight people have died during Rwanda's first outbrea… [+2362 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Gabby Landsverk",
+      "title": "To burn fat and improve blood sugar, try intermittent fasting, a new study says - Business Insider",
+      "description": "A new study offers even more evidence that intermittent fasting may help with fat-burning and blood sugar control by helping people eat less.",
+      "url": "https://www.businessinsider.com/intermittent-fasting-burn-fat-control-blood-sugar-study-2024-9",
+      "urlToImage": "https://i.insider.com/66faed8a7518aa57bc9f5d9a?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T21:01:00Z",
+      "content": null
     },
     {
       "source": {
@@ -378,58 +469,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/bird-flu.jpg",
       "publishedAt": "2024-09-30T12:20:01Z",
       "content": "Health authorities in the U.S. are studying seven people who developed influenza symptoms after being exposed to a Missouri bird flu patient, raising the possibility of the first human-to-human trans… [+1801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Virtualtelescope.eu"
-      },
-      "author": "Gianluca Masi",
-      "title": "Comet A11bP7I, likely a new Kreutz sungrazing comet: a couple of images - 29 & 30 Sept. 2024. - The Virtual Telescope Project 2.0",
-      "description": "On 27 Sept., 2024, a new comet, having temporary designation A11bP7I, was discovered by the ATLAS survey from Hawaii and almost immediately it revealed to likely be a very interesting one: a member of...",
-      "url": "https://www.virtualtelescope.eu/2024/09/30/comet-a11bp7i-likely-a-new-kreutz-sungrazing-comet-a-comple-of-images-29-30-sept-2024/",
-      "urlToImage": "https://www.virtualtelescope.eu/wordpress/wp-content/uploads/2024/09/A11bP7I_30sept2024_masi_vtp.jpg",
-      "publishedAt": "2024-09-30T12:15:36Z",
-      "content": "Comet A11bP7I, imaged on 29 Sept. 2024 at dawn.\r\nThe image above comes from the sigma clipping combination of 25, 30-second unguided exposures, remotely taken with the ARTEC250+Paramount ME+C3Pro6100… [+2785 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple May Launch First iPad-Like Smart Home Accessory Next Year - MacRumors",
-      "description": "Apple could release an iPad-like smart home accessory based on its homeOS platform as early as next year, according to Bloomberg's Mark Gurman.  ...",
-      "url": "https://www.macrumors.com/2024/09/30/apple-launch-smart-home-display-next-year/",
-      "urlToImage": "https://images.macrumors.com/t/B121rW0RKsIWG_4OsT0NEt40UbU=/1600x/article-new/2023/01/iPad-iOS-16-WP-Display-Feature-eric-edit.jpeg",
-      "publishedAt": "2024-09-30T09:55:08Z",
-      "content": "Apple could release an iPad-like smart home accessory based on its homeOS platform as early as next year, according to Bloomberg's Mark Gurman.\r\nWriting in his latest Power On newsletter, Gurman repo… [+1460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Notebookcheck.net",
-      "title": "Vivo showcases 'micro-curved' display of X200 with 'ultra-narrow' bezels - Notebookcheck.net",
-      "description": null,
-      "url": "https://www.notebookcheck.net/Vivo-showcases-micro-curved-display-of-X200-with-ultra-narrow-bezels.895608.0.html",
-      "urlToImage": null,
-      "publishedAt": "2024-09-29T16:22:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Jackie Fortier",
-      "title": "Getting the COVID vaccine during pregnancy protects newborns from hospitalization : Shots - Health News - NPR",
-      "description": "Babies under six months can't be vaccinated directly against COVID. A new study found that most infants hospitalized for COVID had mothers who didn’t get the vaccine while they were pregnant.",
-      "url": "https://www.npr.org/sections/shots-health-news/2024/09/27/g-s1-25069/getting-the-covid-vaccine-during-pregnancy-protects-newborns-from-hospitalization",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6385x3590+0+104/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F5a%2F8615201a41849ff8c6fc61f68bb2%2Fgettyimages-1236331606.jpg",
-      "publishedAt": "2024-09-29T11:00:00Z",
-      "content": "Nearly 90% of babies who had to be hospitalized for COVID-19 had mothers who didnt get the vaccine during pregnancy, according to new data\r\n from the Centers for Disease Control and Prevention.\r\nBabi… [+3899 chars]"
     }
   ]
 }
