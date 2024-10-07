@@ -1,71 +1,526 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 68,
   "articles": [
     {
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "ABC News",
-      "title": "Frontier Airlines jet appears to catch fire while landing at Las Vegas airport, FAA investigating - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/US/frontier-airlines-jet-catches-fire-landing-las-vegas/story?id\\\\u003d114534255",
-      "urlToImage": null,
-      "publishedAt": "2024-10-06T04:00:38Z",
-      "content": null
+      "author": "Sarah Dewberry, Cindy Von Quednow",
+      "title": "Flames seen under Frontier Airlines flight as it makes hard landing in Las Vegas - CNN",
+      "description": "Flames were seen underneath a Frontier flight as it made a hard landing at Harry Reid International Airport in Las Vegas on Saturday.",
+      "url": "https://www.cnn.com/2024/10/06/us/fire-seen-under-flight-after-hard-landing-in-las-vegas/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/frontier-fire.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-06T19:17:00Z",
+      "content": "A Frontier Airlines flight seemed to catch fire as it made what officials described as a hard landing at Harry Reid International Airport in Las Vegas on Saturday.\r\nFlight 1326 was arriving from San … [+998 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ye Xie, Michael Mackenzie",
+      "title": "Bond Traders Buckle Up for ‘No Landing’ After Jobs Surprise - Bloomberg",
+      "description": "The “no landing” scenario – a situation where the US economy keeps growing, inflation reignites and the Federal Reserve has little room to cut interest rates – had largely disappeared as a bond-market talking point in recent months.",
+      "url": "https://www.bloomberg.com/news/articles/2024-10-06/bond-traders-buckle-up-for-no-landing-after-jobs-surprise",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOo8VlU_ed68/v1/1200x800.jpg",
+      "publishedAt": "2024-10-06T19:00:00Z",
+      "content": "The no landing scenario a situation where the US economy keeps growing, inflation reignites and the Federal Reserve has little room to cut interest rates had largely disappeared as a bond-market talk… [+81 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "For Prime Day, Amazon is Selling This EcoFlow Battery Against Winter Blackouts for Pennies (52% Off) - Gizmodo",
+      "description": "Ideal for Winter Blackouts and Power Outages.",
+      "url": "https://gizmodo.com/for-prime-day-amazon-is-selling-this-ecoflow-battery-against-winter-blackouts-for-pennies-52-off-2000508012",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/delta-2-solar-ecoflow.jpg",
+      "publishedAt": "2024-10-06T18:39:52Z",
+      "content": "The EcoFlow portable power stations are selling crazy on Amazon with unprecedented deals that have catapulted them to the top of the best-seller lists in the past few days. For days, these products h… [+2547 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "The Daily Dot"
       },
-      "author": "Ljeonida Mulabazi",
-      "title": "‘$23 and no merch?’: Wendy’s customer tries new Krabby Patty meal. It’s not what she expects - The Daily Dot",
-      "description": "'They forgot to add love.'",
-      "url": "https://www.dailydot.com/news/wendys-krabby-patty-meal-review/",
-      "urlToImage": "https://uploads.dailydot.com/2024/10/wendys-krabby-patty.png?auto=compress&fm=png",
-      "publishedAt": "2024-10-06T02:00:00Z",
-      "content": "Wendys teamed up with Paramount to release two limited-time menu items in celebration of the SpongeBob SquarePants 25th anniversary.\r\nThe special promotion called the Krabby Patty Kollab, features a … [+2336 chars]"
+      "author": "Phil West",
+      "title": "‘I have driven to 4 locations in 1 day’: Woman claims Chipotle workers are lying to customers about being out of vinaigrette - The Daily Dot",
+      "description": "A Chipotle customer is claiming that she's gone to multiple locations in a day and each store is mysteriously out of her favorite dressing.",
+      "url": "https://www.dailydot.com/news/chipotle-denying-vinaigrette/",
+      "urlToImage": "https://uploads.dailydot.com/2024/10/Chipotle-vinaigrette.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-10-06T18:00:00Z",
+      "content": "Imagine loving something and being used to it being available. Then imagine thats been taken away from you. \r\nThats how one Chipotle customer feels about the chains famed vinaigrette. The dressing ha… [+4125 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Southernliving.com"
+      },
+      "author": "https://www.facebook.com/SouthernLiving/",
+      "title": "We Asked Southern Chefs Their Favorite Waffle House Orders—Here's What They Always Get - Southern Living",
+      "description": "Southern chefs share what they order at Waffle House, from special hash browns to drinks—including some unsung options.",
+      "url": "https://www.southernliving.com/southern-chef-waffle-house-orders-8719288",
+      "urlToImage": "https://www.southernliving.com/thmb/yCrPJdoyj93KF5gKO4H36B-FEpo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-458085139-362be5f546894d89841f1c114224c31b.jpg",
+      "publishedAt": "2024-10-06T16:45:54Z",
+      "content": "The golden lights of a Waffle House hold a special space in the hearts of chefs, cooks, and food industry workers in the South who are seeking a fresh, hot meal when their shift ends.\r\n\"Our whole bac… [+5073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Jack Alban",
+      "title": "‘Genius’: Man buys Harbor Freight toolbox. Viewers can’t believe what he uses it for - The Daily Dot",
+      "description": "One man showed off the inventive use he found for a Harbor Freight toolbox in a viral TikTok. People were impressed.",
+      "url": "https://www.dailydot.com/news/harbor-freight-kitchen-island/",
+      "urlToImage": "https://uploads.dailydot.com/2024/10/harbor-freight-toolbox.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-10-06T16:00:00Z",
+      "content": "People have been loving Harbor Freight recently for giving Snap-On a run for their money with this Icon wrench tool set. But the retailers tools arent just great for helping mechanics keep their shop… [+2992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Shubham Yewale",
+      "title": "Best Early Discounts From Walmart's October 2024 Deals Event - PCMag",
+      "description": "Not to be outdone by Prime Big Deal Days, Walmart is not only kicking off its own fall sales event early but also running it through October 13. Now let's go get those deals!",
+      "url": "https://www.pcmag.com/deals/best-early-october-walmart-deals-2024-sales-event",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/00yFJIDyqqIdZ0PZqqYHyaS-5.fit_lim.size_1200x630.v1728059775.png",
+      "publishedAt": "2024-10-06T15:44:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeannine Mancini",
+      "title": "Warren Buffett's Son Who Famously Cashed In His $90,000 Inheritance at 19 Spends Millions in 'Buffett Bucks' Transforming A Small New York Town - Yahoo Finance",
+      "description": "Warren Buffett has always been clear about how he wants to handle his wealth with his kids, famously saying he'd give them \"enough so they can do anything...",
+      "url": "https://finance.yahoo.com/news/warren-buffetts-son-famously-cashed-153019216.html",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/722a57cd0c1aecea4042dc4cd81b029b",
+      "publishedAt": "2024-10-06T15:30:19Z",
+      "content": "Warren Buffett's Son Who Famously Cashed In His $90,000 Inheritance at 19 Spends Millions in 'Buffett Bucks' Transforming A Small New York Town\r\nWarren Buffett has always been clear about how he want… [+3778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Peter Wade",
+      "title": "Users Are Getting Scammed Out of Money on Trump’s Truth Social - Rolling Stone",
+      "description": "Victims of scams on Truth Social report to the FTC that they lost tens or even hundreds of thousands of dollars to con artists on Trump's site.",
+      "url": "http://www.rollingstone.com/politics/politics-news/users-scammed-money-trump-truth-social-1235127287/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/GettyImages-2175320859.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-10-06T15:08:34Z",
+      "content": "Users of Donald Trump‘s social media network, Truth Social, are reporting being scammed out of large amounts of money by people they meet through the site.\r\nAccording to FTC complaints obtained by Gi… [+2968 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox8.com"
+      },
+      "author": "Talia Naquin",
+      "title": "Bought Pyrex? You could be owed a refund - WJW FOX 8 News Cleveland",
+      "description": "The Federal Trade Commission (FTC) announced this week that $88,000 in refunds are coming for some customers who purchased Pyrex.",
+      "url": "https://fox8.com/news/bought-pyrex-you-could-be-owed-a-refund/",
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/10/GettyImages-1124820540.jpg?w=1280",
+      "publishedAt": "2024-10-06T15:03:23Z",
+      "content": "(WJW) The Federal Trade Commission (FTC) announced this week that $88,000 in refunds are coming for some customers who purchased Pyrex.\r\nCustomers who purchased measuring cups marketed as Made in USA… [+580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Stacy Fernandez",
+      "title": "‘Diabetes in a box’: Customer demands answers after Crumbl Cookies releases new 1,130-calorie brownie - The Daily Dot",
+      "description": "Crumbl Cookies might crumble your health with its new calorie-dense brownie. Guess how many calories one has.",
+      "url": "https://www.dailydot.com/news/crumbl-cookies-brownie-1100-calories/",
+      "urlToImage": "https://uploads.dailydot.com/2024/10/crumbl-cookie-investigation.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-10-06T15:01:12Z",
+      "content": "Crumbl Cookies might crumble your health with its new calorie-dense brownie. \r\nFor those unfamiliar with the brand, Crumbl Cookies is an ever-growing cookie chain founded in Utah in 2017 by a pair of… [+3315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chowhound"
+      },
+      "author": "Katie Melynn",
+      "title": "Every McDonald's Burger, Ranked Worst To Best - Chowhound",
+      "description": "You might already have a favorite burger at McDonalds, but variety is the spice of life. Here are other options worth trying from its stacked menu.",
+      "url": "https://www.chowhound.com/1680480/mcdonalds-burgers-ranked-worst-best/",
+      "urlToImage": "https://www.chowhound.com/img/gallery/every-mcdonalds-burger-ranked-worst-to-best/l-intro-1728057313.jpg",
+      "publishedAt": "2024-10-06T14:15:12Z",
+      "content": "Stopping by the Golden Arches but not sure what to order? The iconic burger from McDonald's is its pride and joy, so beloved by customers that statistics shared in recent years show more than 6 milli… [+1207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InsideEVs "
+      },
+      "author": "Mack Hogan",
+      "title": "The Future Of EV Charging Is Way Nicer Than Any Gas Station - InsideEVs ",
+      "description": "Rove's station has 40 fast charging stalls, a high-end mini mart, public seating, on-site security and clean bathrooms. Rove has 10 more coming soon.",
+      "url": "https://insideevs.com/news/736249/rove-charging-station-future-ca/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/Oo29ve/s1/rove-charging-station.jpg",
+      "publishedAt": "2024-10-06T14:00:00Z",
+      "content": "<ul><li>Rove's new station in Santa Ana, California, offers 40 fast-charging stalls.</li><li>It also offers much-needed amenities that most chargers lack, like bathrooms, a 24/7 lounge, night securit… [+3789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kerry Hannon",
+      "title": "Q&A: Vanguard strategist on saving for retirement and spending when you get there - Yahoo Finance",
+      "description": "Colleen Jaconetti, a senior investment strategist for retirement at Vanguard, digs into the balance between spending on immediate needs and saving for the...",
+      "url": "https://finance.yahoo.com/news/qa-vanguard-strategist-on-saving-for-retirement-and-spending-when-you-get-there-133032184.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-06T13:30:32Z",
+      "content": "Beach bonfires, sunrise sound-bath meditation, and yoga sessions mixed with high-level financial discussions on everything from bitcoin to bonds: Thats the Future Proof Festival, which took place las… [+7304 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kenneth Niemeyer, Lakshmi Varanasi",
+      "title": "Ex-Google CEO Eric Schmidt Says We Should Focus on AI, Not Climate Goals - Business Insider",
+      "description": "Former Google CEO Eric Schmidt said that AI is advancing so fast, and requires so much energy, that there is no way to keep up with climate goals.",
+      "url": "https://www.businessinsider.com/eric-schmidt-google-ai-data-centers-energy-climate-goals-2024-10",
+      "urlToImage": "https://i.insider.com/670192e2a7031864927fba00?width=1200&format=jpeg",
+      "publishedAt": "2024-10-06T13:26:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Ajani Bazile-Dutes",
+      "title": "19 Dumb, Confusing, Or Dangerous Designs I Can't Believe Hotels Actually Approved - BuzzFeed",
+      "description": "Some of these designers need to be fired.",
+      "url": "https://www.buzzfeed.com/ajanibazile/dumb-confusing-dangerous-hotel-designs",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-10/4/20/enhanced/051a5b7ef916/original-465-1728074291-2.png?crop=2082:1090;0,54%26downsize=1250:*",
+      "publishedAt": "2024-10-06T13:16:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
       },
       "author": null,
-      "title": "Best Prime Day Deals Under $25: Shop 60+ Early Offers Before October Prime Day Starts - CNET",
-      "description": "Even though it's a few days off, the Prime Day deals are rolling in.",
-      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-25-2024-10-05/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/67b3bb8b3a0c8953319088676cb603989f566f38/hub/2024/06/25/f9087984-4a9f-4558-b948-6172ce63b8a0/25.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2024-10-06T01:48:00Z",
-      "content": "Zooey Liao/CNET\r\nWith Amazon's October Prime Day starting in just a few days, the holiday shopping season is about to kick off. With that in mind, we've rounded up some early deals that stay at or un… [+6888 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-06T13:12:09Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Natalia Kniazhevich, Esha Dey",
+      "title": "S&P’s $8 Trillion Rally Will Be Tested by Tricky Earnings Season - Bloomberg",
+      "description": "Traders are staring down a series of risks after the stock market’s torrid start to the year, from economic fear, to interest rate uncertainty, to election angst. But perhaps the most important variable for whether equities can keep rolling returns to the spo…",
+      "url": "https://www.bloomberg.com/news/articles/2024-10-06/s-p-s-8-trillion-rally-will-be-tested-by-tricky-earnings-season",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFcuBWIxMDEk/v0/1200x800.jpg",
+      "publishedAt": "2024-10-06T13:00:07Z",
+      "content": "Traders are staring down a series of risks after the stock markets torrid start to the year, from economic fear, to interest rate uncertainty, to election angst. But perhaps the most important variab… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Dot"
+      },
+      "author": "Jack Alban",
+      "title": "‘KFC has lost the plot’: KFC customer orders $8 chicken tenders. Then she tries to eat them - The Daily Dot",
+      "description": "A KFC customer slammed the chain for charging her $8 for a two-tender meal in a viral TikTok. She couldn't believe their sizes.",
+      "url": "https://www.dailydot.com/news/kfc-chicken-tender/",
+      "urlToImage": "https://uploads.dailydot.com/2024/10/KFC-chicken.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2024-10-06T13:00:00Z",
+      "content": "A TikToker named Avalon (@totalllyavalon) expressed deep chicken regret after buying KFC. While she wasnt thrilled with her meals taste, that wasnt her major gripe.\r\nThe Australian-based user was stu… [+3614 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "Callum Borchers",
-      "title": "Meet the HENRYS: The Six-Figure Earners Who Don’t Feel Rich - The Wall Street Journal",
-      "description": "When you’re a HENRY—high earner, not rich yet—a hefty salary isn’t enough to buy freedom from financial pressure",
-      "url": "https://www.wsj.com/lifestyle/careers/meet-the-henrys-the-six-figure-earners-who-dont-feel-rich-fb8ae842",
-      "urlToImage": "https://images.wsj.net/im-23266313/social",
-      "publishedAt": "2024-10-06T01:00:00Z",
-      "content": "Fifteen years ago if youd told April Little that shed make $300,000 a year, she would have pictured a life free of financial stress. \r\nThe white picket fenceI have the whole visual in my head, says L… [+332 chars]"
+      "author": "Dan Gallagher",
+      "title": "Microsoft’s AI Story Is Getting Complicated - The Wall Street Journal",
+      "description": "Blowout capital spending, financial reporting changes and the relationship with OpenAI are making investors think twice",
+      "url": "https://www.wsj.com/tech/ai/microsofts-ai-story-is-getting-complicated-ebe63ac9",
+      "urlToImage": "https://images.wsj.net/im-969199/social",
+      "publishedAt": "2024-10-06T12:30:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "[Removed]"
       },
-      "author": "Connie Loizos",
-      "title": "23andMe’s future prompts more worries, as genomic data analysis improves - TechCrunch",
-      "description": "Customers of genetic data outfit 23andMe may be at greater risk than they realize, suggests a New York Times story that argues the company’s woes could be",
-      "url": "https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/disruptsf18_anne_wojcicki_23andme-0021.jpg?resize=1200,800",
-      "publishedAt": "2024-10-05T23:32:50Z",
-      "content": "Customers of genetic data outfit 23andMe may be at greater risk than they realize, suggests a New York Times story that argues the companys woes could be short-lived compared to the longer-term threa… [+786 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-06T12:02:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Charlotte Yang, Tania Chen",
+      "title": "China Stock Skepticism Gets Louder as World-Beating Run Extends - Bloomberg",
+      "description": "The world-beating rally in Chinese stocks is failing to convince many global fund managers and strategists.",
+      "url": "https://www.bloomberg.com/news/articles/2024-10-06/china-stock-skepticism-gets-louder-as-world-beating-run-extends",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/invoQCKHSN6M/v0/1200x800.jpg",
+      "publishedAt": "2024-10-06T12:00:00Z",
+      "content": "The world-beating rally in Chinese stocks is failing to convince many global fund managers and strategists.\r\nInvesco Ltd., JPMorgan Asset Management, HSBC Global Private Banking and Wealth, and Nomur… [+222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Geoffrey Seiler",
+      "title": "Nvidia's CEO Says Demand for Its New Chips Is \"Insane.\" Is It Time to Buy the Stock? - The Motley Fool",
+      "description": "Why demand for Nvidia's GPUs is likely to remain robust for the foreseeable future.",
+      "url": "https://www.fool.com/investing/2024/10/06/nvidias-ceo-says-demand-for-its-new-chips-is-insan/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/792873/gettyimages-1402452876.jpg",
+      "publishedAt": "2024-10-06T11:15:00Z",
+      "content": "Why demand for Nvidia's GPUs is likely to remain robust for the foreseeable future.Nvidia(NVDA 1.69%) has been one of the best performing stocks the past few years, as demand has skyrocketed for its … [+4370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unilad.com"
+      },
+      "author": "Kit Roberts",
+      "title": "Billionaire CEO reveals the two biggest red flags in interviews that instantly put him off candidates - UNILAD",
+      "description": "Billionaire Jay Chaudhry shared two red flags he looks for in prospective candidates which put him off",
+      "url": "https://www.unilad.com/community/life/jay-chaudhry-business-new-hire-red-flags-339943-20241006",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/blte555513d2ddc9940/67026a8f4728d683f42d59b3/CEO-reveals-biggest-red-flags-interviews.png",
+      "publishedAt": "2024-10-06T11:11:48Z",
+      "content": "A billionaire CEO has shared two red flags that would put him off hiring a prospective candidate.\r\nJay Chaudhry founded Internet security service SecureIT with his wife Jyoti in 1996, before the comp… [+2178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Terry Lane",
+      "title": "What To Expect in the Markets This Week - Investopedia",
+      "description": "Coming up: Big bank earnings, Tesla robotaxi event, CPI inflation, Federal Reserve officials' remarks and meeting minutes, consumer credit",
+      "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-oct-7-2024-8722570",
+      "urlToImage": "https://www.investopedia.com/thmb/bl7IbhLvl1S4Vo1Qjx7qW-pYfSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_JPMorganChaseHQ_GettyImages-548207569-0e2f2f6c1cae462fbf5deeb0076d4998.jpg",
+      "publishedAt": "2024-10-06T11:00:00Z",
+      "content": "<ul><li>JPMorgan Chase, Wells Fargo, and BlackRock earnings are on tap for this week, as well as quarterly financial reports from Delta Air Lines and PepsiCo.</li><li>Tesla is expected to show off it… [+5751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Maurie Backman",
+      "title": "5 Social Security lies American retirees keep falling for — how many are hurting you in 2024? - Yahoo Finance",
+      "description": "Are you in the dark about Social Security? The answer may surprise you.",
+      "url": "https://finance.yahoo.com/news/5-social-security-lies-american-101100139.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-06T10:11:00Z",
+      "content": "Social Security pays benefits to roughly 68 million Americans, and as of August 2024, the average retired worker collected about $1,920 per month or around $23,000 per year.\r\nWith almost 90% of Ameri… [+4871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Chris Harris",
+      "title": "Squadron of squatters ‘terrorized’ NYC neighborhood after taking control of $4M brownstone - New York Post ",
+      "description": "The three-story, $4 million brownstone at 60 S. 4th St. in South Williamsburg was empty as of Thursday, after police forced the squatters back out onto the sidewalk on Monday.",
+      "url": "https://nypost.com/2024/10/06/us-news/nyc-squatters-terrorized-neighborhood-after-taking-control-of-4m-brownstone/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/241003-squatter-building-60-south-91003987.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-06T10:02:00Z",
+      "content": "Almost two dozen disheveled squatters tormented and terrorized the residents and businesses surrounding a vacant $4 million Brooklyn brownstone they commandeered.\r\nThe young miscreants stole packages… [+3874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Laura Grace Tarpley",
+      "title": "Mortgage and refinance rates today, October 6, 2024: Rates increase in response to jobs report - Yahoo Finance",
+      "description": "These are today's mortgage and refinance rates. Strong economic data has led to rate increases, and more data will come out soon. Lock in your mortgage rate ...",
+      "url": "https://finance.yahoo.com/personal-finance/mortgage-refinance-rates-today-sunday-october-6-2024-100057131.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-06T10:00:57Z",
+      "content": "Today's mortgage rates have continued to inch up. According to Zillow data, the national average 30-year fixed mortgage rate and 15-year fixed mortgage rate have each increased by 15 basis points to … [+6279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InStyle"
+      },
+      "author": "https://www.facebook.com/InStyle",
+      "title": "I’m 4-Foot-11—This Flattering, 65%-Off Denim Brand Oprah Loves Fits Me Perfectly - InStyle",
+      "description": "A 4’11” fashion editor relies on NYDJ denim for petite jeans. Shop the pants Oprah says fit her “perfectly” for up to 65 percent off ahead of Amazon Prime Day. Styles start at $38.",
+      "url": "https://www.instyle.com/oprah-nydj-jeans-early-october-prime-day-deals-8722992",
+      "urlToImage": "https://www.instyle.com/thmb/OmgDtk8peVeHf3RNiaZOWdAnAIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100324-oprah-jeans-soc-c7e3ceef19624ed08ad7553168a80681.jpg",
+      "publishedAt": "2024-10-06T10:00:00Z",
+      "content": "Being a 4-foot-11 girlie brings a few challenges, like jumping to check my reflection in bathroom mirrors and doing parkour to snag a cup from the top shelf. But perhaps the most frustrating part is … [+1958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lou Carlozo",
+      "title": "I bought my siblings out of our mom's home — the house later tripled in value and they want a share of the profit - Yahoo Finance",
+      "description": "The last thing you want to inherit is family drama.",
+      "url": "https://finance.yahoo.com/news/bought-siblings-moms-home-house-095700376.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-06T09:57:00Z",
+      "content": "Stories about adult siblings squabbling over inheritances arent only common everyday occurances they also make for juicy news headlines.\r\nWitness the ongoing brawl over the media empire of nonagenari… [+5740 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Julie Steinberg",
+      "title": "He Wants to Be the Lithium King. Run for President. And Live to 150. - The Wall Street Journal",
+      "description": "Teague Egan has big plans. First he needs to deliver on the hype he’s generated for his company.",
+      "url": "https://www.wsj.com/business/teague-egan-energyx-lithium-1c041366",
+      "urlToImage": "https://images.wsj.net/im-17745227/social",
+      "publishedAt": "2024-10-06T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Karen Langley",
+      "title": "Corporate Insiders Are Sitting Out the 2024 Stock-Market Rally - The Wall Street Journal",
+      "description": "Warren Buffett, Jamie Dimon and Jeff Bezos are among the business leaders exhibiting caution",
+      "url": "https://www.wsj.com/finance/stocks/stock-market-rally-corporate-insiders-2bb59974",
+      "urlToImage": "https://images.wsj.net/im-93533745/social",
+      "publishedAt": "2024-10-06T09:30:00Z",
+      "content": "Stock investors could hardly be more enthusiastic: The S&amp;P 500 has raced higher, notching its best first nine months of a year since 1997.Yet some of the best-informed investors dont seem to shar… [+5117 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sarah Nassauer",
+      "title": "Inside the Half-Century Feud Dividing the Boar’s Head Family - The Wall Street Journal",
+      "description": "Court battles shed light on secretive food empire now under scrutiny because of listeria outbreak",
+      "url": "https://www.wsj.com/business/boars-head-ownership-battle-brunckhorsts-bischoffs-93a163c6",
+      "urlToImage": "https://images.wsj.net/im-71428891/social",
+      "publishedAt": "2024-10-06T09:30:00Z",
+      "content": "Since long before Boars Head confronted a \r\ndeadly listeria outbreak, the deli-meat seller has been afflicted by a different problem: a family of owners who dont get along.For decades, the Boars Head… [+488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Danny Vena, The Motley Fool",
+      "title": "3 Stock-Split Stocks to Buy Before They Soar as Much as 215%, According to Select Wall Street Analysts - Yahoo Finance",
+      "description": "The evidence is clear that stock-split stocks tend to outperform the broader market.",
+      "url": "https://www.fool.com/investing/2024/10/06/3-stock-split-stocks-to-buy-before-they-soar-as-mu/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=8ed794d6-79cf-47ba-8748-d79a9586ae0c",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LYjd_v14FKKLOmbJa8fz6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc-/https://media.zenfs.com/en/motleyfool.com/fa6dc885c5f4be2042b65fa72c0ee857",
+      "publishedAt": "2024-10-06T09:03:00Z",
+      "content": "Over the past few years, there's been a resurgence in the popularity of stock splits. The practice was commonplace in decades past, but had fallen out of favor, only to rebound in recent years. Compa… [+9435 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jane Thier",
+      "title": "Each Cava location is worth a whopping $33 million. Its CEO explains how the Chipotle competitor is achieving explosive growth - Fortune",
+      "description": "Brett Schulman says the chain’s 300% stock growth is not just due to its crazy feta.",
+      "url": "https://fortune.com/2024/10/06/cava-ceo-brett-schulman-career-interview/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/Secrets-to-Success-Brett-Schulman-CEO-Cava.jpg?resize=1200,600",
+      "publishedAt": "2024-10-06T09:00:00Z",
+      "content": "The 52-year-old CEO and co-founder has watched Cava, the cult-classic Mediterranean fast-casual spot, skyrocket. Since its IPO last summer, the chains stock has grown over 300%; it hit a new peak$128… [+40685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jacki Thrapp",
+      "title": "Red Lobster’s new CEO Damola Adamolekun admits endless shrimp deal stressed out workers: ‘Creates a lot of chaos’ - New York Post ",
+      "description": "The shrimp-ly irresistible deal left customers shell-shocked when the restaurant chain unexpectedly shuttered nearly 100 locations across North America and filed for bankruptcy protection earlier t…",
+      "url": "https://nypost.com/2024/10/06/business/red-lobsters-new-ceo-damola-adamolekun-admits-the-endless-shrimp-deal-caused-chaos/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91108837.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-06T08:11:00Z",
+      "content": "Red Lobsters new CEO Damola Adamolekun admitted that its $20 endless shrimp offering which contributed to the restaurant filing for bankruptcy stressed out employees and created “a lot of chaos.” \r\nA… [+2951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Charley Blaine",
+      "title": "Elon Musk, AI and start of earnings season will jolt markets - TheStreet",
+      "description": "Tesla will have big news on Thursday. Meanwhile, stocks are struggling for momentum as earnings season kicks off.",
+      "url": "https://www.thestreet.com/investing/stocks/elon-musk-ai-and-start-of-earnings-season-will-jolt-markets",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5NzgzMjMzODkyNTkxMDU3/us-auto-tesla-model-y.jpg",
+      "publishedAt": "2024-10-06T05:10:31Z",
+      "content": "Elon Musk attracts a lot of attention. The CEO of Tesla  (TSLA)  has emerged as a hyperactive entrepreneur with a reputation built on the success of his electric car company, Space X, and other ventu… [+6144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "author": "Staff Writer",
+      "title": "Vietnam Q3 GDP growth rockets 7.4%, highest in 2 years - Nikkei Asia",
+      "description": "Supply-chain powerhouse's output defies forecast after hit from Super Typhoon Yagi",
+      "url": "https://asia.nikkei.com/Economy/Vietnam-Q3-GDP-growth-rockets-7.4-highest-in-2-years",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F8%2F8%2F48358810-6-eng-GB%2FCropped-17281327302024-09-07T085328Z_1550653257_RC2JV9AGKD9V_RTRMADP_3_ASIA-WEATHER-VIETNAM.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+      "publishedAt": "2024-10-06T02:40:00Z",
+      "content": "HO CHI MINH CITY -- Vietnam's economy expanded 7.4% in the third quarter from a year earlier, state data showed on Sunday, exceeding the 6.93% growth of the prior three months and defying expectation… [+307 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Meet the HENRYS: The Six-Figure Earners Who Don’t Feel Rich - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/lifestyle/careers/high-earner-not-rich-yet-finances-fb8ae842",
+      "urlToImage": null,
+      "publishedAt": "2024-10-06T01:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Teslarati"
+      },
+      "author": "Zachary Visconti",
+      "title": "Rivian reduces annual production guidance on supply issues - TESLARATI",
+      "description": "EV maker Rivian adjusted its production guidance for 2024 this week, along with hinting at problems with the supply of one crucial component.",
+      "url": "https://www.teslarati.com/rivian-reduces-production-guidance-supply/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/04/rivian-100k.jpeg",
+      "publishedAt": "2024-10-06T00:12:55Z",
+      "content": "Electric vehicle (EV) maker Rivian adjusted its production guidance for 2024 this week, along with hinting at problems with the supply of one crucial component.\r\nRivian has reduced its annual product… [+1926 chars]"
     },
     {
       "source": {
@@ -82,29 +537,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Daily Dot"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Brooke Sjoberg",
-      "title": "‘How did they miss that when they priced it?’: Goodwill shopper thinks she found normal $5 glass dish. Then she checks the brand - The Daily Dot",
-      "description": "Finding a gem at the thrift store can feel like pulling Excalibur from the stone, especially if it is a rare find, like for this one shopper.",
-      "url": "https://www.dailydot.com/news/goodwill-tiffany-dish/",
-      "urlToImage": "https://uploads.dailydot.com/2024/10/goodwill-glass.jpg?auto=compress&fm=pjpg",
-      "publishedAt": "2024-10-05T23:00:00Z",
-      "content": "Finding a real gem at the thrift store can feel like pulling Excalibur from the stone, especially if it is a genuinely good find.\r\nWhether youve found a vintage coat or a lost work of art, finding a … [+2547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Danny Vena",
-      "title": "The S&P 500 Just Did This for the First Time in 27 Years. Here's What History Says Happens Next. - The Motley Fool",
-      "description": "The widely followed index hasn't had a run like this since 1997.",
-      "url": "https://www.fool.com/investing/2024/10/05/the-sp-500-just-did-this-for-the-first-time-in-27/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/792997/a-person-studying-graphs-on-a-large-monitor-linked-to-a-laptop.jpg",
-      "publishedAt": "2024-10-05T22:02:00Z",
-      "content": "The widely followed index hasn't had a run like this since 1997.The S&amp;P 500(^GSPC 0.90%) is the most widely followed benchmark of the stock market in the U.S., encompassing the 500 largest compan… [+4950 chars]"
+      "author": "Reuters",
+      "title": "VW CEO: Chinese automakers should be allowed to avert tariffs by investing in EU - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/business/autos-transportation/vw-ceo-chinese-automakers-should-be-allowed-avert-tariffs-by-investing-eu-2024-10-05/",
+      "urlToImage": null,
+      "publishedAt": "2024-10-05T22:21:23Z",
+      "content": null
     },
     {
       "source": {
@@ -134,6 +576,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Mishtalk.com"
+      },
+      "author": null,
+      "title": "Manufacturing Employment Is Not the Future, Nor Should We Try - Mish Talk",
+      "description": "The US is the global leader in technology, space, information, biotech, and innovation in general. That’s more than good enough.",
+      "url": "https://mishtalk.com/economics/manufacturing-employment-is-not-the-future-nor-should-we-try/",
+      "urlToImage": "https://mishtalk.com/wp-content/uploads/2024/10/Manufacturing-Employment-vs-GDP-2024-Q2.png",
+      "publishedAt": "2024-10-05T21:00:00Z",
+      "content": "Prior to the WTO there was GATT. For the uninitiated GATTs purpose was to expand trade after the conclusion of WW II by reducing tariff barriers while also allowing nation states to manage their nati… [+2938 chars]"
+    },
+    {
+      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -155,47 +610,34 @@
       "description": "The FDA has upgraded an egg recall alert to warn consumers of serious reactions and or death.",
       "url": "https://www.usatoday.com/story/money/food/2024/10/05/fda-egg-recall-salmonella/75532160007/",
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/07/USAT/75121623007-usatsi-22104787.jpg?crop=3723,2094,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2024-10-05T20:00:53Z",
+      "publishedAt": "2024-10-05T20:04:14Z",
       "content": "The Food and Drug Administration in late September upgraded a previous egg recallalert to warn consumers of serious reactions and possibly death, if consumed.  \r\nThe recall was originally announced S… [+4443 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Daily Beast"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Lily Mae Lazarus",
-      "title": "Donald Trump’s Truth Social Riddled With Scammers Ripping Off Users: Report - The Daily Beast",
-      "description": "New documents reveal Donald Trump’s social media platform is a hotbed of online fraud, with swindlers conning users out of enormous sums of money.",
-      "url": "https://www.thedailybeast.com/donald-trumps-truth-social-riddled-with-scammers-ripping-off-users-report",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2250,w_4000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1728153951/GettyImages-2111708727_m4rlkt",
-      "publishedAt": "2024-10-05T19:14:39Z",
-      "content": "Truth Social users say they lost thousands in online scams on the platform, with some victims being fleeced out of six-figure sums. \r\nComplaints filed to the Federal Trade Commission, obtained by Giz… [+2705 chars]"
+      "author": "Francesca Landini",
+      "title": "Italian prosecutors accuse 7 people, 2 firms over flawed Boeing plane parts - Reuters",
+      "description": "Investigators accused them of cutting corners to save money, endangering safety.",
+      "url": "https://www.reuters.com/business/aerospace-defense/italian-prosecutors-accuse-7-people-2-firms-over-flawed-boeing-plane-parts-2024-10-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IGAIXVUGXRJ73AMUFH7BPJXW5Q.jpg?auth=be530185895228bb0a75ceca2dd057f678e3b5caf4b4f05a6623cb820073758e&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-10-05T17:38:04Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Teslarati"
+        "name": "Benzinga"
       },
-      "author": "Zachary Visconti",
-      "title": "Rivian delivered just over 10,000 vehicles in Q3 - TESLARATI",
-      "description": "Rivian has reported its delivery and production numbers for the third quarter of the year, along with detailing production issues related...",
-      "url": "https://www.teslarati.com/rivian-delivered-10000-vehicles-q3/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/04/rivian-stealth-wrap.jpg",
-      "publishedAt": "2024-10-05T18:52:07Z",
-      "content": "Rivian has reported its delivery and production numbers for the third quarter of the year, along with detailing production issues related to a parts shortage.\r\nOn Friday, Rivian announced in a press … [+3066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-10-05T18:10:13Z",
-      "content": "[Removed]"
+      "author": "Shanthi Rexaline",
+      "title": "Tesla Robotaxi Buzz Soars Ahead Of Thursday Event, Rivian Seeks DOE Loan For Georgia Plant, Nikola Thumps Estimates And More: Biggest EV Stories Of The Week - Benzinga",
+      "description": "While Tesla barely got past estimates, smaller peer Rivian's sales missed expectations, reflecting the ongoing struggles of the EV industry.",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41196494/tesla-robotaxi-buzz-soars-ahead-of-thursday-event-rivian-seeks-doe-loan-for-georgia",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/10/05/A-Tesla-Car-Costs-Less-Than-20K-If-You-L.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-10-05T17:13:08Z",
+      "content": "Electric-vehicle stocks had a down week amid stock market volatility, but China-based companies rode the momentum imparted by the stimulus measures announced by the country to kickstart economic grow… [+5319 chars]"
     },
     {
       "source": {
@@ -238,45 +680,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Foodrepublic.com"
-      },
-      "author": "Mike McEnaney",
-      "title": "The Only McDonald's Burger That's Cooked Fresh, Not Frozen - Yahoo Life",
-      "description": "You may have noticed that one of McDonald's iconic burgers stands out in terms of moisture, taste, and overall satisfaction. That's because it's cooked fresh...",
-      "url": "https://www.foodrepublic.com/1679325/which-mcdonalds-burger-is-fresh-not-frozen/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ifoAaqiltiY0hkShhoJYjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/food_republic_969/ffb1d18a805d9a64e829f6114eef0df1",
-      "publishedAt": "2024-10-05T15:15:32Z",
-      "content": "If you're a McDonald's aficionado who has worked your way through the various burgers on its menu, you may have noticed that one stands out in terms of moisture, taste, and overall satisfaction. That… [+2379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alexis Keenan",
-      "title": "The big winner if OpenAI becomes a for-profit business? Microsoft. - Yahoo Finance",
-      "description": "OpenAI is considering transitioning from a nonprofit into a for-profit company, and its deep-pocketed benefactor, Microsoft, has a lot to gain if the ChatGPT...",
-      "url": "https://finance.yahoo.com/news/the-big-winner-if-openai-becomes-a-for-profit-business-microsoft-150951354.html/",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-      "publishedAt": "2024-10-05T15:09:52Z",
-      "content": "OpenAI is considering transitioning from a nonprofit into a for-profit company, and its deep-pocketed benefactor, Microsoft (MSFT), has a lot to gain if the ChatGPT developer gets the green light to … [+7114 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Celia Fernandez",
-      "title": "This couple bought a 110-year-old schoolhouse for $175,000 sight unseen and converted it into their family home—take a look inside - CNBC",
-      "description": "Stacie Grissom and Sean Wilson bought the schoolhouse in their hometown of Franklin, Indiana.",
-      "url": "https://www.cnbc.com/2024/10/05/couple-indiana-schoolhouse-renovation.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108042970-1727977478209-5U7A6539.jpg?v=1727978362&w=1920&h=1080",
-      "publishedAt": "2024-10-05T15:00:01Z",
-      "content": "Stacie Grissom and Sean Wilson lived in New York City for almost a decade, and then the covid-19 pandemic hit.\r\nIn early 2020, Grissom was pregnant with their first child and working in marketing at … [+7450 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -287,32 +690,6 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/hQVxYz_6JgKuoraWjesoFomzcd0=/0x0:4744x3078/1200x628/filters:focal(2372x1539:2373x1540)/cdn.vox-cdn.com/uploads/chorus_asset/file/25658467/1133148647.jpg",
       "publishedAt": "2024-10-05T14:17:10Z",
       "content": "Major tech firms, in search of carbon pollution-free electricity for data centers, are helping to revive nuclear energy in the US.\r\nByJustine Calma, a senior science reporter covering energy and the … [+6778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Morgan Smith, Raffi Paul",
-      "title": "51-year-old introvert overcame her 'worst nightmare' to build her $1.2 billion company - CNBC",
-      "description": "Angie Hicks, the co-founder of Angi (formerly Angie's List), started the home services company with her former boss, Bill Oesterle, when she was 22 years old.",
-      "url": "https://www.cnbc.com/2024/10/05/angi-51-year-old-introvert-overcame-her-worst-nightmare-to-build-her-1point2-billion-company.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108043688-1728073747474-IMG_5550.jpg?v=1728073823&w=1920&h=1080",
-      "publishedAt": "2024-10-05T13:55:01Z",
-      "content": "Before she built what would become a billion-dollar company, Angie Hicks had to conquer one of her biggest fears: talking to strangers. \r\nHicks one of the two co-founders of Angi, formerly known as A… [+6258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Breck Dumas",
-      "title": "How much do dockworkers make? Longshoreman's union scores pay boost for members under tentative deal - Fox Business",
-      "description": "The International Longshoreman's Association (ILA) union secured a 62% raise for members over six years in its tentative agreement with the U.S. Maritime Alliance.",
-      "url": "https://www.foxbusiness.com/lifestyle/how-much-do-dockworkers-make-longshoremans-union-scores-major-pay-boost-under-tentative-deal",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/port-strikes.jpg?ve=1&tl=1",
-      "publishedAt": "2024-10-05T13:32:00Z",
-      "content": "The International Longshoreman's Association (ILA) strike that halted trade at East and Gulf Coast ports in the U.S. this week has been put on hold after the union agreed to a 62% raise for the 45,00… [+2900 chars]"
     },
     {
       "source": {
@@ -330,28 +707,41 @@
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "WKRC TV Cincinnati"
       },
-      "author": "Silin Chen",
-      "title": "Nvidia CEO's bombshell raises the bar for the stock - TheStreet",
-      "description": "Here’s what could be next for Nvidia stock.",
-      "url": "https://www.thestreet.com/investing/stocks/nvidia-ceos-bombshell-raises-the-bar-for-the-stock",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTY3NTM5NjI5OTM1Njk5MzM1/image-placeholder-title.png",
-      "publishedAt": "2024-10-05T13:03:00Z",
-      "content": "Think of how Nvidia’s GeForce 8800 chip, launched in 2006, changed the gaming landscape. Now, almost two decades later, Nvidia is still making that progression, with its Blackwell designed to change … [+3985 chars]"
+      "author": "WKRC",
+      "title": "Spirit Airlines reportedly in talks to file for bankruptcy months after merger blocked - WKRC TV Cincinnati",
+      "description": "'The fact that the DOJ even brought a case to block a merger between two carriers with less than 8% combined market share, just shows how uninformed...'",
+      "url": "https://local12.com/news/nation-world/spirit-airlines-ceo-ted-christie-jetblue-airways-reportedly-bankruptcy-file-filing-months-3-point-8-billion-dollar-merger-blocked-federal-government-cincinnati-ulcc-ultra-low-cost-carrier-business-consumer-affordability-market-conditions-economy-travel",
+      "urlToImage": "https://local12.com/resources/media2/16x9/1280/986/center/90/17f09f02-0db4-4971-bc64-4279fc06d00f-Spirit3.png",
+      "publishedAt": "2024-10-05T13:29:58Z",
+      "content": "DANIA BEACH, Fla. (WKRC) - Ultra-low-cost carrier (ULCC) Spirit Airlines is reportedly in talks to file for bankruptcy months after a federal judge blocked a $3.8 billion merger between the airline a… [+2613 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "CNBC"
       },
-      "author": "Greg Norman",
-      "title": "Costco reveals Kirkland Signature item price cuts - Fox Business",
-      "description": "Costco is cutting the prices of numerous Kirkland Signature items despite recently increasing its membership fees for the first time in seven years.",
-      "url": "https://www.foxbusiness.com/economy/costco-reveals-kirkland-signature-item-price-cuts",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/costco-shoppers.jpg?ve=1&tl=1",
-      "publishedAt": "2024-10-05T12:54:00Z",
-      "content": "Costco revealed during a recent earnings call that it has slashed the prices of numerous popular Kirkland Signature items, welcome news for Americans affected by inflation since 2021. \r\nChief Financi… [+2366 chars]"
+      "author": "Annie Palmer, Katie Tarasov",
+      "title": "Amazon bets on selling cashierless technology to retailers after pulling it from most U.S. stores - CNBC",
+      "description": "Amazon is selling its cashierless technology called \"Just Walk Out\" to outside retailers. CNBC gets a behind-the-scenes look at how the technology works.",
+      "url": "https://www.cnbc.com/2024/10/05/amazon-makes-big-bet-on-selling-cashierless-tech-to-outside-retailers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108043754-1728081720236-JWO_2.jpg?v=1728083361&w=1920&h=1080",
+      "publishedAt": "2024-10-05T13:00:01Z",
+      "content": "In 2012, Amazon founder Jeff Bezos was asked by TV host Charlie Rose whether his e-commerce company would ever venture into brick-and-mortar stores. Bezos said shoppers were well-served by existing p… [+10662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Adam Levy, The Motley Fool",
+      "title": "The 2025 Social Security Cost-of-Living Adjustment (COLA) Is Almost Official, and It Could Reveal a Surprising Benefit for Many Retirees - Yahoo Finance",
+      "description": "Many retirees could be disappointed by next year's COLA, but it could be a blessing in disguise.",
+      "url": "https://www.fool.com/retirement/2024/10/05/the-2025-social-security-cost-of-living-adjustment/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=a9c3a3ca-a931-4519-83f9-af661bc99f8f",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AGaJA4ZR9PTSgVuJ1EMZPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/2a811c1b0c8a45e64bd35155bdf5714b",
+      "publishedAt": "2024-10-05T12:12:00Z",
+      "content": "The Social Security Administration will announce the 2025 Social Security cost-of-living adjustment, or COLA, on Oct. 10, and it could disappoint many retirees.\r\nOver the last three years, seniors ha… [+4698 chars]"
     },
     {
       "source": {
@@ -369,6 +759,19 @@
     {
       "source": {
         "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "John Ballard, Jeremy Bowman, and Jennifer Saibil",
+      "title": "3 Unstoppable Growth Stocks to Buy Before 2025 - The Motley Fool",
+      "description": "Here are three powerhouses that dominate their market and can help you build lasting wealth.",
+      "url": "https://www.fool.com/investing/2024/10/05/3-unstoppable-growth-stocks-to-buy-before-2025/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/792702/rocket-growth.jpg",
+      "publishedAt": "2024-10-05T12:00:00Z",
+      "content": "Here are three powerhouses that dominate their market and can help you build lasting wealth.Stock market volatility will come and go, but what makes a growth stock truly unstoppable is the strength o… [+5739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Akiko Fujita",
@@ -378,32 +781,6 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
       "publishedAt": "2024-10-05T11:55:10Z",
       "content": "The launch of Teslas (TSLA) robotaxi marks one of the most consequential in the companys history - if only, because Elon Musk has hailed this as the future for nearly a decade. For eight years, Musk … [+1587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Sébastien Sauvé et al, The Conversation, The Conversation",
-      "title": "Some Filters Are Better Than Others at Removing Forever Chemicals From Your Water - ScienceAlert",
-      "description": "Boiling it won't work.",
-      "url": "https://www.sciencealert.com/some-filters-are-better-than-others-at-removing-forever-chemicals-from-your-water",
-      "urlToImage": "https://www.sciencealert.com/images/2024/10/hand_tap_water.jpg",
-      "publishedAt": "2024-10-05T11:28:32Z",
-      "content": "Many substances harmful to human health are finding their way into our drinking water.\r\nThese include the so-called 'forever chemicals,' per- and polyfluoroalkyl substances (PFAS). A group of fluorin… [+5850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thecryptobasic.com"
-      },
-      "author": null,
-      "title": "Shiba Inu To Surpass $0.00007 As Top Trader Identifies Long-Term SHIB Accumulation Zone - The Crypto Basic",
-      "description": "Analyst Alan Santana is confident in another major Shiba Inu bull run, projecting a significant price target of $0.00007 amid ongoing accumulation.",
-      "url": "https://thecryptobasic.com/2024/10/05/shiba-inu-to-surpass-0-00007-as-top-trader-identifies-long-term-shib-accumulation-zone/",
-      "urlToImage": "https://thecryptobasic.com/wp-content/uploads/2024/10/885894726-2024-10-04T101533803.png",
-      "publishedAt": "2024-10-05T11:16:50Z",
-      "content": "Analyst Alan Santana is confident in another major Shiba Inu bull run, projecting a significant price beyond the $0.00007 target amid ongoing accumulation.\r\nShiba Inu has experienced a 5.2% gain in t… [+2398 chars]"
     },
     {
       "source": {
@@ -433,19 +810,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Anthony Di Pizio",
-      "title": "Tesla Risks Doing Something It Hasn't Done Since Launching the Model S, and It Could Trigger a Big Move in Its Stock - The Motley Fool",
-      "description": "Tesla is facing weak demand and growing competition in the market for electric vehicles.",
-      "url": "https://www.fool.com/investing/2024/10/05/tesla-risks-hasnt-launching-model-s-trigger-stock/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/792752/tesla-building-with-tesla-logo-and-two-teslas-in-front.png",
-      "publishedAt": "2024-10-05T08:47:00Z",
-      "content": "Tesla is facing weak demand and growing competition in the market for electric vehicles.Tesla (TSLA 3.91%) is one of the world's largest manufacturers of electric vehicles (EVs), but its stock is dow… [+4994 chars]"
-    },
-    {
-      "source": {
         "id": "reuters",
         "name": "Reuters"
       },
@@ -455,19 +819,6 @@
       "url": "https://www.reuters.com/technology/foxconn-third-quarter-revenue-jumps-20-yryr-2024-10-05/",
       "urlToImage": "https://www.reuters.com/resizer/v2/7UBE5Z5NDZICVEPPYWXIRA67FA.jpg?auth=848c93bfaab0c7a48201f56056b8c8441fbefd051179af5dfaca2d507a12fdeb&height=1005&width=1920&quality=80&smart=true",
       "publishedAt": "2024-10-05T08:19:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "James Faris",
-      "title": "33 top stocks to buy in a market with few undervalued investments: Morningstar - Business Insider",
-      "description": "US stocks are trading near record highs but are slightly overvalued. Morningstar shared 33 top stocks to buy heading into a pivotal fourth quarter.",
-      "url": "https://www.businessinsider.com/stocks-to-buy-investing-strategy-market-valuations-jobs-report-morningstar-2024-10",
-      "urlToImage": "https://i.insider.com/67004a1b198738e3a70e7354?width=1200&format=jpeg",
-      "publishedAt": "2024-10-05T08:01:00Z",
       "content": null
     },
     {
@@ -489,12 +840,25 @@
         "name": "Reuters"
       },
       "author": "Reuters",
-      "title": "China home sales rise after stimulus measures, state media says - Reuters.com",
+      "title": "China home sales rise after stimulus measures, state media says - Reuters",
       "description": "China's home sales rose during the National Day holiday after a string of property stimulus measures to boost the country's beleaguered real estate market since late September, state media said on Saturday.",
       "url": "https://www.reuters.com/world/china/china-home-sales-rise-after-stimulus-measures-state-media-says-2024-10-05/",
       "urlToImage": "https://www.reuters.com/resizer/v2/ZZPWFIWKM5IIJJPBG6STTIPH5E.jpg?auth=efa0a840327b46f6005edb04d94b8de06d1cf4d0192aa9b0859dc71899971041&height=1005&width=1920&quality=80&smart=true",
       "publishedAt": "2024-10-05T06:41:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bounding Into Comics"
+      },
+      "author": "Spencer Baculi",
+      "title": "Ubisoft Continues To Implode As Founding Guillemot Brothers Reportedly Teaming With Chinese Tencent To Take ‘Assassin’s Creed Shadow’ Developer Private - Bounding Into Comics",
+      "description": "A new report suggests that Ubisoft's founders, the Guillemot brothers, are looking to team with Tencent to take the video game studio private.",
+      "url": "https://boundingintocomics.com/video-games/ubisoft-continues-to-implode-as-founding-guillemot-brothers-reportedly-teaming-with-chinese-tencent-to-take-assassins-creed-shadow-developer-private/",
+      "urlToImage": "https://boundingintocomics.com/wp-content/uploads/2024/10/hawk.png",
+      "publishedAt": "2024-10-05T05:40:51Z",
+      "content": "Naoe (TBA) prepares to strike in Assassin's Creed Shadows (2024), Ubisoft\r\nAmidst their ongoing plummet into financial and reputational ruin, Ubisoft’s founders, the Guillemot brothers, are reportedl… [+5153 chars]"
     },
     {
       "source": {
@@ -511,84 +875,6 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "KEMO CHAM, JESSICA DONATI",
-      "title": "Solar power companies are growing fast in Africa, where 600 million still lack electricity - The Associated Press",
-      "description": "Companies that bring solar power to some of the poorest homes in Central and West Africa are said to be among the fastest growing on a continent whose governments have long struggled to address some of the world’s worst infrastructure and the complications of…",
-      "url": "https://apnews.com/article/solar-power-sierra-leone-electricity-business-renewables-4dae37aa5c7984e157f00ed5b88fd75b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6498e32/2147483647/strip/true/crop/2048x1152+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F6d%2F691796055d17ad5dfc8eb8658716%2Fe19b433b9ce944919686532be1fa16e1",
-      "publishedAt": "2024-10-05T04:34:00Z",
-      "content": "FREETOWN, Sierra Leone (AP) Companies that bring solar power to some of the poorest homes in Central and West Africa are said to be among the fastest growing on a continent whose governments have lon… [+5604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": "Rob McMillan",
-      "title": "Stellantis workers in Ontario announce strike authorization; company responds by suing UAW - ABC7 Los Angeles",
-      "description": "Stellantis has filed a lawsuit in federal court after United Auto Workers in Southern California voted to authorize another strike.",
-      "url": "https://abc7.com/post/stellantis-workers-ontario-announce-strike-authorization-company-responds-suing-uaw/15394002/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15394572_100424-kabc-6pm-stellantis-lawsuit-vid.jpg?w=1600",
-      "publishedAt": "2024-10-05T04:28:14Z",
-      "content": "ONTARIO, Calif. (KABC) -- It was just over a year ago that workers at the Stellantis parts distribution center in Ontario walked off the job and went on strike.\r\n\"Our members are basically fed up,\" s… [+1506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "China EV tariff vote leaves EU relieved yet wary of retaliation - South China Morning Post",
-      "description": "Decision to slap duties of up to 35 per cent on mainland imports lays bare divisions in European leadership as complex negotiations continue.",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3281178/win-china-ev-tariffs-vote-leaves-eu-relieved-yet-wary-over-beijings-likely-retaliation",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/10/05/8184f8d1-c359-4e67-942e-07e9ed99898c_3c8892b0.jpg?itok=y7imXW8A&v=1728063831",
-      "publishedAt": "2024-10-05T04:00:10Z",
-      "content": "In the end, the result was not even close: just five of the 15 capitals required to block duties of up to 35.3 per cent on the imports voted against, despite frantic lobbying from Beijing and Berlin … [+757 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Amaris Encinas",
-      "title": "Video shows 'world's fanciest' McDonald's, complete with grand piano, gutted by Helene - USA TODAY",
-      "description": "The Asheville, North Carolina, location is one of many structures that took a hit after Hurricane Helene decimated the charming city.",
-      "url": "https://www.usatoday.com/story/news/nation/2024/10/04/fancy-mcdonalds-asheville-north-carolina-destroyed-helene/75520430007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/05/USAT/75521275007-fancy-mcdonalds.JPG?crop=499,281,x0,y48&width=499&height=281&format=pjpg&auto=webp",
-      "publishedAt": "2024-10-05T01:31:43Z",
-      "content": "A pretty special McDonald's took a big hit after Hurricane Helene rolled into North Carolina, which caused unprecedented devastation and destruction to a number of states across the Southeast.\r\nThe M… [+1785 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Robledo",
-      "title": "New Red Lobster CEO Damola Adamoleku: Endless shrimp created 'chaos' but could return - USA TODAY",
-      "description": "Adamolekun said the chain's $20 endless shrimp deal created 'a lot of chaos operationally' before the company's bankruptcy.",
-      "url": "https://www.usatoday.com/story/money/food/2024/10/04/red-lobster-ceo-endless-shrimp-deal/75520643007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/06/USAT/75105543007-usatsi-24091564.jpg?crop=6613,3720,x0,y688&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-10-05T01:10:38Z",
-      "content": "Red Lobster's new chief executive said he's had always felt dubious about the endless shrimp deal that reportedly cost the company $11 million in first quarter of its launch.\r\nIn a new CNN interview,… [+1618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "InStyle"
-      },
-      "author": "https://www.facebook.com/InStyle",
-      "title": "4 Best Weekend Sales: $59 Coach Bags, 83% Off at J.Crew, and an $18 Retinol Lotion - InStyle",
-      "description": "The four best sales to shop the weekend of October 4 include suede bags at Coach Outlet, 83 percent off fall fashion at J.Crew, Adidas sneakers, loafers, and knee-high boots at Nordstrom Rack, and early Amazon Prime Day Deals.",
-      "url": "https://www.instyle.com/best-weekend-deals-10-04-2024-8723518",
-      "urlToImage": "https://www.instyle.com/thmb/kI7HYhBOQ5rTgbXex2jGhlb34rU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100424-Best-Weekend-Deals-SOC-623aa02c69b847578c3d3fcfe2b6fdca.jpg",
-      "publishedAt": "2024-10-05T01:00:00Z",
-      "content": "I know we're all anxiously awaiting Amazon October Prime Day next week, but its not the only sale worth shopping. In addition to early Prime Day deals, there are a few other cant-miss sales I think y… [+2500 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -599,305 +885,6 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/04/USAT/75516836007-usatsi-14985460.jpg?crop=3299,1856,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
       "publishedAt": "2024-10-04T23:42:23Z",
       "content": "Following Hurricane Helene's devastation, a health care company that provides IV and medical supplies has paused production at its North Carolina facility, creating concerns over a national shortage.… [+3644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale"
-      },
-      "author": "Samantha Sosa, Patrick Chalvire, Chantal Cook",
-      "title": "Passengers step in to subdue man during flight from MIA to Charlotte - WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
-      "description": "MIAMI INTERNATIONAL AIRPORT, FLA. (WSVN) - A confrontation broke out aboard an American Airlines flight from Miami to Charlotte when a woman was allegedly assaulted<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/us-world/passengers-step-in-to-subdue-…",
-      "url": "https://wsvn.com/news/us-world/passengers-step-in-to-subdue-man-during-flight-from-mia-to-charlotte/",
-      "urlToImage": "https://wsvn.com/wp-content/uploads/sites/2/2024/10/Passengers-step-in-to-subdue-man-during-flight-from-Miami-International-Airport.png",
-      "publishedAt": "2024-10-04T22:57:46Z",
-      "content": "MIAMI INTERNATIONAL AIRPORT, FLA. (WSVN) - A confrontation broke out aboard an American Airlines flight from Miami to Charlotte when a woman was allegedly assaulted by a man she was traveling with, p… [+2531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Christine Idzelis",
-      "title": "Dow logs record high as stocks rise, Treasury yields jump after strong jobs data - MarketWatch",
-      "description": "‘We don’t need recessionary-level cuts from the Fed,’ says a senior portfolio manager for fixed income at Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/dow-logs-record-high-as-stocks-rise-treasury-yields-jump-after-strong-jobs-data-08ae61a5",
-      "urlToImage": "https://images.mktw.net/im-872419/social",
-      "publishedAt": "2024-10-04T22:36:00Z",
-      "content": "U.S. stocks rallied Friday on fresh signs of a strong labor market, with the Dow Jones Industrial Average ending at a record peak while the bond market dialed back recession fears.\r\nThe U.S. employme… [+440 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Caitlin Owens",
-      "title": "Why a potential CVS breakup matters - Axios",
-      "description": "CVS' woes suggest that not all consolidation strategies are created equal.",
-      "url": "https://www.axios.com/2024/10/04/cvs-breakup-implications-health",
-      "urlToImage": "https://images.axios.com/wwn36pZOYqrhF4BgaM-KqcdlgBw=/0x0:1920x1080/1366x768/2024/10/04/1728053769959.jpg",
-      "publishedAt": "2024-10-04T21:42:54Z",
-      "content": "A CVS breakup which reportedly is on the table would be pretty hard to actually do and could come with a lot of downsides, and most people seem skeptical it'll happen.\r\n<ul><li>But the fact that it's… [+4563 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Allison Lampert, David Shepardson",
-      "title": "Boeing, striking union to return to negotiations on Monday - Reuters.com",
-      "description": "Boeing's and its largest union said on Friday that contract talks will resume on Oct. 7, as both sides seek an agreement to end a strike by around 33,000 of the planemaker's U.S. West Coast factory workers.",
-      "url": "https://www.reuters.com/business/aerospace-defense/boeing-striking-union-negotiators-return-table-oct-7-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JVC7YTHFTRNFLF4ZTWM7PGSJGY.jpg?auth=1f9f9e2c268119d8a0db53472198a7a2757b43962ed4c30941ef19969ab2dbd8&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-10-04T21:28:38Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Antonio Pequeño IV",
-      "title": "Mark Zuckerberg Becomes World’s Third-Richest Person After Overtaking Jeff Bezos - Forbes",
-      "description": "Zuckerberg’s net worth reached the $200 billion mark Thursday after a successful day of trading for Meta.",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/10/04/mark-zuckerberg-becomes-worlds-third-richest-person-after-overtaking-jeff-bezos/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65458ad4203ccb10402aeab9/0x0.jpg?format=jpg&crop=2064,1376,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-04T21:10:38Z",
-      "content": "Meta co-founder Mark Zuckerberg became the third richest person in the world Friday, taking the title from Amazon chairman Jeff Bezos after a strong week of trading for Meta shares, which are up more… [+1811 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Aarian Marshall",
-      "title": "Waymo’s New Agreement With Hyundai Raises Questions About China - WIRED",
-      "description": "Robotaxi firm Waymo will build its self-driving tech into the Ioniq 5. But what about its relationship with Chinese automaker Zeekr?",
-      "url": "https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/",
-      "urlToImage": "https://media.wired.com/photos/670051e58bbf19064f53d511/191:100/w_1280,c_limit/hundai-waymo-gear-2173898786.jpg",
-      "publishedAt": "2024-10-04T20:55:50Z",
-      "content": "Soon you could see Waymo self-driving tech in Hyundai cars. The autonomous driving tech developer Waymo said this week that it would partner with the Korean automaker Hyundai to equip a fleet of its … [+3451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Krisztian  Sandor",
-      "title": "AI Tokens Lead Crypto Rebound Amid Strong U.S. Economy - CoinDesk",
-      "description": "Bitcoin may have bottomed at $60,000 earlier this week, and the Fed easing into a strong economy points to more upside, Will Clement said.",
-      "url": "https://www.coindesk.com/markets/2024/10/04/ai-tokens-lead-crypto-rebound-amid-strong-us-economy/",
-      "urlToImage": "https://www.coindesk.com/resizer/en8gqyS2ygi5Pxwr3ita4KdOe-k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EL2WEXEEJZAWTDMS2HAFNLDHYY.png",
-      "publishedAt": "2024-10-04T20:37:00Z",
-      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Christopher Otts, Ben Glickman",
-      "title": "Exclusive | Jeep Parent Stellantis Taking ‘Drastic Measures’ to Conserve Cash - The Wall Street Journal",
-      "description": "Finance chief revives ‘doghouse’ requirements at global automaker to curb spending, reverse falling profit",
-      "url": "https://www.wsj.com/business/autos/jeep-parent-stellantis-taking-drastic-measures-to-conserve-cash-f313cfc1",
-      "urlToImage": "https://images.wsj.net/im-56795324/social",
-      "publishedAt": "2024-10-04T20:31:00Z",
-      "content": "Automaker StellantisSTLA1.83%increase; green up pointing triangle\r\nis taking drastic measures to shore up the Jeep and Ram parents finances, including a belt-tightening approach known internally as t… [+487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angel Adegbesan",
-      "title": "Medicare Mess Sends Humana Shares on Worst Fall Since Financial Crisis - Yahoo Finance",
-      "description": "(Bloomberg) -- Humana Inc. investors haven’t struggled through anything this bad since the global financial crisis 15 years ago.Most Read from BloombergWhat ...",
-      "url": "https://finance.yahoo.com/news/medicare-mess-sends-humana-shares-111310939.html/",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-      "publishedAt": "2024-10-04T20:27:34Z",
-      "content": "(Bloomberg) -- Humana Inc. investors havent struggled through anything this bad since the global financial crisis 15 years ago.\r\nMost Read from Bloomberg\r\nThe health insurers stock price plunged 22% … [+4267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Mercury News"
-      },
-      "author": "Linda Zavoral",
-      "title": "McDonald’s rolling out new Big Mac with a tempura-battered ingredient - The Seattle Times",
-      "description": "A new version of the Big Mac sandwich will be on McDonald's menus in the U.S. for a limited time.",
-      "url": "https://www.mercurynews.com/2024/10/03/mcdonalds-rolling-out-new-tempura-battered-chicken-big-mac/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/10/10042024_tzr_tzr_130805.jpg?d=1200x630",
-      "publishedAt": "2024-10-04T20:14:06Z",
-      "content": "McDonalds customers who crave chicken need to sub out the lyrics in the old Big Mac refrain. Replace two all-beef patties with two tempura-battered chicken patties.\r\nThats the fast-food juggernauts n… [+729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Silas Valentino",
-      "title": "Bay Area airport's second-largest airline flirts with bankruptcy - SFGATE",
-      "description": "The second-largest airline at a major Bay Area airport is reportedly exploring bankruptcy as the low-cost carrier model continues to face headwinds.",
-      "url": "https://www.sfgate.com/travel/article/bay-area-oak-spirit-airline-flirts-bankruptcy-19816086.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/43/76/71/26209897/3/rawImage.jpg",
-      "publishedAt": "2024-10-04T20:01:39Z",
-      "content": "FILE - A Spirit Airlines plane prepares to take off from Oakland International Airport on July 28, 2022, in Oakland, Calif.\r\nJustin Sullivan/Getty Images\r\nThe second-largest airline at a major Bay Ar… [+2001 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Wes Davis",
-      "title": "From AOL Time Warner to DirecTV and Dish: 20 years of media mergers - The Verge",
-      "description": "DirecTV’s Dish Network deal is the latest twist in decades of other mergers, spinoffs, and acquisitions involving the biggest telecom and media firms in the world.",
-      "url": "https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/WhNDSC3iWfc-SDJaHwG4D9FF-Po=/251x263:1830x1257/1200x628/filters:focal(1025x833:1026x834)/cdn.vox-cdn.com/uploads/chorus_asset/file/25658358/247300_ONE_DOLLAR_MERGER_CVirginia.jpg",
-      "publishedAt": "2024-10-04T19:45:42Z",
-      "content": "From AOL Time Warner to DirecTV and Dish: 20 years of media mergers\r\nFrom AOL Time Warner to DirecTV and Dish: 20 years of media mergers\r\n / Heres how we got to a $1 deal combining DirecTV and Dish, … [+2637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Fox Business",
-      "title": "Toyota latest to scrap DEI policies, giving anti-woke activist another win - New York Post ",
-      "description": "Toyota follows several major businesses that have recently announced moving away from DEI initiatives following an extensive online campaign against them by Robby Starbuck.",
-      "url": "https://nypost.com/2024/10/04/business/toyota-follows-ford-in-scrapping-dei-policies-after-facing-backlash/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/toyota-dei.jpg?quality=75&strip=all&1728050951&w=1024",
-      "publishedAt": "2024-10-04T18:37:00Z",
-      "content": "Toyota Motor Corp. is planning to move away from DEI and pro-LGBTQ events after recently facing online controversy, according to a new report.\r\nBloomberg reported the company sent out a memo to its U… [+3089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Viewfromthewing.com"
-      },
-      "author": "Gary Leff",
-      "title": "NEW: Chase Adds $300 Travel Credit To Sapphire Preferred 60,000 Point Bonus Offer - View from the Wing",
-      "description": "For some time the initial bonus offer has been 60,000 points. This ups the ante with $300 in credits for travel purchases through the Chase portal - which is a very compelling offer on a card with just a $95 annual fee.",
-      "url": "https://viewfromthewing.com/new-chase-adds-300-travel-credit-to-sapphire-preferred-60000-point-bonus-offer/",
-      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2023/11/20231114_160846-1024x461.jpg",
-      "publishedAt": "2024-10-04T18:34:28Z",
-      "content": "I receive compensation for content and many links on this blog. Citibank is an advertising partner of this site, as is American Express, Chase, Barclays and Capital One. Any opinions expressed in thi… [+2412 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee Picchi",
-      "title": "Social Security will announce the 2025 COLA within days. Here's what to expect. - CBS News",
-      "description": "The Social Security Administration will set its 2025 cost-of-living adjustment within days. Here's what the experts say.",
-      "url": "https://www.cbsnews.com/news/social-security-cola-2025-cost-of-living-va-benefits/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/22/15dd6ea7-eeff-436f-9386-8f8d962308d2/thumbnail/1200x630/f20f20573bebc041a4d8250f3b11f95d/gettyimages-1216614286.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
-      "publishedAt": "2024-10-04T18:13:00Z",
-      "content": "The roughly 70 million people who receive Social Security payments will soon learn how much they'll receive in their 2025 benefit checks, with the program's annual cost-of-living adjustment (COLA) to… [+3619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Tom Huddleston Jr.",
-      "title": "46-year-old turned 400 of his employees into millionaires by selling his startup for $3.7B: ‘These are life-changing outcomes’ - CNBC",
-      "description": "Jyoti Bansal says selling his startup AppDynamics was \"the hardest decision\" of his career. Turning hundreds of employees into millionaires was a deciding factor.",
-      "url": "https://www.cnbc.com/2024/10/04/appdynamics-founder-selling-startup-made-hundreds-of-employees-millionaires.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104237372-GettyImages-465410412.jpg?v=1727897574&w=1920&h=1080",
-      "publishedAt": "2024-10-04T17:56:00Z",
-      "content": "When Jyoti Bansal made \"the hardest decision\" of his career selling his software startup AppDynamics for billions he did it with his employees in mind.\r\nIn 2017, AppDynamics was days away from going … [+3281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Trump Media Execs Reportedly Quit Amid Complaints About CEO Devin Nunes - Gizmodo",
-      "description": "Allegations surrounding \"misuse of funds, hiring of foreign contractors and interfering with product development\" are flying.",
-      "url": "https://gizmodo.com/trump-media-execs-reportedly-quit-amid-complaints-about-ceo-devin-nunes-2000507581",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/devin-nunes-donald-trump-july-17-2024.jpg",
-      "publishedAt": "2024-10-04T17:50:20Z",
-      "content": "At least four employees at Donald Trump’s media company Trump Media &amp; Technology Group, which owns Truth Social, have left the company recently according to a new report from ProPublica, The news… [+4426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mortgage News Daily"
-      },
-      "author": "Matthew Graham",
-      "title": "Massive Jump in Mortgage Rates After Jobs Report - Mortgage News Daily",
-      "description": "Today's much-anticipated jobs report ended up coming out much stronger than expected.  A stronger result was all but guaranteed to cause carnage (relative) in the mortgage market and that's definitely what we're seeing.  A caveat is that rates are still much …",
-      "url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-10042024",
-      "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/6700131b6667e86def885339/6700131b6667e86def885339_0_202410052045.jpg?provider=facebook",
-      "publishedAt": "2024-10-04T16:10:38Z",
-      "content": "Today's much-anticipated jobs report ended up coming out much stronger than expected.  A stronger result was all but guaranteed to cause carnage (relative) in the mortgage market and that's definitel… [+4165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier",
-      "title": "Treasure Hunter Finds $26K in Gold by Looking at Clouds - Newser",
-      "description": "Meteorologist Dan Leonard comes forward as Project Skydrop winner",
-      "url": "https://www.newser.com/story/357321/treasure-hunter-finds-26k-in-gold-by-looking-at-clouds.html",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1564038-12-20241004115515.jpeg",
-      "publishedAt": "2024-10-04T15:37:00Z",
-      "content": "Leonard used temperature readings to narrow his search to eastern Franklin County and northwestern Worcester County. Then, when the trail camera showed sunny conditions, Leonard would eliminate areas… [+1187 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ty Roush",
-      "title": "Ubisoft Shares Surge 31% As Tencent And Guillemot Family Reportedly Mull Buyout - Forbes",
-      "description": "The French video game firm’s stock fell to a decade-low after delaying the latest entry in its popular Assassin’s Creed series.",
-      "url": "https://www.forbes.com/sites/tylerroush/2024/10/04/ubisoft-shares-surge-28-as-tencent-and-guillemot-family-reportedly-mull-buyout/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670002aa9e59041380ad958c/0x0.jpg?format=jpg&crop=4698,2644,x0,y18,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-10-04T15:02:48Z",
-      "content": "Tencent Holdings is considering a possible buyout of Ubisoft Entertainment with the Guillemot family, which founded the French video game publisher, Bloomberg reported Friday, sending Ubisofts stock … [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Angelica Leicht",
-      "title": "15 best long-term CDs to open before the next rate cut - CBS News",
-      "description": "With more Fed rate cuts on the horizon, it could make sense to open one of these top-earning CDs before rates drop.",
-      "url": "https://www.cbsnews.com/news/best-long-term-cds-to-open-before-the-next-rate-cut/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/04/7562d307-7a5f-4642-8e87-9fba53bf3710/thumbnail/1200x630/862064234a22940e43784efcff116bf3/gettyimages-1132666997.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
-      "publishedAt": "2024-10-04T14:49:10Z",
-      "content": "Opening up the right long-term CD account could help you stack up the cash — even as rates continue to fall. \r\nGetty Images\r\nWhen it comes to earning big interest on deposit accounts, savers have bee… [+5513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "author": "Natalie Dreier, Cox Media Group National Content Desk",
-      "title": "Recall alert: Tesla recalls 27K Cybertrucks - WSB Atlanta",
-      "description": "Tesla has once again recalled its Cybertrucks. This is the fifth time the futuristic truck has been recalled since it became available in November.",
-      "url": "https://www.wsbtv.com/news/trending/recall-alert-tesla-recalls-27k-cybertrucks/SE7CVXWPKBHIVLPR2AJNNFLXRA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/DSpuQRPLaTNb3wlGr_t9Ss88sJU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/4U4YYSPNIJCJDKKH64PY7HMWZE.jpeg",
-      "publishedAt": "2024-10-04T14:18:59Z",
-      "content": "Tesla has once again recalled its Cybertrucks. This is the fifth time the futuristic truck has been recalled since it became available in November. \r\nThe recall affects more than 27,000 trucks. The A… [+1051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Noaa.gov"
-      },
-      "author": null,
-      "title": "Some NOAA NCEI websites, systems down due to Helene devastation in Asheville, NC - National Oceanic and Atmospheric Administration",
-      "description": "Restoration efforts are underway, some climate-related data products affected",
-      "url": "https://www.noaa.gov/news/some-noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc",
-      "urlToImage": "https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2024-10/GettyImages-2174622583.jpg",
-      "publishedAt": "2024-10-02T12:00:00Z",
-      "content": "An official website of the United States government\r\nHeres how you know\r\nHeres how you know\r\nOfficial websites use .govA .gov website belongs to an official government organization in the United Stat… [+2066 chars]"
     }
   ]
 }
