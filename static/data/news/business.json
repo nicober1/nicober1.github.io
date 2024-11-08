@@ -1,71 +1,396 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Joe Cash",
-      "title": "China's exports soar past forecast as factories front-run Trump tariff threat - Reuters",
-      "description": "China's exports grew at the fastest pace in over two years in October as factories rushed inventory to major markets in anticipation of further tariffs from the U.S. and the European Union, as the threat of a two-front trade war loomed large.",
-      "url": "https://www.reuters.com/markets/asia/chinas-oct-exports-soar-past-forecast-trade-war-with-west-looms-2024-11-07/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YEHEPO2OFZPKLHL5AXQTDBFHQU.jpg?auth=9445b53adebfc7de4e01cc4a8ebd755685d24d4c8b1dc269a85c4a5c552abec2&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-11-07T06:35:00Z",
-      "content": null
+      "author": "Bryan Mena, Elisabeth Buchwald, Alicia Wallace",
+      "title": "The Fed just cut rates again — and the timing is undeniably awkward - CNN",
+      "description": "America’s central bank cut interest rates for the second time this year, making borrowing less expensive for consumers.",
+      "url": "https://www.cnn.com/business/live-news/fed-meeting-november-11-07-24/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171607221.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-07T21:09:00Z",
+      "content": "Fed officials stress that their decisions are dependent on economic data, firm indications of the economys health and possible direction. But theres one key concept guiding the Fed that Chair Jerome … [+1876 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CoinDesk"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Shaurya Malwa",
-      "title": "What Next For Bitcoin After Trump Win? Traders Look to Fed Rate Cuts as BTC Sets New Highs at $76K - CoinDesk",
-      "description": "Analysts expect a 0.25% rate cut this week, which has historically benefited assets like BTC by diluting the dollar's value and pushing investors towards alternative investments.",
-      "url": "https://www.coindesk.com/markets/2024/11/07/what-next-for-bitcoin-after-trump-win-traders-look-to-fed-rate-cuts-for-bullish-btc-move/",
-      "urlToImage": "https://www.coindesk.com/resizer/56cYBGiMNUih1C-LvyjUeZofqSg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MMMH3OZGAZCGBCUNKA5R37754E.jpg",
-      "publishedAt": "2024-11-07T03:18:00Z",
-      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhave been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its… [+457 chars]"
+      "author": "Pras Subramanian",
+      "title": "Rivian posts Q3 revenue miss; full-year loss projection widens, but 'modest gross profit' still expected in Q4 - Yahoo Finance",
+      "description": "Rivian reported third quarter revenue that missed the mark and a wider-than-expected loss as the pure-play adventure electric vehicle maker was burdened by a...",
+      "url": "https://finance.yahoo.com/news/rivian-posts-q3-revenue-miss-full-year-loss-projection-widens-but-modest-gross-profit-still-expected-in-q4-210833842.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/d9710390-9d33-11ef-bdb7-22fe96b92b35",
+      "publishedAt": "2024-11-07T21:08:33Z",
+      "content": "Rivian (RIVN) reported third quarter revenue that missed the mark and a wider-than-expected loss as the pure-play adventure electric vehicle maker was burdened by a supplier parts issue. Though the c… [+2704 chars]"
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Jenn Brice",
-      "title": "How Elon Musk’s $130 million investment in Trump's victory could reap a huge pay off for Tesla and the rest of his business empire - Fortune",
-      "description": "The world's richest person could get a lot of help with contracts and regulatory headaches during the Trump administration.",
-      "url": "https://fortune.com/2024/11/06/elon-musk-donald-trump-tesla-spacex-xai-boring-neuralink/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2181962905_45ea9c-e1730941564396.jpg?resize=1200,600",
-      "publishedAt": "2024-11-07T01:23:00Z",
-      "content": "Donald Trumps election-night address to the country confirmed that one of the evenings biggest winnersin addition to himselfwas Elon Musk. Trump spent a hefty portion of his scattered victory speech … [+5853 chars]"
+      "author": "Ben Lefebvre",
+      "title": "Will Trump’s win be a pyrrhic victory for the oil industry? - POLITICO",
+      "description": "Sagging crude oil prices will have a bigger impact on industry behavior than federal policy, and rising trade tensions could dampen the outlook for U.S. companies.",
+      "url": "https://www.politico.com/news/2024/11/07/trump-win-pyrrhic-victory-for-oil-industry-00187559",
+      "urlToImage": "https://static.politico.com/5f/91/10fdd37842a7a1ddaeda3aaac3d6/useuntil12-04-2024-donald-trump-michigan-035.jpg",
+      "publishedAt": "2024-11-07T21:00:00Z",
+      "content": "U.S. oil and gas output soared to record levels under the Biden administration, and Trumps energy policies will focus almost solely on boosting it even further. He boasted on the campaign trail that … [+8433 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ALEX VEIGA",
+      "title": "Average rate on a 30-year mortgage in the US rises for 6th straight week - The Associated Press",
+      "description": "The average rate on a 30-year mortgage in the U.S. rose for the sixth straight week, returning to its highest level since early July. Mortgage buyer Freddie Mac said Thursday that the rate ticked up to 6.79% from 6.72% last week. That’s still down from a year…",
+      "url": "https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-36992be9d7760237baef95ca2c160f9a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3e16ee7/2147483647/strip/true/crop/3995x2247+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2F6a%2F0bc66ff3da3430013c0f4edbcc70%2Fec51c81160c84c8cae9ad33ce1a8a1fe",
+      "publishedAt": "2024-11-07T20:01:00Z",
+      "content": "The average rate on a 30-year mortgage in the U.S. rose for the sixth straight week, returning to its highest level since early July.\r\nThe rate ticked up to 6.79% from 6.72% last week, mortgage buyer… [+2456 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investopedia"
+        "name": "Federalreserve.gov"
       },
-      "author": "Timothy Smith",
-      "title": "Nvidia Stock Prices to Watch as AI Darling Becomes World's Most Valuable Company - Investopedia",
-      "description": "AI investor favorite Nvidia is trading at record high levels and is now the world's most valuable company by market capitalization. Here are important chart levels to monitor.",
-      "url": "https://www.investopedia.com/watch-these-nvidia-price-levels-after-ai-favorite-resumes-position-as-world-s-most-valuable-company-8740419",
-      "urlToImage": "https://www.investopedia.com/thmb/I-5j6eE4_ji4qGYpwixF8ReN6UU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-67da3df362764241bbf0309d74b3fac6.GIF",
-      "publishedAt": "2024-11-07T01:09:51Z",
-      "content": "<ul><li>Nvidia this week surged into the top position among the world's most valuable companies by market capitalization, surpassing Apple.</li><li>The stock has traded mostly sideways to higher on l… [+2836 chars]"
+      "author": null,
+      "title": "Federal Reserve issues FOMC statement - Federal Reserve",
+      "description": "Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eas",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241107a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "publishedAt": "2024-11-07T19:00:08Z",
+      "content": "Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved … [+1989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Big Tech CEOs rush to congratulate Trump on election win - Yahoo Finance",
+      "description": "Tech CEOS lined up to quickly congratulate President-elect Trump on his win.",
+      "url": "https://finance.yahoo.com/news/big-tech-ceos-rush-to-congratulate-trump-on-election-win-180554274.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/heBGu51al5FoCa4fE_8qOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/c50000a0-9c16-11ef-afff-3875574af7ea",
+      "publishedAt": "2024-11-07T18:05:54Z",
+      "content": "The heads and founders of the biggest tech companies in the world are lining up to congratulate President-elect Trump on his second term following the election results Tuesday night. From Amazon (AMZ… [+4780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Victor Goury-Laffont",
+      "title": "French regulator probes Peter Thiel-backed betting platform - POLITICO Europe",
+      "description": "A gambler used the site to wager $28M on Donald Trump to win U.S. election.",
+      "url": "https://www.politico.eu/article/french-regulator-opens-probe-into-election-betting-platform-polymarket/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/07/thiel-scaled.jpg",
+      "publishedAt": "2024-11-07T18:05:00Z",
+      "content": "The platform claims that \"prediction markets are often more accurate than pundits because they combine news, polls, and expert opinions into a single value that represents the market's view of an eve… [+1274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Vinamrata Chaturvedi",
+      "title": "Trump's stock market victory rally might not last long, Goldman Sachs says. Here's why - Quartz",
+      "description": "A Goldman analyst warned that the increase in Treasury yields may hinder the market rally that has greeted Donald Trump's election win",
+      "url": "https://qz.com/goldman-sachs-yields-rise-stock-rally-1851692036",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1c6f232d7eda229cf76dbbaaef48a88a.jpg",
+      "publishedAt": "2024-11-07T17:51:00Z",
+      "content": "In This Story\r\nThe Dow closed 1,500 points higher on Wednesday, boosted by Donald Trumps decisive election win and a possible Republican-controlled Congress, signaling strong market optimism.\r\nAlongs… [+2038 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Alexander Tin",
+      "title": "FDA to pull common but ineffective cold medicine from market - CBS News",
+      "description": "The FDA says oral phenylephrine, used in many over-the-counter cough and cold medicines, \"is not effective as a nasal decongestant.\"",
+      "url": "https://www.cbsnews.com/news/fda-cold-medicine-phenylephrine-ineffective/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/12/ea05e96c-0549-48e2-991c-9022a451562b/thumbnail/1200x630/a7b976022ec253976f0809c9df53f0ac/gettyimages-1263001939.jpg?v=c1d30b1df13c40bf65c6c1e6d9ac4ad7",
+      "publishedAt": "2024-11-07T17:32:31Z",
+      "content": "The Food and Drug Administration announced Wednesday that it would seek to pull a widely used ingredient in cough and cold medicines from the market, after the agency's scientists concluded that the … [+4151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Dave Jamieson",
+      "title": "Judge Orders Another Union Election At Amazon Warehouse In Alabama - HuffPost",
+      "description": "Officials have found that the Big Tech retailer interfered in not one but two union elections at the warehouse in ways that warranted throwing out the results.",
+      "url": "https://www.huffpost.com/entry/amazon-third-union-election-bessemer_n_672cdffae4b01e5999fc6580",
+      "urlToImage": "https://img.huffingtonpost.com/asset/672ce05f1f00002e00e01137.jpeg?cache=P526BevRLE&ops=1200_630",
+      "publishedAt": "2024-11-07T17:06:21Z",
+      "content": "A judge at the federal labor board has ordered a do-over union election at an Amazon warehouse in Bessemer, Alabama, finding that the online retail giant broke the law in ways that spoiled a vote by … [+4956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lillian Rizzo, Gabrielle Fonrouge, Rohan Goswami, Annika Kim Constantino",
+      "title": "Wall Street expects Trump presidency will unlock deal-making - CNBC",
+      "description": "Deal-making has slowed in recent years, largely due to high interest rates, soaring company valuations and a tight regulatory environment.",
+      "url": "https://www.cnbc.com/2024/11/07/wall-street-expects-trump-presidency-will-unlock-deal-making.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108059094-1730918204395-gettyimages-2182526166-AFP_36LH9ZM.jpeg?v=1730918391&w=1920&h=1080",
+      "publishedAt": "2024-11-07T16:00:01Z",
+      "content": "Attendees cheer as a broadcast of former US President and Republican presidential candidate Donald Trum speaking at his Florida election party is shown on a screen at the Nevada GOP election watch pa… [+7427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jesse Pound, Alex Harring",
+      "title": "S&P 500 rises slightly ahead of Fed meeting as Wall Street looks to build on post-election rally: Live updates - CNBC",
+      "description": "Stocks gained after a huge market rally following Donald Trump's decisive victory in the presidential election.",
+      "url": "https://www.cnbc.com/2024/11/06/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108059636-17309898322024-11-06t211530z_1544452754_rc2wzaadwu5i_rtrmadp_0_usa-election-stocks.jpeg?v=1731015798&w=1920&h=1080",
+      "publishedAt": "2024-11-07T15:56:15Z",
+      "content": "The S&amp;P 500 and Nasdaq rose Thursday, extending Wall Street's rally in the wake of President-elect Donald Trump's victory, as traders weighed the latest rate cut from the Federal Reserve.\r\nThe S&… [+2471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Silin Chen",
+      "title": "One big tech stock could profit from Super Micro’s disaster - TheStreet",
+      "description": "Super Micro Computer's slate of problems could boost rivals.",
+      "url": "https://www.thestreet.com/investing/stocks/this-tech-company-could-see-an-upside-after-super-micros-disaster",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA4OTE0NzE2MzQzNDc4MTI5/key-speakers-at-computex-taipei.jpg",
+      "publishedAt": "2024-11-07T15:51:53Z",
+      "content": "Super Micro’s troubles are mounting.\r\nIt all began this summer when short-selling investor Hindenburg Research released a report on Aug. 27, alleging accounting manipulation and undisclosed related-p… [+4732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "Stellantis to lay off 1,100 workers indefinitely - Fox Business",
+      "description": "Stellantis, which has been working to reduce its inventory levels in North America, announced it was indefinitely laying off over 1,000 workers at its Jeep assembly plant in Ohio.",
+      "url": "https://www.foxbusiness.com/lifestyle/stellantis-lay-off-1100-workers-indefinitely",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/assembly-plant.jpg?ve=1&tl=1",
+      "publishedAt": "2024-11-07T15:49:00Z",
+      "content": "Stellantis is indefinitely laying off more than 1,000 employees at its Jeep assembly plant in Ohio as the automaker significantly reduces its inventory levels to match demand. \r\nStellantis, the paren… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Stacy Elliott",
+      "title": "Bitcoin Posts Huge Volumes as Investors Weigh Bullish Trump Administration - Decrypt",
+      "description": "\"Investors are watching closely, hoping that pro-crypto promises made during recent conferences will be fulfilled,\" an analyst said about the election.",
+      "url": "https://decrypt.co/290581/bitcoin-posts-huge-volumes-as-investors-weigh-bullish-trump-administration",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/07/bitcoin-american-flag-u.s.-united-states-gID_7.jpg",
+      "publishedAt": "2024-11-07T15:28:51Z",
+      "content": "Bitcoin's upward price trajectory has slowed, but the cryptocurrency hasn't lost much ground after setting a new all-time high yesterday above $76,000.\r\nAt the time of writing, the Bitcoin price has … [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Avi Kapoor",
+      "title": "How To Earn $500 A Month From Nvidia Stock After Trump Win - Benzinga",
+      "description": "With the recent buzz around Nvidia ahead of quarterly earnings, investors may also be eyeing potential gains from the company's dividends.",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/24/11/41809435/how-to-earn-500-a-month-from-nvidia-stock-after-trump-win",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/07/Nvidia-Corporation-NVDA_0.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-11-07T14:31:17Z",
+      "content": "Shares of Nvidia CorporationNVDA settled higher on Wednesday after Donald Trump won the election to become the 47th U.S. president.\r\nThe Biden administration imposed an artificial intelligence techno… [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "David Zaslav Says Donald Trump’s Re-Election Could Offer Media Business “A Pace Of Change And An Opportunity For Consolidation” - Deadline",
+      "description": "Warner Bros. Discovery CEO David Zaslav said Donald Trump's re-election as president and Republican control of Congress bode well for more media M&A.",
+      "url": "http://deadline.com/2024/11/david-zaslav-donald-trump-mergers-regulation-warner-bros-discovery-1236169849/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/GettyImages-2160755267.jpg?w=1024",
+      "publishedAt": "2024-11-07T14:19:00Z",
+      "content": "Warner Bros. Discovery CEO David Zaslav said Donald Trump‘s re-election as president bodes well for media M&amp;A.\r\n“We have an upcoming new administration,” the exec noted during WBD’s quarterly ear… [+2896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "ALLISON GATLIN, Investor's Business Daily",
+      "title": "Moderna Surges On Surprise Profit, Big Sales Beat - Investor's Business Daily",
+      "description": "The company also reiterated its outlook for the year despite lower-than-expected sales of its RSV vaccine.",
+      "url": "https://www.investors.com/news/technology/moderna-stock-moderna-earnings-q3-2024/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/12/Stock-moderna-04-adobe.jpg",
+      "publishedAt": "2024-11-07T13:58:00Z",
+      "content": "Moderna (MRNA) crushed third-quarter expectations on Thursday and turned around a surprise profit. But Moderna stock pulled back from a steep premarket gain.\r\nXNOW PLAYINGHow To Buy Stocks: Do You Kn… [+5190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lora Kolodny",
+      "title": "How Elon Musk stands to cash in on Trump's presidential victory - CNBC",
+      "description": "Tesla CEO Elon Musk poured at least $130 million into a pro-Trump campaign effort after an assassination attempt on the former president in July.",
+      "url": "https://www.cnbc.com/2024/11/07/how-elon-musk-stands-to-cash-in-on-trumps-presidential-victory.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057984-1730831808377-gettyimages-2176083179-AFP_36JD9UV.jpeg?v=1730935871&w=1920&h=1080",
+      "publishedAt": "2024-11-07T13:00:01Z",
+      "content": "Tesla CEO Elon Musk (R) joins former U.S. President and Republican presidential candidate Donald Trump during a campaign rally at the site of his first assassination attempt in Butler, Pennsylvania, … [+8802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Jennifer Mossalgue",
+      "title": "Rivian and Lucid shares take a dive while Tesla soars - Electrek",
+      "description": "What's the Trump effect on the EV market? Depends: smaller players like Rivian and Lucid may be at risk, while Tesla has the scale, profitability, and Trump connection to make it work.",
+      "url": "http://electrek.co/2024/11/07/rivian-and-lucid-shares-take-a-dive-while-tesla-soars/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T12:58:00Z",
+      "content": "Whats the Trump effect on the EV market? Depends: Smaller players like Rivian and Lucid are potentially at risk, while Tesla has the scale, profitability, and Trump connection to make it work, despit… [+4446 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jordan Valinsky",
+      "title": "The world’s 10 richest people got a record $64 billion richer from Trump’s reelection - CNN",
+      "description": "Wednesday wasn’t just a good day for Donald Trump. The wealth of the world’s 10 richest people also soared by a record amount, according to Bloomberg’s Billionaire Index.",
+      "url": "https://www.cnn.com/2024/11/07/investing/billionaires-net-worth-trump-win/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241107-rich.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-07T12:33:00Z",
+      "content": "Wednesday wasnt just a good day for Donald Trump. The wealth of the worlds 10 richest people also soared by a record amount, according to Bloombergs Billionaire Index.\r\nThe biggest gainer was Elon Mu… [+1940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Jesse Whittock, Dade Hayes",
+      "title": "Warner Bros. Discovery Sees Streaming Subs Rocket To 110 Million - Deadline",
+      "description": "Warner Bros Discovery added more than seven million net subscribers in Q3 2024 to reach 110.5 million, as its international Max rollout gathered pace.",
+      "url": "http://deadline.com/2024/11/warner-bros-discovery-q3-earnings-streaming-boost-1236169793/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/GettyImages-2159549028.jpg?w=1024",
+      "publishedAt": "2024-11-07T12:15:00Z",
+      "content": "Warner Bros Discovery (WBD) added more than seven million net subscribers in the third quarter of 2024 as its international Max rollout gathered pace, but other key earnings metrics dipped versus 202… [+4318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "How Trump’s second administration could affect gas prices - New York Post ",
+      "description": "Analyst projects that gas prices will hover around $3 per gallon this summer.",
+      "url": "https://nypost.com/2024/11/07/business/how-trumps-second-administration-could-affect-gas-prices/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/Trump-gas.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-11-07T11:32:00Z",
+      "content": "Energy analysts projected that the re-election of former President Trump could offer a potential boost to oil companies despite concerns that geopolitical tensions could lead to potential price incre… [+2766 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Liz Capo McCormick, Anchalee Worrachate, Greg Ritchie",
+      "title": "US Bond Yield Spike Sends Warning to ‘King of Debt’ Trump - Bloomberg",
+      "description": "Donald Trump’s sweeping win in the US presidential election set off a torrent of buy signals across Wall Street. There was, however, one notable exception.",
+      "url": "https://www.bloomberg.com/news/articles/2024-11-07/us-yield-spike-sends-message-to-trump-bond-vigilantes-are-awake",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqwEuOZndH_I/v1/1200x800.jpg",
+      "publishedAt": "2024-11-07T11:05:11Z",
+      "content": "Donald Trumps sweeping win in the US presidential election set off a torrent of buy signals across Wall Street. There was, however, one notable exception.\r\nListen to the Bloomberg Daybreak Europe pod… [+45 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Noah Sheidlower, Alice Tecotzky, Kwan Wei Kevin Tan, Beatrice Nolan, Lloyd Lee",
-      "title": "Trump 'won fair and square': Biz leaders from Elon Musk to Mark Cuban and Mark Zuckerberg react to election result - Business Insider",
-      "description": "Here is what some of the most influential business figures have to say about Donald Trump winning the election.",
-      "url": "https://www.businessinsider.com/business-leaders-react-donald-trump-winning-election-silicon-valley-2024-11",
-      "urlToImage": "https://i.insider.com/672b405f192f5258985661fa?width=1200&format=jpeg",
-      "publishedAt": "2024-11-07T01:09:00Z",
+      "author": "James Faris",
+      "title": "Wall Street Is Ignoring Economic Red Flag After Trump Win: David Kelly - Business Insider",
+      "description": "US stocks got fire after Donald Trump's win, but David Kelly of J.P. Morgan Asset Management says Wall Street is overlooking a crucial economic risk.",
+      "url": "https://www.businessinsider.com/stock-market-outlook-trump-president-economy-tariffs-trade-war-kelly-2024-11",
+      "urlToImage": "https://i.insider.com/672bd99488cea3ba1c1ecb70?width=1200&format=jpeg",
+      "publishedAt": "2024-11-07T10:30:00Z",
+      "content": "Markets are celebrating Donald Trump's election as president, though the leading strategist at JPMorgan's multitrillion asset-management arm is not in the mood to party.\r\nUS stocks had one of their b… [+5162 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MARI YAMAGUCHI",
+      "title": "A tiny grain of nuclear fuel is pulled from ruined Japanese nuclear plant, in a step toward cleanup - The Associated Press",
+      "description": "A robot that has spent months inside the ruins of a nuclear reactor at the tsunami-hit Fukushima Daiichi plant delivered a tiny sample of melted nuclear fuel, in what plant officials said was a step toward beginning the cleanup of hundreds of tons of melted f…",
+      "url": "https://apnews.com/article/japan-nuclear-fukushima-sample-robot-decommissioning-b7dd956a86401b39f04ae839f768d29f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b475c6e/2147483647/strip/true/crop/4972x2797+14+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fc0%2F6c18078c4c5f234c90f58cb11bad%2Fdee5e3da16bc4362859a008741ed4697",
+      "publishedAt": "2024-11-07T10:19:00Z",
+      "content": "TOKYO (AP) A robot that has spent months inside the ruins of a nuclear reactor at the tsunami-hit Fukushima Daiichi plant delivered a tiny sample of melted nuclear fuel on Thursday, in what plant off… [+3296 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Brianna Crane",
+      "title": "High mortgage rates predicted to stay higher with Trump presidency - Axios",
+      "description": "Economist predicts higher mortgage rates for longer after Trump's victory.",
+      "url": "https://www.axios.com/2024/11/07/mortgage-rates-housing-trump",
+      "urlToImage": "https://images.axios.com/eVomgT_9kjbVkHN7Lj6GEBpQLpE=/0x0:1920x1080/1366x768/2024/11/06/1730926412613.jpg",
+      "publishedAt": "2024-11-07T10:13:27Z",
+      "content": "Mortgage rates rose after President-elect Trump's victory and are expected to stay higher for longer, Redfin economic research lead Chen Zhao tells Axios.\r\nDriving the news: In the hours since the el… [+1085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Winnie Hsu",
+      "title": "Chinese Stocks Bounce Back as Stimulus Hopes Offset Trump Risks - Yahoo Finance",
+      "description": "(Bloomberg) -- Chinese shares rebounded strongly from Wednesday’s losses as robust exports and hopes for more stimulus outweighed concerns about tariffs...",
+      "url": "https://finance.yahoo.com/news/chinese-stocks-bounce-back-stimulus-090555941.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/333e18e0310fb1c2cfa035edbd696169",
+      "publishedAt": "2024-11-07T09:05:55Z",
+      "content": "(Bloomberg) -- Chinese shares rebounded strongly from Wednesdays losses as robust exports and hopes for more stimulus outweighed concerns about tariffs spurred by the US election outcome.\r\nMost Read … [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "China Has Detained a Senior AstraZeneca Executive - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/china-has-detained-senior-astrazeneca-executive-4faf79f9",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T08:03:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stars and Stripes"
+      },
+      "author": null,
+      "title": "Discounts and freebies for Veterans Day 2024 - Stars and Stripes",
+      "description": "Many restaurants and businesses are offering free or discounted product and meals for veterans and active-duty service members.",
+      "url": "https://www.stripes.com/veterans/2024-11-06/veterans-day-military-discounts-2024-15580453.html",
+      "urlToImage": "https://www.stripes.com/incoming/7w9d9k-1.jpg/alternates/LANDSCAPE_480/1.jpg",
+      "publishedAt": "2024-11-07T01:35:20Z",
+      "content": "Chilis Grill &amp; Bar is offering a free entrée from a select menu to veterans and active duty service members on Nov. 11. Pictured are the four entrées to choose from. (Chilis)\r\nVeterans Day will b… [+23712 chars]"
     },
     {
       "source": {
@@ -82,16 +407,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": "Aya Wagatsuma",
-      "title": "Asian Stocks to Rise, Yen Steadies After Selloff: Markets Wrap - Bloomberg",
-      "description": "Most Asian shares gained, following their US peers higher, as investors positioned for a second Donald Trump presidency and an expected Federal Reserve interest-rate cut.",
-      "url": "https://www.bloomberg.com/news/articles/2024-11-06/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izxEgHKZH3oo/v0/1200x675.png",
-      "publishedAt": "2024-11-06T23:21:50Z",
-      "content": "Most Asian shares gained, following their US peers higher, as investors positioned for a second Donald Trump presidency and an expected Federal Reserve interest-rate cut. \r\nEquity gauges rallied in H… [+272 chars]"
+      "author": "Rob Lenihan",
+      "title": "Veteran trader makes bold move on Palantir after earnings - TheStreet",
+      "description": "The Wall Street veteran sees big things coming out of Palantir's quarterly results.",
+      "url": "https://www.thestreet.com/investing/stocks/veteran-trader-makes-bold-move-on-palantir-after-earnings",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA2MjcwMjQ1NjU1MDI5NTIz/_alex-karp_kl.jpg",
+      "publishedAt": "2024-11-06T23:33:00Z",
+      "content": "The history of the word \"Huzzah\" is somewhat sketchy.\r\nWhile the term is used to express or approval or delight, its etymological roots are unclear. \r\nIt may have been influenced by war cries from va… [+5404 chars]"
     },
     {
       "source": {
@@ -109,249 +434,54 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Gizmodo.com"
       },
-      "author": "Barron's",
-      "title": "Treasury Yields Jump After Trump Win. What to Do With Bonds Now. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/treasury-bond-yields-jump-trump-win-6f2145d4",
-      "urlToImage": null,
-      "publishedAt": "2024-11-06T22:26:00Z",
+      "author": "Lucas Ropek",
+      "title": "Crypto Bros’ Big Election Bet Paid Off - Gizmodo",
+      "description": "Web3 goons spent big this election season. The money has bought them new political influence and paved a way for their industry's future.",
+      "url": "https://gizmodo.com/crypto-bros-big-election-bet-paid-off-2000521252",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Cameron-and-Tyler-Winklevoss-1.jpg",
+      "publishedAt": "2024-11-06T20:50:33Z",
+      "content": "Well, election night is over and everything sucks. Not only is Donald Trump going to be President again, but a whole bunch of political candidates funded by the odious crypto industry have been elect… [+3491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pv magazine USA"
+      },
+      "author": "",
+      "title": "Solar stocks nosedive as Trump victory is secured - pv magazine USA",
+      "description": "With a Republican White House, Senate, and the House of Representatives up for grabs, core solar industrial policy will possibly be repealed.",
+      "url": "https://pv-magazine-usa.com/2024/11/06/solar-stocks-nosedive-as-trump-victory-is-secured/",
+      "urlToImage": "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2021/07/pexels-gustavo-fring-4254164-1200x800.jpg",
+      "publishedAt": "2024-11-06T17:25:53Z",
+      "content": "Republicans have secured political victories, electing President Donald Trump, securing the Senate, and possibly gaining majority in the House of Representatives.\r\nWhile the DOW Jones industrial aver… [+4299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Bram Berkowitz",
+      "title": "Why Bank of America, Visa, and Capital One Are Ripping After a Trump Victory - The Motley Fool",
+      "description": "Bank stocks soared after Donald Trump won the U.S. presidential election on expectations of an easier regulatory backdrop.",
+      "url": "https://www.fool.com/investing/2024/11/06/why-bank-of-america-visa-and-capital-one-are-rippi/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/796760/positive-person-1.jpg",
+      "publishedAt": "2024-11-06T16:21:38Z",
+      "content": "Bank stocks soared after Donald Trump won the U.S. presidential election on expectations of an easier regulatory backdrop.Bank stocks surged after numerous publications and major television networks … [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Finbold.com"
+      },
+      "author": "Paul L.",
+      "title": "Why gold price is crashing - Finbold - Finance in Bold",
+      "description": "After enjoying a historic run in 2024, gold prices are retracing as markets digest Donald Trump’s return to the White House.",
+      "url": "https://finbold.com/why-gold-price-is-crashing/",
+      "urlToImage": "https://assets.finbold.com/uploads/2024/11/Why-gold-price-is-crashing.jpg",
+      "publishedAt": "2024-11-06T16:02:50Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Aarian Marshall",
-      "title": "Trump Won. What Will Happen to Electric Vehicles? - WIRED",
-      "description": "Thanks to Elon Musk’s influence, the president-elect has waffled on the future of America’s electric transition.",
-      "url": "https://www.wired.com/story/trump-won-what-happens-to-electric-vehicles-now/",
-      "urlToImage": "https://media.wired.com/photos/672bbc1ddb8d7c705ec6a2f2/191:100/w_1280,c_limit/Gear_Trump_Tesla_GettyImages-2182210030.jpg",
-      "publishedAt": "2024-11-06T22:19:49Z",
-      "content": "Donald Trump picked up 15 electoral votes when he won Michigan on Election Day, another big win that helped to hand the Republican candidate his second presidential term. Both he and the Democratic n… [+3417 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "'Trump Trade': Election news leads to biggest 1-day stock market gain in 2 years - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/trump-trade-election-news-leads-biggest-1-day/story?id\\\\u003d115574588",
-      "urlToImage": null,
-      "publishedAt": "2024-11-06T21:46:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alexandra Canal",
-      "title": "DJT stock jumps after Trump clinches election win - Yahoo Finance",
-      "description": "It's set to be another volatile trading session for Trump Media & Technology Group (DJT), the home of Republican nominee Donald Trump's social media platform...",
-      "url": "https://finance.yahoo.com/news/djt-stock-jumps-after-trump-clinches-election-win-165655956.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uSB1Q2dsT_UYaOl5ml9lZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/6d0292f0-9c1b-11ef-a3eb-be8df8b069e1",
-      "publishedAt": "2024-11-06T21:22:48Z",
-      "content": "Trump Media &amp; Technology Group stock (DJT) surged as much as 25% on Wednesday as Donald Trump clinched victory over Kamala Harris in the presidential election. Shares pared gains throughout the t… [+3653 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Nora Eckert",
-      "title": "Stellantis to lay off 1,100 workers at Ohio Jeep plant - Reuters",
-      "description": "Stellantis said on Wednesday it is laying off about 1,100 employees at a Jeep Gladiator plant in Toledo, Ohio, as it works to improve efficiency and reduce inventory across its North American operations.",
-      "url": "https://www.reuters.com/business/autos-transportation/stellantis-lay-off-1100-workers-ohio-jeep-plant-2024-11-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/7G73MWNIJJMVFJ3N27MXETFYJY.jpg?auth=e80debbd702c1eade888e0eefad8a9d7fe2ac7b07047edff400979f7e4e1b8e9&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-11-06T21:19:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Anuja Bharat Mistry",
-      "title": "Elf Beauty lifts annual forecasts on resilient cosmetics demand - Yahoo Finance",
-      "description": "(Reuters) -Elf Beauty raised its forecasts for annual sales and profit on Wednesday, betting on its efforts to sell cosmetics such as lip oil and liquid...",
-      "url": "https://finance.yahoo.com/news/elf-beauty-lifts-annual-forecasts-211022046.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/09ff556e51c860a206f36586c42b2983",
-      "publishedAt": "2024-11-06T21:10:22Z",
-      "content": "By Anuja Bharat Mistry\r\n(Reuters) -Elf Beauty raised its forecasts for annual sales and profit on Wednesday, betting on its efforts to sell cosmetics such as lip oil and liquid blush at affordable pr… [+1815 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee Picchi",
-      "title": "5 ways Trump's next presidency could affect the U.S. economy — and your money - CBS News",
-      "description": "Donald Trump's victory in the 2024 presidential election is likely to have a major impact on the economy. Here's what to know.",
-      "url": "https://www.cbsnews.com/news/trump-election-impact-on-economy-taxes-inflation-your-money/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/06/46e1c21b-bc64-4442-8c9e-15108c9f3db0/thumbnail/1200x630/41f5b8a578ea96df95539889e673cd77/ap24311287496455.jpg?v=c1d30b1df13c40bf65c6c1e6d9ac4ad7",
-      "publishedAt": "2024-11-06T20:58:34Z",
-      "content": "President-elect Donald Trump's victory in the November 5 election highlights the frustrations of millions of voters, with many Americans noting in exit polls on Tuesday that they're still hurting fro… [+7670 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "DJT Stock Slides Back After Election Surge - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/djt-stock-price-trump-wealth-52da2c92",
-      "urlToImage": null,
-      "publishedAt": "2024-11-06T20:46:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Realtor.com",
-      "title": "What Donald Trump’s return to the White House will mean for the housing market - New York Post ",
-      "description": "After a hotly contested race with big implications for the housing market, Donald Trump will return to the White House for a second term, four years after losing his first bid for reelection.",
-      "url": "https://nypost.com/2024/11/06/real-estate/what-donald-trumps-return-to-the-white-house-will-mean-for-the-housing-market/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-6o3c19eld-1730921284440.jpg?quality=75&strip=all&1730903350&w=1024",
-      "publishedAt": "2024-11-06T20:40:00Z",
-      "content": "After a hotly contested race with big implications for the housing market, Donald Trump will return to the White House for a second term, four years after losing his first bid for reelection.\r\nTrump … [+9766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Melissa Repko, Gabrielle Fonrouge",
-      "title": "Trump's proposed tariffs could raise prices for consumers and slow spending - CNBC",
-      "description": "President-elect Donald Trump has proposed stiff tariffs on imported goods, which could lead to higher prices and softer spending.",
-      "url": "https://www.cnbc.com/2024/11/06/trump-proposed-tariffs-consumer-prices.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107433187-1719348427961-gettyimages-1973658993-AFP_34HJ446.jpeg?v=1723229148&w=1920&h=1080",
-      "publishedAt": "2024-11-06T20:21:44Z",
-      "content": "Shoppers walk through the Fashion Centre at Pentagon City, a shopping mall in Arlington, Virginia, February 2, 2024.\r\nFor retailers and consumers finally feeling some relief from inflation, President… [+7671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Taylor Herzlich",
-      "title": "Polymarket ‘whale’ who bet big on Trump win raked in $48M in profits - New York Post ",
-      "description": "The French “whale” who bet $30 million on a Trump White House win via Polymarket has raked in $48 million in profits on the wager, according to the crypto-based betting platform.",
-      "url": "https://nypost.com/2024/11/06/business/polymarket-whale-who-bet-on-trump-raked-in-48m-in-profits/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/donald-trump-president-elect-arrives-93156650.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-11-06T19:46:00Z",
-      "content": "The French whale who bet $30 million on a Trump White House win via Polymarket has raked in $48 million in profits on the wager, according to the crypto-based betting platform.\r\nThe anonymous bettor,… [+3374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jeff Cox",
-      "title": "The Fed is expected to cut interest rates again Thursday. Here's everything you need to know - CNBC",
-      "description": "Markets are pricing in a near-certainty that the FOMC will lower its benchmark rate by a quarter percentage point.",
-      "url": "https://www.cnbc.com/2024/11/06/the-fed-is-likely-cutting-rates-again-thursday-everything-you-need-to-know.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108036091-17266851682024-09-18t184227z_1394950131_rc263aakt67b_rtrmadp_0_usa-economy-fed.jpeg?v=1726685205&w=1920&h=1080",
-      "publishedAt": "2024-11-06T19:33:55Z",
-      "content": "Federal Reserve Board Chairman Jerome Powell holds a press conference following a two-day meeting of the Federal Open Market Committee on interest rate policy in Washington, U.S., September 18, 2024.… [+5005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Daniella Genovese",
-      "title": "How Trump's second administration could affect gas prices - Fox Business",
-      "description": "Energy analysts weigh in on the impact a second Trump administration could have on the oil and gas industry, and how policies might affect gasoline prices.",
-      "url": "https://www.foxbusiness.com/lifestyle/how-trumps-second-administration-could-affect-gas-prices",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/Phillips-66.jpg?ve=1&tl=1",
-      "publishedAt": "2024-11-06T18:47:00Z",
-      "content": "Energy analysts projected that the re-election of former President Trump could offer a potential boost to oil companies despite concerns that geopolitical tensions could lead to potential price incre… [+2454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Vinamrata Chaturvedi",
-      "title": "Super Micro Computer stock bleeds 24% after it can’t even say when it will post actual earnings - Quartz",
-      "description": "Shares of the AI hardware maker hit a new 52-week low after it reported unaudited quarterly results because its auditor quit",
-      "url": "https://qz.com/super-micro-stock-drops-weaker-financial-reports-1851690896",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11cb641975d4c322565e662aaedb4dcd.jpg",
-      "publishedAt": "2024-11-06T17:24:00Z",
-      "content": "In This Story\r\nSuper Micro Computer Inc. (SMCI-18.14%\r\n) shares plummeted more than 24% on Wednesday after the AI hardware company released a disappointing preliminary first-quarter report and failed… [+2437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "Martin Baccardax",
-      "title": "Trump election win may put Fed interest rate cuts at risk - TheStreet",
-      "description": "The Federal Reserve and markets may need to revisit rate-cut forecasts.",
-      "url": "https://www.thestreet.com/investing/trump-election-victory-could-put-fed-interest-rate-cuts-at-risk",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MTQ0OTQzNTAxOTExNjY0/federal-reserve-chair-powell-holds-a-news-conference-following-the-federal-open-market-committee-meeting.jpg",
-      "publishedAt": "2024-11-06T17:13:46Z",
-      "content": "The Federal Reserve faces a starkly different outlook for growth and inflation now that former President Donald Trump has secured his return to the White House, only this time with the likely support… [+4816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "Aaron McDade",
-      "title": "Solar Stocks Tumble With Trump Set To Retake White House - Investopedia",
-      "description": "Solar stocks fell Wednesday after the presidential election was called in favor of Donald Trump, as the former president's campaign included promises to reverse Biden administration policies favoring renewable energy.",
-      "url": "https://www.investopedia.com/solar-stocks-tumble-with-trump-set-to-retake-presidency-8740443",
-      "urlToImage": "https://www.investopedia.com/thmb/wKLFm3R2q8Jwqkfkrz87v2ZT7KI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2169716536-59e0b5c98fbe4b4cbf823fc31ebd622d.jpg",
-      "publishedAt": "2024-11-06T15:43:08Z",
-      "content": "<ul><li>Solar stocks moved sharply lower Wednesday morning after the presidential election was called in favor of Donald Trump.</li><li>First Solar, Enphase Energy, SunRun, Plug Power, and SolarEdge … [+1301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Todd Spangler",
-      "title": "Donald Trump Presidency Could Make 2025 a ‘Breakout Year for M&A’ With Deregulation on the Table - Variety",
-      "description": "Donald Trump's return to the White House next year could lead to a new wave of industry consolidation in the media and entertainment biz.",
-      "url": "https://variety.com/2024/digital/news/trump-presidency-2025-breakout-year-mergers-acquisitions-deregulation-1236202488/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/GettyImages-2181622689.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2024-11-06T14:45:00Z",
-      "content": "Donald Trump‘s return to the White House next year could lead to a new wave of industry consolidation in the media and entertainment biz — and beyond.\r\nA second Trump administration is likely to ushe… [+3613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Josh Schafer",
-      "title": "Tesla stock soars double digits after Trump win - Yahoo Finance",
-      "description": "Tesla CEO Elon Musk had been a heavy supporter of Trump's campaign.",
-      "url": "https://finance.yahoo.com/news/tesla-stock-soars-by-double-digits-after-trump-win-133908406.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z97OiSdTrjW.46z_RlYXAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7775db70-9699-11ef-b57a-81e2c1485890",
-      "publishedAt": "2024-11-06T13:39:08Z",
-      "content": "Tesla stock (TSLA) rose nearly 15% on Wednesday as investors digested Donald Trump's victory in the US presidential election.\r\nTesla CEO Elon Musk had been a heavy supporter of Trump's campaign. Trum… [+2068 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cvshealth.com"
-      },
-      "author": null,
-      "title": "CVS Health Corporation reports third quarter 2024 results - CVS Health",
-      "description": "CVS Health Corporation announces operating results for the three months ended September 30, 2024.",
-      "url": "https://www.cvshealth.com/news/company-news/cvs-health-corporation-reports-third-quarter-2024-results.html",
-      "urlToImage": "https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/logos/news-component-hero-logo/CVSHealth-Enterprise-Hero-Logo-1600x900.jpeg",
-      "publishedAt": "2024-11-06T11:34:27Z",
-      "content": "Third quarter GAAP diluted EPS of $0.07 decreased from $1.75 in the prior year and Adjusted EPS of $1.09 decreased from $2.21 in the prior year, primarily due to a decline in the Health Care Benefits… [+1155 chars]"
     }
   ]
 }
