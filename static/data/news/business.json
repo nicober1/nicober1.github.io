@@ -1,58 +1,253 @@
 {
   "status": "ok",
-  "totalResults": 61,
+  "totalResults": 60,
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit (updated) - TechCrunch",
+      "description": "In a court filing, lawyers for The NY Times and Daily news say that OpenAI accidentally deleted potential evidence against it.",
+      "url": "https://techcrunch.com/2024/11/22/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
+      "publishedAt": "2024-11-23T05:07:00Z",
+      "content": "Lawyers for The New York Times and Daily News, which are suing OpenAI for allegedly scraping their works to train its AI models without permission, say OpenAI engineers accidentally deleted data pote… [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketplace.org"
+      },
+      "author": "Janet Nguyen",
+      "title": "How Trump’s policy proposals could affect housing prices - Marketplace",
+      "description": "Trump’s deportation plans would slow down construction, while his tariff and tax policies could keep interest rates high.",
+      "url": "https://www.marketplace.org/2024/11/22/how-trumps-policy-proposals-could-affect-housing-prices/",
+      "urlToImage": "https://www.marketplace.org/wp-content/uploads/2024/11/house.jpg?fit=5066%2C2876&w=1200",
+      "publishedAt": "2024-11-23T02:13:19Z",
+      "content": "President-elect Donald Trump has proposed sweeping changes to immigration policy, taxes and tariffs.\r\nHe wants to extend temporary tax cuts that were implemented as part of 2017s Tax Cuts and Jobs Ac… [+4864 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "Target Just Released Its Black Friday Sneak Peek With Great Deals on Nintendo Switch - IGN",
+      "description": "PlayStation deals are live today, with Switch and Meta Quest deals going live on Sunday.",
+      "url": "https://www.ign.com/articles/target-black-friday-sale-2024-what-deals-to-expect",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/23/targetbf-1732326732529.jpg?width=1280",
+      "publishedAt": "2024-11-23T02:13:11Z",
+      "content": "Target just kicked off its Black Friday Sale with some big discounts we've all been waiting for on PlayStation 5 consoles, peripherals, and video games. But that's not all. Target also unveiled its B… [+8592 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Infant dead in listeria outbreak tied to Yu Shang Food ready-to-eat meat and poultry products: CDC - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Health/yu-shang-food-listeria-outbreak-infant-death/story?id\\\\u003d116150412",
+      "urlToImage": null,
+      "publishedAt": "2024-11-23T02:07:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Elon Musk is directing harassment toward individual federal workers - The Verge",
+      "description": "Elon Musk is naming specific government workers with comments about ‘fake jobs’ in posts ahead of recommending sweeping federal government cuts.",
+      "url": "https://www.theverge.com/2024/11/22/24303594/elon-musk-harassing-federal-workers-x",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/E031fcTgHXHGlh8yNCAsRMI1rTE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24083660/STK171_L_Allen_Musk_02.jpg",
+      "publishedAt": "2024-11-23T00:21:00Z",
+      "content": "Elon Musk is directing harassment toward individual federal workers\r\nElon Musk is directing harassment toward individual federal workers\r\n / The efficiency agency co-lead is pointing out people by na… [+2132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Endpoints News"
+      },
+      "author": "Max Gelman",
+      "title": "FDA approves BridgeBio’s heart disease drug, setting up competition with Pfizer, Alnylam - Endpoints News",
+      "description": "The FDA approved BridgeBio’s ​​acoramidis in a rare, genetic heart disease that’s expected to become an intense area of market competition, and a broad label will give it a near-immediate boost against the current leader.",
+      "url": "https://endpts.com/fda-approves-bridgebios-heart-disease-drug-setting-up-competition-with-pfizer-alnylam/",
+      "urlToImage": "https://endpts.com/wp-content/uploads/2023/02/FDA-headquarters-Getty-social.jpg",
+      "publishedAt": "2024-11-23T00:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf",
+      "title": "Elon Musk has never been richer. He’s now worth nearly $350 billion - CNN",
+      "description": "The Tesla founder has seen his wealth surge since the 2024 US presidential election.",
+      "url": "https://www.cnn.com/2024/11/22/business/elon-musk-net-worth-election/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-15t020915z-343281033-rc2e5baowak2-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-23T00:11:00Z",
+      "content": "The aftermath of the 2024 US presidential election has been a boon to Elon Musk.\r\nThe richest person in the world got even richer Friday, with Musks net worth hitting a record $347.8 billion, Bloombe… [+1433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Bitcoin Climbs and MicroStrategy Soars. What Can Go Wrong? - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/bitcoin-price-crypto-microstrategy-stock-banana-80d9c511",
+      "urlToImage": null,
+      "publishedAt": "2024-11-23T00:11:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "Bob Iger Sells $42.7M In Disney Stock, Following Through On Plan Revealed Earlier This Month - Deadline",
+      "description": "Bob Iger, who is in the home stretch of his storied, two-chapter run as CEO of the Walt Disney Co., is selling $42.7 million in stock.",
+      "url": "http://deadline.com/2024/11/bob-iger-selling-disney-stock-1236185965/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Bob-Iger.jpg?w=1024",
+      "publishedAt": "2024-11-23T00:02:00Z",
+      "content": "Bob Iger, who is in the home stretch of his two-chapter run as CEO of the Walt Disney Co., is selling $42.7 million in stock.\r\nThe move, disclosed in an SEC filing on Friday, makes good on a plan det… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Hugh Son, CNBC",
+      "title": "'I have no money': Thousands of Americans see their savings vanish in Synapse fintech crisis - Yahoo Finance",
+      "description": "For 15 years, former Texas schoolteacher Kayla Morris put every dollar she could save into a home for her growing family.",
+      "url": "https://www.nbcnews.com/business/consumer/-no-money-thousands-americans-see-savings-vanish-synapse-fintech-crisi-rcna181419",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8dzIwPr.f6QieNaj6T_QwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/49cbeee5c9c6a619b0080d7ddc3a92ce",
+      "publishedAt": "2024-11-22T22:35:56Z",
+      "content": "For 15 years, former Texas schoolteacher Kayla Morris put every dollar she could save into a home for her growing family.When she and her husband sold the house last year, they stowed away the procee… [+9199 chars]"
+    },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
       "author": "JONEL ALECCIA",
-      "title": "At least 15 people are sick in Minnesota from ground beef tied to E. coli recall - The Associated Press",
-      "description": "U.S. health officials say at least 15 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 160,000 pounds of potentially tainted ground beef. Detroit-based Wolverine Packing Co. recalled the meat this week after M…",
+      "title": "At least 19 people are sick in Minnesota from ground beef tied to E. coli recall - The Associated Press",
+      "description": "U.S. health officials say at least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef. Detroit-based Wolverine Packing Co. recalled the meat sent to restauran…",
       "url": "https://apnews.com/article/e-coli-ground-beef-wolverine-packing-7f61432d13e7d9188f34e50badae86ca",
-      "urlToImage": "https://dims.apnews.com/dims4/default/4e18f44/2147483647/strip/true/crop/3228x1816+0+168/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F71%2Fffce27d55ba4defaa1f0f1612927%2F4500b10e90974aaf8c064d083c310d14",
-      "publishedAt": "2024-11-22T17:55:00Z",
-      "content": "At least 15 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef, federal health officials said. \r\nDetr… [+1164 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "Musk Unleashes Online Army On Federal Workers. ‘A Tough Way to Find Out She’s Losing Her Job.’ - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/tech/musk-unleashes-online-army-on-federal-workers-a-tough-way-to-find-out-shes-losing-her-job-f57a2e94",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T17:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Johann Cherian, Purvi Agarwal",
-      "title": "S&P 500, Dow pinned at one-week highs after business activity data - Reuters",
-      "description": "The S&P 500 and the Dow hovered at levels seen more than a week ago on Friday, as investors took comfort from data pointing to robust economic activity in the world's biggest economy.",
-      "url": "https://www.reuters.com/markets/us/futures-slip-caution-ahead-business-activity-data-geopolitical-tensions-2024-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/7B2YQIOYKNK6DFUH3PY5ML265U.jpg?auth=ae7c6763c402005fa395c6bf1fba02c21b3f4093ab76c83758927700aafca777&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-11-22T16:56:34Z",
-      "content": null
+      "urlToImage": "https://dims.apnews.com/dims4/default/2d23e0a/2147483647/strip/true/crop/1798x1011+0+94/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Fe2%2Fcf97f2d23198797eda55ae8936a3%2Fceb54baa40dc4138bd6f32db5453f828",
+      "publishedAt": "2024-11-22T22:24:00Z",
+      "content": "At least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef, federal health officials said. \r\nDetr… [+1848 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "Investopedia"
       },
-      "author": "Patricia Battle",
-      "title": "BJ’s follows Costco with controversial membership change - TheStreet",
-      "description": "The warehouse club makes a bold change that some of its members may not like.",
-      "url": "https://www.thestreet.com/retail/bjs-follows-costcos-footsteps-with-controversial-move",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjEwODY5MDYxNzU0NTYyMzg1/bjs-wholesale-ahead-of-earnings-figures.jpg",
-      "publishedAt": "2024-11-22T16:32:20Z",
-      "content": "BJ’s  (BJ) is going down a bold path that one of its main competitors, Costco  (COST) , embarked on a few months ago, which frustrated some of its consumers who are feeling the brunt of inflation. \r\n… [+3284 chars]"
+      "author": "Kara Greenberg",
+      "title": "Supermicro Stock Jumps 12% Friday to Cap Off a Wild Week - Investopedia",
+      "description": "Super Micro Computer shares surged 12% Friday to cap off a wild week that saw the stock add nearly 80%. Here's what drove the rally.",
+      "url": "https://www.investopedia.com/supermicro-stock-jumps-12-percent-friday-to-cap-off-a-wild-week-8750528",
+      "urlToImage": "https://www.investopedia.com/thmb/ulgms4LGleVXF7IK1YUKT4t1DHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2155472456-636022f0e9c440bf99a4886cbd9acf2c.jpg",
+      "publishedAt": "2024-11-22T22:05:47Z",
+      "content": "<ul><li>Super Micro Computer shares surged 12% Friday to cap off a week that saw the stock rise nearly 80%. </li><li>The gains came in the wake of a shoutout from partner Nvidia in the chipmakers ear… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Taylor Herzlich",
+      "title": "Robinhood’s Dan Gallagher bows out of race for SEC chair — despite being frontrunner - New York Post ",
+      "description": "Dan Gallagher, reportedly a top contender to lead the Securities and Exchange Commission, said Friday he is not interested in returning to a government position.",
+      "url": "https://nypost.com/2024/11/22/business/robinhoods-dan-gallagher-bows-out-of-race-for-sec-chair/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/94137679.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-11-22T22:04:00Z",
+      "content": "Robinhood Chief Legal Officer Dan Gallagher, reportedly a top contender to lead the Securities and Exchange Commission under President-elect Donald Trump, said Friday he is not interested in returnin… [+2081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "author": "Olivia Craighead",
+      "title": "Grimes Says Elon Musk Is ‘Unrecognizable’ Now - The Cut",
+      "description": "Grimes said she watched Elon Musk become “unrecognizable” during their custody dispute, a yearlong ordeal that was reportedly finalized over the summer.",
+      "url": "http://www.thecut.com/article/grimes-elon-musk-custody-battle-unrecognizable.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/69b/b1e/593ce6776aded79db80416f56efa771b5c-grimes-elon-unrecongnizable.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-11-22T21:56:58Z",
+      "content": "Grimes shared on X that Elon Musk, her ex-boyfriend and father of her three children, became unrecognizable to her amid their custody battle. In the lengthy post, Grimes gave a glimpse into what her … [+1973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Nationwide Recalls on Ground Beef, Carrots and More to Be Aware of Right Now - EatingWell",
+      "description": "From various brands of carrots to Costco and Walmart baked goods, here are the recently recalled products you should be checking your kitchen for.",
+      "url": "https://www.eatingwell.com/nationwide-recalls-carrots-ground-beef-november-2024-8750517",
+      "urlToImage": "https://www.eatingwell.com/thmb/Uuy6HKh-H23SoULAzS6OcTw079E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nationwide-Recall-nov-2024-09a5ba8d54084403b672c4af1d94d6b0.jpg",
+      "publishedAt": "2024-11-22T21:55:33Z",
+      "content": "At EatingWell, we tend to cover the most significant recall events to keep our readers informed on the latest news. This week, more recalls were announced on popular produce items, baked goods and mo… [+3710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Piero Cingari",
+      "title": "Wall Street Rebounds Without Its AI Darling's Boost, King Dollar Maintains Dominance While Bitcoin Defies Gravity: This Week In The Markets - Benzinga",
+      "description": "Despite widespread anticipation that NVIDIA Corp. (NASDAQ:NVDA)'s quarterly results would dictate Wall Street's year-end trajectory, the stock market delivered a robust weekly rebound — even in the absence of its AI darling.",
+      "url": "https://www.benzinga.com/news/global/24/11/42148498/wall-street-rebounds-without-its-ai-darlings-boost-king-dollar-maintains-dominance-while-bitcoin-defies-gravity-this-week-in-the-markets",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/22/Wall-Street--New-York.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-11-22T21:34:36Z",
+      "content": "Despite widespread anticipation that NVIDIA Corp. NVDA's quarterly results would dictate Wall Street's year-end trajectory, the stock market delivered a robust weekly rebound even in the absence of i… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-22T21:13:15Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "BENJAMIN PIMENTEL, Investor's Business Daily",
+      "title": "Nvidia Stock Falls 3% On Rare Downgrade, Missed 'Bullish Whispers' - Investor's Business Daily",
+      "description": "An analyst downgraded the AI giant after guidance missed 'bullish whispers' on Wall Street.",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-earnings-downgrade-whisper-numbers/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/01/stock-Nvidia-rack-01-company.jpg",
+      "publishedAt": "2024-11-22T21:08:00Z",
+      "content": "Nvidia (NVDA) beat earnings targets and its outlook was solid. But it wasn't enough to appease Wall Street as the AI powerhouse apparently missed what one analyst called \"bullish whispers.\"\r\nNvidia s… [+2204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greater Baton Rouge Business Report"
+      },
+      "author": "Daily Report Staff",
+      "title": "Roundup: Community Coffee campaign / Delta Utilities / Honeywell - Greater Baton Rouge Business Report",
+      "description": "One cup at a time: Baton Rouge-based Community Coffee launched a new brand campaign on Friday dubbed “Generations.” The campaign aims to connect the 105-year-old brand with the new generation while paying respect to those that came before. Read more about the…",
+      "url": "https://www.businessreport.com/article/roundup-community-coffee-campaign-delta-utilities-honeywell",
+      "urlToImage": null,
+      "publishedAt": "2024-11-22T20:41:12Z",
+      "content": "One cup at a time: Baton Rouge-based Community Coffee launched a new brand campaign on Friday dubbed Generations. The campaign aims to connect the 105-year-old brand with the new generation while pay… [+888 chars]"
     },
     {
       "source": {
@@ -60,12 +255,181 @@
         "name": "MarketWatch"
       },
       "author": "MarketWatch",
-      "title": "Nvidia and the Magnificent Seven make up too much of your high-priced index fund - MarketWatch",
+      "title": "S&P 500 is on a 12-month tear as tariffs threaten 2025 outlook for U.S. stocks - MarketWatch",
       "description": null,
-      "url": "https://www.marketwatch.com/story/nvidia-and-the-magnificent-seven-probably-make-up-too-much-of-your-high-priced-index-fund-especially-when-the-s-p-500-is-this-expensive-504784a0",
+      "url": "https://www.marketwatch.com/story/s-p-500-is-on-a-12-month-tear-as-tariffs-threaten-2025-outlook-for-u-s-stocks-1b98477c",
       "urlToImage": null,
-      "publishedAt": "2024-11-22T16:10:00Z",
+      "publishedAt": "2024-11-22T20:12:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Grace Eliza Goodwin",
+      "title": "Jaguar boss speaks out after backlash to the car brand's latest ad campaign — which didn't include any cars - Business Insider",
+      "description": "Jaguar's boss called out critics of its latest video ad, saying their reaction was \"vile hatred\" and intolerance. The brand needs to stand out, he said.",
+      "url": "https://www.businessinsider.com/jaguar-boss-speaks-backlash-new-ad-campaign-woke-car-2024-11",
+      "urlToImage": "https://i.insider.com/6740d4f6fa0140cdd564fe28?width=1200&format=jpeg",
+      "publishedAt": "2024-11-22T20:04:00Z",
+      "content": "Jaguar's managing director is defending the British luxury-car maker's rebranding campaign calling out some of its online critics and characterizing their reaction as \"vile hatred\" and \"intolerance.\"… [+3626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Bitcoin Stops Nears $100,000. How It Can Break Through the 6-Figure Milestone. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/bitcoin-price-100k-gensler-china-1f23be2b",
+      "urlToImage": null,
+      "publishedAt": "2024-11-22T19:51:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Adam Clark Estes",
+      "title": "You deserve a better browser than Google Chrome - Vox.com",
+      "description": "The government wants Google to sell Chrome and Android. Google would rather not.",
+      "url": "https://www.vox.com/technology/387375/google-chrome-antitrust-privacy-android",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/Google-Chrome-1.jpg?quality=90&strip=all&crop=0%2C10.741658252926%2C100%2C78.516683494149&w=1200",
+      "publishedAt": "2024-11-22T19:20:00Z",
+      "content": "The Department of Justice asked a judge this week to break up Google. Chrome? Sell it off. Android? Same. Paying other companies to make Google Search the default? Cut that out. \r\nIf the DOJ gets eve… [+12101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "4 AI Data-Center Stocks to Buy for the Big Trend. Demand Is ‘Robust.’ - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/ai-data-center-stocks-buy-69276cf4",
+      "urlToImage": null,
+      "publishedAt": "2024-11-22T19:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "DEE-ANN DURBIN",
+      "title": "McDonald’s to expand US value menu as fast food chains battle for bargain seekers - The Associated Press",
+      "description": "McDonald’s will expand its U.S. value menu early next year as it continues to try to win back inflation-weary customers. Starting Jan. 7, the burger chain will let customers buy one full-priced item from a limited value menu and get another item on that menu …",
+      "url": "https://apnews.com/article/mcdonalds-value-deals-inflation-66585ec1595a21d293de3e38b4a52c2a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9ed7ba8/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F21%2F3601d15636f8aae606dc3613395f%2F871d921bfe5e4dbd88b33859b73b73d7",
+      "publishedAt": "2024-11-22T19:12:00Z",
+      "content": "McDonalds will expand its U.S. value menu early next year as it continues to try to win back inflation-weary customers.\r\nStarting Jan. 7, the burger chain will let customers buy one full-priced item … [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Federalreserve.gov"
+      },
+      "author": null,
+      "title": "Federal Reserve announces additional information about the periodic review of its monetary policy strategy, tools, and communications - Federal Reserve",
+      "description": "The Federal Reserve on Friday announced additional information about the periodic review of its monetary policy strategy, tools, and communications—the f",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241122a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "publishedAt": "2024-11-22T18:32:26Z",
+      "content": "The Federal Reserve on Friday announced additional information about the periodic review of its monetary policy strategy, tools, and communicationsthe framework it uses to pursue its congressionally-… [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving - The Verge",
+      "description": "Hyundai is recalling Ioniq 5 and 6, Genesis GV60, GV70 Electrified, and G80 due to power loss that could cause a crash, according to the NHTSA.",
+      "url": "https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SHsFlKQ3u70Uuh9qORefTEIB7_Q=/0x0:2400x1600/1200x628/filters:focal(1200x800:1201x801)/cdn.vox-cdn.com/uploads/chorus_asset/file/24625834/236637_Hyundai_Ioniq_6_PGeorge_0020.jpg",
+      "publishedAt": "2024-11-22T18:21:03Z",
+      "content": "Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving\r\nHyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving\r\n / Popular models… [+1820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "SiriusXM Made It Too Difficult For Customers To Cancel Subscriptions, NY Judge Rules - Deadline",
+      "description": "Weeks after the FTC unveiled a \"click to cancel\" rule for subscription businesses, a New York judge said SiriusXM made it too tough for its subscribers to exit.",
+      "url": "http://deadline.com/2024/11/siriusxm-subscription-click-to-cancel-new-york-judge-1236185377/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/SiriusXM.jpg?w=1024",
+      "publishedAt": "2024-11-22T18:17:00Z",
+      "content": "Weeks after federal regulators announced a “click-to-cancel” rule for subscription businesses, a New York judge has ruled that SiriusXM made it too difficult for customers to end their service.\r\nNew … [+1960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Alexandra Steigrad",
+      "title": "DirecTV calls off acquisition of satellite TV rival Dish — as lenders revolt - New York Post ",
+      "description": "Satellite TV giant DirecTV called off its deal with Charlie Ergen’s EchoStar to acquire rival Dish TV and other assets. The deal would have created one of the largest pay TV distributors in t…",
+      "url": "https://nypost.com/2024/11/22/media/directv-calls-off-acquisition-of-satellite-tv-rival-dish/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/94132556-1.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-11-22T18:15:00Z",
+      "content": "Satellite TV giant DirecTV called off its deal with Charlie Ergen’s EchoStar to acquire rival Dish TV and other assets. \r\nThe deal would have created one of the largest pay TV distributors in the cou… [+2199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Semafor.com"
+      },
+      "author": "Mizy Clifton",
+      "title": "Gensler resigns as SEC chair as US regulatory landscape faces shakeup - Semafor",
+      "description": "The SEC chair took an aggressive approach to cryptocurrencies during his term.",
+      "url": "https://www.semafor.com/article/11/22/2024/gensler-resigns-as-sec-chair-as-us-regulatory-landscape-faces-shakeup",
+      "urlToImage": "https://img.semafor.com/942b502afad174faa6393e9b474feb3cfd77396e-3531x2269.jpg?rect=0,208,3531,1854&w=1200&h=630&q=75&auto=format",
+      "publishedAt": "2024-11-22T18:03:00Z",
+      "content": "Gary Gensler, the chair of the US Securities and Exchange Commission, said he would resign once President-elect Donald Trump takes office in January, ahead of what are expected to be major changes at… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Charles Gasparino",
+      "title": "Why Trump’s FCC pick and Comcast’s spinoff plans are no coincidence - New York Post ",
+      "description": "Wall Street is awaiting much-needed dealmaking.",
+      "url": "https://nypost.com/2024/11/22/business/trumps-fcc-pick-and-comcasts-spinoff-plans-are-no-coincidence/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/Comcast-Split.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-11-22T17:55:00Z",
+      "content": "A free-market cable regulator gets nominated as chair of the Federal Communications Commission, setting tongues wagging on Wall Street that much-needed dealmaking will take place. \r\nOne of the larges… [+3015 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Matt Day",
+      "title": "Amazon Investing an Additional $4 Billion in AI Firm Anthropic - Bloomberg",
+      "description": "Amazon.com Inc. is investing an additional $4 billion in artificial intelligence startup Anthropic, boosting its stake in one of OpenAI’s chief rivals.",
+      "url": "https://www.bloomberg.com/news/articles/2024-11-22/amazon-investing-an-additional-4-billion-in-ai-firm-anthropic",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir8qhlh_QTTI/v1/1200x800.jpg",
+      "publishedAt": "2024-11-22T16:37:03Z",
+      "content": "Amazon.com Inc. is investing an additional $4 billion in artificial intelligence startup Anthropic, boosting its stake in one of OpenAIs chief rivals.\r\nThe new infusion, announced by the companies on… [+288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "",
+      "title": "Blue Origin launches ninth crewed New Shepard suborbital mission - SpaceNews",
+      "description": "Blue Origin flew six people, including a pair of repeat customers and a science communicator, on the latest New Shepard suborbital spaceflight mission Nov. 22.",
+      "url": "https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/",
+      "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/ns28-parachutes.jpg?resize=1200%2C1173&ssl=1",
+      "publishedAt": "2024-11-22T16:11:32Z",
+      "content": "Updated 5:30 p.m. Eastern with flight statistics.\r\nBERLIN Blue Origin flew six people, including a pair of repeat customers and a science communicator, on the latest New Shepard suborbital spacefligh… [+2130 chars]"
     },
     {
       "source": {
@@ -82,16 +446,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "[Removed]"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T16:02:00Z",
-      "content": "[Removed]"
+      "author": "Reuters",
+      "title": "US consumer sentiment ticks up, shows post-election partisan flip - Reuters",
+      "description": "U.S. consumer sentiment ticked up for a fourth straight month in November, led by a big upswing in sentiment among Republicans following Donald Trump's victory in the presidential election.",
+      "url": "https://www.reuters.com/markets/us/us-consumer-sentiment-ticks-up-shows-post-election-partisan-flip-2024-11-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SINEC4K3RVMP7CTPBFJ6TUYEUE.jpg?auth=b0b06740551d761f1dd10ee3dd4a884d018f321cd12ea9c227b2a879380a1978&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-11-22T16:04:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Suzanne Woolley",
+      "title": "Americans Say You Need $5.3 Million to Be Considered a Success - Bloomberg",
+      "description": "In addition to net worth, the threshold for annual salary is $270,000, according to a new survey.",
+      "url": "https://www.bloomberg.com/news/articles/2024-11-22/americans-say-you-need-270-000-annual-salary-to-be-financially-successful",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imt8AX32ohrs/v1/1200x718.jpg",
+      "publishedAt": "2024-11-22T16:00:57Z",
+      "content": "The price of success? About $270,000 a year. \r\nThats the annual salary it takes to be considered financially successful, according to a survey released Friday by financial services company Empower. T… [+65 chars]"
     },
     {
       "source": {
@@ -109,15 +486,28 @@
     {
       "source": {
         "id": null,
-        "name": "collectSPACE.com"
+        "name": "Benzinga"
       },
-      "author": "Robert Z. Pearlman",
-      "title": "Blue Origin crew, including history's 100th woman to fly to space, lands safely - Space.com",
-      "description": "The NS-28 crew also included a married couple on their second Blue Origin flight, a passenger sponsored by Whatnot, a former game warden and the CEO of a Canadian investment firm.",
-      "url": "http://www.collectspace.com/news/news-112224a-blue-origin-ns28-100th-woman-space.html",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HdQQxdrGJqKCz53fqPWr7G-1200-80.jpg",
-      "publishedAt": "2024-11-22T15:42:06Z",
-      "content": "\"The Space Gal\" is now the 100th woman to fly to space.\r\nEmily Calandrelli, who adopted her online persona long before she booked a trip with Blue Origin, lifted off on Friday (Nov. 22) as one of the… [+4897 chars]"
+      "author": "Piero Cingari",
+      "title": "S&P 500 Faces Volatile 2025 As 'Inflation Boom' Could Return: Bank Of America Strategist - Benzinga",
+      "description": "2024 saw record consecutive gains for S&P 500. Bank of America predicts another double-digit move in 2025, but warns of risks from inflation and high valuations.",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/11/42140842/sp-500-faces-volatile-2025-as-inflation-boom-could-return-bank-of-america-strategist",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/22/SP-500-Earnings.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-11-22T15:43:13Z",
+      "content": "The S&amp;P 500 index is wrapping up a historic two-year run of consecutive over 20% gains, a feat achieved only four times in the past 150 years. Yet, Michael Hartnett, chief investment strategist a… [+3405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nauman khan",
+      "title": "Nvidia's AI Surge Drives Massive Q3 Growth, Analysts Predict Major Tech Boom - Yahoo Finance",
+      "description": "Jim Cramer and Wall Street Analysts Hail Nvidia's $35B Q3 as AI Drives Unstoppable Growth",
+      "url": "https://finance.yahoo.com/news/nvidias-ai-surge-drives-massive-154147033.html",
+      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/7accc684e6ccea4efa8f5d1b61e564d6",
+      "publishedAt": "2024-11-22T15:41:47Z",
+      "content": "Nvidia (NVDA, Financial) has solidified its position as a leader in the artificial intelligence space, as higher-than-expected third-quarter numbers forced analysts to raise their price targets. For … [+1479 chars]"
     },
     {
       "source": {
@@ -134,42 +524,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Endpoints News"
       },
-      "author": "Layan Odeh, Dawn Lim, Jason Kao",
-      "title": "Financier Who Slices and Dices Private Equity Stakes Beset by Slumping Returns - Bloomberg",
-      "description": "Yann Robard was an early mover in a type of financing that's hotter than ever: helping investors extract cash from private equity stakes that are hard to value and sell.",
-      "url": "https://www.bloomberg.com/graphics/2024-dawson-heavy-debt/",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6GH2apri_Gc/v0/-1x-1.png",
+      "author": "Kyle LaHucik",
+      "title": "Halozyme withdraws Evotec acquisition proposal after biotech is 'unwilling to engage' - Endpoints News",
+      "description": "Halozyme Therapeutics said Friday that it has pulled its proposal to buy Evotec, a struggling German biotech that Halozyme said was \"unwilling to engage\" in deal talks.",
+      "url": "https://endpts.com/halozyme-withdraws-e2b-evotec-acquisition-proposal/",
+      "urlToImage": "https://endpts.com/wp-content/uploads/2024/04/Evotec-website-tile1.jpg",
       "publishedAt": "2024-11-22T15:30:00Z",
-      "content": "Yann Robard was an early mover in a type of financing that's hotter than ever: helping investors extract cash from private equity stakes that are hard to value and sell. \r\nHis firm, Dawson Partners, … [+9797 chars]"
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "MicroStrategy Stock’s Big Swings Could Be Another Sign of a Looming Market Crash - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/microstrategy-stock-market-crash-a92f245b",
+      "urlToImage": null,
+      "publishedAt": "2024-11-22T15:12:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Carmen Reinicke",
-      "title": "Super Micro Investors Whiplashed as Tech Firm Fights For Listing - Yahoo Finance",
-      "description": "(Bloomberg) -- A roller-coaster ride for Super Micro Computer Inc. shares is likely to continue for some time, as investors weigh the company’s next steps to...",
-      "url": "https://finance.yahoo.com/news/super-micro-investors-whiplashed-tech-140852225.html",
-      "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/35d9fd39890f9a6a1984032fc829b12e",
-      "publishedAt": "2024-11-22T15:05:58Z",
-      "content": "(Bloomberg) -- A roller-coaster ride for Super Micro Computer Inc. shares is likely to continue for some time, as investors weigh the companys next steps to avoid being delisted by Nasdaq Inc.\r\nMost … [+5430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Hugh Son",
-      "title": "'I have no money': Thousands of Americans see their savings vanish in Synapse fintech crisis - CNBC",
-      "description": "CNBC spoke to a dozen customers caught in the Synapse fintech predicament, people who are owed sums ranging from $7,000 to well over $200,000.",
-      "url": "https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108065781-1732122396955-IMG_6458HEIC_compressed.JPEG?v=1732129512&w=1920&h=1080",
-      "publishedAt": "2024-11-22T15:00:01Z",
-      "content": "For 15 years, former Texas schoolteacher Kayla Morris put every dollar she could save into a home for her growing family.\r\nWhen she and her husband sold the house last year, they stowed away the proc… [+9549 chars]"
+      "author": "T. Woods",
+      "title": "3 Major Retailers Who Will Raise Prices Immediately Under Trump — Tariffs Play Key Role - Yahoo Finance",
+      "description": "President-elect Donald Trump has always been seen as something of a business-friendly president, yet despite that fact, American businesses are already...",
+      "url": "https://finance.yahoo.com/news/3-major-retailers-raise-prices-150119217.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UsaskJVQlOCBvgJgXgY0OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/f858f5baa1ee12f96230f6ace3c06cfb",
+      "publishedAt": "2024-11-22T15:01:19Z",
+      "content": "CRISTOBAL HERRERA-ULASHKEVICH / EPA-EFE / Shutterstock.com\r\nPresident-elect Donald Trump has always been seen as something of a business-friendly president, yet despite that fact, American businesses… [+2524 chars]"
     },
     {
       "source": {
@@ -186,6 +576,32 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Aly Yale",
+      "title": "What will mortgage interest rates be in 2025? Experts weigh in - CBS News",
+      "description": "Mortgage rates should fall next year, experts say, but you may not want to wait. Here's why.",
+      "url": "https://www.cbsnews.com/news/what-will-mortgage-interest-rates-be-in-2025-experts-weigh-in/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/22/1c2b2518-390f-43b6-a182-a1f05f1a6b74/thumbnail/1200x630/47a09443c0acaf2a1d7a2212d3752f23/gettyimages-1435951675.jpg?v=b1635869826311f914073798d8df6484",
+      "publishedAt": "2024-11-22T14:58:49Z",
+      "content": "Mortgage rates could look a lot different next year, experts say.\r\nGetty Images/iStockphoto\r\nMortgage rates have had a bumpy ride this year. They started 2024 in the mid-6% range, jumped to over 7%, … [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Ryan Hogg",
+      "title": "German giant Bosch becomes latest firm to give employees unwanted 4-day week as economy falters - Fortune",
+      "description": "The €92 billion conglomerate Bosch is cutting hours and pay for hundreds of staff thanks to a \"difficult economic situation.\"",
+      "url": "https://fortune.com/europe/2024/11/22/german-giant-bosch-employees-unwanted-4-day-week/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2171781678-e1732285199111.jpg?resize=1200,600",
+      "publishedAt": "2024-11-22T14:43:00Z",
+      "content": "German car supplying giant Robert Bosch has become the latest company in the country to feel the strain of Germanys waning economy, announcing hundreds of its workers will cut their hours to the equi… [+2256 chars]"
+    },
+    {
+      "source": {
         "id": "axios",
         "name": "Axios"
       },
@@ -194,34 +610,8 @@
       "description": "A typical Thanksgiving dinner will run about $58 this year, per a new analysis.",
       "url": "https://www.axios.com/2024/11/22/thanksgiving-dinner-price-cost-2024",
       "urlToImage": "https://images.axios.com/8_E2erQJe_oak5lqkoRjKr_cWrA=/0x0:2400x1350/1366x768/2024/11/22/1732283330080.png",
-      "publishedAt": "2024-11-22T14:59:39Z",
+      "publishedAt": "2024-11-22T14:10:52Z",
       "content": "A typical Thanksgiving dinner for 10 will cost about $58 this year, a new report finds down around 5% from last year but up nearly 20% in unadjusted dollars from 2019, before the COVID-19 pandemic.\r\n… [+1325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "Nvidia Earnings Were a Blowout. Why The Stock Will Be Higher in 12 Months - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/nvidia-nvda-stock-price-after-earnings-7266d3a7",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T14:42:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Gatwick Airport South Terminal evacuated over suspect luggage - BBC.com",
-      "description": "An Explosive Ordnance Disposal team is deployed after a suspected prohibited item was found.",
-      "url": "https://www.bbc.com/news/articles/ced94pggwxpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6455/live/65699260-a8d6-11ef-9028-b3d14dc7c9b1.jpg",
-      "publishedAt": "2024-11-22T14:15:00Z",
-      "content": "A large section of a Gatwick Airport terminal has been evacuated \r\nA large section of one of Gatwick Airport's two terminals has been evacuated after a suspected prohibited item was found in a piece … [+3812 chars]"
     },
     {
       "source": {
@@ -239,45 +629,6 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "Texas Pacific Land Stock Jumps. It’s Joining the S&P 500. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/texas-pacific-land-marathon-stock-sp500-c03a8d50",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T13:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "Bosch to axe 5,550 jobs in latest blow to German auto sector - Reuters.com",
-      "description": "Robert Bosch (ROBG.UL) said on Friday the company plans to cut up to 5,550 jobs, the latest sign of struggle in Germany's creaking auto sector, which is grappling with competition from cheaper Chinese rivals and weak demand.",
-      "url": "https://www.reuters.com/business/autos-transportation/bosch-axe-5550-jobs-latest-blow-german-auto-sector-2024-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XMOZZS2FKNI5ZPOS3NIGTYHI2I.jpg?auth=85c1cc5e5ea37ad574687a20e54d83e5430b18fc9705d73649f2eb0c72e0032c&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-11-22T13:32:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenni Reid",
-      "title": "JaGUar? Luxury automaker defends controversial rebrand amid pivot to EVs - CNBC",
-      "description": "New logos and promotional videos unveiled by the classic British car brand drew the ire of many on social media this week.",
-      "url": "https://www.cnbc.com/2024/11/22/jaguar-luxury-automaker-defends-controversial-rebrand-amid-pivot-to-evs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108066316-1732202088720-jaguar_device_mark_1x1_191124__1__720.jpg?v=1732202125&w=1920&h=1080",
-      "publishedAt": "2024-11-22T13:28:03Z",
-      "content": "Luxury carmaker Jaguar has defended a rebrand that drew widespread criticism on social media this week.\r\nThe company, part of Tata Motors-owned group Jaguar Land Rover, released a new logo that saw i… [+4277 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Thebaltimorebanner.com"
       },
       "author": "Cody Boteler, Hayes Gardner",
@@ -290,367 +641,133 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Minneapolis Star Tribune"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Patrick Kennedy, Patrick Kennedy",
-      "title": "Trump’s tariff pledges have companies questioning inventory, supply chains - Star Tribune",
-      "description": "Companies are weighing the pros and cons of increasing inventory from overseas sources as President-elect Trump pledges more tariffs, second U.S. port strike looms.",
-      "url": "https://www.startribune.com/trump-tariffs-port-strike-companies-inventory-supply-chain/601185220",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/MWHSQG22W6F5HPLZ27BUZQY3TY.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "publishedAt": "2024-11-22T13:05:36Z",
-      "content": "Many companies have adopted the reshoring, near-shoring or friend-shoring trend finding trading partners in countries allied with the U.S. in recent years, but the changes can take years to implement… [+1279 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jordan Valinsky",
-      "title": "McDonald’s is giving its menu the biggest shakeup in years - CNN",
-      "description": "McDonald’s is hoping a new value menu will win back customers that have been put off by its higher prices.",
-      "url": "https://www.cnn.com/2024/11/22/food/mcdonalds-new-value-menu/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180546192.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-11-22T12:57:00Z",
-      "content": "McDonalds is hoping a new value menu will win back customers that have been put off by its higher prices.\r\nOn Friday, the fast-food chain unveiled the McValue menu, a new, budget-friendly category th… [+1632 chars]"
+      "author": "Eleanor Pringle",
+      "title": "Elon Musk claims Jeff Bezos told people to sell Tesla stock ahead of U.S. election - Fortune",
+      "description": "Tesla CEO Elon Musk claimed Amazon founder Jeff Bezos told people to sell shares in the EV maker because Trump would lose election. Bezos denies this.",
+      "url": "https://fortune.com/2024/11/22/musk-bezos-feud-tesla-stock-election-trump/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/Copy-of-FeatTemplate-67.jpg?resize=1200,600",
+      "publishedAt": "2024-11-22T12:10:00Z",
+      "content": "Posting on X, Muskthe CEO of the EV makerwrote: Just learned tonight at Mar-a-Lago that Jeff Bezos was telling everyone that @realDonaldTrump would lose for sure, so they should sell all their Tesla … [+3681 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Project Syndicate"
       },
-      "author": "ShantiPutri",
-      "title": "Reddit Share Sale Plan Sparks Fear Among Retail Investors - Yahoo Finance",
-      "description": "Advance Magazine Uses their Reddit shares as collateral to get credit facility",
-      "url": "https://finance.yahoo.com/news/reddit-share-sale-plan-sparks-125245363.html",
-      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/3c652f99c50fc37299928731758e73fb",
-      "publishedAt": "2024-11-22T12:52:45Z",
-      "content": "Fear looms among Reddit (NYSE:RDDT) stock retailers as Advance Magazine Publishers, a shareholder of Reddit with significant ownership, intends to sell up to $1.2 billion worth of its reddit shares. … [+1610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "Protective Industrial Products, Inc. to Acquire Honeywell’s Personal Protective Equipment Business - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20241122779825/en/Protective-Industrial-Products-Inc.-to-Acquire-Honeywell%E2%80%99s-Personal-Protective-Equipment-Business",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T12:31:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Ben Berkowitz",
-      "title": "Boomers say it takes $100k a year to be financially successful, Gen Z says it takes $600k - Axios",
-      "description": "But Gen Z workers want a lot more than that to feel comfortable.",
-      "url": "https://www.axios.com/2024/11/22/boomers-gen-z-millennials-financial-success",
-      "urlToImage": "https://images.axios.com/h3GCvJwVvryq5nF64NDAj0vkrBU=/46x4:1547x848/1366x768/2024/11/21/1732203736496.png",
-      "publishedAt": "2024-11-22T12:22:42Z",
-      "content": "The average American thinks a salary of just over $270,000 a year qualifies them as \"financially successful,\" but there are huge disparities between generations, according to a new study.\r\nWhy it mat… [+1153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "Bitcoin Price Is on Fire. Watch Out for These Crypto Market Red Flags and 5 Other Things to Know Today. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/bitcoin-stock-market-what-to-know-today-05deede9",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T12:04:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "MarketWatch",
-      "title": "An indicator pegged to Buffett and this bitcoin evangelist is flashing a warning for stock-market investors - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/story/heres-what-the-saylor-buffett-ratio-is-saying-about-the-market-right-now-b6b36e14",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T11:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Ben Bartenstein",
-      "title": "US Probes JPMorgan’s Ties to Iranian Oil Kingpin’s Hedge Fund - Bloomberg",
-      "description": "The US Treasury Department is examining JPMorgan Chase &amp; Co.’s relationship with a hedge fund that’s said to be part of a network overseen by Iranian oil trader Hossein Shamkhani.",
-      "url": "https://www.bloomberg.com/news/articles/2024-11-22/us-probes-jpmorgan-s-ties-to-iranian-oil-kingpin-s-hedge-fund",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7HALX9z27nw/v1/1200x800.jpg",
-      "publishedAt": "2024-11-22T11:02:55Z",
-      "content": "The US Treasury Department is examining JPMorgan Chase &amp; Co.s relationship with a hedge fund thats said to be part of a network overseen by Iranian oil trader Hossein Shamkhani.\r\nThe probe is at … [+337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "MarketWatch",
-      "title": "The Trump effect is 30% priced in, says Deutsche Bank analyst — here’s why. - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/story/the-trump-effect-is-30-priced-in-says-deutsche-bank-analyst-heres-why-5dbd3c47",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T11:02:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Bryan Mena",
-      "title": "Bad news if you’re looking to buy a house in the next two years - CNN",
-      "description": "America’s housing market has entered a new normal.",
-      "url": "https://www.cnn.com/2024/11/22/business/home-buying-interest-rates/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172076867-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-11-22T11:01:21Z",
-      "content": "Americans looking to purchase a home in the next few years willhave a tough pill to swallow.\r\nAfter hitting two-decade highs nearing8% late last year, mortgage rates have fallen, dipping nearly as lo… [+5303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Alexandra York",
-      "title": "Inside Alex Cooper’s $125 Million Deal To Grow Her Multimedia Empire - Forbes",
-      "description": "Podcast superstar Alex Cooper built a media empire in the streaming economy. Now she has to deliver.",
-      "url": "https://www.forbes.com/sites/alexyork/2024/11/22/talk-aint-cheap-inside-alex-coopers-125-million-deal-to-grow-her-multi-media-empire/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673e323bab76bdfbf9114b11/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-22T11:00:00Z",
-      "content": "This story appears in the December/January 2025 issue of Forbes Magazine. Subscribe\r\nIts 9 p.m. in Los Angeles Peacock Theatre when five performers take the stage. Eminems Shake That blasts from the … [+5293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Tommaso Lecca",
-      "title": "Spain fines low-cost airlines €179M over cabin baggage and seat charges - POLITICO Europe",
-      "description": "Ryanair alone was fined €107M.",
-      "url": "https://www.politico.eu/article/spain-fines-low-cost-airlines-e179m-over-cabin-baggage-and-seat-charges/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/22/GettyImages-2154375743-scaled.jpg",
-      "publishedAt": "2024-11-22T10:57:00Z",
-      "content": "The decision also prohibits the continuation of the sanctioned practices. \r\nIn addition to extra charges for carrying hand baggage into the cabin and for reserving adjacent seats for minors and depen… [+548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T10:22:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Grace Kay, Hilary Brueck",
-      "title": "Elon Musk's Neuralink Is Hiring Technicians to Ramp up Manufacturing - Business Insider",
-      "description": "The company wants more workers in Texas and California to produce its brain implants and the surgical robot designed to install them.",
-      "url": "https://www.businessinsider.com/elon-musk-neuralink-hiring-manufacturing-2024-11",
-      "urlToImage": "https://i.insider.com/673fabc39f2901eb603642df?width=1200&format=jpeg",
-      "publishedAt": "2024-11-22T10:01:00Z",
-      "content": "Neuralink, Elon Musk's brain-computer interface company, is looking to hire manufacturing technicians and microfabrication specialists.\r\nThe company, which is developing a device Musk has compared to… [+4406 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN",
-      "title": "DirecTV cancels agreement to merge with Dish - CNN",
-      "description": null,
-      "url": "https://www.cnn.com/2024/11/22/business/directv-dish-merger-canceled-intl/index.html",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T09:47:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "MarketWatch",
-      "title": "Key eurozone activity measure slumps to 10-month low - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/story/things-could-hardly-have-turned-out-much-worse-says-economist-on-eurozone-economy-e66d2e83",
-      "urlToImage": null,
-      "publishedAt": "2024-11-22T09:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ellen Nakashima",
-      "title": "Top senator calls Salt Typhoon “worst telecom hack in our nation’s history” - The Washington Post",
-      "description": "The severity of the Chinese breach highlights the need for more telecommunications regulation, lawmakers say.",
-      "url": "https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CTQKG4MIJ6QCW4VSTM7ARSVNFE_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-11-22T07:58:59Z",
-      "content": "The Chinese government espionage campaign that has deeply penetrated more than a dozen U.S. telecommunications companies is the worst telecom hack in our nations history by far, a senior U.S. senator… [+440 chars]"
+      "author": "Maurice Obstfeld",
+      "title": "Trump’s Inflationary Triple Threat by Maurice Obstfeld - Project Syndicate",
+      "description": "Maurice Obstfeld warns that the incoming administration’s agenda would weaken the Fed and destabilize the financial system.",
+      "url": "https://www.project-syndicate.org/onpoint/trump-economic-agenda-three-severe-inflation-risks-by-maurice-obstfeld-2024-11",
+      "urlToImage": "https://webapi.project-syndicate.org/library/0fc72b9c69e8893929cbdc78d4ddce5c.2-1-super.1.jpg",
+      "publishedAt": "2024-11-22T10:53:00Z",
+      "content": "With unified Republican control of the White House and Congress, US President-elect Donald Trump is poised to pursue radical economic policies. By undermining the independence of the Federal Reserve,… [+11807 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Jason Gewirtz",
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "description": "The Dow rose more than 460 points on Thursday as investors bought stocks that are closely tied to the economy. Here's what on CNBC's radar going into Friday.",
-      "url": "https://www.cnbc.com/2024/11/21/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108051592-1729689320082-gettyimages-2174942440-_s2_8523_bzlrbpdo.jpeg?v=1732232320&w=1920&h=1080",
-      "publishedAt": "2024-11-22T00:34:00Z",
-      "content": "Stocks @ Night is a daily newsletter delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox.\r\nHere's what CNBC TV's p… [+129 chars]"
+      "author": "Alex Harring, Sophie Kiderlin",
+      "title": "10-year Treasury yield slips as investors weigh state of U.S. economy - CNBC",
+      "description": "Investors weighed mixed economic data and assessed the state of the economy.",
+      "url": "https://www.cnbc.com/2024/11/22/us-treasurys-investors-weigh-state-of-us-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061591-1731429263076-GettyImages-2184363400.jpg?v=1732266415&w=1920&h=1080",
+      "publishedAt": "2024-11-22T09:19:32Z",
+      "content": "The 10-year Treasury yield edged lower on Friday as investors weighed mixed economic data and assessed the state of the economy.\r\nThe yield on the 10-year Treasury sat at 4.412%, down just about 2 ba… [+1586 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Tipranks.com"
       },
-      "author": "Marty Shtrubel",
-      "title": "Nvidia Stock Wins a New Street-High Price Target - TipRanks",
-      "description": "Nvidia (NASDAQ:NVDA) once again delivered the goods. The AI chip colossus’ fiscal third-quarter results showed that the AI opportunity is still well and truly in pl...",
-      "url": "https://www.tipranks.com/news/nvidia-stock-wins-a-new-street-high-price-target",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/02/NVDA-rising.jpg",
-      "publishedAt": "2024-11-22T00:17:15Z",
-      "content": "Nvidia (NASDAQ:NVDA) once again delivered the goods. The AI chip colossus fiscal third-quarter results showed that the AI opportunity is still well and truly in play.\r\nIn the October quarter, revenue… [+2723 chars]"
+      "author": "Michael Byrne",
+      "title": "Is Target Stock Worth a Look After a 20% Post-Earnings Selloff? - TipRanks",
+      "description": "Shares of big box retailer Target ($TGT) plummeted more than 20% after the company released its third-quarter earnings results that disappointed investors. While th...",
+      "url": "https://www.tipranks.com/news/is-target-stock-worth-a-look-after-a-20-post-earnings-selloff",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/11/shutterstock_2144868553-1-750x406.jpg",
+      "publishedAt": "2024-11-22T09:15:08Z",
+      "content": "Story HighlightsShares of Target have taken a beating, falling more than 20% after its earnings results disappointed investors. However, there’s still a lot to like about this blue-chip company.\r\nSha… [+6381 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Cointelegraph"
+        "name": "MarketWatch"
       },
-      "author": "Brayden Lindrea",
-      "title": "MicroStrategy completes $3B raise to buy more Bitcoin as MSTR falls 25% - Cointelegraph",
-      "description": "Business intelligence firm MicroStrategy has completed a $3 billion rate offering 0% convertible senior notes which it intends to use to buy more Bitcoin.",
-      "url": "https://cointelegraph.com/news/microstrategy-completes-3-billion-raise-to-purchase-more-bitcoin",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-11/019350bc-b299-7dd9-a1b4-4bb57f09f735",
-      "publishedAt": "2024-11-22T00:08:56Z",
-      "content": "MicroStrategy has completed a $3 billion offering of 0% convertible senior notes due in December 2029, with plans to use a portion or all of the proceeds to buy more Bitcoin.\r\nThe business intelligen… [+2439 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Matt Egan",
-      "title": "Trump’s social media company is exploring a crypto payment service called TruthFi - CNN",
-      "description": "Truth Social, the social media platform owned by President-elect Donald Trump, appears to be exploring a move into the crypto space.",
-      "url": "https://www.cnn.com/2024/11/21/business/truthfi-trump-media-crypto/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2097710725-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-11-21T22:58:00Z",
-      "content": "Truth Social, the social media platform owned by President-elect Donald Trump, appears to be exploring a move into the crypto space.\r\nTrump Media &amp; Technology Group filed a trademark application … [+4279 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "WYATTE GRANTHAM-PHILIPS",
-      "title": "Cutting in line? American Airlines’ new boarding tech might stop you at now over 100 airports - The Associated Press",
-      "description": "Sneaking a little ahead of line to get on that plane faster? American Airlines might stop you. In an apparent effort to reduce the headaches caused airport line cutting, American has rolled out boarding technology that alerts gate agents with an audible sound…",
-      "url": "https://apnews.com/article/american-airlines-gate-lice-boarding-technology-907dfe7a751a0b8f19b8b0f6150c0b7b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cff2f3a/2147483647/strip/true/crop/3139x1766+0+108/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fb7%2F2c92848e73290d132b3073e66525%2F4852123a884048d39bdf6790f8c3ca91",
-      "publishedAt": "2024-11-21T22:57:00Z",
-      "content": "NEW YORK (AP) Sneaking a little ahead of line to get on that plane faster? American Airlines might stop you.\r\nIn an apparent effort to reduce the headaches caused by airport line cutting, American ha… [+4142 chars]"
+      "author": "Steve Goldstein",
+      "title": "Key eurozone activity measure slumps to 10-month low - MarketWatch",
+      "description": "The flash eurozone composite purchasing managers index fell to a 10-month low in November",
+      "url": "https://www.marketwatch.com/story/things-could-hardly-have-turned-out-much-worse-says-economist-on-eurozone-economy-e66d2e83",
+      "urlToImage": "https://images.mktw.net/im-29367110/social",
+      "publishedAt": "2024-11-22T09:10:00Z",
+      "content": "The key economies of Germany and France look to be sputtering as the eurozone faces the prospect of higher import tariffs from the U.S. as well as political trouble at home, according to data release… [+150 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Yahoo Entertainment"
       },
-      "author": "PATRICK SEITZ, Investor's Business Daily",
-      "title": "Intuit Beats Fiscal Q1 Views But Guides Low - Investor's Business Daily",
-      "description": "Intuit beat estimates for its fiscal Q1 but gave an outlook that was below views for the current quarter and full year. Intuit stock fell.",
-      "url": "https://www.investors.com/news/technology/intuit-stock-intu-fiscal-q1-2025-earnings-report/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-Intuit-domeinglewood-01-company.jpg",
-      "publishedAt": "2024-11-21T22:11:00Z",
-      "content": "Intuit (INTU) late Thursday beat estimates for the financial software firm's fiscal first quarter but gave an outlook that was below views for the current quarter and full year ahead. Intuit stock fe… [+3485 chars]"
+      "author": "Sangmi Cha and Winnie Hsu",
+      "title": "Chinese Stocks Slump on Tech Earnings, Geopolitical Tensions - Yahoo Finance",
+      "description": "(Bloomberg) -- A selloff in Chinese stocks deepened on Friday afternoon, as disappointing tech earnings hurt sentiment already weakened by concerns over...",
+      "url": "https://finance.yahoo.com/news/chinese-stocks-slump-weak-tech-065536919.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZnfkQLWUAeAuBxe1FBUiwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/9c7926df1af1a5e6c40b47c144f3768c",
+      "publishedAt": "2024-11-22T08:50:41Z",
+      "content": "(Bloomberg) -- A selloff in Chinese stocks deepened on Friday afternoon, as disappointing tech earnings hurt sentiment already weakened by concerns over Donald Trumps imminent return.\r\nMost Read from… [+3373 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Motley Fool"
       },
-      "author": "Matt Donnelly",
-      "title": "NBCUniversal Shakeup Ends a Turf War and Puts Donna Langley in the Driver’s Seat - Variety",
-      "description": "NBCUniversal's leadership shuffle has ended an almost two-year turf war between powerful executives.",
-      "url": "https://variety.com/2024/film/news/nbcuniversal-shakeup-donna-langley-turf-war-1236217332/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/Donna.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2024-11-21T21:54:00Z",
-      "content": "NBCUniversal’s long-awaited move to spin off most of its cable assets and reorganize the studio’s top leadership inspired plenty of questions about the media conglomerate’s future – and, for many in … [+5281 chars]"
+      "author": "Maurie Backman, The Motley Fool",
+      "title": "The 2025 Social Security COLA Was Announced Last Month. Here's What That Means for Retirees - Yahoo! Voices",
+      "description": "It's definitely a good news/bad news situation.",
+      "url": "https://www.fool.com/retirement/2024/11/22/the-2025-social-security-cola-was-announced-last-m/?source=eptyholnk0000202&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=64787935-d1f5-47e0-892d-61db830bee9e",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ENDmGh7SI5wl0JrhrlIv9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/c876018aff086b14ed0c81c10833d3a6",
+      "publishedAt": "2024-11-22T08:36:00Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nS… [+3892 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "KUOW News and Information"
       },
-      "author": "PATRICK SEITZ, Investor's Business Daily",
-      "title": "Nvidia Guidance Called Conservative As Blackwell AI Chip Production Ramps - Investor's Business Daily",
-      "description": "Nvidia stock wavered Thursday as investors considered quibbles with the AI chipmaker's beat-and-raise earnings report.",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-wall-street-reactions-q3-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-Nvidia-h200nvl-01-company.jpg",
-      "publishedAt": "2024-11-21T21:48:00Z",
-      "content": "Nvidia (NVDA) stock wavered Thursday as investors considered quibbles with the AI chipmaker's beat-and-raise earnings report.\r\nThe Santa Clara, Calif.-based company late Wednesday reported better-tha… [+3973 chars]"
+      "author": "Casey Martin\n                      \n              \n                November 21, 2024\n                /\n                 7:49 pm",
+      "title": "Powerless Tesla drivers storm Seattle-area grocery store to recharge during outages - KUOW News and Information",
+      "description": "A line of sleek cars snaked through the parking lot at the Fred Meyer grocery store in Kirkland on Thursday. Not just any car: These were Teslas - down to a few bars of power.",
+      "url": "https://www.kuow.org/stories/powerless-tesla-drivers-storm-seattle-area-grocery-store-to-recharge-during-outages",
+      "urlToImage": "https://kuow-prod.imgix.net/store/5de259b2813e75f29b41ecb3351eb149.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+      "publishedAt": "2024-11-22T03:49:59Z",
+      "content": "A line of sleek cars snaked through the parking lot at the Fred Meyer grocery store in Kirkland on Thursday. \r\nNot just any car: These were Teslas down to a few bars of power.\r\nIt was the third day w… [+2870 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Benzinga"
       },
-      "author": "Reuters",
-      "title": "Dow jumps over 450 points, Nasdaq rebounds in volatile Wall Street trading - New York Post ",
-      "description": "The blue-chip Dow and the S&P 500 hit one-week highs.",
-      "url": "https://nypost.com/2024/11/21/business/dow-jumps-over-600-points-nasdaq-rebounds-in-volatile-wall-street-trading/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/500-nasdaq-composite-closed-time-93206596.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-11-21T21:20:01Z",
-      "content": "The Dow soared more than 600 points during Thursday’s session to a one-week high, as Wall Street’s main indexes turned positive after choppy trading on Thursday.\r\nThe blue-chip Dow Jones Industrial A… [+2756 chars]"
+      "author": "Erica Kollmann",
+      "title": "Spirit Airlines CEO Gets $3.8 Million Bonus 1 Week Before Company Files Bankruptcy - Benzinga",
+      "description": "Spirit approved large retention bonuses for its top executives on Nov. 12, six days before the company announced the restructuring and filed for bankruptcy.",
+      "url": "https://www.benzinga.com/general/travel/24/11/42127269/spirit-airlines-ceo-gets-3-8-million-bonus-1-week-before-company-files-bankruptcy",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/21/SAVE-Spirit-Airlines.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2024-11-22T00:06:27Z",
+      "content": "According to an SEC filing, Spirit Airlines, Inc.SAVEQ CEO Ted Christie was paid a $3.8 million retention bonus just one week before the budget airline filed for bankruptcy. \r\nThe Details: Spirit Air… [+1682 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "author": "The Wall Street Journal",
-      "title": "The Trump Stock Euphoria Starts to Fade - The Wall Street Journal",
+      "author": "ABC News",
+      "title": "Retirement plans are changing in 2025: What to know - ABC News",
       "description": null,
-      "url": "https://www.wsj.com/finance/investing/the-trump-stock-euphoria-starts-to-fade-bbd4d34d",
+      "url": "https://abcnews.go.com/Business/retirement-plans-changing-2025/story?id\\\\u003d116108433",
       "urlToImage": null,
-      "publishedAt": "2024-11-21T21:12:00Z",
+      "publishedAt": "2024-11-21T22:39:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kate Knibbs",
-      "title": "New York Times Says OpenAI Erased Potential Lawsuit Evidence - WIRED",
-      "description": "As part of an ongoing copyright lawsuit, The New York Times says it spent 150 hours sifting through OpenAI’s training data looking for potential evidence—only for OpenAI to delete all of its work.",
-      "url": "https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/",
-      "urlToImage": "https://media.wired.com/photos/673f596f1712c178c1a479d5/191:100/w_1280,c_limit/nyt-openai-biz-2182264708.jpg",
-      "publishedAt": "2024-11-21T19:55:21Z",
-      "content": "Lawsuits are never exactly a lovefest, but the copyright fight between The New York Times and both OpenAI and Microsoft is getting especially contentious. This week, the Times alleged that OpenAIs en… [+2374 chars]"
     },
     {
       "source": {
@@ -664,136 +781,6 @@
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/11/08/Palo-Alto-Networks.jpg",
       "publishedAt": "2024-11-21T19:46:48Z",
       "content": "Hackers have already compromised thousands of Palo Alto Networks firewalls in attacks exploiting two recently patched zero-day vulnerabilities.\r\nThe two security flaws are an authentication bypass (C… [+2765 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Francisco Velasquez",
-      "title": "Target's earnings miss isn't about the U.S. port strike. Here's what happened - Quartzy",
-      "description": "The retailer’s troubles – which pushed its stock down 21% to a one-year low – go much deeper than shipping costs and an inventory glut",
-      "url": "https://qz.com/target-q3-2024-earnings-miss-port-strike-supply-demand-1851705255",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e89d2924d5d3f8d4e30a92f8b679ee5a.jpg",
-      "publishedAt": "2024-11-21T19:35:00Z",
-      "content": "In This Story\r\nWhen Targets (TGT-0.09%\r\n) earnings fell drastically short of expectations on Wednesday, executives pointed to the U.S. port strike as a key factor. However, the retailers troubles whi… [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Piero Cingari",
-      "title": "Small Caps Rally, Alphabet Plummets, Bitcoin Flirts With $100,000: What's Driving Markets Thursday? - Benzinga",
-      "description": "Wall Street witnessed a positive momentum on Thursday as investor risk appetite remained resilient despite escalating geopolitical tensions in Europe.",
-      "url": "https://www.benzinga.com/economics/macro-economic-events/24/11/42121049/small-caps-rally-alphabet-plummets-bitcoin-flirts-with-100000-whats-driving-markets-thursday",
-      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/11/21/Banking-Economics-Market-Shutterstock.jpeg?width=1200&height=800&fit=crop",
-      "publishedAt": "2024-11-21T18:57:14Z",
-      "content": "Wall Street witnessed a positive momentum on Thursday as investor risk appetite remained resilient despite escalating geopolitical tensions in Europe. The market brushed off concerns following a Russ… [+3573 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters",
-      "title": "Citron Research discloses short position in bitcoin buyer MicroStrategy - Reuters",
-      "description": "Citron Research has taken a short position in MicroStrategy , the company said in a post on social media platform X on Thursday.",
-      "url": "https://www.reuters.com/technology/citron-research-discloses-short-position-bitcoin-buyer-microstrategy-2024-11-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/G2SWD63MBFPNVGUCPB2ZKO42VU.jpg?auth=ef193fed9f684557ab560396d6b505f17924d167e0137656516132fbeb8e308e&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-11-21T17:33:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ALEX VEIGA AP business writer",
-      "title": "Average rate on a 30-year mortgage in the US rises to highest level since July - ABC News",
-      "description": "The average rate on a 30-year mortgage in the U.S. edged closer to 7% this week, climbing to its highest level since July",
-      "url": "https://abcnews.go.com/US/wireStory/average-rate-30-year-mortgage-us-rises-highest-116101695",
-      "urlToImage": "https://i.abcnewsfe.com/a/d5f25d58-6604-428b-9715-437f4b62073a/wirestory_99fa3ab40bf2ad2cad1e554683e70d54_16x9.jpg?w=1600",
-      "publishedAt": "2024-11-21T17:26:15Z",
-      "content": "The average rate on a 30-year mortgage in the U.S. edged closer to 7% this week, climbing to its highest level since July.\r\nThe rate rose to 6.84% from 6.78% last week, mortgage buyer Freddie Mac sai… [+2545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Attiya Zainib",
-      "title": "Amazon.com, Inc. (AMZN) Faces Disruption from Perplexity’s New AI-Powered Shopping Assistant - Yahoo Finance",
-      "description": "We recently published a list of 14 Trending AI Stocks on Latest Ratings and News. In this article, we are going to take a look at where Amazon.com, Inc...",
-      "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-faces-165518328.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/37df26d44cb5f944fafba367b58c33c6",
-      "publishedAt": "2024-11-21T16:55:18Z",
-      "content": "<ul><li>Amazon.com, Inc. (AMZN) is facing disruption from Perplexity's new AI-powered shopping assistant, which offers a first-of-its-kind AI commerce experience called Buy with Pro.</li><li>Perplexi… [+4154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Melvin Backman",
-      "title": "Spirit Airlines is officially a penny stock - Quartzy",
-      "description": "The bankrupt carrier is now in 'Wolf of Wall Street' territory",
-      "url": "https://qz.com/spirit-airlines-stock-delisted-wolf-of-wall-street-1851704813",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a2f2ff3f3d99177390af088ce40f279b.jpg",
-      "publishedAt": "2024-11-21T16:08:00Z",
-      "content": "In This Story\r\nSpirit Airlines (SAVEQ-9.09%\r\n) is enduring another inevitable embarrassment of its recent bankruptcy declaration: Its stock has been delisted by the New York Stock Exchange. Shares, w… [+1566 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": null,
-      "title": "DOJ seeks to break up Google, forcing web browser Chrome sale as monopoly punishment - PBS NewsHour",
-      "description": "The proposed breakup floated in a 23-page document filed late Wednesday by the U.S. Justice Department calls for Google to sell its industry-leading Chrome web browser and impose restrictions designed to prevent Android from favoring its search engine.",
-      "url": "https://www.pbs.org/newshour/politics/doj-seeks-to-break-up-google-forcing-sale-of-web-browser-chrome-sale-as-monopoly-punishment",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/2024-11-18T232458Z_1026780710_RC208BAQQAIB_RTRMADP_3_TECH-ANTITRUST-GOOGLE-1024x624.jpg",
-      "publishedAt": "2024-11-21T16:03:23Z",
-      "content": "U.S. regulators want a federal judge to break up Google to prevent the company from continuing to squash competition through its dominant search engine after a court found it had maintained an abusiv… [+6961 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Grace Kay",
-      "title": "Elon Musk and Grimes Have Ended Their Custody Dispute in Texas - Business Insider",
-      "description": "The clerk's office in Travis County, Texas, confirmed that the the custody lawsuit between Musk and Grimes was closed.",
-      "url": "https://www.businessinsider.com/elon-musk-and-grimes-settled-custody-dispute-in-texas-2024-11",
-      "urlToImage": "https://i.insider.com/673f5141fa0140cdd564a673?width=1200&format=jpeg",
-      "publishedAt": "2024-11-21T15:45:00Z",
-      "content": "Elon Musk and Grimes' custody battle in Texas over their three children has been resolved.\r\nThe clerk's office in Travis County, Texas, where Musk filed suit, confirmed on Wednesday that a judge issu… [+1265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nar.realtor"
-      },
-      "author": null,
-      "title": "Existing-Home Sales Grew 3.4% in October; First Year-Over-Year Gain Since July 2021 - National Association of REALTORS®",
-      "description": "In October 2024, existing-home sales improved in all four regions of the U.S., and year-over-year sales rose in all regions except the Northeast.",
-      "url": "https://www.nar.realtor/newsroom/existing-home-sales-grew-3-4-in-october-first-year-over-year-gain-since-july-2021",
-      "urlToImage": "https://cms.nar.realtor/sites/default/files/pacific-northwest-house-backyard-fire-pit-and-chairs-GettyImages-1218967172-1200w-628h.jpg",
-      "publishedAt": "2024-11-21T15:00:00Z",
-      "content": "WASHINGTON (November 21, 2024) Existing-home sales rose in October, according to the National Association of REALTORS®. Sales improved in all four major U.S. regions. Year-over-year, sales elevated i… [+8596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Consumerfinance.gov"
-      },
-      "author": "https://www.facebook.com/CFPB",
-      "title": "CFPB Finalizes Rule on Federal Oversight of Popular Digital Payment Apps to Protect Personal Data, Reduce Fraud, and Stop Illegal “Debanking” - Consumer Financial Protection Bureau",
-      "description": "The CFPB today finalized a rule to supervise the largest nonbank companies offering digital funds transfer and payment wallet apps.",
-      "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-finalizes-rule-on-federal-oversight-of-popular-digital-payment-apps-to-protect-personal-data-reduce-fraud-and-stop-illegal-debanking/",
-      "urlToImage": "https://files.consumerfinance.gov/f/images/cfpb_final-rule-larger-participants-graphic_202.original.png",
-      "publishedAt": "2024-11-21T12:00:31Z",
-      "content": "WASHINGTON, D.C. The Consumer Financial Protection Bureau (CFPB) today finalized a rule to supervise the largest nonbank companies offering digital funds transfer and payment wallet apps. The rule wi… [+5423 chars]"
     }
   ]
 }
