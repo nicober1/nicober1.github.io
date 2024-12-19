@@ -4,6 +4,136 @@
   "articles": [
     {
       "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Leah Douglas, Tom Polansek",
+      "title": "US suffers first severe human case of bird flu; California declares emergency - Reuters",
+      "description": "The U.S. reported its first severe human case of bird flu on Wednesday in a Louisiana resident who is hospitalized in critical condition after suspected contact with an infected backyard flock.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-confirms-first-severe-case-bird-flu-us-2024-12-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VU33XFFMXJPRZPUIMU67UKKCQY.jpg?auth=c3cded488debb7d4870b99d39c0ad3afb782c009eae0d49c841b242968dcba23&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-18T20:32:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Shannon Najmabadi",
+      "title": "Consumer watchdog takes aim at credit-card rewards programs - The Washington Post",
+      "description": "Major card issuers often play a “shell game” and deny consumers the rewards they have earned, the Consumer Financial Protection Bureau warns.",
+      "url": "https://www.washingtonpost.com/business/2024/12/18/credit-card-rewards-warning-cfpb/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVGWQPOXDI47GW6AUYZ7TMVGFQ.JPG&w=1440",
+      "publishedAt": "2024-12-18T20:32:08Z",
+      "content": "Some credit card companies may be breaking the law by illegally devaluing accrued points, airline miles and other rewards used to entice cardholders, the Consumer Financial Protection Bureau said Wed… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Brian Evans, Lisa Kailai Han",
+      "title": "Dow loses 500 points as Fed rate outlook disappoints, heads for first 10-day losing streak since '74: Live updates - CNBC",
+      "description": "The Federal Reserve lowered the overnight borrowing rate by a quarter point on Wednesday, but its rate outlook rocked the market.",
+      "url": "https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108052389-1734555143007-108052389-17297814412024-10-24t144709z_1945886083_rc22raan9pco_rtrmadp_0_usa-stocks.jpg?v=1734555238&w=1920&h=1080",
+      "publishedAt": "2024-12-18T20:11:00Z",
+      "content": "MSCI could have more upside potential heading into 2025, according to Goldman Sachs.\r\nShares traded marginally higher on Wednesday on the heels of analyst George Tong upgrading the stock to buy from … [+1303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Syria not a threat to world, HTS leader Ahmed al-Sharaa tells BBC - BBC.com",
+      "description": "In an interview with Jeremy Bowen, the leader of the rebel group HTS says sanctions on Syria should be lifted.",
+      "url": "https://www.bbc.com/news/articles/c05p9g2nqmeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23d1/live/572659e0-bd71-11ef-a0f2-fd81ae5962f4.jpg",
+      "publishedAt": "2024-12-18T20:10:14Z",
+      "content": "The de facto leader of Syria, Ahmed al-Sharaa, has said the country is exhausted by war and is not a threat to its neighbours or to the West. \r\nIn an interview with the BBC in Damascus, he called for… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "THE ASSOCIATED PRESS",
+      "title": "What’s known about the brazen bombing that killed a top Russian general in Moscow - The Associated Press",
+      "description": "The killing of a senior Russian general in a bombing outside his apartment building in Moscow was the boldest assassination yet of a top military officer and it again brought the war in Ukraine to the streets of the capital. Lt. Gen. Igor Kirillov was killed …",
+      "url": "https://apnews.com/article/russia-ukraine-war-general-bomb-suspect-arrested-817ba9cd738fb09e673c261f21a4c1ff",
+      "urlToImage": "https://dims.apnews.com/dims4/default/092e587/2147483647/strip/true/crop/7903x4445+0+412/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2Ffb%2F9713fddea3891de11bb62f0fff6c%2Fb3586c10486344c8b8b30ee7e2112c6b",
+      "publishedAt": "2024-12-18T19:47:00Z",
+      "content": "The killing of a senior Russian general in a bombing outside his apartment building in Moscow was the boldest assassination yet of a top military officer and again brought the war in Ukraine to the s… [+5674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Federalreserve.gov"
+      },
+      "author": null,
+      "title": "Federal Reserve issues FOMC statement - Federal Reserve",
+      "description": "Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eas",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "publishedAt": "2024-12-18T19:01:22Z",
+      "content": "Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved … [+2142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Android 16 Developer Preview 2 rolling out for Pixel - 9to5Google",
+      "description": "Google is rolling out Developer Preview 2 of Android 16 for Pixel devices to round out the year in updates...",
+      "url": "http://9to5google.com/2024/12/18/android-16-developer-preview-2-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Android-16-DP2-logo-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-12-18T19:00:00Z",
+      "content": "Ahead of the Q2 2025 launch, Google is rolling out Developer Preview 2 of Android 16 to Pixel devices. This should be the last Android update of the year, with 15 QPR2 Beta 2 arriving earlier this we… [+2715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Armando Tinoco",
+      "title": "‘Summer House’ Season 9 Cast Photos, Trailer & Premiere Date Set At Bravo - Deadline",
+      "description": "'Summer House' Season 9 will see Paige DeSorbo and Craig Conover question the future of their relationship.",
+      "url": "https://deadline.com/gallery/summer-house-season-9-cast-photos-trailer-premiere-date-bravo/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/summer-house-season-9-cast-trailer-bravo-photos.jpg?w=1024",
+      "publishedAt": "2024-12-18T19:00:00Z",
+      "content": "Summer House is returning to Bravo starting Wednesday, February 12, at 9 p.m. ET, and things will seemingly heat up.\r\nThe cast of Season 9 includes the return of Paige DeSorbo, Amanda Batula, Kyle Co… [+6051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2024 NFL MVP odds, scenarios: Josh Allen favorite, but could Lamar Jackson or Saquon Barkley move past him? - CBS Sports",
+      "description": "The race for the NFL MVP is entering the home stretch",
+      "url": "https://www.cbssports.com/nfl/news/2024-nfl-mvp-odds-scenarios-josh-allen-favorite-but-could-lamar-jackson-or-saquon-barkley-move-past-him/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/18/579f2864-ec69-4dcd-a1f7-03d2ce05d938/thumbnail/1200x675/a99370744e6fe524a793a9e066ba6216/josh-x-lamar.png",
+      "publishedAt": "2024-12-18T18:57:00Z",
+      "content": "With just three weeks remaining in the regular season, we have a pretty good idea of the shape of the race for the NFL's Most Valuable Player award. There's a favorite, a No. 1 contender, an underdog… [+4526 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI brings ChatGPT to your landline - TechCrunch",
+      "description": "OpenAI's AI-powered ChatGPT is coming to phones. No, not smartphones — landlines.",
+      "url": "https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/03/1436934834_e4ad1db095_o.jpg?w=1024",
+      "publishedAt": "2024-12-18T18:05:42Z",
+      "content": "ChatGPT is coming to phones. No, not smartphones landlines. Call 1-800-242-8478 (1-800-CHATGPT), and OpenAI’s AI-powered assistant will respond as of Wednesday afternoon.\r\n“[Our mission at] OpenAI is… [+1738 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "[Removed]"
       },
@@ -12,21 +142,60 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-12-18T10:09:00Z",
+      "publishedAt": "2024-12-18T18:01:00Z",
       "content": "[Removed]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Stephen Neukam, Andrew Solender",
-      "title": "Congress releases bill to fund government through March 14, avert holiday shutdown - Axios",
-      "description": "The bill includes around $100 billion in disaster relief, a one-year extension of the farm bill and provisions restricting U.S. investments in China.",
-      "url": "https://www.axios.com/2024/12/17/congress-releases-bill-to-avert-holiday-government-shutdown",
-      "urlToImage": "https://images.axios.com/cszlJxU1AM3i5in9kUNWzt4m0h0=/0x136:6000x3511/1366x768/2024/12/14/1734153661069.jpg",
-      "publishedAt": "2024-12-18T08:48:52Z",
-      "content": "Congressional leaders Tuesday unveiled legislation to keep the government funded until March 14, unleashing a mad dash to pass the bill by the end of the week.\r\nWhy it matters: House Speaker Mike Joh… [+1566 chars]"
+      "author": "Frederic Lardinois",
+      "title": "GitHub launches a free version of its Copilot - TechCrunch",
+      "description": "Microsoft-owned GitHub announced on Wednesday a free version of its popular Copilot code completion/AI pair programming tool, which will also now ship by",
+      "url": "https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/IMG_20190506_125609.jpg?resize=1200,812",
+      "publishedAt": "2024-12-18T18:00:00Z",
+      "content": "Microsoft-owned GitHub announced on Wednesday a free version of its popular Copilot code completion/AI pair programming tool, which will also now ship by default with Microsoft’s popular VS Code edit… [+4036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18T17:56:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Shannon Osaka",
+      "title": "Microplastics may be leading to lung and colon cancer, study shows - The Washington Post",
+      "description": "New research published Wednesday in the journal Environmental Science and Technology offers evidence that microplastics are harming human health.",
+      "url": "https://www.washingtonpost.com/climate-environment/2024/12/18/microplastics-colon-cancer-link-study/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZO2SVQJ3JF4JECTIYGAFBYFZA_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-12-18T17:27:22Z",
+      "content": "When a car rolls down a freeway, a fine spray of microplastics spews out from its tires. When you wash your clothes, millions of tiny synthetic microfibers spill into waterways.\r\nAnd those tiny piece… [+4738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mySA"
+      },
+      "author": "Candice Avila-Garcia",
+      "title": "Fox S.A. anchor honors former co-anchor who died unexpectedly - mySA",
+      "description": "Ana Orsini was a former Texas anchor and Texas A&M graduate who suddenly died from a brain aneurysm at the age of 28.",
+      "url": "https://www.mysanantonio.com/lifestyle/article/ana-orsini-texas-19987818.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/34/00/26853380/3/rawImage.jpg",
+      "publishedAt": "2024-12-18T16:57:46Z",
+      "content": "Anchors Andrew Capasso and Ana Orsini at News 13.\r\nCourtesy Andrew Capasso\r\nThe sudden death of a beloved Arizona anchor has a San Antonio anchor honoring her memory. Fox San Antonio anchor Andrew Ca… [+2308 chars]"
     },
     {
       "source": {
@@ -34,11 +203,180 @@
         "name": "ABC News"
       },
       "author": "ABC News",
-      "title": "12 people found dead inside restaurant at popular ski resort - ABC News",
+      "title": "House Ethics Committee expected to release Gaetz report: Sources - ABC News",
       "description": null,
-      "url": "https://abcnews.go.com/International/12-people-found-dead-inside-restaurant-popular-ski/story?id\\\\u003d116895267",
+      "url": "https://abcnews.go.com/US/house-ethics-committee-expected-release-gaetz-report-sources/story?id\\\\u003d116044985",
       "urlToImage": null,
-      "publishedAt": "2024-12-18T08:36:05Z",
+      "publishedAt": "2024-12-18T16:52:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IFLScience"
+      },
+      "author": "Tom Hale",
+      "title": "Earth's Magnetic North Pole Officially Has A New Position - IFLScience",
+      "description": "Just before Christmas, let's hope this doesn't screw up the deliveries of the North Pole's most famous resident.",
+      "url": "https://www.iflscience.com/earths-magnetic-north-pole-officially-has-a-new-position-77286",
+      "urlToImage": "https://assets.iflscience.com/assets/articleNo/77286/aImg/80960/map-meta.jpg",
+      "publishedAt": "2024-12-18T16:42:49Z",
+      "content": "Hoping to keep tabs on the magnetic north's wandering ways, the World Magnetic Model 2025 has been released this week, revealing the latest official predicted placement of Earth's magnetic fields. Th… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Julianna Bragg",
+      "title": "California squirrels show carnivorous behavior for the first time, scientists say - CNN",
+      "description": "A study reveals the first evidence of California squirrels eating voles. Experts explain why this phenomenon is critical to future behavioral discoveries in animals.",
+      "url": "https://www.cnn.com/2024/12/18/science/california-squirrels-carnivorous-eating-voles/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1327283961.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-18T16:26:00Z",
+      "content": "Warning: This story contains graphic images that may upset some readers.\r\nTraditionally known for stuffing their cheeks with nuts, squirrels can be carnivorous though recorded instances of the rodent… [+5579 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Meryl Kornfield, Azi Paybarah, Mariana Alfaro, Maegan Vazquez, Justine McDaniel, Philip Bump, Paul Kane, Leigh Ann Caldwell, Abigail Hauslohner, Patrick Svitek, Jacqueline Alemany, Marianna Sotomayor, Maxine Joselow, Ann E. Marimow, Faiz Siddiqui, Aaron Blake, Dan Rosenzweig-Ziff, Andrew Ackerman, Kelsey Ables, Amy Gardner",
+      "title": "Live updates: Trump to nominate ex-NFL star Herschel Walker as Bahamas ambassador - The Washington Post",
+      "description": "Get the latest news on the transition to the new administration of President-elect Donald Trump and a new Congress.",
+      "url": "https://www.washingtonpost.com/politics/2024/12/18/trump-administration-transition/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2GGX7BCEUI6ZKGZBAT2FJFZCU.jpg&w=1440",
+      "publishedAt": "2024-12-18T16:22:33Z",
+      "content": "Elon Musk and Vivek Ramaswamy, whom President-elect Donald Trump tapped to lead the nongovernmental group called the Department of Government Efficiency and identify places to cut government spending… [+621 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Ancient DNA suggests syphilis originated in Americas before ravaging Europe - The Washington Post",
+      "description": "For centuries, scientists have disputed the origins of syphilis. A new study of ancient DNA supports an American origin for syphilis, before Columbus arrived.",
+      "url": "https://www.washingtonpost.com/science/2024/12/18/syphilis-ancient-dna-americas/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WFSDXWNIEKYHDY65Z5OTBIDOF4.jpg&w=1440",
+      "publishedAt": "2024-12-18T16:11:26Z",
+      "content": "In 1495, a devastating infection began to sweep across Europe, causing pustules and sores to erupt on peoples bodies and faces. Accusatory finger-pointing about the scourge, syphilis, began almost im… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Mostafa Salem",
+      "title": "The Assad regime has fallen. Why are foreign powers still targeting Syria? - CNN",
+      "description": "Syria’s Bashar al-Assad and his years-long regime have fallen, but the country remains a battleground for an array of actors seeking to secure interests in what may emerge to be a dangerous power vacuum.",
+      "url": "https://www.cnn.com/2024/12/18/middleeast/why-foreign-powers-still-targeting-syria-mime-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2189312843.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-18T15:51:00Z",
+      "content": "Syrias Bashar al-Assad and his years-long regime have fallen, but the country remains a battleground for an array of actors seeking to secure interests in what may emerge to be a dangerous power vacu… [+5330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Andscape.com"
+      },
+      "author": "William C. Rhoden",
+      "title": "Michael Vick going to coach at Norfolk State a prime example of Deion Sanders effect - Andscape",
+      "description": "The talk about Michael Vick becoming college football coach began as a whisper last week. On Tuesday, it became a scream. Vick — NFL superstar, icon, street leg…",
+      "url": "https://andscape.com/features/michael-vick-going-to-coach-at-norfolk-state-a-prime-example-of-deion-sanders-effect/",
+      "urlToImage": "https://andscape.com/wp-content/uploads/2024/12/GettyImages-2179217657-e1734492606639.jpg?w=700",
+      "publishedAt": "2024-12-18T15:50:40Z",
+      "content": "The talk about Michael Vick becoming college football coach began as a whisper last week. On Tuesday, it became a scream.\r\nVick NFL superstar, icon, street legend, former inmate and documentarian is … [+5043 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ELLEN KNICKMEYER",
+      "title": "US repatriates 3 Guantanamo Bay detainees, including one held 17 years without charge - The Associated Press",
+      "description": "The Pentagon has transferred two Malaysian detainees at the Guantanamo Bay U.S. military prison to their home country. That's after they pleaded guilty to charges stemming from deadly 2002 bombings in Bali and agreed to testify against the alleged ringleader …",
+      "url": "https://apnews.com/article/guantanamo-bay-kenya-detainee-al-qaida-september-11-f338868542168098fb19bce9373b6720",
+      "urlToImage": "https://dims.apnews.com/dims4/default/990c5fa/2147483647/strip/true/crop/4570x2571+0+238/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2F47%2Fb744d89aa8bf38c2b71aa10860df%2F2c8e50fe7b2041ecad40281128b48cca",
+      "publishedAt": "2024-12-18T15:44:00Z",
+      "content": "WASHINGTON (AP) The U.S. has transferred two Malaysian detainees at the Guantanamo Bay U.S. military prison to their home country, after they pleaded guilty to charges related to deadly 2002 bombings… [+2470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nikki McCann Ramirez",
+      "title": "Trump Beams as House GOP Calls for Federal Probe Into Liz Cheney - Rolling Stone",
+      "description": "Donald Trump celebrated a Republican report calling for an investigation into former Republican Rep. Liz Cheney over her work on the Jan. 6 committee.",
+      "url": "http://www.rollingstone.com/politics/politics-news/trump-delights-house-gop-investigation-liz-cheney-1235210178/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/12/Trump-and-Cheney.jpg?crop=0px%2C4px%2C1798px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2024-12-18T15:01:57Z",
+      "content": "Donald Trump is not yet in office, but his not-so-slow rolling train of political retaliation against his rivals has already left the station. After filing a lawsuit against an Iowa newspaper over it… [+3105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Gene Maddaus",
+      "title": "‘Bad Monkey’ Gets $20 Million Tax Credit to Move From Florida to California - Variety",
+      "description": "\"Bad Monkey,\" the Apple TV+ show set in the Florida Keys, will move to California for Season 2 due to a state tax incentive.",
+      "url": "https://variety.com/2024/film/news/bad-monkey-film-tax-incentive-california-florida-film-commission-1236252867/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/BadMonkey.MAIN_.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-12-18T15:00:00Z",
+      "content": "“Bad Monkey” is a Florida show to the core. Set in the Florida Keys and based on a Carl Hiaasen book, the show’s first season was even filmed in Florida, though the state does not have a tax credit f… [+2253 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kerry Breen",
+      "title": "Ancient inscription could rewrite history of Christianity north of Italy, archaeologists say - CBS News",
+      "description": "The \"Frankfurt Silver Inscription\" shows the earliest evidence of Christianity north of the Alps.",
+      "url": "https://www.cbsnews.com/news/inscription-amulet-history-christianity-italy-germany/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/12/18/59263699-0c5b-4b9a-9338-d4110777ddc2/thumbnail/1200x630/10d8357ce2fd6f10d8953907cc91e3bd/screenshot-2024-12-18-at-9-21-44-am.png?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-18T14:54:00Z",
+      "content": "Archaeologists have discovered an inscribed silver amulet that one theologian now says may rewrite the history of Christianity north of the Alps mountain range. \r\nThe inscribed amulet was found burie… [+3381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kyodonews.net"
+      },
+      "author": "",
+      "title": "Honda, Nissan in merger talks to form world's 3rd-biggest auto group - Kyodo News Plus",
+      "description": "Kyodo News Plus is an online publication delivering the latest news from Japan together with those stories from around the globe in which Japan plays a key role. Centering on content provided by Kyodo News, Japan&rsquo;s leading news agency, our publication k…",
+      "url": "https://english.kyodonews.net",
+      "urlToImage": "https://english.kyodonews.net/en/img/fb_og_image.png",
+      "publishedAt": "2024-12-18T14:23:47Z",
+      "content": "Honda, Nissan in merger talks to form world's 3rd-biggest auto group\r\nHonda Motor Co. and Nissan Motor Co. have begun talks on a merger that would create the world's third-biggest automaker group by … [+3875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stephen Pastis, Siladitya Ray",
+      "title": "Mystery Drones Saga: President Biden Calls Sightings ‘Nothing Nefarious, Apparently’ (Updated) - Forbes",
+      "description": "Officials sound alarm over reports of the strange sights—seen over New Jersey, New York, Maryland and Pennsylvania—with one asking for a “limited state of emergency.”",
+      "url": "https://www.forbes.com/sites/stephenpastis/2024/12/18/mystery-drones-saga-president-biden-says-sightings-are-nothing-nefarious-apparently-updated/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67602969e2df9f8dc3cb6a5a/0x0.jpg?format=jpg&crop=2000,1125,x0,y102,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-18T13:53:00Z",
+      "content": "President Biden spoke publicly about alleged drones that have been spotted on the East Coast for the first time Tuesday, sharing the governments perspective that the weeks-long sightings of low-flyin… [+17925 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Nidal Al-Mughrabi",
+      "title": "Gaza mediators intensify ceasefire efforts, Israeli strikes kill 20 people - Reuters",
+      "description": "The United States, joined by Arab mediators, sought on Wednesday to conclude an agreement between Israel and Hamas to halt the 14-month-old war in the Gaza Strip where medics said Israeli strikes killed at least 20 Palestinians overnight.",
+      "url": "https://www.reuters.com/world/middle-east/gaza-mediators-intensify-ceasefire-efforts-israeli-strikes-kill-16-people-2024-12-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FR6QLHTAOJKWHEUCQNH5WM4XKE.jpg?auth=e0f457ee6466f3ea297ab1db143121a31bb7169c5f0fccaf914e393bcb8504ec&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-18T13:47:34Z",
       "content": null
     },
     {
@@ -46,52 +384,26 @@
         "id": "cnn",
         "name": "CNN"
       },
-      "author": null,
-      "title": "Igor Kirillov: Russia detains Uzbek national over bomb assassination of senior general - CNN",
-      "description": "A 29-year-old Uzbek citizen has been detained for allegedly planting the bomb that killed senior Russian general and his assistant, the Russian Investigative Committee said Wednesday.",
-      "url": "https://www.cnn.com/2024/12/18/europe/russia-general-kirillov-uzbekistan-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24352261898581.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-12-18T07:35:00Z",
-      "content": "A 29-year-old Uzbek citizen has been detained for allegedly planting the bomb that killed senior Russian general and his assistant, the Russian Investigative Committee said Wednesday.\r\nLt. Gen. Igor … [+1630 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Howard Schneider",
-      "title": "Fed expected to combine interest rate cut with hawkish 2025 outlook - Reuters",
-      "description": "The Federal Reserve is expected to lower borrowing costs on Wednesday in what some observers are calling a \"hawkish cut\" set to be delivered alongside policymakers' updated interest rate outlooks and economic forecasts covering the first months of the incomin…",
-      "url": "https://www.reuters.com/markets/us/fed-expected-combine-interest-rate-cut-with-hawkish-2025-outlook-2024-12-18/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IAQ25SDTW5MYFG2MUCQKA5UFII.jpg?auth=9f217720e423d708fdd836c658ba9d152a321e411eb26ee8b862507a098129f6&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2024-12-18T07:21:00Z",
-      "content": null
+      "author": "Emma Tucker",
+      "title": "New York prosecutors may have trouble proving first-degree murder charge against Luigi Mangione, legal experts say - CNN",
+      "description": "The indictment of UnitedHealthCare CEO shooting suspect Luigi Mangione for murder as an act of terrorism involved multiple factors, prosecutors say, including a “frightening, well-planned, targeted” killing, as well as an outpouring of praise for the suspect …",
+      "url": "https://www.cnn.com/2024/12/18/us/luigi-mangione-murder-indictment-new-york/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241217-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-18T12:52:00Z",
+      "content": "The indictment of UnitedHealthCare CEO shooting suspect Luigi Mangione for murder as an act of terrorism involved multiple factors, prosecutors say, including a frightening, well-planned, targeted ki… [+7191 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WANE"
+        "name": "New York Post"
       },
-      "author": "Lori Dillon, The Associated Press",
-      "title": "Joseph Corcoran executed in Indiana - WANE",
-      "description": "The Indiana Department of Corrections executed convicted murderer Joseph Corcoran early Wednesday morning.",
-      "url": "https://www.wane.com/top-stories/breaking-corcoran-executed/",
-      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2024/12/AP24348750871006.jpg?w=1280",
-      "publishedAt": "2024-12-18T07:19:02Z",
-      "content": "MICHIGAN CITY, Ind. (WANE) — The Indiana Department of Corrections executed convicted murderer Joseph Corcoran early Wednesday morning.\r\nAccording to a statement from IDOC, the execution process star… [+2055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Brad Botkin",
-      "title": "Bucks win NBA Cup vs. Thunder: Why title can be launching pad for Giannis Antetokounmpo and Damian Lillard - CBS Sports",
-      "description": "Antetokounmpo was named MVP after a triple-double in the championship game",
-      "url": "https://www.cbssports.com/nba/news/bucks-win-nba-cup-vs-thunder-why-title-can-be-launching-pad-for-giannis-antetokounmpo-and-damian-lillard/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/18/31b93ca5-3bf6-4d7b-8b76-507386d8425a/thumbnail/1200x675/dda43c7b054d6e458692665cf07d26da/giannis-usatsi-5.png",
-      "publishedAt": "2024-12-18T05:49:33Z",
-      "content": "The Milwaukee Bucks won the 2024 NBA Cup on Tuesday, pulling away from the cold-shooting Oklahoma City Thunder for a 97-81 win in the tournament's title game in Las Vegas. The Bucks star duo of Giann… [+4141 chars]"
+      "author": "Jared Schwartz",
+      "title": "How Cody Bellinger fits into the Yankees’ roster makeover - New York Post ",
+      "description": "It’s not enough to replace Juan Soto’s production, but Bellinger’s bat can be one piece of the puzzle.",
+      "url": "https://nypost.com/2024/12/18/sports/how-cody-bellinger-fits-into-the-yankees-roster-makeover/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-q6gbp6tjd-1734525286542.jpg?quality=75&strip=all&1734507482&w=1024",
+      "publishedAt": "2024-12-18T12:40:00Z",
+      "content": "The Yankees’ Plan B continues to take shape.\r\nOn Tuesday, they traded for Cody Bellinger from the Cubs, in exchange for right-hander Cody Poteet.\r\nThe Cubs also sent along $5 million in the deal to g… [+305 chars]"
     },
     {
       "source": {
@@ -99,129 +411,25 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Japanese car makers Honda and Nissan hold merger talks - BBC.com",
-      "description": "In March, the two Japanese car makers agreed to explore a strategic partnership for electric vehicles.",
-      "url": "https://www.bbc.com/news/articles/cr56r74214eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8851/live/0a0ffbc0-bcef-11ef-9465-0907e821b122.jpg",
-      "publishedAt": "2024-12-18T05:16:12Z",
-      "content": "Honda and Nissan are understood to have held exploratory talks about a potential merger to help them compete against electric vehicle (EV) makers, particularly in China.\r\nIn March, the two Japanese c… [+3318 chars]"
+      "title": "Nasa astronauts Butch and Suni face further delay in homcoming - BBC.com",
+      "description": "Nasa says that the astronauts stuck on the space station will have to wait even longer to get home.",
+      "url": "https://www.bbc.com/news/articles/c30nze6e4geo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/325e/live/13ab7590-330d-11ef-bdc5-41d7421c2adf.jpg",
+      "publishedAt": "2024-12-18T11:43:09Z",
+      "content": "Nasa says that the astronauts stuck on the International Space Station will have to wait even longer to get home.\r\nButch Wilmore and Suni Williams were due to be back after just a week when they blas… [+2050 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MacRumors"
       },
-      "author": "Kanishka Singh",
-      "title": "Trump nominates ex-US Senate candidate Herschel Walker as ambassador to Bahamas - Yahoo! Voices",
-      "description": "President-elect Donald Trump nominated Herschel Walker, the former football star who he had previously backed for the 2022 Senate race in Georgia, as the U.S...",
-      "url": "https://www.yahoo.com/news/trump-nominates-ex-us-senate-023121698.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/c83ebd2db79ae9c5ed297b4be76e0f92",
-      "publishedAt": "2024-12-18T02:31:00Z",
-      "content": "By Kanishka Singh\r\nWASHINGTON (Reuters) - President-elect Donald Trump nominated Herschel Walker, the former football star who he had previously backed for the 2022 Senate race in Georgia, as the U.S… [+1134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Anthony D'Alessandro",
-      "title": "Oscars: Original Song Shortlist Sees Miley Cyrus ‘Last Showgirl’ Tune Snubbed; Lin-Manuel Miranda Eyeing EGOT; Diane Warren’s Possible 16th Nom & More - Deadline",
-      "description": "This year's Oscar Original Song shortlist has possible Oscar nom finalists from Emila Perez, Moana 2, The Lion King, Piece by Piece to name a few.",
-      "url": "http://deadline.com/2024/12/oscars-original-song-short-list-miley-cyrus-snub-lin-manuel-miranda-1236209084/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Diane-Warren-Lin-Manuel-Miranda-Miley-Cyrus-and-Elton-John.jpg?w=1024",
-      "publishedAt": "2024-12-18T02:05:00Z",
-      "content": "While last year’s Oscar original song short list was dominated by pop stars such as Billie Eilish, Dua Lipa and Olivia Rodrigo, this year’s lineup is filled with several ditties from musically themed… [+6211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AtlantaFalcons.com"
-      },
-      "author": null,
-      "title": "Atlanta Falcons name Michael Penix Jr. the starting quarterback - AtlantaFalcons.com",
-      "description": "Head coach Raheem Morris said in a statement that the Falcons will move forward with Penix, replacing Kirk Cousins as the starter.",
-      "url": "https://www.atlantafalcons.com/news/atlanta-falcons-name-michael-penix-jr-the-starting-quarterback-kirk-cousins",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/mvkv92slugpmpct3mm2i",
-      "publishedAt": "2024-12-18T01:41:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Lauren Garafano",
-      "title": "19 Absolutely Life-Changing Movies From This Year That Not A Lot Of People Have Seen - BuzzFeed",
-      "description": "\"Your Monster is, by far, my favorite movie of 2024.\"",
-      "url": "https://www.buzzfeed.com/laurengarafano/underrated-movies-from-2024",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/12/17/enhanced/31267fca6b0c/original-629-1734022850-11.jpg?crop=1250:654;0,0%26downsize=1250:*",
-      "publishedAt": "2024-12-18T01:31:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UPI.com"
-      },
-      "author": null,
-      "title": "Stranded Boeing Starliner astronauts face new delay in return to Earth from ISS - UPI News",
-      "description": "UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International",
-      "url": "https://www.upi.com",
-      "urlToImage": "//www.upi.com/img/upi-fb.png",
-      "publishedAt": "2024-12-18T01:29:12Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jack Baer",
-      "title": "Cardinals All-Pro safety Budda Baker agrees to 3-year, $54 million extension - Yahoo Sports",
-      "description": "Budda Baker is sticking with the Arizona Cardinals for at least a few more years.",
-      "url": "https://sports.yahoo.com/cardinals-all-pro-safety-budda-baker-agrees-to-3-year-54-million-extension-002335964.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IY7Br9U2.aI424oqC1Yntg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/095320f0-bcda-11ef-b29e-b843b4af372f",
-      "publishedAt": "2024-12-18T01:00:00Z",
-      "content": "Budda Baker has been a good one for the Cardinals. (Photo by Perry Knotts/Getty Images)\r\nBudda Baker is sticking with the Arizona Cardinals for at least a few more years.\r\nThe All-Pro safety agreed t… [+1098 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-12-18T00:52:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Rolling Stone",
-      "title": "The 20 Best Hip Hop Songs of 2024 - Rolling Stone",
-      "description": "From eviscerating diss tracks to scorching summer anthems, there was no shortage of rap hits to get us through the year",
-      "url": "http://www.rollingstone.com/music/music-lists/20-best-hip-hop-songs-2024-1235198186/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/12/YEAR-IN-REVIEW_HipHopSongs_Final-1.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2024-12-18T00:00:00Z",
-      "content": "Image Credit: Prince Williams/Wireimage\r\nJust a month after Rich Homie Quans death, one that sent shockwaves through hip-hop, his family and team released the 35-track posthumous album, Forever Going… [+495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Will Trudeau resign? Four paths Canada's prime minister could take - BBC.com",
-      "description": "A shock high-profile resignation has forced Canada's prime minister to contend with his plummeting popularity.",
-      "url": "https://www.bbc.com/news/articles/cn54elwep72o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a516/live/bf5154c0-bd26-11ef-a2ca-e99d0c9a24e3.jpg",
-      "publishedAt": "2024-12-17T23:42:08Z",
-      "content": "Canadian Prime Minister Justin Trudeau's future looks uncertain following the sudden resignation of his most senior cabinet member, a once close ally. \r\nChrystia Freeland - the former deputy prime mi… [+4927 chars]"
+      "author": "Hartley Charlton",
+      "title": "iPhone 17 Pro Rumored to Stick With 'Triangular' Camera Design - MacRumors",
+      "description": "Contrary to recent reports, the iPhone 17 Pro will not feature a horizontal camera layout, according to the leaker known as \"Instant...",
+      "url": "https://www.macrumors.com/2024/12/18/iphone-17-pro-to-stick-with-triangular-camera/",
+      "urlToImage": "https://images.macrumors.com/t/KGy6xZuvHYwuHy0acfW1-sbn0B0=/2500x/article-new/2024/11/iPhone-17-Pro-Dual-Tone-Feature-1.jpg",
+      "publishedAt": "2024-12-18T10:36:50Z",
+      "content": "Contrary to recent reports, the iPhone 17 Pro will not feature a horizontal camera layout, according to the leaker known as \"Instant Digital.\"\r\nIn a new post on Weibo, the leaker said that a source h… [+1839 chars]"
     },
     {
       "source": {
@@ -229,168 +437,25 @@
         "name": "ABC News"
       },
       "author": "ABC News",
-      "title": "Fact-check: Drones were not tracking missing radioactive material in New Jersey - ABC News",
+      "title": "What to know about Wisconsin's gun laws after school shooting - ABC News",
       "description": null,
-      "url": "https://abcnews.go.com/US/fact-check-radioactive-material-triggered-drone-theories-missing/story?id\\\\u003d116884712",
+      "url": "https://abcnews.go.com/US/wisconsin-gun-laws-after-abundant-life-christian-school/story?id\\\\u003d116863868",
       "urlToImage": null,
-      "publishedAt": "2024-12-17T23:37:58Z",
+      "publishedAt": "2024-12-18T10:12:46Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Sports Illustrated"
-      },
-      "author": "Tom Dierberger",
-      "title": "Week 16 NFL Clinching Scenarios: How Five Teams Can Punch Playoff Ticket - Sports Illustrated",
-      "description": "The Broncos, Chargers and Packers are among the teams hoping to secure a spot in the postseason bracket this weekend.",
-      "url": "https://www.si.com/nfl/week-16-nfl-clinching-scenarios-how-five-teams-can-punch-playoff-ticket",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3936,h_2214,x_0,y_224/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jfbd41b6ht2w3avxm3.jpg",
-      "publishedAt": "2024-12-17T23:32:35Z",
-      "content": "It's the most wonderful time of the yearfor some NFL franchises, anyway.\r\nWith three weeks to go in the 2024 regular season, seven teams have officially secured a playoff berth and nine teams have be… [+5042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Giovanna Bellotti Azevedo, Vinícius Andrade and Ezra Fieser",
-      "title": "Brazil Traders ‘Sell First, Ask Later’ as Panic Sweeps Markets - Yahoo Finance",
-      "description": "(Bloomberg) -- First it was a collapse in the currency. Now the rest of Brazil’s financial markets are in the cross-hairs as investors lose faith in the...",
-      "url": "https://finance.yahoo.com/news/brazil-traders-sell-first-ask-222643785.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PyuJtCX.Pnhv5sQJCwZS2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTc1/https://media.zenfs.com/en/bloomberg_markets_842/0d1a154bff3056c2192356e8fc792b1f",
-      "publishedAt": "2024-12-17T22:26:43Z",
-      "content": "(Bloomberg) -- First it was a collapse in the currency. Now the rest of Brazils financial markets are in the cross-hairs as investors lose faith in the governments ability to contain a deepening fisc… [+5051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "",
-      "title": "Shenzhou-19 astronauts complete record-breaking 9-hour spacewalk - SpaceNews",
-      "description": "HELSINKI — Two Chinese astronauts completed a record-setting extravehicular activity outside Tiangong space station Tuesday. Shenzhou-19 commander Cai Xuzhe, wearing a Feitian extravehicular activi…",
-      "url": "https://spacenews.com/shenzhou-19-astronauts-complete-record-breaking-9-hour-spacewalk/",
-      "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/shenzhou19-EVA1-wentian-panoramic-cam-b-17dec2024-CMSEO.jpg?resize=1200%2C660&ssl=1",
-      "publishedAt": "2024-12-17T22:23:49Z",
-      "content": "HELSINKI Two Chinese astronauts completed a record-setting extravehicular activity outside Tiangong space station Tuesday.\r\nShenzhou-19 commander Cai Xuzhe, wearing a Feitian extravehicular activity … [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Women's Health"
-      },
-      "author": "Korin Miller",
-      "title": "Muscle Loss In This Area Could Be A Key Indicator Of Dementia. An Expert Explains The Warning Signs. - Yahoo Life",
-      "description": "A study presented earlier this month found that smaller temporalis muscles could indicate dementia. A brain health coach shares the warning signs to look for.",
-      "url": "https://www.womenshealthmag.com/health/a63217090/muscle-loss-dementia-study/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/woman-upset-after-a-failed-workout-its-hard-to-royalty-free-image-1734469562.pjpeg?crop=1xw:0.75035xh;center,top&resize=1200:*",
-      "publishedAt": "2024-12-17T21:17:00Z",
-      "content": "Dementia is a devastating condition that impacts up to 10 percent of older adults. And while there's no cure, getting diagnosed early can help patients get on a treatment plan and families prepare. \r… [+4906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "Apple iPhone 17: All-New Design Coming, Leak Claims - Forbes",
-      "description": "A new design will make the next iPhones look utterly different from all current models—if the latest report is true.",
-      "url": "https://www.forbes.com/sites/davidphelan/2024/12/17/apple-iphone-17-all-new-design-coming-leak-claims/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672bc5291ff97eeb28be0973/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-12-17T20:51:23Z",
-      "content": "A new design is coming to the iPhone 17 series, according to several leaks. And a new report doubles down on the idea that the cameras could be repositioned on the new phone. This would see them plac… [+2455 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kevin Purdy",
-      "title": "After decades of talk, Seagate seems ready to actually drop the HAMR hard drives - Ars Technica",
-      "description": "At least one gigantic cloud provider has signed off on the drives’ viability.",
-      "url": "https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/hamr_green.jpg",
-      "publishedAt": "2024-12-17T20:49:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Dan Mangan",
-      "title": "Luigi Mangione indicted on murder charges for shooting of UnitedHealthcare CEO Brian Thompson - CNBC",
-      "description": "Luigi Mangione is accused of shooting UnitedHealthcare CEO Brian Thompson. Shell casings and a bullet carried the words \"deny,\" \"delay\" and \"depose.\"",
-      "url": "https://www.cnbc.com/2024/12/17/luigi-mangione-brian-thompson-murder-new-york-extradition.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108074105-17338670102024-12-10t213805z_1671416338_rc2lmbaa4nj6_rtrmadp_0_unitedhealth-ceo.jpeg?v=1734467181&w=1920&h=1080",
-      "publishedAt": "2024-12-17T20:20:35Z",
-      "content": "Luigi Mangione, 26, a suspect in the New York City killing of UnitedHealth executive Brian Thompson, is escorted after an extradition hearing at Blair County Court House in Hollidaysburg, Pennsylvani… [+5773 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Lisa Fickenscher",
-      "title": "Walmart tests body cameras for store employees as retail crime surges - New York Post ",
-      "description": "“The moment that you see yourself is probably [when] you’re going to change your behavior, and that’s what I think the use of a body-worn camera can do,” security expert David Johnston of the…",
-      "url": "https://nypost.com/2024/12/17/business/walmart-tests-body-cameras-for-store-employees-as-retail-crime-surges/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-0iw1613xj-1734463251411.jpg?quality=75&strip=all&1734445277&w=1024",
-      "publishedAt": "2024-12-17T19:22:00Z",
-      "content": "Walmart employees have begun to wear body cameras as concerns about crime and shoplifting are on the rise.\r\nThe Arkansas-based retail giant recently began a pilot test involving multiple stores in th… [+2980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Umn.edu"
+        "name": "SciTechDaily"
       },
       "author": null,
-      "title": "US whooping cough cases soar, but public knowledge of the contagious disease remains low - University of Minnesota Twin Cities",
-      "description": "Thirty percent of respondents don't know that pertussis is the same as whooping cough or that it is vaccine-preventable.",
-      "url": "https://www.cidrap.umn.edu/pertussis/us-whooping-cough-cases-soar-public-knowledge-contagious-disease-remains-low",
-      "urlToImage": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
-      "publishedAt": "2024-12-17T18:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KRON4"
-      },
-      "author": "Phil Mayer",
-      "title": "Who is Khazar Momeni? Sister of Bob Lee killer was key figure in trial - KRON4",
-      "description": "SAN FRANCISCO (KRON) — Now that the verdict in the trial for the murder of Cash App founder Bob Lee has been announced, one of the most important witnesses and memorable characters throughout the entire case was Khazar Momeni. Momeni is the sister of Nima Mom…",
-      "url": "https://www.kron4.com/news/bay-area/who-is-khazar-momeni-sister-of-accused-bob-lee-killer-was-key-figure-in-trial/",
-      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2024/10/khazar-momeni-getty.jpg?w=1280",
-      "publishedAt": "2024-12-17T18:02:11Z",
-      "content": "SAN FRANCISCO (KRON) — Now that the verdict in the trial for the murder of Cash App founder Bob Lee has been announced, one of the most important witnesses and memorable characters throughout the ent… [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DefenseNews.com"
-      },
-      "author": "Courtney Albon",
-      "title": "SpaceX launches rapid response GPS mission - Defense News",
-      "description": "The effort, dubbed Rapid Response Trailblazer, was meant to demonstrate the ability to quickly plan and launch a mission in around six months.",
-      "url": "https://www.defensenews.com/space/2024/12/17/spacex-launches-rapid-response-gps-mission/",
-      "urlToImage": "https://www.armytimes.com/resizer/v2/OBPUYTU7CBDPJPH363EP5LW26A.jpg?width=1200&auth=406f6098ea2027de3c408d8a4e00b93340dbff0014dfc345adbb25ea0b1686e5",
-      "publishedAt": "2024-12-17T17:41:14Z",
-      "content": "SpaceX on Monday night launched a secretive rapid response mission for the Space Force, flying a GPS III satellite aboard a Falcon 9 rocket.\r\nThe effort, dubbed Rapid Response Trailblazer, was meant … [+2032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Umnews.org"
-      },
-      "author": null,
-      "title": "3 United Methodists killed in Nigeria - UM News",
-      "description": "A young adult church member was shot and two toddlers died in a fire as fighting between members of The United Methodist Church and the breakaway Global Methodist Church escalated in rural Nigeria.",
-      "url": "https://www.umnews.org/en/news/3-united-methodists-killed-in-nigeria",
-      "urlToImage": "https://www.umnews.org/-/media/umc-media/2024/12/17/17/21/nigeria-map-inset-2024-1200x800px.jpg?mw=1200&hash=B4574DFA36C06F47D7DBDF736DF0A44F",
-      "publishedAt": "2024-12-17T17:41:01Z",
-      "content": "Key points:\r\n<ul><li>A young man was killed by gunfire and two toddlers died in a fire after their hut was set ablaze amid escalating conflict in rural Nigeria.</li><li>United Methodist bishops conde… [+8597 chars]"
+      "title": "Seed Oils Under Fire: Fact-Checking the Hype and Health Claims - SciTechDaily",
+      "description": "Despite claims of toxicity, seed oils are largely safe and beneficial in moderation. The refining process eliminates most harmful substances, although it also reduces beneficial antioxidants. The primary health concern is not the oils themselves but the moder…",
+      "url": "https://scitechdaily.com/seed-oils-under-fire-fact-checking-the-hype-and-health-claims/",
+      "urlToImage": "https://scitechdaily.com/images/Sunflower-Oil-in-Grocery-Store.jpg",
+      "publishedAt": "2024-12-17T22:52:34Z",
+      "content": "Seed oils such as sunflower and grapeseed are not inherently toxic as claimed by some public figures and social media influencers.\r\nDespite claims of toxicity, seed oils are largely safe and benefici… [+5575 chars]"
     },
     {
       "source": {
@@ -402,73 +467,8 @@
       "description": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null,
-      "publishedAt": "2024-12-17T16:56:17Z",
+      "publishedAt": "2024-12-09T08:00:00Z",
       "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Bruce Gil",
-      "title": "Weight loss drugs are getting people to the doctor. Now comes the wave of long-ignored diagnoses - Quartz",
-      "description": "Demand for weight loss drugs like Ozempic is also boosting diagnoses of conditions such as sleep apnea and cardiovascular disease",
-      "url": "https://qz.com/ozempic-glp-1-medical-care-diagnoses-1851722868",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/393b8e4dd26dd820ee37db810d717ce4.jpg",
-      "publishedAt": "2024-12-17T16:15:00Z",
-      "content": "In This Story\r\nPopular weight-loss drugs like Wegovy and Zepbound are boosting the use of healthcare in the U.S., leading to an uptick in patients getting diagnosed and starting prescriptions for oth… [+2093 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "The Galaxy S25 probably won’t have Qi2, but might have faster wireless charging - 9to5Google",
-      "description": "According to a report, Samsung's upcoming Galaxy S25 series won't support Qi2 in the sense we expect, but will get faster wireless charging.",
-      "url": "http://9to5google.com/2024/12/17/galaxy-s25-qi2-wireless-charging-report/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/galaxy-s25-leak-ah-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-12-17T15:50:00Z",
-      "content": "The Qi2 standard has seen hardly any adoption across Android, but has been rumored to be coming in the Galaxy S25 series. As it turns out, that’s probably not happening, but Samsung may be bringing b… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Sabrina Malhi",
-      "title": "Panel warns against vitamin D, calcium use to prevent falls in older adults - The Washington Post",
-      "description": "The guidance from the U.S. Preventive Services Task Force underscores the risks of supplementation without prior testing.",
-      "url": "https://www.washingtonpost.com/health/2024/12/17/vitamin-d-warning-older-adults/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJ442TAAOQI6ZB7APYD33HHCOA.jpg&w=1440",
-      "publishedAt": "2024-12-17T15:36:21Z",
-      "content": "A panel of independent health experts recommended Tuesday against older adults using vitamin D and calcium supplements to prevent falls and fractures citing inadequate evidence to support their effec… [+3452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Jack Khoury",
-      "title": "Gaza Is Now Counting 45,000 Dead, and Pleading for the World's Help. Is Anyone Listening? - Haaretz",
-      "description": "Even in Gaza, the figure was greeted with apathy. Many feel that death isn't the worst thing that could happen to them",
-      "url": "https://www.haaretz.com/middle-east-news/palestinians/2024-12-17/ty-article/.premium/gaza-is-now-counting-45-000-dead-and-pleading-for-the-worlds-help-is-anyone-listening/00000193-d46c-dd5d-a5bf-dc6d4dca0000",
-      "urlToImage": "https://img.haarets.co.il/bs/00000193-d4a4-d4ec-a5d3-f5ff71a00001/ef/ae/2a448dbc45cda46407ca88d9f237/804210-2.jpg?precrop=2400,1395,x0,y0&height=630&width=1200",
-      "publishedAt": "2024-12-17T13:15:00Z",
-      "content": "On Monday, the Gaza health ministry's announcement that the death toll in the enclave had reached 45,000 was met with indifference. The Arab and international news channels did not interrupt their pr… [+175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Josh Dinner",
-      "title": "SpaceX’s 31st Dragon cargo capsule departs ISS to head home to Earth - Space.com",
-      "description": "Dragon is expected to splash down off the coast of Florida tomorrow (Dec. 17).",
-      "url": "https://www.space.com/space-exploration/international-space-station/spacexs-31st-dragon-cargo-capsule-departs-iss-to-head-home-to-earth",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pZKGt9TbWfsiP7NbnUbXCW-1200-80.jpg",
-      "publishedAt": "2024-12-16T17:37:32Z",
-      "content": "SpaceX's 31st robotic cargo mission is headed back to Earth.\r\nSpaceX's Dragon cargo capsule undocked from the International Space Station (ISS) on schedule today (Dec. 16) at 11:05 a.m. EST (1605 GMT… [+3494 chars]"
     }
   ]
 }
