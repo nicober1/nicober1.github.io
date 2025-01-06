@@ -1,71 +1,409 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "espn",
+        "name": "ESPN"
       },
-      "author": null,
-      "title": "US winter storm: Kentucky and Virginia declare state of emergency - BBC.com",
-      "description": "Millions of Americans in eastern states brace for blizzards and treacherous ice as a severe winter storm spreads.",
-      "url": "https://www.bbc.com/news/articles/c0kvlkvzdgzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df67/live/16bc05f0-cae4-11ef-8d88-4f10fb85187a.jpg",
-      "publishedAt": "2025-01-05T07:55:19Z",
-      "content": "Tens of millions of Americans are bracing for a huge winter storm that could bring the heaviest snowfall and coldest temperatures in over a decade.\r\nThe storm, which started in the middle of the US, … [+2126 chars]"
+      "author": "Mike Reiss",
+      "title": "Pats fire Mayo after finishing 4-13 in lone season - ESPN",
+      "description": "The Patriots have fired coach Jerod Mayo after one season, the team announced Sunday.",
+      "url": "https://www.espn.com/nfl/story/_/id/43300017/patriots-fire-jerod-mayo-finishing-4-13-lone-season",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0102%2Fr1434091_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-01-05T22:23:00Z",
+      "content": "FOXBOROUGH, Mass. -- In a surprising turn, Jerod Mayo is out after one year as head coach of the New England Patriots, the team announced Sunday.\r\nThe Patriots finished the 2024 season with a 4-13 re… [+5014 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tori B. Powell, Maureen Chowdhury, Alli Rosenbloom, Dan Heching, Matt Meyer",
+      "title": "Live updates: The 2025 Golden Globe Awards - CNN",
+      "description": "The 82nd Golden Globe Awards will be held in Los Angeles tonight. “Hollywood’s biggest part of the year” will be hosted by comedian Nikki Glaser. Follow live updates.",
+      "url": "https://www.cnn.com/entertainment/live-news/golden-globes-show-01-05-25/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231214131214-golden-globes-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-05T22:17:42Z",
+      "content": "Welcome to our live coverage of the 82nd Golden Globes, which will kick off in just a few hours from Los Angeles, marking the start of the 2025 awards season.\r\nThe show will be broadcast live from it… [+2976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lorie Konish",
+      "title": "Biden signs bill to increase Social Security benefits for millions of public workers - CNBC",
+      "description": "The Social Security Fairness Act repeals two provisions that reduced Social Security benefits for some public workers who also receive pensions.",
+      "url": "https://www.cnbc.com/2025/01/05/biden-signs-social-security-bill-to-increase-benefits-for-millions-of-public-workers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108082234-17361144242025-01-05t215932z_1449445944_rc2x3ca7q5r3_rtrmadp_0_usa-biden.jpeg?v=1736114542&w=1920&h=1080",
+      "publishedAt": "2025-01-05T21:43:41Z",
+      "content": "President Joe Biden on Sunday signed the Social Security Fairness Act, bipartisan legislation that clears the way for teachers, firefighters, policeman and other public sector workers who also receiv… [+2971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Fox Business",
+      "title": "Costco cold remedy recalled due to possible ‘contamination’ - New York Post ",
+      "description": "Costco over-the-counter cold and flu medicine impacted for second time in less than a month.",
+      "url": "https://nypost.com/2025/01/05/business/costco-cold-remedy-recalled-due-to-possible-contamination/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/96268057.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-01-05T21:38:00Z",
+      "content": "A Costco-brand cold and flu medicine has been pulled from shelves “due to potential foreign material contamination.”\r\nA notice shared on the retail giant’s website says the recall of Kirkland Signatu… [+1997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2025 NFL playoff picture, bracket: Buccaneers land final NFC playoff spot, Packers stuck with seventh seed - CBS Sports",
+      "description": "Here's an up-to-date look at the NFL playoff race",
+      "url": "https://www.cbssports.com/nfl/news/2025-nfl-playoff-picture-bracket-buccaneers-land-final-nfc-playoff-spot-packers-stuck-with-seventh-seed/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/05/6952ef63-d033-43fe-add3-7bda65d99858/thumbnail/1200x675/6d152e9c297fc1425f063f681be983ba/bucs-win-5g.jpg",
+      "publishedAt": "2025-01-05T21:32:00Z",
+      "content": "Things always get kind of crazy during the final week of the NFL regular season, and this year was no different. \r\nThe Tampa Bay Buccaneers needed a win over the New Orleans Saints to clinch the NFC … [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hira Humayun, Lauren Izso",
+      "title": "Hamas approves Israeli list of hostages for potential exchange: Reuters - CNN",
+      "description": "Hamas has approved an Israeli list of 34 hostages to be exchanged in a possible ceasefire deal, Reuters reported, citing a Hamas official.",
+      "url": "https://www.cnn.com/2025/01/05/middleeast/hamas-hostages-list-israel-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/150325082132-social-gfx-breaking-news.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-05T21:21:00Z",
+      "content": "Hamas has approved an Israeli list of 34 hostages to be exchanged in a possible ceasefire deal, Reuters reported, citing a Hamas official.\r\nThe Israeli government denied receiving a list of hostages … [+3997 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "VOLODYMYR YURCHUK, ELISE MORTON",
+      "title": "Ukraine presses attacks in Russia’s Kursk region - The Associated Press",
+      "description": "Ukrainian President Volodymyr Zelenskyy says he will urge allies to boost his country's air defenses at a meeting this week in Germany. Both Moscow and Kyiv said Ukrainian forces pressed new attacks Sunday in Russia’s Kursk region. Zelenskyy said dozens of co…",
+      "url": "https://apnews.com/article/zelenskyy-ukraine-war-ramstein-russia-f6e591c4494e6a1e8560cbd86ab5693e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bb2c057/2147483647/strip/true/crop/3659x2058+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2Fa0%2F4a4dc66570a2e50d9186ef4e4cf8%2Fbe736e09dccd4f59b3bc2c3960a80612",
+      "publishedAt": "2025-01-05T21:15:00Z",
+      "content": "KYIV, Ukraine (AP) President Volodymyr Zelenskyy says he will urge allies to boost Ukraines air defenses at a meeting this week in Germany, while both sides said Kyivs forces pressed new attacks Sund… [+4995 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Jack Baer",
-      "title": "Derrick Rose moved to tears in Bulls halftime ceremony, to have his jersey number retired - Yahoo Sports",
-      "description": "Derrick Rose still feels the love in Chicago.",
-      "url": "https://sports.yahoo.com/derrick-rose-moved-to-tears-in-bulls-halftime-ceremony-to-have-his-jersey-number-retired-060615304.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A2WtaOvB9jpu..wNkKDPhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/8d0b40b0-cb28-11ef-bff7-928b38515d6b",
-      "publishedAt": "2025-01-05T06:06:00Z",
-      "content": "Derrick Rose felt the love in Chicago. (Photo by Geoff Stellfox/Getty Images)\r\nThe number retirement is still to come for Derrick Rose, but the former league MVP still felt plenty of love on Saturday… [+1921 chars]"
+      "author": "Kelly Coffey-Behrens",
+      "title": "Camila Cabello Packs On PDA With Billionaire Boyfriend While On Vacation - Yahoo Entertainment",
+      "description": "Camila Cabello’s romance with billionaire boyfriend Henry Junior Chalhoub is reaching sizzling new heights.",
+      "url": "https://www.yahoo.com/entertainment/camila-cabello-packs-pda-billionaire-203035509.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v66QADxZCoKW6MFyxy2enA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTY-/https://media.zenfs.com/en/theblast_73/e274cbb9b82f839f328195880cea2b74",
+      "publishedAt": "2025-01-05T20:30:35Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nC… [+4393 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "KIM TONG-HYUNG",
-      "title": "South Korean protesters brave cold to demand Yoon’s ouster as detention deadline looms - The Associated Press",
-      "description": "Hundreds of South Koreans, bundled up against freezing temperatures and snow, rallied overnight near the residence of impeached President Yoon Suk Yeol, calling for his ouster and arrest, as authorities prepared to renew their efforts to detain him over his s…",
-      "url": "https://apnews.com/article/south-korean-yoon-suk-yeol-martial-law-protests-snow-detention-c16cb90593c7a99673d12ffa0853dda8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/afae590/2147483647/strip/true/crop/7037x3958+0+367/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F6a%2Fd39dbf3d89740b6a4a173c9da350%2Fc54634cc69734e79bf42688a6e5993c2",
-      "publishedAt": "2025-01-05T06:03:00Z",
-      "content": "SEOUL, South Korea (AP) Hundreds of South Koreans, bundled up against freezing temperatures and snow, rallied overnight into Sunday near the residence of impeached President Yoon Suk Yeol, calling fo… [+7197 chars]"
+      "author": "Brian Heater",
+      "title": "Roborock’s Roomba competitor gets a robot arm - TechCrunch",
+      "description": "iRobot’s ongoing financial crisis aside, the world of robot vacuums is still humming along. At CES Sunday, Roborock announced the Saros Z70. The Roomba",
+      "url": "https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-05-at-3.02.22PM.jpg?resize=1200,811",
+      "publishedAt": "2025-01-05T20:18:28Z",
+      "content": "iRobots ongoing financial crisis aside, the world of robot vacuums is still humming along. At CES Sunday, Roborock announced the Saros Z70. The Roomba competitor showcases what the company believes w… [+1459 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Suntimes.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Georgia Nicols",
-      "title": "Horoscope for Sunday, January 5, 2025 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2025/01/05/horoscopes-today-sunday-january-5-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "publishedAt": "2025-01-05T06:01:50Z",
-      "content": "Moon Alert\r\nAvoid shopping or important decisions from 8 a.m. to 1:30 p.m. Chicago time. After that, the moon moves from Pisces into Aries.\r\nAries (March 21-April 19)\r\nYou will enjoy sleeping in this… [+3820 chars]"
+      "author": "Kelly Coffey-Behrens",
+      "title": "Adam Pally Breaks Silence On Friend Jeff Baena's Tragic Passing - Yahoo Entertainment",
+      "description": "Adam Pally, who worked with Jeff Baena on multiple projects, remembered his friend and the late director in a heartfelt tribute.",
+      "url": "https://www.yahoo.com/entertainment/adam-pally-breaks-silence-friend-200058248.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/85vWicsFXqos5l52KGyNAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTQ-/https://media.zenfs.com/en/theblast_73/3f25452786ce4b6a8b5bb5b3947a01a0",
+      "publishedAt": "2025-01-05T20:00:58Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+4175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T20:00:37Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Stephanie Kaloi",
+      "title": "Nancy Pelosi Says Trump’s Willingness to Pardon Jan. 6 Prisoners Makes Him ‘a Strange Person’ | Video - Yahoo! Voices",
+      "description": "That the president-elect is still fixated on the 2020 election results is \"really sad,\" she adds The post Nancy Pelosi Says Trump’s Willingness to Pardon Jan...",
+      "url": "https://www.yahoo.com/news/nancy-pelosi-says-trump-willingness-185307633.html",
+      "urlToImage": "https://media.zenfs.com/en/thewrap.com/8705cbe1fd3f3ec9c2e453a713243197",
+      "publishedAt": "2025-01-05T18:53:07Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nP… [+2619 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jason Samenow, Dan Stillman",
+      "title": "D.C. area faces biggest snowstorm in years, with over 6 inches forecast - The Washington Post",
+      "description": "A winter storm warning is in effect from Sunday night to Monday night for the entire D.C.-Baltimore region. Expect very difficult travel Monday; disruptions may continue Tuesday.",
+      "url": "https://www.washingtonpost.com/weather/2025/01/05/dc-region-snow-winter-storm-warning-ice/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LZ6OBKVKHWMBEEB5QMJ5UQBGVQ_size-normalized.JPG&w=1440",
+      "publishedAt": "2025-01-05T18:08:52Z",
+      "content": "A powerful and highly disruptive winter storm, which has produced a dangerous swath of snow and ice from the Midwest to the Ohio Valley, is poised to sweep across the Mid-Atlantic on Monday. Heavy sn… [+5015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Isabel Keane",
+      "title": "Quadrantid meteor shower to light up skies with dazzling ‘fireball’ shooting stars — and New Yorkers may be in luck - AOL",
+      "description": "The Quadrantid meteor shower — one of the best annual meteor showers — will be peaking overnight from Thursday to Friday, producing \"fireball\" brightness and...",
+      "url": "https://nypost.com/2024/12/29/science/quadrantid-meteor-shower-to-include-110-shooting-stars-an-hour/?utm_source=aol&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t5m1tjDVoYb_M3Dy6ufAyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_ny_post_us_news_articles_123/60fe4ce877855195b6ba3d8607575efa",
+      "publishedAt": "2025-01-05T17:43:28Z",
+      "content": "The stars have aligned for 2025.\r\nThe Quadrantid meteor shower one of the most dazzling annual meteor showers will be peaking overnight from Thursday to Friday, producing bright fireballs and up to 1… [+1915 chars]"
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
+      "author": "LINDSEY BAHR",
+      "title": "A Melania Trump documentary from director Bruce Ratner will be released by Amazon - The Associated Press",
+      "description": "Incoming first lady Melania Trump will be the subject of a new documentary directed by Brett Ratner and distributed by Amazon Prime Video. The streaming arm of the tech giant got exclusive licensing rights for a streaming and theatrical release later this yea…",
+      "url": "https://apnews.com/article/melania-trump-documentary-amazon-ratner-bezos-fc36fc99e3eff0a18ef8b72335af88f6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4ae6f89/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F7d%2Fd88fb678de52a93a2a78bc0b49b0%2F71f4558c28694646a590045bdbbd0fa1",
+      "publishedAt": "2025-01-05T17:35:00Z",
+      "content": "LOS ANGELES (AP) Incoming first lady Melania Trump will be the subject of a new documentary directed by Brett Ratner and distributed by Amazon Prime Video. The streaming arm of the tech giant got exc… [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
       "author": null,
-      "title": "Trump appears with Italian Prime Minister Meloni at his Florida club - The Associated Press",
-      "description": "President-elect Donald Trump made an appearance with Italian Prime Minister Giorgia Meloni, who was visiting his Mar-a-Lago club. Meloni's visit Saturday follows Argentina President Javier Milei, who became the first world leader to meet with Trump at Mar-a-L…",
-      "url": "https://apnews.com/article/trump-meloni-appearance-sala-florida-club-7dd479dde9a39f251ebf98730e42fcdb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5ba4c88/2147483647/strip/true/crop/4999x2812+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F3d%2F0333c2114cfcbf99eb7c570025b0%2F246b403827894047bad44385280dedc2",
-      "publishedAt": "2025-01-05T05:19:00Z",
-      "content": "PALM BEACH, Fla. (AP) President-elect Donald Trump made an appearance Saturday with Italian Prime Minister Giorgia Meloni, who was visiting his Mar-a-Lago club.\r\nMeloni follows Argentina President Ja… [+1764 chars]"
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T17:32:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
+      },
+      "author": null,
+      "title": "PennDOT, PA Turnpike issue updated vehicle restrictions for Sunday-Monday winter storm - WGAL Susquehanna Valley Pa.",
+      "description": "The start times of planned vehicle restrictions on several interstates have now been updated.",
+      "url": "https://www.wgal.com/article/penndot-pa-turnpike-issue-updated-vehicle-restrictions-for-sunday-monday-winter-storm/63340337",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/penndot-logo-1611622440.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-01-05T17:31:00Z",
+      "content": "HARRISBURG, Pa. —Ahead of anticipated winter weather across much of Pennsylvania Sunday night and Monday, the Pennsylvania Department of Transportation and the Pennsylvania Turnpike Commission are up… [+2918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Pamela McClintock",
+      "title": "Box Office: ‘Mufasa’ Wins With $23.8M, ‘Sonic 3’ Sits at No. 2 as Franchise Crosses $1B Globally - Hollywood Reporter",
+      "description": "Elsewhere, Golden Globes best picture contenders including 'Wicked,' 'A Complete Unknown' and 'The Brutalist' make gains on the eve of Sunday's show.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/mufasa-box-office-beats-sonic-3-1236099395/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/008_FR_0040_comp_v0436_R_1163_1_58_1-H-2024.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2025-01-05T17:28:55Z",
+      "content": "After a close holiday battle with Paramount’s Sonic the Hedgehog 3, Disney’s Mufasa: The Lion King safely pulled ahead to win the first weekend of the new year with $23.8 million as the film’s domest… [+3955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "NYC starts driver congestion charging despite opposition - Yahoo! Voices",
+      "description": "New York launched a controversial scheme Sunday to charge drivers entering parts of the city, a first in the United States, putting local authorities on a...",
+      "url": "https://www.yahoo.com/news/nyc-starts-driver-congestion-charging-051128852.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/03cef7454ea018c97629a5e002b2a06e",
+      "publishedAt": "2025-01-05T17:04:41Z",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nN… [+2812 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Belkin’s PowerGrip adds a magnetic battery and shutter button to your iPhone - The Verge",
+      "description": "Belkin has announced the Stage PowerGrip, a magnetic battery pack with a traditional camera-like grip that includes a shutter button for taking iPhone photos.",
+      "url": "https://www.theverge.com/2025/1/5/24335612/belkin-stage-powergrip-battery-pack-camera-grip-stand",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/J8uDqvjGBTLqXXR9a56lq0AXBVM=/179x104:1440x963/1200x628/filters:focal(1000x478:1001x479)/cdn.vox-cdn.com/uploads/chorus_asset/file/25816335/CTA003_PowerGrip_blue_2.png",
+      "publishedAt": "2025-01-05T17:00:00Z",
+      "content": "Belkins PowerGrip adds a magnetic battery and shutter button to your iPhone\r\nBelkins PowerGrip adds a magnetic battery and shutter button to your iPhone\r\n / Belkins PowerGrip MagSafe battery aims to … [+1592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T16:54:35Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sydney Lake",
+      "title": "Job recruiters are carrot-and-sticking candidates with work-from-home perks to get people to sign on at lower salaries - Fortune",
+      "description": "One employee benefits expert said this trend could lead to a second Great Resignation.",
+      "url": "https://fortune.com/2025/01/05/job-recruiters-managers-pay-remote-work-from-home-return-to-office/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/GettyImages-169983724-e1735933721374.jpg?resize=1200,600",
+      "publishedAt": "2025-01-05T16:08:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Arrowhead Pride"
+      },
+      "author": "Jared Sapp",
+      "title": "Chiefs-Broncos: 5 questions with the enemy: Will Denver finally clinch a playoff spot? - Arrowhead Pride",
+      "description": "We welcome Mile High Report for answers to five questions about the Broncos before Sunday’s Week 18 matchup.",
+      "url": "https://www.arrowheadpride.com/2025/1/5/24334931/chiefs-broncos-5-questions-with-the-enemy-will-denver-finally-clinch-a-playoff-spot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/H7yZf39WwFRJpFyaVcirLhTRfKo=/0x0:3133x1640/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25817814/2183423059.jpg",
+      "publishedAt": "2025-01-05T15:30:00Z",
+      "content": "On Sunday, the Kansas City Chiefs face the Denver Broncos. We welcome Ian St. Clair of Mile High Report our sister SB Nation site covering the Broncos for Five Questions with the Enemy.\r\n1. While the… [+3518 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ginger Adams Otis, Alison Sider",
+      "title": "‘Classic, Major’ Winter Storm Creates Dangerous Travel Conditions - The Wall Street Journal",
+      "description": "Around 60 million people in path of Winter Storm Blair could face heavy wind, snow and freezing rain",
+      "url": "https://www.wsj.com/us-news/climate-environment/classic-major-winter-storm-creates-dangerous-travel-conditions-08d662ae",
+      "urlToImage": "https://images.wsj.net/im-94272464/social",
+      "publishedAt": "2025-01-05T15:10:00Z",
+      "content": "A powerful winter storm unleashing heavy snow, ice and frigid temperatures across a large part of the U.S. snarled travel over the weekend, prompting a wave of flight cancellations and making roads h… [+318 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Israeli forces kill 200 in three days in Gaza, overwhelming hospitals - Al Jazeera English",
+      "description": "Although Israel claims it is targeting Hamas fighters, most of the victims are women and children.",
+      "url": "https://www.aljazeera.com/gallery/2025/1/5/israeli-attacks-on-gaza-kill-200-in-three-days-overwhelming-hospitals",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP25005333555002-1736072345.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-01-05T14:15:28Z",
+      "content": "Israeli attacks have killed more than 200 Palestinians across Gaza over the last three days as the military continues to hit residential buildings, people gathering in the streets, marketplaces, and … [+770 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Fernando Cervantes Jr.",
+      "title": "Powerball winning numbers for January 4 drawing: $200 million up for grabs - USA TODAY",
+      "description": "The Powerball jackpot of $200 million was up for grabs on Saturday night. Did you get lucky?",
+      "url": "https://www.usatoday.com/story/money/lottery/2025/01/05/powerball-winning-numbers/77444044007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/04/USAT/77444090007-usatsi-24676889.jpg?crop=2291,1288,x0,y0&width=2291&height=1288&format=pjpg&auto=webp",
+      "publishedAt": "2025-01-05T13:44:23Z",
+      "content": "The Powerball jackpot continued to rise again, reaching $206 million on Saturday after no one managed to match all five white balls and the red Powerball on Wednesdays drawing.\r\nThe second Powerball … [+3459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T13:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Even small amounts of alcohol can cause cancer, bottles should have warning: US Surgeon General - Hindustan Times",
+      "description": "US Surgeon General Dr Vivek Murthy recommends warning labels on alcoholic beverages due to their links to cancer.&nbsp;",
+      "url": "https://www.hindustantimes.com/world-news/us-news/even-small-amounts-of-alcohol-can-cause-cancer-bottles-should-have-warning-us-surgeon-general-vivek-murthy-101736081334080.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/01/05/1600x900/USA-HEALTH-ALCOHOL-POLITICS-1_1736081540893_1736081735750.JPG",
+      "publishedAt": "2025-01-05T12:59:18Z",
+      "content": "US Surgeon General, Dr Vivek Murthy, has issued an advisory recommending that alcoholic beverages like beer and wine carry warning labels about their links to cancer. The move comes as evidence mount… [+2592 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Protesters gather at impeached South Korean president's residence, as arrest warrant nears expiration - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/International/south-korea-president-yoon-warrant-protests-expiration-after-impeachment/story?id\\\\u003d117341925",
+      "urlToImage": null,
+      "publishedAt": "2025-01-05T12:36:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "By  JERUSALEM POST STAFF",
+      "title": "Hospitals in China overwhelmed by surge in HMPV patients raising concerns about a new epidemic - The Jerusalem Post",
+      "description": "Neighboring countries such as Cambodia, Taiwan, and Hong Kong are closely monitoring the HMPV situation, having reported a few cases but no widespread outbreaks.",
+      "url": "https://www.jpost.com/science/science-around-the-world/article-836122",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/642194",
+      "publishedAt": "2025-01-05T10:40:00Z",
+      "content": "China is experiencing a surge in cases of human metapneumovirus (HMPV), leading to overcrowded hospitals and raising public concern about a potential epidemic. The outbreak coincides with the winter … [+4369 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Marshall Cohen",
+      "title": "‘Deck chairs on the Titanic’: How Trump already upended DOJ’s ongoing efforts to arrest and prosecute January 6 rioters - CNN",
+      "description": "President-elect Donald Trump hasn’t been sworn in yet, but his looming return has already upended hundreds of pending prosecutions against his supporters who attacked the US Capitol on January 6, 2021, and has disrupted the ongoing effort to arrest more riote…",
+      "url": "https://www.cnn.com/2025/01/05/politics/trump-january-6-capitol-rioters/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230504132118-02-sketch-proud-boys-verdict.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-05T10:00:00Z",
+      "content": "President-elect Donald Trump hasnt been sworn in yet, but his looming return has already upended hundreds of pending prosecutions against his supporters who attacked the US Capitol on January 6, 2021… [+5844 chars]"
     },
     {
       "source": {
@@ -83,236 +421,15 @@
     {
       "source": {
         "id": null,
-        "name": "hoopsrumors.com"
+        "name": "PEOPLE"
       },
-      "author": null,
-      "title": "Warriors Notes: Kerr, Curry, Kuminga, Payton, Santos - hoopsrumors.com",
-      "description": "Steve Kerr wants the Warriors to wait a few weeks before pursuing any more trades.",
-      "url": "https://www.hoopsrumors.com/2025/01/warriors-notes-kerr-curry-kuminga-payton-santos.html",
-      "urlToImage": "https://cdn.hoopsrumors.com/files/2024/11/Steve-Kerr-900x600.jpg",
-      "publishedAt": "2025-01-05T05:02:00Z",
-      "content": "The Warriors won’t be in a hurry to make their next trade, writes Ohm Youngmisuk of ESPN. Speaking to reporters before tonight’s game, coach Steve Kerr said he wants to take a month or so to evaluate… [+3178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Akriti Anand",
-      "title": "HMPV outbreak in China: Is it a new virus? How is it similar to Covid-19? Is there any vaccine? What we know so far | Mint - Mint",
-      "description": "HMPV or Human Metapneumovirus, is not a newly discovered virus. The US Centers for Disease Control and Prevention (CDC) said it was first discovered in 2001. Should India be worried? Is there a vaccine to prevent the spread? Here’s all you need to know about …",
-      "url": "https://www.livemint.com/science/hmpv-outbreak-in-china-is-it-a-new-virus-how-is-it-similar-to-covid-19-is-there-any-vaccine-what-we-know-so-far-11736044379099.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/05/1600x900/The-Chandipura-virus-is-mainly-transmitted-by-vect_1724898468411_1736044493564.jpg",
-      "publishedAt": "2025-01-05T03:52:43Z",
-      "content": "An outbreak of Human Metapneumovirus (HMPV) in China has raised alarm globally. Several countries, including India, are monitoring the virus and its spread closely. But should one worry about it? How… [+4296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KLKN"
-      },
-      "author": "Mark Fischer",
-      "title": "Snow emergency issued in the City of Lincoln - KLKN",
-      "description": "According to the city, crews are on patrol treating the emergency snow routes, arterial streets, school and bus routes with salt and brine.",
-      "url": "https://www.klkntv.com/snow-emergency-issued-in-the-city-of-lincoln/",
-      "urlToImage": "https://www.klkntv.com/content/uploads/2021/01/mgn-1280x960-71214c00-kiteh.jpg",
-      "publishedAt": "2025-01-05T02:35:55Z",
-      "content": "LINCOLN, Neb. (KLKN) – The City of Lincoln issued a snow emergency Saturday evening effective immediately.\r\nA snow emergency parking ban was also put into place that will be in effect at midnight, me… [+513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Biden plans to send $8bn arms shipment to Israel - BBC.com",
-      "description": "The weapons consignment, which needs approval from House and Senate committees, includes air-to-air missiles.",
-      "url": "https://www.bbc.com/news/articles/cpvne94v1rdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8ef0/live/e2b7be50-cac7-11ef-94cb-5f844ceb9e30.jpg",
-      "publishedAt": "2025-01-05T02:27:09Z",
-      "content": "The US Department of State has notified Congress of a planned $8bn (£6.4bn) arms sale to Israel, an American official has confirmed to the BBC.\r\nThe weapons consignment, which needs approval from Hou… [+2587 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Holly Bailey, Lori Rozsa, Jim Lynn",
-      "title": "Jimmy Carter’s final trip begins with procession through rural Georgia - The Washington Post",
-      "description": "The motorcade bearing the former president’s casket passed through his beloved hometown of Plains before arriving in Atlanta.",
-      "url": "https://www.washingtonpost.com/nation/2025/01/04/jimmy-carter-funeral-plains-atlanta-georgia/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P7NVYTGI5UFPSGCWP5ATRJU5R4_size-normalized.jpg&w=1440",
-      "publishedAt": "2025-01-05T02:16:15Z",
-      "content": "ATLANTA The nation began its formal farewell to Jimmy Carter on Saturday, as the casket carrying the former president started its journey along the rural roads of south Georgia, where he spent much o… [+8465 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN",
-      "title": "Washington Post cartoonist resigns over paper’s refusal to publish satirical cartoon of Bezos and Trump - CNN",
-      "description": null,
-      "url": "https://www.cnn.com/2025/01/04/media/washington-post-cartoonist-ann-telnaes-resigns-bezos/index.html",
-      "urlToImage": null,
-      "publishedAt": "2025-01-05T02:03:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Natalie Oganesyan",
-      "title": "Jeff Baena Cause Of Death Revealed - Deadline",
-      "description": "A cause of death for Jeff Baena, the indie writer/filmmaker known for 'Life After Beth' and 'The Little Hours,' has been revealed.",
-      "url": "http://deadline.com/2025/01/jeff-baena-cause-of-death-1236246649/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/jeff-baena-1.jpg?w=1024",
-      "publishedAt": "2025-01-05T02:02:00Z",
-      "content": "Trigger warning: This article includes mention of suicide that readers may find disturbing.\r\nA cause of death for Jeff Baena, the indie writer/filmmaker known for Life After Beth and The Little Hours… [+1602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "2025 NFL Draft order: Browns clinch top-three pick with loss to Ravens, Giants no longer have shot at No. 1 - CBS Sports",
-      "description": "A look at the current draft order",
-      "url": "https://www.cbssports.com/nfl/draft/news/2025-nfl-draft-order-browns-clinch-top-three-pick-with-loss-to-ravens-giants-no-longer-have-shot-at-no-1/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/05/bf704545-035c-42e0-a8af-388c0a35ca2a/thumbnail/1200x675/8f976597d52a61a283dd927d63842166/stefanski-g.jpg",
-      "publishedAt": "2025-01-05T01:22:00Z",
-      "content": "The Cleveland Browns suffered an ugly 35-10 loss to the Baltimore Ravens on Saturday afternoon and clinched no worse than the third pick. They also assured the New York Giants cannot pick in the top … [+6212 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Brian Thevenot, Chris Kirkham",
-      "title": "Exclusive: New Orleans’ planned new Bourbon Street barriers only crash-rated to 10 mph - Reuters",
-      "description": "Documents reviewed by Reuters make clear that the system, which is expected to be in place by Super Bowl Sunday, will offer little protection against vehicle attacks at any significant speed.",
-      "url": "https://www.reuters.com/world/us/new-orleans-planned-new-bourbon-street-barriers-only-crash-rated-10-mph-2025-01-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/CTXYJHWEMFOI7JEJSFXEFOINTY.jpg?auth=d717446b5ca5f1d2d0c4b1f89b3d26e180198b613eb485c326ebc9cd954add43&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2025-01-05T00:56:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Filip Timotija",
-      "title": "New York Republican suggests hush money case helped to elect Trump: ‘Great irony’ - The Hill",
-      "description": "Rep. Mike Lawler (R-N.Y.) suggested the New York hush money case played a part in helping President-elect Trump win the 2024 presidential election against Vice President Harris.  “Well, the great irony in all of this is that I don’t think anyone did more to h…",
-      "url": "https://thehill.com/regulation/court-battles/5067507-new-york-republican-suggests-hush-money-case-helped-to-elect-trump-great-irony/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/12/lawlermichael_120524gn01_w.jpg?w=1280",
-      "publishedAt": "2025-01-05T00:53:00Z",
-      "content": "Skip to content\r\nRep. Mike Lawler (R-N.Y.) suggested the New York hush money case played a part in helping President-elect Trump win the 2024 presidential election against Vice President Harris. \r\n“W… [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle",
-      "title": "Austria: Chancellor to resign after coalition talks collapse - DW (English)",
-      "description": "There was political turbulence in Austria on Saturday night after coalition talks between the country's centrist parties broke down and Chancellor Karl Nehmammer announced his resignation. What happens next is unclear.",
-      "url": "https://www.dw.com/en/austria-chancellor-nehammer-to-resign-after-coalition-talks-collapse/a-71217910",
-      "urlToImage": "https://static.dw.com/image/70572743_6.jpg",
-      "publishedAt": "2025-01-04T22:18:23Z",
-      "content": "Austrian Chancellor Karl Nehammer has announced he will resign in the coming days after coalition talks between his Austrian People's Party (ÖVP) and the Social Democrats (SPÖ) collapsed.\r\n\"I will st… [+2193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bloomberg News",
-      "title": "Maduro Rival Seeks Biden Talks Before Venezuela’s Inauguration - Yahoo Finance",
-      "description": "(Bloomberg) -- Venezuela’s opposition leader plans to meet Washington lawmakers and speak with President Joe Biden next week ahead of his promised return to ...",
-      "url": "https://finance.yahoo.com/news/maduro-rival-seeks-biden-talks-202719906.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/d7luPtKkw_ft7f8xhrYi9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/a60713286fc6344b956158ce5e4ab1e1",
-      "publishedAt": "2025-01-04T20:27:19Z",
-      "content": "(Bloomberg) -- Venezuelas opposition leader plans to meet Washington lawmakers and speak with President Joe Biden next week ahead of his promised return to the oil-rich South American nation after an… [+2310 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": null,
-      "title": "Hey, Apple, Let's Shake Up the iPhone's Design in 2025 — Finally - CNET",
-      "description": "Commentary: Apple's current, ubiquitous phone design is rooted in the iPhone X and leaves some fans clamoring for a major upgrade. Meanwhile, other iPhone owners are switching to the Motorola Razr.",
-      "url": "https://www.cnet.com/tech/mobile/hey-apple-lets-shake-up-the-iphones-design-in-2025-finally/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/bd4d8402bc379cbfcb943791cf9f2c714b70b91b/hub/2022/08/11/648109a3-3b21-45d2-96f4-44350ee2accd/apple-stuff-ep-8cnet.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-01-04T20:00:00Z",
-      "content": "I'm sitting at a restaurant with a few pals, enjoying dim sum, when a friend asks whether he should upgrade to the iPhone 16. I ask him which iPhone he has. My friend ponders aloud, \"The iPhone 14? O… [+16199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Tim Lammers",
-      "title": "‘Mufasa: The Lion King’ Continues Rule Over Weekend Box Office - Forbes",
-      "description": "Disney’s “Mufasa: The Lion King” is looking to keep its box office crown with no big newcomers vying for business in theaters this weekend.",
-      "url": "https://www.forbes.com/sites/timlammers/2025/01/04/mufasa-the-lion-king-continues-rule-over-weekend-box-office/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67797e46fe504df622434b76/0x0.jpg?format=jpg&crop=1920,1080,x36,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-01-04T18:46:33Z",
-      "content": "Kiara (voiced by Blue Ivy Carter) and Simba (voiced by Donald Glover) \"Mufasa: The Lion King.\"\r\nDISNEY\r\nDisneys Mufasa: The Lion King is looking to keep its box office crown with no big newcomers vyi… [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Abid Ahsan Shanto",
-      "title": "Real-life Samsung Galaxy S25 Ultra leak shows razor-thin bezels of the upcoming flagship phone - Notebookcheck.net",
-      "description": "The Galaxy S25 series is around the corner, with Samsung expected to hold the next Unpacked event in late January. Ahead of the rumored launch timeline, a real-life image of the S25 Ultra has leaked, showcasing the phone’s razor-thin bezels.",
-      "url": "https://www.notebookcheck.net/Real-life-Samsung-Galaxy-S25-Ultra-leak-shows-razor-thin-bezels-of-the-upcoming-flagship-phone.940990.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Galaxy-S25-Ultra-leak-showing-slim-bezels.jpg",
-      "publishedAt": "2025-01-04T18:12:00Z",
-      "content": "Samsung is rumored to hold its new Unpacked event later this month, with the possible date being January 22. Recent leaks have already given a proper idea of what to expect from the upcoming flagship… [+1620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Evie Liu",
-      "title": "Why Regulating Alcohol Industry Is Tall Order Even After Surgeon General’s Cancer Warning - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/cancer-alcohol-regulation-surgeon-general-95f9ab1d",
-      "urlToImage": "https://images.barrons.com/im-30243778/social",
-      "publishedAt": "2025-01-04T17:36:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Steff Danielle Thomas",
-      "title": "McCarthy says Trump ‘unifier’ in propelling Johnson across Speaker finish line - The Hill",
-      "description": "Former Speaker Kevin McCarthy (R-Calif.) offered his congratulations to Speaker Mike Johnson (R-La.) after being reelected to the leadership role Friday but suggested that President-elect Trump should get the credit. “Congratulations first to Speaker Johnson.…",
-      "url": "https://thehill.com/homenews/house/5067106-kevin-mccarthy-mike-johnson-donald-trump-speakership-race/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/AP23348654922389-e1736003241913.jpg?w=1280",
-      "publishedAt": "2025-01-04T16:44:00Z",
-      "content": "Skip to content\r\nFormer Speaker Kevin McCarthy (R-Calif.) offered his congratulations to Speaker Mike Johnson (R-La.) after being reelected to the leadership role Friday but suggested that President-… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thequantuminsider.com"
-      },
-      "author": "Matt Swayne",
-      "title": "Sudden Transition in Superconductors Could Shift Quantum Technology Into High Gear - The Quantum Insider",
-      "description": "Researchers discovered that highly disordered superconductors undergo abrupt first-order quantum phase transitions.",
-      "url": "https://thequantuminsider.com/2025/01/04/sudden-transition-in-superconductors-could-shift-quantum-technology-into-high-gear/",
-      "urlToImage": "https://thequantuminsider.com/wp-content/uploads/2025/01/Screenshot-2025-01-04-at-11.11.04 AMNEW.png",
-      "publishedAt": "2025-01-04T16:20:14Z",
-      "content": null
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "Scientists Find Largest Dinosaur Footprint Site Ever Found in the U.K. — Here’s Why It’s ‘Exhilarating’ - AOL",
+      "description": "Researchers in England have found the largest dinosaur footprint site ever discovered in the U.K. about 60 miles northwest of London. The tracks date back to 166 million years ago and appear to belong to two distinct types of dinosaurs.",
+      "url": "https://people.com/scientists-find-largest-dinosaur-footprint-track-site-ever-found-uk-8768987",
+      "urlToImage": "https://people.com/thmb/ZpADeIkLEmAjNAJEUyOyq_DxEQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(638x410:640x412)/dinosaur-footprint-02-010325-6cf996a515c146cfac5572a8be6ab3c2.jpg",
+      "publishedAt": "2025-01-04T20:11:39Z",
+      "content": "Scientists have found the U.K.s largest dinosaur footprint site ever.\r\nThe tracks were discovered in a quarry in Oxfordshire about 60 miles northwest of London by quarry employee Gary Johnson, accord… [+3218 chars]"
     },
     {
       "source": {
@@ -330,106 +447,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Isaac Schultz and Passant Rabie",
-      "title": "All the Space News We’re Excited About in 2025: Launches, First Lights, Flybys, and More - Gizmodo",
-      "description": "A year of discovery awaits, with missions poised to reveal new insights about our home planet, solar system, galaxy, and beyond.",
-      "url": "https://gizmodo.com/all-the-space-news-were-excited-about-in-2025-launches-first-lights-flybys-and-more-2000543260",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Space-Preview-2025.jpg",
-      "publishedAt": "2025-01-04T13:01:06Z",
-      "content": "2024 was s huge year for our understanding of the cosmos and the spaceflight industry writ large. But out with the old, in with the new, so we must turn our heads towards the ambitious projects that … [+14305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angela Mae",
-      "title": "The New Retirement Problem Boomers Are Facing - Yahoo Finance",
-      "description": "Baby boomer homeowners are sitting on a ton of equity right now. According to the Federal Reserve, they hold $17.3 trillion in home equity, roughly 50% of...",
-      "url": "https://finance.yahoo.com/news/retirement-problem-boomers-facing-120426266.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wj2otLIcO3pnlgEwdD195Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/79634ad0dde246c73338c23a0c5b889d",
-      "publishedAt": "2025-01-04T12:04:26Z",
-      "content": "Baby boomer homeowners are sitting on a ton of equity right now. According to the Federal Reserve, they hold $17.3 trillion in home equity, roughly 50% of the countrys total equity. This is in large … [+4629 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Brett Tingley",
-      "title": "SpaceX launches 1st Falcon 9 rocket of 2025, sends Thuraya 4 communications satellite to orbit (video) - Space.com",
-      "description": "This was the 20th flight and recovery for this Falcon 9 first stage booster, and SpaceX's 341st recovery of an orbital-class rocket.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-1st-falcon-9-rocket-of-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6dEQD8kozATFYG4cKoXfGk-1200-80.jpg",
-      "publishedAt": "2025-01-04T02:14:09Z",
-      "content": "SpaceX launched its first Falcon 9 rocket of 2025 tonight, in what should be another busy year for the company.\r\nA SpaceX Falcon 9 rocket took off on Friday (Jan. 3) at 8:27 p.m. EST (0127 GMT) from … [+2507 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Lindsey Leake",
-      "title": "Bird flu could merge with seasonal flu to make mutated virus that could spread among humans, CDC warns - Fortune",
-      "description": "The 2024–25 seasonal influenza vaccine doesn’t prevent H5N1 bird flu but could play a pivotal role in preventing a pandemic, the CDC says.",
-      "url": "https://fortune.com/well/article/bird-flu-h5n1-2024-2025-seasonal-influenza-vaccine/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/GettyImages-1353118021-e1735924019960.jpg?resize=1200,600",
-      "publishedAt": "2025-01-03T22:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple Intelligence errors with news alerts keep piling up, here’s the latest - 9to5Mac",
-      "description": "Apple Intelligence continues to spread misinformation via error-filled news alert summaries, and the BBC has several new examples to share.",
-      "url": "https://9to5mac.com/2025/01/03/apple-intelligence-errors-with-news-alerts-keep-piling-up/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-intelligence_33d1ce.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-01-03T20:34:00Z",
-      "content": "Apple Intelligence notification summaries are, in my view, one of the early killer AI features. But theyre not without their flaws, as the BBC has continued highlighting via several new examples toda… [+1927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
+        "name": "SciTechDaily"
       },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2025-01-03T18:16:43Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Net neutrality rules about corporate control over internet speeds blocked by federal appeals court - CBS News",
-      "description": "A federal appeals court has ruled that the FCC overstepped its authority by reinstating \"net neutrality\" rules governing internet service providers.",
-      "url": "https://www.cbsnews.com/news/net-neutrality-rules-blocked-federal-appeals-court/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/03/74cb8d49-4dfc-46c2-9834-63125dc9fb62/thumbnail/1200x630/416300947e94b7162940e54dc286a333/ap24116651634855.jpg?v=fa9977353833f46f40b07abcd9d5240b",
-      "publishedAt": "2025-01-03T12:28:52Z",
-      "content": "A federal appeals court on Thursday ruled that US regulators overstepped their authority by reinstating \"net neutrality\" rules governing internet service providers, dealing a blow to the Biden admini… [+1878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WXII12 Winston-Salem"
-      },
-      "author": "Megan Camponovo",
-      "title": "Who will shine at the Golden Globes? Predictions for the award show's TV categories - WXII12 Winston-Salem",
-      "description": "With the Golden Globes on Sunday, here is what we predict will win awards in the television categories.",
-      "url": "https://www.wxii12.com/article/golden-globes-2025-tv-predictions/63324984",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/golden-globe-awards-1578272995.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "publishedAt": "2025-01-03T01:41:00Z",
-      "content": "The Golden Globes are on Sunday and after another year of great TV, many wonder who will take home the nights biggest prizes.\r\nWill The Bear continue to dominate at the Golden Globes like it did last… [+8559 chars]"
+      "title": "Storm Surfers: How Bats Harness Weather to Travel Thousands of Miles - SciTechDaily",
+      "description": "Scientists used ultra-light sensors connected “like cell phones” across Europe to study how bats migrate over the continent. Birds may dominate the skies when it comes to long-distance travel, but they’re not the only masters of epic journeys. A select few ba…",
+      "url": "https://scitechdaily.com/storm-surfers-how-bats-harness-weather-to-travel-thousands-of-miles/",
+      "urlToImage": "https://scitechdaily.com/images/Flying-Bats-Close.jpg",
+      "publishedAt": "2025-01-02T19:00:34Z",
+      "content": "Scientists have made a significant discovery about how common noctule bats navigate long distances by riding storm fronts across Europe.\r\nScientists used ultra-light sensors connected “like cell phon… [+5843 chars]"
     }
   ]
 }
