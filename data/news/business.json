@@ -1,58 +1,318 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": "Ramishah Maruf",
-      "title": "Starbucks ordered to pay $50 million to delivery driver burned by hot coffee - CNN",
-      "description": "A jury in California on Friday ordered Starbucks to pay $50 million in damages to a delivery driver who was severely burned by an improperly secured lid on hot beverages.",
-      "url": "https://www.cnn.com/2025/03/14/business/starbucks-hot-coffee-driver-verdict/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2018-10-19t192032z-223074308-rc198d2cd6a0-rtrmadp-3-starbucks-results.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-03-14T23:13:00Z",
-      "content": "A jury in California on Fridayordered Starbucks to pay $50 million in damages to a delivery driver who was severely burned by an improperly secured lid on hot beverages.\r\nMichael Garcia was picking u… [+1452 chars]"
+      "author": "Patricia Battle",
+      "title": "Beloved retailer in Chapter 11 bankruptcy angers customers - TheStreet",
+      "description": "The retail chain has just made a move that infuriated its loyal customer base.",
+      "url": "https://www.thestreet.com/retail/joann-is-going-out-of-business-but-theres-one-major-problem",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTkwODY1NjA3MjUwNDIxNDMw/retail-shopping-lead-js.jpg",
+      "publishedAt": "2025-03-15T19:46:10Z",
+      "content": "Joann, a popular fabric retail chain founded in 1943, has had a rough few months.\r\nThe company filed for Chapter 11 bankruptcy in January, claiming it had accumulated $615.7 million in debt. This for… [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ambcrypto.com"
+      },
+      "author": "Samantha LKM",
+      "title": "Is Bitcoin’s price at risk? THIS on-chain indicator is flashing red! - AMBCrypto News",
+      "description": "Is a surge ahead or will it be a deeper correction for the world's largest cryptocurrency?",
+      "url": "https://ambcrypto.com/is-bitcoins-price-at-risk-this-on-chain-indicator-is-flashing-red/",
+      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/03/Samyukhtha-5-1-1000x600.webp",
+      "publishedAt": "2025-03-15T19:02:34Z",
+      "content": "This metric isolates the cost basis of older UTXOs (unspent transaction outputs), offering insights into the behavior of long-term holders. These investors typically accumulate during bear markets an… [+1913 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Sarah Parvini",
+      "title": "Cybersecurity officials warn against potentially costly Medusa ransomware attacks - The Associated Press",
+      "description": "The FBI and the U.S. Cybersecurity and Infrastructure Security Agency are warning email users against a dangerous ransomware scheme. In an advisory posted earlier this week, government officials warned that a ransomware-as-a-service software called Medusa has…",
+      "url": "https://apnews.com/article/fbi-cisa-gmail-outlook-cyber-security-email-6ed749556967654ff41a629a230973e6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0949878/2147483647/strip/true/crop/4896x2754+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2Fc4%2Fed636d4a5e54bc8d6bea77e10165%2F7e4326d567c240ec9f832bba54cf9e51",
+      "publishedAt": "2025-03-15T18:04:00Z",
+      "content": "LOS ANGELES (AP) The FBI and the U.S. Cybersecurity and Infrastructure Security Agency are warning against a dangerous ransomware scheme.\r\nIn an advisory posted earlier this week, government official… [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Patricia Battle",
+      "title": "Dollar General CEO flags alarming shift in customer behavior - TheStreet",
+      "description": "The CEO is sounding the alarm on a growing problem.",
+      "url": "https://www.thestreet.com/retail/dollar-general-ceo-flags-alarming-shift-in-customer-behavior",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTkwODQ4Nzk4NjI4MzI0OTQ1/dollar-general.jpg",
+      "publishedAt": "2025-03-15T16:35:07Z",
+      "content": "Dollar General  (DG) , which has almost 20,000 locations nationwide, is starting to feel the impact of an unexpected shift in customer behavior, and its CEO is flagging the source of the problem.\r\nIn… [+4219 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "California man wins $50 million in lawsuit over burns from Starbucks tea - The Associated Press",
+      "description": "A delivery driver has won $50 million in a lawsuit after being seriously burned when a Starbucks drink spilled in his lap at a California drive-through. Court records show a Los Angeles County jury found Friday for Michael Garcia. He underwent skin grafts and…",
+      "url": "https://apnews.com/article/starbucks-hot-tea-lawsuit-50-million-b0d4902af6b4d3d50944c8eb5594b9e9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/98d5ed9/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F59%2F457623591b82fdf96b0bd1935247%2Fd54d4dd542e34e62bb263e48b773c047",
+      "publishedAt": "2025-03-15T16:33:00Z",
+      "content": "LOS ANGELES (AP) A delivery driver has won $50 million in a lawsuit after being seriously burned when a Starbucks drink spilled in his lap at a California drive-through, court records show. \r\nA Los A… [+1612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ambcrypto.com"
+      },
+      "author": "Benjamin Njiri",
+      "title": "GENIUS Act’s current form is ‘great for Tether USDT’ – Here’s why! - AMBCrypto News",
+      "description": "Here's how the GENIUS Act's provisions could impact Tether's operations in the U.S.",
+      "url": "https://ambcrypto.com/genius-acts-current-form-is-great-for-tether-usdt-heres-why/",
+      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/03/Benjamin92-1000x600.jpg",
+      "publishedAt": "2025-03-15T15:02:38Z",
+      "content": "<ul><li>According to analysts, the GENIUS Act could accommodate Tether with slight conditions</li><li>The U.S. Senate Banking Committee has advanced the bill for debate and a vote</li></ul>The U.S. s… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Sander Lutz",
+      "title": "House Bill to Build Trump’s Bitcoin Reserve Has One Major Difference - Decrypt",
+      "description": "A new House bill from a Trump ally would codify a federal Bitcoin Reserve—but it differs in one key way from the bill introduced in the Senate.",
+      "url": "https://decrypt.co/310039/house-bill-trump-bitcoin-reserve-one-major-difference",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/us-congress-crypto-disclosures-madison-cawthorn-gID_7.jpg",
+      "publishedAt": "2025-03-15T15:01:02Z",
+      "content": "On Friday, Rep. Byron Donalds (R-FL) introduced legislation in the House of Representatives that would enshrine into law President Donald Trumps proposed Strategic Bitcoin Reservebut the bill is cruc… [+3111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Brett Wilkins",
+      "title": "Postmaster General Louis DeJoy Teams Up With DOGE to Gut USPS - Truthout",
+      "description": "A planned reduction of 10,000 workers stoked fears that the US Postal Service is on a path toward privatization.",
+      "url": "https://www.commondreams.org/news/dejoy-doge",
+      "urlToImage": "https://truthout.org/app/uploads/2025/03/GettyImages-1450776321-scaled.jpg",
+      "publishedAt": "2025-03-15T14:08:22Z",
+      "content": "U.S. Postmaster General Louis DeJoy’s Thursday announcement that the independent United States Postal Service is partnering with the Department of Government Efficiency on a cost-cutting crusade that… [+6599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "After Elon Musk Promised Cybertrucks Could Function as Boats, One Fell Into a Harbor for a Perfect Test - Futurism",
+      "description": "One Cybertruck driver in California accidentally discovered a unique new mode to park his pickup truck of the future.",
+      "url": "https://futurism.com/the-byte/cybertruck-drives-into-harbor",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/03/cybertruck-drives-into-harbor.jpg",
+      "publishedAt": "2025-03-15T13:45:17Z",
+      "content": "Cybertrucks can truly do it all. The bulky electric pickups can produce fire at a moment's notice, excel at collecting trash, and have even been known to shed body panels for Bond-style getaways.\r\nAr… [+2281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Darla Mercado, CFP®",
+      "title": "Trump’s Canadian tariffs are having a chilling effect on Vermont’s small business owners - CNBC",
+      "description": "The Green Mountain State's small businesses are getting caught in the tariff crossfire between the United States and Canada.",
+      "url": "https://www.cnbc.com/2025/03/15/trumps-canadian-tariffs-are-having-a-chilling-effect-on-vermonts-small-business-owners.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115890-1741914909651-RYAN_CHRISTIANSEN.jpg?v=1741965965&w=1920&h=1080",
+      "publishedAt": "2025-03-15T13:00:22Z",
+      "content": "President Donald Trump's tariff rhetoric against Canada has only started to heat up, but Vermont's small businesses are already feeling some pain.\r\nA shipment of spirits, ordered by the Société des a… [+4926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "Alex Halverson",
+      "title": "On the menu for Starbucks: DEI, layoffs, and its CEO’s corporate jet use - The Seattle Times",
+      "description": "Starbucks CEO defended DEI policies and addressed layoffs during shareholders meeting.",
+      "url": "https://www.seattletimes.com/business/on-the-menu-for-starbucks-dei-layoffs-and-the-ceos-private-jet-bill/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/03/03142025_tzr_tzr_133116.jpg?d=1200x630",
+      "publishedAt": "2025-03-15T13:00:00Z",
+      "content": "Starbucks CEO Brian Niccol is focused on bringing the company back to its roots. During his first shareholders meeting this week he repeated two of the concepts guiding his changes: a simpler company… [+6563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Rachel Wolf",
+      "title": "What to know in the final days of store closures for Party City, Joann and more - Fox Business",
+      "description": "Several major retailers are holding massive sales as they prepare to shutter all or many of their store locations. Here's what you need to know when you go shopping.",
+      "url": "https://www.foxbusiness.com/retail/what-know-final-days-store-closures-party-city-joann-more",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/store-closure-4.jpg?ve=1&tl=1",
+      "publishedAt": "2025-03-15T12:48:00Z",
+      "content": "Massive retail chains across the country are entering the end of their liquidation and going-out-of-business sales, including Big Lots, Party City, Joann and Macy’s. Party City and Joann customers ha… [+4940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "James Ochoa",
+      "title": "Tesla sends dire warning about escalating the trade war - TheStreet",
+      "description": "The Elon Musk-led automaker is the latest to sound the alarm about its logistics.",
+      "url": "https://www.thestreet.com/electric-vehicles/tesla-sends-dire-warning-about-escalating-the-trade-war",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjEzNDM2NDUxNzM4NjI1ODg1/president-trump-speaks-alongside-tesla-vehicles-at-the-white-house.jpg",
+      "publishedAt": "2025-03-15T12:07:00Z",
+      "content": "Elon Musk-led electric automaker Tesla  (TSLA)  has issued a dire warning to the Trump administration about the ongoing trade war. The company said that it could be a target for retaliatory tariffs a… [+4262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "Goodbye to 'bags fly free' on Southwest, the last airline freebie in America - CNBC",
+      "description": "Southwest's customer-focused business model won it a loyal following during its half-century of flying.",
+      "url": "https://www.cnbc.com/2025/03/15/goodbye-free-bags-southwest-airlines.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108103988-1739914222500-gettyimages-2200464038-l1123504_copy_y8rowqdt.jpeg?v=1739914342&w=1920&h=1080",
+      "publishedAt": "2025-03-15T12:00:01Z",
+      "content": "Passengers check in for Southwest Airlines flights at Chicago Midway International Airport on Feb. 18, 2025 in Chicago, Illinois.\r\nAlmost nothing is guaranteed in life. Certainly not weather, electri… [+10086 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jess Menton, Alexandra Semenova",
+      "title": "Wall Street’s View on S&P 500 Profits Is Souring as Tariffs Loom - Bloomberg",
+      "description": "Wall Street’s confidence in Corporate America’s profit engine is fraying, threatening more turbulence ahead for a badly bruised US stock market.",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-15/wall-street-s-view-on-s-p-500-profits-is-souring-as-tariffs-loom",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzqEzYCZatE/v1/1200x800.jpg",
+      "publishedAt": "2025-03-15T12:00:00Z",
+      "content": "Wall Streets confidence in Corporate Americas profit engine is fraying, threatening more turbulence ahead for a badly bruised US stock market.\r\nThough the broad outlook for corporate earnings remains… [+299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Elon Musk says first SpaceX mission to Mars will launch next year - BBC.com",
+      "description": "The billionaire says an unmanned mission by his SpaceX \"Starship\" vehicle will be followed by human landings as early as 2029.",
+      "url": "https://www.bbc.com/news/articles/cx2g88y52y8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84cb/live/9e3ff310-01a8-11f0-a8b1-950887ddc6e5.jpg",
+      "publishedAt": "2025-03-15T11:16:03Z",
+      "content": "SpaceX founder Elon Musk has said his Starship rocket will head to Mars by the end of next year, as the company investigates several recent explosions in flight tests.\r\nHuman landings could begin as … [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Brittany Miller",
+      "title": "Popular coffee creamer recalled due to illness and spoilage complaints - The Independent",
+      "description": "Over 75,000 bottles of International Delight coffee creamer were recalled",
+      "url": "https://www.the-independent.com/life-style/food-and-drink/coffee-creamer-recalled-international-delight-b2715784.html",
+      "urlToImage": "https://static.the-independent.com/2025/03/14/20/34/gettyimages-2141444731-170667a.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-03-15T07:22:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3724 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "The Wall Street Journal",
-      "title": "Stock Market Today: Dow Rises More Than 600 Points After Shutdown Averted - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-nasdaq-sp500-03-14-2025",
-      "urlToImage": null,
-      "publishedAt": "2025-03-14T21:42:00Z",
+      "author": "Rachel Louise Ensign, Natasha Khan, Ruth Simon",
+      "title": "Consumers and Businesses Send Distress Signal as Economic Fear Sets In - The Wall Street Journal",
+      "description": "Canceled trips, fewer dinner parties and falling sales: ‘We are cutting back on virtually everything’",
+      "url": "https://www.wsj.com/economy/consumers/consumers-and-businesses-send-distress-signal-as-economic-fear-sets-in-f58d0659",
+      "urlToImage": "https://images.wsj.net/im-09259090/social",
+      "publishedAt": "2025-03-15T04:01:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": "Julia Shapero",
-      "title": "Bondi tells Tesla vandals to ‘watch out’ - The Hill",
-      "description": "Attorney General Pam Bondi warned Tesla vandals to “watch out” Friday, as the Trump administration seeks to crack down on those targeting Tesla dealerships and cars. Bondi said she has opened an investigation into the violent demonstrations taking aim at Elon…",
-      "url": "https://thehill.com/policy/technology/5195750-bondi-tells-tesla-vandals-to-watch-out/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/bondipam_011525gn20_w.jpg?w=1280",
-      "publishedAt": "2025-03-14T21:37:00Z",
-      "content": "Skip to content\r\nAttorney General Pam Bondi warned Tesla vandals to “watch out” Friday, as the Trump administration seeks to crack down on those targeting Tesla dealerships and cars.\r\nBondi said she … [+2454 chars]"
+      "author": "Samuel O'Brient",
+      "title": "Investors may be losing faith in both Elon Musk and Tesla stock - TheStreet",
+      "description": "Share prices may be going up right now but short interest isn't going down.",
+      "url": "https://www.thestreet.com/technology/investors-may-be-losing-faith-in-both-elon-musk-and-tesla-stock",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA4MzU2NDUzMjczMDUyODE2/stocks_selloff_3.jpg",
+      "publishedAt": "2025-03-15T03:03:00Z",
+      "content": "Despite some slight momentum over the past week, Tesla  (TSLA)  stock remains in the red for the past five days. Even after shares rose today, the struggling company isn’t giving investors more cause… [+4702 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Bianca Chan, Emmalyse Brownstein",
-      "title": "JPMorgan staff are using a private chat to vent about the incoming RTO mandate — and share intel - Business Insider",
-      "description": "Some JPMorgan employees awaiting details on RTO enforcement have received some clues from an internal document leak.",
-      "url": "https://www.businessinsider.com/jpmorgan-employees-return-to-office-enforcement-tracking-tools-guidance-2025-3",
-      "urlToImage": "https://i.insider.com/67d1fd18b8b41a9673fa7a5a?width=1200&format=jpeg",
-      "publishedAt": "2025-03-14T21:26:00Z",
-      "content": "In a private group chat formed after JPMorgan's January announcement that all employees would be called back to the office full-time, a few hundred people have turned to the forum to air their concer… [+5083 chars]"
+      "author": "Katherine Li",
+      "title": "Canadian grocery stores are sidelining US products — and American businesses are feeling the pinch - Business Insider",
+      "description": "Canadian customers are telling US businesses they will stop buying US products, as Canadian grocers adopt measures to favor locally produced products.",
+      "url": "https://www.businessinsider.com/canadian-grocers-sideline-us-products-boycott-hit-us-agriculture-businesses-2025-3",
+      "urlToImage": "https://i.insider.com/67d36c50585f1dff88b21f8b?width=1200&format=jpeg",
+      "publishedAt": "2025-03-15T00:32:00Z",
+      "content": "Canadian businesses large and small have been turning down American products, starting with non-essentials like alcohol, and spreading toward a wider variety of food products that economic experts sa… [+4228 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Another arrest made in vandalism at Colorado Tesla dealership - The Associated Press",
+      "description": "Authorities say second person suspected of using an “incendiary device” following a string of vandalism at a Colorado Tesla dealership has been arrested. Police in Loveland, Colorado, said Friday that a 29-year-old man was arrested Thursday in connection with…",
+      "url": "https://apnews.com/article/tesla-vandalism-colorado-450ac36080615a2622601248885f41c7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "publishedAt": "2025-03-14T23:58:00Z",
+      "content": "DENVER (AP) A second person suspected of using an incendiary device following a string of vandalism at a Colorado Tesla dealership has been arrested, police said Friday.\r\nThe 29-year-old man was arre… [+849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Asia Times"
+      },
+      "author": "Yong Jian",
+      "title": "Beijing calls Li Ka-shing a ‘traitor’ in Panama ports deal - Asia Times",
+      "description": "Beijing criticized Li Ka-shing for betraying all Chinese people after his company decided to sell most of its global ports to BlackRock.",
+      "url": "https://asiatimes.com/2025/03/beijing-calls-li-ka-shing-a-traitor-in-panama-ports-deal/",
+      "urlToImage": "https://asiatimes.com/wp-content/uploads/2018/01/Li-ka-shing_on-phone.jpg",
+      "publishedAt": "2025-03-14T22:57:49Z",
+      "content": "Beijing criticized Hong Kong tycoon Li Ka-shing for “betraying all Chinese people” after his flagship company announced its plan to sell most of its global ports, including two at the Panama Canal, t… [+6879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "California Allows State Farm’s Emergency 22% Hike in Homeowner’s Insurance Rates - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/state-farm-home-insurance-california-ae2c37e5",
+      "urlToImage": null,
+      "publishedAt": "2025-03-14T21:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Aisha S Gani, Bailey Lipschultz, Jennifer Surane",
+      "title": "Klarna Files Publicly for US IPO, Disclosing 24% Revenue Jump - Bloomberg",
+      "description": "Klarna Group Plc filed publicly for a US IPO in what could be one of the year’s biggest financial company listings.",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-14/klarna-files-publicly-for-us-ipo-disclosing-24-revenue-jump",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAGv0CO1Zokg/v1/1200x800.jpg",
+      "publishedAt": "2025-03-14T21:41:31Z",
+      "content": "Klarna Group Plc filed publicly for a US IPO in what could be one of the years biggest financial company listings.\r\nThe Stockholm-founded digital payments companys revenue climbed 24% last year. Klar… [+304 chars]"
     },
     {
       "source": {
@@ -82,42 +342,29 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "MarketWatch"
       },
-      "author": "Julie Bort",
-      "title": "Profitable Klarna files for a potentially blockbuster IPO - TechCrunch",
-      "description": "Swedish fintech Klarna took the next step in its highly anticipated U.S. IPO on Friday when it made its F-1 public. Here are the top take-aways. Swedish fintech Klarna took the next step in its highly anticipated U.S. IPO on Friday when it made its S-1 public…",
-      "url": "https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/Sebastian-Siemiatkowski-Klarna-DSC09671.jpg?resize=1200,800",
-      "publishedAt": "2025-03-14T21:16:38Z",
-      "content": "Swedish fintech Klarna took the next step in its highly anticipated U.S. IPO on Friday when it made its F-1 prospectus public. We are sifting through the document now.\r\nKlarna hopes to raise at least… [+1875 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Denitsa Tsekova, Lu Wang, Isabelle Lee",
-      "title": "Wall Street Battered Again by Trump Chaos as New Winners Emerge - Bloomberg",
-      "description": "This is the market Ben Inker has been waiting for. In the grip of Wall Street’s rebellion against President Donald Trump’s tariff agenda – with stocks down around 2% this week even after Friday’s big rebound – Inker is among a cohort of investors making money…",
-      "url": "https://www.bloomberg.com/news/articles/2025-03-14/wall-street-battered-again-by-trump-chaos-as-new-winners-emerge",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBQL5X8tK.VM/v0/1200x800.jpg",
-      "publishedAt": "2025-03-14T21:02:49Z",
-      "content": "This is the market Ben Inker has been waiting for. In the grip of Wall Streets rebellion against President Donald Trumps tariff agenda with stocks down around 2% this week even after Fridays big rebo… [+509 chars]"
+      "author": "MarketWatch",
+      "title": "Wall Street strategist who predicted stock-market chaos says wait to buy again - MarketWatch",
+      "description": null,
+      "url": "https://www.marketwatch.com/story/this-wall-street-strategist-saw-the-stock-market-chaos-coming-he-says-investors-should-wait-to-buy-shares-again-4c472ef7",
+      "urlToImage": null,
+      "publishedAt": "2025-03-14T21:07:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Investopedia"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Aaron McDade",
-      "title": "Why Some Tesla Bears Say the Stock Could Lose Nearly Half Its Value, Again - Investopedia",
-      "description": "Tesla shares rose close to 4% Friday amid a broader market rebound, but posted losses for the eighth week in a row, with some Wall Street analysts expecting further declines.",
-      "url": "https://www.investopedia.com/why-some-tesla-bears-say-the-stock-could-lose-nearly-half-its-value-again-11697140",
-      "urlToImage": "https://www.investopedia.com/thmb/aBZtBW29Dtbco-Ev7mcl20smbwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2204444398-f1bf4e7563f84555be68e68a5da02e68.jpg",
-      "publishedAt": "2025-03-14T21:01:58Z",
-      "content": "<ul><li>Tesla shares rose close to 4% Friday amid a broader market rebound, but posted losses for the eighth week in a row, with some Wall Street analysts expecting further declines.</li><li>Wells Fa… [+1753 chars]"
+      "author": "Lora Kelley",
+      "title": "What Trump and Musk Want With Social Security - Yahoo",
+      "description": "The two maintain that they won’t attack the program, but their repeated claims of rampant fraud serve a strategic purpose.",
+      "url": "https://www.yahoo.com/news/trump-musk-want-social-security-210000213.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ccv9i8A8o6_yzlsGKXLMgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_atlantic_news_articles_892/2f4341da3dc5715214fe9e59e812e1da",
+      "publishedAt": "2025-03-14T21:00:00Z",
+      "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.\r\n… [+8191 chars]"
     },
     {
       "source": {
@@ -148,45 +395,6 @@
     {
       "source": {
         "id": null,
-        "name": "9News.com KUSA"
-      },
-      "author": "Jennifer Campbell-Hicks",
-      "title": "24-year-old suspect arrested for Tesla dealership arson, vandalism - 9News.com KUSA",
-      "description": "The Fort Collins resident was arrested after the Loveland Tesla dealership was vandalized on March 7, police said.",
-      "url": "https://www.9news.com/article/news/crime/colorado-tesla-dealership-arson-vandalism-suspect-arrested/73-93675f57-830c-4b41-9bf6-dfa8e69d3c16",
-      "urlToImage": "https://media.9news.com/assets/KUSA/images/852a1949-508a-4112-a7b4-6e811682b564/20250308T053722/852a1949-508a-4112-a7b4-6e811682b564_1140x641.jpg",
-      "publishedAt": "2025-03-14T19:49:00Z",
-      "content": "LOVELAND, Colo. A second suspect has been arrested on suspicion of causing damage to a Tesla dealership in Loveland, police said on Friday.\r\nThe arrest stems from a March 7 incident at the dealership… [+1382 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "OpenAI and Google ask the government to let them train AI on content they don’t own - The Verge",
-      "description": "OpenAI and Google are urging the government to allow AI models to train on copyrighted material, with OpenAI calling it a “matter of national security.”",
-      "url": "https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK149_AI_Writing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-14T19:44:09Z",
-      "content": "OpenAI argues it needs access to avoid forfeiting the lead in AI to China.\r\nOpenAI argues it needs access to avoid forfeiting the lead in AI to China.\r\nOpenAI and Google are pushing the US government… [+2546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electrek"
-      },
-      "author": "Fred Lambert",
-      "title": "Trump’s Tesla commercial hasn’t helped inventory or new orders - Electrek.co",
-      "description": "President Trump’s $100 million publicity stunt for Tesla hasn’t helped the automaker’s struggling sales yet, based on an inventory check...",
-      "url": "http://electrek.co/2025/03/14/trump-tesla-commercial-not-helping-inventory-check/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11%E2%80%AFPM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-03-14T19:25:00Z",
-      "content": "Trump does an ad for Tesla\r\nPresident Trumps $100 million publicity stunt for Tesla hasnt helped the automakers struggling sales yet, based on an inventory check and new order delivery timelines in t… [+3486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tipranks.com"
       },
       "author": "Steve Anderson",
@@ -200,28 +408,41 @@
     {
       "source": {
         "id": null,
-        "name": "Common Dreams"
+        "name": "Futurism"
       },
-      "author": "https://www.facebook.com/32109457015",
-      "title": "Data Shows 'Shocking' Consumer Sentiment Plunge as Trump Economic Chaos Takes Hold - Common Dreams",
-      "description": "\"Bloodbath of a consumer sentiment print,\" said one policy expert. \"People hate the Trump economy.\"",
-      "url": "https://www.commondreams.org/news/trump-consumer-sentiment",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=57381671&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
-      "publishedAt": "2025-03-14T18:29:35Z",
-      "content": "Data published Friday shows that U.S. consumer sentiment cratered in early March to its lowest level since late 2022 as President Donald Trump's erratic tariff policies and assault on the federal gov… [+3537 chars]"
+      "author": "Victor Tangermann",
+      "title": "Trump: \"Crooked Joe Sold Them Down the River With His Ridiculous All Electric Car Hoax\" - Futurism",
+      "description": "Trump's Tesla showroom stunt in front of the White House highlights his major flip-flopping on his support for electric vehicles.",
+      "url": "https://futurism.com/trump-electric-car-flip-flop-tesla",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/03/trump-electric-car-flip-flop-tesla.jpg",
+      "publishedAt": "2025-03-14T18:17:09Z",
+      "content": "Earlier this week, president Donald Trump staged an impromptu infomercial in front of the White House in a desperate bid to prop up Elon Musk's embattled carmaker, Tesla.\r\nThe bizarre appearance demo… [+3406 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Thefp.com"
       },
-      "author": null,
-      "title": "Apple encrypted data row case begins in secret - BBC.com",
-      "description": "The BBC - along with civil liberties groups and some US politicians - argue the case should be heard in public.",
-      "url": "https://www.bbc.com/news/articles/c9vy0m8ggz3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b274/live/d9762360-00ee-11f0-8bc1-fd1ba1b09aa8.jpg",
-      "publishedAt": "2025-03-14T17:20:31Z",
-      "content": "Apple's encrypted data case against the UK government has begun in secret at the Royal Courts of Justice.\r\nThe Home Office has demanded the right to access data from Apple users that have turned on A… [+2813 chars]"
+      "author": "Bari Weiss",
+      "title": "The Whistleblower Meta Is Trying to Silence - The FP",
+      "description": "Bari Weiss speaks to Sarah Wynn-Williams, the Facebook whistleblower, after an arbitrator barred her from promoting her book, Careless People, about the company's China push.",
+      "url": "https://www.thefp.com/p/meta-facebook-sarah-wynn-williams-mark-zuckerberg-china",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdaec816c-9cdf-445a-8dfb-353ddab42874_1410x793.png",
+      "publishedAt": "2025-03-14T18:02:08Z",
+      "content": "Sarah Wynn-Williams has written an explosive memoir about her more than six years at Facebook, the company now known as Meta. Shes the highest-level former employee of the social media giant to come … [+1306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "As Stocks Tumble on Recession Fears, Bonds Suggest Calm. Only One Is Right. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/recession-risk-bonds-stocks-credit-market-cf0f0766",
+      "urlToImage": null,
+      "publishedAt": "2025-03-14T17:59:00Z",
+      "content": null
     },
     {
       "source": {
@@ -251,19 +472,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CALmatters"
-      },
-      "author": "Levi Sumagaysay",
-      "title": "State Farm can hike rates on California homeowners — if it pauses cancellations and proves need - CalMatters",
-      "description": "If State Farm is successful at proving its need for rate hikes at next month’s hearing, its interim rates will climb on June 1 an average 22% for homeowners, 15% for renters and condos, and 38% for rental dwellings.",
-      "url": "https://calmatters.org/economy/2025/03/state-farm-can-hike-insurance-premiums-with-conditions/",
-      "urlToImage": "https://calmatters.org/wp-content/uploads/2025/03/031325-State-Farm-PF-Getty-01-CM.jpg",
-      "publishedAt": "2025-03-14T16:00:00Z",
-      "content": "Welcome to CalMatters, the only nonprofit newsroom devoted solely to covering issues that affect all Californians. Sign up for WhatMatters to receive the latest news and commentary on the most import… [+5954 chars]"
-    },
-    {
-      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -278,119 +486,28 @@
     {
       "source": {
         "id": null,
-        "name": "AL.com"
-      },
-      "author": "Leada Gore | lgore@al.com",
-      "title": "FBI issues warning to all Gmail, Outlook email users - AL.com",
-      "description": "As of February 2025, the group has impacted more than 300 victims.",
-      "url": "https://www.al.com/news/2025/03/fbi-issues-warning-to-all-gmail-outlook-email-users.html",
-      "urlToImage": "https://www.al.com/resizer/v2/CPW3253B7FEGZFUT4OMT3F766Q.jpg?auth=1b6ecd87e9fd1325ae9b1b0e05a55c8a2102d92b4f4380f5fb253a0e001a5e92&width=1280&quality=90",
-      "publishedAt": "2025-03-14T15:32:00Z",
-      "content": "The FBI and the U.S. Cybersecurity and Infrastructure Security Agency are urging users of popular email services like Gmail and Outlook to be on the lookout for a dangerous and potentially costly ran… [+1243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Barron's"
       },
-      "author": "Barron's",
+      "author": "Adam Clark, George Glover, Angela Palumbo",
       "title": "Nvidia Stock Rises. New Evidence Shows the AI Trade Is Alive and Well. - Barron's",
-      "description": null,
+      "description": "",
       "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-8d9f33fe",
-      "urlToImage": null,
+      "urlToImage": "https://images.barrons.com/im-98903948/social",
       "publishedAt": "2025-03-14T15:23:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "TheStreet"
       },
-      "author": "Barron's",
-      "title": "Docusign Stock Jumps After Earnings. The AI Platform Is Driving Gains. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/docusign-stock-price-earnings-ai-88d0257b",
-      "urlToImage": null,
-      "publishedAt": "2025-03-14T14:42:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Brianna Sacks and Reis Thebault, (c) 2025 , The Washington Post",
-      "title": "‘Cash offers only’: After L.A. fires, scorched lots are selling fast - Yahoo",
-      "description": "ALTADENA, California - Hugo Dalinger knew he couldn’t go back. Not after a wall of flames swallowed his bright-white Altadena home during the January...",
-      "url": "https://washingtonpost.com/weather/2025/03/14/los-angeles-wildfires-burned-lot-sales-real-estate-market/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/f_h3VwN86vHMJKpsxypHuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/washington_post_articles_265/2fc3e93d937d1c72a42fe1f20271a75d",
-      "publishedAt": "2025-03-14T14:19:13Z",
-      "content": "ALTADENA, California - Hugo Dalinger knew he couldnt go back. Not after a wall of flames swallowed his bright-white Altadena home during the January firestorm that took out most of his town. But he n… [+10515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Adam Clark Estes",
-      "title": "The Facebook tell-all Mark Zuckerberg doesn’t want you to read, briefly explained - Vox.com",
-      "description": "The Meta CEO’s commitment to free expression doesn’t apply to embarrassing memoirs.",
-      "url": "https://www.vox.com/technology/403954/facebook-whistleblower-book-zuckerberg-sandberg",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/03/GettyImages-2194353588.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-03-14T14:15:00Z",
-      "content": "In a 2019 speech at Georgetown University, Mark Zuckerberg made a bold statement. Rather than to help college kids get dates, he claimed, Facebook was invented as a platform for free expression. Six … [+4619 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Natalie Neysa Alund",
-      "title": "More than 75K bottles of popular coffee creamer recalled: See brand, flavors - USA TODAY",
-      "description": "Danone issued the voluntary recall after the company received \"complaints of spoilage and illness,\" according to the FDA.",
-      "url": "https://www.usatoday.com/story/money/food/2025/03/14/international-delight-creamer-recall-fda/82399922007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/03/14/USAT/82402514007-getty-images-1297103457.jpg?crop=5976,3363,x0,y313&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2025-03-14T13:22:54Z",
-      "content": "More than 75,000 bottles of International Delight creamer are being recalled in dozens of states, the U.S. Food and Drug Administration announced this week.\r\nThe parent company of the brand, Danone, … [+3298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lpm.org"
-      },
-      "author": "Breya Jones",
-      "title": "Bourbon distilleries in Kentucky are in limbo as tariffs and trade wars impact the industry - Louisville Public Media",
-      "description": "As the U.S. remains embattled in an ever-changing trade war with Canada and tariffs from the European Union loom, bourbon makers in Kentucky are trying to find their footing and plan a path forward.",
-      "url": "https://www.lpm.org/news/2025-03-14/bourbon-distilleries-in-kentucky-are-in-limbo-as-tariffs-and-trade-wars-impact-the-industry",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/1af7195/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F91%2Fea2dc69f4a1688f3c2c1fe4e766e%2Fnpr-bourbon-brough-brother-bourbon-by-breya-jones-031325.JPG",
-      "publishedAt": "2025-03-14T13:00:00Z",
-      "content": "At Brough Brothers Distillery\r\n in west Louisville, water boils on a gas stove, filling the room with noise.\r\nVictor Yarbrough, alongside his brothers Christian and Bryson, opened the first Black-own… [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Musk's Tesla raises concern over Trump tariffs - BBC.com",
-      "description": "The electric carmaker’s warning about tariffs comes despite its boss's key position in the Trump administration.",
-      "url": "https://www.bbc.com/news/articles/c201z4lv5xxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/01ef/live/2045d160-00c1-11f0-8b2a-c7cde80a6cf3.jpg",
-      "publishedAt": "2025-03-14T12:55:00Z",
-      "content": "Elon Musk's electric carmaker Tesla has warned it and other US exporters could be harmed by countries retaliating to Donald Trump's trade tariffs.\r\nMr Musk is a close ally of the US president and is … [+2369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Billy Bambrough",
-      "title": "White House Leak Sparks Wild Speculation Trump Is About To Blow Up The Bitcoin Price - Forbes",
-      "description": "A White House leak has revealed one of Donald Trump’s top bitcoin and crypto officials reportedly said the Trump administration wants to acquire as much bitcoin as possible...",
-      "url": "https://www.forbes.com/sites/digital-assets/2025/03/14/white-house-leak-sparks-wild-speculation-trump-is-about-to-blow-up-the-bitcoin-price/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d41e29e8034991d691f377/0x0.jpg?format=jpg&crop=1224,826,x160,y47,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-14T12:40:17Z",
-      "content": "Bitcoin and crypto prices are struggling to regain momentum after a steep sell-off over the last month (not helped by a serious BlackRock chief executive warning).\r\nFront-run Donald Trump, the White … [+4672 chars]"
+      "author": "Martin Baccardax",
+      "title": "Stock Market Today: Stocks bounce on shutdown optimism; Gold tops $3,000 - TheStreet",
+      "description": "Stocks claw back some of the week's heavy losses.",
+      "url": "https://www.thestreet.com/investing/stock-market-today-stocks-bounce-on-shutdown-optimism-bargain-hunting",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA4MTI3NjUwNzAxNTE4Mjc3/dow-jones-industrial-average-closes-down-500-points.jpg",
+      "publishedAt": "2025-03-14T14:08:58Z",
+      "content": "Updated at 4:45 PM EDT by Rob Lenihan\r\nStocks ended higher Friday as investors took heart that a government shutdown might be avoided while eyeing developments in the burgeoning global trade war.\r\nTh… [+6810 chars]"
     },
     {
       "source": {
@@ -408,67 +525,15 @@
     {
       "source": {
         "id": null,
-        "name": "Post Magazine"
+        "name": "TheStreet"
       },
-      "author": null,
-      "title": "China’s fiery criticism of Panama port deal puts pressure on Li Ka-shing family - South China Morning Post",
-      "description": "The US$23 billion sale is not final, but needs no Chinese or Hong Kong approval, leaving CK Hutchison to decide whether to proceed, analysts say.",
-      "url": "https://www.scmp.com/business/china-business/article/3302462/chinas-fiery-criticism-panama-port-deal-puts-pressure-li-ka-shing-family",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/03/14/942e013a-4d8b-4e60-b3fa-58c40621d562_8cb8f691.jpg?itok=wz682Ms2&v=1741952651",
-      "publishedAt": "2025-03-14T12:00:20Z",
-      "content": "Sharp Chinese criticism of CK Hutchison Holdings sale of its port assets near the Panama Canal to a US-led consortium has thrown a potential wrench into the deal, with pressure piling up on the famil… [+1464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": "Associated Press",
-      "title": "USPS agrees to work with DOGE on reform, planning to cut 10K workers - ABC7 Los Angeles",
-      "description": "Postmaster General Louis DeJoy has agreed to cut 10,000 workers and billions of dollars from the U.S. Postal Service budget.",
-      "url": "https://abc7.com/post/usps-agrees-work-doge-reform-planning-cut-10000-workers/16021215/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/16020869_031425-wpvi-usps-doge-agreement-5a-vo-video-vid.jpg?w=1600",
-      "publishedAt": "2025-03-14T11:30:40Z",
-      "content": "WASHINGTON -- Postmaster General Louis DeJoy plans to cut 10,000 workers and billions of dollars from the U.S. Postal Service budget and he'll do that working with Elon Musk 's Department of Governme… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "James Van Straten",
-      "title": "S&P 500 Enters Correction Territory, What Does This Mean For Bitcoin? - CoinDesk",
-      "description": "Historical analysis on S&P 500 and bitcoin corrections.",
-      "url": "https://www.coindesk.com/markets/2025/03/14/s-and-p-500-enters-correction-territory-what-does-this-mean-for-bitcoin",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9483c8edb8d0adbbf32acc869b907ae96b018f67-1439x802.png?auto=format",
-      "publishedAt": "2025-03-14T11:18:00Z",
-      "content": "The S&amp;P 500 has now entered correction territory, defined as a 10% decline from its all-time high. A further 10% drop would signal a bear market. But is it time to panic? Since Bitcoins creation … [+892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HousingWire"
-      },
-      "author": "Sarah Wheeler",
-      "title": "New FHFA Director Bill Pulte is focused on GSE reform - HousingWire",
-      "description": "Pulte talked about pulling the GSEs out of conservatorship and vowed to fix underperformance of Fannie and Freddie \"effective immediately!\"",
-      "url": "http://www.housingwire.com/articles/new-fhfa-director-bill-pulte-is-focused-on-gse-reform/",
-      "urlToImage": "https://www.housingwire.com/wp-content/uploads/2025/01/Bill-Pulte-is-being-nominated-as-Trumps-FHFA-director-2.jpg",
-      "publishedAt": "2025-03-14T01:43:14Z",
-      "content": "It is widely expected that the Trump administration will finish what they started in his first term and privatize Fannie and Freddie. Although likely a years-long process, the administration started … [+2897 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Matthew Fox",
-      "title": "He called Tesla's stock crash. Now he thinks it'll fall even more. - Business Insider",
-      "description": "\"As a traditional investor, it doesn't fit any valuation system that makes any sense compared to any other stock,\" Ross Gerber said of Tesla.",
-      "url": "https://www.businessinsider.com/tesla-stock-price-crash-outlook-ross-gerber-elon-musk-tsla-2025-3",
-      "urlToImage": "https://i.insider.com/67d2dce569253ccddf991cfc?width=1200&format=jpeg",
-      "publishedAt": "2025-03-13T15:39:00Z",
-      "content": "Shares of Tesla have crashed 48% since peaking in mid-December, but the stock still isn't cheap enough for the company's longtime investor Ross Gerber to buy back in.\r\nGerber who's been a Tesla inves… [+4746 chars]"
+      "author": "Sabrina Toppa",
+      "title": "Watchdog group says stablecoin bill may facilitate 'crypto abuse' - Yahoo Finance",
+      "description": "\"Price manipulations, coin failures, and use of cryptocurrencies in illicit finance will increase,\" warns D.C.-based watchdog group Public Citizen.",
+      "url": "https://www.thestreet.com/crypto/policy/watchdog-group-says-stablecoin-bill-may-facilitate-crypto-abuse",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/93910dd29469df89da9d43def0327b4f",
+      "publishedAt": "2025-03-14T01:40:00Z",
+      "content": "On Thursday, a bipartisan bill on stablecoins was approved by the U.S. Senate Banking Committee, setting it up to reach a Senate vote in a matter of weeks. But critics contend that the legislation co… [+2167 chars]"
     },
     {
       "source": {
