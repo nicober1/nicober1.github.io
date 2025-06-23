@@ -4,159 +4,419 @@
   "articles": [
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacob Lev, Kevin Dotson, Issy Ronald, Jamie Barton, Kyle Feldscher",
+      "title": "It’s a winner-take-all Game 7 in the NBA Finals between the Indiana Pacers and Oklahoma City Thunder - CNN",
+      "description": "The Oklahoma City Thunder and Indiana Pacers face off in a winner-take-all Game 7 in the NBA Finals.",
+      "url": "https://www.cnn.com/sport/live-news/nba-finals-game-7-pacers-thunder-spt",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25171046879354.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-22T22:14:00Z",
+      "content": "Going 25 years without appearing in an NBA Finals, Pacers fans may have felt in recent years that their fortunes could not get any worse.\r\nBut those of a certain age will know that it definitely can … [+1005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Iran accuses US of 'waging war' under 'absurd pretext' after strikes on nuclear sites - BBC",
+      "description": "The UN Security Council is meanwhile urged to adopt a resolution calling for an immediate and unconditional Middle East ceasefire.",
+      "url": "https://www.bbc.com/news/live/cn7ze4vmk2pt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3f3/live/71e8f910-4faf-11f0-8c47-237c2e4015f5.jpg",
+      "publishedAt": "2025-06-22T22:07:30Z",
+      "content": "Image caption, Iran's ambassador and permanent representative to the United Nations, Amir Saeid Iravani\r\nIran's representative to the UN Security Council has accused the US of having \"waged a war\" ag… [+940 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "LSU chases Coastal, wins 2nd MCWS in 3 years - ESPN",
+      "description": "LSU knocked previously unbeaten Coastal Carolina ace Jacob Morrison out of the game with a four-run fourth inning and the Tigers won their second national championship in three years Sunday with a 5-3 victory in the Men's College World Series finals.",
+      "url": "https://www.espn.com/college-sports/story/_/id/45563575/lsu-tigers-win-2nd-men-college-world-series-three-years",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0622%2Fr1509969_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-06-22T21:57:00Z",
+      "content": "Jun 22, 2025, 05:57 PM ET\r\nOMAHA, Neb. -- LSU knocked previously unbeaten Coastal Carolina ace Jacob Morrison out of the game with a four-run fourth inning and the Tigers won their second national ch… [+2890 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Tesla’s Robotaxis Are Here: What You Need to Know - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/autos/tesla-robotaxi-explained-e3db95b8",
+      "urlToImage": null,
+      "publishedAt": "2025-06-22T21:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zachary Cohen, Katie Bo Lillis",
+      "title": "Early assessments raise questions over whether US destroyed bulk of enriched Iranian nuclear material - CNN",
+      "description": "President Donald Trump declared that Iran’s nuclear enrichment facilities were “completely and totally obliterated” following this weekend’s air strikes, but the US appears to have held back its most powerful bombs against one of the three facilities included…",
+      "url": "https://www.cnn.com/2025/06/22/politics/iran-strike-analysis-raises-questions",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-06-22t024020z-2008905340-rc2e7fatgghm-rtrmadp-3-iran-nuclear.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-22T21:22:00Z",
+      "content": "President Donald Trump declared that Irans nuclear enrichment facilities were completely and totally obliterated following this weekends air strikes, but the US appears to have held back its most pow… [+4502 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "BBC News"
       },
       "author": null,
-      "title": "Kneecap performing at Glastonbury 'not appropriate', PM says - BBC",
-      "description": "He made the comments after Kneecap member Liam Óg Ó hAnnaidh appeared in court on Wednesday.",
-      "url": "https://www.bbc.com/news/articles/cg5z26dpgd7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8402/live/f368c430-4ed7-11f0-9a43-75d86b6820a6.jpg",
-      "publishedAt": "2025-06-21T20:44:58Z",
-      "content": "Prime Minister Sir Keir Starmer has said he does not think Kneecap's planned Glastonbury Festival performance is \"appropriate\".\r\nHe made the comments after Kneecap member Liam Óg Ó hAnnaidh appeared … [+4587 chars]"
+      "title": "Met Police chief 'shocked' by planned Palestine Action protest in London - BBC",
+      "description": "The force says it cannot legally stop Monday's protest in support of the pro-Palestine group.",
+      "url": "https://www.bbc.com/news/articles/c79q1jv8p24o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b3c0/live/23e9f2c0-4fa8-11f0-8831-bd01b6af6b69.jpg",
+      "publishedAt": "2025-06-22T21:16:35Z",
+      "content": "Jacqueline Howard\r\nThe Metropolitan Police chief has said he is \"shocked and frustrated\" at a planned protest in support of Palestine Action in London on Monday.\r\nCommissioner Sir Mark Rowley said wh… [+3311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Vanessa Serna",
+      "title": "Justin Bieber shares cryptic post about getting the ‘silent treatment’ after wife Hailey ditches wedding ring - pagesix.com",
+      "description": "The Rhode founder was seen multiple times without her wedding ring while out in New York City on Thursday.",
+      "url": "https://pagesix.com/2025/06/22/celebrity-news/justin-bieber-shares-cryptic-post-about-silent-treatment-after-hailey-ditches-ring/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/06/106957160.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-22T20:46:00Z",
+      "content": "Justin Bieber shared a cryptic message about receiving the “silent treatment” after Hailey Bieber stepped out without her wedding ring while in New York City.\r\nThe “Peaches” singer took to his Instag… [+2759 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Alex Isenstadt",
+      "title": "Scoop: Trump launches MAGA PAC in effort to oust Rep. Massie from Congress - Axios",
+      "description": "By going after Massie, Trump's team is looking to put wayward Republicans on notice that they're ready to play hardball.",
+      "url": "https://www.axios.com/2025/06/22/trump-massie-congress-2026",
+      "urlToImage": "https://images.axios.com/HIs91cbxoIIMOs2GKc8xVFdWBLw=/0x114:2792x1684/1366x768/2025/06/22/1750617286334.jpg",
+      "publishedAt": "2025-06-22T19:09:47Z",
+      "content": "<ul><li>Massie has attacked Trump over his strike on Iran,saying on X that it was \"not Constitutional,\" prompting the president to fire back on Truth Social that the congressman is \"not MAGA.\"</li><l… [+3121 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Republican’s Life-Threatening Pregnancy Collided With Florida’s Abortion Politics - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/politics/policy/republicans-life-threatening-pregnancy-collided-with-floridas-abortion-politics-ad96f8d4",
+      "urlToImage": null,
+      "publishedAt": "2025-06-22T18:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Cade Onder",
+      "title": "Cancelled Batman Arkham Game Concept Art Reveals Old Bruce Wayne, Villains, and More - ComicBook.com",
+      "description": "A set of concept art from a cancelled Batman Arkham sequel shows off an old Bruce Wayne, Damian Wayne, and more.",
+      "url": "http://comicbook.com/gaming/news/cancelled-batman-arkham-damian-wayne-game-bruce-wayne-concept-art/",
+      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/06/Arkham-Knight.jpg?resize=2000,1125",
+      "publishedAt": "2025-06-22T18:38:16Z",
+      "content": "A bunch of concept art for a cancelled Batman Arkham game has surfaced, revealing a new look at an older Bruce Wayne, Damian Wayne, and some villains. The Batman mythos is one of the most revered com… [+3163 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Spain reaches deal with NATO ahead of summit to be excluded from 5% defense spending goal - AP News",
+      "description": "Prime Minister Pedro Sánchez says that Spain reached a deal with NATO to be excluded from a 5% of GDP defense spending target. The deal was reached days before the military alliance’s leaders will gather at a summit in The Hague. Sánchez said that Spain would…",
+      "url": "https://apnews.com/article/nato-spain-trump-defense-spending-8b554694c18511a3b835e44a15042694",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cb4c90a/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2F6c%2F41beee043874399db5bca5b91c15%2F553bd811dfd04a03a66a4a8370e32936",
+      "publishedAt": "2025-06-22T18:31:00Z",
+      "content": "MADRID (AP) Spain reached a deal with NATO to be excluded from a 5% of GDP defense spending target, days before the military alliances leaders will gather at a summit, Prime Minister Pedro Sánchez sa… [+1617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Suicide bombing at Damascus church kills 20, authorities say - BBC",
+      "description": "The interior ministry said a man affiliated with IS entered a church and opened fire before blowing himself up.",
+      "url": "https://www.bbc.com/news/articles/c307n9p43z9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5c3/live/17cf3e10-4f93-11f0-a466-d54f65b60deb.jpg",
+      "publishedAt": "2025-06-22T18:29:45Z",
+      "content": "At least 20 people have been killed and 52 others wounded in a suicide bombing at a church on the outskirts of Damascus, Syria's health ministry has said. \r\nThe attacker entered Mar Elias Church in D… [+1325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Spencer Kimball",
+      "title": "U.S. calls on China to prevent Iran from closing Strait of Hormuz and disrupting global oil flows - CNBC",
+      "description": "Iran's foreign minister warned earlier Sunday that the Islamic Republic \"reserves all options to defend its sovereignty\" after U.S. airstrikes.",
+      "url": "https://www.cnbc.com/2025/06/22/us-calls-on-china-to-prevent-iran-from-closing-strait-of-hormuz.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108162154-1750608085426-gettyimages-843723682-ED_0121461.jpeg?v=1750608138&w=1920&h=1080",
+      "publishedAt": "2025-06-22T18:29:19Z",
+      "content": "U.S. Secretary of State Marco Rubio on Sunday called for China to prevent Iran from closing the Strait of Hormuz, one of the most important trade routes for crude oil in the world.\r\n\"I encourage the … [+2634 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Bank of New York Mellon Approached Northern Trust to Discuss Potential Merger - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/banking/bank-of-new-york-mellon-approached-northern-trust-to-discuss-potential-merger-7017f4eb",
+      "urlToImage": null,
+      "publishedAt": "2025-06-22T17:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Naureen S Malik",
+      "title": "Largest US Grid Issues Energy Emergency Alert for Monday Heat - Bloomberg.com",
+      "description": "PJM Interconnection, which serves about 20% of Americans in the mid-Atlantic to the Midwest, declared an energy emergency alert with power demand expected to climb to a 14—year high amid intense heat.",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-22/largest-us-grid-issues-energy-emergency-alert-for-monday-heat",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZsF4_TM5mwI/v1/1200x800.jpg",
+      "publishedAt": "2025-06-22T16:47:12Z",
+      "content": "PJM Interconnection, which serves about 20% of Americans in the mid-Atlantic to the Midwest, declared an energy emergency alert with power demand expected to climb to a 14year high amid intense heat.… [+322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "No budget for assisted dying service, health secretary says - BBC",
+      "description": "The MP for Ilford North pledges to work \"constructively\" on technical aspects of the legislation.",
+      "url": "https://www.bbc.com/news/articles/ce8zn66k8rdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/300a/live/4e9429f0-4f7b-11f0-8276-c141f90d08b5.png",
+      "publishedAt": "2025-06-22T16:46:18Z",
+      "content": "Health Secretary Wes Streeting has said there is no budget for an assisted dying service, which MPs narrowly backed in a landmark vote on Friday.\r\nStreeting, who was one of the most senior opponents … [+4737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Owens",
+      "title": "Suns reportedly trade Kevin Durant to Houston Rockets for Jalen Green, Dillon Brooks, draft picks - Yahoo Sports",
+      "description": "Kevin Durant is on the move after the Suns failed to build a contender around him and Devin Booker.",
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/suns-trade-kevin-durant-to-houston-rockets-for-jalen-green-dillon-brooks-draft-picks-164401892.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VO0gbsVTJ8Buke53fbE7pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/93b0efd0-4ac3-11f0-bf2b-8271850e57ba",
+      "publishedAt": "2025-06-22T16:44:12Z",
+      "content": "Kevin Durant is on the move, concluding weeks of speculation about where the superstar forward would land.\r\nThe Phoenix Suns traded Durant to the Houston Rockets, in exchange for Jalen Green and Dill… [+4297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "As Israel recovers the bodies of three more hostages, how many are still in Gaza? - NPR",
+      "description": "Israel said Sunday that it has recovered the bodies of three more hostages taken in Hamas' Oct. 7 attack that ignited the ongoing 20-month war in the Gaza Strip.",
+      "url": "https://www.npr.org/2025/06/22/nx-s1-5441735/as-israel-recovers-the-bodies-of-three-more-hostages-how-many-are-still-in-gaza",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+46/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F71%2F41669df74b47ae8622ef008a5b77%2Fap25172628688620.jpg",
+      "publishedAt": "2025-06-22T16:29:31Z",
+      "content": "Israel said Sunday that it has recovered the bodies of three more hostages taken in Hamas' Oct. 7 attack that ignited the ongoing 20-month war in the Gaza Strip.\r\nThe Israeli military identified them… [+1454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Rebecca Rubin",
+      "title": "Global Box Office: Pixar’s ‘Elio’ Craters With $35 Million, ‘28 Years Later’ Awakens to $60 Million - Variety",
+      "description": "Disney and Pixar's animated adventure \"Elio\" crash-landed in its box office debut, earning a dismal $14 million overseas and $35 million globally.",
+      "url": "https://variety.com/2025/film/news/elio-craters-box-office-global-28-years-later-opening-weekend-1236437602/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/28-Years-Later-4.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-06-22T16:02:00Z",
+      "content": "Disney and Pixar‘s animated adventure “Elio” crash-landed in its box office debut, earning a dismal $14 million overseas and $35 million globally. \r\nThose ticket sales rank as the worst-ever for Pixa… [+2913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Zack Sharf",
+      "title": "J.K. Rowling Praises Harry Potter Series, Worked 'Closely' With Writers - Variety",
+      "description": "J.K. Rowling has read the first two episodes of HBO's \"Harry Potter\" series and calls them \"so, so good.\" She worked closely with the writers.",
+      "url": "https://variety.com/2025/tv/news/jk-rowling-praises-harry-potter-series-worked-closely-writers-1236437589/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/rowling.png?w=1000&h=563&crop=1",
+      "publishedAt": "2025-06-22T15:20:00Z",
+      "content": "With HBO‘s “Harry Potter” series nearing a production start date, J.K. Rowling has taken to X to give the series her full-blown support. She confirmed that she’s “worked closely with the extremely ta… [+3118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Andrew Crane",
+      "title": "Jon Jones hit with new criminal charge amid UFC retirement news - New York Post",
+      "description": "The revelation came after the UFC superstar announced his retirement on Saturday.",
+      "url": "https://nypost.com/2025/06/22/sports/jon-jones-hit-with-new-criminal-charge-amid-ufc-retirement-news/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/jon-jones-charge.jpg?quality=75&strip=all&1750590883&w=1024",
+      "publishedAt": "2025-06-22T15:16:00Z",
+      "content": "UFC star Jon Jones, who confirmed his shocking retirement Saturday, was accused of leaving the scene of an accident a misdemeanor charge in February and has a bond arraignment hearing scheduled for J… [+3057 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "What to do if you get a password reset email you didn’t ask for - Fox News",
+      "description": "Unexpected password reset alerts signal potential hacking attempts or phishing scams. Learn how to respond and establish stronger security measures for your accounts.",
+      "url": "https://www.foxnews.com/tech/what-do-you-get-password-reset-email-you-didnt-ask",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/4-what-to-do-after-receiving-a-password-reset-email-you-did-not-request.jpg",
+      "publishedAt": "2025-06-22T14:00:12Z",
+      "content": "You're checking your inbox or scrolling through your phone when something catches your attention. It's a message about a password reset, but you never asked for one. \r\nIt might have arrived by email,… [+14149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "FedEx founder Fred Smith, who revolutionized package delivery, dies at 80 - NPR",
+      "description": "Smith once said he came up with the name Federal Express because he wanted the company to sound big and important when in fact it was a start-up operation with a future far from assured.",
+      "url": "https://www.npr.org/2025/06/22/nx-s1-5441684/fedex-founder-fred-smith-who-revolutionized-package-delivery-dies-at-80",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5442x3061+0+283/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F47%2Fc843b1f54a8793797cd83fb50e8b%2Fap25173319706592.jpg",
+      "publishedAt": "2025-06-22T13:13:25Z",
+      "content": "MEMPHIS, Tenn. Fred Smith, the FedEx Corp. founder who revolutionized the express delivery industry, has died, the company said. He was 80.\r\nFedEx started operating in 1973, delivering small parcels … [+3677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Scientists Beamed Light Right Through a Man's Head For The First Time - ScienceAlert",
+      "description": "Scientists have developed a new technique for non-invasive brain imaging – and it involves shining light all the way through the head, from one side to the other.",
+      "url": "https://www.sciencealert.com/scientists-beamed-light-right-through-a-mans-head-for-the-first-time",
+      "urlToImage": "https://www.sciencealert.com/images/2025/06/HeadLight.jpg",
+      "publishedAt": "2025-06-22T12:01:12Z",
+      "content": "Scientists have developed a new technique for non-invasive brain imaging and it involves shining light all the way through the head, from one side to the other.\r\nCurrently the best portable, low-cost… [+3374 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Photos show damage in Haifa and Tel Aviv in the latest Iranian missile barrage - AP News",
+      "description": "TEL AVIV, Israel (AP) — Photos show the damage in Haifa and Tel Aviv in the latest Iranian missile barrage on Israel following US strikes on Iranian nuclear facilities.",
+      "url": "https://apnews.com/photo-gallery/israel-palestinians-iran-war-photos-765dded07d89bbd56e7e99e010ff6589",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3940a6b/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F64%2F47c5eef5022703b9563ee20473b1%2F2027cfd525494a7aa82af3543ca3e01a",
+      "publishedAt": "2025-06-22T11:23:00Z",
+      "content": "A torn-out tree lies among the rubble as firefighters, rescue workers, and military personnel survey the site of a direct missile strike launched from Iran in Tel Aviv, Israel, Sunday, June 22, 2025.… [+23 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Stephen Tailby",
+      "title": "SpongeBob, TMNT, Avatar DLC Confirmed for Sonic Racing: CrossWorlds - Push Square",
+      "description": "Get in the patty wagon",
+      "url": "https://www.pushsquare.com/news/2025/06/spongebob-tmnt-avatar-dlc-confirmed-for-sonic-racing-crossworlds",
+      "urlToImage": "https://images.pushsquare.com/c105c6d84ff66/large.jpg",
+      "publishedAt": "2025-06-22T11:00:00Z",
+      "content": "Subscribe to Push Square on YouTube158k\r\nSonic Racing: CrossWorlds really is going a little wild with its crossovers, as a new trailer has just confirmed DLC featuring characters, karts, and courses … [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Jeff Spry",
+      "title": "SpaceX’s Transporter 14 launch today will carry more than 150 capsules of DNA, human remains - Space",
+      "description": "The Houston company is flying a memorial payload on SpaceX's Transporter 14 rideshare mission, which is scheduled to launch on Sunday (June 22).",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/spacexs-transporter-14-launch-on-june-21-will-carry-more-than-150-capsules-of-dna-human-remains",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MiyjYTVrJd4CYPpT8iWe3R.png",
+      "publishedAt": "2025-06-22T11:00:00Z",
+      "content": "Celestis has been a pioneering force in space-burial services since 1994.\r\nThe Houston-based company has sent the DNA and other remains of loved ones, pets and celebrities into outer space on a serie… [+3196 chars]"
     },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Tobi Raji",
-      "title": "L.A. Dodgers, facing fan pressure, pledge $1M after immigration raids - The Washington Post",
-      "description": "Dodgers CEO Stan Kasten said the team has “heard the calls for us to take a leading role on behalf of those affected,” after immigration raids roiled the city.",
-      "url": "https://www.washingtonpost.com/nation/2025/06/21/dodgers-immigration-raids-los-angeles/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SJDFD6PT3DUOVYSQQU3I4O3S24_size-normalized.jpg&w=1440",
-      "publishedAt": "2025-06-21T20:40:15Z",
-      "content": "Facing growing pressure to speak out against federal immigration raids in the area, the Los Angeles Dodgers on Friday unveiled a $1 million commitment toward assisting families affected by the enforc… [+4222 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Hot-air balloon in Brazil catches fire and falls from the sky, killing 8 and injuring 13 - AP News",
-      "description": "A hot-air balloon has caught fire and tumbled from the sky in Brazil’s southern state of Santa Catarina, killing eight people. Thirteen people survived and were taken to hospitals on Saturday. Santa Catarina’s military fire brigade said that 21 people were on…",
-      "url": "https://apnews.com/article/brazil-balloon-fall-49c10b909e0f430a22913f7dd13e2c23",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "publishedAt": "2025-06-21T20:10:00Z",
-      "content": "RIO DE JANEIRO (AP) A hot-air balloon caught fire and tumbled from the sky on Saturday in Brazil s southern state of Santa Catarina, killing eight people, firefighters said.\r\nFootage shared by local … [+2826 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "GOP's food stamp plan is found to violate Senate rules. It's the latest setback for Trump's big bill - AP News",
-      "description": "The Senate parliamentarian has advised that a Republican proposal that would shift some food stamp costs from the federal government to the states would violate the chamber’s strict rules. It's another procedural blow to President Donald Trump's tax and spend…",
-      "url": "https://apnews.com/article/trump-food-stamps-tax-cuts-senate-spending-101d16d8ca61956fc37f0cce7551fa24",
-      "urlToImage": "https://dims.apnews.com/dims4/default/62d0811/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F03%2F808256457394066af999eab4d2a8%2F3b65896eba2c402b8084ef15bd083634",
-      "publishedAt": "2025-06-21T19:48:00Z",
-      "content": "WASHINGTON (AP) In another blow to the Republicans tax and spending cut bill, the Senate parliamentarian has advised that a proposal to shift some food stamps costs from the federal government to sta… [+6581 chars]"
+      "author": "Joel Achenbach",
+      "title": "Vera Rubin telescope is pointing the world’s biggest camera at cosmos - The Washington Post",
+      "description": "The first batch of test images from the Vera C. Rubin Observatory is scheduled to be released Monday at 11:30 a.m., followed by a news conference at the National Academy of Sciences in Washington.",
+      "url": "https://www.washingtonpost.com/science/2025/06/22/telescope-vera-rubin-images/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6FWVFX5XBCADI3RWOE7MFJVOE_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-06-22T10:01:33Z",
+      "content": "On a mountaintop at the edge of the Atacama Desert in Chile, the worlds newest telescope is poised to begin a revolutionary survey of the southern hemispheres observable universe, one that promises t… [+6676 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Mike Barnes",
-      "title": "Lynn Hamilton, Actress on ‘Sanford and Son’ and ‘The Waltons,’ Dies at 95 - The Hollywood Reporter",
-      "description": "She also appeared four times on Broadway and on the soap operas 'Generations' and 'Dangerous Women.'",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/lynn-hamilton-dead-sanford-and-son-waltons-1236296486/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/04/TSDSAAN_EC024-H-2021-1619542878.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2025-06-21T19:11:22Z",
-      "content": "Lynn Hamilton, the theater-trained actress who portrayed the girlfriend of Redd Foxx’s character on Sanford and Son and the neighborly Miss Verdie on The Waltons, has died. She was 95. \r\nHamilton die… [+3655 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "The Latest: Israel-Iran war enters a second week with renewed strikes - AP News",
-      "description": "The second week of the Israel-Iran war has started with a renewed round of strikes targeting an Iranian nuclear research facility near Isfahan. Talks in Geneva on Friday between European foreign ministers and Iran’s top diplomat failed to produce a breakthrou…",
-      "url": "https://apnews.com/article/israel-palestinians-iran-war-latest-06-21-2025-894a8cfb8bf2c1b717e0a955f22b91e0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/83a82a6/2147483647/strip/true/crop/4937x2777+0+257/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2Fa9%2F94ad0d16be7d3247f1fa293b1998%2F7980de15e81647958dfe075fd8256edc",
-      "publishedAt": "2025-06-21T18:17:00Z",
-      "content": "The second week of the Israel-Iran war started with a renewed round of strikes targeting an Iranian nuclear research facility near Isfahan. \r\nTalks in Geneva on Friday between European foreign minist… [+13170 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "Psyche keeps its date with an asteroid, but now it’s running in backup mode - Ars Technica",
-      "description": "Engineers switched to a backup fuel line less than a quarter of the way through Psyche’s mission.",
-      "url": "https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/1-pia24834-1152x648.jpg",
-      "publishedAt": "2025-06-21T18:10:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Rebecca Carballo",
-      "title": "Republicans’ loan plan presents new obstacles for low-income students - Politico",
-      "description": "One GOP senator said anyone paying more than $100K to go to med school is \"making a huge mistake.\" But the median cost of attending one is more than double that for the class of 2025.",
-      "url": "https://www.politico.com/news/2025/06/21/republican-medical-student-loan-limits-00415741",
-      "urlToImage": "https://static.politico.com/75/1b/38fccf37432db45ad1738310718e/https-delivery-gettyimages.com/downloads/2204590297",
-      "publishedAt": "2025-06-21T18:00:00Z",
-      "content": "Its a range that exceeds the costs many doctors now serving in Congress paid when they earned their degrees. Many did not respond to inquiries from POLITICO about how the One Big Beautiful Bill Act w… [+3036 chars]"
+      "author": "Kaitlin Reilly",
+      "title": "Try 'Japanese walking,' eat dark chocolate for fiber and do these Sunday chores — plus 7 more health tips to help you have a great week - Yahoo",
+      "description": "Simple ways to improve your life (and health) this week.",
+      "url": "https://www.yahoo.com/lifestyle/article/try-japanese-walking-eat-dark-chocolate-for-fiber-and-do-these-sunday-chores--plus-7-more-health-tips-to-help-you-have-a-great-week-090018331.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3EACRMGpkurPrUYx3lBAyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/04c24110-4c8b-11f0-987b-265af97fff74",
+      "publishedAt": "2025-06-22T09:00:18Z",
+      "content": "Hello, wellness enthusiasts! My name is Kaitlin Reilly, and Im here to share the best health tips from around the internet this week.\r\nDid your parents make you clean your plate during mealtimes, whe… [+8107 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Official Website of the Ultimate Fighting Championship"
+        "name": "Deadline"
       },
-      "author": null,
-      "title": "Main Card Results | UFC Baku - ufc.com",
-      "description": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Hill vs Rountree Jr., Live From Baku Crystal Hall in Baku on June 21",
-      "url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-hill-vs-rountree-jr-baku",
-      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-05/062125-ufc-fight-night-hill-vs-rountree-jr-EVENT-ART.jpg?itok=L4mFgKoR",
-      "publishedAt": "2025-06-21T17:37:30Z",
-      "content": "Blaydes wasted no time taking Kuniev to the canvas, and while the Russian rose quickly, Blaydes kept him locked up against the fence. Once separated, the two traded on the feet, Kuniev getting in som… [+388 chars]"
+      "author": "Glenn Garner",
+      "title": "Nickelodeon Kids’ Choice Awards 2025 Winners — Full List - Deadline",
+      "description": "The 38th edition of the Nickelodeon Kids' Choice Awards took over Santa Monica on Saturday.",
+      "url": "http://deadline.com/2025/06/nickelodeon-kids-choice-awards-2025-winners-1236439196/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/Kids-Choice-Awards-2025.jpg?w=1000",
+      "publishedAt": "2025-06-22T01:30:00Z",
+      "content": "The 38th edition of the Nickelodeon Kids’ Choice Awards took over Santa Monica on Saturday.\r\nHosted by Tyla, the awards show featured performances by Machine Gun Kelly and KATSEYE, as well as skatebo… [+2528 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "KSL.com"
       },
-      "author": null,
-      "title": "Minnesota shootings suspect was a 'prepper', FBI says - BBC",
-      "description": "After shooting two local politicians, Vance Boelter texted his wife \"prepare for war\", say investigators.",
-      "url": "https://www.bbc.com/news/articles/c89ev9j955ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03c7/live/e7930150-4a9c-11f0-9471-e380f647874e.jpg",
-      "publishedAt": "2025-06-21T17:33:54Z",
-      "content": "Robin Levinson King\r\nPolice said suspect Vance Luther Boelter was armed at the time of his arrest\r\nThe suspect accused of fatally shooting a Minnesota lawmaker and her husband in a gun rampage last w… [+2622 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jason Ma",
-      "title": "Top economist who previously sounded the alarm on tariffs sees a possible scenario where Trump 'outsmarted all of us' - Fortune",
-      "description": "\"This would seem like a victory for the world and yet would produce $400 billion of annual revenue for US taxpayers.\"",
-      "url": "https://fortune.com/2025/06/21/trump-tariffs-outsmarted-us-all-10-percent-federal-revenue-economy/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2220475391-e1750521440372.jpg?resize=1200,600",
-      "publishedAt": "2025-06-21T17:06:00Z",
-      "content": "Businesses and consumers remain in limbo over what will happen next with President Donald Trumps tariffs, but a top economist sees a way to leave them in place and still deliver a victory for the wor… [+3323 chars]"
+      "author": "Devi Shastri, Associated Press",
+      "title": "What to know about the COVID variant that may cause 'razor blade' sore throats - KSL News",
+      "description": "The new COVID-19 variant, Nimbus, may cause \"razor blade\" sore throats if people get it, but experts say there's no evidence the variant makes people sicker or vaccines less effective.",
+      "url": "https://www.ksl.com/article/51332125/what-to-know-about-the-covid-variant-that-may-cause-razor-blade-sore-throats",
+      "urlToImage": "https://img.ksl.com/slc/3089/308995/30899535.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2025-06-21T21:47:13Z",
+      "content": "WASHINGTON The COVID-19 variant that may be driving a recent rise in cases in some parts of the world has earned a new nickname: \"razor blade throat\" COVID.\r\nThat's because the variant NB.1.8.1. or \"… [+1521 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "Pakistan to nominate Trump for Nobel Peace Prize - BBC",
-      "description": "Islamabad says Trump helped end recent fighting with India, but New Delhi denies he played any role.",
-      "url": "https://www.bbc.com/news/articles/cwyx5yw8y28o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03c9/live/0f389200-4eb8-11f0-bfc7-a1c53566193a.jpg",
-      "publishedAt": "2025-06-21T16:58:22Z",
-      "content": "Pakistan has announced it plans to nominate US President Donald Trump for a Nobel Peace Prize, citing the role that Islamabad says he played in helping to negotiate a ceasefire last month between Ind… [+2649 chars]"
+      "author": "Richard Leadbetter, John Linneman, Oliver Mackenzie",
+      "title": "Nintendo Switch 2: the Digital Foundry hardware review - Eurogamer",
+      "description": "The Digital Foundry team delivers its verdict on Nintendo Switch 2. It's an impressive package overall, marred by a disappointing, sub-par screen.",
+      "url": "https://www.eurogamer.net/digitalfoundry-2025-nintendo-switch-2-the-digital-foundry-hardware-review",
+      "urlToImage": "https://assetsio.gnwcdn.com/SWITCH-REVIEW-SITER.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-21T16:48:23Z",
+      "content": "The Nintendo Switch 2 represents a pivotal moment for Nintendo's console strategy, promising generational improvements while maintaining the core philosophy of hybrid gaming for both TV and handheld … [+16501 chars]"
     },
     {
       "source": {
@@ -183,201 +443,6 @@
       "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/06/A-Strange-Mark-Just-Appeared-on-the-Moon-—-NASA-Satellite-Captures-Startling-Lunar-Disruption.jpg",
       "publishedAt": "2025-06-21T16:05:00Z",
       "content": "On June 11, NASAs Lunar Reconnaissance Orbiter (LRO) captured a dramatic view of the Hakuto-R Mission 2 impact site on the Moons surface, revealing fresh scarring on the lunar terrain. The images, pu… [+3673 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "Samsung’s entry-level Galaxy Watch 7 has returned to its best price to date - The Verge",
-      "description": "The Galaxy Watch 7 is $100 off in both size configurations. There are also deals to be had on the Anker’s 3-in-1 Cube with MagSafe and Amazon’s budget soundbar.",
-      "url": "https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/samsung-galaxy-watch-7-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-21T16:02:03Z",
-      "content": "There are also discounts available on Amazons Fire TV Soundbar Plus and Ankers versatile 3-in-1 charger.\r\nThere are also discounts available on Amazons Fire TV Soundbar Plus and Ankers versatile 3-in… [+4007 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News Staff",
-      "title": "Fox News Entertainment Newsletter: Food Network star dead at 55, Jelly Roll inspires Christian singer - Fox News",
-      "description": "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
-      "url": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-food-network-star-dead-55-jelly-roll-inspires-christian-singer",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/anne-burrell-jelly-roll.jpg",
-      "publishedAt": "2025-06-21T16:00:19Z",
-      "content": "Welcome to the Fox News Entertainment Newsletter.\r\nTOP 3: \r\n-Anne Burrell, Food Network star, dead at 55\r\n-Jelly Rolls wild moment inspired Christian singer Brandon Lake to set boundaries\r\n-Carly Sim… [+1014 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "The Associated Press",
-      "title": "Day after day, Palestinians in Gaza risk harrowing journey in desperate search for food - NPR",
-      "description": "Israel has begun allowing food into Gaza. Most of the supplies go to GHF, which operates food distribution points. A trickle of aid goes to the U.N. and humanitarian groups. Both systems are mired in chaos.",
-      "url": "https://www.npr.org/2025/06/21/nx-s1-5441051/gaza-residents-food-search",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fac%2F4fe5b37a4a8fa4303219831aba52%2Fap25165396930111.jpg",
-      "publishedAt": "2025-06-21T15:18:57Z",
-      "content": "KHAN YOUNIS, Gaza Strip Each day, Palestinians in Gaza run a deadly gantlet in hopes of getting food. Israeli troops open barrages of gunfire toward crowds crossing military zones to get to the aid, … [+6727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "J. Kim Murphy",
-      "title": "Box Office: ’28 Years Later’ Chomps on $14 Million Opening Day; ‘Elio’ Facing Pixar’s Lowest Debut Ever as ‘How to Train Your Dragon’ Rules Again - Variety",
-      "description": "'28 Years Later' got off to a solid start at the box office, while 'Elio' is in danger of a record low opening for Pixar.",
-      "url": "https://variety.com/2025/film/news/box-office-28-years-later-elio-pixar-record-low-1236437168/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/years-elio-dragon-split.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2025-06-21T15:18:00Z",
-      "content": "Sony’s “28 Years Later” got a running start at the domestic box office with $14 million across Friday and preview screenings. Meanwhile, Disney’s original animated adventure “Elio” is in danger of hi… [+3935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Diane Cole",
-      "title": "Photos: Why it took courage for these women to pose for the camera - NPR",
-      "description": "Wearing traditional cosmetic face masks from their homeland of Madagascar, they agreed to be photographed to take a stand.",
-      "url": "https://www.npr.org/sections/goats-and-soda/2025/06/21/g-s1-73305/photos-neglected-tropical-disease-madagascar-photoville",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+438/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F88%2Fc732364d407eae7b658981fff573%2Ftef-miorarajaonary-madagascar-20240918-0020-group-1.jpeg",
-      "publishedAt": "2025-06-21T13:34:12Z",
-      "content": "A woman named Sylvia Razanaparana, robed in a white dress atop a marine blue shirt, faces the camera with a blue bucket atop her head. The backdrop is sea blue canvas dotted with drops of white. Her … [+4064 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "The Nintendo Switch 2 is an awesome upgrade for parents like me - The Verge",
-      "description": "The Nintendo Switch 2 introduces features like GameShare and virtual game cards that make it work especially well in households with young kids.",
-      "url": "https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-21T13:00:00Z",
-      "content": "New features like GameShare and virtual game cards make the console ideal for families.\r\nI wouldnt have preordered a Nintendo Switch 2 just for myself. The price is high, theres no new Smash Bros. or… [+5418 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Andy Greene",
-      "title": "Take the World’s Hardest Quiz: David Bowie - Rolling Stone",
-      "description": "Are you an absolute beginner or a complete expert when it comes to David Bowie? Take our quiz and find out",
-      "url": "http://www.rollingstone.com/music/music-features/david-bowie-trivia-worlds-hardest-quiz-1235363457/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/david-bowie-quick.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2025-06-21T12:00:00Z",
-      "content": "David Bowie’s death, nearly 10 years ago, was one of the most shocking losses in rock history. Bowie had just released a stunning new record, Blackstar, and had appeared at the opening of his off-Bro… [+3018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ctinsider.com"
-      },
-      "author": "Cris Villalonga-Vivoni",
-      "title": "‘Razor throat’ COVID: What to know about the new variant and a summer spike - CT Insider",
-      "description": "The new COVID-19 variant Nimbus, nicknamed “Razor Throat,” is now dominant in the U.S. with rising global cases.",
-      "url": "https://www.ctinsider.com/connecticut/article/razor-throat-blade-covid-vaccines-in-ct-and-us-20385899.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/50/60/24/27460910/3/rawImage.jpg",
-      "publishedAt": "2025-06-21T09:12:40Z",
-      "content": "In this photo illustration, Ruth Jones, Immunization Nurse, holds a Pfizer-BioNTech COVID-19 vaccine (brand name: Comirnaty) at Borinquen Health Care Center on May 29, 2025 in Miami, Florida. Health … [+4238 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Shannon Pettypiece",
-      "title": "Health care has been a job market bright spot, but Trump's budget bill looms over the industry - NBC News",
-      "description": "Proposed cuts to health insurance programs in the budget bill being pushed through Congress by President Donald Trump could put hundreds of thousands of health care jobs at risk — jeopardizing one of the few notably strong areas of the U.S. job market.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/health-care-job-market-bright-spot-trumps-budget-bill-looms-industry-rcna214078",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250620-healthcare-workers-ch-1002-1ee052.jpg",
-      "publishedAt": "2025-06-21T09:00:00Z",
-      "content": "Proposed cuts to health insurance programs in the budget bill being pushed through Congress by President Donald Trump could put hundreds of thousands of health care jobs at risk jeopardizing one of t… [+5288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Alexander McNamara",
-      "title": "Science news this week: 'Dragon Man's' identity and the universe's 'missing matter' - Live Science",
-      "description": "June 21, 2025: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/science-news-this-week-dragon-mans-identity-and-the-universes-missing-matter",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HM2Cv8k87xbXhhxKNbN8e4.jpg",
-      "publishedAt": "2025-06-21T04:02:27Z",
-      "content": "This week's science news reveals the identity of the mysterious \"Dragon Man,\" while also finding clues to the universe's \"missing matter.\"\r\nIn 1933, a Chinese laborer in Harbin City discovered a huma… [+6583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Awful Announcing"
-      },
-      "author": "Reice Shipley",
-      "title": "Coastal Carolina players laugh off reporter’s LSU question ahead of Game 1 of College World Series Championship - Awful Announcing",
-      "description": "Three Coastal Carolina players laughed when a reporter asked what they admire about the LSU Tigers, their College World Series opponents.",
-      "url": "https://awfulannouncing.com/ncaa/coastal-carolina-laughs-off-reporter-question-college-world-series.html",
-      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/06/Coastal-Carolina-College-World-Series-presser-LSU-question-1024x567.png",
-      "publishedAt": "2025-06-20T21:31:48Z",
-      "content": "On Saturday, Coastal Carolina and LSU will face off in Game 1 of the College World Series Championship Final. And if LSU needed any more motivation ahead of the start of the series, Chanticleers’ pla… [+2084 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The best Apple deals you can shop ahead of Amazon Prime Day 2025 - The Verge",
-      "description": "We’ve rounded up the best Apple deals available ahead of Amazon Prime Day, including discounts on the latest AirPods, the new iPad Air, and the M4 Mac Mini.",
-      "url": "https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257606_iPad_air_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-20T20:56:15Z",
-      "content": "From the latest AirPods to the M4 Mac Mini, were already seeing steep discounts on a number of Apple products.\r\nFrom the latest AirPods to the M4 Mac Mini, were already seeing steep discounts on a nu… [+6126 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Republican Party split over whether Trump should involve US in Israel-Iran conflict - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/republican-party-split-trump-involve-us-israel-iran/story?id\\\\u003d123051107",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T19:58:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "1st images from the Vera C Rubin Observatory will drop on June 23. Here's why that's such a big deal - Space",
-      "description": "\"People are going to be amazed at what we're able to see already.\"",
-      "url": "https://www.space.com/astronomy/1st-images-from-the-vera-c-rubin-observatory-will-drop-on-june-23-heres-why-scientists-are-so-excited",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jiTPEANzpaCXv2YPNkrto5.png",
-      "publishedAt": "2025-06-20T18:00:00Z",
-      "content": "On Monday (June 23), the public and the wider science community will get their first look at images from the Vera C. Rubin Observatory. This will arguably mark the biggest moment in astronomy since t… [+12490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Amanda Caswell",
-      "title": "ChatGPT Record just launched for Pro users — here’s why free users could get it next - Tom's Guide",
-      "description": "ChatGPT Record adds a quick way to speak your prompts",
-      "url": "https://www.tomsguide.com/ai/chatgpt-record-quietly-rolled-out-for-pro-users-heres-why-i-think-free-accounts-could-get-voice-messages-soon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BbJGseJnb3ASDPaPazkVxE.png",
-      "publishedAt": "2025-06-20T12:21:08Z",
-      "content": "OpenAI has quietly rolled out a new “Record” mode for ChatGPT — but for now, it’s limited to Pro, Enterprise, and Edu users on the macOS desktop app.\r\nThe new feature lets you tap a microphone icon a… [+2382 chars]"
     }
   ]
 }
