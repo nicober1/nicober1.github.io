@@ -1,18 +1,31 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 61,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "New Xbox 360 Update Adds More Ads 20 Years After Launch - Kotaku",
+      "description": "Yeah, the Xbox 360 is a retro console, but that won't stop Microsoft from advertising on it",
+      "url": "https://kotaku.com/xbox-360-console-update-more-ads-20-years-old-series-x-1851785111",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/199550a69ab919da70d2a154dc58e174.jpg",
+      "publishedAt": "2025-06-25T21:19:10Z",
+      "content": "Today, some folks turned on their Xbox 360s to discover Microsoft has updated the aging device. The new update fixes an annoying issue bugging players for a bit now, but it also slaps two big ads on … [+1525 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "Philips Hue bulbs will be even more expensive in July. And it may not end there. - Ars Technica",
-      "description": "Some Hue products already cost more in the US than they do elsewhere.",
-      "url": "https://arstechnica.com/gadgets/2025/06/philips-hue-bulbs-will-be-even-more-expensive-in-july-and-it-may-not-end-there/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/hue-play-wall-washer-for-entertainment-lighting-2-1152x648.jpg",
-      "publishedAt": "2025-06-24T20:07:34Z",
+      "author": "Ryan Whitwam",
+      "title": "Google’s spotty Find Hub network could get better thanks to a small setup tweak - Ars Technica",
+      "description": "Expanded device tracking is still opt-in.",
+      "url": "https://arstechnica.com/gadgets/2025/06/googles-spotty-find-hub-network-could-get-better-thanks-to-a-small-setup-tweak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Maps-IO-1152x648.jpg",
+      "publishedAt": "2025-06-25T20:53:53Z",
       "content": null
     },
     {
@@ -20,12 +33,12 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Andrew Cunningham",
-      "title": "Microsoft extends free Windows 10 security updates into 2026, with strings attached - Ars Technica",
-      "description": "End-of-support date isn’t changing, but extra year will be functionally free.",
-      "url": "https://arstechnica.com/gadgets/2025/06/microsoft-extends-free-windows-10-security-updates-into-2026-with-strings-attached/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-1152x648.jpg",
-      "publishedAt": "2025-06-24T19:45:25Z",
+      "author": "Dan Goodin",
+      "title": "Ubuntu disables Intel GPU security mitigations, promises 20% performance boost - Ars Technica",
+      "description": "Overtime defenses for Spectre-based attacks have taken their toll.",
+      "url": "https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/graphics-1152x648.jpg",
+      "publishedAt": "2025-06-25T19:39:19Z",
       "content": null
     },
     {
@@ -33,52 +46,533 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Cameron Faulkner",
-      "title": "Apple’s thirsty F1 movie notification is going over as well as you’d expect it to be - The Verge",
-      "description": "The Apple Wallet app recently pushed a notification to users alerting them to a deal on F1 movie tickets, a project that it helped to produce. People are mad.",
-      "url": "https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/f1.jpg?quality=90&strip=all&crop=0%2C10.719133494003%2C100%2C78.561733011995&w=1200",
-      "publishedAt": "2025-06-24T19:15:41Z",
-      "content": "While perhaps not as bad as the 2014 U2 debacle, pushing promotional ads on users is too thirsty.\r\nApple poured some good money into making F1 a Formula 1 racing movie starring Brad Pitt and it wants… [+1390 chars]"
+      "author": "Jay Peters",
+      "title": "Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints - The Verge",
+      "description": "Dbrand will send replacement Killswitch Joy-Con Grips for the Switch 2 after admitting it had a “spectacularly terrible response” to detachment complaints.",
+      "url": "https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/switch2dbranddocked_cff301.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-06-25T19:29:09Z",
+      "content": "The company will replace Joy-Con grips for all customers and is working on updated versions.\r\nDbrand will send replacement Killswitch Joy-Con Grips for the Switch 2 to buyers after admitting it had a… [+3310 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Scharon Harding",
-      "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
-      "description": "For the price, it “performs well and provides good value” but is still a risky buy.",
-      "url": "https://arstechnica.com/gadgets/2025/06/28-external-hdd-on-amazon-actually-does-what-it-claims-still-not-a-good-buy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/UnionSine-1152x648-1750784991.jpg",
-      "publishedAt": "2025-06-24T17:44:12Z",
+      "author": "Kyle Orland",
+      "title": "Games run faster on SteamOS than Windows 11, Ars testing finds - Ars Technica",
+      "description": "Lenovo Legion Go S gets better frame rates running Valve’s free operating system.",
+      "url": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/steamos-vs-windows11-1152x648.jpg",
+      "publishedAt": "2025-06-25T19:25:39Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "Gameinformer.com"
       },
-      "author": "Manuel Masiero",
-      "title": "A 5.8 millimeter-thin endurance marvel : Samsung Galaxy S25 Edge smartphone review - Notebookcheck",
-      "description": "Meaningful description of the article (mix of abstract and intro in 2 sentences) considering important keywords",
-      "url": "https://www.notebookcheck.net/A-5-8-millimeter-thin-endurance-marvel-Samsung-Galaxy-S25-Edge-smartphone-review.1042425.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S25_Edge/Fotos_Samsung_Galaxy_S25_Edge_4_zu_3-Teaser_2.JPEG",
-      "publishedAt": "2025-06-24T17:40:00Z",
-      "content": "Unlike the other Galaxy S25 smartphones, the Galaxy S25 Edge doesn't feature a triple camera setup, but rather a duo of main and ultra-wide-angle cameras due to space constraints. On the front is a 1… [+1332 chars]"
+      "author": "Brian Shea",
+      "title": "Borderlands 4 Preview - Hands-On With All Four Vault Hunters - Game Informer",
+      "description": "We get exclusive hands-on with all four Vault Hunters from Borderlands 4's base game.",
+      "url": "https://www.gameinformer.com/preview/2025/06/25/hands-on-with-all-four-vault-hunters",
+      "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/09/4e69d974/borderlands_4_screenshot_-_4_player_co-op.jpg",
+      "publishedAt": "2025-06-25T19:00:00Z",
+      "content": "Following the events of Borderlands 3, where Lilith teleported Pandora's moon, Elpis, to another part of space, a previously cloaked planet was revealed to the universe. A few years later, four Vault… [+5530 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Anker’s versatile travel charger is on sale just in time for summer - The Verge",
+      "description": "Anker’s new Nano Travel Adapter is down to just $21.99 ($4 off) for a limited time. The Fitbit Ace LTE and the Alexa Voice Remote Pro are also on sale right now.",
+      "url": "https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/ankernanotraveladapter.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-25T18:16:00Z",
+      "content": "Plus, we found deals on Fitbits kid-friendly Ace LTE and Govees color-changing light bars.\r\nPlus, we found deals on Fitbits kid-friendly Ace LTE and Govees color-changing light bars.\r\nIf youre planni… [+3182 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MarketWatch"
+        "name": "Kotaku"
       },
-      "author": "Laila Maidan",
-      "title": "Apple was one of the few stocks down today. Why acquiring Perplexity could be key. - MarketWatch",
-      "description": "The tech giant could find a way out of the ‘penalty box’ and cure the perception that it’s an AI laggard",
-      "url": "https://www.marketwatch.com/story/why-apple-potentially-acquiring-perplexity-could-be-big-news-for-its-stock-4d352b39",
-      "urlToImage": "https://images.mktw.net/im-49406726/social",
-      "publishedAt": "2025-06-24T17:30:00Z",
-      "content": "Apple Inc.s stock has had a rough go of it during the first half of the year. President Trumps tariffs caused have weighed on the company, as investors continue to gauge what the full cost to its bus… [+312 chars]"
+      "author": "Ethan Gach",
+      "title": "New Hot Shots Golf Game Cops To Using Generative AI For Trees - Kotaku",
+      "description": "Everybody's Golf: Hot Shots features Pac-Man and AI foliage",
+      "url": "https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/755945980ff9c6088bf1cf007e58f9fa.jpg",
+      "publishedAt": "2025-06-25T18:00:00Z",
+      "content": "Everybodys Golf: Hot Shots brings the fan-favorite franchise to modern consoles under one unified name after a nearly decade-long hiatus. Unfortunately, its simple three-button shot mechanics will ar… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Meta is adding AI-powered summaries to WhatsApp - TechCrunch",
+      "description": "Meta announced on Wednesday that it's adding an AI-powered summaries feature to WhatsApp. The optional new feature uses Meta AI to summarize unread",
+      "url": "https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+      "publishedAt": "2025-06-25T17:56:49Z",
+      "content": "Meta announced on Wednesday that it’s adding an AI-powered summaries feature to WhatsApp. The optional new feature uses Meta AI to summarize unread messages in a chat. \r\nThis summary would only be vi… [+1355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Arcaracing.com"
+      },
+      "author": "Staff Report",
+      "title": "Entry list: Lime Rock Park 100 at Lime Rock Park - arcaracing.com",
+      "description": "See who's racing Saturday in the ARCA Menards Series event at Lime Rock Park.",
+      "url": "https://www.arcaracing.com/2025/06/25/entry-list-lime-rock-park-100/",
+      "urlToImage": "",
+      "publishedAt": "2025-06-25T17:45:34Z",
+      "content": "You have been signed up successfully.\r\nThere was a security issue.\r\nThere was an issue processing your request.\r\nYou are already subscribed to this newsletter."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Jennifer Maas",
+      "title": "Jack Black to Reprise Officer Dick in ‘Tony Hawk’s Pro Skater 3 + 4’ (EXCLUSIVE) - Variety",
+      "description": "When the \"Tony Hawk's Pro Skater\" franchise returns with new installment \"3 + 4\" on July 11, it's bringing Jack Black back with it.",
+      "url": "https://variety.com/2025/gaming/news/jack-black-tony-hawks-pro-skater-3-4-officer-dick-1236440201/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/Jack-Black-Tony-Hawk-Pro-Skater-3-4.png?w=1000&h=563&crop=1",
+      "publishedAt": "2025-06-25T17:00:00Z",
+      "content": "When the “Tony Hawk’s Pro Skater” franchise returns with new installment “3 + 4” on July 11, it’s bringing Jack Black back with it.\r\nThe “A Minecraft Movie” star is returning to the skate-boarding vi… [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Mike Andronico",
+      "title": "I’ve been tracking Nintendo Switch 2 restocks for weeks, and a big one is coming - CNN",
+      "description": "If you’re still on the hunt for a Nintendo Switch 2, follow these expert tips we’ve learned from years of tracking hard-to-find consoles.",
+      "url": "https://www.cnn.com/cnn-underscored/electronics/nintendo-switch-2-restock-2025-06-25",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/switch-2-review-cnnu-1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-25T16:49:00Z",
+      "content": "The Nintendo Switch 2 remains hotly in demand well after its launch, which means that youre probably waiting impatiently for the next big Nintendo Switch 2 restock. The good news is that Nintendos fa… [+9396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Joshua Rivera",
+      "title": "The Video Game Industry as We Knew It Is Over. Something Unsavory Is Taking Its Place. - Slate Magazine",
+      "description": "Enjoy the new Nintendo console while it lasts. We may not get another one.",
+      "url": "https://slate.com/culture/2025/06/nintendo-switch-2-video-games-xbox-playstation.html",
+      "urlToImage": "https://compote.slate.com/images/c7bb7c47-037e-4dd6-a973-a266cee36579.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-06-25T16:32:00Z",
+      "content": "The video game industry loves to tout figures: record-breaking sales numbers, astonishing revenue growth, dazzling quantities of concurrent players. It makes sense that the people who make and play g… [+10120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Pero",
+      "title": "Google to Gemini Users: We’re Going to Look at Your Texts Whether You Like It or Not - Gizmodo",
+      "description": "An email sent out to Android users should raise the eyebrows of anyone worried about privacy.",
+      "url": "https://gizmodo.com/google-to-gemini-users-were-going-to-look-at-your-texts-whether-you-like-it-or-not-2000620141",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/geminigooglegetty-1200x675.jpg",
+      "publishedAt": "2025-06-25T16:26:29Z",
+      "content": "The idea of agentic AI is pretty appealing. Like, sure, I want AI to order my Uber, summarize my calendar, or buy cat food when I run out so my little monster doesn’t go hungry, but all of those very… [+2603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Droid Life"
+      },
+      "author": "Tim",
+      "title": "Leaked Pixel 10 Spec Sheet Confirms Important Change - Droid Life",
+      "description": "We are always trying to learn more about Google’s upcoming devices ahead of official announcements, but sometimes the information isn’t the greatest of news. Take this Pixel 10 spec dump as an example. While we now have a very accurate picture of what the Pix…",
+      "url": "https://www.droid-life.com/2025/06/25/pixel-10-specs-google-trades-camera-downgrades-for-slightly-bigger-battery/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/08/Pixel-9-Review-9-1200x628-cropped.jpg",
+      "publishedAt": "2025-06-25T16:10:52Z",
+      "content": "We are always trying to learn more about Google’s upcoming devices ahead of official announcements, but sometimes the information isn’t the greatest of news. Take this Pixel 10 spec dump as an exampl… [+1741 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Remedy is in control - The Verge",
+      "description": "Remedy Entertainment, the studio behind Control and Alan Wake, has found a winning formula in the tumultuous games industry.",
+      "url": "https://www.theverge.com/games/691964/remedy-entertainment-profile-alan-wake-control-fbc-firebreak",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/ss_06b7e4baac0ac7f2ecfcc8d3198f707339c6296f.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-25T16:00:00Z",
+      "content": "In the quiet city of Espoo, a short drive west from Helsinki in Finland, is an unassuming building thats home to one of the most confounding studios in games. Remedy Entertainment is known for gettin… [+13442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Samsung launches three 4K 32-inch Smart monitors: M9 gets QD-OLED panel and $1599 price tag - VideoCardz.com",
+      "description": "Samsung launches new Smart Monitors: M9 gets QD-OLED, M8 and M7 upgraded with AI tools Samsung has updated its Smart Monitor lineup with three new 32-inch models. The highlight is the new Smart Monitor M9 (M90SF), now using a QD-OLED panel with a 165Hz refres…",
+      "url": "https://videocardz.com/newz/samsung-launches-three-4k-32-inch-smart-monitors-m9-gets-qd-oled-panel-and-1599-price-tag",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/06/SAMSUNG-M9-2025.jpg",
+      "publishedAt": "2025-06-25T15:49:00Z",
+      "content": "Samsung has updated its Smart Monitor lineup with three new 32-inch models. The highlight is the new Smart Monitor M9 (M90SF), now using a QD-OLED panel with a 165Hz refresh rate, 0.03ms response tim… [+2638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "My Nintendo News"
+      },
+      "author": "Sickr",
+      "title": "Square Enix acknowledges Expedition 33 success - My Nintendo News",
+      "description": "Clair Obscur Expedition 33 has proved to be a massive hit with gamers and critics alike and many are praising its evolutionary turn based combat. After playing the game, many users took to social…",
+      "url": "https://mynintendonews.com/2025/06/25/square-enix-acknowledges-expedition-33-success/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/06/final_fantasy_16.jpg?fit=3840%2C2160&ssl=1",
+      "publishedAt": "2025-06-25T15:36:19Z",
+      "content": "Clair Obscur Expedition 33 has proved to be a massive hit with gamers and critics alike and many are praising its evolutionary turn based combat. After playing the game, many users took to social med… [+1146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Edwin Evans-Thirlwell",
+      "title": "Stalker 2's broken A-life system is finally working as designed, according to GSC Game World - Rock Paper Shotgun",
+      "description": "STALKER 2: Shadow Of Chornobyl's busted A-Life system has been patched extensively, alongside the introduction of official mod support.",
+      "url": "https://www.rockpapershotgun.com/stalker-2s-broken-a-life-system-is-finally-working-as-designed-according-to-gsc-game-world",
+      "urlToImage": "https://assetsio.gnwcdn.com/Stalker-2-Beastmaster-4-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-25T15:14:51Z",
+      "content": "S.T.A.L.K.E.R. 2: Heart of Chornobyl has a sizeable game update that promises to finally get the game's A-Life system working as intended. For those just joining us - perhaps because you only popped … [+3199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Owen Hughes",
+      "title": "New chip could be the breakthrough the quantum computing industry has been waiting for - Live Science",
+      "description": "Scientists in Australia have developed a quantum control chip that removes a key obstacle to getting qubits into practical, real-world computing systems.",
+      "url": "https://www.livescience.com/technology/computing/this-result-has-been-more-than-a-decade-in-the-making-millions-of-qubits-on-a-single-chip-now-possible-after-cryogenic-breakthrough",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zdx4HgQxLhNYgvq7EtB3N3.jpg",
+      "publishedAt": "2025-06-25T15:00:00Z",
+      "content": "Scientists have developed a new type of computer chip that removes a major obstacle to practical quantum computers,\r\n making it possible for the first time to place millions of qubits\r\n and their con… [+4944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Report: Galaxy S26 to use Samsung-made Snapdragon 8 Elite sequel, not TSMC version - 9to5Google",
+      "description": "According to a new report, Samsung will make the Snapdragon chips being used in the Galaxy S26 series instead of TSMC.",
+      "url": "http://9to5google.com/2025/06/25/samsung-galaxy-s26-snapdragon-tsmc-report/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/snapdragon-8-elite-for-galaxy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-25T14:45:00Z",
+      "content": "Samsung’s Galaxy S26 series will reportedly use Snapdragon chips, but ones made by Samsung’s foundry rather than TSMC if a new report turns out to be true.\r\nQualcomm has been producing special “For G… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Paul Tassi",
+      "title": "‘Destiny 2’ Players Hate Edge Of Fate’s ‘New Gear’ Grind Plan - Forbes",
+      "description": "Destiny 2 will begin a new form of loot grinding and seasonal bonuses with The Edge of Fate expansion arrives, and players don't love it.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/06/25/destiny-2-players-hate-edge-of-fates-new-gear-grind-plan/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685bfb1689802837f2b825ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-25T13:44:40Z",
+      "content": "Destiny 2\r\nBungie\r\nYesterday, Bungie had a lengthy livestream about The Edge of Fate, Destiny 2s upcoming expansion that drops in mid-July. But it wasnt really about The Edge of Fate itself outside o… [+4031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ftc.gov"
+      },
+      "author": null,
+      "title": "FTC Sends $126 Million in Refunds to Fortnite Players Who Were Charged for Unwanted Items, Reopens Claims Process - Federal Trade Commission (.gov)",
+      "description": "The Federal Trade Commission is sending refunds totaling more than $126 million to players of the popular video game Fortnite who were charged for unwanted purchases while playing the game.",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-126-million-refunds-fortnite-players-who-were-charged-unwanted-items-reopens-claims",
+      "urlToImage": "https://www.ftc.gov/sites/default/files/styles/social_standard/public/images/press-releases/social-share/badge-explore-data-ftc-refunds-fb_0.png?h=ec041e41&itok=O8xF38KO",
+      "publishedAt": "2025-06-25T13:39:34Z",
+      "content": "The Federal Trade Commission is sending refunds totaling more than $126 million to players of the popular video game Fortnite who were charged for unwanted purchases while playing the game.\r\nThe agen… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "Microsoft dangles extended Windows 10 support in exchange for Reward Points - theregister.com",
+      "description": ": Or your cloud-bound soul. Otherwise, $30 please",
+      "url": "https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/",
+      "urlToImage": "https://regmedia.co.uk/2016/07/06/windows_10_by_anton_watman_image_via_shutterstock.jpg",
+      "publishedAt": "2025-06-25T13:35:00Z",
+      "content": "Microsoft has found a new use for Reward Points and another incentive to upload everything you hold dear to someone else's servers.\r\nYou know the drill by now. Windows 10 is approaching its end of li… [+3746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Netflix Backs Even Further Away From Gaming, Losing 20 Titles Next Month - Kotaku",
+      "description": "Big names like Hades, Monument Valley and The Case of the Golden Idol are leaving the service",
+      "url": "https://kotaku.com/netflix-gaming-hades-monument-vally-golden-idol-braid-1851785038",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4cc6842049b2da8a176727d20d2d66b3.jpg",
+      "publishedAt": "2025-06-25T13:20:00Z",
+      "content": "It looks like Netflix is taking another huge step backward from its involvement in video games. Its been announced that a whopping 20 games are being removed from the service, including big names lik… [+3097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aboutamazon.com"
+      },
+      "author": "Jamie Siminoff",
+      "title": "Ring debuts Video Descriptions, Gen AI-powered updates on what’s happening at home - AboutAmazon.com",
+      "description": "A new era at Ring starts with detailed alerts that let you distinguish between urgent and everyday activity at a glance.",
+      "url": "https://www.aboutamazon.com/news/devices/ring-video-descriptions-gen-ai",
+      "urlToImage": "https://assets.aboutamazon.com/dims4/default/2f0abac/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F26%2F93%2F5966d3a947e384bdfb7ab8db9ff9%2Fringai-car2.gif",
+      "publishedAt": "2025-06-25T12:59:31Z",
+      "content": "A new era at Ring starts with detailed alerts that let you distinguish between urgent and everyday activity at a glance."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Stephen Johnson",
+      "title": "Here's What I Learned After Seven Months of Wearing Ray-Ban Meta Smart Glasses - Lifehacker",
+      "description": "How do Meta's flagship smart glasses stack up after half a year?",
+      "url": "https://lifehacker.com/tech/what-i-learned-after-ray-ban-glasses",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01JTMHS187KDA9RCEEY4B8FHBR/hero-image.fill.size_1200x675.jpg",
+      "publishedAt": "2025-06-25T12:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "HDMI 2.2 will support 16K video at 60Hz - The Verge",
+      "description": "After announcing it at CES 2025, the HDMI Forum has released the HDMI 2.2 specification to manufacturers.",
+      "url": "https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/hdmi22_1.jpg?quality=90&strip=all&crop=0,10.798320425817,100,78.403359148365",
+      "publishedAt": "2025-06-25T12:18:30Z",
+      "content": "Hardware makers can start building HDMI 2.2-compatible devices and cables with bandwidths up to 96Gbps.\r\nAfter first announcing it at CES 2025, the HDMI Forum is finally releasing the new HDMI 2.2 sp… [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Ed Nightingale",
+      "title": "Death Stranding 2's instantaneous loading times truly prove the power of the PS5 - Eurogamer",
+      "description": "Players are already impressed by the incredibly fast loading times in Death Stranding 2, which only proves the power of the PS5 console.",
+      "url": "https://www.eurogamer.net/death-stranding-2s-instantaneous-loading-times-truly-prove-the-power-of-the-ps5",
+      "urlToImage": "https://assetsio.gnwcdn.com/IMG_6903.JPG?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-25T11:36:32Z",
+      "content": "Players are already impressed by the incredibly fast loading times in Death Stranding 2, which only proves the power of the PS5 console, as well as Guerrilla Games' Decima game engine used by Kojima … [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Stan Schroeder",
+      "title": "New leak gives us a glimpse of black iPhone 17 Pro and iPhone 17 Air - Mashable",
+      "description": "We're slowly warming up to the wide camera bump.",
+      "url": "https://mashable.com/article/black-iphone-17-dummy-apple",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02sUym5VzPg0IzSeLHnXffR/hero-image.fill.size_1200x675.v1750847469.jpg",
+      "publishedAt": "2025-06-25T11:07:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "The smaller Fairphone 6 introduces swappable accessories - The Verge",
+      "description": "The Fairphone 6 is smaller and lighter but offers better battery life and a more modular design, making it easier to repair and upgrade than other phones.",
+      "url": "https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/fairphone6_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-25T09:00:00Z",
+      "content": "The repairable smartphone is now even more modular with new accessories that expand its functionality.\r\nFairphone has announced its latest repairable smartphone, nearly two years after introducing th… [+3544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Daniel Sims",
+      "title": "Asus pushes 2,600W into RTX 5090 to prove new cableless GPU power connector works - TechSpot",
+      "description": "In a recent Bilibili video, translated by Tom's Hardware, Asus China GM Tony Yu pumped nearly 2 kilowatts into an Nvidia RTX 5090 to showcase the resilience...",
+      "url": "https://www.techspot.com/news/108436-asus-pushes-2600w-rtx-5090-prove-new-cableless.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/06/2025-06-24-image-16.jpg",
+      "publishedAt": "2025-06-25T01:19:00Z",
+      "content": "Forward-looking: As cases of burning and melting RTX 5090 power cables continue to mount, Asus has demonstrated that its new Back to the Future (BTF) power connector design can maintain safe temperat… [+2943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EventHubs"
+      },
+      "author": "Dakota DarkHorse Hills",
+      "title": "Another new tag-based fighting game has been announced in Saturday AM: Battle Manga - EventHubs",
+      "description": "Up until the last year or two, the tag-based fighting game subgenre was looking pretty sparse, but the space seems to be getting more crowded now.MyFutprint Entertainment and Son Studios have now announced that Saturday AM: Battle Manga is ...",
+      "url": "https://www.eventhubs.com/news/2025/jun/24/saturday-fighting-game-announce/",
+      "urlToImage": "https://media.eventhubs.com/images/2025/06/24-saturday-fighting-game-announcet.webp",
+      "publishedAt": "2025-06-24T23:49:41Z",
+      "content": "Up until the last year or two, the tag-based fighting game subgenre was looking pretty sparse, but the space seems to be getting more crowded now.\r\nMyFutprint Entertainment and Son Studios have now a… [+2347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Nandika Ravi",
+      "title": "Samsung's latest earbuds will be unveiled ahead of Galaxy Unpacked - Android Central",
+      "description": "The company says these Buds will bring \" louder, clearer, deeper\" sounds.",
+      "url": "https://www.androidcentral.com/accessories/earbuds/samsung-teases-its-new-galaxy-buds-ahead-of-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UZM6Yqt2gJS7eY6s3Kskg4.jpg",
+      "publishedAt": "2025-06-24T23:22:20Z",
+      "content": "<ul><li>Samsung seems to be officially teasing a new pair of earbuds, and previous leaks indicate that it could be called \"Galaxy Buds Core.\"</li><li>Samsung India took to X to drop a quick tease of … [+3165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Matt Wales",
+      "title": "Little Nightmares 3 gets October release date and there's an enhanced edition of the original on the way - Eurogamer",
+      "description": "It's been an eventful news day for fans of adorably sinister horror series Little Nightmares. Not only has the upcoming…",
+      "url": "https://www.eurogamer.net/little-nightmares-3-gets-october-release-date-and-theres-an-enhanced-edition-of-the-original-on-the-way",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2023-09-02-at-17.27.01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-06-24T22:03:10Z",
+      "content": "It's been an eventful news day for fans of adorably sinister horror series Little Nightmares. Not only has the upcoming third instalment received a 10th October release date on Xbox, PlayStation, Swi… [+2270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Mayank Parmar",
+      "title": "Claude catches up to ChatGPT with built-in memory support - BleepingComputer",
+      "description": "AI startup Anthorpic is planning to add a memory feature to Claude in a bid to take on ChatGPT, which has an advanced memory feature.",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-catches-up-to-chatgpt-with-built-in-memory-support/",
+      "urlToImage": "https://www.bleepstatic.com/content/posts/2025/06/24/Claudememory.jpg",
+      "publishedAt": "2025-06-24T21:52:15Z",
+      "content": "AI startup Anthorpic is planning to add a memory feature to Claude in a bid to take on ChatGPT, which has an advanced memory feature.\r\nWith memory support, Claude can remember past events and referen… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Josh Broadwell",
+      "title": "‘I won’t do it’: Death Stranding 2’s first big choice is scaring streamers but shouldn’t scare you - Polygon",
+      "description": "Hideo Kojima plays a fun new game with the audience in one of DS2’s first big decision scenes — and it’s spooking streamers like Jacksepticeye.",
+      "url": "https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/06/death-straninding-2-i-wont-do-it.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-06-24T20:50:00Z",
+      "content": "[Ed. note: This post contains spoilers for the first hour of Death Stranding 2, which is now in early access]\r\nDeath Stranding 2: On the Beachs I wont do it choice, the first in Kojima Productions lo… [+4273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "SonicWall warns of trojanized NetExtender stealing VPN logins - BleepingComputer",
+      "description": "SonicWall is warning customers that threat actors are distributing a trojanized version of its NetExtender SSL VPN client used to steal VPN credentials.",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-trojanized-netextender-stealing-vpn-logins/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/05/13/SonicWall.jpeg",
+      "publishedAt": "2025-06-24T20:36:19Z",
+      "content": "SonicWall is warning customers that threat actors are distributing a trojanized version of its NetExtender SSL VPN client used to steal VPN credentials.\r\nThe fake software, which was discovered by So… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "kittypokemonsalot",
+      "title": "Zamazenta and Zacian Gain New Adventure Effects! - Pokémon GO Hub",
+      "description": "With the global debut of the Crowned Forms of Zamazenta and Zacian this weekend during Pokémon GO Fest 2025: Global, we also have the exciting news that their Signature Moves come with 2 new Adventure Effects! Adventure Effects are temporary bonuses in Pokémo…",
+      "url": "https://pokemongohub.net/post/news/zamazenta-and-zacian-gain-new-adventure-effects/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/05/unnamed.jpg",
+      "publishedAt": "2025-06-24T19:01:08Z",
+      "content": "With the global debut of the Crowned Forms of Zamazenta and Zacian this weekend during Pokémon GO Fest 2025: Global, we also have the exciting news that their Signature Moves come with 2 new Adventur… [+1531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarScoops"
+      },
+      "author": "Brad Anderson",
+      "title": "Lexus’ New Supercar Spotted In California Sans Wing - Carscoops",
+      "description": "The spiritual successor to the vaunted LFA will ditch the naturally aspirated V10 for a twin-turbo V8, but will make up for it with lots of extra power",
+      "url": "https://www.carscoops.com/2025/06/lexus-new-supercar-spotted-in-california-sans-wing/",
+      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/06/Lexus-LFR-Spy.jpg",
+      "publishedAt": "2025-06-24T18:52:04Z",
+      "content": "The spiritual successor to the vaunted LFA will ditch the naturally aspirated V10 for a twin-turbo V8, but will make up for it with lots of extra power \r\n<ul><li>The twin-turbocharged V8 Lexus could … [+2429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Philips Hue lighting is getting even more expensive on July 1 as a ‘direct result’ of tariffs - 9to5Google",
+      "description": "Philips Hue lighting is already expensive, but a price hike on July 1 will be hitting due to the impact of US tariffs.",
+      "url": "http://9to5google.com/2025/06/24/philips-hue-lighting-price-hike-tariffs/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/philips-hue-sync-box-8k-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-24T18:35:00Z",
+      "content": "In the smart home world, Philips Hue already has some of the more expensive options, and now those prices are going even higher thanks to US tariffs.\r\nOver the past few weeks, Philips Hue has been ad… [+1620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Alana Hagues",
+      "title": "Drag X Drive Switch 2 eShop Price Revealed - Nintendo Life",
+      "description": "And it's cheaper than most",
+      "url": "https://www.nintendolife.com/news/2025/06/drag-x-drive-switch-2-eshop-price-revealed",
+      "urlToImage": "https://images.nintendolife.com/299d8a1b1cd6e/large.jpg",
+      "publishedAt": "2025-06-24T18:01:47Z",
+      "content": "Image: Nintendo\r\nEarlier today, Nintendo dropped a surprise on everyone by revealing Drag x Drive's release date on the Nintendo Today! app. And now, a few hours later, pre-orders are open and that m… [+1079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Wallet adds support for seventh state ID on Android - 9to5Google",
+      "description": "As previewed last September, Google Wallet for Android is rolling out support for Iowa state IDs. This is the seventh launch...",
+      "url": "http://9to5google.com/2025/06/24/google-wallet-id-iowa/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Google-Wallet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-06-24T17:41:00Z",
+      "content": "As previewed last September, Google Wallet for Android is now rolling out support for Iowa state IDs. \r\nOpen Google Wallet, tap the Add to Wallet FAB (floating action button) in the corner, and then … [+2552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Alex Weprin",
+      "title": "The First James Bond of the Amazon Era Is Young, Reckless, and a Playable Character - The Hollywood Reporter",
+      "description": "'007 First Light' will be released next year, featuring a fresh take on Bond from 'Hitman' developer IO Interactive.",
+      "url": "http://www.hollywoodreporter.com/business/digital/first-amazon-james-bond-007-first-light-video-game-1236297896/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/007FirstLight_Screenshots_Bond.png?crop=0px%2C8px%2C3840px%2C2148px&resize=1440%2C810",
+      "publishedAt": "2025-06-24T17:13:50Z",
+      "content": "The first new James Bond under the complete ownership of Amazon MGM Studios will make his debut in 2026, and he is young, brash, has a robust origin story and a mysterious scar on his right cheek … a… [+5619 chars]"
     },
     {
       "source": {
@@ -98,182 +592,117 @@
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Sarah Perez",
-      "title": "Chrome for Android now lets you move the address bar to the bottom, too - TechCrunch",
-      "description": "Google is not forcing the change on all its users. Instead, it's adding a new feature that lets users configure the address bar's location to their liking.",
-      "url": "https://techcrunch.com/2025/06/24/chrome-for-android-now-lets-you-move-the-address-bar-to-the-bottom-too/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-887454052.jpg?resize=1200,797",
-      "publishedAt": "2025-06-24T17:00:00Z",
-      "content": "Google Chrome’s web browser for Android devices is finally catching up to the notable design change that Safari made with the 2021 introduction of iOS 15: It’s offering a way to move the address bar … [+1782 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Brian Shea",
-      "title": "Embracing the Chaos - Game Informer",
-      "description": "Gearbox’s flagship franchise is ready to free players from past restraints in Borderlands 4.",
-      "url": "https://gameinformer.com/feature/2025/06/24/embracing-the-chaos",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/17/e09fee98/wm_borderlands.jpg",
-      "publishedAt": "2025-06-24T16:08:34Z",
-      "content": "Borderlands is built on chaos. But when chaos and order exist on a spectrum, there will always be those who go too far in one direction. For Gearbox, a studio that has always thrived in the spaces be… [+1491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Phone’s M3 Expressive update redesigns bottom bar with Home, Keypad tabs - 9to5Google",
-      "description": "Google shared more details about the Phone app’s upcoming Material 3 Expressive redesign, including a big revamp of bottom bar navigation.",
-      "url": "http://9to5google.com/2025/06/24/google-phone-bottom-bar-redesign/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-24T15:50:00Z",
-      "content": "Following the initial rollout for some beta users last week, Google shared more details about the Phone apps upcoming Material 3 Expressive redesign, including a big revamp of bottom bar navigation.\r… [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM - The Verge",
-      "description": "Nvidia announced its GeForce RTX 5050 GPUs for desktops and laptops. The desktop cards start at $249 with 8GB of older GDDR6 VRAM, while laptops get newer GDDR7.",
-      "url": "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/geforce-rtx-5050-desktop-and-laptop.jpg?quality=90&strip=all&crop=0%2C0.13712291199202%2C100%2C99.725754176016&w=1200",
-      "publishedAt": "2025-06-24T15:45:49Z",
-      "content": "Laptops with RTX 5050 cards are also coming with 8GB of GDDR7.\r\nNvidia has announced GeForce RTX 5050 GPUs for both desktops and laptops with support for ray tracing and DLSS 4 with Multi Frame Gener… [+1976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Here's Everything New in macOS Tahoe Beta 2 - MacRumors",
-      "description": "The second developer beta of macOS Tahoe is now available for testing, and it includes a handful of smaller new features and changes on the Mac.  ...",
-      "url": "https://www.macrumors.com/2025/06/24/macos-tahoe-beta-2-new-features-changes/",
-      "urlToImage": "https://images.macrumors.com/t/i2UaxYd6Fxox9ao16W5WNas3REY=/1600x/article-new/2025/06/macos-tahoe.jpg",
-      "publishedAt": "2025-06-24T15:35:17Z",
-      "content": "The second developer beta of macOS Tahoe is now available for testing, and it includes a handful of smaller new features and changes on the Mac.\r\nBelow, we recap everything new that has been found in… [+2201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "The Best Game Of All Time Just Turned 25 Years Old - Kotaku",
-      "description": "Deus Ex remains one of the richest, most involving games you can play today",
-      "url": "https://kotaku.com/deus-ex-25-years-ion-storm-looking-glass-warren-ellis-1851784985",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b13658b87df1608331cedf54cb8ad235.jpg",
-      "publishedAt": "2025-06-24T15:20:00Z",
-      "content": "Yesterday, June 23, marked the 25th anniversary of what can convincingly be described as one of the best games of all time. Deus Ex, created by the distinct Austin branch of John Romeros controversia… [+7186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Connor Makar",
-      "title": "Popular third-party Switch 2 case suffers manufacturing defect in small number of orders, producer promises it's \"working on it\" - Eurogamer",
-      "description": "Popular third-party Switch 2 case suffers manufacturing defect in small number of orders, producer promises it's \"working on it\".",
-      "url": "https://www.eurogamer.net/popular-third-party-switch-2-case-suffers-manufacturing-defect-in-small-number-of-orders-producer-promises-its-working-on-it",
-      "urlToImage": "https://assetsio.gnwcdn.com/killswitch-joycons.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-24T14:29:56Z",
-      "content": "Popular gaming peripheral manufacturer Dbrand has acknowledged a defect affecting a small number of its Project Killswitch Nintendo Switch 2 cases.\r\nThis defect impacts the lip attaching the joycons … [+1555 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Ash Parrish",
-      "title": "Nintendo’s wheelchair basketball game will be out in August - The Verge",
-      "description": "Nintendo has announced that Drag x Drive, the 3v3 basketball game that shows off Switch 2 mouse controls will release in August.",
-      "url": "https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/NintendoSwitch2_16x9_DragXDrive_KeyArt.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-06-24T14:24:44Z",
-      "content": "Drag x Drive, the first Switch 2 exclusive that focuses on the consoles mouse function launches August 14th.\r\nDrag x Drive, the first Switch 2 exclusive that focuses on the consoles mouse function la… [+1156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iPhone 17 Pro: Four new camera features are coming this fall - 9to5Mac",
-      "description": "iPhone 17 Pro and Pro Max will be unveiled in September, and these four new camera features are rumored to be announced.",
-      "url": "https://9to5mac.com/2025/06/24/iphone-17-pro-four-new-camera-features-are-coming-this-fall/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-24T14:24:00Z",
-      "content": "Apples big iPhone 17 unveiling is just a few months away, with a launch event likely in early September. Here are four new camera features expected to arrive with the iPhone 17 Pro and Pro Max.\r\nEver… [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google DeepMind’s optimized AI model runs directly on robots - The Verge",
-      "description": "Google DeepMind is launching an on-device Gemini Robotics model that can run on robots without an internet connection.",
-      "url": "https://www.theverge.com/news/691882/google-deepmind-on-device-ai-robots-gemini",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/apptronik-robot.png?quality=90&strip=all&crop=4.1221590650732%2C11.41427083965%2C95.877840934927%2C46.51984126678&w=1200",
+      "author": "Ivan Mehta",
+      "title": "Google rolls out new Gemini model that can run on robots locally - TechCrunch",
+      "description": "Google DeepMind has released a new language model called Gemini Robotics On-Device that can run tasks locally on robots without an internet connection.",
+      "url": "https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-642109519.jpg?resize=1200,675",
       "publishedAt": "2025-06-24T14:00:00Z",
-      "content": "The offline model can perform almost as well as the flagship Gemini Robotics model.\r\nGoogle DeepMind is rolling out an on-device version of its Gemini Robotics AI model that allows it to operate with… [+1859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Ed Nightingale",
-      "title": "Microsoft dips its toes into VR with limited edition Xbox-themed Meta Quest headset - Eurogamer",
-      "description": "Xbox has collaborated with Meta to launch the Meta Quest 3S Xbox Edition, a limited edition VR headset.",
-      "url": "https://www.eurogamer.net/microsoft-dips-its-toes-into-vr-with-limited-edition-xbox-themed-meta-quest-headset",
-      "urlToImage": "https://assetsio.gnwcdn.com/Unveiling-the-Exclusive-Meta-Quest-3S-Xbox-Edition-0-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-24T13:04:44Z",
-      "content": "Xbox has collaborated with Meta to launch the Meta Quest 3S Xbox Edition, a limited edition VR headset.\r\nThe device continues an ongoing partnership between the two companies, following the addition … [+2013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Pixel 11’s Tensor G6 will reportedly use 2nm process at TSMC, no longer lagging behind - 9to5Google",
-      "description": "According to a new report, Google is planning to jump to TSMC’s 2nm process for Tensor G6 faster than it...",
-      "url": "http://9to5google.com/2025/06/24/google-tensor-g6-tsmc-2nm-report/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/08/google-tensor-cover-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2025-06-24T12:30:00Z",
-      "content": "According to a new report, Google is planning to jump to TSMC’s 2nm process for Tensor G6 faster than it has in prior years.\r\nThe first Tensor chip in 2021’s Pixel 6 was built on a 5nm process at Sam… [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prideofdetroit.com"
-      },
-      "author": "Jeremy Reisman",
-      "title": "Lions trivia: Your in-5 daily game, Tuesday edition - Pride Of Detroit",
-      "description": "Think you can figure out which Lions player we’re talking about? You’ll get five clues to figure him out in our new guessing game!",
-      "url": "https://www.prideofdetroit.com/2025/6/24/24454738/sb-nation-lions-daily-trivia-in-5",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/S5u304TILeTH65JuPgRGJ9YKiv8=/0x63:3200x1738/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25904318/pod_social.png",
-      "publishedAt": "2025-06-24T11:00:00Z",
-      "content": "Were back for another day of the Pride of Detroit in-5 daily trivia game. Game instructions are at the bottom if youre new to the game! Feel free to share your results in the comments and feedback in… [+981 chars]"
+      "content": "Google DeepMind on Tuesday released a new language model called Gemini Robotics On-Device that can run tasks locally on robots without requiring an internet connection. \r\nBuilding on the company’s pr… [+1460 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "Windows 11’s indicators for volume and brightness can soon be moved out of the way - The Verge",
-      "description": "Microsoft is testing a new feature that lets you move hardware indicator pop-ups out of the way in Windows 11.",
-      "url": "https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/indicator-top-left.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-06-24T09:16:58Z",
-      "content": "The latest test build of Windows 11 also includes a new Recall homepage.\r\nMicrosoft is testing a new feature in Windows 11 that will let you move hardware indicators pop-ups like volume and screen br… [+1386 chars]"
+      "author": "David Pierce",
+      "title": "What a set of knockoff headphones taught me about headphones — and knockoffs - The Verge",
+      "description": "You see links to headphones like the Picun F8 Pros all over the TikTok Shop. So I tested them next to the AirPods Max, to see how they hold up.",
+      "url": "https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257738_Airpods_Max_vs_Dupe_AKrales_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-06-24T13:57:38Z",
+      "content": "What a set of knockoff headphones taught me about headphones and knockoffs\r\nMy Picun F8 Pros are not as good as the AirPods Max. But theyre much cheaper and constantly on sale.\r\nWhat a set of knockof… [+7220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "Microsoft Rivals PSVR2 with Meta Quest 3S Xbox Headset - Push Square",
+      "description": "Out today for £380 / $400",
+      "url": "https://www.pushsquare.com/news/2025/06/microsoft-rivals-psvr2-with-meta-quest-3s-xbox-headset",
+      "urlToImage": "https://images.pushsquare.com/799c3b08ad023/large.jpg",
+      "publishedAt": "2025-06-24T13:28:09Z",
+      "content": "Microsoft has announced that it's dipping its toes into the VR space by teaming up with Meta to create an Xbox-branded Meta Quest 3S headset.\r\nThis is a limited edition offered by the two companies a… [+1701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamingonlinux.com"
+      },
+      "author": "Liam Dawe",
+      "title": "REMATCH is the perfect competitive game for Steam Deck - GamingOnLinux",
+      "description": "I've been after a competitive game for a while for the Steam Deck and it certainly looks like REMATCH fits the bill.",
+      "url": "https://www.gamingonlinux.com/2025/06/rematch-is-the-perfect-competitive-game-for-steam-deck/.",
+      "urlToImage": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2011072609id27065gol.jpg",
+      "publishedAt": "2025-06-24T11:59:43Z",
+      "content": "I've been after a competitive game for a while for the Steam Deck and it certainly looks like REMATCH fits the bill.\r\nThe problem with a lot of online competitive games is the anti-cheat situation fo… [+2639 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seroundtable.com"
+      },
+      "author": "Barry Schwartz",
+      "title": "Google Expands AI Mode To India In Search Labs - Search Engine Roundtable",
+      "description": "Google has made its first expansion of AI Mode outside of the US by announcing AI Mode is now available in Search Labs for those based in India. As you know, AI Mode is fully live, outside of Search L",
+      "url": "https://www.seroundtable.com/google-expands-ai-mode-to-india-39643.html",
+      "urlToImage": "https://images.seroundtable.com/google-india-robot-on-phone-1750759245.jpg",
+      "publishedAt": "2025-06-24T11:41:00Z",
+      "content": "Google has made its first expansion of AI Mode outside of the US by announcing AI Mode is now available in Search Labs for those based in India. As you know, AI Mode is fully live, outside of Search … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "author": "Justin Kahn",
+      "title": "Amazon offers the 24GB M3 MacBook Air at $450 off the list price right now ($200+ under the M4 model) - 9to5Toys",
+      "description": "While you’re not going to find this particularly notable deal on all of the colors, and it’s certainly not the new M4 model, we wanted to shine a light on the 24GB silver M3 MacBook Air this morning. Amazon is now offering the 15-inch version of this configur…",
+      "url": "http://9to5toys.com/2025/06/24/amazon-24gb-m3-macbook-air/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/06/MacBook-Air-M3-15-inch-deals.jpg?resize=1200%2C628&ssl=1",
+      "publishedAt": "2025-06-24T10:43:50Z",
+      "content": "While youre not going to find this particularly notable deal on all of the colors, and its certainly not the new M4 model, we wanted to shine a light on the 24GB silver M3 MacBook Air this morning. A… [+2301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "PJ O'Reilly",
+      "title": "\"One Of The Slowest Modern LCDs I've Ever Seen\" - Digital Foundry's John Linneman On Switch 2's Display - Nintendo Life",
+      "description": "\"About 3 times slower than the original Steam Deck LCD\"",
+      "url": "https://www.nintendolife.com/news/2025/06/one-of-the-slowest-modern-lcds-ive-ever-seen-digital-foundrys-john-linneman-on-switch-2s-display",
+      "urlToImage": "https://images.nintendolife.com/1fbd80acc0dfd/large.jpg",
+      "publishedAt": "2025-06-24T10:30:30Z",
+      "content": "@elpardo1984 What I am trying to explain is that you cannot adjust both the HDR Darkness and Brightness on an LCD panel, especially on the Switch 2, which is just a cheap side lit LCD panel. Unless y… [+2258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "See full bio",
+      "title": "Your iPhone Can Be Used as a Digital Driver's License, but Only in These States So Far - CNET",
+      "description": "You might only need an iPhone to fly if you live in states that support digital identify verification.",
+      "url": "https://www.cnet.com/tech/mobile/your-iphone-can-now-hold-a-digital-drivers-license-here-are-the-states-that-let-you-do-it/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8d3315f51ee0bcc753caae223161f428468978a0/hub/2024/09/19/9371eabb-92cb-4247-bd3c-f969e404fe7a/apple-wallet-drivers-licenses-california-inline-jpg-large-2x.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-06-24T10:01:11Z",
+      "content": "Apple Wallet on your iPhone has made some physical items like concert tickets or boarding passes unnecessary -- just swipe your iPhone and off you go. Now Apple is looking to make physical wallets ob… [+5072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "Priom",
+      "title": "Best Pokémon GO Fest Global 2025 Spawns, Shinies and Pokémon to Catch (Raid & PvP Guide) - Pokémon GO Hub",
+      "description": "Global GO Fest 2025 features over 50 meta-relevant spawns, with new shiny debuts, regional Pokémon, and more. Here are the ones worth catching for PvP, raids, and shiny hunters.  ✅ Best Pokémon to Catch at Global GO Fest 2025 In the wild: Best catches at Glob…",
+      "url": "https://pokemongohub.net/post/guide/pokemon-go-fest-global-2025-top-spawns-shinies-best-pokemon-to-catch-raid-pvp-guide/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/03/pokemon-go-fest-2025-global.jpg",
+      "publishedAt": "2025-06-24T09:14:01Z",
+      "content": "Global GO Fest 2025 features over 50 meta-relevant spawns, with new shiny debuts, regional Pokémon, and more. Here are the ones worth catching for PvP, raids, and shiny hunters. \r\n Best Pokémon to Ca… [+14253 chars]"
     },
     {
       "source": {
@@ -291,132 +720,15 @@
     {
       "source": {
         "id": null,
-        "name": "Supercarblondie.com"
+        "name": "Inc."
       },
-      "author": null,
-      "title": "Lexus’ 900 hp LFR spotted hunting AMGs on California’s Angeles Crest highway - supercarblondie.com",
-      "description": "Lexus’ upcoming flagship sports car, the Lexus LFR, has been spotted testing on public roads in the US, seen alongside a Mercedes-AMG GTR",
-      "url": "https://supercarblondie.com/lexus-lfr-spotted-hunting-amgs-on-californias-angeles-crest-highway/",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/Copy-13.webp",
-      "publishedAt": "2025-06-24T06:58:00Z",
-      "content": "Lexus upcoming flagship sports car, the Lexus LFR, has been spotted testing on public roads in the US.\r\nThe prototype was filmed on the Angeles Crest Highway in California, giving the public a first … [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Google introduces AI mode to users in India - TechCrunch",
-      "description": "Google introduced its AI mode, a Q&A-style search tool, to users in India today. The company said that this tool is still in the experimental stage",
-      "url": "https://techcrunch.com/2025/06/23/google-introduces-ai-mode-to-users-in-india/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-      "publishedAt": "2025-06-24T05:40:04Z",
-      "content": "Google introduced its AI mode, a Q&amp;A-style search tool, to users in India today. The company said that this tool is still in the experimental stage and users will need to opt in to it through Sea… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Two-versus-two tag-team fighting game Saturday AM: Battle Manga announced - Gematsu",
-      "description": "Son Studios, the studio behind the upcoming anime-inspired arena fighting game Netcode Warriors, have announced Saturday AM: Battle Manga, a two-versus-two tag-team fighting game featuring characte…",
-      "url": "https://www.gematsu.com/2025/06/two-versus-two-tag-team-fighting-game-saturday-am-battle-manga-announced",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/06/Saturday-AM-Ann_06-23-25_001.jpg",
-      "publishedAt": "2025-06-24T04:45:09Z",
-      "content": "Son Studios, the studio behind the upcoming anime-inspired arena fighting game Netcode Warriors, have announcedSaturday AM: Battle Manga, a two-versus-two tag-team fighting game featuring characters … [+1972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Alessandro Barbosa",
-      "title": "Death Stranding 2's Performance Is Exemplary On Both PS5 And PS5 Pro - Report - GameSpot",
-      "description": "Death Stranding 2 is yet another eye-catching exclusive that shows off not only the power of the PS5 Pro, but the base PS5 too.",
-      "url": "https://www.gamespot.com/articles/death-stranding-2s-performance-is-exemplary-on-both-ps5-and-ps5-pro-report/1100-6532643/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15853545/4519295-death-stranding-2-on-the-beach.png",
-      "publishedAt": "2025-06-23T19:57:01Z",
-      "content": "Death Stranding was visually arresting when it launched on PS4, taking Guerrilla's Decima Engine and applying it in ways not explored by the studio's Horizon series. With the sequel, Kojima Productio… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch",
-      "description": "These are not likely the final adjustments, given that iOS 26 doesn't launch publicly until the fall. However, they are indications that Apple is actively listening to early user feedback and making tweaks accordingly.",
-      "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609.jpg?resize=1200,675",
-      "publishedAt": "2025-06-23T19:54:29Z",
-      "content": "With Monday’s release of iOS 26 Beta 2, Apple has fixed one of the more glaring issues with Liquid Glass, its divisive new user interface design for the iPhone, iPad, and other Apple devices, announc… [+2053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Vikki Blake",
-      "title": "MindsEye developer confirms layoffs as it \"focuses on updates and performance optimization for MindsEye\" - GamesIndustry.biz",
-      "description": "MindsEye developer Build a Rocket Boy has confirmed it has \"had to make the painful decision\" to lay off staff.",
-      "url": "https://www.gamesindustry.biz/mindseye-developer-confirms-layoffs-as-it-focuses-on-updates-and-performance-optimization-for-mindseye",
-      "urlToImage": "https://assetsio.gnwcdn.com/mindseye-key.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2025-06-23T19:09:18Z",
-      "content": "MindsEye developer Build a Rocket Boy has confirmed it has \"had to make the painful decision\" to lay off staff.\r\nThe studio's inaugural title was met unfavorably by both critics and players alike, wi… [+2070 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Google brings new Gemini features to Chromebooks, debuts first on-device AI - Ars Technica",
-      "description": "Google is bringing its AI obsession to Chrome OS.",
-      "url": "https://arstechnica.com/google/2025/06/google-brings-new-gemini-features-to-chromebooks-debuts-first-on-device-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg",
-      "publishedAt": "2025-06-23T16:56:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Meet Google Martha, the company's Android XR smart glasses prototype - Android Authority",
-      "description": "Google showed off its prototype Android XR smart glasses at Google I/O 2025, and now we finally learn its name: Google Martha.",
-      "url": "https://www.androidauthority.com/google-martha-android-xr-smart-glasses-prototype-3570020/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/Google-Android-XR-smart-glasses-prototype-Google-Martha.jpg",
-      "publishedAt": "2025-06-23T14:21:08Z",
-      "content": "<ul><li>Google demoed its Android XR smart glasses prototype at Google I/O 2025.</li><li>We now learn that this Android XR prototype is called Google Martha.</li><li>Its companion app handles connect… [+2371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon GO Hub"
-      },
-      "author": "kittypokemonsalot",
-      "title": "Pokémon GO Fest 2025: Ultra Unlock, habitat times, and more details! - Pokémon GO Hub",
-      "description": "Trainers, get hyped! More info has been shared about the upcoming Pokémon GO Fest 2025: Global, as well as news of the Ultra Unlock and what it brings. Date & Time 📅 Pokémon GO Fest 2025: Global takes place wherever you are in the world during the following …",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-2025-ultra-unlock-habitat-times-and-more-details/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/03/pokemon-go-fest-2025-global.jpg",
-      "publishedAt": "2025-06-23T13:14:56Z",
-      "content": "Trainers, get hyped! More info has been shared about the upcoming Pokémon GO Fest 2025: Global, as well as news of the Ultra Unlock and what it brings.\r\nDate &amp; Time \r\nPokémon GO Fest 2025: Global… [+3960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Latenighter.com"
-      },
-      "author": "Nick Riccardo",
-      "title": "Apple Pulls Ad Campaign Fronted By SNL Star Just One Day After Its Debut - LateNighter",
-      "description": "Saturday Night Live writer/performer Martin Herlihy’s latest on-screen gig was short-lived.",
-      "url": "https://latenighter.com/news/apple-pulls-ad-campaign-fronted-by-snl-star-just-one-day-after-its-debut/",
-      "urlToImage": "https://latenighter.com/wp-content/uploads/2025/06/Martin-Herlihy-for-Apple.png",
-      "publishedAt": "2025-06-23T13:01:50Z",
-      "content": "Saturday Night Live writer/performer Martin Herlihys latest on-screen gig was short-lived.\r\nThe Please Dont Destroy member starred in a new Apple back-to-school campaign aimed at college-bound teensb… [+2217 chars]"
+      "author": "Jason Aten",
+      "title": "Apple Just Responded to Intense Criticism Over the ‘Liquid Glass’ Finder Icon In the Most Apple Way - Inc.com",
+      "description": "Apple reversed one of its most controversial design changes.",
+      "url": "https://www.inc.com/jason-aten/apple-just-responded-to-intense-criticism-over-the-liquid-glass-finder-icon-in-the-most-apple-way/91205836",
+      "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/06/apple_liquid_glass_finder_icon.png",
+      "publishedAt": "2025-06-24T08:22:00Z",
+      "content": "As a general rule, you shouldnt install beta versions of new Apple software on devices you depend on. If you do, you should do so with the understanding that this is, well, beta software, which means… [+5203 chars]"
     }
   ]
 }
