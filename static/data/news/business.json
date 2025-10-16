@@ -1,58 +1,84 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 57,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Meridith McGraw, WSJ Staff, Matt Grossman, Alexander Saeedy, AnnaMaria Andriotis, Kirk Maltais, Lingling Wei, Jack Pitcher, Gavin Bade, Brian Schwartz",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Edge Higher; Gold Hits Another High — Live Updates - The Wall Street Journal",
+      "description": "Trump’s tariffs continue to affect the global economy. Follow along for live updates on the Dow, S&P 500, Nasdaq and other markets.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2025",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "publishedAt": "2025-10-15T20:33:00Z",
+      "content": "U.S. stocks pared gains Wednesday afternoon, after another round of strong bank earnings.\r\nShares of Bank of America and Morgan Stanley jumped on their better-than-expected results, highlighted by bi… [+1004 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Thousands of customers imperiled after nation-state ransacks F5’s network - Ars Technica",
+      "description": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+      "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-2560x1440.jpg",
+      "publishedAt": "2025-10-15T20:05:39Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Michael Wayland",
-      "title": "Jeep parent Stellantis announces $13 billion U.S. investment plan - CNBC",
-      "description": "Stellantis plans to invest $13 billion in U.S. auto manufacturing operations over the next four years, as the company executes a turnaround under CEO Antonio Filosa.",
-      "url": "https://www.cnbc.com/2025/10/14/stellantis-investment-turnaround.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177269-1753465970093-gettyimages-2208317409-AUTO_TARIFFS.jpeg?v=1760475933&w=1920&h=1080",
-      "publishedAt": "2025-10-14T21:08:23Z",
-      "content": "DETROIT Stellantis, the parent company of Chrysler, Jeep and other auto brands, plans to invest $13 billion in U.S. manufacturing operations over the next four years, as the company executes a domest… [+2962 chars]"
+      "author": "Leslie Josephs",
+      "title": "United Airlines' summer earnings and profit outlook top estimates, but revenue falls short - CNBC",
+      "description": "United Airlines said it expects per-share adjusted earnings of $3 to $3.50 for the fourth quarter.",
+      "url": "https://www.cnbc.com/2025/10/15/united-airlines-ual-3q-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108026853-1724879553478-gettyimages-2167475948-san_diego_airplaines_ka_034.jpeg?v=1742314420&w=1920&h=1080",
+      "publishedAt": "2025-10-15T20:02:17Z",
+      "content": "United Airlines on Wednesday forecast higher-than-expected earnings for the fourth quarter after a rocky start to 2025.\r\nThe carrier expects to earn between $3 and $3.50 a share for the last three mo… [+2401 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Joel Leon, Alexandra Semenova, Natalia Kniazhevich",
-      "title": "US Stocks Tumble as China Retaliation Raises Trade War Stakes - Bloomberg.com",
-      "description": "Stocks closed lower on Tuesday, in a session that offered a taste of the volatility that dip-buyers will likely face if trade tensions between the US and China keep rising.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-14/us-stocks-tumble-as-china-retaliation-raises-trade-war-stakes",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8_7xzJNdJMg/v1/1200x674.jpg",
-      "publishedAt": "2025-10-14T21:04:03Z",
-      "content": "Stocks closed lower on Tuesday, in a session that offered a taste of the volatility that dip-buyers will likely face if trade tensions between the US and China keep rising. \r\nThe S&amp;P 500 ended do… [+329 chars]"
+      "author": "Luke Fountain",
+      "title": "CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation - CNBC",
+      "description": "Speaking at CNBC's Invest in America Forum, the CEOs said the U.S. still leads in many sectors, but inconsistent policy and underinvestment is ceding ground.",
+      "url": "https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212614-1760554936731-Scharf_Bourla.jpg?v=1760555118&w=1920&h=1080",
+      "publishedAt": "2025-10-15T19:31:30Z",
+      "content": "Wells Fargo CEO Charlie Scharf and Pfizer CEO Albert Bourla sounded the alarm Wednesday over the potential for the the U.S. to lose its competitive edge to China, but said artificial intelligence cou… [+2926 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Christopher Rugaber",
-      "title": "Slowdown in US hiring suggests economy still needs rate cuts, Fed’s Powell says - AP News",
-      "description": "Federal Reserve Chair Jerome Powell says that a sharp slowdown in hiring poses a growing risk to the U.S. economy. Powell's comments Tuesday suggest that the Fed will likely cut its key interest rate twice more this year. Powell said in written remarks that d…",
-      "url": "https://apnews.com/article/inflation-powell-fed-employment-interest-rates-e9dc73418ebfc7ed2ed2bed291dffa76",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a699a3f/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F37%2F4d11c81f00680baaeb85ba846836%2Fbd99fe3f73a64692a9ab4b35415f5717",
-      "publishedAt": "2025-10-14T20:20:00Z",
-      "content": "WASHINGTON (AP) A sharp slowdown in hiring poses a growing risk to the U.S. economy, Federal Reserve Chair Jerome Powell said Tuesday, a sign that the Fed will likely cut its key interest rate twice … [+4310 chars]"
+      "author": "Jeff Cox",
+      "title": "Tariffs are pushing prices higher and consumers are feeling the hit, Fed's Beige Book shows - CNBC",
+      "description": "Companies are caught between absorbing the costs or passing them onto customers, according to a Federal Reserve report.",
+      "url": "https://www.cnbc.com/2025/10/15/tariffs-are-pushing-prices-higher-and-consumers-are-feeling-the-hit-feds-beige-book-shows.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209398-1759936947435-gettyimages-2239409073-US_RETAIL_SALES.jpeg?v=1759937030&w=1920&h=1080",
+      "publishedAt": "2025-10-15T18:40:50Z",
+      "content": "President Donald Trump's tariffs are pushing inflation generally higher as companies are caught between absorbing the costs or passing them onto customers, according to a Federal Reserve report Wedne… [+2105 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Investor's Business Daily"
       },
-      "author": "Aimee  Picchi",
-      "title": "Government shutdown delays Social Security's cost-of-living announcement. Here's what to know. - CBS News",
-      "description": "Citing the shutdown, the Social Security Administration postponed its announcement of the annual payment bump beneficiaries will receive in 2026.",
-      "url": "https://www.cbsnews.com/news/social-security-cola-government-shutdown-october-2025/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/28/31d90b65-9fb7-49c2-b8c3-677b17926797/thumbnail/1200x630/04d50f156e79a847d7b324e298340284/gettyimages-1649618094.jpg",
-      "publishedAt": "2025-10-14T19:59:56Z",
-      "content": "The Social Security Administration's annual announcement setting next year's cost-of-living adjustment, or COLA, will be delayed because of the government shutdown, the agency said.\r\nEach year, the S… [+3227 chars]"
+      "author": "PATRICK SEITZ, Investor's Business Daily",
+      "title": "Nvidia Stock Wavers After Latest Data Center Deal - Investor's Business Daily",
+      "description": "Nvidia stock wavered Wednesday after the AI chip leader garnered additional business from British data center operator Nscale.",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-rebounds-nscale-data-center-deal/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Nvidia-BlackwellFamily-company.jpg",
+      "publishedAt": "2025-10-15T18:33:00Z",
+      "content": "Nvidia (NVDA) stock wavered Wednesday after the artificial-intelligence chip leader garnered additional business from British data center operator Nscale.\r\nNscale announced that it will provide about… [+2786 chars]"
     },
     {
       "source": {
@@ -60,12 +86,454 @@
         "name": "Associated Press"
       },
       "author": "Dee-Ann Durbin",
-      "title": "Beyond Meat shares drop below $1 on investor concerns - AP News",
-      "description": "Beyond Meat’s shares were trading below $1 Tuesday as investors fretted over the company’s plans to cut its debt by issuing more shares. It was further bad news for the plant-based meat maker, which has been struggling with weak demand for its burgers, sausag…",
-      "url": "https://apnews.com/article/beyond-meat-plantbased-debt-investors-shares-e20d41941eb90e208b0d55c7d688a46b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9db3f12/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F84%2Fb9276b020afee1b88abe4469091d%2F1fe72a850e68406f8344cb3b2c3bdaa5",
-      "publishedAt": "2025-10-14T19:45:00Z",
-      "content": "Beyond Meats shares were trading below $1 Tuesday as investors fretted over the companys plans to cut its debt by issuing more shares.\r\nIt was further bad news for the plant-based meat maker, which h… [+2076 chars]"
+      "title": "Smucker sues Trader Joe’s, saying its new PB&J sandwiches are too similar to Uncrustables - AP News",
+      "description": "J.M. Smucker is suing Trader Joe’s, saying its new frozen peanut butter and jelly sandwiches are too similar to Smucker’s Uncrustables in their design and packaging. In the lawsuit, which was filed Monday in federal court in Ohio, Smucker said Trader Joe’s ro…",
+      "url": "https://apnews.com/article/smucker-trader-joes-uncrustables-lawsuit-9472334ea0fbcbb8630980a56b208145",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6277c7f/2147483647/strip/true/crop/3660x2059+0+191/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fba%2F98c19b7f80f4e15390acc509466b%2F280219dd1093468eb416f2cf897bbc44",
+      "publishedAt": "2025-10-15T18:13:00Z",
+      "content": "The J.M. Smucker Co. is suing Trader Joes, alleging the grocery chains new frozen peanut butter and jelly sandwiches are too similar to Smuckers Uncrustables in their design and packaging.\r\nIn the la… [+3507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Emily Bary, Britney Nguyen",
+      "title": "AMD’s stock just keeps climbing — and it all comes down to this factor - MarketWatch",
+      "description": "Analysts are cheering the increased revenue visibility that comes from AMD’s newly announced deals and that shifts the paradigm for what can be expected starting in 2027",
+      "url": "https://www.marketwatch.com/story/amds-stock-just-keeps-climbing-and-it-all-comes-down-to-this-factor-cf2032d0",
+      "urlToImage": "https://images.mktw.net/im-15499879/social",
+      "publishedAt": "2025-10-15T17:44:00Z",
+      "content": "Advanced Micro Devices Inc. shares are leading Nasdaq-100 gainers on Wednesday, with one analyst cheering the companys game-changing narrative that could propel the stock even higher. \r\nHeading into … [+326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Jordan Perkins",
+      "title": "Some protein powders, shakes contain high lead levels: Report - NewsNation",
+      "description": "Out of 23 brands tested, researchers found that more than two-thirds contained more lead in a single serving than is considered safe to ingest in a day.",
+      "url": "https://www.newsnationnow.com/health/protein-powders-shakes-contain-high-lead-levels-report/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2021/10/GettyImages-155387152.jpg?w=1280",
+      "publishedAt": "2025-10-15T17:31:05Z",
+      "content": "(NewsNation) A new report out shows that some popular protein powders and shakes on the market contain unsafe levels of lead and other metals.\r\nIn findings published by Consumer Reports, the team ana… [+2547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anthropic.com"
+      },
+      "author": null,
+      "title": "Introducing Claude Haiku 4.5 - Anthropic",
+      "description": "Claude Haiku 4.5, our latest small model, is available today to all users.",
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "urlToImage": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadBolt&backgroundColor=clay",
+      "publishedAt": "2025-10-15T16:58:33Z",
+      "content": "Claude Haiku 4.5, our latest small model, is available today to all users.\r\nWhat was recently at the frontier is now cheaper and faster. Five months ago, Claude Sonnet 4 was a state-of-the-art model.… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Charlotte Observer"
+      },
+      "author": "Catherine Muccigrosso",
+      "title": "New details emerge in LendingTree CEO’s death in ATV crash on NC family farm - Charlotte Observer",
+      "description": "Doug Lebda, 55, founder and CEO of LendingTree, was found dead after an ATV accident at his 227-acre Mill Springs property in Polk County, North Carolina.",
+      "url": "https://www.charlotteobserver.com/news/business/article312511305.html",
+      "urlToImage": "https://www.charlotteobserver.com/public/latest-news/3hzrh7/picture210138939/alternates/LANDSCAPE_1140/IMG_IMG_IMG_IMG_8955_4_1_3_1_PTDJLUGM_L385108526.JPG",
+      "publishedAt": "2025-10-15T16:36:00Z",
+      "content": "Business\r\nLendingTree CEO and chairman Doug Lebda was alone when he was killed in an all-terrain vehicle accident on the family farm in western North Carolina, according to an incident report about h… [+4267 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Daniel Flatley, Kamil Kowalcze",
+      "title": "Bessent Sees ‘Fulsome’ Global Response to China on Rare Earths - Bloomberg.com",
+      "description": "Finance chiefs from the Group of Seven industrial nations will consider a joint response to discourage China’s planned move to control the global supply of rare earths, officials said on Wednesday.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/bessent-sees-fulsome-global-response-to-china-on-rare-earths",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQY9trLH1Ufc/v1/1200x800.jpg",
+      "publishedAt": "2025-10-15T15:58:49Z",
+      "content": "Finance chiefs from the Group of Seven industrial nations will consider a joint response to discourage Chinas planned move to control the global supply of rare earths, officials said on Wednesday.\r\nG… [+260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "ASML Earnings Are Good Enough to Lift the Stock Despite Sales Miss. Here’s Why. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/asml-earnings-stock-price-f37e0e9d",
+      "urlToImage": null,
+      "publishedAt": "2025-10-15T15:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Daniel Flatley",
+      "title": "Bessent Floats Longer Tariff Truce for China Rare Earth Deal - Bloomberg.com",
+      "description": "Treasury Secretary Scott Bessent proposed a longer pause on high US tariffs on Chinese goods in return for Beijing putting off its recently announced plan to tighten limits on critical rare earths.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/bessent-floats-longer-tariff-truce-for-china-rare-earth-delay",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icb24zD6KidU/v0/1200x800.jpg",
+      "publishedAt": "2025-10-15T15:27:28Z",
+      "content": "Treasury Secretary Scott Bessent proposed a longer pause on high US tariffs on Chinese goods in return for Beijing putting off its recently announced plan to tighten limits on critical rare earths.\r\n… [+377 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Tech Desk",
+      "title": "Goldman Sachs to employees in memo: Expect more rounds of job cuts, ‘it’s become increasingly clear that… - The Times of India",
+      "description": "Tech News News: Goldman Sachs is preparing for another round of job cuts before year-end, aiming to achieve further savings and leverage efficiencies from artificial",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/goldman-sachs-to-employees-in-memo-expect-more-rounds-of-ai-led-job-cuts-its-become-increasingly-clear-that/articleshow/124583565.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-124583581,width-1070,height-580,imgsize-38076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-15T15:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Sam Altman greenlights erotica for ChatGPT — months after boasting he didn’t add a ‘sex bot’ - New York Post",
+      "description": "Altman said OpenAI plans to “safely relax the restrictions” on ChatGPT now that engineers have built new safeguards around mental health content.",
+      "url": "https://nypost.com/2025/10/15/business/sam-altman-greenlights-erotica-for-chatgpt-after-boasting-he-didnt-add-a-sex-bot/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/113507166.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-10-15T14:37:00Z",
+      "content": "OpenAI boss Sam Altman said ChatGPT will soon be allowed to engage in erotic chats with adults despite continuing concerns over child safety and the tech mogul’s recent boast that the artificial inte… [+5228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Tabby Kinder",
+      "title": "US approves new bank backed by billionaires with ties to Donald Trump - Financial Times",
+      "description": "Target market for Erebor will be businesses that are part of America’s ‘innovation economy’",
+      "url": "https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F942fddd0-f9f8-42af-ae9d-a38b8e17f4ee.jpg?source=next-barrier-page",
+      "publishedAt": "2025-10-15T14:11:26Z",
+      "content": "was $755now $719 for your first year\r\nGet Premium &amp; FT Weekend Print edition for the price of Premium. Complete digital access to quality analysis and expert insights, complemented with our award… [+338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "William Gavin",
+      "title": "Tesla has big robotaxi ambitions, and now Waymo may be shifting its approach - MarketWatch",
+      "description": "Waymo has a reputation for moving deliberately in its autonomous-driving rollout. Now it’s picking up speed as the market looks to get more competitive.",
+      "url": "https://www.marketwatch.com/story/tesla-has-big-robotaxi-ambitions-and-now-waymo-may-be-shifting-its-approach-2e1181aa",
+      "urlToImage": "https://images.mktw.net/im-30973683/social",
+      "publishedAt": "2025-10-15T14:04:00Z",
+      "content": "Waymo has led the way in the rollout of autonomous ride-hailing services while also taking its time to progress between milestones. But with Tesla Inc. on its tail, the company is now getting more ag… [+351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Britney Nguyen",
+      "title": "One of the last holdouts on Nvidia’s stock now predicts 78% upside. Here’s the thesis. - MarketWatch",
+      "description": "HSBC analysts now think Nvidia has the potential to vastly exceed Wall Street expectations for data-center revenue as the company’s customer base broadens",
+      "url": "https://www.marketwatch.com/story/one-of-the-last-holdouts-on-nvidias-stock-now-predicts-78-upside-heres-the-thesis-24dcb911",
+      "urlToImage": "https://images.mktw.net/im-18676505/social",
+      "publishedAt": "2025-10-15T13:13:00Z",
+      "content": "One of the last holdouts among sell-side analysts just upgraded Nvidia Corp. shares to buy, predicting more upside for the stock at the center of the artificial-intelligence race. \r\nWhat will drive t… [+213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow Jones Index Rises 200 Points As Nvidia Stock Rebounds (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones Index saw volatile action Wednesday as the U.S. and China exchanged new trade war maneuvers.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-asml-bac/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/Stock-RollerCoaster-01-adobe.jpg",
+      "publishedAt": "2025-10-15T12:54:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shawn Henry",
+      "title": "Governor Newsom Signs CARS Act, Transforming Auto Sales in California - Yahoo! Autos",
+      "description": "California car buyers will soon enjoy stronger consumer protections thanks to a sweeping new law signed by Governor Gavin Newsom this week. The California...",
+      "url": "https://autos.yahoo.com/policy-and-environment/articles/governor-newsom-signs-cars-act-121349279.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WhJVmEkLjwllVkMnpVgHLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_auto_wire_articles_747/bc06da3a4d90e7d062a54b610c03df9b",
+      "publishedAt": "2025-10-15T12:13:49Z",
+      "content": "California car buyers will soon enjoy stronger consumer protections thanks to a sweeping new law signed by Governor Gavin Newsom this week. The California Combating Auto Retail Scams (CARS) Act, part… [+2031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Morganstanley.com"
+      },
+      "author": null,
+      "title": "Morgan Stanley Reports Third Quarter 2025 - Morgan Stanley",
+      "description": "Morgan Stanley Reports Third Quarter 2025",
+      "url": "https://www.morganstanley.com/press-releases/morgan-stanley-reports-third-quarter-2025",
+      "urlToImage": "https://www.morganstanley.com/content/dam/msdotcom/newsroom/tw-morganstanley.jpg",
+      "publishedAt": "2025-10-15T11:29:06Z",
+      "content": "A conference call to discuss the results will be held on October 15, 2025, at 9:30 a.m. (ET).\r\nBoth live and on-demand versions of the webcast will be available on www.morganstanley.com in the Invest… [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Barbara Kollmeyer",
+      "title": "‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now. - MarketWatch",
+      "description": "Oaktree co-founder says U.S. investors are ‘maybe complacent’",
+      "url": "https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960",
+      "urlToImage": "https://images.mktw.net/im-572749/social",
+      "publishedAt": "2025-10-15T11:00:00Z",
+      "content": "The direction is upward for stocks on Wednesday, driven by some optimism around Fed rate cuts, as investors continue fielding rumblings on the U.S.-China trade front.\r\nTaking a step back is our \r\ncal… [+184 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Eleanor Pringle",
+      "title": "Powell says exactly what Wall Street wants to hear as Trump provokes soybean battle with China - Fortune",
+      "description": "Investors heard enough of what they wanted to remain bullish on further cuts.",
+      "url": "https://fortune.com/2025/10/15/fed-powell-policy-hints-wall-street-upside-trump-china-soy/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2240613206-e1760522361272.jpg?resize=1200,600",
+      "publishedAt": "2025-10-15T10:52:24Z",
+      "content": "Jerome Powell calmed the fraying nerves of investors yesterday as he set a more dovish tone than expected on monetary policy and the easing of interest rates. However, the relief for Wall Street may … [+5454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Mike Wendling",
+      "title": "Why big tech's nuclear plans could blow up - BBC",
+      "description": "Eager to find new energy sources to power artificial intelligence, big tech companies are betting on nuclear.",
+      "url": "https://www.bbc.com/worklife/article/20251008-why-big-tech-is-going-nuclear",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m7fr0l.jpg",
+      "publishedAt": "2025-10-15T10:30:46Z",
+      "content": "A report released in April by the International Energy Agency noted that the power demand from data centres, which currently account for around 1.5% of the world's electricity consumption, could doub… [+1127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Son",
+      "title": "Bank of America tops expectations on 43% surge in investment banking revenue - CNBC",
+      "description": "Like its peers, Bank of America's Wall Street businesses helped fuel the quarter's results.",
+      "url": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108102283-1739471176610-gettyimages-2198700230-bank_ceos_228_021325.jpeg?v=1760475643&w=1920&h=1080",
+      "publishedAt": "2025-10-15T10:15:01Z",
+      "content": "Bank of America on Wednesday posted third-quarter results that exceeded analysts' expectations on stronger-than-expected investment banking revenue.\r\nHere's what the company reported:\r\n<ul><li>Earnin… [+1838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Food & Wine"
+      },
+      "author": "Kat Stinson",
+      "title": "What That Teal Pumpkin on Your Neighbor’s Porch Actually Means - Yahoo",
+      "description": "What started as a simple gesture for kids with food allergies has become a global movement for inclusion on Halloween.",
+      "url": "https://www.foodandwine.com/teal-pumpkin-halloween-meaning-11828949",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q4Olu1zKcLMth6U2MtIIuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/food_wine_804/97bdf1aba5d8a3be3518ffd893c0df08",
+      "publishedAt": "2025-10-15T10:01:00Z",
+      "content": "Key Points\r\n<ul><li>The Teal Pumpkin Project helps make Halloween safer and more inclusive by signaling that non-food treats are available for children with food allergies.\r\n</li><li>Founded by Becky… [+4435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just-auto.com"
+      },
+      "author": "GlobalData",
+      "title": "GM to take $1.6bn charge amid EV strategy overhaul - Yahoo Finance",
+      "description": "The loss of the federal EV tax credit has weakened the sales outlook for EVs.",
+      "url": "https://www.just-auto.com/news/gm-charge-amid-ev-strategy/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vCvByzlNbIQP56vb437gUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/just_auto_187/9c65a09442fc007b9973d0113c51a324",
+      "publishedAt": "2025-10-15T09:36:15Z",
+      "content": "General Motors (GM) has projected a $1.6bn charge in the third quarter as it revises its electric vehicle (EV) strategy in the light of recent US federal policy changes that could hinder demand.\r\nIn … [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "How much can Tesla pay Elon Musk? Delaware's Supreme Court will decide - NPR",
+      "description": "On Wednesday, the Delaware Supreme Court will hear oral arguments in a lawsuit over Tesla's record-setting compensation package for Elon Musk.",
+      "url": "https://www.npr.org/2025/10/15/nx-s1-5567930/elon-musk-tesla-compensation-case-appeal",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3142x1767+0+168/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2F94%2Fb0f39050462fbf5dcc8541cfe0b1%2Fgettyimages-1239416791.jpg",
+      "publishedAt": "2025-10-15T09:00:00Z",
+      "content": "On Wednesday, the Delaware Supreme Court will hear the latest set of arguments in a yearslong legal drama over Tesla CEO Elon Musk's record-setting compensation package.\r\nThe pay package, worth tens … [+7402 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Josie Cox",
+      "title": "Plight of the Trophy Husband: Divorce Rates Go up When Women Earn More - Business Insider",
+      "description": "The data is in: The worst thing a woman can do for her marriage is be the breadwinner.",
+      "url": "https://www.businessinsider.com/troubling-reasons-divorce-rates-women-earn-more-trophy-husband-breadwinners-2025-10",
+      "urlToImage": "https://i.insider.com/68ee71f9cc993f9955d029a6?width=1200&format=jpeg",
+      "publishedAt": "2025-10-15T08:09:00Z",
+      "content": "Kim Dhatt, a 34-year-old recruitment specialist, was in a relationship with her ex-partner for four years. When they first got together, he earned slightly more than she did, and the difference didn'… [+13490 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "FATIMA HUSSEIN Associated Press",
+      "title": "Social Security cost-of-living increase announcement delayed by government shutdown - ABC News - Breaking News, Latest News and Videos",
+      "description": "The ongoing government shutdown has delayed the announcement of the annual Social Security cost-of-living increase",
+      "url": "https://abcnews.go.com/US/wireStory/social-security-cost-living-increase-announcement-delayed-government-126534915",
+      "urlToImage": "https://i.abcnewsfe.com/a/0380d4ac-875b-43f2-b256-ee83b715a6e0/wirestory_cc44750abb0c3a5c2de45626891daa17_16x9.jpg?w=1600",
+      "publishedAt": "2025-10-15T05:28:45Z",
+      "content": "WASHINGTON -- WASHINGTON (AP) The ongoing government shutdown is delaying the announcement of the annual Social Security cost-of-living adjustment for tens of millions of beneficiaries.\r\nOriginally s… [+3869 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Julie Watson",
+      "title": "Trump officials back firm in fight over California offshore oil drilling after huge spill - AP News",
+      "description": "One of California’s worst oil spills occurred off the Santa Barbara coast in 2015, when a corroded pipeline burst. The offshore oil drilling operation was shut down but a young Texas-based fossil fuel company is determined to revive the operation, and it has …",
+      "url": "https://apnews.com/article/california-oil-spill-sable-trump-10d8cdf1301929d7b6af4e8ce515b798",
+      "urlToImage": "https://dims.apnews.com/dims4/default/317e04d/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F78%2F044f44f6562dc1ff18b0a731222e%2F7f5b624ec69f4312931f96fa073c043c",
+      "publishedAt": "2025-10-15T04:05:00Z",
+      "content": "When the corroded pipeline burst in 2015, inky crude spread along the Southern California coast, becoming the states worst oil spill in decades.\r\nMore than 140,000 gallons (3,300 barrels) of oil gush… [+6727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Ortenca Aliaj, Antoine Gara, Arash Massoudi, James Fontanella-Khan",
+      "title": "Top US financiers sound alarm on lending standards - Financial Times",
+      "description": "Apollo’s Marc Rowan warns of ‘willingness to cut corners’",
+      "url": "https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcdebeb31-929f-45f3-96b6-65e6cc15f292.jpg?source=next-barrier-page",
+      "publishedAt": "2025-10-15T04:00:46Z",
+      "content": "FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li>FT Digital Edition: our digitised print edition</li><li>Global… [+201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mission Local"
+      },
+      "author": "Joe Eskenazi",
+      "title": "Marc Benioff exposed himself as craven and hollow. He has company. - Mission Local",
+      "description": "Salesforce CEO's inane call for siccing the National Guard on San Francisco is met with performative inanity",
+      "url": "http://missionlocal.org/2025/10/marc-benioff-national-guard-san-francisco-donald-trump/",
+      "urlToImage": "https://newspack-missionlocal.s3.amazonaws.com/mission/wp-content/uploads/2025/10/Salesforce_CEO_Marc_Benioff_44739768801-scaled.jpg",
+      "publishedAt": "2025-10-15T00:50:49Z",
+      "content": "Sign up below to get Mission Local’s free newsletter, a daily digest of news you won’t find elsewhere.\r\nSalesforce co-founder and CEO Marc Russell Benioff is 61 years old, which is too young to be bl… [+9980 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Katherine Hapgood",
+      "title": "GOP Senators discouraged by Trump’s community development finance firings - Politico",
+      "description": "“I’m hopeful that we can get that turned around,” said Sen. Mike Crapo, a co-chair of the Community Development Financial Institutions caucus.",
+      "url": "https://www.politico.com/live-updates/2025/10/14/congress/gop-senators-discouraged-by-trumps-community-development-finance-firings-00608690",
+      "urlToImage": "https://www.politico.com/dims4/default/e627684/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F6d%2F99%2F993442f44c0d889f9a9fc00c092f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2212767568",
+      "publishedAt": "2025-10-15T00:28:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan  Cerullo",
+      "title": "Furniture tariffs take effect as consumers and businesses share costs - CBS News",
+      "description": "American consumers are expected to pay more than half of the added costs from U.S. tariffs, according to a Goldman Sachs analysis.",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-furniture-lumber-kitchen-cabinets/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/14/153cd40d-9ccb-4279-b1cc-964a19a5f160/thumbnail/1200x630/6c1bd6902d82706c90e1ca9efc3374e7/gettyimages-1443329902.jpg",
+      "publishedAt": "2025-10-14T23:58:00Z",
+      "content": "The Trump administration's new tariffs on imported furniture, kitchen cabinets and other housewares, along with lumber, took effect Tuesday, added costs that economists say could push up prices for c… [+2568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Michelle Lewis",
+      "title": "US, Europe, and China drive global EV boom to record highs - Electrek",
+      "description": "Global EV sales hit 2.1 million in Sept 2025, a record high driven by the US tax credit rush, European incentives, and China’s surge.",
+      "url": "http://electrek.co/2025/10/14/us-europe-china-drive-global-ev-sales-to-record-highs/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/05/Memorial-Day-EV-lease-deals.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-10-14T23:01:00Z",
+      "content": "Global EV sales passed the 2 million mark for the first time in September 2025, according to new data from EV research house Rho Motion here’s how it breaks down.\r\nRho Motions data shows that 2.1 mil… [+3497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gothamist"
+      },
+      "author": "https://gothamist.com/staff/rosemary-misdary",
+      "title": "Power grid operators warn NYC could face increased blackouts as early as next summer - Gothamist",
+      "description": "New reports say power demand could soon exceed supply.",
+      "url": "https://gothamist.com/news/power-grid-operators-warn-nyc-could-face-increased-blackouts-as-early-as-next-summer",
+      "urlToImage": "https://api-prod.gothamist.com/images/353649/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2025-10-14T22:55:00Z",
+      "content": "New York City may struggle to keep the lights on as early as next summer with longer and more frequent power outages, according to reports released this week by the states grid operators.\r\nRising dem… [+3835 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Wyatte Grantham-Philips",
+      "title": "OpenAI partners with Walmart to let users buy products in ChatGPT, furthering chatbot shopping push - AP News",
+      "description": "OpenAI is partnering with Walmart to allow shoppers to make purchases directly within ChatGPT, furthering the artificial intelligence company’s push to turn its chatbot into a virtual merchant as it seeks to boost revenue. On Tuesday, Walmart announced that c…",
+      "url": "https://apnews.com/article/openai-walmart-chatgpt-shopping-partnership-59b72cc5f1a3377b4ada89d035dc1884",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a9275ce/2147483647/strip/true/crop/4413x2482+0+230/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F6a%2F10f11999646fa27d1f4a065307f4%2Fb9521a7f1b2444fb96a21933572e6d51",
+      "publishedAt": "2025-10-14T20:45:00Z",
+      "content": "NEW YORK (AP) OpenAI is partnering with Walmart to let shoppers make purchases directly within ChatGPT, furthering the artificial intelligence companys push to turn its chatbot into a virtual merchan… [+2444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "author": "Wajeeh Khan",
+      "title": "How Much Higher Can Nvidia Take Navitas Semiconductor Stock? - Barchart.com",
+      "description": "Navitas shares soared following a bullish update on its partnership with Nvidia. Here’s how high NVTS stock could fly through the end of 2025.",
+      "url": "https://www.barchart.com/story/news/35443624/how-much-higher-can-nvidia-take-navitas-semiconductor-stock",
+      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Computer%20board%20micro%20chip%20green%20by%20blickpixel%20via%20Pixabay.jpg",
+      "publishedAt": "2025-10-14T20:29:34Z",
+      "content": "Stocks: 1520 minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT. Market Data powered by Barchart Solutions. Fundamental data … [+33 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Kelly Tyko",
+      "title": "GLP-1 craze fuels rise of protein snacks with new Protein Pop-Tarts, Doritos coming - Axios",
+      "description": "PepsiCo and Kellanova are launching protein-packed snacks to meet shifting dietary needs.",
+      "url": "https://www.axios.com/2025/10/14/protein-pop-tarts-doritos-glp-1-trend-snacks",
+      "urlToImage": "https://images.axios.com/hRmhXOmSM-vq7GA6dwsshnY-bRg=/0x0:1920x1080/1366x768/2025/10/14/1760460346742.jpeg",
+      "publishedAt": "2025-10-14T19:34:17Z",
+      "content": "Driving the news: Snack maker Kellanova said Tuesday that Pop-Tarts Protein launch in November, with 10 grams of protein per serving, in strawberry, blueberry and brown sugar cinnamon flavors.\r\n<ul><… [+1761 chars]"
     },
     {
       "source": {
@@ -73,38 +541,12 @@
         "name": "CNN"
       },
       "author": "Ramishah Maruf",
-      "title": "The average cost of a new car tops $50,000 for the first time ever - CNN",
+      "title": "In the market for a new car? Prepare for sticker shock - CNN",
       "description": "New car buyers can expect to shell out an average of more than $50,000 for the first time, according to a report from Kelley Blue Book.",
       "url": "https://www.cnn.com/2025/10/14/business/new-cars-top-fifty-thousand-average",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202686603.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-10-14T19:06:23Z",
       "content": "New car buyers can expect to shell out an average of more than $50,000 for the first time, according to a report from Kelley Blue Book.\r\nThe average price customers paid for a new vehicle in the US w… [+1095 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Goldmansachs.com"
-      },
-      "author": null,
-      "title": "Goldman Sachs Reports 2025 Third Quarter Earnings Per Common Share of $12.25 and Annualized Return on Common Equity of 14.2% - Goldman Sachs",
-      "description": null,
-      "url": "https://www.goldmansachs.com/pressroom/press-releases/2025/2025-10-14-q3-results",
-      "urlToImage": "https://www.goldmansachs.com/images/migrated/media-relations/press-releases/multimedia/200w-800X450.jpg",
-      "publishedAt": "2025-10-14T19:04:28Z",
-      "content": "NEW YORK, October 14, 2025  The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $15.18 billion and net earnings of $4.10 billion for the third quarter ended September 30, 2025. Di… [+1814 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Ina Fried",
-      "title": "OpenAI's Sam Altman says ChatGPT will add erotica for adult users - Axios",
-      "description": "\"As part of our 'treat adult users like adults' principle, we will allow...erotica for verified adults.\"",
-      "url": "https://www.axios.com/2025/10/14/openai-chatgpt-erotica-mental-health",
-      "urlToImage": "https://images.axios.com/lT8HavdRaoIxd9oPTn0UFhYmPd8=/0x0:4178x2350/1366x768/2025/10/14/1760463938341.jpeg",
-      "publishedAt": "2025-10-14T18:31:41Z",
-      "content": "Driving the news: Altman said in an X post that OpenAI plans to allow ChatGPT to have more personality and fulfill previously blocked requests.\r\n<ul><li>\"Now that we have been able to mitigate the se… [+1900 chars]"
     },
     {
       "source": {
@@ -121,42 +563,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "Walmart, IBD Stock Of The Day, Runs Past Buy Point On OpenAI Shopping Partnership - Investor's Business Daily",
-      "description": "Walmart rallied on an OpenAI partnership to let shoppers make purchases via ChatGPT.",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/walmart-stock-openai-chatgpt-shopping-amazon/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/sotd-for-10-14-2025-desktop-1-1.png",
-      "publishedAt": "2025-10-14T18:11:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess, Andy Greenberg",
-      "title": "Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire - WIRED",
-      "description": "Officials in the US and UK have taken sweeping action against “one of the largest investment fraud operations in history,” confiscating a historic amount of funds in the process.",
-      "url": "https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/",
-      "urlToImage": "https://media.wired.com/photos/68ee6c11dc1be629ac9ac0c7/191:100/w_1280,c_limit/GettyImages-958353808.jpg",
-      "publishedAt": "2025-10-14T17:34:00Z",
-      "content": "Over the past five years, criminals behind widespread romance and investment scamsoften inelegantly referred to as pig butcheringhave stolen tens of billions from people around the world. Now law enf… [+2723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Anthony Wood",
-      "title": "NASA lays off 550 employees at Jet Propulsion Laboratory in sweeping 'realignment' of workforce - Space",
-      "description": "NASA's Jet Propulsion Laboratory braces for another round of layoffs as budget cuts loom.",
-      "url": "https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EAmcWUK2dXjUwTgyJuffCg-2560-80.jpg",
-      "publishedAt": "2025-10-14T17:33:55Z",
-      "content": "Approximately 550 employees of NASA's Jet Propulsion Laboratory (JPL) will be laid off, according to an announcement made on the agency's website on Monday (Oct. 13).\r\nThe news comes in the midst of … [+4167 chars]"
+      "author": "Henry Chandonnet",
+      "title": "Reddit cofounder Alexis Ohanian says 'much of the internet is now dead' - Business Insider",
+      "description": "Reddit cofounder Alexis Ohanian said that the internet was less human now, and much more \"botted\" or \"quasi-AI.\"",
+      "url": "https://www.businessinsider.com/alexis-ohanian-much-of-the-internet-is-now-dead-2025-10",
+      "urlToImage": "https://i.insider.com/68ee6de9cc993f9955d028e4?width=1200&format=jpeg",
+      "publishedAt": "2025-10-14T16:41:00Z",
+      "content": "Alexis Ohanian, who helped build Reddit, says he's not thrilled with the state of the internet.\r\nOn Monday's episode of TBPN, Ohanian took a moment to express his admiration for hosts John Coogan and… [+1621 chars]"
     },
     {
       "source": {
@@ -174,45 +590,6 @@
     {
       "source": {
         "id": null,
-        "name": "TribLIVE"
-      },
-      "author": "Justin Vellucci",
-      "title": "Steelers' minority owner killed in ATV accident in North Carolina - TribLIVE.com",
-      "description": "The CEO of a North Carolina corporation, who bought a minority stake in the Pittsburgh Steelers from a Steel City-bred billionaire, died in an all-terrain vehicle crash over the weekend, the business he founded said Monday. Doug Lebda was 55. In a company ann…",
-      "url": "https://triblive.com/sports/steelers-minority-owner-killed-in-atv-accident-in-north-carolina/",
-      "urlToImage": "https://assets-varnish.triblive.com/2025/10/8950453_web1_web-SteelersHelmet.jpg",
-      "publishedAt": "2025-10-14T16:12:00Z",
-      "content": "The CEO of a North Carolina corporation, who bought a minority stake in the Pittsburgh Steelers from a Steel City-bred billionaire, died in an all-terrain vehicle crash over the weekend, the business… [+3059 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Todd Gillespie",
-      "title": "Goldman Sachs Tells Staff It Plans to Cut More Jobs This Year - Bloomberg.com",
-      "description": "Goldman Sachs Group Inc. told staffers to expect an additional round of job cuts this year as the bank seeks further savings across its businesses and takes advantage of the opportunities presented by artificial intelligence.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-14/goldman-sachs-tells-staff-it-plans-to-cut-more-jobs-this-year",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqPt34v8ZJE0/v1/1200x800.jpg",
-      "publishedAt": "2025-10-14T16:10:09Z",
-      "content": "Goldman Sachs Group Inc. told staffers to expect an additional round of job cuts this year as the bank seeks further savings across its businesses and takes advantage of the opportunities presented b… [+250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Leslie Josephs",
-      "title": "Boeing delivers 55 planes in September, on track for most in a year since 2018 - CNBC",
-      "description": "Boeing handed over 55 aircraft in September, putting it on track for most annual deliveries since 2018 as production stabilizes.",
-      "url": "https://www.cnbc.com/2025/10/14/boeing-orders-deliveries-737-max.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108035912-1726674136837-IMG_1673.jpg?v=1726674360&w=1920&h=1080",
-      "publishedAt": "2025-10-14T15:00:01Z",
-      "content": "Boeing delivered 55 aircraft to customers last month, putting it on track for its best year since 2018 as its production stabilizes and its executives eye increased output rates of its 737 Max cash c… [+1321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Common Dreams"
       },
       "author": "https://www.facebook.com/32109457015",
@@ -226,41 +603,54 @@
     {
       "source": {
         "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Midhat Fatimah",
+      "title": "Google to invest $15 billion in India AI data center - DW",
+      "description": "The new data center in India is set to become the biggest AI hub the tech giant will have anywhere outside of the US.",
+      "url": "https://www.dw.com/en/google-to-invest-15-billion-in-india-ai-data-center/a-74345832",
+      "urlToImage": "https://static.dw.com/image/73439758_6.jpg",
+      "publishedAt": "2025-10-14T13:48:32Z",
+      "content": "Google on Tuesday announced that it will invest $15 billion to build a giant data center and artificial intelligence base in India.\r\n\"This investment of approximately $15 billion (USD) over five year… [+1725 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Yuri Kageyama, Matt Ott, The Associated Press",
+      "title": "Nasdaq futures tumble 1.3% premarket as China launches fresh shipping ban, 'signaling it will hit third-country firms that help Washington' - Fortune",
+      "description": "Futures for the S&P 500 lost 1% before the opening bell, while futures for the Dow Jones Industrial Average slid 0.6%.",
+      "url": "https://fortune.com/2025/10/14/nasdaq-futures-premarket-trading-china-south-korean-shipping-ban/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25286531509574-e1760443063440.jpg?resize=1200,600",
+      "publishedAt": "2025-10-14T11:58:00Z",
+      "content": "U.S. markets slumped early Tuesday after Chinese sanctions against the U.S. subsidiaries of a major South Korean shipbuilder shook a fragile sense of calm over trade tensions with Washington.Futures … [+3490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Ryan McMorrow, Andy Bounds, Ben Hall",
+      "title": "Dutch seizure of chipmaker followed US ultimatum over Chinese chief - Financial Times",
+      "description": "Takeover of Nexperia plunges Netherlands into US-China tech war",
+      "url": "https://www.ft.com/content/db019842-01a9-4488-a6a0-45d0e102536b",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40381585-0cda-4a94-90ba-5e08529b6834.jpg?source=next-barrier-page",
+      "publishedAt": "2025-10-14T09:35:14Z",
+      "content": "FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li>FT Digital Edition: our digitised print edition</li><li>Global… [+201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Tipranks.com"
       },
-      "author": "David Craik",
-      "title": "Broadcom Stock (AVGO) Hammered Despite Launching Nvidia Rival Chip Thor Ultra - TipRanks",
-      "description": "Shares in Broadcom ($AVGO) slipped over 3% today despite launching a new Nvidia ($NVDA) rivaling AI network chip. AI Breakthrough The chip, impressively dubbed the ...",
-      "url": "https://www.tipranks.com/news/broadcom-stock-avgo-hammered-despite-launching-nvidia-rival-chip-thor-ultra",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/broadly-750x406.jpg",
-      "publishedAt": "2025-10-14T14:51:35Z",
-      "content": "Story HighlightsAVGO stock is lower despite unveiling a groundbreaking new chip."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "MP Materials, Other Rare-Earth Players Surge, Then Dip. Wall Street Can’t Catch Up With the Stocks. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/mp-materials-stock-rare-earths-rally-4b4ea4f2",
-      "urlToImage": null,
-      "publishedAt": "2025-10-14T14:13:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "BlackRock Regains Buy Point As Revenue Snaps Losing Streak - Investor's Business Daily",
-      "description": "Keefe Bruyette & Woods raised the price target on BlackRock Monday to 1,300 from 1,215. The company's third-quarter earnings report topped views.",
-      "url": "https://www.investors.com/news/blackrock-blk-stock-q3-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/04/Stock-BlackRock-01-adobe.jpg",
-      "publishedAt": "2025-10-14T14:10:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Shalu Saraf",
+      "title": "TSMC Is About to Report Its Q3 Earnings This Week. Here Is What to Expect - TipRanks",
+      "description": "Taiwan Semiconductor Manufacturing ($TSM) or TSMC, the world’s leading contract chip maker, is set to release its full third-quarter earnings results on October 16....",
+      "url": "https://www.tipranks.com/news/tsmc-is-about-to-report-its-q3-earnings-this-week-here-is-what-to-expect",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/tsmc-750x406.jpg",
+      "publishedAt": "2025-10-14T03:17:07Z",
+      "content": ""
     },
     {
       "source": {
@@ -268,206 +658,11 @@
         "name": "The Wall Street Journal"
       },
       "author": "The Wall Street Journal",
-      "title": "JPMorgan’s Profit Jumps as Business Booms on Main Street, Wall Street - The Wall Street Journal",
+      "title": "U.S., China Aim for a Delicate Balancing Act on Trade - The Wall Street Journal",
       "description": null,
-      "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-jpm-q3-earnings-report-stock-2025-ed24eba8",
+      "url": "https://www.wsj.com/world/china/trump-tariffs-us-china-stock-market-e2652d66",
       "urlToImage": null,
-      "publishedAt": "2025-10-14T14:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Albany Times Union"
-      },
-      "author": "Brendan J. Lyons",
-      "title": "NY's electric grid operator warns of looming 'reliability shortfalls' - Times Union",
-      "description": "A second, short-term assessment issued by the operator said that over the next five years there may be “reliability violations” in New York City and Long Island",
-      "url": "https://www.timesunion.com/capitol/article/ny-s-electric-grid-operator-warns-looming-21099820.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/20/21/33/21042907/6/rawImage.jpg",
-      "publishedAt": "2025-10-14T13:58:29Z",
-      "content": "The New York Independent System Operator, which manages the states power grid, issued a new assessment on Tuesday that again warns that there may be significant reliability shortfalls within the next… [+8179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": "Claire Jones, Sam Fleming",
-      "title": "AI investment boom shielding US from sharp slowdown, says IMF - Financial Times",
-      "description": "Fund upgrades outlook for global growth but warns latest trade tensions between Washington and Beijing are a concern",
-      "url": "https://www.ft.com/content/74224d84-8a7a-4d0d-a30d-1716e2d43b7a",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe1943e99-924a-448d-8e5a-b5e1d033fb99.jpg?source=next-barrier-page",
-      "publishedAt": "2025-10-14T13:00:03Z",
-      "content": "FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li>FT Digital Edition: our digitised print edition</li><li>Global… [+201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "Gold Could Hit $5,000, Strategist Says. Why Others Are Worried About a Crash. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/gold-price-futures-5000-gld-etf-29b187d6",
-      "urlToImage": null,
-      "publishedAt": "2025-10-14T12:57:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Christian Shepherd, Lyric Li",
-      "title": "China’s rare-earths power move jolted Trump but was years in the making - The Washington Post",
-      "description": "Beijing’s new export controls on rare earths are designed to force the U.S. to drop its own restrictions on selling advanced computer chips to China, analysts say.",
-      "url": "https://www.washingtonpost.com/world/2025/10/14/us-china-rare-earths-economic-coercion/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3F64NS4FDZ2LMNYQCWBBWKIA.JPG&w=1440",
-      "publishedAt": "2025-10-14T12:33:46Z",
-      "content": "China is wielding its most potent tool of economic coercion its overwhelming dominance of the rare earths needed to make everything from laptops to jet engines in an attempt to extract trade concessi… [+106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Trump tariffs on kitchen cabinets and timber come into force - BBC",
-      "description": "There are concerns the new levies, meant to protect US manufacturers, could raise housing costs.",
-      "url": "https://www.bbc.com/news/articles/ced61d1y6yyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3ad/live/1d8ba0c0-a8f1-11f0-81aa-d17113bfe8f9.jpg",
-      "publishedAt": "2025-10-14T12:27:27Z",
-      "content": "New US tariffs on imported kitchen cabinets, vanities, lumber, timber and certain upholstered furniture have come into effect. \r\nUnder a proclamation signed by President Donald Trump last month, a 10… [+2796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mass Device"
-      },
-      "author": "Sean Whooley",
-      "title": "Johnson & Johnson to separate DePuy Synthes Orthopaedics business - MassDevice",
-      "description": "Johnson & Johnson (NYSE: JNJ) announced today that it intends to separate its DePuy Synthes Orthopaedics business.",
-      "url": "https://www.massdevice.com/johnson-johnson-separate-orthopedics-business/",
-      "urlToImage": "https://www.massdevice.com/wp-content/uploads/2025/10/DePuy-Synthes-Johnson-Johnson-1.jpg",
-      "publishedAt": "2025-10-14T12:03:08Z",
-      "content": "Johnson &amp; Johnson \r\n (NYSE: JNJ)\r\n + announced today that it intends to separate its DePuy Synthes Orthopaedics business.\r\nThe company said the separation aims to enhance the strategic and operat… [+5103 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "Protein Is Showing Up in Doritos, Waffles and Now Even Pop-Tarts - Bloomberg.com",
-      "description": "Log in to your Securly account using your school's Google or Microsoft Azure account.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-14/pop-tarts-rolls-out-protein-versions-following-doritos",
-      "urlToImage": null,
-      "publishedAt": "2025-10-14T11:00:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google to invest $15B in Indian AI infrastructure hub - TechCrunch",
-      "description": "Google's investment in India will roll out over the next five years, through 2030.",
-      "url": "https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-cloud-india-launch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-14T10:51:14Z",
-      "content": "Google is making a $15 billion investment to set up a 1-gigawatt data center and AI hub in India, even as the Indian government pushes for reduced reliance on U.S. tech giants.\r\nOn Tuesday, Google sa… [+3696 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ella Nilsen",
-      "title": "Trump administration quietly canceled the nation’s largest solar project - CNN",
-      "description": "The Trump administration’s cancellation of the largest solar project in the United States has sparked confusion and concern among Republicans and Democrats alike.",
-      "url": "https://www.cnn.com/2025/10/14/climate/trump-solar-project-nevada-electricity",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1558525115.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-10-14T10:00:52Z",
-      "content": "The Trump administrations cancellation of the largest solar project in the United States has sparked confusion and concern among Republicans and Democrats alike.\r\nKnown as the Esmeralda 7, the collec… [+4525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Michael Copley",
-      "title": "Data centers are booming. But there are big energy and environmental risks - NPR",
-      "description": "How tech companies and government officials handle local impacts will shape the industry's future in the U.S.",
-      "url": "https://www.npr.org/2025/10/14/nx-s1-5565147/google-ai-data-centers-growth-environment-electricity",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+325/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F70%2Fe831ae1d4f688f65fb473cc2310e%2Fgettyimages-2224532895.jpg",
-      "publishedAt": "2025-10-14T10:00:00Z",
-      "content": "Google recently courted the township of Franklin, Ind., so that it could construct a giant campus to house the computer hardware that powers its internet business. But the company needed to rezone mo… [+10746 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Sarah Jacob",
-      "title": "China Puts Export Controls on Nexperia After Dutch Takeover - Bloomberg.com",
-      "description": "China is blocking Nexperia from exporting products from the Asian nation after the Dutch government moved to seize control of the chipmaker.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-14/china-puts-export-controls-on-nexperia-after-dutch-takeover",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7Ga5IQ_54D4/v0/1200x800.jpg",
-      "publishedAt": "2025-10-14T09:34:05Z",
-      "content": "China is blocking Nexperia from exporting products from the Asian nation after the Dutch government moved to seize control of the chipmaker.\r\nChina retaliated after the Dutch government invoked a Col… [+242 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN",
-      "title": "Americans are losing millions to scammers at crypto ATMs. Here’s how companies profit - CNN",
-      "description": "Companies often fail to refund money to victims and aggressively fight police to claw back scam money seized from machines.",
-      "url": "https://www.cnn.com/interactive/2025/10/us/crypto-atm-scams-companies-profit-invs-vis/",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-10-13-at-3-29-49-pm.png?c=original",
-      "publishedAt": "2025-10-14T09:18:45Z",
-      "content": "How the companies behind crypto ATMs profit as Americans lose millions to scams\r\nBy Curt Devine, Majlie de Puy Kamp, Yahya Abou-Ghazala, Casey Tolan, Kyung Lah, Amy OKruk, Byron Manley and Eleanor St… [+26905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Morning Brew"
-      },
-      "author": "Molly Liebergall",
-      "title": "This company supplies car parts & 2008 flashbacks - Morning Brew",
-      "description": "First Brands filed for bankruptcy late last month, revealing more than $10 billion in debt and worrying private-credit critics.",
-      "url": "https://www.morningbrew.com/stories/2025/10/14/first-brands-bankruptcy-private-credit",
-      "urlToImage": "https://storage.morningbrew.com/image/2025-10-13/image-1355b0852de8e5387cb3814d63dbabfd43b20b20-1500x1000-jpg/wave_of_bankruptcies.webp",
-      "publishedAt": "2025-10-14T04:04:23Z",
-      "content": "The finance world is on edge because of an auto supplier that youve probably never heard of: First Brands, a midsize maker of spark plugs and other automotive accoutrement, is in the midst of a multi… [+1826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Dow Jones Futures: Trump Tariff Comments Spark Market Gains; Broadcom, Nvidia, Oracle, Tesla Rally - Investor's Business Daily",
-      "description": "Dow Jones futures: Trump tariff comments sparked big stock market gains Monday. Shares of Broadcom, Nvidia, Oracle and Tesla rallied.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-trump-tariff-broadcom-nvidia-oracle-tesla/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
-      "publishedAt": "2025-10-14T02:25:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Information"
-      },
-      "author": "Qianer Liu, Anissa Gardizy",
-      "title": "OpenAI Is Working With SoftBank’s Arm on Broadcom AI Chip Effort - The Information",
-      "description": "OpenAI’s development of its own artificial intelligence chip will benefit SoftBank, one of its biggest shareholders, which is also helping the ChatGPT maker develop and finance its ambitious data center plan. OpenAI is working with SoftBank’s Arm subsidiary t…",
-      "url": "https://www.theinformation.com/articles/openai-working-softbanks-arm-broadcom-ai-chip-effort",
-      "urlToImage": "https://tii.imgix.net/production/articles/15895/e7de9ec2-00be-4622-b7a1-a43fcfa7ac5c.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "publishedAt": "2025-10-13T22:16:00Z",
+      "publishedAt": "2025-10-14T03:06:00Z",
       "content": null
     }
   ]
